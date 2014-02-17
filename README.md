@@ -6,6 +6,14 @@ A [glean](https://github.com/glean/glean) US postal code dataset. This project w
 
 See the [glean documentation](https://github.com/glean/glean#command-line) for usage instructions.
 
+## Contribute
+
+[Fork this project and submit a pull request](http://guides.github.com/overviews/forking/).
+
+## Contributors
+
+* Jonathan Hoyt - [@jonmagic](https://github.com/jonmagic)
+
 ## License
 
 See [LICENSE](https://github.com/jonmagic/us-zip-codes/blob/master/LICENSE)

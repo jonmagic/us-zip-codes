@@ -1,6 +1,6 @@
 # US Postal Codes
 
-A [glean](https://github.com/glean/glean) US postal code dataset. This project was bootstrapped with data from [zip-codes-for-rails](https://github.com/superjustin/zip-codes-for-rails).
+A [glean](https://github.com/glean/glean) US zip code dataset. This project was bootstrapped with data from [zip-codes-for-rails](https://github.com/superjustin/zip-codes-for-rails).
 
 ## Usage
 

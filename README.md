@@ -1,4 +1,4 @@
-# US Postal Codes
+# US Zip Codes
 
 A [glean](https://github.com/glean/glean) US zip-codes-for-rails code dataset. This project was bootstrapped with data from [zip-codes-for-rails](https://github.com/superjustin/zip-codes-for-rails).
 

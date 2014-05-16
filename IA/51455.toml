@@ -1,6 +1,8 @@
-zip_code = "51455"
-state = "IA"
 city = "Manning"
 county = "Carroll"
-longitude = -94.861182
 latitude = 42.024754
+longitude = -94.861182
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51455"
+

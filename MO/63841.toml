@@ -1,6 +1,8 @@
-zip_code = "63841"
-state = "MO"
 city = "Dexter"
 county = "Stoddard"
-longitude = -89.98146
 latitude = 36.882467
+longitude = -89.98146
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63841"
+

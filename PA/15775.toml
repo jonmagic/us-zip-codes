@@ -1,6 +1,8 @@
-zip_code = "15775"
-state = "PA"
 city = "Spangler"
 county = "Cambria"
-longitude = -78.769185
 latitude = 40.63513
+longitude = -78.769185
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15775"
+

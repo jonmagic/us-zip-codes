@@ -1,6 +1,8 @@
-zip_code = "11109"
-state = "NY"
 city = "Long Island City"
 county = "Queens"
-longitude = -73.870779
 latitude = 40.651378
+longitude = -73.870779
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11109"
+

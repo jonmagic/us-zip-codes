@@ -1,6 +1,8 @@
-zip_code = "44242"
-state = "OH"
 city = "Kent"
 county = "Portage"
-longitude = -81.196615
 latitude = 41.170006
+longitude = -81.196615
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44242"
+

@@ -1,6 +1,8 @@
-zip_code = "49402"
-state = "MI"
 city = "Branch"
 county = "Lake"
-longitude = -85.980028
 latitude = 43.967633
+longitude = -85.980028
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49402"
+

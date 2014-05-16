@@ -1,6 +1,8 @@
-zip_code = "55345"
-state = "MN"
 city = "Minnetonka"
 county = "Hennepin"
-longitude = -93.481749
 latitude = 44.916963
+longitude = -93.481749
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55345"
+

@@ -1,6 +1,8 @@
-zip_code = "83651"
-state = "ID"
 city = "Nampa"
 county = "Canyon"
-longitude = -116.61063
 latitude = 43.595567
+longitude = -116.61063
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83651"
+

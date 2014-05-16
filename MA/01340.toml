@@ -1,6 +1,8 @@
-zip_code = "01340"
-state = "MA"
 city = "Colrain"
 county = "Franklin"
-longitude = -72.822986
 latitude = 42.681539
+longitude = -72.822986
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01340"
+

@@ -1,6 +1,8 @@
-zip_code = "07642"
-state = "NJ"
 city = "Hillsdale"
 county = "Bergen"
-longitude = -74.048576
 latitude = 41.008367
+longitude = -74.048576
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07642"
+

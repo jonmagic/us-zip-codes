@@ -1,6 +1,8 @@
-zip_code = "11421"
-state = "NY"
 city = "Woodhaven"
 county = "Queens"
-longitude = -73.85666
 latitude = 40.691917
+longitude = -73.85666
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11421"
+

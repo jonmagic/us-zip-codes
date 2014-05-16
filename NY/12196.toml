@@ -1,6 +1,8 @@
-zip_code = "12196"
-state = "NY"
 city = "West Sand Lake"
 county = "Rensselaer"
-longitude = -73.561566
 latitude = 42.603715
+longitude = -73.561566
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12196"
+

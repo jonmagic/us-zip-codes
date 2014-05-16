@@ -1,6 +1,8 @@
-zip_code = "49728"
-state = "MI"
 city = "Eckerman"
 county = "Chippewa"
-longitude = -84.862889
 latitude = 46.536871
+longitude = -84.862889
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49728"
+

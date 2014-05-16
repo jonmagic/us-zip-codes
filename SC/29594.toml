@@ -1,6 +1,8 @@
-zip_code = "29594"
-state = "SC"
 city = "Tatum"
 county = "Marlboro"
-longitude = -79.586895
 latitude = 34.64051
+longitude = -79.586895
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29594"
+

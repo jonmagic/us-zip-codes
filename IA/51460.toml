@@ -1,6 +1,8 @@
-zip_code = "51460"
-state = "IA"
 city = "Ricketts"
 county = "Crawford"
-longitude = -95.574593
 latitude = 42.130428
+longitude = -95.574593
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51460"
+

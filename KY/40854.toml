@@ -1,6 +1,8 @@
-zip_code = "40854"
-state = "KY"
 city = "Loyall"
 county = "Harlan"
-longitude = -83.353034
 latitude = 36.848097
+longitude = -83.353034
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40854"
+

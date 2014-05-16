@@ -1,6 +1,8 @@
-zip_code = "62662"
-state = "IL"
 city = "Lowder"
 county = "Sangamon"
-longitude = -89.606017
 latitude = 39.749457
+longitude = -89.606017
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62662"
+

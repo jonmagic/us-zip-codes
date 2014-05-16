@@ -1,6 +1,8 @@
-zip_code = "31766"
-state = "GA"
 city = "Morgan"
 county = "Calhoun"
-longitude = -84.611559
 latitude = 31.53796
+longitude = -84.611559
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31766"
+

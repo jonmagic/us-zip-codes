@@ -1,6 +1,8 @@
-zip_code = "99779"
-state = "AK"
 city = "Tetlin"
 county = "Southeast Fairbanks"
-longitude = -144.002648
 latitude = 63.870552
+longitude = -144.002648
+state = ""
+state_code_alpha2 = ""
+zip_code = "99779"
+

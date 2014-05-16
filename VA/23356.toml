@@ -1,6 +1,8 @@
-zip_code = "23356"
-state = "VA"
 city = "Greenbackville"
 county = "Accomack"
-longitude = -75.413184
 latitude = 37.999789
+longitude = -75.413184
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23356"
+

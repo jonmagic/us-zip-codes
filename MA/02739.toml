@@ -1,6 +1,8 @@
-zip_code = "02739"
-state = "MA"
 city = "Mattapoisett"
 county = "Plymouth"
-longitude = -70.810856
 latitude = 41.664976
+longitude = -70.810856
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02739"
+

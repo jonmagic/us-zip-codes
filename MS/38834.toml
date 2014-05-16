@@ -1,6 +1,8 @@
-zip_code = "38834"
-state = "MS"
 city = "Corinth"
 county = "Alcorn"
-longitude = -88.591575
 latitude = 34.87589
+longitude = -88.591575
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38834"
+

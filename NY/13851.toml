@@ -1,6 +1,8 @@
-zip_code = "13851"
-state = "NY"
 city = "Vestal"
 county = "Broome"
-longitude = -75.74488
 latitude = 42.206745
+longitude = -75.74488
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13851"
+

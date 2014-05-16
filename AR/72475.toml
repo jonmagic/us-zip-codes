@@ -1,6 +1,8 @@
-zip_code = "72475"
-state = "AR"
 city = "Waldenburg"
 county = "Poinsett"
-longitude = -90.965815
 latitude = 35.546575
+longitude = -90.965815
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72475"
+

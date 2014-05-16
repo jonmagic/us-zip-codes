@@ -1,6 +1,8 @@
-zip_code = "27826"
-state = "NC"
 city = "Fairfield"
 county = "Hyde"
-longitude = -76.179248
 latitude = 35.510544
+longitude = -76.179248
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27826"
+

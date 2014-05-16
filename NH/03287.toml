@@ -1,6 +1,8 @@
-zip_code = "03287"
-state = "NH"
 city = "Wilmot"
 county = "Merrimack"
-longitude = -71.915826
 latitude = 43.44853
+longitude = -71.915826
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03287"
+

@@ -1,6 +1,8 @@
-zip_code = "66510"
-state = "KS"
 city = "Melvern"
 county = "Osage"
-longitude = -95.611239
 latitude = 38.499728
+longitude = -95.611239
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66510"
+

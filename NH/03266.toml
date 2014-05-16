@@ -1,6 +1,8 @@
-zip_code = "03266"
-state = "NH"
 city = "Rumney"
 county = "Grafton"
-longitude = -71.788434
 latitude = 43.752475
+longitude = -71.788434
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03266"
+

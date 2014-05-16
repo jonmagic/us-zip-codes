@@ -1,6 +1,8 @@
-zip_code = "07044"
-state = "NJ"
 city = "Verona"
 county = "Essex"
-longitude = -74.243895
 latitude = 40.832849
+longitude = -74.243895
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07044"
+

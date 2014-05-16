@@ -1,6 +1,8 @@
-zip_code = "63674"
-state = "MO"
 city = "Tiff"
 county = "Washington"
-longitude = -90.870001
 latitude = 37.970441
+longitude = -90.870001
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63674"
+

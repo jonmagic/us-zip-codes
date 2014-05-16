@@ -1,6 +1,8 @@
-zip_code = "88032"
-state = "NM"
 city = "Dona Ana"
 county = "Dona Ana"
-longitude = -106.800976
 latitude = 32.393919
+longitude = -106.800976
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88032"
+

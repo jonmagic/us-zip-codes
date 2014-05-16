@@ -1,6 +1,8 @@
-zip_code = "99138"
-state = "WA"
 city = "Inchelium"
 county = "Ferry"
-longitude = -118.305461
 latitude = 48.268566
+longitude = -118.305461
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99138"
+

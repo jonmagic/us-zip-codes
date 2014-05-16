@@ -1,6 +1,8 @@
-zip_code = "56091"
-state = "MN"
 city = "Waldorf"
 county = "Waseca"
-longitude = -93.682513
 latitude = 43.907326
+longitude = -93.682513
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56091"
+

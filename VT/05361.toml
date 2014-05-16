@@ -1,6 +1,8 @@
-zip_code = "05361"
-state = "VT"
 city = "Whitingham"
 county = "Windham"
-longitude = -72.867891
 latitude = 42.78318
+longitude = -72.867891
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05361"
+

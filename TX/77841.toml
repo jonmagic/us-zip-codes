@@ -1,6 +1,8 @@
-zip_code = "77841"
-state = "TX"
 city = "College Station"
 county = "Brazos"
-longitude = -96.327044
 latitude = 30.57258
+longitude = -96.327044
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77841"
+

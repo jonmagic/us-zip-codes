@@ -1,6 +1,8 @@
-zip_code = "54801"
-state = "WI"
 city = "Spooner"
 county = "Washburn"
-longitude = -91.811707
 latitude = 45.922016
+longitude = -91.811707
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54801"
+

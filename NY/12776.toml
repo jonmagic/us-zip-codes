@@ -1,6 +1,8 @@
-zip_code = "12776"
-state = "NY"
 city = "Roscoe"
 county = "Sullivan"
-longitude = -74.951782
 latitude = 41.819249
+longitude = -74.951782
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12776"
+

@@ -1,6 +1,8 @@
-zip_code = "65616"
-state = "MO"
 city = "Branson"
 county = "Taney"
-longitude = -93.05634
 latitude = 36.653256
+longitude = -93.05634
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65616"
+

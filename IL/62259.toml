@@ -1,6 +1,8 @@
-zip_code = "62259"
-state = "IL"
 city = "Menard"
 county = "Randolph"
-longitude = -89.899569
 latitude = 38.013132
+longitude = -89.899569
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62259"
+

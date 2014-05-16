@@ -1,6 +1,8 @@
-zip_code = "58838"
-state = "ND"
 city = "Cartwright"
 county = "Mckenzie"
-longitude = -103.298383
 latitude = 47.737435
+longitude = -103.298383
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58838"
+

@@ -1,6 +1,8 @@
-zip_code = "54470"
-state = "WI"
 city = "Rib Lake"
 county = "Taylor"
-longitude = -90.168991
 latitude = 45.208013
+longitude = -90.168991
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54470"
+

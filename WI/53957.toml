@@ -1,6 +1,8 @@
-zip_code = "53957"
-state = "WI"
 city = "Randolph"
 county = "Columbia"
-longitude = -89.006845
 latitude = 43.535249
+longitude = -89.006845
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53957"
+

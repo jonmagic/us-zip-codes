@@ -1,6 +1,8 @@
-zip_code = "56401"
-state = "MN"
 city = "Brainerd"
 county = "Crow Wing"
-longitude = -94.099983
 latitude = 46.350195
+longitude = -94.099983
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56401"
+

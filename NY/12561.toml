@@ -1,6 +1,8 @@
-zip_code = "12561"
-state = "NY"
 city = "New Paltz"
 county = "Ulster"
-longitude = -74.109241
 latitude = 41.74638
+longitude = -74.109241
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12561"
+

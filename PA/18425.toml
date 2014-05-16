@@ -1,6 +1,8 @@
-zip_code = "18425"
-state = "PA"
 city = "Greeley"
 county = "Pike"
-longitude = -75.022543
 latitude = 41.41594
+longitude = -75.022543
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18425"
+

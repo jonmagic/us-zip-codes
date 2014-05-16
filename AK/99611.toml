@@ -1,6 +1,8 @@
-zip_code = "99611"
-state = "AK"
 city = "Kenai"
 county = "Kenai Peninsula"
-longitude = -150.407958
 latitude = 60.422041
+longitude = -150.407958
+state = ""
+state_code_alpha2 = ""
+zip_code = "99611"
+

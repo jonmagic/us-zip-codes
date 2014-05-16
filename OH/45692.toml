@@ -1,6 +1,8 @@
-zip_code = "45692"
-state = "OH"
 city = "Wellston"
 county = "Jackson"
-longitude = -82.553489
 latitude = 39.116467
+longitude = -82.553489
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45692"
+

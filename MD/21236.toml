@@ -1,6 +1,8 @@
-zip_code = "21236"
-state = "MD"
 city = "Nottingham"
 county = "Baltimore"
-longitude = -76.489277
 latitude = 39.392107
+longitude = -76.489277
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21236"
+

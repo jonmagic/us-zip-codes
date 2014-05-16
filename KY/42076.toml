@@ -1,6 +1,8 @@
-zip_code = "42076"
-state = "KY"
 city = "New Concord"
 county = "Calloway"
-longitude = -88.150463
 latitude = 36.562065
+longitude = -88.150463
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42076"
+

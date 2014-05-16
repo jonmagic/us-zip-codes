@@ -1,6 +1,8 @@
-zip_code = "51364"
-state = "IA"
 city = "Terril"
 county = "Dickinson"
-longitude = -95.119487
 latitude = 43.35271
+longitude = -95.119487
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51364"
+

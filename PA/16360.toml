@@ -1,6 +1,8 @@
-zip_code = "16360"
-state = "PA"
 city = "Townville"
 county = "Crawford"
-longitude = -79.900897
 latitude = 41.689858
+longitude = -79.900897
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16360"
+

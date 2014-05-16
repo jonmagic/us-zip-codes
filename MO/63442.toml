@@ -1,6 +1,8 @@
-zip_code = "63442"
-state = "MO"
 city = "Granger"
 county = "Scotland"
-longitude = -92.1474
 latitude = 40.453333
+longitude = -92.1474
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63442"
+

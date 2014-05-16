@@ -1,6 +1,8 @@
-zip_code = "04010"
-state = "ME"
 city = "Brownfield"
 county = "Oxford"
-longitude = -70.739823
 latitude = 44.163033
+longitude = -70.739823
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04010"
+

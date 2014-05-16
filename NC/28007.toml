@@ -1,6 +1,8 @@
-zip_code = "28007"
-state = "NC"
 city = "Ansonville"
 county = "Anson"
-longitude = -80.085232
 latitude = 35.021874
+longitude = -80.085232
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28007"
+

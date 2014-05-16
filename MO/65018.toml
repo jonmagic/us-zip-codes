@@ -1,6 +1,8 @@
-zip_code = "65018"
-state = "MO"
 city = "California"
 county = "Moniteau"
-longitude = -92.550973
 latitude = 38.625055
+longitude = -92.550973
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65018"
+

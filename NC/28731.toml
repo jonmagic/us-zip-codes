@@ -1,6 +1,8 @@
-zip_code = "28731"
-state = "NC"
 city = "Flat Rock"
 county = "Henderson"
-longitude = -82.403731
 latitude = 35.297055
+longitude = -82.403731
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28731"
+

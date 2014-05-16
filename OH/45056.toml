@@ -1,6 +1,8 @@
-zip_code = "45056"
-state = "OH"
 city = "Oxford"
 county = "Butler"
-longitude = -84.68575
 latitude = 39.479227
+longitude = -84.68575
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45056"
+

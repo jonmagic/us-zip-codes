@@ -1,6 +1,8 @@
-zip_code = "29803"
-state = "SC"
 city = "Aiken"
 county = "Aiken"
-longitude = -81.695053
 latitude = 33.505914
+longitude = -81.695053
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29803"
+

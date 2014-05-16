@@ -1,6 +1,8 @@
-zip_code = "74745"
-state = "OK"
 city = "Idabel"
 county = "Mccurtain"
-longitude = -94.869464
 latitude = 33.956429
+longitude = -94.869464
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74745"
+

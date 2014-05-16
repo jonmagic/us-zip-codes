@@ -1,6 +1,8 @@
-zip_code = "72064"
-state = "AR"
 city = "Hazen"
 county = "Prairie"
-longitude = -91.569612
 latitude = 34.782306
+longitude = -91.569612
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72064"
+

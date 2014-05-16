@@ -1,6 +1,8 @@
-zip_code = "34747"
-state = "FL"
 city = "Kissimmee"
 county = "Osceola"
-longitude = -81.589782
 latitude = 28.303738
+longitude = -81.589782
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34747"
+

@@ -1,6 +1,8 @@
-zip_code = "75056"
-state = "TX"
 city = "The Colony"
 county = "Denton"
-longitude = -96.901605
 latitude = 33.077136
+longitude = -96.901605
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75056"
+

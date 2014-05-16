@@ -1,6 +1,8 @@
-zip_code = "25045"
-state = "WV"
 city = "Clendenin"
 county = "Kanawha"
-longitude = -81.357213
 latitude = 38.453862
+longitude = -81.357213
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25045"
+

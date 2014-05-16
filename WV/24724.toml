@@ -1,6 +1,8 @@
-zip_code = "24724"
-state = "WV"
 city = "Freeman"
 county = "Mercer"
-longitude = -81.311849
 latitude = 37.333273
+longitude = -81.311849
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24724"
+

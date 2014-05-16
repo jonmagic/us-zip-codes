@@ -1,6 +1,8 @@
-zip_code = "76556"
-state = "TX"
 city = "Milano"
 county = "Milam"
-longitude = -96.880743
 latitude = 30.730427
+longitude = -96.880743
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76556"
+

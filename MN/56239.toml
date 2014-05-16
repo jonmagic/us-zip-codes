@@ -1,6 +1,8 @@
-zip_code = "56239"
-state = "MN"
 city = "Ghent"
 county = "Lyon"
-longitude = -95.907811
 latitude = 44.485432
+longitude = -95.907811
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56239"
+

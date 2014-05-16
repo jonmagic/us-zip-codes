@@ -1,6 +1,8 @@
-zip_code = "84529"
-state = "UT"
 city = "Kenilworth"
 county = "Carbon"
-longitude = -110.80726
 latitude = 39.688418
+longitude = -110.80726
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84529"
+

@@ -1,6 +1,8 @@
-zip_code = "76886"
-state = "TX"
 city = "Veribest"
 county = "Tom Green"
-longitude = -100.494912
 latitude = 31.349348
+longitude = -100.494912
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76886"
+

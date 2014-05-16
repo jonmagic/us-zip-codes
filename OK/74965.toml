@@ -1,6 +1,8 @@
-zip_code = "74965"
-state = "OK"
 city = "Westville"
 county = "Adair"
-longitude = -94.570433
 latitude = 35.991414
+longitude = -94.570433
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74965"
+

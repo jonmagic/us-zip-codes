@@ -1,6 +1,8 @@
-zip_code = "15027"
-state = "PA"
 city = "Conway"
 county = "Beaver"
-longitude = -80.264683
 latitude = 40.699515
+longitude = -80.264683
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15027"
+

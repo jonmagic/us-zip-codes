@@ -1,6 +1,8 @@
-zip_code = "33598"
-state = "FL"
 city = "Wimauma"
 county = "Hillsborough"
-longitude = -82.297468
 latitude = 27.73383
+longitude = -82.297468
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33598"
+

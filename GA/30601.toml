@@ -1,6 +1,8 @@
-zip_code = "30601"
-state = "GA"
 city = "Athens"
 county = "Clarke"
-longitude = -83.353697
 latitude = 33.992902
+longitude = -83.353697
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30601"
+

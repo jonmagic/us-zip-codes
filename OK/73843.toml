@@ -1,6 +1,8 @@
-zip_code = "73843"
-state = "OK"
 city = "Gage"
 county = "Ellis"
-longitude = -99.753814
 latitude = 36.255493
+longitude = -99.753814
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73843"
+

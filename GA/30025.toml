@@ -1,6 +1,8 @@
-zip_code = "30025"
-state = "GA"
 city = "Social Circle"
 county = "Walton"
-longitude = -83.683477
 latitude = 33.679092
+longitude = -83.683477
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30025"
+

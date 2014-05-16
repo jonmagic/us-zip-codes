@@ -1,6 +1,8 @@
-zip_code = "95345"
-state = "CA"
 city = "Midpines"
 county = "Mariposa"
-longitude = -119.962569
 latitude = 37.564369
+longitude = -119.962569
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95345"
+

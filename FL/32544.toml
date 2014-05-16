@@ -1,6 +1,8 @@
-zip_code = "32544"
-state = "FL"
 city = "Hurlburt Field"
 county = "Okaloosa"
-longitude = -86.698525
 latitude = 30.422926
+longitude = -86.698525
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32544"
+

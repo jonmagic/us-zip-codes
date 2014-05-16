@@ -1,6 +1,8 @@
-zip_code = "05848"
-state = "VT"
 city = "Lower Waterford"
 county = "Caledonia"
-longitude = -71.919518
 latitude = 44.382103
+longitude = -71.919518
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05848"
+

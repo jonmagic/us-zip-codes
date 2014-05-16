@@ -1,6 +1,8 @@
-zip_code = "70041"
-state = "LA"
 city = "Buras"
 county = "Plaquemines"
-longitude = -89.571937
 latitude = 29.427314
+longitude = -89.571937
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70041"
+

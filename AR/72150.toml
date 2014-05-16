@@ -1,6 +1,8 @@
-zip_code = "72150"
-state = "AR"
 city = "Sheridan"
 county = "Grant"
-longitude = -92.398709
 latitude = 34.306936
+longitude = -92.398709
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72150"
+

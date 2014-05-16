@@ -1,6 +1,8 @@
-zip_code = "03896"
-state = "NH"
 city = "Wolfeboro Falls"
 county = "Carroll"
-longitude = -71.218894
 latitude = 43.589157
+longitude = -71.218894
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03896"
+

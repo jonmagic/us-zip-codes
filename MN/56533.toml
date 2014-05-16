@@ -1,6 +1,8 @@
-zip_code = "56533"
-state = "MN"
 city = "Elizabeth"
 county = "Otter Tail"
-longitude = -96.132614
 latitude = 46.380324
+longitude = -96.132614
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56533"
+

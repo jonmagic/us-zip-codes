@@ -1,6 +1,8 @@
-zip_code = "16046"
-state = "PA"
 city = "Mars"
 county = "Butler"
-longitude = -79.936986
 latitude = 40.866316
+longitude = -79.936986
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16046"
+

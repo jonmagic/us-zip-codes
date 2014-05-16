@@ -1,6 +1,8 @@
-zip_code = "18640"
-state = "PA"
 city = "Pittston"
 county = "Luzerne"
-longitude = -75.85856
 latitude = 41.298152
+longitude = -75.85856
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18640"
+

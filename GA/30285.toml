@@ -1,6 +1,8 @@
-zip_code = "30285"
-state = "GA"
 city = "The Rock"
 county = "Upson"
-longitude = -84.219349
 latitude = 32.965021
+longitude = -84.219349
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30285"
+

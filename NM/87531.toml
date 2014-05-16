@@ -1,6 +1,8 @@
-zip_code = "87531"
-state = "NM"
 city = "Embudo"
 county = "Rio Arriba"
-longitude = -105.890075
 latitude = 36.215288
+longitude = -105.890075
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87531"
+

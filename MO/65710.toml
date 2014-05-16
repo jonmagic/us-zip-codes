@@ -1,6 +1,8 @@
-zip_code = "65710"
-state = "MO"
 city = "Morrisville"
 county = "Polk"
-longitude = -93.439073
 latitude = 37.488021
+longitude = -93.439073
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65710"
+

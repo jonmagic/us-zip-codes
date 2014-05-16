@@ -1,6 +1,8 @@
-zip_code = "25265"
-state = "WV"
 city = "New Haven"
 county = "Mason"
-longitude = -81.965175
 latitude = 38.986319
+longitude = -81.965175
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25265"
+

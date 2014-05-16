@@ -1,6 +1,8 @@
-zip_code = "64483"
-state = "MO"
 city = "Rosendale"
 county = "Andrew"
-longitude = -94.837165
 latitude = 40.006832
+longitude = -94.837165
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64483"
+

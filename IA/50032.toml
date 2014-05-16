@@ -1,6 +1,8 @@
-zip_code = "50032"
-state = "IA"
 city = "Berwick"
 county = "Polk"
-longitude = -93.54323
 latitude = 41.665838
+longitude = -93.54323
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50032"
+

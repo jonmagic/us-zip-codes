@@ -1,6 +1,8 @@
-zip_code = "54871"
-state = "WI"
 city = "Shell Lake"
 county = "Washburn"
-longitude = -91.79215
 latitude = 45.878356
+longitude = -91.79215
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54871"
+

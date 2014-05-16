@@ -1,6 +1,8 @@
-zip_code = "15036"
-state = "PA"
 city = "Eldersville"
 county = "Washington"
-longitude = -80.179139
 latitude = 40.214896
+longitude = -80.179139
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15036"
+

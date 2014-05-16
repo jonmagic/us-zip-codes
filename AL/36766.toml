@@ -1,6 +1,8 @@
-zip_code = "36766"
-state = "AL"
 city = "Oak Hill"
 county = "Wilcox"
-longitude = -87.074497
 latitude = 31.947005
+longitude = -87.074497
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36766"
+

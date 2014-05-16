@@ -1,6 +1,8 @@
-zip_code = "01364"
-state = "MA"
 city = "Orange"
 county = "Franklin"
-longitude = -72.556589
 latitude = 42.578325
+longitude = -72.556589
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01364"
+

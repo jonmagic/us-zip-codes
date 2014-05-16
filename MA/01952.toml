@@ -1,6 +1,8 @@
-zip_code = "01952"
-state = "MA"
 city = "Salisbury"
 county = "Essex"
-longitude = -70.865667
 latitude = 42.851234
+longitude = -70.865667
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01952"
+

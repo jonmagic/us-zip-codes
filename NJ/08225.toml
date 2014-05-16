@@ -1,6 +1,8 @@
-zip_code = "08225"
-state = "NJ"
 city = "Northfield"
 county = "Atlantic"
-longitude = -74.572227
 latitude = 39.421922
+longitude = -74.572227
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08225"
+

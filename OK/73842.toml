@@ -1,6 +1,8 @@
-zip_code = "73842"
-state = "OK"
 city = "Freedom"
 county = "Woods"
-longitude = -99.112676
 latitude = 36.768905
+longitude = -99.112676
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73842"
+

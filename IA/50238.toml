@@ -1,6 +1,8 @@
-zip_code = "50238"
-state = "IA"
 city = "Russell"
 county = "Lucas"
-longitude = -93.200472
 latitude = 40.981221
+longitude = -93.200472
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50238"
+

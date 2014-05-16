@@ -1,6 +1,8 @@
-zip_code = "02671"
-state = "MA"
 city = "West Harwich"
 county = "Barnstable"
-longitude = -70.038282
 latitude = 41.846719
+longitude = -70.038282
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02671"
+

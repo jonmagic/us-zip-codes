@@ -1,6 +1,8 @@
-zip_code = "41564"
-state = "KY"
 city = "Sidney"
 county = "Pike"
-longitude = -82.411486
 latitude = 37.557911
+longitude = -82.411486
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41564"
+

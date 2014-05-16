@@ -1,6 +1,8 @@
-zip_code = "75009"
-state = "TX"
 city = "Celina"
 county = "Collin"
-longitude = -96.726103
 latitude = 33.332852
+longitude = -96.726103
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75009"
+

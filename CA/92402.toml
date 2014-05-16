@@ -1,6 +1,8 @@
-zip_code = "92402"
-state = "CA"
 city = "San Bernardino"
 county = "San Bernardino"
-longitude = -117.127166
 latitude = 34.21392
+longitude = -117.127166
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92402"
+

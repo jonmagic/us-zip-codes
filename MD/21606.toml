@@ -1,6 +1,8 @@
-zip_code = "21606"
-state = "MD"
 city = "Easton"
 county = "Talbot"
-longitude = -76.180166
 latitude = 38.758525
+longitude = -76.180166
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21606"
+

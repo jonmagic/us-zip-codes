@@ -1,6 +1,8 @@
-zip_code = "04345"
-state = "ME"
 city = "Gardiner"
 county = "Kennebec"
-longitude = -69.796909
 latitude = 44.296652
+longitude = -69.796909
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04345"
+

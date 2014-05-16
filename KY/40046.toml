@@ -1,6 +1,8 @@
-zip_code = "40046"
-state = "KY"
 city = "Mount Eden"
 county = "Spencer"
-longitude = -85.181188
 latitude = 38.019718
+longitude = -85.181188
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40046"
+

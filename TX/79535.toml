@@ -1,6 +1,8 @@
-zip_code = "79535"
-state = "TX"
 city = "Maryneal"
 county = "Nolan"
-longitude = -100.424987
 latitude = 32.180499
+longitude = -100.424987
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79535"
+

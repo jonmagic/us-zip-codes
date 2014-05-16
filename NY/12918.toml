@@ -1,6 +1,8 @@
-zip_code = "12918"
-state = "NY"
 city = "Cadyville"
 county = "Clinton"
-longitude = -73.670249
 latitude = 44.686162
+longitude = -73.670249
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12918"
+

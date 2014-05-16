@@ -1,6 +1,8 @@
-zip_code = "25425"
-state = "WV"
 city = "Harpers Ferry"
 county = "Jefferson"
-longitude = -77.789387
 latitude = 39.314617
+longitude = -77.789387
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25425"
+

@@ -1,6 +1,8 @@
-zip_code = "48769"
-state = "MI"
 city = "Tuscola"
 county = "Tuscola"
-longitude = -83.657355
 latitude = 43.327048
+longitude = -83.657355
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48769"
+

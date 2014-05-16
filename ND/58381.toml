@@ -1,6 +1,8 @@
-zip_code = "58381"
-state = "ND"
 city = "Warwick"
 county = "Benson"
-longitude = -98.75889
 latitude = 47.910133
+longitude = -98.75889
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58381"
+

@@ -1,6 +1,8 @@
-zip_code = "87420"
-state = "NM"
 city = "Shiprock"
 county = "San Juan"
-longitude = -108.860539
 latitude = 36.417185
+longitude = -108.860539
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87420"
+

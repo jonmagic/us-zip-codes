@@ -1,6 +1,8 @@
-zip_code = "01082"
-state = "MA"
 city = "Ware"
 county = "Hampshire"
-longitude = -72.548549
 latitude = 42.377471
+longitude = -72.548549
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01082"
+

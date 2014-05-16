@@ -1,6 +1,8 @@
-zip_code = "66728"
-state = "KS"
 city = "Crestline"
 county = "Cherokee"
-longitude = -94.704133
 latitude = 37.16944
+longitude = -94.704133
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66728"
+

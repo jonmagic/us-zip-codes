@@ -1,6 +1,8 @@
-zip_code = "00659"
-state = "PR"
 city = "Hatillo"
 county = "Hatillo"
-longitude = -66.808696
 latitude = 18.481391
+longitude = -66.808696
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00659"
+

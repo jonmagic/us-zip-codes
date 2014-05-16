@@ -1,6 +1,8 @@
-zip_code = "19952"
-state = "DE"
 city = "Harrington"
 county = "Kent"
-longitude = -75.611322
 latitude = 38.912195
+longitude = -75.611322
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19952"
+

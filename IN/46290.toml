@@ -1,6 +1,8 @@
-zip_code = "46290"
-state = "IN"
 city = "Indianapolis"
 county = "Hamilton"
-longitude = -86.199445
 latitude = 39.93731
+longitude = -86.199445
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46290"
+

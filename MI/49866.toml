@@ -1,6 +1,8 @@
-zip_code = "49866"
-state = "MI"
 city = "Negaunee"
 county = "Marquette"
-longitude = -87.799518
 latitude = 46.494904
+longitude = -87.799518
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49866"
+

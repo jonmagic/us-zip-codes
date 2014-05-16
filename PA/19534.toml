@@ -1,6 +1,8 @@
-zip_code = "19534"
-state = "PA"
 city = "Lenhartsville"
 county = "Berks"
-longitude = -75.864968
 latitude = 40.573618
+longitude = -75.864968
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19534"
+

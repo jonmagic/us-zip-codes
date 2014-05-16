@@ -1,6 +1,8 @@
-zip_code = "15840"
-state = "PA"
 city = "Falls Creek"
 county = "Jefferson"
-longitude = -78.820695
 latitude = 41.149752
+longitude = -78.820695
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15840"
+

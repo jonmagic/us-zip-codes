@@ -1,6 +1,8 @@
-zip_code = "17314"
-state = "PA"
 city = "Delta"
 county = "York"
-longitude = -76.54384
 latitude = 39.792142
+longitude = -76.54384
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17314"
+

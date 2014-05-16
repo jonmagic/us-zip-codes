@@ -1,6 +1,8 @@
-zip_code = "38569"
-state = "TN"
 city = "Lancaster"
 county = "Smith"
-longitude = -85.859146
 latitude = 36.124389
+longitude = -85.859146
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38569"
+

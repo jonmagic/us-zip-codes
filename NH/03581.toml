@@ -1,6 +1,8 @@
-zip_code = "03581"
-state = "NH"
 city = "Gorham"
 county = "Coos"
-longitude = -71.154758
 latitude = 44.404848
+longitude = -71.154758
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03581"
+

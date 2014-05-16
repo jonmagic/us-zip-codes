@@ -1,6 +1,8 @@
-zip_code = "62348"
-state = "IL"
 city = "Lima"
 county = "Adams"
-longitude = -91.387504
 latitude = 40.165558
+longitude = -91.387504
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62348"
+

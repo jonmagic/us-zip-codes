@@ -1,6 +1,8 @@
-zip_code = "28724"
-state = "NC"
 city = "Dana"
 county = "Henderson"
-longitude = -82.388325
 latitude = 35.295403
+longitude = -82.388325
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28724"
+

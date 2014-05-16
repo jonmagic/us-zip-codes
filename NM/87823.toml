@@ -1,6 +1,8 @@
-zip_code = "87823"
-state = "NM"
 city = "Lemitar"
 county = "Socorro"
-longitude = -106.912543
 latitude = 34.153754
+longitude = -106.912543
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87823"
+

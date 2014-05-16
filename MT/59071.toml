@@ -1,6 +1,8 @@
-zip_code = "59071"
-state = "MT"
 city = "Roscoe"
 county = "Carbon"
-longitude = -108.948445
 latitude = 45.319054
+longitude = -108.948445
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59071"
+

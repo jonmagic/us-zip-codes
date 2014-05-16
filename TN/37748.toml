@@ -1,6 +1,8 @@
-zip_code = "37748"
-state = "TN"
 city = "Harriman"
 county = "Roane"
-longitude = -84.516642
 latitude = 35.919953
+longitude = -84.516642
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37748"
+

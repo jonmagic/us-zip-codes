@@ -1,6 +1,8 @@
-zip_code = "38927"
-state = "MS"
 city = "Enid"
 county = "Tallahatchie"
-longitude = -90.013183
 latitude = 34.125054
+longitude = -90.013183
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38927"
+

@@ -1,6 +1,8 @@
-zip_code = "14877"
-state = "NY"
 city = "Rexville"
 county = "Steuben"
-longitude = -77.677653
 latitude = 42.071887
+longitude = -77.677653
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14877"
+

@@ -1,6 +1,8 @@
-zip_code = "21718"
-state = "MD"
 city = "Burkittsville"
 county = "Frederick"
-longitude = -77.627954
 latitude = 39.400868
+longitude = -77.627954
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21718"
+

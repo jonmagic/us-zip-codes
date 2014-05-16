@@ -1,6 +1,8 @@
-zip_code = "92242"
-state = "CA"
 city = "Earp"
 county = "San Bernardino"
-longitude = -115.647775
 latitude = 34.201506
+longitude = -115.647775
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92242"
+

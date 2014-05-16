@@ -1,6 +1,8 @@
-zip_code = "48190"
-state = "MI"
 city = "Whittaker"
 county = "Washtenaw"
-longitude = -83.594567
 latitude = 42.124398
+longitude = -83.594567
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48190"
+

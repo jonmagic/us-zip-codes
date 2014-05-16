@@ -1,6 +1,8 @@
-zip_code = "51246"
-state = "IA"
 city = "Rock Rapids"
 county = "Lyon"
-longitude = -96.146555
 latitude = 43.415126
+longitude = -96.146555
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51246"
+

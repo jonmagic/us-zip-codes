@@ -1,6 +1,8 @@
-zip_code = "56684"
-state = "MN"
 city = "Trail"
 county = "Polk"
-longitude = -96.3504
 latitude = 47.836367
+longitude = -96.3504
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56684"
+

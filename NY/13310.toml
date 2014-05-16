@@ -1,6 +1,8 @@
-zip_code = "13310"
-state = "NY"
 city = "Bouckville"
 county = "Madison"
-longitude = -75.560937
 latitude = 42.930711
+longitude = -75.560937
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13310"
+

@@ -1,6 +1,8 @@
-zip_code = "56314"
-state = "MN"
 city = "Bowlus"
 county = "Morrison"
-longitude = -94.422896
 latitude = 45.868809
+longitude = -94.422896
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56314"
+

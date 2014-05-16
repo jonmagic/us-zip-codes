@@ -1,6 +1,8 @@
-zip_code = "78010"
-state = "TX"
 city = "Center Point"
 county = "Kerr"
-longitude = -99.067431
 latitude = 29.931026
+longitude = -99.067431
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78010"
+

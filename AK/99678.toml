@@ -1,6 +1,8 @@
-zip_code = "99678"
-state = "AK"
 city = "Togiak"
 county = "Dillingham"
-longitude = -163.118947
 latitude = 58.962101
+longitude = -163.118947
+state = ""
+state_code_alpha2 = ""
+zip_code = "99678"
+

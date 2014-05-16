@@ -1,6 +1,8 @@
-zip_code = "13639"
-state = "NY"
 city = "Fine"
 county = "Saint Lawrence"
-longitude = -75.122756
 latitude = 44.23896
+longitude = -75.122756
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13639"
+

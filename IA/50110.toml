@@ -1,6 +1,8 @@
-zip_code = "50110"
-state = "IA"
 city = "Gray"
 county = "Audubon"
-longitude = -94.981191
 latitude = 41.840109
+longitude = -94.981191
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50110"
+

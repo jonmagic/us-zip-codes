@@ -1,6 +1,8 @@
-zip_code = "97856"
-state = "OR"
 city = "Long Creek"
 county = "Grant"
-longitude = -119.090832
 latitude = 44.713688
+longitude = -119.090832
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97856"
+

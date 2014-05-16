@@ -1,6 +1,8 @@
-zip_code = "54806"
-state = "WI"
 city = "Ashland"
 county = "Ashland"
-longitude = -90.738773
 latitude = 46.558577
+longitude = -90.738773
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54806"
+

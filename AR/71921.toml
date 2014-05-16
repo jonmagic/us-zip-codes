@@ -1,6 +1,8 @@
-zip_code = "71921"
-state = "AR"
 city = "Amity"
 county = "Clark"
-longitude = -93.313673
 latitude = 34.232509
+longitude = -93.313673
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71921"
+

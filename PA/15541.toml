@@ -1,6 +1,8 @@
-zip_code = "15541"
-state = "PA"
 city = "Friedens"
 county = "Somerset"
-longitude = -78.963508
 latitude = 40.085382
+longitude = -78.963508
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15541"
+

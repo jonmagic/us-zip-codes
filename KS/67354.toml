@@ -1,6 +1,8 @@
-zip_code = "67354"
-state = "KS"
 city = "Mound Valley"
 county = "Labette"
-longitude = -95.422081
 latitude = 37.215113
+longitude = -95.422081
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67354"
+

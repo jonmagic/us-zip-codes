@@ -1,6 +1,8 @@
-zip_code = "15314"
-state = "PA"
 city = "Bentleyville"
 county = "Washington"
-longitude = -80.083967
 latitude = 40.153459
+longitude = -80.083967
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15314"
+

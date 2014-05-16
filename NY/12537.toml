@@ -1,6 +1,8 @@
-zip_code = "12537"
-state = "NY"
 city = "Hughsonville"
 county = "Dutchess"
-longitude = -73.936281
 latitude = 41.582437
+longitude = -73.936281
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12537"
+

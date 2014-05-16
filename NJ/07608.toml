@@ -1,6 +1,8 @@
-zip_code = "07608"
-state = "NJ"
 city = "Teterboro"
 county = "Bergen"
-longitude = -74.055584
 latitude = 40.863954
+longitude = -74.055584
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07608"
+

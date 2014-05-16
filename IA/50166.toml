@@ -1,6 +1,8 @@
-zip_code = "50166"
-state = "IA"
 city = "Milo"
 county = "Warren"
-longitude = -93.428847
 latitude = 41.283124
+longitude = -93.428847
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50166"
+

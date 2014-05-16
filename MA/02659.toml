@@ -1,6 +1,8 @@
-zip_code = "02659"
-state = "MA"
 city = "South Chatham"
 county = "Barnstable"
-longitude = -70.030194
 latitude = 41.848932
+longitude = -70.030194
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02659"
+

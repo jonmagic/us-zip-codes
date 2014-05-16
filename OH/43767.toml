@@ -1,6 +1,8 @@
-zip_code = "43767"
-state = "OH"
 city = "Norwich"
 county = "Muskingum"
-longitude = -81.804302
 latitude = 40.011106
+longitude = -81.804302
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43767"
+

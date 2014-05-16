@@ -1,6 +1,8 @@
-zip_code = "67019"
-state = "KS"
 city = "Burden"
 county = "Cowley"
-longitude = -96.759983
 latitude = 37.37062
+longitude = -96.759983
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67019"
+

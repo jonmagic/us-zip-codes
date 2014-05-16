@@ -1,6 +1,8 @@
-zip_code = "60504"
-state = "IL"
 city = "Aurora"
 county = "Du Page"
-longitude = -88.136616
 latitude = 41.768399
+longitude = -88.136616
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60504"
+

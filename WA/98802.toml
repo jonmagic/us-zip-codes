@@ -1,6 +1,8 @@
-zip_code = "98802"
-state = "WA"
 city = "East Wenatchee"
 county = "Douglas"
-longitude = -120.214402
 latitude = 47.497831
+longitude = -120.214402
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98802"
+

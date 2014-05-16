@@ -1,6 +1,8 @@
-zip_code = "65360"
-state = "MO"
 city = "Windsor"
 county = "Henry"
-longitude = -93.588108
 latitude = 38.488076
+longitude = -93.588108
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65360"
+

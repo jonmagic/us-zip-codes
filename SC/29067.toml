@@ -1,6 +1,8 @@
-zip_code = "29067"
-state = "SC"
 city = "Kershaw"
 county = "Lancaster"
-longitude = -80.542015
 latitude = 34.600417
+longitude = -80.542015
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29067"
+

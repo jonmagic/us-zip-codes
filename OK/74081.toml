@@ -1,6 +1,8 @@
-zip_code = "74081"
-state = "OK"
 city = "Terlton"
 county = "Pawnee"
-longitude = -96.491832
 latitude = 36.188021
+longitude = -96.491832
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74081"
+

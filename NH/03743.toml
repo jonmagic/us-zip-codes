@@ -1,6 +1,8 @@
-zip_code = "03743"
-state = "NH"
 city = "Claremont"
 county = "Sullivan"
-longitude = -72.209819
 latitude = 43.415993
+longitude = -72.209819
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03743"
+

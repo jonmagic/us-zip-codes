@@ -1,6 +1,8 @@
-zip_code = "45735"
-state = "OH"
 city = "Guysville"
 county = "Athens"
-longitude = -81.922005
 latitude = 39.249339
+longitude = -81.922005
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45735"
+

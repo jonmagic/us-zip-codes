@@ -1,6 +1,8 @@
-zip_code = "13649"
-state = "NY"
 city = "Helena"
 county = "Saint Lawrence"
-longitude = -74.706763
 latitude = 44.921678
+longitude = -74.706763
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13649"
+

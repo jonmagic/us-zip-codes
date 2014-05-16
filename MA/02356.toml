@@ -1,6 +1,8 @@
-zip_code = "02356"
-state = "MA"
 city = "North Easton"
 county = "Bristol"
-longitude = -71.12033
 latitude = 42.053408
+longitude = -71.12033
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02356"
+

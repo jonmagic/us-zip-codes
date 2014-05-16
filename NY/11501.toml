@@ -1,6 +1,8 @@
-zip_code = "11501"
-state = "NY"
 city = "Mineola"
 county = "Nassau"
-longitude = -73.638061
 latitude = 40.735901
+longitude = -73.638061
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11501"
+

@@ -1,6 +1,8 @@
-zip_code = "99119"
-state = "WA"
 city = "Cusick"
 county = "Pend Oreille"
-longitude = -117.348383
 latitude = 48.510409
+longitude = -117.348383
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99119"
+

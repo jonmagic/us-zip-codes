@@ -1,6 +1,8 @@
-zip_code = "76637"
-state = "TX"
 city = "Cranfills Gap"
 county = "Bosque"
-longitude = -97.64097
 latitude = 31.897381
+longitude = -97.64097
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76637"
+

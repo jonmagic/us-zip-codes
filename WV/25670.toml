@@ -1,6 +1,8 @@
-zip_code = "25670"
-state = "WV"
 city = "Delbarton"
 county = "Mingo"
-longitude = -82.193059
 latitude = 37.718871
+longitude = -82.193059
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25670"
+

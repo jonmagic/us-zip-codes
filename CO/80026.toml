@@ -1,6 +1,8 @@
-zip_code = "80026"
-state = "CO"
 city = "Lafayette"
 county = "Boulder"
-longitude = -105.104899
 latitude = 40.026334
+longitude = -105.104899
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80026"
+

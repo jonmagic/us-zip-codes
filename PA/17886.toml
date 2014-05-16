@@ -1,6 +1,8 @@
-zip_code = "17886"
-state = "PA"
 city = "West Milton"
 county = "Union"
-longitude = -76.870841
 latitude = 41.01789
+longitude = -76.870841
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17886"
+

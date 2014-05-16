@@ -1,6 +1,8 @@
-zip_code = "74728"
-state = "OK"
 city = "Broken Bow"
 county = "Mccurtain"
-longitude = -94.828998
 latitude = 33.953477
+longitude = -94.828998
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74728"
+

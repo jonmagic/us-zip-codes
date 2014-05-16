@@ -1,6 +1,8 @@
-zip_code = "30180"
-state = "GA"
 city = "Villa Rica"
 county = "Carroll"
-longitude = -84.975668
 latitude = 33.705546
+longitude = -84.975668
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30180"
+

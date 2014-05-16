@@ -1,6 +1,8 @@
-zip_code = "51346"
-state = "IA"
 city = "Hartley"
 county = "Obrien"
-longitude = -95.505959
 latitude = 43.154712
+longitude = -95.505959
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51346"
+

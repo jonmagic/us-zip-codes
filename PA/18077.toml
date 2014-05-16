@@ -1,6 +1,8 @@
-zip_code = "18077"
-state = "PA"
 city = "Riegelsville"
 county = "Bucks"
-longitude = -75.236191
 latitude = 40.567316
+longitude = -75.236191
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18077"
+

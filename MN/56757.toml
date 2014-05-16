@@ -1,6 +1,8 @@
-zip_code = "56757"
-state = "MN"
 city = "Stephen"
 county = "Marshall"
-longitude = -96.867548
 latitude = 48.477158
+longitude = -96.867548
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56757"
+

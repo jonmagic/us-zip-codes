@@ -1,6 +1,8 @@
-zip_code = "29080"
-state = "SC"
 city = "Lynchburg"
 county = "Lee"
-longitude = -80.043417
 latitude = 34.049335
+longitude = -80.043417
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29080"
+

@@ -1,6 +1,8 @@
-zip_code = "12121"
-state = "NY"
 city = "Melrose"
 county = "Rensselaer"
-longitude = -73.601722
 latitude = 42.712948
+longitude = -73.601722
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12121"
+

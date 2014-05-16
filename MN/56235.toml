@@ -1,6 +1,8 @@
-zip_code = "56235"
-state = "MN"
 city = "Donnelly"
 county = "Stevens"
-longitude = -96.010121
 latitude = 45.690959
+longitude = -96.010121
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56235"
+

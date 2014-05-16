@@ -1,6 +1,8 @@
-zip_code = "45160"
-state = "OH"
 city = "Owensville"
 county = "Clermont"
-longitude = -84.135023
 latitude = 39.123187
+longitude = -84.135023
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45160"
+

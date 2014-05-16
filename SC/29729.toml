@@ -1,6 +1,8 @@
-zip_code = "29729"
-state = "SC"
 city = "Richburg"
 county = "Chester"
-longitude = -81.003877
 latitude = 34.692493
+longitude = -81.003877
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29729"
+

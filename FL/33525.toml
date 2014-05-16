@@ -1,6 +1,8 @@
-zip_code = "33525"
-state = "FL"
 city = "Dade City"
 county = "Pasco"
-longitude = -82.244624
 latitude = 28.331765
+longitude = -82.244624
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33525"
+

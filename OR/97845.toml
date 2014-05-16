@@ -1,6 +1,8 @@
-zip_code = "97845"
-state = "OR"
 city = "John Day"
 county = "Grant"
-longitude = -118.914774
 latitude = 44.550033
+longitude = -118.914774
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97845"
+

@@ -1,6 +1,8 @@
-zip_code = "02351"
-state = "MA"
 city = "Abington"
 county = "Plymouth"
-longitude = -70.959888
 latitude = 42.11749
+longitude = -70.959888
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02351"
+

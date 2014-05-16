@@ -1,6 +1,8 @@
-zip_code = "74022"
-state = "OK"
 city = "Copan"
 county = "Washington"
-longitude = -95.922953
 latitude = 36.800524
+longitude = -95.922953
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74022"
+

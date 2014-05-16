@@ -1,6 +1,8 @@
-zip_code = "08835"
-state = "NJ"
 city = "Manville"
 county = "Somerset"
-longitude = -74.589225
 latitude = 40.541053
+longitude = -74.589225
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08835"
+

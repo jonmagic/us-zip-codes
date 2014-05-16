@@ -1,6 +1,8 @@
-zip_code = "12435"
-state = "NY"
 city = "Greenfield Park"
 county = "Ulster"
-longitude = -74.515647
 latitude = 41.727613
+longitude = -74.515647
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12435"
+

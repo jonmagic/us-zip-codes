@@ -1,6 +1,8 @@
-zip_code = "59050"
-state = "MT"
 city = "Lodge Grass"
 county = "Big Horn"
-longitude = -107.367494
 latitude = 45.316565
+longitude = -107.367494
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59050"
+

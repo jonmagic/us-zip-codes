@@ -1,6 +1,8 @@
-zip_code = "16870"
-state = "PA"
 city = "Port Matilda"
 county = "Centre"
-longitude = -77.829726
 latitude = 40.913584
+longitude = -77.829726
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16870"
+

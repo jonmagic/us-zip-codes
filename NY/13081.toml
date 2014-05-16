@@ -1,6 +1,8 @@
-zip_code = "13081"
-state = "NY"
 city = "King Ferry"
 county = "Cayuga"
-longitude = -76.631117
 latitude = 42.876886
+longitude = -76.631117
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13081"
+

@@ -1,6 +1,8 @@
-zip_code = "22630"
-state = "VA"
 city = "Front Royal"
 county = "Warren"
-longitude = -78.174537
 latitude = 38.928308
+longitude = -78.174537
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22630"
+

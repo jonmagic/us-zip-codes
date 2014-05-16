@@ -1,6 +1,8 @@
-zip_code = "25026"
-state = "WV"
 city = "Blue Creek"
 county = "Kanawha"
-longitude = -81.392845
 latitude = 38.490789
+longitude = -81.392845
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25026"
+

@@ -1,6 +1,8 @@
-zip_code = "50681"
-state = "IA"
 city = "Westgate"
 county = "Fayette"
-longitude = -92.012235
 latitude = 42.781206
+longitude = -92.012235
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50681"
+

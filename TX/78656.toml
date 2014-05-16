@@ -1,6 +1,8 @@
-zip_code = "78656"
-state = "TX"
 city = "Maxwell"
 county = "Caldwell"
-longitude = -97.799121
 latitude = 29.85922
+longitude = -97.799121
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78656"
+

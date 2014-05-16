@@ -1,6 +1,8 @@
-zip_code = "80542"
-state = "CO"
 city = "Mead"
 county = "Weld"
-longitude = -104.893796
 latitude = 40.327051
+longitude = -104.893796
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80542"
+

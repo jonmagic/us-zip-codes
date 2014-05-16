@@ -1,6 +1,8 @@
-zip_code = "95375"
-state = "CA"
 city = "Strawberry"
 county = "Tuolumne"
-longitude = -120.021342
 latitude = 38.184096
+longitude = -120.021342
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95375"
+

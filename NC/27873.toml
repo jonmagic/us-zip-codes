@@ -1,6 +1,8 @@
-zip_code = "27873"
-state = "NC"
 city = "Saratoga"
 county = "Wilson"
-longitude = -77.791845
 latitude = 35.649494
+longitude = -77.791845
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27873"
+

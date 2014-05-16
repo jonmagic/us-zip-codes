@@ -1,6 +1,8 @@
-zip_code = "88101"
-state = "NM"
 city = "Clovis"
 county = "Curry"
-longitude = -103.294978
 latitude = 34.497241
+longitude = -103.294978
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88101"
+

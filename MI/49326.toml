@@ -1,6 +1,8 @@
-zip_code = "49326"
-state = "MI"
 city = "Gowen"
 county = "Montcalm"
-longitude = -85.21072
 latitude = 43.310955
+longitude = -85.21072
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49326"
+

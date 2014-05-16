@@ -1,6 +1,8 @@
-zip_code = "62639"
-state = "IL"
 city = "Frederick"
 county = "Schuyler"
-longitude = -90.556586
 latitude = 40.131603
+longitude = -90.556586
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62639"
+

@@ -1,6 +1,8 @@
-zip_code = "53066"
-state = "WI"
 city = "Oconomowoc"
 county = "Waukesha"
-longitude = -88.463305
 latitude = 43.087062
+longitude = -88.463305
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53066"
+

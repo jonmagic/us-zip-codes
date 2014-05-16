@@ -1,6 +1,8 @@
-zip_code = "37353"
-state = "TN"
 city = "Mc Donald"
 county = "Bradley"
-longitude = -84.889237
 latitude = 35.160258
+longitude = -84.889237
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37353"
+

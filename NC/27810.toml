@@ -1,6 +1,8 @@
-zip_code = "27810"
-state = "NC"
 city = "Belhaven"
 county = "Beaufort"
-longitude = -76.639119
 latitude = 35.445752
+longitude = -76.639119
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27810"
+

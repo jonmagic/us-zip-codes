@@ -1,6 +1,8 @@
-zip_code = "62243"
-state = "IL"
 city = "Freeburg"
 county = "Saint Clair"
-longitude = -89.895886
 latitude = 38.428067
+longitude = -89.895886
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62243"
+

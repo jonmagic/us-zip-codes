@@ -1,6 +1,8 @@
-zip_code = "62349"
-state = "IL"
 city = "Loraine"
 county = "Adams"
-longitude = -91.210203
 latitude = 40.154457
+longitude = -91.210203
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62349"
+

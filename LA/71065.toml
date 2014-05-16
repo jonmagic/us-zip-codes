@@ -1,6 +1,8 @@
-zip_code = "71065"
-state = "LA"
 city = "Pleasant Hill"
 county = "Sabine"
-longitude = -93.534539
 latitude = 31.794655
+longitude = -93.534539
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71065"
+

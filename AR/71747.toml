@@ -1,6 +1,8 @@
-zip_code = "71747"
-state = "AR"
 city = "Huttig"
 county = "Union"
-longitude = -92.393701
 latitude = 33.164568
+longitude = -92.393701
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71747"
+

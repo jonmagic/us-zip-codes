@@ -1,6 +1,8 @@
-zip_code = "74764"
-state = "OK"
 city = "Valliant"
 county = "Mccurtain"
-longitude = -95.090099
 latitude = 34.00463
+longitude = -95.090099
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74764"
+

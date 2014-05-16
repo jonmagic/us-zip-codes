@@ -1,6 +1,8 @@
-zip_code = "71034"
-state = "LA"
 city = "Hall Summit"
 county = "Red River"
-longitude = -93.367949
 latitude = 32.062391
+longitude = -93.367949
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71034"
+

@@ -1,6 +1,8 @@
-zip_code = "03260"
-state = "NH"
 city = "North Sutton"
 county = "Merrimack"
-longitude = -71.934059
 latitude = 43.365345
+longitude = -71.934059
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03260"
+

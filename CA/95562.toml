@@ -1,6 +1,8 @@
-zip_code = "95562"
-state = "CA"
 city = "Rio Dell"
 county = "Humboldt"
-longitude = -123.984516
 latitude = 40.314708
+longitude = -123.984516
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95562"
+

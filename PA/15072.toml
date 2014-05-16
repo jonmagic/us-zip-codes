@@ -1,6 +1,8 @@
-zip_code = "15072"
-state = "PA"
 city = "Pricedale"
 county = "Westmoreland"
-longitude = -79.856168
 latitude = 40.139296
+longitude = -79.856168
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15072"
+

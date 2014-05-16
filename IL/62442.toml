@@ -1,6 +1,8 @@
-zip_code = "62442"
-state = "IL"
 city = "Martinsville"
 county = "Clark"
-longitude = -87.850086
 latitude = 39.325782
+longitude = -87.850086
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62442"
+

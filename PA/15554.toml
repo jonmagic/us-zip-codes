@@ -1,6 +1,8 @@
-zip_code = "15554"
-state = "PA"
 city = "New Paris"
 county = "Bedford"
-longitude = -78.611595
 latitude = 39.981413
+longitude = -78.611595
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15554"
+

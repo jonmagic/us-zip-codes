@@ -1,6 +1,8 @@
-zip_code = "17846"
-state = "PA"
 city = "Millville"
 county = "Columbia"
-longitude = -76.525177
 latitude = 41.143816
+longitude = -76.525177
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17846"
+

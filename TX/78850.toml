@@ -1,6 +1,8 @@
-zip_code = "78850"
-state = "TX"
 city = "D Hanis"
 county = "Medina"
-longitude = -99.321884
 latitude = 29.339502
+longitude = -99.321884
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78850"
+

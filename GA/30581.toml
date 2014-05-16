@@ -1,6 +1,8 @@
-zip_code = "30581"
-state = "GA"
 city = "Wiley"
 county = "Rabun"
-longitude = -83.419137
 latitude = 34.804473
+longitude = -83.419137
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30581"
+

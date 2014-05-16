@@ -1,6 +1,8 @@
-zip_code = "75217"
-state = "TX"
 city = "Dallas"
 county = "Dallas"
-longitude = -96.684525
 latitude = 32.702531
+longitude = -96.684525
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75217"
+

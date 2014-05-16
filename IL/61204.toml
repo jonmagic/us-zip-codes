@@ -1,6 +1,8 @@
-zip_code = "61204"
-state = "IL"
 city = "Rock Island"
 county = "Rock Island"
-longitude = -90.615975
 latitude = 41.554901
+longitude = -90.615975
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61204"
+

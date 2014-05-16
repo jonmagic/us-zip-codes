@@ -1,6 +1,8 @@
-zip_code = "52341"
-state = "IA"
 city = "Toddville"
 county = "Linn"
-longitude = -91.732863
 latitude = 42.111669
+longitude = -91.732863
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52341"
+

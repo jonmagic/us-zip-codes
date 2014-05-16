@@ -1,6 +1,8 @@
-zip_code = "13699"
-state = "NY"
 city = "Potsdam"
 county = "Saint Lawrence"
-longitude = -75.072951
 latitude = 44.496564
+longitude = -75.072951
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13699"
+

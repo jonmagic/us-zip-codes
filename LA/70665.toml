@@ -1,6 +1,8 @@
-zip_code = "70665"
-state = "LA"
 city = "Sulphur"
 county = "Calcasieu"
-longitude = -93.443701
 latitude = 30.200948
+longitude = -93.443701
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70665"
+

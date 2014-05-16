@@ -1,6 +1,8 @@
-zip_code = "18222"
-state = "PA"
 city = "Drums"
 county = "Luzerne"
-longitude = -76.003059
 latitude = 41.034017
+longitude = -76.003059
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18222"
+

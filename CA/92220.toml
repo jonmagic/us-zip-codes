@@ -1,6 +1,8 @@
-zip_code = "92220"
-state = "CA"
 city = "Banning"
 county = "Riverside"
-longitude = -116.864197
 latitude = 33.919215
+longitude = -116.864197
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92220"
+

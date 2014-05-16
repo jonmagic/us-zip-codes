@@ -1,6 +1,8 @@
-zip_code = "35490"
-state = "AL"
 city = "Vance"
 county = "Tuscaloosa"
-longitude = -87.225842
 latitude = 33.226133
+longitude = -87.225842
+state = ""
+state_code_alpha2 = ""
+zip_code = "35490"
+

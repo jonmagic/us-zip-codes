@@ -1,6 +1,8 @@
-zip_code = "55044"
-state = "MN"
 city = "Lakeville"
 county = "Dakota"
-longitude = -93.25812
 latitude = 44.633421
+longitude = -93.25812
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55044"
+

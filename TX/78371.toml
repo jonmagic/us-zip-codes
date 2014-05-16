@@ -1,6 +1,8 @@
-zip_code = "78371"
-state = "TX"
 city = "Oilton"
 county = "Webb"
-longitude = -99.505138
 latitude = 27.732094
+longitude = -99.505138
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78371"
+

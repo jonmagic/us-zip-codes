@@ -1,6 +1,8 @@
-zip_code = "17058"
-state = "PA"
 city = "Mifflin"
 county = "Juniata"
-longitude = -77.400062
 latitude = 40.555304
+longitude = -77.400062
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17058"
+

@@ -1,6 +1,8 @@
-zip_code = "49459"
-state = "MI"
 city = "Walkerville"
 county = "Oceana"
-longitude = -86.141107
 latitude = 43.721873
+longitude = -86.141107
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49459"
+

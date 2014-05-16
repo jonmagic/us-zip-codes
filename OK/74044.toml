@@ -1,6 +1,8 @@
-zip_code = "74044"
-state = "OK"
 city = "Mannford"
 county = "Creek"
-longitude = -96.378373
 latitude = 36.079255
+longitude = -96.378373
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74044"
+

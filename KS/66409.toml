@@ -1,6 +1,8 @@
-zip_code = "66409"
-state = "KS"
 city = "Berryton"
 county = "Shawnee"
-longitude = -95.584708
 latitude = 38.927847
+longitude = -95.584708
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66409"
+

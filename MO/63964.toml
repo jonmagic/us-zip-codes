@@ -1,6 +1,8 @@
-zip_code = "63964"
-state = "MO"
 city = "Silva"
 county = "Wayne"
-longitude = -90.419576
 latitude = 37.207287
+longitude = -90.419576
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63964"
+

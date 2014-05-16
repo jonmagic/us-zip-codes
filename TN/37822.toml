@@ -1,6 +1,8 @@
-zip_code = "37822"
-state = "TN"
 city = "Newport"
 county = "Cocke"
-longitude = -83.106554
 latitude = 35.947688
+longitude = -83.106554
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37822"
+

@@ -1,6 +1,8 @@
-zip_code = "68771"
-state = "NE"
 city = "Randolph"
 county = "Cedar"
-longitude = -97.319835
 latitude = 42.438743
+longitude = -97.319835
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68771"
+

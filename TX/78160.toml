@@ -1,6 +1,8 @@
-zip_code = "78160"
-state = "TX"
 city = "Stockdale"
 county = "Wilson"
-longitude = -97.934068
 latitude = 29.235395
+longitude = -97.934068
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78160"
+

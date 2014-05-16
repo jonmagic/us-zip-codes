@@ -1,6 +1,8 @@
-zip_code = "47649"
-state = "IN"
 city = "Francisco"
 county = "Gibson"
-longitude = -87.447826
 latitude = 38.331581
+longitude = -87.447826
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47649"
+

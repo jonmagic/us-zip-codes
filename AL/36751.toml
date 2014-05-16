@@ -1,6 +1,8 @@
-zip_code = "36751"
-state = "AL"
 city = "Lower Peach Tree"
 county = "Wilcox"
-longitude = -87.577911
 latitude = 31.902773
+longitude = -87.577911
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36751"
+

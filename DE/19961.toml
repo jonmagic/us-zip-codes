@@ -1,6 +1,8 @@
-zip_code = "19961"
-state = "DE"
 city = "Little Creek"
 county = "Kent"
-longitude = -75.448289
 latitude = 39.166323
+longitude = -75.448289
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19961"
+

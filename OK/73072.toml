@@ -1,6 +1,8 @@
-zip_code = "73072"
-state = "OK"
 city = "Norman"
 county = "Cleveland"
-longitude = -97.363181
 latitude = 35.218728
+longitude = -97.363181
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73072"
+

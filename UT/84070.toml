@@ -1,6 +1,8 @@
-zip_code = "84070"
-state = "UT"
 city = "Sandy"
 county = "Salt Lake"
-longitude = -111.859504
 latitude = 40.578597
+longitude = -111.859504
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84070"
+

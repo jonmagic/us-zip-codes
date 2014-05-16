@@ -1,6 +1,8 @@
-zip_code = "12157"
-state = "NY"
 city = "Schoharie"
 county = "Schoharie"
-longitude = -74.337322
 latitude = 42.655569
+longitude = -74.337322
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12157"
+

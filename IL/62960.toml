@@ -1,6 +1,8 @@
-zip_code = "62960"
-state = "IL"
 city = "Metropolis"
 county = "Massac"
-longitude = -88.714524
 latitude = 37.228995
+longitude = -88.714524
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62960"
+

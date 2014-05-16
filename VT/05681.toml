@@ -1,6 +1,8 @@
-zip_code = "05681"
-state = "VT"
 city = "Woodbury"
 county = "Washington"
-longitude = -72.585018
 latitude = 44.259518
+longitude = -72.585018
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05681"
+

@@ -1,6 +1,8 @@
-zip_code = "65240"
-state = "MO"
 city = "Centralia"
 county = "Boone"
-longitude = -92.179684
 latitude = 39.143437
+longitude = -92.179684
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65240"
+

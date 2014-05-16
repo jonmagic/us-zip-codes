@@ -1,6 +1,8 @@
-zip_code = "83856"
-state = "ID"
 city = "Priest River"
 county = "Bonner"
-longitude = -116.669154
 latitude = 48.324253
+longitude = -116.669154
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83856"
+

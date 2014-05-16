@@ -1,6 +1,8 @@
-zip_code = "62990"
-state = "IL"
 city = "Thebes"
 county = "Alexander"
-longitude = -89.459863
 latitude = 37.221042
+longitude = -89.459863
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62990"
+

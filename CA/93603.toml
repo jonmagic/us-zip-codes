@@ -1,6 +1,8 @@
-zip_code = "93603"
-state = "CA"
 city = "Badger"
 county = "Tulare"
-longitude = -119.016197
 latitude = 36.568312
+longitude = -119.016197
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93603"
+

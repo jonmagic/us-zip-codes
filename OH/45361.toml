@@ -1,6 +1,8 @@
-zip_code = "45361"
-state = "OH"
 city = "Potsdam"
 county = "Miami"
-longitude = -84.414484
 latitude = 39.963492
+longitude = -84.414484
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45361"
+

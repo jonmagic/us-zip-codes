@@ -1,6 +1,8 @@
-zip_code = "75155"
-state = "TX"
 city = "Rice"
 county = "Ellis"
-longitude = -96.735335
 latitude = 32.300757
+longitude = -96.735335
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75155"
+

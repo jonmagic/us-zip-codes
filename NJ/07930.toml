@@ -1,6 +1,8 @@
-zip_code = "07930"
-state = "NJ"
 city = "Chester"
 county = "Morris"
-longitude = -74.683861
 latitude = 40.782111
+longitude = -74.683861
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07930"
+

@@ -1,6 +1,8 @@
-zip_code = "99645"
-state = "AK"
 city = "Palmer"
 county = "Matanuska Susitna"
-longitude = -149.633916
 latitude = 62.257284
+longitude = -149.633916
+state = ""
+state_code_alpha2 = ""
+zip_code = "99645"
+

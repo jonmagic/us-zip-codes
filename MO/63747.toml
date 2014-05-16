@@ -1,6 +1,8 @@
-zip_code = "63747"
-state = "MO"
 city = "Friedheim"
 county = "Cape Girardeau"
-longitude = -89.815114
 latitude = 37.516792
+longitude = -89.815114
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63747"
+

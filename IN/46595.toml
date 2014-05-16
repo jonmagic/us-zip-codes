@@ -1,6 +1,8 @@
-zip_code = "46595"
-state = "IN"
 city = "Wyatt"
 county = "St Joseph"
-longitude = -86.165227
 latitude = 41.518136
+longitude = -86.165227
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46595"
+

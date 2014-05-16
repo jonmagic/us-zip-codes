@@ -1,6 +1,8 @@
-zip_code = "41222"
-state = "KY"
 city = "Hagerhill"
 county = "Johnson"
-longitude = -82.841565
 latitude = 37.780451
+longitude = -82.841565
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41222"
+

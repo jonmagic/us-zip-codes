@@ -1,6 +1,8 @@
-zip_code = "82635"
-state = "WY"
 city = "Edgerton"
 county = "Natrona"
-longitude = -106.263808
 latitude = 43.407351
+longitude = -106.263808
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82635"
+

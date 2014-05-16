@@ -1,6 +1,8 @@
-zip_code = "75570"
-state = "TX"
 city = "New Boston"
 county = "Bowie"
-longitude = -94.372021
 latitude = 33.421142
+longitude = -94.372021
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75570"
+

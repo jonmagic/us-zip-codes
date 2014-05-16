@@ -1,6 +1,8 @@
-zip_code = "73456"
-state = "OK"
 city = "Ringling"
 county = "Jefferson"
-longitude = -97.810259
 latitude = 34.200318
+longitude = -97.810259
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73456"
+

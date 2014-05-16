@@ -1,6 +1,8 @@
-zip_code = "42347"
-state = "KY"
 city = "Hartford"
 county = "Ohio"
-longitude = -86.869715
 latitude = 37.472545
+longitude = -86.869715
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42347"
+

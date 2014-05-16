@@ -1,6 +1,8 @@
-zip_code = "61480"
-state = "IL"
 city = "Stronghurst"
 county = "Henderson"
-longitude = -90.894204
 latitude = 40.719278
+longitude = -90.894204
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61480"
+

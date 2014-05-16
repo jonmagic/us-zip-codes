@@ -1,6 +1,8 @@
-zip_code = "60447"
-state = "IL"
 city = "Minooka"
 county = "Grundy"
-longitude = -88.422884
 latitude = 41.429869
+longitude = -88.422884
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60447"
+

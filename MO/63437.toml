@@ -1,6 +1,8 @@
-zip_code = "63437"
-state = "MO"
 city = "Clarence"
 county = "Shelby"
-longitude = -92.26344
 latitude = 39.74294
+longitude = -92.26344
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63437"
+

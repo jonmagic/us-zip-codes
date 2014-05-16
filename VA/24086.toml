@@ -1,6 +1,8 @@
-zip_code = "24086"
-state = "VA"
 city = "Eggleston"
 county = "Giles"
-longitude = -80.670159
 latitude = 37.277231
+longitude = -80.670159
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24086"
+

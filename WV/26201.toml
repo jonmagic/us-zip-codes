@@ -1,6 +1,8 @@
-zip_code = "26201"
-state = "WV"
 city = "Buckhannon"
 county = "Upshur"
-longitude = -80.240664
 latitude = 38.975479
+longitude = -80.240664
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26201"
+

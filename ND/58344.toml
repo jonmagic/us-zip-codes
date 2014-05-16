@@ -1,6 +1,8 @@
-zip_code = "58344"
-state = "ND"
 city = "Lakota"
 county = "Nelson"
-longitude = -98.324631
 latitude = 47.971966
+longitude = -98.324631
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58344"
+

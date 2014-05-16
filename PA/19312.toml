@@ -1,6 +1,8 @@
-zip_code = "19312"
-state = "PA"
 city = "Berwyn"
 county = "Chester"
-longitude = -75.45644
 latitude = 40.030058
+longitude = -75.45644
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19312"
+

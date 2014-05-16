@@ -1,6 +1,8 @@
-zip_code = "96001"
-state = "CA"
 city = "Redding"
 county = "Shasta"
-longitude = -122.456982
 latitude = 40.675738
+longitude = -122.456982
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96001"
+

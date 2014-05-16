@@ -1,6 +1,8 @@
-zip_code = "68790"
-state = "NE"
 city = "Winside"
 county = "Wayne"
-longitude = -97.193232
 latitude = 42.155768
+longitude = -97.193232
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68790"
+

@@ -1,6 +1,8 @@
-zip_code = "28371"
-state = "NC"
 city = "Parkton"
 county = "Robeson"
-longitude = -78.99298
 latitude = 34.896504
+longitude = -78.99298
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28371"
+

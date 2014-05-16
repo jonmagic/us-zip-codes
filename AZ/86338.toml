@@ -1,6 +1,8 @@
-zip_code = "86338"
-state = "AZ"
 city = "Skull Valley"
 county = "Yavapai"
-longitude = -112.39773
 latitude = 34.706724
+longitude = -112.39773
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86338"
+

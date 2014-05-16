@@ -1,6 +1,8 @@
-zip_code = "55301"
-state = "MN"
 city = "Albertville"
 county = "Wright"
-longitude = -93.664342
 latitude = 45.258673
+longitude = -93.664342
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55301"
+

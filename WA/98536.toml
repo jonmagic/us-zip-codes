@@ -1,6 +1,8 @@
-zip_code = "98536"
-state = "WA"
 city = "Copalis Crossing"
 county = "Grays Harbor"
-longitude = -124.135203
 latitude = 47.159136
+longitude = -124.135203
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98536"
+

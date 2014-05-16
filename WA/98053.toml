@@ -1,6 +1,8 @@
-zip_code = "98053"
-state = "WA"
 city = "Redmond"
 county = "King"
-longitude = -122.02106
 latitude = 47.648626
+longitude = -122.02106
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98053"
+

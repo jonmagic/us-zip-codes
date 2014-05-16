@@ -1,6 +1,8 @@
-zip_code = "13475"
-state = "NY"
 city = "Van Hornesville"
 county = "Herkimer"
-longitude = -74.836685
 latitude = 42.893454
+longitude = -74.836685
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13475"
+

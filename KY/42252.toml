@@ -1,6 +1,8 @@
-zip_code = "42252"
-state = "KY"
 city = "Jetson"
 county = "Butler"
-longitude = -86.509271
 latitude = 37.248326
+longitude = -86.509271
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42252"
+

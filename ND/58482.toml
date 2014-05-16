@@ -1,6 +1,8 @@
-zip_code = "58482"
-state = "ND"
 city = "Steele"
 county = "Kidder"
-longitude = -99.798975
 latitude = 46.875966
+longitude = -99.798975
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58482"
+

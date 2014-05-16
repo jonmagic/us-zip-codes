@@ -1,6 +1,8 @@
-zip_code = "01983"
-state = "MA"
 city = "Topsfield"
 county = "Essex"
-longitude = -70.954487
 latitude = 42.661793
+longitude = -70.954487
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01983"
+

@@ -1,6 +1,8 @@
-zip_code = "29180"
-state = "SC"
 city = "Winnsboro"
 county = "Fairfield"
-longitude = -81.082923
 latitude = 34.387337
+longitude = -81.082923
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29180"
+

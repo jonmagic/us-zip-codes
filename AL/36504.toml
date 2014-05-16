@@ -1,6 +1,8 @@
-zip_code = "36504"
-state = "AL"
 city = "Atmore"
 county = "Escambia"
-longitude = -87.497165
 latitude = 31.015817
+longitude = -87.497165
+state = ""
+state_code_alpha2 = ""
+zip_code = "36504"
+

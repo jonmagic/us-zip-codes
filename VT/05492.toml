@@ -1,6 +1,8 @@
-zip_code = "05492"
-state = "VT"
 city = "Waterville"
 county = "Lamoille"
-longitude = -72.703199
 latitude = 44.736083
+longitude = -72.703199
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05492"
+

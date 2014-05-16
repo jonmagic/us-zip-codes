@@ -1,6 +1,8 @@
-zip_code = "83431"
-state = "ID"
 city = "Lewisville"
 county = "Jefferson"
-longitude = -112.023161
 latitude = 43.692913
+longitude = -112.023161
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83431"
+

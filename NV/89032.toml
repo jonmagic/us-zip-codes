@@ -1,6 +1,8 @@
-zip_code = "89032"
-state = "NV"
 city = "North Las Vegas"
 county = "Clark"
-longitude = -115.170919
 latitude = 36.217968
+longitude = -115.170919
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89032"
+

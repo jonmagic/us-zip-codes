@@ -1,6 +1,8 @@
-zip_code = "14004"
-state = "NY"
 city = "Alden"
 county = "Erie"
-longitude = -78.528446
 latitude = 42.872937
+longitude = -78.528446
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14004"
+

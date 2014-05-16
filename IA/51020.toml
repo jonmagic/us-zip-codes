@@ -1,6 +1,8 @@
-zip_code = "51020"
-state = "IA"
 city = "Galva"
 county = "Ida"
-longitude = -95.430208
 latitude = 42.487916
+longitude = -95.430208
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51020"
+

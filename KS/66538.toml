@@ -1,6 +1,8 @@
-zip_code = "66538"
-state = "KS"
 city = "Seneca"
 county = "Nemaha"
-longitude = -96.031629
 latitude = 39.847328
+longitude = -96.031629
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66538"
+

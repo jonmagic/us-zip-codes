@@ -1,6 +1,8 @@
-zip_code = "62219"
-state = "IL"
 city = "Beckemeyer"
 county = "Clinton"
-longitude = -89.427944
 latitude = 38.601825
+longitude = -89.427944
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62219"
+

@@ -1,6 +1,8 @@
-zip_code = "06754"
-state = "CT"
 city = "Cornwall Bridge"
 county = "Litchfield"
-longitude = -73.301922
 latitude = 41.744373
+longitude = -73.301922
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06754"
+

@@ -1,6 +1,8 @@
-zip_code = "80453"
-state = "CO"
 city = "Idledale"
 county = "Jefferson"
-longitude = -105.244245
 latitude = 39.668426
+longitude = -105.244245
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80453"
+

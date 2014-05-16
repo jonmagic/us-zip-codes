@@ -1,6 +1,8 @@
-zip_code = "55712"
-state = "MN"
 city = "Bruno"
 county = "Pine"
-longitude = -92.705581
 latitude = 46.2263
+longitude = -92.705581
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55712"
+

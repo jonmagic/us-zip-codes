@@ -1,6 +1,8 @@
-zip_code = "36753"
-state = "AL"
 city = "Mc Williams"
 county = "Wilcox"
-longitude = -87.26226
 latitude = 32.048079
+longitude = -87.26226
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36753"
+

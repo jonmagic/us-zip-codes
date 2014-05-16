@@ -1,6 +1,8 @@
-zip_code = "95917"
-state = "CA"
 city = "Biggs"
 county = "Butte"
-longitude = -121.753522
 latitude = 39.40672
+longitude = -121.753522
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95917"
+

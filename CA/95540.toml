@@ -1,6 +1,8 @@
-zip_code = "95540"
-state = "CA"
 city = "Fortuna"
 county = "Humboldt"
-longitude = -123.903317
 latitude = 40.815265
+longitude = -123.903317
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95540"
+

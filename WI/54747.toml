@@ -1,6 +1,8 @@
-zip_code = "54747"
-state = "WI"
 city = "Independence"
 county = "Trempealeau"
-longitude = -91.443718
 latitude = 44.356483
+longitude = -91.443718
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54747"
+

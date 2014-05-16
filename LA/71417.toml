@@ -1,6 +1,8 @@
-zip_code = "71417"
-state = "LA"
 city = "Colfax"
 county = "Grant"
-longitude = -92.653269
 latitude = 31.527636
+longitude = -92.653269
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71417"
+

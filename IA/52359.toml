@@ -1,6 +1,8 @@
-zip_code = "52359"
-state = "IA"
 city = "West Chester"
 county = "Washington"
-longitude = -91.740025
 latitude = 41.393969
+longitude = -91.740025
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52359"
+

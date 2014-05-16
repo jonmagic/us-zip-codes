@@ -1,6 +1,8 @@
-zip_code = "52557"
-state = "IA"
 city = "Fairfield"
 county = "Jefferson"
-longitude = -91.96821
 latitude = 41.016566
+longitude = -91.96821
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52557"
+

@@ -1,6 +1,8 @@
-zip_code = "99654"
-state = "AK"
 city = "Wasilla"
 county = "Matanuska Susitna"
-longitude = -149.374335
 latitude = 61.581305
+longitude = -149.374335
+state = ""
+state_code_alpha2 = ""
+zip_code = "99654"
+

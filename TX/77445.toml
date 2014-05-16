@@ -1,6 +1,8 @@
-zip_code = "77445"
-state = "TX"
 city = "Hempstead"
 county = "Waller"
-longitude = -96.02782
 latitude = 30.02851
+longitude = -96.02782
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77445"
+

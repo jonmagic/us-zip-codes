@@ -1,6 +1,8 @@
-zip_code = "48893"
-state = "MI"
 city = "Weidman"
 county = "Isabella"
-longitude = -84.977751
 latitude = 43.67589
+longitude = -84.977751
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48893"
+

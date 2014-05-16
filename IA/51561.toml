@@ -1,6 +1,8 @@
-zip_code = "51561"
-state = "IA"
 city = "Pacific Junction"
 county = "Mills"
-longitude = -95.808797
 latitude = 41.011257
+longitude = -95.808797
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51561"
+

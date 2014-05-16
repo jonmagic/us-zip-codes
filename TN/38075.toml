@@ -1,6 +1,8 @@
-zip_code = "38075"
-state = "TN"
 city = "Whiteville"
 county = "Hardeman"
-longitude = -89.126324
 latitude = 35.314672
+longitude = -89.126324
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38075"
+

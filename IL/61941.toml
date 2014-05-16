@@ -1,6 +1,8 @@
-zip_code = "61941"
-state = "IL"
 city = "Murdock"
 county = "Douglas"
-longitude = -88.183049
 latitude = 39.800028
+longitude = -88.183049
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61941"
+

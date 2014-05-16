@@ -1,6 +1,8 @@
-zip_code = "12118"
-state = "NY"
 city = "Mechanicville"
 county = "Saratoga"
-longitude = -73.897322
 latitude = 43.033189
+longitude = -73.897322
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12118"
+

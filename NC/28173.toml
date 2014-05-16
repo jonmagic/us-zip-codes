@@ -1,6 +1,8 @@
-zip_code = "28173"
-state = "NC"
 city = "Waxhaw"
 county = "Union"
-longitude = -80.72775
 latitude = 34.925105
+longitude = -80.72775
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28173"
+

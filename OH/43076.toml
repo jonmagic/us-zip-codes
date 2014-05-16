@@ -1,6 +1,8 @@
-zip_code = "43076"
-state = "OH"
 city = "Thornville"
 county = "Perry"
-longitude = -82.385238
 latitude = 39.851267
+longitude = -82.385238
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43076"
+

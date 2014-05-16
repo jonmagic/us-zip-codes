@@ -1,6 +1,8 @@
-zip_code = "76526"
-state = "TX"
 city = "Flat"
 county = "Coryell"
-longitude = -97.582152
 latitude = 31.295568
+longitude = -97.582152
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76526"
+

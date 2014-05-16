@@ -1,6 +1,8 @@
-zip_code = "79027"
-state = "TX"
 city = "Dimmitt"
 county = "Castro"
-longitude = -102.262133
 latitude = 34.530453
+longitude = -102.262133
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79027"
+

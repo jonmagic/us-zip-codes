@@ -1,6 +1,8 @@
-zip_code = "14029"
-state = "NY"
 city = "Centerville"
 county = "Allegany"
-longitude = -78.247413
 latitude = 42.474283
+longitude = -78.247413
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14029"
+

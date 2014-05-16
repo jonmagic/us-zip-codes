@@ -1,6 +1,8 @@
-zip_code = "42406"
-state = "KY"
 city = "Corydon"
 county = "Henderson"
-longitude = -87.689478
 latitude = 37.754734
+longitude = -87.689478
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42406"
+

@@ -1,6 +1,8 @@
-zip_code = "46923"
-state = "IN"
 city = "Delphi"
 county = "Carroll"
-longitude = -86.637891
 latitude = 40.580452
+longitude = -86.637891
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46923"
+

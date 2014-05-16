@@ -1,6 +1,8 @@
-zip_code = "93502"
-state = "CA"
 city = "Mojave"
 county = "Kern"
-longitude = -118.224785
 latitude = 35.068161
+longitude = -118.224785
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93502"
+

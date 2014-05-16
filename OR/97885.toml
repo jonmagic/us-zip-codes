@@ -1,6 +1,8 @@
-zip_code = "97885"
-state = "OR"
 city = "Wallowa"
 county = "Wallowa"
-longitude = -117.511052
 latitude = 45.655005
+longitude = -117.511052
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97885"
+

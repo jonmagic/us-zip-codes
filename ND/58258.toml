@@ -1,6 +1,8 @@
-zip_code = "58258"
-state = "ND"
 city = "Mekinock"
 county = "Grand Forks"
-longitude = -97.430451
 latitude = 48.007368
+longitude = -97.430451
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58258"
+

@@ -1,6 +1,8 @@
-zip_code = "15444"
-state = "PA"
 city = "Hiller"
 county = "Fayette"
-longitude = -79.902101
 latitude = 40.05656
+longitude = -79.902101
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15444"
+

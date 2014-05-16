@@ -1,6 +1,8 @@
-zip_code = "69037"
-state = "NE"
 city = "Max"
 county = "Dundy"
-longitude = -101.687688
 latitude = 40.176417
+longitude = -101.687688
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69037"
+

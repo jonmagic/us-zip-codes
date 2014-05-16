@@ -1,6 +1,8 @@
-zip_code = "06387"
-state = "CT"
 city = "Wauregan"
 county = "Windham"
-longitude = -71.913339
 latitude = 41.744527
+longitude = -71.913339
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06387"
+

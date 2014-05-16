@@ -1,6 +1,8 @@
-zip_code = "97637"
-state = "OR"
 city = "Plush"
 county = "Lake"
-longitude = -120.355294
 latitude = 42.805272
+longitude = -120.355294
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97637"
+

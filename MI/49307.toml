@@ -1,6 +1,8 @@
-zip_code = "49307"
-state = "MI"
 city = "Big Rapids"
 county = "Mecosta"
-longitude = -85.3518
 latitude = 43.683493
+longitude = -85.3518
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49307"
+

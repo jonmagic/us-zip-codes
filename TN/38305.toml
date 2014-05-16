@@ -1,6 +1,8 @@
-zip_code = "38305"
-state = "TN"
 city = "Jackson"
 county = "Madison"
-longitude = -88.835682
 latitude = 35.652446
+longitude = -88.835682
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38305"
+

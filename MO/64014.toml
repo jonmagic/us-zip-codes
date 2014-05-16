@@ -1,6 +1,8 @@
-zip_code = "64014"
-state = "MO"
 city = "Blue Springs"
 county = "Jackson"
-longitude = -94.252933
 latitude = 39.00569
+longitude = -94.252933
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64014"
+

@@ -1,6 +1,8 @@
-zip_code = "32925"
-state = "FL"
 city = "Patrick Afb"
 county = "Brevard"
-longitude = -80.583979
 latitude = 28.174349
+longitude = -80.583979
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32925"
+

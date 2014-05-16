@@ -1,6 +1,8 @@
-zip_code = "28684"
-state = "NC"
 city = "Todd"
 county = "Ashe"
-longitude = -81.579496
 latitude = 36.340991
+longitude = -81.579496
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28684"
+

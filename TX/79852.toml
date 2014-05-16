@@ -1,6 +1,8 @@
-zip_code = "79852"
-state = "TX"
 city = "Terlingua"
 county = "Brewster"
-longitude = -103.060715
 latitude = 29.818742
+longitude = -103.060715
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79852"
+

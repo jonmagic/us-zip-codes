@@ -1,6 +1,8 @@
-zip_code = "24215"
-state = "VA"
 city = "Andover"
 county = "Wise"
-longitude = -82.796445
 latitude = 36.923445
+longitude = -82.796445
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24215"
+

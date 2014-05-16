@@ -1,6 +1,8 @@
-zip_code = "28746"
-state = "NC"
 city = "Lake Lure"
 county = "Rutherford"
-longitude = -82.183853
 latitude = 35.463527
+longitude = -82.183853
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28746"
+

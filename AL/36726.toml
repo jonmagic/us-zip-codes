@@ -1,6 +1,8 @@
-zip_code = "36726"
-state = "AL"
 city = "Camden"
 county = "Wilcox"
-longitude = -87.351944
 latitude = 31.998366
+longitude = -87.351944
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36726"
+

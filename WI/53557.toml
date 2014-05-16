@@ -1,6 +1,8 @@
-zip_code = "53557"
-state = "WI"
 city = "Lowell"
 county = "Dodge"
-longitude = -88.791442
 latitude = 43.343056
+longitude = -88.791442
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53557"
+

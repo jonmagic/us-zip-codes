@@ -1,6 +1,8 @@
-zip_code = "56166"
-state = "MN"
 city = "Revere"
 county = "Redwood"
-longitude = -95.355744
 latitude = 44.23913
+longitude = -95.355744
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56166"
+

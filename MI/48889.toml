@@ -1,6 +1,8 @@
-zip_code = "48889"
-state = "MI"
 city = "Sumner"
 county = "Gratiot"
-longitude = -84.660821
 latitude = 43.26895
+longitude = -84.660821
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48889"
+

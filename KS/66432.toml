@@ -1,6 +1,8 @@
-zip_code = "66432"
-state = "KS"
 city = "Havensville"
 county = "Pottawatomie"
-longitude = -96.37473
 latitude = 39.44655
+longitude = -96.37473
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66432"
+

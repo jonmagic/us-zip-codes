@@ -1,6 +1,8 @@
-zip_code = "87061"
-state = "NM"
 city = "Torreon"
 county = "Torrance"
-longitude = -106.324694
 latitude = 34.694759
+longitude = -106.324694
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87061"
+

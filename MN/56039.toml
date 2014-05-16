@@ -1,6 +1,8 @@
-zip_code = "56039"
-state = "MN"
 city = "Granada"
 county = "Martin"
-longitude = -94.440978
 latitude = 43.659429
+longitude = -94.440978
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56039"
+

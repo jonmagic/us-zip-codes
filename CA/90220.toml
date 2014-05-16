@@ -1,6 +1,8 @@
-zip_code = "90220"
-state = "CA"
 city = "Compton"
 county = "Los Angeles"
-longitude = -118.240208
 latitude = 33.874815
+longitude = -118.240208
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90220"
+

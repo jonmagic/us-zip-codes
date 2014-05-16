@@ -1,6 +1,8 @@
-zip_code = "53184"
-state = "WI"
 city = "Walworth"
 county = "Walworth"
-longitude = -88.597153
 latitude = 42.561543
+longitude = -88.597153
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53184"
+

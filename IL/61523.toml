@@ -1,6 +1,8 @@
-zip_code = "61523"
-state = "IL"
 city = "Chillicothe"
 county = "Peoria"
-longitude = -89.636673
 latitude = 40.831823
+longitude = -89.636673
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61523"
+

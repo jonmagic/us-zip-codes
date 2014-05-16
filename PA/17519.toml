@@ -1,6 +1,8 @@
-zip_code = "17519"
-state = "PA"
 city = "East Earl"
 county = "Lancaster"
-longitude = -76.019741
 latitude = 40.142759
+longitude = -76.019741
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17519"
+

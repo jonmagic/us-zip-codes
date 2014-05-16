@@ -1,6 +1,8 @@
-zip_code = "24092"
-state = "VA"
 city = "Glade Hill"
 county = "Franklin"
-longitude = -79.772986
 latitude = 36.985894
+longitude = -79.772986
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24092"
+

@@ -1,6 +1,8 @@
-zip_code = "30011"
-state = "GA"
 city = "Auburn"
 county = "Barrow"
-longitude = -83.826094
 latitude = 34.019109
+longitude = -83.826094
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30011"
+

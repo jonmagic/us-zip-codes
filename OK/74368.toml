@@ -1,6 +1,8 @@
-zip_code = "74368"
-state = "OK"
 city = "Twin Oaks"
 county = "Delaware"
-longitude = -94.797319
 latitude = 36.205961
+longitude = -94.797319
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74368"
+

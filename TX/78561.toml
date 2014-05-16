@@ -1,6 +1,8 @@
-zip_code = "78561"
-state = "TX"
 city = "Lasara"
 county = "Willacy"
-longitude = -97.429952
 latitude = 26.561287
+longitude = -97.429952
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78561"
+

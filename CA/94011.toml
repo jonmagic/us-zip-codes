@@ -1,6 +1,8 @@
-zip_code = "94011"
-state = "CA"
 city = "Burlingame"
 county = "San Mateo"
-longitude = -122.334825
 latitude = 37.381144
+longitude = -122.334825
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94011"
+

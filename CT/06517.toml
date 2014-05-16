@@ -1,6 +1,8 @@
-zip_code = "06517"
-state = "CT"
 city = "Hamden"
 county = "New Haven"
-longitude = -72.911396
 latitude = 41.362197
+longitude = -72.911396
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06517"
+

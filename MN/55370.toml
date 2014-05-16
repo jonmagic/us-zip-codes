@@ -1,6 +1,8 @@
-zip_code = "55370"
-state = "MN"
 city = "Plato"
 county = "Mcleod"
-longitude = -94.050518
 latitude = 44.839939
+longitude = -94.050518
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55370"
+

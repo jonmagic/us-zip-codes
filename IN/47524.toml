@@ -1,6 +1,8 @@
-zip_code = "47524"
-state = "IN"
 city = "Decker"
 county = "Knox"
-longitude = -87.511863
 latitude = 38.626138
+longitude = -87.511863
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47524"
+

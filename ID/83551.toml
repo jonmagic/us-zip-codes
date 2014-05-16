@@ -1,6 +1,8 @@
-zip_code = "83551"
-state = "ID"
 city = "Spalding"
 county = "Nez Perce"
-longitude = -116.804544
 latitude = 46.400349
+longitude = -116.804544
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83551"
+

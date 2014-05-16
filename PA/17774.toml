@@ -1,6 +1,8 @@
-zip_code = "17774"
-state = "PA"
 city = "Unityville"
 county = "Lycoming"
-longitude = -76.646221
 latitude = 41.227207
+longitude = -76.646221
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17774"
+

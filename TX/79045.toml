@@ -1,6 +1,8 @@
-zip_code = "79045"
-state = "TX"
 city = "Hereford"
 county = "Deaf Smith"
-longitude = -102.31309
 latitude = 34.966095
+longitude = -102.31309
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79045"
+

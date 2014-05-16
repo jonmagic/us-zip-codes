@@ -1,6 +1,8 @@
-zip_code = "70454"
-state = "LA"
 city = "Ponchatoula"
 county = "Tangipahoa"
-longitude = -90.393867
 latitude = 30.467958
+longitude = -90.393867
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70454"
+

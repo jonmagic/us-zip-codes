@@ -1,6 +1,8 @@
-zip_code = "53940"
-state = "WI"
 city = "Lake Delton"
 county = "Sauk"
-longitude = -89.791242
 latitude = 43.593912
+longitude = -89.791242
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53940"
+

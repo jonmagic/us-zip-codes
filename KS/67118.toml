@@ -1,6 +1,8 @@
-zip_code = "67118"
-state = "KS"
 city = "Norwich"
 county = "Kingman"
-longitude = -97.923919
 latitude = 37.486261
+longitude = -97.923919
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67118"
+

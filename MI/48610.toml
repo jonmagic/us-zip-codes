@@ -1,6 +1,8 @@
-zip_code = "48610"
-state = "MI"
 city = "Alger"
 county = "Ogemaw"
-longitude = -84.162443
 latitude = 44.324353
+longitude = -84.162443
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48610"
+

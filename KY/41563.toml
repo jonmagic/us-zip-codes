@@ -1,6 +1,8 @@
-zip_code = "41563"
-state = "KY"
 city = "Shelby Gap"
 county = "Pike"
-longitude = -82.528583
 latitude = 37.231149
+longitude = -82.528583
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41563"
+

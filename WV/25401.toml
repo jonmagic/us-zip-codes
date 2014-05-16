@@ -1,6 +1,8 @@
-zip_code = "25401"
-state = "WV"
 city = "Martinsburg"
 county = "Berkeley"
-longitude = -77.951924
 latitude = 39.444061
+longitude = -77.951924
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25401"
+

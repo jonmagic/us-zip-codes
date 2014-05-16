@@ -1,6 +1,8 @@
-zip_code = "80513"
-state = "CO"
 city = "Berthoud"
 county = "Larimer"
-longitude = -105.321046
 latitude = 40.530475
+longitude = -105.321046
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80513"
+

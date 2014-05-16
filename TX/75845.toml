@@ -1,6 +1,8 @@
-zip_code = "75845"
-state = "TX"
 city = "Groveton"
 county = "Trinity"
-longitude = -95.142669
 latitude = 31.062102
+longitude = -95.142669
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75845"
+

@@ -1,6 +1,8 @@
-zip_code = "50104"
-state = "IA"
 city = "Gibson"
 county = "Keokuk"
-longitude = -92.371164
 latitude = 41.480854
+longitude = -92.371164
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50104"
+

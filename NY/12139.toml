@@ -1,6 +1,8 @@
-zip_code = "12139"
-state = "NY"
 city = "Piseco"
 county = "Hamilton"
-longitude = -74.526485
 latitude = 43.428386
+longitude = -74.526485
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12139"
+

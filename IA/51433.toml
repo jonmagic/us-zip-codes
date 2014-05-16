@@ -1,6 +1,8 @@
-zip_code = "51433"
-state = "IA"
 city = "Auburn"
 county = "Sac"
-longitude = -95.080439
 latitude = 42.340836
+longitude = -95.080439
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51433"
+

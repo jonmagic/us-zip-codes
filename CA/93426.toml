@@ -1,6 +1,8 @@
-zip_code = "93426"
-state = "CA"
 city = "Bradley"
 county = "Monterey"
-longitude = -120.937371
 latitude = 35.907585
+longitude = -120.937371
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93426"
+

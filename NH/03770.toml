@@ -1,6 +1,8 @@
-zip_code = "03770"
-state = "NH"
 city = "Meriden"
 county = "Sullivan"
-longitude = -72.255638
 latitude = 43.421675
+longitude = -72.255638
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03770"
+

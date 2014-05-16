@@ -1,6 +1,8 @@
-zip_code = "61338"
-state = "IL"
 city = "Manlius"
 county = "Bureau"
-longitude = -89.669712
 latitude = 41.455508
+longitude = -89.669712
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61338"
+

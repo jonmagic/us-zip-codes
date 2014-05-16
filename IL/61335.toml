@@ -1,6 +1,8 @@
-zip_code = "61335"
-state = "IL"
 city = "Mc Nabb"
 county = "Putnam"
-longitude = -89.225915
 latitude = 41.146046
+longitude = -89.225915
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61335"
+

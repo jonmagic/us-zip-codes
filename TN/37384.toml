@@ -1,6 +1,8 @@
-zip_code = "37384"
-state = "TN"
 city = "Soddy Daisy"
 county = "Hamilton"
-longitude = -85.209082
 latitude = 35.221092
+longitude = -85.209082
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37384"
+

@@ -1,6 +1,8 @@
-zip_code = "22488"
-state = "VA"
 city = "Kinsale"
 county = "Westmoreland"
-longitude = -76.743458
 latitude = 38.102075
+longitude = -76.743458
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22488"
+

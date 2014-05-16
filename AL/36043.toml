@@ -1,6 +1,8 @@
-zip_code = "36043"
-state = "AL"
 city = "Hope Hull"
 county = "Montgomery"
-longitude = -86.380464
 latitude = 32.206441
+longitude = -86.380464
+state = ""
+state_code_alpha2 = ""
+zip_code = "36043"
+

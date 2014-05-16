@@ -1,6 +1,8 @@
-zip_code = "87025"
-state = "NM"
 city = "Jemez Springs"
 county = "Sandoval"
-longitude = -106.648083
 latitude = 35.786457
+longitude = -106.648083
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87025"
+

@@ -1,6 +1,8 @@
-zip_code = "37710"
-state = "TN"
 city = "Briceville"
 county = "Anderson"
-longitude = -84.299217
 latitude = 36.162585
+longitude = -84.299217
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37710"
+

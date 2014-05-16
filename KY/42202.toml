@@ -1,6 +1,8 @@
-zip_code = "42202"
-state = "KY"
 city = "Adairville"
 county = "Logan"
-longitude = -86.860422
 latitude = 36.772851
+longitude = -86.860422
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42202"
+

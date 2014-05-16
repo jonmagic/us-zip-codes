@@ -1,6 +1,8 @@
-zip_code = "66546"
-state = "KS"
 city = "Wakarusa"
 county = "Shawnee"
-longitude = -95.729868
 latitude = 38.905693
+longitude = -95.729868
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66546"
+

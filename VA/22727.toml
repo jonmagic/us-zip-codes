@@ -1,6 +1,8 @@
-zip_code = "22727"
-state = "VA"
 city = "Madison"
 county = "Madison"
-longitude = -78.297605
 latitude = 38.369952
+longitude = -78.297605
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22727"
+

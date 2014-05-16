@@ -1,6 +1,8 @@
-zip_code = "16422"
-state = "PA"
 city = "Harmonsburg"
 county = "Crawford"
-longitude = -80.394299
 latitude = 41.643145
+longitude = -80.394299
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16422"
+

@@ -1,6 +1,8 @@
-zip_code = "28777"
-state = "NC"
 city = "Spruce Pine"
 county = "Mitchell"
-longitude = -82.07647
 latitude = 35.91464
+longitude = -82.07647
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28777"
+

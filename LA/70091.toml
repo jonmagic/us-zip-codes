@@ -1,6 +1,8 @@
-zip_code = "70091"
-state = "LA"
 city = "Venice"
 county = "Plaquemines"
-longitude = -89.373855
 latitude = 29.279536
+longitude = -89.373855
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70091"
+

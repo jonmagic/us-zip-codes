@@ -1,6 +1,8 @@
-zip_code = "52346"
-state = "IA"
 city = "Van Horne"
 county = "Benton"
-longitude = -92.067227
 latitude = 42.014398
+longitude = -92.067227
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52346"
+

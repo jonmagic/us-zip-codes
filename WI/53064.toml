@@ -1,6 +1,8 @@
-zip_code = "53064"
-state = "WI"
 city = "North Lake"
 county = "Waukesha"
-longitude = -88.302997
 latitude = 43.018696
+longitude = -88.302997
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53064"
+

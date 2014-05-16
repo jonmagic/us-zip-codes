@@ -1,6 +1,8 @@
-zip_code = "65631"
-state = "MO"
 city = "Clever"
 county = "Christian"
-longitude = -93.438301
 latitude = 37.044729
+longitude = -93.438301
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65631"
+

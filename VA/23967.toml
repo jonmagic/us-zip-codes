@@ -1,6 +1,8 @@
-zip_code = "23967"
-state = "VA"
 city = "Saxe"
 county = "Charlotte"
-longitude = -78.632086
 latitude = 36.905289
+longitude = -78.632086
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23967"
+

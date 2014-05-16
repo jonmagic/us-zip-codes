@@ -1,6 +1,8 @@
-zip_code = "42123"
-state = "KY"
 city = "Austin"
 county = "Barren"
-longitude = -85.992039
 latitude = 36.815869
+longitude = -85.992039
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42123"
+

@@ -1,6 +1,8 @@
-zip_code = "96761"
-state = "HI"
 city = "Lahaina"
 county = "Maui"
-longitude = -156.717614
 latitude = 20.919823
+longitude = -156.717614
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96761"
+

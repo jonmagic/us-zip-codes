@@ -1,6 +1,8 @@
-zip_code = "55976"
-state = "MN"
 city = "Stewartville"
 county = "Olmsted"
-longitude = -92.503744
 latitude = 43.884346
+longitude = -92.503744
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55976"
+

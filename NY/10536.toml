@@ -1,6 +1,8 @@
-zip_code = "10536"
-state = "NY"
 city = "Katonah"
 county = "Westchester"
-longitude = -73.687334
 latitude = 41.271614
+longitude = -73.687334
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10536"
+

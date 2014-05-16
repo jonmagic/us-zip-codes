@@ -1,6 +1,8 @@
-zip_code = "16161"
-state = "PA"
 city = "Wheatland"
 county = "Mercer"
-longitude = -80.502702
 latitude = 41.200256
+longitude = -80.502702
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16161"
+

@@ -1,6 +1,8 @@
-zip_code = "17090"
-state = "PA"
 city = "Shermans Dale"
 county = "Perry"
-longitude = -77.182569
 latitude = 40.342999
+longitude = -77.182569
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17090"
+

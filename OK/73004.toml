@@ -1,6 +1,8 @@
-zip_code = "73004"
-state = "OK"
 city = "Amber"
 county = "Grady"
-longitude = -97.881959
 latitude = 35.031247
+longitude = -97.881959
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73004"
+

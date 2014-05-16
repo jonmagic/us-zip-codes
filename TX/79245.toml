@@ -1,6 +1,8 @@
-zip_code = "79245"
-state = "TX"
 city = "Memphis"
 county = "Hall"
-longitude = -100.539782
 latitude = 34.730964
+longitude = -100.539782
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79245"
+

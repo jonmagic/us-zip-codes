@@ -1,6 +1,8 @@
-zip_code = "67449"
-state = "KS"
 city = "Herington"
 county = "Dickinson"
-longitude = -96.993297
 latitude = 38.792473
+longitude = -96.993297
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67449"
+

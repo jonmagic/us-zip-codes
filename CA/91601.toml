@@ -1,6 +1,8 @@
-zip_code = "91601"
-state = "CA"
 city = "North Hollywood"
 county = "Los Angeles"
-longitude = -118.298662
 latitude = 33.786594
+longitude = -118.298662
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91601"
+

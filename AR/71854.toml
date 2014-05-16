@@ -1,6 +1,8 @@
-zip_code = "71854"
-state = "AR"
 city = "Texarkana"
 county = "Miller"
-longitude = -93.876485
 latitude = 33.431043
+longitude = -93.876485
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71854"
+

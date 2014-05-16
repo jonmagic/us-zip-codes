@@ -1,6 +1,8 @@
-zip_code = "33430"
-state = "FL"
 city = "Belle Glade"
 county = "Palm Beach"
-longitude = -80.430269
 latitude = 26.645895
+longitude = -80.430269
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33430"
+

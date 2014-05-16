@@ -1,6 +1,8 @@
-zip_code = "67530"
-state = "KS"
 city = "Great Bend"
 county = "Barton"
-longitude = -98.775074
 latitude = 38.393567
+longitude = -98.775074
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67530"
+

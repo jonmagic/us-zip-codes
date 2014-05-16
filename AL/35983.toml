@@ -1,6 +1,8 @@
-zip_code = "35983"
-state = "AL"
 city = "Leesburg"
 county = "Cherokee"
-longitude = -85.748018
 latitude = 34.144013
+longitude = -85.748018
+state = ""
+state_code_alpha2 = ""
+zip_code = "35983"
+

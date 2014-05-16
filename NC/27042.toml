@@ -1,6 +1,8 @@
-zip_code = "27042"
-state = "NC"
 city = "Pine Hall"
 county = "Stokes"
-longitude = -80.055357
 latitude = 36.340817
+longitude = -80.055357
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27042"
+

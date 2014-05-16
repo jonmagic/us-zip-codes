@@ -1,6 +1,8 @@
-zip_code = "73754"
-state = "OK"
 city = "Lahoma"
 county = "Garfield"
-longitude = -98.091121
 latitude = 36.388985
+longitude = -98.091121
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73754"
+

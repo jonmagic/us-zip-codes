@@ -1,6 +1,8 @@
-zip_code = "19047"
-state = "PA"
 city = "Langhorne"
 county = "Bucks"
-longitude = -75.065486
 latitude = 40.289021
+longitude = -75.065486
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19047"
+

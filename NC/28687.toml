@@ -1,6 +1,8 @@
-zip_code = "28687"
-state = "NC"
 city = "Statesville"
 county = "Iredell"
-longitude = -80.947028
 latitude = 35.529792
+longitude = -80.947028
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28687"
+

@@ -1,6 +1,8 @@
-zip_code = "46936"
-state = "IN"
 city = "Greentown"
 county = "Howard"
-longitude = -85.997326
 latitude = 40.485442
+longitude = -85.997326
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46936"
+

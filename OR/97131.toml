@@ -1,6 +1,8 @@
-zip_code = "97131"
-state = "OR"
 city = "Nehalem"
 county = "Tillamook"
-longitude = -123.853529
 latitude = 45.651933
+longitude = -123.853529
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97131"
+

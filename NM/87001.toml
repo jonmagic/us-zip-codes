@@ -1,6 +1,8 @@
-zip_code = "87001"
-state = "NM"
 city = "Algodones"
 county = "Sandoval"
-longitude = -106.392905
 latitude = 35.337752
+longitude = -106.392905
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87001"
+

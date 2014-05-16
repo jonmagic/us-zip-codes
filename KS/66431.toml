@@ -1,6 +1,8 @@
-zip_code = "66431"
-state = "KS"
 city = "Harveyville"
 county = "Wabaunsee"
-longitude = -95.963421
 latitude = 38.789698
+longitude = -95.963421
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66431"
+

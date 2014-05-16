@@ -1,6 +1,8 @@
-zip_code = "07852"
-state = "NJ"
 city = "Ledgewood"
 county = "Morris"
-longitude = -74.721224
 latitude = 40.863318
+longitude = -74.721224
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07852"
+

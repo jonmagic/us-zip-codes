@@ -1,6 +1,8 @@
-zip_code = "80449"
-state = "CO"
 city = "Hartsel"
 county = "Park"
-longitude = -105.878811
 latitude = 38.967262
+longitude = -105.878811
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80449"
+

@@ -1,6 +1,8 @@
-zip_code = "76230"
-state = "TX"
 city = "Bowie"
 county = "Montague"
-longitude = -97.856849
 latitude = 33.530011
+longitude = -97.856849
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76230"
+

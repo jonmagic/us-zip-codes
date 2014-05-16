@@ -1,6 +1,8 @@
-zip_code = "08403"
-state = "NJ"
 city = "Longport"
 county = "Atlantic"
-longitude = -74.513497
 latitude = 39.324265
+longitude = -74.513497
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08403"
+

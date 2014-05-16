@@ -1,6 +1,8 @@
-zip_code = "07825"
-state = "NJ"
 city = "Blairstown"
 county = "Warren"
-longitude = -74.937487
 latitude = 40.942238
+longitude = -74.937487
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07825"
+

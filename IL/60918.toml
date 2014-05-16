@@ -1,6 +1,8 @@
-zip_code = "60918"
-state = "IL"
 city = "Buckley"
 county = "Iroquois"
-longitude = -88.023748
 latitude = 40.600817
+longitude = -88.023748
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60918"
+

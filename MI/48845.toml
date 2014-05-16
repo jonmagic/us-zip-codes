@@ -1,6 +1,8 @@
-zip_code = "48845"
-state = "MI"
 city = "Hubbardston"
 county = "Ionia"
-longitude = -84.896225
 latitude = 43.090457
+longitude = -84.896225
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48845"
+

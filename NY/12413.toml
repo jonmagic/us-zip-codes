@@ -1,6 +1,8 @@
-zip_code = "12413"
-state = "NY"
 city = "Cairo"
 county = "Greene"
-longitude = -74.029434
 latitude = 42.301789
+longitude = -74.029434
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12413"
+

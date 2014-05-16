@@ -1,6 +1,8 @@
-zip_code = "85611"
-state = "AZ"
 city = "Elgin"
 county = "Santa Cruz"
-longitude = -110.563551
 latitude = 31.609653
+longitude = -110.563551
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85611"
+

@@ -1,6 +1,8 @@
-zip_code = "61089"
-state = "IL"
 city = "Winslow"
 county = "Stephenson"
-longitude = -89.814639
 latitude = 42.460658
+longitude = -89.814639
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61089"
+

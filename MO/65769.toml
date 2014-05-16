@@ -1,6 +1,8 @@
-zip_code = "65769"
-state = "MO"
 city = "Verona"
 county = "Lawrence"
-longitude = -93.809406
 latitude = 36.985316
+longitude = -93.809406
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65769"
+

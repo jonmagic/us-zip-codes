@@ -1,6 +1,8 @@
-zip_code = "28606"
-state = "NC"
 city = "Boomer"
 county = "Wilkes"
-longitude = -81.23358
 latitude = 36.122485
+longitude = -81.23358
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28606"
+

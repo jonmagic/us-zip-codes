@@ -1,6 +1,8 @@
-zip_code = "18256"
-state = "PA"
 city = "Weston"
 county = "Luzerne"
-longitude = -76.145197
 latitude = 40.944777
+longitude = -76.145197
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18256"
+

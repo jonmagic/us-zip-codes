@@ -1,6 +1,8 @@
-zip_code = "25951"
-state = "WV"
 city = "Hinton"
 county = "Summers"
-longitude = -80.864634
 latitude = 37.645544
+longitude = -80.864634
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25951"
+

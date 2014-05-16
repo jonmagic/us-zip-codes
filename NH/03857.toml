@@ -1,6 +1,8 @@
-zip_code = "03857"
-state = "NH"
 city = "Newmarket"
 county = "Rockingham"
-longitude = -70.891642
 latitude = 42.979021
+longitude = -70.891642
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03857"
+

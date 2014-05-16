@@ -1,6 +1,8 @@
-zip_code = "21662"
-state = "MD"
 city = "Royal Oak"
 county = "Talbot"
-longitude = -76.196838
 latitude = 38.713532
+longitude = -76.196838
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21662"
+

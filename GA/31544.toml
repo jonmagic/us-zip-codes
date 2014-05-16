@@ -1,6 +1,8 @@
-zip_code = "31544"
-state = "GA"
 city = "Jacksonville"
 county = "Telfair"
-longitude = -82.977178
 latitude = 31.83245
+longitude = -82.977178
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31544"
+

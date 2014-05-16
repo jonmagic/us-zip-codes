@@ -1,6 +1,8 @@
-zip_code = "83228"
-state = "ID"
 city = "Clifton"
 county = "Franklin"
-longitude = -111.997341
 latitude = 42.207519
+longitude = -111.997341
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83228"
+

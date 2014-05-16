@@ -1,6 +1,8 @@
-zip_code = "95237"
-state = "CA"
 city = "Lockeford"
 county = "San Joaquin"
-longitude = -121.152088
 latitude = 38.141969
+longitude = -121.152088
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95237"
+

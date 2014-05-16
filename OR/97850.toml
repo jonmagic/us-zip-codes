@@ -1,6 +1,8 @@
-zip_code = "97850"
-state = "OR"
 city = "La Grande"
 county = "Union"
-longitude = -118.164822
 latitude = 45.29535
+longitude = -118.164822
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97850"
+

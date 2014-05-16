@@ -1,6 +1,8 @@
-zip_code = "32798"
-state = "FL"
 city = "Zellwood"
 county = "Orange"
-longitude = -81.583045
 latitude = 28.717472
+longitude = -81.583045
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32798"
+

@@ -1,6 +1,8 @@
-zip_code = "65601"
-state = "MO"
 city = "Aldrich"
 county = "Polk"
-longitude = -93.543226
 latitude = 37.534753
+longitude = -93.543226
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65601"
+

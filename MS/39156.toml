@@ -1,6 +1,8 @@
-zip_code = "39156"
-state = "MS"
 city = "Redwood"
 county = "Warren"
-longitude = -90.754175
 latitude = 32.52792
+longitude = -90.754175
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39156"
+

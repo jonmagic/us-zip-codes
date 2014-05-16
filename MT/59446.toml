@@ -1,6 +1,8 @@
-zip_code = "59446"
-state = "MT"
 city = "Geraldine"
 county = "Chouteau"
-longitude = -110.26891
 latitude = 47.600099
+longitude = -110.26891
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59446"
+

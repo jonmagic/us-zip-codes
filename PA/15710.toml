@@ -1,6 +1,8 @@
-zip_code = "15710"
-state = "PA"
 city = "Alverda"
 county = "Indiana"
-longitude = -78.872314
 latitude = 40.633313
+longitude = -78.872314
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15710"
+

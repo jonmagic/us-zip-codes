@@ -1,6 +1,8 @@
-zip_code = "21158"
-state = "MD"
 city = "Westminster"
 county = "Carroll"
-longitude = -77.029403
 latitude = 39.606981
+longitude = -77.029403
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21158"
+

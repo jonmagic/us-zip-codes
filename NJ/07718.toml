@@ -1,6 +1,8 @@
-zip_code = "07718"
-state = "NJ"
 city = "Belford"
 county = "Monmouth"
-longitude = -74.088534
 latitude = 40.417707
+longitude = -74.088534
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07718"
+

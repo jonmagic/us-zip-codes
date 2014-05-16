@@ -1,6 +1,8 @@
-zip_code = "99103"
-state = "WA"
 city = "Almira"
 county = "Lincoln"
-longitude = -118.599193
 latitude = 47.529705
+longitude = -118.599193
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99103"
+

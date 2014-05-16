@@ -1,6 +1,8 @@
-zip_code = "68345"
-state = "NE"
 city = "Du Bois"
 county = "Pawnee"
-longitude = -96.069797
 latitude = 40.037725
+longitude = -96.069797
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68345"
+

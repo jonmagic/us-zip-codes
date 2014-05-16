@@ -1,6 +1,8 @@
-zip_code = "02035"
-state = "MA"
 city = "Foxboro"
 county = "Norfolk"
-longitude = -71.235774
 latitude = 42.062204
+longitude = -71.235774
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02035"
+

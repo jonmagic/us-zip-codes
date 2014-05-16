@@ -1,6 +1,8 @@
-zip_code = "62040"
-state = "IL"
 city = "Granite City"
 county = "Madison"
-longitude = -90.1289
 latitude = 38.802398
+longitude = -90.1289
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62040"
+

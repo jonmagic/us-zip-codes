@@ -1,6 +1,8 @@
-zip_code = "65438"
-state = "MO"
 city = "Birch Tree"
 county = "Shannon"
-longitude = -91.494175
 latitude = 36.997849
+longitude = -91.494175
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65438"
+

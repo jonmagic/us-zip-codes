@@ -1,6 +1,8 @@
-zip_code = "26032"
-state = "WV"
 city = "Bethany"
 county = "Brooke"
-longitude = -80.550337
 latitude = 40.210727
+longitude = -80.550337
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26032"
+

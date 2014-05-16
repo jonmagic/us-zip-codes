@@ -1,6 +1,8 @@
-zip_code = "00739"
-state = "PR"
 city = "Cidra"
 county = "Cidra"
-longitude = -66.169519
 latitude = 18.181469
+longitude = -66.169519
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00739"
+

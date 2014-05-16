@@ -1,6 +1,8 @@
-zip_code = "61012"
-state = "IL"
 city = "Capron"
 county = "Boone"
-longitude = -88.759953
 latitude = 42.41042
+longitude = -88.759953
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61012"
+

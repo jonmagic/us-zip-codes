@@ -1,6 +1,8 @@
-zip_code = "03268"
-state = "NH"
 city = "Salisbury"
 county = "Merrimack"
-longitude = -71.558817
 latitude = 43.361756
+longitude = -71.558817
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03268"
+

@@ -1,6 +1,8 @@
-zip_code = "40348"
-state = "KY"
 city = "Millersburg"
 county = "Bourbon"
-longitude = -84.151319
 latitude = 38.296337
+longitude = -84.151319
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40348"
+

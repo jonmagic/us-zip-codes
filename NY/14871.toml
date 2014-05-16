@@ -1,6 +1,8 @@
-zip_code = "14871"
-state = "NY"
 city = "Pine City"
 county = "Chemung"
-longitude = -76.882455
 latitude = 42.047024
+longitude = -76.882455
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14871"
+

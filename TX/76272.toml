@@ -1,6 +1,8 @@
-zip_code = "76272"
-state = "TX"
 city = "Valley View"
 county = "Cooke"
-longitude = -97.143184
 latitude = 33.495794
+longitude = -97.143184
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76272"
+

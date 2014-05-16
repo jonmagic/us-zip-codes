@@ -1,6 +1,8 @@
-zip_code = "97141"
-state = "OR"
 city = "Tillamook"
 county = "Tillamook"
-longitude = -123.740874
 latitude = 45.461952
+longitude = -123.740874
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97141"
+

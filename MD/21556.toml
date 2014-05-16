@@ -1,6 +1,8 @@
-zip_code = "21556"
-state = "MD"
 city = "Pinto"
 county = "Allegany"
-longitude = -78.843962
 latitude = 39.572452
+longitude = -78.843962
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21556"
+

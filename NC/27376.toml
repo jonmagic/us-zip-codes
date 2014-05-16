@@ -1,6 +1,8 @@
-zip_code = "27376"
-state = "NC"
 city = "West End"
 county = "Moore"
-longitude = -79.468201
 latitude = 35.240268
+longitude = -79.468201
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27376"
+

@@ -1,6 +1,8 @@
-zip_code = "59412"
-state = "MT"
 city = "Belt"
 county = "Cascade"
-longitude = -110.884712
 latitude = 47.319621
+longitude = -110.884712
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59412"
+

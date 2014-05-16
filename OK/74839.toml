@@ -1,6 +1,8 @@
-zip_code = "74839"
-state = "OK"
 city = "Dustin"
 county = "Hughes"
-longitude = -96.033734
 latitude = 35.270328
+longitude = -96.033734
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74839"
+

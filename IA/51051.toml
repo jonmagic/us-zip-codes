@@ -1,6 +1,8 @@
-zip_code = "51051"
-state = "IA"
 city = "Rodney"
 county = "Monona"
-longitude = -95.976865
 latitude = 42.197953
+longitude = -95.976865
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51051"
+

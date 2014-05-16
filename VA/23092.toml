@@ -1,6 +1,8 @@
-zip_code = "23092"
-state = "VA"
 city = "Locust Hill"
 county = "Middlesex"
-longitude = -76.498426
 latitude = 37.582554
+longitude = -76.498426
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23092"
+

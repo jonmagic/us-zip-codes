@@ -1,6 +1,8 @@
-zip_code = "74050"
-state = "OK"
 city = "Oakhurst"
 county = "Tulsa"
-longitude = -96.069726
 latitude = 36.07694
+longitude = -96.069726
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74050"
+

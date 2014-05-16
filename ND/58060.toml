@@ -1,6 +1,8 @@
-zip_code = "58060"
-state = "ND"
 city = "Milnor"
 county = "Sargent"
-longitude = -97.477179
 latitude = 46.200657
+longitude = -97.477179
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58060"
+

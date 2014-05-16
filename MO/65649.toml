@@ -1,6 +1,8 @@
-zip_code = "65649"
-state = "MO"
 city = "Fair Play"
 county = "Polk"
-longitude = -93.559197
 latitude = 37.631792
+longitude = -93.559197
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65649"
+

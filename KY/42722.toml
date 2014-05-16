@@ -1,6 +1,8 @@
-zip_code = "42722"
-state = "KY"
 city = "Canmer"
 county = "Hart"
-longitude = -85.727548
 latitude = 37.277025
+longitude = -85.727548
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42722"
+

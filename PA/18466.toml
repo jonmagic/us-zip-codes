@@ -1,6 +1,8 @@
-zip_code = "18466"
-state = "PA"
 city = "Tobyhanna"
 county = "Monroe"
-longitude = -75.461757
 latitude = 41.17551
+longitude = -75.461757
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18466"
+

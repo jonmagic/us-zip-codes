@@ -1,6 +1,8 @@
-zip_code = "24539"
-state = "VA"
 city = "Crystal Hill"
 county = "Halifax"
-longitude = -78.831701
 latitude = 36.866093
+longitude = -78.831701
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24539"
+

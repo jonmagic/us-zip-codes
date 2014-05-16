@@ -1,6 +1,8 @@
-zip_code = "54755"
-state = "WI"
 city = "Mondovi"
 county = "Buffalo"
-longitude = -91.68068
 latitude = 44.48773
+longitude = -91.68068
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54755"
+

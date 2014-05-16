@@ -1,6 +1,8 @@
-zip_code = "72948"
-state = "AR"
 city = "Natural Dam"
 county = "Crawford"
-longitude = -94.404185
 latitude = 35.680583
+longitude = -94.404185
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72948"
+

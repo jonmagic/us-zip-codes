@@ -1,6 +1,8 @@
-zip_code = "98350"
-state = "WA"
 city = "La Push"
 county = "Clallam"
-longitude = -124.62608
 latitude = 47.905203
+longitude = -124.62608
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98350"
+

@@ -1,6 +1,8 @@
-zip_code = "14754"
-state = "NY"
 city = "Little Genesee"
 county = "Allegany"
-longitude = -78.209708
 latitude = 42.031872
+longitude = -78.209708
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14754"
+

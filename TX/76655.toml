@@ -1,6 +1,8 @@
-zip_code = "76655"
-state = "TX"
 city = "Lorena"
 county = "Mclennan"
-longitude = -97.16353
 latitude = 31.527918
+longitude = -97.16353
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76655"
+

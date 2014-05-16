@@ -1,6 +1,8 @@
-zip_code = "95338"
-state = "CA"
 city = "Mariposa"
 county = "Mariposa"
-longitude = -120.018973
 latitude = 37.572907
+longitude = -120.018973
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95338"
+

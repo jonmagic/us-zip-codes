@@ -1,6 +1,8 @@
-zip_code = "66039"
-state = "KS"
 city = "Kincaid"
 county = "Anderson"
-longitude = -95.188557
 latitude = 38.110393
+longitude = -95.188557
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66039"
+

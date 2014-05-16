@@ -1,6 +1,8 @@
-zip_code = "65653"
-state = "MO"
 city = "Forsyth"
 county = "Taney"
-longitude = -93.107824
 latitude = 36.726771
+longitude = -93.107824
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65653"
+

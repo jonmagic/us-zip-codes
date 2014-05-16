@@ -1,6 +1,8 @@
-zip_code = "07512"
-state = "NJ"
 city = "Totowa"
 county = "Passaic"
-longitude = -74.22199
 latitude = 40.901698
+longitude = -74.22199
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07512"
+

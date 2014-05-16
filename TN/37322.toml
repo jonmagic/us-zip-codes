@@ -1,6 +1,8 @@
-zip_code = "37322"
-state = "TN"
 city = "Decatur"
 county = "Meigs"
-longitude = -84.84546
 latitude = 35.484053
+longitude = -84.84546
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37322"
+

@@ -1,6 +1,8 @@
-zip_code = "19930"
-state = "DE"
 city = "Bethany Beach"
 county = "Sussex"
-longitude = -75.186955
 latitude = 38.555533
+longitude = -75.186955
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19930"
+

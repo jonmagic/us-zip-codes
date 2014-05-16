@@ -1,6 +1,8 @@
-zip_code = "04255"
-state = "ME"
 city = "Greenwood"
 county = "Oxford"
-longitude = -70.708774
 latitude = 44.401595
+longitude = -70.708774
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04255"
+

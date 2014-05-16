@@ -1,6 +1,8 @@
-zip_code = "19345"
-state = "PA"
 city = "Immaculata"
 county = "Chester"
-longitude = -75.719347
 latitude = 39.847803
+longitude = -75.719347
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19345"
+

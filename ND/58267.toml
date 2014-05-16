@@ -1,6 +1,8 @@
-zip_code = "58267"
-state = "ND"
 city = "Northwood"
 county = "Grand Forks"
-longitude = -97.603773
 latitude = 47.759107
+longitude = -97.603773
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58267"
+

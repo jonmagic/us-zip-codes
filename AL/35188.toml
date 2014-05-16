@@ -1,6 +1,8 @@
-zip_code = "35188"
-state = "AL"
 city = "Woodstock"
 county = "Bibb"
-longitude = -87.165935
 latitude = 33.17994
+longitude = -87.165935
+state = ""
+state_code_alpha2 = ""
+zip_code = "35188"
+

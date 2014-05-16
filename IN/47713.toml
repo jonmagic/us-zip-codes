@@ -1,6 +1,8 @@
-zip_code = "47713"
-state = "IN"
 city = "Evansville"
 county = "Vanderburgh"
-longitude = -87.547564
 latitude = 37.95219
+longitude = -87.547564
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47713"
+

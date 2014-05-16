@@ -1,6 +1,8 @@
-zip_code = "59463"
-state = "MT"
 city = "Monarch"
 county = "Cascade"
-longitude = -110.883026
 latitude = 47.05149
+longitude = -110.883026
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59463"
+

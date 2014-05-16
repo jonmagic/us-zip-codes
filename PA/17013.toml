@@ -1,6 +1,8 @@
-zip_code = "17013"
-state = "PA"
 city = "Carlisle"
 county = "Cumberland"
-longitude = -77.228817
 latitude = 40.168495
+longitude = -77.228817
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17013"
+

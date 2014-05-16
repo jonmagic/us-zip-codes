@@ -1,6 +1,8 @@
-zip_code = "06702"
-state = "CT"
 city = "Waterbury"
 county = "New Haven"
-longitude = -73.071124
 latitude = 41.540696
+longitude = -73.071124
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06702"
+

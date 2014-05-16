@@ -1,6 +1,8 @@
-zip_code = "75158"
-state = "TX"
 city = "Scurry"
 county = "Kaufman"
-longitude = -96.384263
 latitude = 32.463618
+longitude = -96.384263
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75158"
+

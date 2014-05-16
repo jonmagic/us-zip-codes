@@ -1,6 +1,8 @@
-zip_code = "72641"
-state = "AR"
 city = "Jasper"
 county = "Newton"
-longitude = -93.187651
 latitude = 36.005808
+longitude = -93.187651
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72641"
+

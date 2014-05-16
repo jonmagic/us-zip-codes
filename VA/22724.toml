@@ -1,6 +1,8 @@
-zip_code = "22724"
-state = "VA"
 city = "Jeffersonton"
 county = "Culpeper"
-longitude = -77.907403
 latitude = 38.622436
+longitude = -77.907403
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22724"
+

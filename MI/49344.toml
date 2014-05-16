@@ -1,6 +1,8 @@
-zip_code = "49344"
-state = "MI"
 city = "Shelbyville"
 county = "Allegan"
-longitude = -85.612828
 latitude = 42.612772
+longitude = -85.612828
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49344"
+

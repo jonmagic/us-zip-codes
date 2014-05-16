@@ -1,6 +1,8 @@
-zip_code = "08016"
-state = "NJ"
 city = "Burlington"
 county = "Burlington"
-longitude = -74.751146
 latitude = 40.089874
+longitude = -74.751146
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08016"
+

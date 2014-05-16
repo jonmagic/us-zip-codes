@@ -1,6 +1,8 @@
-zip_code = "54443"
-state = "WI"
 city = "Junction City"
 county = "Portage"
-longitude = -89.707997
 latitude = 44.588962
+longitude = -89.707997
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54443"
+

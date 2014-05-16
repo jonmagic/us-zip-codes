@@ -1,6 +1,8 @@
-zip_code = "04772"
-state = "ME"
 city = "Saint Agatha"
 county = "Aroostook"
-longitude = -68.335025
 latitude = 47.263956
+longitude = -68.335025
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04772"
+

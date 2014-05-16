@@ -1,6 +1,8 @@
-zip_code = "61091"
-state = "IL"
 city = "Woosung"
 county = "Ogle"
-longitude = -89.540365
 latitude = 41.903068
+longitude = -89.540365
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61091"
+

@@ -1,6 +1,8 @@
-zip_code = "76240"
-state = "TX"
 city = "Gainesville"
 county = "Cooke"
-longitude = -97.158295
 latitude = 33.654698
+longitude = -97.158295
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76240"
+

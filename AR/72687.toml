@@ -1,6 +1,8 @@
-zip_code = "72687"
-state = "AR"
 city = "Yellville"
 county = "Marion"
-longitude = -92.688068
 latitude = 36.254905
+longitude = -92.688068
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72687"
+

@@ -1,6 +1,8 @@
-zip_code = "06280"
-state = "CT"
 city = "Windham"
 county = "Windham"
-longitude = -72.137843
 latitude = 41.693914
+longitude = -72.137843
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06280"
+

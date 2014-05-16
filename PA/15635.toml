@@ -1,6 +1,8 @@
-zip_code = "15635"
-state = "PA"
 city = "Hannastown"
 county = "Westmoreland"
-longitude = -79.49789
 latitude = 40.352037
+longitude = -79.49789
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15635"
+

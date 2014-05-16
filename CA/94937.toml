@@ -1,6 +1,8 @@
-zip_code = "94937"
-state = "CA"
 city = "Inverness"
 county = "Marin"
-longitude = -122.887717
 latitude = 38.112571
+longitude = -122.887717
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94937"
+

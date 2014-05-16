@@ -1,6 +1,8 @@
-zip_code = "38850"
-state = "MS"
 city = "Houlka"
 county = "Chickasaw"
-longitude = -88.996107
 latitude = 34.013571
+longitude = -88.996107
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38850"
+

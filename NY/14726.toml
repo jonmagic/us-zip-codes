@@ -1,6 +1,8 @@
-zip_code = "14726"
-state = "NY"
 city = "Conewango Valley"
 county = "Cattaraugus"
-longitude = -79.008294
 latitude = 42.252473
+longitude = -79.008294
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14726"
+

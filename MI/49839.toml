@@ -1,6 +1,8 @@
-zip_code = "49839"
-state = "MI"
 city = "Grand Marais"
 county = "Alger"
-longitude = -85.964145
 latitude = 46.668806
+longitude = -85.964145
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49839"
+

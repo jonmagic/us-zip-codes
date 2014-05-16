@@ -1,6 +1,8 @@
-zip_code = "65281"
-state = "MO"
 city = "Salisbury"
 county = "Chariton"
-longitude = -92.802909
 latitude = 39.425568
+longitude = -92.802909
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65281"
+

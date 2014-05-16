@@ -1,6 +1,8 @@
-zip_code = "17779"
-state = "PA"
 city = "Woolrich"
 county = "Clinton"
-longitude = -77.372827
 latitude = 41.187424
+longitude = -77.372827
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17779"
+

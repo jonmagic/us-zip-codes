@@ -1,6 +1,8 @@
-zip_code = "99324"
-state = "WA"
 city = "College Place"
 county = "Walla Walla"
-longitude = -118.409275
 latitude = 46.047069
+longitude = -118.409275
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99324"
+

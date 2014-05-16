@@ -1,6 +1,8 @@
-zip_code = "55615"
-state = "MN"
 city = "Tofte"
 county = "Cook"
-longitude = -90.801861
 latitude = 47.648636
+longitude = -90.801861
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55615"
+

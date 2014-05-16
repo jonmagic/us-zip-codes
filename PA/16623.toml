@@ -1,6 +1,8 @@
-zip_code = "16623"
-state = "PA"
 city = "Cassville"
 county = "Huntingdon"
-longitude = -78.022032
 latitude = 40.285076
+longitude = -78.022032
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16623"
+

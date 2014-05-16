@@ -1,6 +1,8 @@
-zip_code = "16322"
-state = "PA"
 city = "Endeavor"
 county = "Forest"
-longitude = -79.239101
 latitude = 41.475887
+longitude = -79.239101
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16322"
+

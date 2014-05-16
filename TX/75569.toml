@@ -1,6 +1,8 @@
-zip_code = "75569"
-state = "TX"
 city = "Nash"
 county = "Bowie"
-longitude = -94.223069
 latitude = 33.406372
+longitude = -94.223069
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75569"
+

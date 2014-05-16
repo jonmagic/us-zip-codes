@@ -1,6 +1,8 @@
-zip_code = "24586"
-state = "VA"
 city = "Ringgold"
 county = "Pittsylvania"
-longitude = -79.276568
 latitude = 36.6136
+longitude = -79.276568
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24586"
+

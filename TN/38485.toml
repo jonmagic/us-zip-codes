@@ -1,6 +1,8 @@
-zip_code = "38485"
-state = "TN"
 city = "Waynesboro"
 county = "Wayne"
-longitude = -87.775459
 latitude = 35.345882
+longitude = -87.775459
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38485"
+

@@ -1,6 +1,8 @@
-zip_code = "56297"
-state = "MN"
 city = "Wood Lake"
 county = "Yellow Medicine"
-longitude = -95.576938
 latitude = 44.667478
+longitude = -95.576938
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56297"
+

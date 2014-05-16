@@ -1,6 +1,8 @@
-zip_code = "29543"
-state = "SC"
 city = "Fork"
 county = "Dillon"
-longitude = -79.276529
 latitude = 34.375384
+longitude = -79.276529
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29543"
+

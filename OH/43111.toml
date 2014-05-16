@@ -1,6 +1,8 @@
-zip_code = "43111"
-state = "OH"
 city = "Carbon Hill"
 county = "Hocking"
-longitude = -82.242899
 latitude = 39.504455
+longitude = -82.242899
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43111"
+

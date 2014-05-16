@@ -1,6 +1,8 @@
-zip_code = "45312"
-state = "OH"
 city = "Casstown"
 county = "Miami"
-longitude = -84.08161
 latitude = 40.066567
+longitude = -84.08161
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45312"
+

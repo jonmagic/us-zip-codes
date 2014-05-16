@@ -1,6 +1,8 @@
-zip_code = "84783"
-state = "UT"
 city = "Dammeron Valley"
 county = "Washington"
-longitude = -113.665249
 latitude = 37.307734
+longitude = -113.665249
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84783"
+

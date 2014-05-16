@@ -1,6 +1,8 @@
-zip_code = "42050"
-state = "KY"
 city = "Hickman"
 county = "Fulton"
-longitude = -89.208001
 latitude = 36.548671
+longitude = -89.208001
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42050"
+

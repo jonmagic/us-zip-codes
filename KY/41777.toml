@@ -1,6 +1,8 @@
-zip_code = "41777"
-state = "KY"
 city = "Yeaddiss"
 county = "Leslie"
-longitude = -83.236134
 latitude = 37.056529
+longitude = -83.236134
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41777"
+

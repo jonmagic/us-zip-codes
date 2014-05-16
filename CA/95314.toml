@@ -1,6 +1,8 @@
-zip_code = "95314"
-state = "CA"
 city = "Dardanelle"
 county = "Tuolumne"
-longitude = -119.92502
 latitude = 38.033541
+longitude = -119.92502
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95314"
+

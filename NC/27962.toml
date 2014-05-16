@@ -1,6 +1,8 @@
-zip_code = "27962"
-state = "NC"
 city = "Plymouth"
 county = "Washington"
-longitude = -76.609454
 latitude = 35.818681
+longitude = -76.609454
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27962"
+

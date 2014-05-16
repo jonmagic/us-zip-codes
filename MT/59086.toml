@@ -1,6 +1,8 @@
-zip_code = "59086"
-state = "MT"
 city = "Wilsall"
 county = "Park"
-longitude = -110.599503
 latitude = 46.016146
+longitude = -110.599503
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59086"
+

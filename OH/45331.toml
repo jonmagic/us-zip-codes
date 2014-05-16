@@ -1,6 +1,8 @@
-zip_code = "45331"
-state = "OH"
 city = "Greenville"
 county = "Darke"
-longitude = -84.649068
 latitude = 40.156478
+longitude = -84.649068
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45331"
+

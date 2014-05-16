@@ -1,6 +1,8 @@
-zip_code = "02666"
-state = "MA"
 city = "Truro"
 county = "Barnstable"
-longitude = -70.047163
 latitude = 41.987377
+longitude = -70.047163
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02666"
+

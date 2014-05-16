@@ -1,6 +1,8 @@
-zip_code = "37376"
-state = "TN"
 city = "Sherwood"
 county = "Franklin"
-longitude = -85.930195
 latitude = 35.045233
+longitude = -85.930195
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37376"
+

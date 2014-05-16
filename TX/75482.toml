@@ -1,6 +1,8 @@
-zip_code = "75482"
-state = "TX"
 city = "Sulphur Springs"
 county = "Hopkins"
-longitude = -95.600838
 latitude = 33.126435
+longitude = -95.600838
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75482"
+

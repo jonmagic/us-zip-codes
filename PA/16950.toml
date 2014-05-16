@@ -1,6 +1,8 @@
-zip_code = "16950"
-state = "PA"
 city = "Westfield"
 county = "Tioga"
-longitude = -77.523033
 latitude = 41.919341
+longitude = -77.523033
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16950"
+

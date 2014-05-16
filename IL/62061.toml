@@ -1,6 +1,8 @@
-zip_code = "62061"
-state = "IL"
 city = "Marine"
 county = "Madison"
-longitude = -89.778648
 latitude = 38.779256
+longitude = -89.778648
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62061"
+

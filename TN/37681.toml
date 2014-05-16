@@ -1,6 +1,8 @@
-zip_code = "37681"
-state = "TN"
 city = "Limestone"
 county = "Washington"
-longitude = -82.582954
 latitude = 36.251851
+longitude = -82.582954
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37681"
+

@@ -1,6 +1,8 @@
-zip_code = "52055"
-state = "IA"
 city = "Littleport"
 county = "Clayton"
-longitude = -91.252459
 latitude = 42.862739
+longitude = -91.252459
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52055"
+

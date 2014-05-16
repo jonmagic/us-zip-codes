@@ -1,6 +1,8 @@
-zip_code = "97409"
-state = "OR"
 city = "Alvadore"
 county = "Lane"
-longitude = -123.266648
 latitude = 44.127631
+longitude = -123.266648
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97409"
+

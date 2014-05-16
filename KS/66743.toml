@@ -1,6 +1,8 @@
-zip_code = "66743"
-state = "KS"
 city = "Girard"
 county = "Crawford"
-longitude = -94.881385
 latitude = 37.471611
+longitude = -94.881385
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66743"
+

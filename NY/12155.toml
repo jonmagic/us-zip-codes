@@ -1,6 +1,8 @@
-zip_code = "12155"
-state = "NY"
 city = "Schenevus"
 county = "Otsego"
-longitude = -74.820584
 latitude = 42.605453
+longitude = -74.820584
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12155"
+

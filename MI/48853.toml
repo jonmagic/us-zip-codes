@@ -1,6 +1,8 @@
-zip_code = "48853"
-state = "MI"
 city = "Maple Rapids"
 county = "Clinton"
-longitude = -84.68977
 latitude = 43.099153
+longitude = -84.68977
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48853"
+

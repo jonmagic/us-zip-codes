@@ -1,6 +1,8 @@
-zip_code = "67905"
-state = "KS"
 city = "Liberal"
 county = "Seward"
-longitude = -100.938049
 latitude = 37.021641
+longitude = -100.938049
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67905"
+

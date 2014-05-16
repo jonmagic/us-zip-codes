@@ -1,6 +1,8 @@
-zip_code = "68067"
-state = "NE"
 city = "Walthill"
 county = "Thurston"
-longitude = -96.493734
 latitude = 42.14967
+longitude = -96.493734
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68067"
+

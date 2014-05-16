@@ -1,6 +1,8 @@
-zip_code = "58474"
-state = "ND"
 city = "Oakes"
 county = "Dickey"
-longitude = -98.225652
 latitude = 46.109493
+longitude = -98.225652
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58474"
+

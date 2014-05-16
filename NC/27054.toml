@@ -1,6 +1,8 @@
-zip_code = "27054"
-state = "NC"
 city = "Woodleaf"
 county = "Rowan"
-longitude = -80.605096
 latitude = 35.790116
+longitude = -80.605096
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27054"
+

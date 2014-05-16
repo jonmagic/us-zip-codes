@@ -1,6 +1,8 @@
-zip_code = "17069"
-state = "PA"
 city = "New Buffalo"
 county = "Perry"
-longitude = -76.970942
 latitude = 40.455272
+longitude = -76.970942
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17069"
+

@@ -1,6 +1,8 @@
-zip_code = "37645"
-state = "TN"
 city = "Mount Carmel"
 county = "Hawkins"
-longitude = -82.683281
 latitude = 36.564092
+longitude = -82.683281
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37645"
+

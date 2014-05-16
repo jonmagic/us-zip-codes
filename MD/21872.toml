@@ -1,6 +1,8 @@
-zip_code = "21872"
-state = "MD"
 city = "Whaleyville"
 county = "Worcester"
-longitude = -75.281074
 latitude = 38.412085
+longitude = -75.281074
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21872"
+

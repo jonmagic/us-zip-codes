@@ -1,6 +1,8 @@
-zip_code = "48881"
-state = "MI"
 city = "Saranac"
 county = "Ionia"
-longitude = -85.20298
 latitude = 42.93571
+longitude = -85.20298
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48881"
+

@@ -1,6 +1,8 @@
-zip_code = "55923"
-state = "MN"
 city = "Chatfield"
 county = "Fillmore"
-longitude = -92.139962
 latitude = 43.758684
+longitude = -92.139962
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55923"
+

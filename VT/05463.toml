@@ -1,6 +1,8 @@
-zip_code = "05463"
-state = "VT"
 city = "Isle La Motte"
 county = "Grand Isle"
-longitude = -73.338597
 latitude = 44.878094
+longitude = -73.338597
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05463"
+

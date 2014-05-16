@@ -1,6 +1,8 @@
-zip_code = "72677"
-state = "AR"
 city = "Summit"
 county = "Marion"
-longitude = -92.685913
 latitude = 36.267239
+longitude = -92.685913
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72677"
+

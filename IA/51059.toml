@@ -1,6 +1,8 @@
-zip_code = "51059"
-state = "IA"
 city = "Turin"
 county = "Monona"
-longitude = -95.965126
 latitude = 42.033205
+longitude = -95.965126
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51059"
+

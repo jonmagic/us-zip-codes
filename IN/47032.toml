@@ -1,6 +1,8 @@
-zip_code = "47032"
-state = "IN"
 city = "Moores Hill"
 county = "Dearborn"
-longitude = -84.980417
 latitude = 39.16259
+longitude = -84.980417
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47032"
+

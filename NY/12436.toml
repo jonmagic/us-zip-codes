@@ -1,6 +1,8 @@
-zip_code = "12436"
-state = "NY"
 city = "Haines Falls"
 county = "Greene"
-longitude = -74.102319
 latitude = 42.19551
+longitude = -74.102319
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12436"
+

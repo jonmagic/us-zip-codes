@@ -1,6 +1,8 @@
-zip_code = "70756"
-state = "LA"
 city = "Lottie"
 county = "Pointe Coupee"
-longitude = -91.628222
 latitude = 30.572542
+longitude = -91.628222
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70756"
+

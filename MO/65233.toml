@@ -1,6 +1,8 @@
-zip_code = "65233"
-state = "MO"
 city = "Boonville"
 county = "Cooper"
-longitude = -92.733329
 latitude = 38.884444
+longitude = -92.733329
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65233"
+

@@ -1,6 +1,8 @@
-zip_code = "47247"
-state = "IN"
 city = "Jonesville"
 county = "Bartholomew"
-longitude = -85.888579
 latitude = 39.059349
+longitude = -85.888579
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47247"
+

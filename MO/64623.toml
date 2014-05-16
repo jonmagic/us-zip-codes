@@ -1,6 +1,8 @@
-zip_code = "64623"
-state = "MO"
 city = "Bosworth"
 county = "Carroll"
-longitude = -93.337526
 latitude = 39.469659
+longitude = -93.337526
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64623"
+

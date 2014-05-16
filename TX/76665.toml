@@ -1,6 +1,8 @@
-zip_code = "76665"
-state = "TX"
 city = "Meridian"
 county = "Bosque"
-longitude = -97.652901
 latitude = 31.926424
+longitude = -97.652901
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76665"
+

@@ -1,6 +1,8 @@
-zip_code = "60468"
-state = "IL"
 city = "Peotone"
 county = "Will"
-longitude = -87.772133
 latitude = 41.346316
+longitude = -87.772133
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60468"
+

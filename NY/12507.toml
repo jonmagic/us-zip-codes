@@ -1,6 +1,8 @@
-zip_code = "12507"
-state = "NY"
 city = "Barrytown"
 county = "Dutchess"
-longitude = -73.919899
 latitude = 42.000547
+longitude = -73.919899
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12507"
+

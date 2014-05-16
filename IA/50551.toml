@@ -1,6 +1,8 @@
-zip_code = "50551"
-state = "IA"
 city = "Jolley"
 county = "Calhoun"
-longitude = -94.756959
 latitude = 42.487057
+longitude = -94.756959
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50551"
+

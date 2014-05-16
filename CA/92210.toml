@@ -1,6 +1,8 @@
-zip_code = "92210"
-state = "CA"
 city = "Indian Wells"
 county = "Riverside"
-longitude = -116.303759
 latitude = 33.70271
+longitude = -116.303759
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92210"
+

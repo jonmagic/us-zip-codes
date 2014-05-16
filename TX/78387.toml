@@ -1,6 +1,8 @@
-zip_code = "78387"
-state = "TX"
 city = "Sinton"
 county = "San Patricio"
-longitude = -97.556615
 latitude = 28.012823
+longitude = -97.556615
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78387"
+

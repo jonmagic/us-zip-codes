@@ -1,6 +1,8 @@
-zip_code = "14214"
-state = "NY"
 city = "Buffalo"
 county = "Erie"
-longitude = -78.835256
 latitude = 42.940107
+longitude = -78.835256
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14214"
+

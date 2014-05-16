@@ -1,6 +1,8 @@
-zip_code = "91745"
-state = "CA"
 city = "Hacienda Heights"
 county = "Los Angeles"
-longitude = -117.981631
 latitude = 33.976114
+longitude = -117.981631
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91745"
+

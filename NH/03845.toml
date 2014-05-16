@@ -1,6 +1,8 @@
-zip_code = "03845"
-state = "NH"
 city = "Intervale"
 county = "Carroll"
-longitude = -71.134348
 latitude = 44.082716
+longitude = -71.134348
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03845"
+

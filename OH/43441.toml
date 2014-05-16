@@ -1,6 +1,8 @@
-zip_code = "43441"
-state = "OH"
 city = "Lemoyne"
 county = "Wood"
-longitude = -83.45938
 latitude = 41.536132
+longitude = -83.45938
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43441"
+

@@ -1,6 +1,8 @@
-zip_code = "31065"
-state = "GA"
 city = "Montrose"
 county = "Laurens"
-longitude = -83.159741
 latitude = 32.56204
+longitude = -83.159741
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31065"
+

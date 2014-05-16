@@ -1,6 +1,8 @@
-zip_code = "21044"
-state = "MD"
 city = "Columbia"
 county = "Howard"
-longitude = -76.887905
 latitude = 39.206132
+longitude = -76.887905
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21044"
+

@@ -1,6 +1,8 @@
-zip_code = "37616"
-state = "TN"
 city = "Afton"
 county = "Greene"
-longitude = -82.734005
 latitude = 36.227409
+longitude = -82.734005
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37616"
+

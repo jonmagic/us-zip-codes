@@ -1,6 +1,8 @@
-zip_code = "96143"
-state = "CA"
 city = "Kings Beach"
 county = "Placer"
-longitude = -120.083236
 latitude = 39.201123
+longitude = -120.083236
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96143"
+

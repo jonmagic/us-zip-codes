@@ -1,6 +1,8 @@
-zip_code = "38501"
-state = "TN"
 city = "Cookeville"
 county = "Putnam"
-longitude = -85.542327
 latitude = 36.217846
+longitude = -85.542327
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38501"
+

@@ -1,6 +1,8 @@
-zip_code = "32333"
-state = "FL"
 city = "Havana"
 county = "Gadsden"
-longitude = -84.574009
 latitude = 30.591733
+longitude = -84.574009
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32333"
+

@@ -1,6 +1,8 @@
-zip_code = "37032"
-state = "TN"
 city = "Cedar Hill"
 county = "Robertson"
-longitude = -87.008437
 latitude = 36.521638
+longitude = -87.008437
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37032"
+

@@ -1,6 +1,8 @@
-zip_code = "17358"
-state = "PA"
 city = "Rossville"
 county = "York"
-longitude = -76.687826
 latitude = 39.972985
+longitude = -76.687826
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17358"
+

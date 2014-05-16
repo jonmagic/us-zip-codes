@@ -1,6 +1,8 @@
-zip_code = "97498"
-state = "OR"
 city = "Yachats"
 county = "Lincoln"
-longitude = -124.024246
 latitude = 44.333892
+longitude = -124.024246
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97498"
+

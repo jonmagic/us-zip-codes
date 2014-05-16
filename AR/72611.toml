@@ -1,6 +1,8 @@
-zip_code = "72611"
-state = "AR"
 city = "Alpena"
 county = "Boone"
-longitude = -93.252276
 latitude = 36.310814
+longitude = -93.252276
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72611"
+

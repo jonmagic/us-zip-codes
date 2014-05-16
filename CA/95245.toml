@@ -1,6 +1,8 @@
-zip_code = "95245"
-state = "CA"
 city = "Mokelumne Hill"
 county = "Calaveras"
-longitude = -120.571875
 latitude = 38.29138
+longitude = -120.571875
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95245"
+

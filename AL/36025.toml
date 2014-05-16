@@ -1,6 +1,8 @@
-zip_code = "36025"
-state = "AL"
 city = "Elmore"
 county = "Elmore"
-longitude = -86.134553
 latitude = 32.632954
+longitude = -86.134553
+state = ""
+state_code_alpha2 = ""
+zip_code = "36025"
+

@@ -1,6 +1,8 @@
-zip_code = "04421"
-state = "ME"
 city = "Castine"
 county = "Hancock"
-longitude = -68.792883
 latitude = 44.415639
+longitude = -68.792883
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04421"
+

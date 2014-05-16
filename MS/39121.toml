@@ -1,6 +1,8 @@
-zip_code = "39121"
-state = "MS"
 city = "Natchez"
 county = "Adams"
-longitude = -91.404404
 latitude = 31.470602
+longitude = -91.404404
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39121"
+

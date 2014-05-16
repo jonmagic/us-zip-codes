@@ -1,6 +1,8 @@
-zip_code = "19529"
-state = "PA"
 city = "Kempton"
 county = "Berks"
-longitude = -75.883429
 latitude = 40.627864
+longitude = -75.883429
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19529"
+

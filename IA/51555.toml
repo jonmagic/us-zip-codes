@@ -1,6 +1,8 @@
-zip_code = "51555"
-state = "IA"
 city = "Missouri Valley"
 county = "Harrison"
-longitude = -95.908803
 latitude = 41.605102
+longitude = -95.908803
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51555"
+

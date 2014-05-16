@@ -1,6 +1,8 @@
-zip_code = "62674"
-state = "IL"
 city = "Palmyra"
 county = "Macoupin"
-longitude = -90.031093
 latitude = 39.422719
+longitude = -90.031093
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62674"
+

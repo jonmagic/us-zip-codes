@@ -1,6 +1,8 @@
-zip_code = "37873"
-state = "TN"
 city = "Surgoinsville"
 county = "Hawkins"
-longitude = -82.857862
 latitude = 36.520167
+longitude = -82.857862
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37873"
+

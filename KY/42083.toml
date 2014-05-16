@@ -1,6 +1,8 @@
-zip_code = "42083"
-state = "KY"
 city = "Tiline"
 county = "Livingston"
-longitude = -88.285031
 latitude = 37.145668
+longitude = -88.285031
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42083"
+

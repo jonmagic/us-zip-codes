@@ -1,6 +1,8 @@
-zip_code = "49822"
-state = "MI"
 city = "Deerton"
 county = "Alger"
-longitude = -87.049704
 latitude = 46.426964
+longitude = -87.049704
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49822"
+

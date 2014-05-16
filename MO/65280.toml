@@ -1,6 +1,8 @@
-zip_code = "65280"
-state = "MO"
 city = "Rush Hill"
 county = "Audrain"
-longitude = -91.708681
 latitude = 39.211548
+longitude = -91.708681
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65280"
+

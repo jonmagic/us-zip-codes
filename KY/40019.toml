@@ -1,6 +1,8 @@
-zip_code = "40019"
-state = "KY"
 city = "Eminence"
 county = "Henry"
-longitude = -85.171224
 latitude = 38.416293
+longitude = -85.171224
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40019"
+

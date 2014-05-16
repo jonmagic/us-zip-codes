@@ -1,6 +1,8 @@
-zip_code = "11742"
-state = "NY"
 city = "Holtsville"
 county = "Suffolk"
-longitude = -73.048985
 latitude = 40.798994
+longitude = -73.048985
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11742"
+

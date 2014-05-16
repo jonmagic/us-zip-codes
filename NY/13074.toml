@@ -1,6 +1,8 @@
-zip_code = "13074"
-state = "NY"
 city = "Hannibal"
 county = "Oswego"
-longitude = -76.306549
 latitude = 43.324451
+longitude = -76.306549
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13074"
+

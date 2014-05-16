@@ -1,6 +1,8 @@
-zip_code = "15963"
-state = "PA"
 city = "Windber"
 county = "Somerset"
-longitude = -78.829021
 latitude = 40.180418
+longitude = -78.829021
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15963"
+

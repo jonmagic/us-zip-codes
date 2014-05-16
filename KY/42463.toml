@@ -1,6 +1,8 @@
-zip_code = "42463"
-state = "KY"
 city = "Wheatcroft"
 county = "Webster"
-longitude = -87.866125
 latitude = 37.487972
+longitude = -87.866125
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42463"
+

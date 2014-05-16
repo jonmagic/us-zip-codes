@@ -1,6 +1,8 @@
-zip_code = "47965"
-state = "IN"
 city = "New Market"
 county = "Montgomery"
-longitude = -86.920609
 latitude = 39.952351
+longitude = -86.920609
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47965"
+

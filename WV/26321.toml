@@ -1,6 +1,8 @@
-zip_code = "26321"
-state = "WV"
 city = "Alum Bridge"
 county = "Lewis"
-longitude = -80.470734
 latitude = 39.09078
+longitude = -80.470734
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26321"
+

@@ -1,6 +1,8 @@
-zip_code = "83642"
-state = "ID"
 city = "Meridian"
 county = "Ada"
-longitude = -116.421656
 latitude = 43.579067
+longitude = -116.421656
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83642"
+

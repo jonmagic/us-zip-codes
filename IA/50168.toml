@@ -1,6 +1,8 @@
-zip_code = "50168"
-state = "IA"
 city = "Mingo"
 county = "Jasper"
-longitude = -93.246431
 latitude = 41.775852
+longitude = -93.246431
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50168"
+

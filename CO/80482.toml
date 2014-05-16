@@ -1,6 +1,8 @@
-zip_code = "80482"
-state = "CO"
 city = "Winter Park"
 county = "Grand"
-longitude = -105.816439
 latitude = 39.949118
+longitude = -105.816439
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80482"
+

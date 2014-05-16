@@ -1,6 +1,8 @@
-zip_code = "02880"
-state = "RI"
 city = "Wakefield"
 county = "Washington"
-longitude = -71.64393
 latitude = 41.375317
+longitude = -71.64393
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02880"
+

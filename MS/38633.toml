@@ -1,6 +1,8 @@
-zip_code = "38633"
-state = "MS"
 city = "Hickory Flat"
 county = "Benton"
-longitude = -89.180301
 latitude = 34.623448
+longitude = -89.180301
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38633"
+

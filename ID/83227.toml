@@ -1,6 +1,8 @@
-zip_code = "83227"
-state = "ID"
 city = "Clayton"
 county = "Custer"
-longitude = -114.312713
 latitude = 44.22397
+longitude = -114.312713
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83227"
+

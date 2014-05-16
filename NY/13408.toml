@@ -1,6 +1,8 @@
-zip_code = "13408"
-state = "NY"
 city = "Morrisville"
 county = "Madison"
-longitude = -75.651484
 latitude = 42.924089
+longitude = -75.651484
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13408"
+

@@ -1,6 +1,8 @@
-zip_code = "74463"
-state = "OK"
 city = "Taft"
 county = "Muskogee"
-longitude = -95.544501
 latitude = 35.763648
+longitude = -95.544501
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74463"
+

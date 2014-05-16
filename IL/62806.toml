@@ -1,6 +1,8 @@
-zip_code = "62806"
-state = "IL"
 city = "Albion"
 county = "Edwards"
-longitude = -88.064182
 latitude = 38.328816
+longitude = -88.064182
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62806"
+

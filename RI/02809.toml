@@ -1,6 +1,8 @@
-zip_code = "02809"
-state = "RI"
 city = "Bristol"
 county = "Bristol"
-longitude = -71.2704
 latitude = 41.678378
+longitude = -71.2704
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02809"
+

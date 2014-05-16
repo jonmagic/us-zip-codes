@@ -1,6 +1,8 @@
-zip_code = "93604"
-state = "CA"
 city = "Bass Lake"
 county = "Madera"
-longitude = -119.547639
 latitude = 37.299169
+longitude = -119.547639
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93604"
+

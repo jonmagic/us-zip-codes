@@ -1,6 +1,8 @@
-zip_code = "51654"
-state = "IA"
 city = "Thurman"
 county = "Fremont"
-longitude = -95.758636
 latitude = 40.79334
+longitude = -95.758636
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51654"
+

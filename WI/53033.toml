@@ -1,6 +1,8 @@
-zip_code = "53033"
-state = "WI"
 city = "Hubertus"
 county = "Washington"
-longitude = -88.252892
 latitude = 43.367185
+longitude = -88.252892
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53033"
+

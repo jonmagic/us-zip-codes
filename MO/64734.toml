@@ -1,6 +1,8 @@
-zip_code = "64734"
-state = "MO"
 city = "Cleveland"
 county = "Cass"
-longitude = -94.559725
 latitude = 38.655025
+longitude = -94.559725
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64734"
+

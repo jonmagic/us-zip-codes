@@ -1,6 +1,8 @@
-zip_code = "54568"
-state = "WI"
 city = "Woodruff"
 county = "Oneida"
-longitude = -89.653705
 latitude = 45.859618
+longitude = -89.653705
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54568"
+

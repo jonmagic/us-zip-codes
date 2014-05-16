@@ -1,6 +1,8 @@
-zip_code = "31052"
-state = "GA"
 city = "Lizella"
 county = "Crawford"
-longitude = -83.823023
 latitude = 32.783332
+longitude = -83.823023
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31052"
+

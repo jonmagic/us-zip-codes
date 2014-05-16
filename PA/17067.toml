@@ -1,6 +1,8 @@
-zip_code = "17067"
-state = "PA"
 city = "Myerstown"
 county = "Lebanon"
-longitude = -76.359975
 latitude = 40.368282
+longitude = -76.359975
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17067"
+

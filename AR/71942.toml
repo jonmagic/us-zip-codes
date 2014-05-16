@@ -1,6 +1,8 @@
-zip_code = "71942"
-state = "AR"
 city = "Friendship"
 county = "Hot Spring"
-longitude = -93.002367
 latitude = 34.223546
+longitude = -93.002367
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71942"
+

@@ -1,6 +1,8 @@
-zip_code = "35040"
-state = "AL"
 city = "Calera"
 county = "Shelby"
-longitude = -86.725315
 latitude = 33.138832
+longitude = -86.725315
+state = ""
+state_code_alpha2 = ""
+zip_code = "35040"
+

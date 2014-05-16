@@ -1,6 +1,8 @@
-zip_code = "50153"
-state = "IA"
 city = "Lynnville"
 county = "Jasper"
-longitude = -92.846323
 latitude = 41.60565
+longitude = -92.846323
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50153"
+

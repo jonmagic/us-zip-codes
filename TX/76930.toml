@@ -1,6 +1,8 @@
-zip_code = "76930"
-state = "TX"
 city = "Barnhart"
 county = "Irion"
-longitude = -101.126017
 latitude = 31.143346
+longitude = -101.126017
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76930"
+

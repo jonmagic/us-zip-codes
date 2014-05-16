@@ -1,6 +1,8 @@
-zip_code = "42717"
-state = "KY"
 city = "Burkesville"
 county = "Cumberland"
-longitude = -85.408741
 latitude = 36.769106
+longitude = -85.408741
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42717"
+

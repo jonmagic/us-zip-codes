@@ -1,6 +1,8 @@
-zip_code = "40467"
-state = "KY"
 city = "Peoples"
 county = "Jackson"
-longitude = -83.993588
 latitude = 37.416008
+longitude = -83.993588
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40467"
+

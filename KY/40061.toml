@@ -1,6 +1,8 @@
-zip_code = "40061"
-state = "KY"
 city = "Saint Catharine"
 county = "Washington"
-longitude = -85.201068
 latitude = 37.773962
+longitude = -85.201068
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40061"
+

@@ -1,6 +1,8 @@
-zip_code = "03468"
-state = "NH"
 city = "West Peterborough"
 county = "Hillsborough"
-longitude = -71.933396
 latitude = 42.890804
+longitude = -71.933396
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03468"
+

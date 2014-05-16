@@ -1,6 +1,8 @@
-zip_code = "05872"
-state = "VT"
 city = "West Charleston"
 county = "Orleans"
-longitude = -72.03121
 latitude = 44.849402
+longitude = -72.03121
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05872"
+

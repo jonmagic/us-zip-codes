@@ -1,6 +1,8 @@
-zip_code = "22743"
-state = "VA"
 city = "Syria"
 county = "Madison"
-longitude = -78.331826
 latitude = 38.495692
+longitude = -78.331826
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22743"
+

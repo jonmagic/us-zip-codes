@@ -1,6 +1,8 @@
-zip_code = "46967"
-state = "IN"
 city = "Onward"
 county = "Cass"
-longitude = -86.204238
 latitude = 40.694298
+longitude = -86.204238
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46967"
+

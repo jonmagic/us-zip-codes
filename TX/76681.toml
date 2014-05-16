@@ -1,6 +1,8 @@
-zip_code = "76681"
-state = "TX"
 city = "Richland"
 county = "Navarro"
-longitude = -96.388082
 latitude = 31.905199
+longitude = -96.388082
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76681"
+

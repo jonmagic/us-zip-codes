@@ -1,6 +1,8 @@
-zip_code = "83660"
-state = "ID"
 city = "Parma"
 county = "Canyon"
-longitude = -116.897455
 latitude = 43.785082
+longitude = -116.897455
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83660"
+

@@ -1,6 +1,8 @@
-zip_code = "76097"
-state = "TX"
 city = "Burleson"
 county = "Johnson"
-longitude = -97.2609
 latitude = 32.524393
+longitude = -97.2609
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76097"
+

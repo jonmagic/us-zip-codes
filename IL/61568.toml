@@ -1,6 +1,8 @@
-zip_code = "61568"
-state = "IL"
 city = "Tremont"
 county = "Tazewell"
-longitude = -89.542656
 latitude = 40.456128
+longitude = -89.542656
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61568"
+

@@ -1,6 +1,8 @@
-zip_code = "47964"
-state = "IN"
 city = "Mount Ayr"
 county = "Newton"
-longitude = -87.396982
 latitude = 40.977567
+longitude = -87.396982
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47964"
+

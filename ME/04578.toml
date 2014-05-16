@@ -1,6 +1,8 @@
-zip_code = "04578"
-state = "ME"
 city = "Wiscasset"
 county = "Lincoln"
-longitude = -69.597134
 latitude = 43.964901
+longitude = -69.597134
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04578"
+

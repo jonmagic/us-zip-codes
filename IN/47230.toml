@@ -1,6 +1,8 @@
-zip_code = "47230"
-state = "IN"
 city = "Deputy"
 county = "Jefferson"
-longitude = -85.60731
 latitude = 38.794988
+longitude = -85.60731
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47230"
+

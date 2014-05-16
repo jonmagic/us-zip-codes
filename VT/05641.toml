@@ -1,6 +1,8 @@
-zip_code = "05641"
-state = "VT"
 city = "Barre"
 county = "Washington"
-longitude = -72.607693
 latitude = 44.20896
+longitude = -72.607693
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05641"
+

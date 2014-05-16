@@ -1,6 +1,8 @@
-zip_code = "37042"
-state = "TN"
 city = "Clarksville"
 county = "Montgomery"
-longitude = -87.399188
 latitude = 36.501766
+longitude = -87.399188
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37042"
+

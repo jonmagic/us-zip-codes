@@ -1,6 +1,8 @@
-zip_code = "16695"
-state = "PA"
 city = "Woodbury"
 county = "Bedford"
-longitude = -78.358877
 latitude = 40.230406
+longitude = -78.358877
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16695"
+

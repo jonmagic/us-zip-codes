@@ -1,6 +1,8 @@
-zip_code = "55731"
-state = "MN"
 city = "Ely"
 county = "Saint Louis"
-longitude = -92.020778
 latitude = 47.918943
+longitude = -92.020778
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55731"
+

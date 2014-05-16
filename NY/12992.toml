@@ -1,6 +1,8 @@
-zip_code = "12992"
-state = "NY"
 city = "West Chazy"
 county = "Clinton"
-longitude = -73.513225
 latitude = 44.827274
+longitude = -73.513225
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12992"
+

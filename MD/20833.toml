@@ -1,6 +1,8 @@
-zip_code = "20833"
-state = "MD"
 city = "Brookeville"
 county = "Montgomery"
-longitude = -77.05055
 latitude = 39.204341
+longitude = -77.05055
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20833"
+

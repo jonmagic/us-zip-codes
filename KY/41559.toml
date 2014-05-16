@@ -1,6 +1,8 @@
-zip_code = "41559"
-state = "KY"
 city = "Regina"
 county = "Pike"
-longitude = -82.407751
 latitude = 37.370376
+longitude = -82.407751
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41559"
+

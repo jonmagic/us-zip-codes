@@ -1,6 +1,8 @@
-zip_code = "03819"
-state = "NH"
 city = "Danville"
 county = "Rockingham"
-longitude = -71.082299
 latitude = 42.926725
+longitude = -71.082299
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03819"
+

@@ -1,6 +1,8 @@
-zip_code = "28027"
-state = "NC"
 city = "Concord"
 county = "Cabarrus"
-longitude = -80.658405
 latitude = 35.410688
+longitude = -80.658405
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28027"
+

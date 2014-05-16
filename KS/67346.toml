@@ -1,6 +1,8 @@
-zip_code = "67346"
-state = "KS"
 city = "Grenola"
 county = "Elk"
-longitude = -96.384362
 latitude = 37.406927
+longitude = -96.384362
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67346"
+

@@ -1,6 +1,8 @@
-zip_code = "68757"
-state = "NE"
 city = "Newcastle"
 county = "Dixon"
-longitude = -96.861558
 latitude = 42.494685
+longitude = -96.861558
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68757"
+

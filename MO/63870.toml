@@ -1,6 +1,8 @@
-zip_code = "63870"
-state = "MO"
 city = "Parma"
 county = "New Madrid"
-longitude = -89.85627
 latitude = 36.568845
+longitude = -89.85627
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63870"
+

@@ -1,6 +1,8 @@
-zip_code = "84790"
-state = "UT"
 city = "Saint George"
 county = "Washington"
-longitude = -113.558068
 latitude = 37.083098
+longitude = -113.558068
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84790"
+

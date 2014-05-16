@@ -1,6 +1,8 @@
-zip_code = "14063"
-state = "NY"
 city = "Fredonia"
 county = "Chautauqua"
-longitude = -79.319254
 latitude = 42.412217
+longitude = -79.319254
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14063"
+

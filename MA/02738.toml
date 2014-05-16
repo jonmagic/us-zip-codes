@@ -1,6 +1,8 @@
-zip_code = "02738"
-state = "MA"
 city = "Marion"
 county = "Plymouth"
-longitude = -70.754015
 latitude = 41.736735
+longitude = -70.754015
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02738"
+

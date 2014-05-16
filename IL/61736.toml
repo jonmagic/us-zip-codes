@@ -1,6 +1,8 @@
-zip_code = "61736"
-state = "IL"
 city = "Downs"
 county = "Mclean"
-longitude = -88.868647
 latitude = 40.398907
+longitude = -88.868647
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61736"
+

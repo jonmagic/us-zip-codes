@@ -1,6 +1,8 @@
-zip_code = "74010"
-state = "OK"
 city = "Bristow"
 county = "Creek"
-longitude = -96.303922
 latitude = 35.835606
+longitude = -96.303922
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74010"
+

@@ -1,6 +1,8 @@
-zip_code = "45239"
-state = "OH"
 city = "Cincinnati"
 county = "Hamilton"
-longitude = -84.621296
 latitude = 39.201708
+longitude = -84.621296
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45239"
+

@@ -1,6 +1,8 @@
-zip_code = "49880"
-state = "MI"
 city = "Rock"
 county = "Delta"
-longitude = -87.122594
 latitude = 46.057396
+longitude = -87.122594
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49880"
+

@@ -1,6 +1,8 @@
-zip_code = "58727"
-state = "ND"
 city = "Columbus"
 county = "Burke"
-longitude = -102.592042
 latitude = 48.852362
+longitude = -102.592042
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58727"
+

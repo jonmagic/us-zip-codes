@@ -1,6 +1,8 @@
-zip_code = "42020"
-state = "KY"
 city = "Almo"
 county = "Calloway"
-longitude = -88.283872
 latitude = 36.690186
+longitude = -88.283872
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42020"
+

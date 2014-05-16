@@ -1,6 +1,8 @@
-zip_code = "40280"
-state = "KY"
 city = "Louisville"
 county = "Jefferson"
-longitude = -85.685261
 latitude = 38.246721
+longitude = -85.685261
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40280"
+

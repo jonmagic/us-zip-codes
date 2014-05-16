@@ -1,6 +1,8 @@
-zip_code = "93428"
-state = "CA"
 city = "Cambria"
 county = "San Luis Obispo"
-longitude = -120.954454
 latitude = 35.587748
+longitude = -120.954454
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93428"
+

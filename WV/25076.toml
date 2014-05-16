@@ -1,6 +1,8 @@
-zip_code = "25076"
-state = "WV"
 city = "Ethel"
 county = "Logan"
-longitude = -81.902401
 latitude = 37.833204
+longitude = -81.902401
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25076"
+

@@ -1,6 +1,8 @@
-zip_code = "78526"
-state = "TX"
 city = "Brownsville"
 county = "Cameron"
-longitude = -97.469871
 latitude = 25.971728
+longitude = -97.469871
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78526"
+

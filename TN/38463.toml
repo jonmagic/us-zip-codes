@@ -1,6 +1,8 @@
-zip_code = "38463"
-state = "TN"
 city = "Iron City"
 county = "Lawrence"
-longitude = -87.549745
 latitude = 35.07132
+longitude = -87.549745
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38463"
+

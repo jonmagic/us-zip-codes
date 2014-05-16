@@ -1,6 +1,8 @@
-zip_code = "42201"
-state = "KY"
 city = "Aberdeen"
 county = "Butler"
-longitude = -86.670181
 latitude = 37.279564
+longitude = -86.670181
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42201"
+

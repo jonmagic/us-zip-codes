@@ -1,6 +1,8 @@
-zip_code = "52569"
-state = "IA"
 city = "Melrose"
 county = "Monroe"
-longitude = -93.035367
 latitude = 41.03227
+longitude = -93.035367
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52569"
+

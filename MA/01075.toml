@@ -1,6 +1,8 @@
-zip_code = "01075"
-state = "MA"
 city = "South Hadley"
 county = "Hampshire"
-longitude = -72.58152
 latitude = 42.24984
+longitude = -72.58152
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01075"
+

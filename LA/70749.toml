@@ -1,6 +1,8 @@
-zip_code = "70749"
-state = "LA"
 city = "Jarreau"
 county = "Pointe Coupee"
-longitude = -91.411031
 latitude = 30.630136
+longitude = -91.411031
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70749"
+

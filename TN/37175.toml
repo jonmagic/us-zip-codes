@@ -1,6 +1,8 @@
-zip_code = "37175"
-state = "TN"
 city = "Stewart"
 county = "Houston"
-longitude = -87.747374
 latitude = 36.272979
+longitude = -87.747374
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37175"
+

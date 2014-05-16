@@ -1,6 +1,8 @@
-zip_code = "95221"
-state = "CA"
 city = "Altaville"
 county = "Calaveras"
-longitude = -120.535316
 latitude = 38.092294
+longitude = -120.535316
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95221"
+

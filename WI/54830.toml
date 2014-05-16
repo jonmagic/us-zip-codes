@@ -1,6 +1,8 @@
-zip_code = "54830"
-state = "WI"
 city = "Danbury"
 county = "Burnett"
-longitude = -92.292996
 latitude = 45.972603
+longitude = -92.292996
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54830"
+

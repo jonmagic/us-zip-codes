@@ -1,6 +1,8 @@
-zip_code = "28134"
-state = "NC"
 city = "Pineville"
 county = "Mecklenburg"
-longitude = -80.891141
 latitude = 35.07854
+longitude = -80.891141
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28134"
+

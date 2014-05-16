@@ -1,6 +1,8 @@
-zip_code = "73537"
-state = "OK"
 city = "Eldorado"
 county = "Jackson"
-longitude = -99.647324
 latitude = 34.472021
+longitude = -99.647324
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73537"
+

@@ -1,6 +1,8 @@
-zip_code = "46068"
-state = "IN"
 city = "Sharpsville"
 county = "Tipton"
-longitude = -86.118782
 latitude = 40.354088
+longitude = -86.118782
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46068"
+

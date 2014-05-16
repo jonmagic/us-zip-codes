@@ -1,6 +1,8 @@
-zip_code = "17318"
-state = "PA"
 city = "Emigsville"
 county = "York"
-longitude = -76.726638
 latitude = 40.021496
+longitude = -76.726638
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17318"
+

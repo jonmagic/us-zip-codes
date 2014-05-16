@@ -1,6 +1,8 @@
-zip_code = "78568"
-state = "TX"
 city = "Lozano"
 county = "Cameron"
-longitude = -97.542263
 latitude = 26.190402
+longitude = -97.542263
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78568"
+

@@ -1,6 +1,8 @@
-zip_code = "24065"
-state = "VA"
 city = "Boones Mill"
 county = "Franklin"
-longitude = -79.95233
 latitude = 37.098391
+longitude = -79.95233
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24065"
+

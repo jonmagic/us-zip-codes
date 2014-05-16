@@ -1,6 +1,8 @@
-zip_code = "96734"
-state = "HI"
 city = "Kailua"
 county = "Honolulu"
-longitude = -158.039121
 latitude = 21.595644
+longitude = -158.039121
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96734"
+

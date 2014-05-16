@@ -1,6 +1,8 @@
-zip_code = "71016"
-state = "LA"
 city = "Castor"
 county = "Bienville"
-longitude = -93.104385
 latitude = 32.240987
+longitude = -93.104385
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71016"
+

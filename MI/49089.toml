@@ -1,6 +1,8 @@
-zip_code = "49089"
-state = "MI"
 city = "Sherwood"
 county = "Branch"
-longitude = -85.225195
 latitude = 42.000564
+longitude = -85.225195
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49089"
+

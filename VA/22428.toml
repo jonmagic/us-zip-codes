@@ -1,6 +1,8 @@
-zip_code = "22428"
-state = "VA"
 city = "Bowling Green"
 county = "Caroline"
-longitude = -77.355902
 latitude = 38.014536
+longitude = -77.355902
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22428"
+

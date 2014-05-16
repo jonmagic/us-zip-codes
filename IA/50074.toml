@@ -1,6 +1,8 @@
-zip_code = "50074"
-state = "IA"
 city = "Ellston"
 county = "Ringgold"
-longitude = -94.088656
 latitude = 40.846834
+longitude = -94.088656
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50074"
+

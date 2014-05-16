@@ -1,6 +1,8 @@
-zip_code = "29474"
-state = "SC"
 city = "Round O"
 county = "Colleton"
-longitude = -80.595162
 latitude = 32.846691
+longitude = -80.595162
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29474"
+

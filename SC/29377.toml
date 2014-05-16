@@ -1,6 +1,8 @@
-zip_code = "29377"
-state = "SC"
 city = "Startex"
 county = "Spartanburg"
-longitude = -82.135145
 latitude = 34.987543
+longitude = -82.135145
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29377"
+

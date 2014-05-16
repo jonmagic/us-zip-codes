@@ -1,6 +1,8 @@
-zip_code = "80817"
-state = "CO"
 city = "Fountain"
 county = "El Paso"
-longitude = -104.652221
 latitude = 38.663856
+longitude = -104.652221
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80817"
+

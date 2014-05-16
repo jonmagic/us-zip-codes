@@ -1,6 +1,8 @@
-zip_code = "17371"
-state = "PA"
 city = "York New Salem"
 county = "York"
-longitude = -76.789624
 latitude = 39.900579
+longitude = -76.789624
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17371"
+

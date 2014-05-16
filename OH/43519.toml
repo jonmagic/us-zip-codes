@@ -1,6 +1,8 @@
-zip_code = "43519"
-state = "OH"
 city = "Evansport"
 county = "Defiance"
-longitude = -84.396619
 latitude = 41.422158
+longitude = -84.396619
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43519"
+

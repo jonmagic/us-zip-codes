@@ -1,6 +1,8 @@
-zip_code = "57077"
-state = "SD"
 city = "Worthing"
 county = "Lincoln"
-longitude = -96.776784
 latitude = 43.286596
+longitude = -96.776784
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57077"
+

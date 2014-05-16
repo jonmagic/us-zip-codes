@@ -1,6 +1,8 @@
-zip_code = "52554"
-state = "IA"
 city = "Eldon"
 county = "Wapello"
-longitude = -92.408837
 latitude = 41.030032
+longitude = -92.408837
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52554"
+

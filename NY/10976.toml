@@ -1,6 +1,8 @@
-zip_code = "10976"
-state = "NY"
 city = "Sparkill"
 county = "Rockland"
-longitude = -74.061335
 latitude = 41.083784
+longitude = -74.061335
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10976"
+

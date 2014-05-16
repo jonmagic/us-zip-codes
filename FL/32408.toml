@@ -1,6 +1,8 @@
-zip_code = "32408"
-state = "FL"
 city = "Panama City"
 county = "Bay"
-longitude = -85.711603
 latitude = 30.165546
+longitude = -85.711603
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32408"
+

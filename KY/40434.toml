@@ -1,6 +1,8 @@
-zip_code = "40434"
-state = "KY"
 city = "Gray Hawk"
 county = "Jackson"
-longitude = -83.908492
 latitude = 37.395468
+longitude = -83.908492
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40434"
+

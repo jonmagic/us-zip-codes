@@ -1,6 +1,8 @@
-zip_code = "01452"
-state = "MA"
 city = "Hubbardston"
 county = "Worcester"
-longitude = -72.011516
 latitude = 42.483895
+longitude = -72.011516
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01452"
+

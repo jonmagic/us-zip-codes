@@ -1,6 +1,8 @@
-zip_code = "08067"
-state = "NJ"
 city = "Pedricktown"
 county = "Salem"
-longitude = -75.408412
 latitude = 39.733769
+longitude = -75.408412
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08067"
+

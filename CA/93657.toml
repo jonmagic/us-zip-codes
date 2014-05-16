@@ -1,6 +1,8 @@
-zip_code = "93657"
-state = "CA"
 city = "Sanger"
 county = "Fresno"
-longitude = -119.829053
 latitude = 36.897408
+longitude = -119.829053
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93657"
+

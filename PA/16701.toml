@@ -1,6 +1,8 @@
-zip_code = "16701"
-state = "PA"
 city = "Bradford"
 county = "Mckean"
-longitude = -78.63731
 latitude = 41.862341
+longitude = -78.63731
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16701"
+

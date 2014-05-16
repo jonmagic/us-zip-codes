@@ -1,6 +1,8 @@
-zip_code = "53063"
-state = "WI"
 city = "Newton"
 county = "Manitowoc"
-longitude = -87.792815
 latitude = 43.957599
+longitude = -87.792815
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53063"
+

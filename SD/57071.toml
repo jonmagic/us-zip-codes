@@ -1,6 +1,8 @@
-zip_code = "57071"
-state = "SD"
 city = "Volga"
 county = "Brookings"
-longitude = -96.790512
 latitude = 44.369694
+longitude = -96.790512
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57071"
+

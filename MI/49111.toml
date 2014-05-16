@@ -1,6 +1,8 @@
-zip_code = "49111"
-state = "MI"
 city = "Eau Claire"
 county = "Berrien"
-longitude = -86.299153
 latitude = 42.027591
+longitude = -86.299153
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49111"
+

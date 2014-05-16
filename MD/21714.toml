@@ -1,6 +1,8 @@
-zip_code = "21714"
-state = "MD"
 city = "Braddock Heights"
 county = "Frederick"
-longitude = -77.505098
 latitude = 39.4203
+longitude = -77.505098
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21714"
+

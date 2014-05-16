@@ -1,6 +1,8 @@
-zip_code = "40164"
-state = "KY"
 city = "Se Ree"
 county = "Breckinridge"
-longitude = -86.414768
 latitude = 37.802295
+longitude = -86.414768
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40164"
+

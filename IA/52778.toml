@@ -1,6 +1,8 @@
-zip_code = "52778"
-state = "IA"
 city = "Wilton"
 county = "Muscatine"
-longitude = -90.959154
 latitude = 41.559742
+longitude = -90.959154
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52778"
+

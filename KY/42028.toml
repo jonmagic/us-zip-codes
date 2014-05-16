@@ -1,6 +1,8 @@
-zip_code = "42028"
-state = "KY"
 city = "Burna"
 county = "Livingston"
-longitude = -88.339599
 latitude = 37.155977
+longitude = -88.339599
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42028"
+

@@ -1,6 +1,8 @@
-zip_code = "67526"
-state = "KS"
 city = "Ellinwood"
 county = "Barton"
-longitude = -98.733001
 latitude = 38.46396
+longitude = -98.733001
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67526"
+

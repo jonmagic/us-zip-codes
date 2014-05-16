@@ -1,6 +1,8 @@
-zip_code = "29102"
-state = "SC"
 city = "Manning"
 county = "Clarendon"
-longitude = -80.21155
 latitude = 33.618408
+longitude = -80.21155
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29102"
+

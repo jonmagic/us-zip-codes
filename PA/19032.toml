@@ -1,6 +1,8 @@
-zip_code = "19032"
-state = "PA"
 city = "Folcroft"
 county = "Delaware"
-longitude = -75.278829
 latitude = 39.895162
+longitude = -75.278829
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19032"
+

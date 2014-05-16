@@ -1,6 +1,8 @@
-zip_code = "50120"
-state = "IA"
 city = "Haverhill"
 county = "Marshall"
-longitude = -92.968108
 latitude = 41.938248
+longitude = -92.968108
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50120"
+

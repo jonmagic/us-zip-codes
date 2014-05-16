@@ -1,6 +1,8 @@
-zip_code = "50217"
-state = "IA"
 city = "Paton"
 county = "Greene"
-longitude = -94.280982
 latitude = 42.166202
+longitude = -94.280982
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50217"
+

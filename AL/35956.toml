@@ -1,6 +1,8 @@
-zip_code = "35956"
-state = "AL"
 city = "Boaz"
 county = "Marshall"
-longitude = -86.166021
 latitude = 34.267
+longitude = -86.166021
+state = ""
+state_code_alpha2 = ""
+zip_code = "35956"
+

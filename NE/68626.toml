@@ -1,6 +1,8 @@
-zip_code = "68626"
-state = "NE"
 city = "Brainard"
 county = "Butler"
-longitude = -96.992319
 latitude = 41.143956
+longitude = -96.992319
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68626"
+

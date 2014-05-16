@@ -1,6 +1,8 @@
-zip_code = "98274"
-state = "WA"
 city = "Mount Vernon"
 county = "Skagit"
-longitude = -122.140311
 latitude = 48.364253
+longitude = -122.140311
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98274"
+

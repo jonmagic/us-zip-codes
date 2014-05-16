@@ -1,6 +1,8 @@
-zip_code = "95005"
-state = "CA"
 city = "Ben Lomond"
 county = "Santa Cruz"
-longitude = -122.095525
 latitude = 37.096297
+longitude = -122.095525
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95005"
+

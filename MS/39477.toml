@@ -1,6 +1,8 @@
-zip_code = "39477"
-state = "MS"
 city = "Sandersville"
 county = "Jones"
-longitude = -89.041363
 latitude = 31.790929
+longitude = -89.041363
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39477"
+

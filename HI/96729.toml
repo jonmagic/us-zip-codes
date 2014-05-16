@@ -1,6 +1,8 @@
-zip_code = "96729"
-state = "HI"
 city = "Hoolehua"
 county = "Maui"
-longitude = -157.0766
 latitude = 21.163056
+longitude = -157.0766
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96729"
+

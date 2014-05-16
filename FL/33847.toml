@@ -1,6 +1,8 @@
-zip_code = "33847"
-state = "FL"
 city = "Homeland"
 county = "Polk"
-longitude = -81.716682
 latitude = 27.984091
+longitude = -81.716682
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33847"
+

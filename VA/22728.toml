@@ -1,6 +1,8 @@
-zip_code = "22728"
-state = "VA"
 city = "Midland"
 county = "Fauquier"
-longitude = -77.681065
 latitude = 38.602592
+longitude = -77.681065
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22728"
+

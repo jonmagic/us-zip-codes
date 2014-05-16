@@ -1,6 +1,8 @@
-zip_code = "49912"
-state = "MI"
 city = "Bruce Crossing"
 county = "Ontonagon"
-longitude = -89.222897
 latitude = 46.475105
+longitude = -89.222897
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49912"
+

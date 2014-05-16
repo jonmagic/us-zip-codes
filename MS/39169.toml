@@ -1,6 +1,8 @@
-zip_code = "39169"
-state = "MS"
 city = "Tchula"
 county = "Holmes"
-longitude = -90.237888
 latitude = 33.134414
+longitude = -90.237888
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39169"
+

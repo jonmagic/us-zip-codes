@@ -1,6 +1,8 @@
-zip_code = "13352"
-state = "NY"
 city = "Hinckley"
 county = "Oneida"
-longitude = -75.117319
 latitude = 43.328187
+longitude = -75.117319
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13352"
+

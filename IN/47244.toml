@@ -1,6 +1,8 @@
-zip_code = "47244"
-state = "IN"
 city = "Hartsville"
 county = "Bartholomew"
-longitude = -85.717648
 latitude = 39.218578
+longitude = -85.717648
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47244"
+

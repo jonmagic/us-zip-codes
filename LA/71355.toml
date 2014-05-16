@@ -1,6 +1,8 @@
-zip_code = "71355"
-state = "LA"
 city = "Moreauville"
 county = "Avoyelles"
-longitude = -91.874829
 latitude = 31.09884
+longitude = -91.874829
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71355"
+

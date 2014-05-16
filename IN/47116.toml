@@ -1,6 +1,8 @@
-zip_code = "47116"
-state = "IN"
 city = "Eckerty"
 county = "Crawford"
-longitude = -86.575635
 latitude = 38.329303
+longitude = -86.575635
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47116"
+

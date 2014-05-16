@@ -1,6 +1,8 @@
-zip_code = "45808"
-state = "OH"
 city = "Beaverdam"
 county = "Allen"
-longitude = -83.975831
 latitude = 40.831419
+longitude = -83.975831
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45808"
+

@@ -1,6 +1,8 @@
-zip_code = "26143"
-state = "WV"
 city = "Elizabeth"
 county = "Wirt"
-longitude = -81.380692
 latitude = 39.032058
+longitude = -81.380692
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26143"
+

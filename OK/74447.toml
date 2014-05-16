@@ -1,6 +1,8 @@
-zip_code = "74447"
-state = "OK"
 city = "Okmulgee"
 county = "Okmulgee"
-longitude = -95.966857
 latitude = 35.612514
+longitude = -95.966857
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74447"
+

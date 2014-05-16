@@ -1,6 +1,8 @@
-zip_code = "80705"
-state = "CO"
 city = "Log Lane Village"
 county = "Morgan"
-longitude = -103.833813
 latitude = 40.270654
+longitude = -103.833813
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80705"
+

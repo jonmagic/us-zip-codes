@@ -1,6 +1,8 @@
-zip_code = "62852"
-state = "IL"
 city = "Keensburg"
 county = "Wabash"
-longitude = -87.86607
 latitude = 38.351408
+longitude = -87.86607
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62852"
+

@@ -1,6 +1,8 @@
-zip_code = "59052"
-state = "MT"
 city = "Mc Leod"
 county = "Sweet Grass"
-longitude = -109.955671
 latitude = 45.832835
+longitude = -109.955671
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59052"
+

@@ -1,6 +1,8 @@
-zip_code = "60666"
-state = "IL"
 city = "Amf Ohare"
 county = "Cook"
-longitude = -87.891214
 latitude = 41.968029
+longitude = -87.891214
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60666"
+

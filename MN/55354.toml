@@ -1,6 +1,8 @@
-zip_code = "55354"
-state = "MN"
 city = "Lester Prairie"
 county = "Mcleod"
-longitude = -94.100616
 latitude = 44.880454
+longitude = -94.100616
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55354"
+

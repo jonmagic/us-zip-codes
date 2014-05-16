@@ -1,6 +1,8 @@
-zip_code = "27939"
-state = "NC"
 city = "Grandy"
 county = "Currituck"
-longitude = -75.975578
 latitude = 36.293128
+longitude = -75.975578
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27939"
+

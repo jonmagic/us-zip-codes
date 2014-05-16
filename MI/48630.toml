@@ -1,6 +1,8 @@
-zip_code = "48630"
-state = "MI"
 city = "Houghton Lake Heights"
 county = "Roscommon"
-longitude = -84.71945
 latitude = 44.332152
+longitude = -84.71945
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48630"
+

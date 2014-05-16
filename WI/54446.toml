@@ -1,6 +1,8 @@
-zip_code = "54446"
-state = "WI"
 city = "Loyal"
 county = "Clark"
-longitude = -90.634557
 latitude = 44.729482
+longitude = -90.634557
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54446"
+

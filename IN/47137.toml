@@ -1,6 +1,8 @@
-zip_code = "47137"
-state = "IN"
 city = "Leavenworth"
 county = "Crawford"
-longitude = -86.368905
 latitude = 38.195771
+longitude = -86.368905
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47137"
+

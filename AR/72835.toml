@@ -1,6 +1,8 @@
-zip_code = "72835"
-state = "AR"
 city = "Delaware"
 county = "Logan"
-longitude = -93.3532
 latitude = 35.283987
+longitude = -93.3532
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72835"
+

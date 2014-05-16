@@ -1,6 +1,8 @@
-zip_code = "76875"
-state = "TX"
 city = "Rowena"
 county = "Runnels"
-longitude = -100.047062
 latitude = 31.668401
+longitude = -100.047062
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76875"
+

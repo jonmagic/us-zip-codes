@@ -1,6 +1,8 @@
-zip_code = "14111"
-state = "NY"
 city = "North Collins"
 county = "Erie"
-longitude = -78.91888
 latitude = 42.583165
+longitude = -78.91888
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14111"
+

@@ -1,6 +1,8 @@
-zip_code = "45156"
-state = "OH"
 city = "Neville"
 county = "Clermont"
-longitude = -84.204877
 latitude = 38.815645
+longitude = -84.204877
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45156"
+

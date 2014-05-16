@@ -1,6 +1,8 @@
-zip_code = "60067"
-state = "IL"
 city = "Palatine"
 county = "Cook"
-longitude = -88.055804
 latitude = 42.101977
+longitude = -88.055804
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60067"
+

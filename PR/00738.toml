@@ -1,6 +1,8 @@
-zip_code = "00738"
-state = "PR"
 city = "Fajardo"
 county = "Fajardo"
-longitude = -65.611361
 latitude = 18.359381
+longitude = -65.611361
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00738"
+

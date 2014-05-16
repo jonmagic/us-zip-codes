@@ -1,6 +1,8 @@
-zip_code = "30102"
-state = "GA"
 city = "Acworth"
 county = "Cobb"
-longitude = -84.589406
 latitude = 34.07068
+longitude = -84.589406
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30102"
+

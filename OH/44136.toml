@@ -1,6 +1,8 @@
-zip_code = "44136"
-state = "OH"
 city = "Strongsville"
 county = "Cuyahoga"
-longitude = -81.831656
 latitude = 41.313268
+longitude = -81.831656
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44136"
+

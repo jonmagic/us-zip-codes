@@ -1,6 +1,8 @@
-zip_code = "23955"
-state = "VA"
 city = "Nottoway"
 county = "Nottoway"
-longitude = -78.057832
 latitude = 37.116094
+longitude = -78.057832
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23955"
+

@@ -1,6 +1,8 @@
-zip_code = "78833"
-state = "TX"
 city = "Camp Wood"
 county = "Real"
-longitude = -100.012219
 latitude = 29.669203
+longitude = -100.012219
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78833"
+

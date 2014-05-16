@@ -1,6 +1,8 @@
-zip_code = "06245"
-state = "CT"
 city = "Fabyan"
 county = "Windham"
-longitude = -71.941669
 latitude = 42.019776
+longitude = -71.941669
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06245"
+

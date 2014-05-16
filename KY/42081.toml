@@ -1,6 +1,8 @@
-zip_code = "42081"
-state = "KY"
 city = "Smithland"
 county = "Livingston"
-longitude = -88.375665
 latitude = 37.238666
+longitude = -88.375665
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42081"
+

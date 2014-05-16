@@ -1,6 +1,8 @@
-zip_code = "44072"
-state = "OH"
 city = "Novelty"
 county = "Geauga"
-longitude = -81.328211
 latitude = 41.468754
+longitude = -81.328211
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44072"
+

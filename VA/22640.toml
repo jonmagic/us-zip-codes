@@ -1,6 +1,8 @@
-zip_code = "22640"
-state = "VA"
 city = "Huntly"
 county = "Rappahannock"
-longitude = -78.116528
 latitude = 38.812892
+longitude = -78.116528
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22640"
+

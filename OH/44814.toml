@@ -1,6 +1,8 @@
-zip_code = "44814"
-state = "OH"
 city = "Berlin Heights"
 county = "Erie"
-longitude = -82.459915
 latitude = 41.338364
+longitude = -82.459915
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44814"
+

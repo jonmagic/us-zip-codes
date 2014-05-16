@@ -1,6 +1,8 @@
-zip_code = "21830"
-state = "MD"
 city = "Hebron"
 county = "Wicomico"
-longitude = -75.724848
 latitude = 38.409235
+longitude = -75.724848
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21830"
+

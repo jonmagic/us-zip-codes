@@ -1,6 +1,8 @@
-zip_code = "49615"
-state = "MI"
 city = "Bellaire"
 county = "Antrim"
-longitude = -85.198742
 latitude = 44.997248
+longitude = -85.198742
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49615"
+

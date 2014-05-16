@@ -1,6 +1,8 @@
-zip_code = "30818"
-state = "GA"
 city = "Matthews"
 county = "Jefferson"
-longitude = -82.34339
 latitude = 33.189975
+longitude = -82.34339
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30818"
+

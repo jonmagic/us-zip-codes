@@ -1,6 +1,8 @@
-zip_code = "55033"
-state = "MN"
 city = "Hastings"
 county = "Dakota"
-longitude = -93.032909
 latitude = 44.737166
+longitude = -93.032909
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55033"
+

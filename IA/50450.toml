@@ -1,6 +1,8 @@
-zip_code = "50450"
-state = "IA"
 city = "Lake Mills"
 county = "Winnebago"
-longitude = -93.567204
 latitude = 43.408993
+longitude = -93.567204
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50450"
+

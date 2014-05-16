@@ -1,6 +1,8 @@
-zip_code = "18401"
-state = "PA"
 city = "Aldenville"
 county = "Wayne"
-longitude = -75.274708
 latitude = 41.615989
+longitude = -75.274708
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18401"
+

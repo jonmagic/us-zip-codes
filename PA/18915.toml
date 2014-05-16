@@ -1,6 +1,8 @@
-zip_code = "18915"
-state = "PA"
 city = "Colmar"
 county = "Montgomery"
-longitude = -75.256285
 latitude = 40.272756
+longitude = -75.256285
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18915"
+

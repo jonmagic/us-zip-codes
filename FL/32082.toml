@@ -1,6 +1,8 @@
-zip_code = "32082"
-state = "FL"
 city = "Ponte Vedra Beach"
 county = "Saint Johns"
-longitude = -81.382302
 latitude = 30.102212
+longitude = -81.382302
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32082"
+

@@ -1,6 +1,8 @@
-zip_code = "08020"
-state = "NJ"
 city = "Clarksboro"
 county = "Gloucester"
-longitude = -75.218852
 latitude = 39.796706
+longitude = -75.218852
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08020"
+

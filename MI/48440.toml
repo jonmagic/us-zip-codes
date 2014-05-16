@@ -1,6 +1,8 @@
-zip_code = "48440"
-state = "MI"
 city = "Hadley"
 county = "Lapeer"
-longitude = -83.360013
 latitude = 42.93062
+longitude = -83.360013
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48440"
+

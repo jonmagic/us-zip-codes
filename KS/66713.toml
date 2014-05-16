@@ -1,6 +1,8 @@
-zip_code = "66713"
-state = "KS"
 city = "Baxter Springs"
 county = "Cherokee"
-longitude = -94.789814
 latitude = 37.139184
+longitude = -94.789814
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66713"
+

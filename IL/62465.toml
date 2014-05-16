@@ -1,6 +1,8 @@
-zip_code = "62465"
-state = "IL"
 city = "Strasburg"
 county = "Shelby"
-longitude = -88.616381
 latitude = 39.349589
+longitude = -88.616381
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62465"
+

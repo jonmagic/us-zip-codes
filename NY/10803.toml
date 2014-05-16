@@ -1,6 +1,8 @@
-zip_code = "10803"
-state = "NY"
 city = "Pelham"
 county = "Westchester"
-longitude = -73.806277
 latitude = 40.904538
+longitude = -73.806277
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10803"
+

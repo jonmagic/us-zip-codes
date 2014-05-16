@@ -1,6 +1,8 @@
-zip_code = "48014"
-state = "MI"
 city = "Capac"
 county = "Saint Clair"
-longitude = -82.929772
 latitude = 43.026326
+longitude = -82.929772
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48014"
+

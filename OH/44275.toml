@@ -1,6 +1,8 @@
-zip_code = "44275"
-state = "OH"
 city = "Spencer"
 county = "Medina"
-longitude = -82.052299
 latitude = 41.081789
+longitude = -82.052299
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44275"
+

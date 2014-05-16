@@ -1,6 +1,8 @@
-zip_code = "06442"
-state = "CT"
 city = "Ivoryton"
 county = "Middlesex"
-longitude = -72.444369
 latitude = 41.344076
+longitude = -72.444369
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06442"
+

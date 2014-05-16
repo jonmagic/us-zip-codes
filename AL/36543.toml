@@ -1,6 +1,8 @@
-zip_code = "36543"
-state = "AL"
 city = "Huxford"
 county = "Escambia"
-longitude = -87.461537
 latitude = 31.216132
+longitude = -87.461537
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36543"
+

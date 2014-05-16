@@ -1,6 +1,8 @@
-zip_code = "07757"
-state = "NJ"
 city = "Oceanport"
 county = "Monmouth"
-longitude = -74.019032
 latitude = 40.31496
+longitude = -74.019032
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07757"
+

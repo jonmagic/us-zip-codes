@@ -1,6 +1,8 @@
-zip_code = "42101"
-state = "KY"
 city = "Bowling Green"
 county = "Warren"
-longitude = -86.451752
 latitude = 37.017407
+longitude = -86.451752
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42101"
+

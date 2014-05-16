@@ -1,6 +1,8 @@
-zip_code = "20784"
-state = "MD"
 city = "Hyattsville"
 county = "Prince Georges"
-longitude = -76.895795
 latitude = 38.95131
+longitude = -76.895795
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20784"
+

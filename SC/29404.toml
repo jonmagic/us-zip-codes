@@ -1,6 +1,8 @@
-zip_code = "29404"
-state = "SC"
 city = "Charleston Afb"
 county = "Charleston"
-longitude = -80.068564
 latitude = 32.898194
+longitude = -80.068564
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29404"
+

@@ -1,6 +1,8 @@
-zip_code = "60957"
-state = "IL"
 city = "Paxton"
 county = "Ford"
-longitude = -88.197834
 latitude = 40.660905
+longitude = -88.197834
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60957"
+

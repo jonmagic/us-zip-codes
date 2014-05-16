@@ -1,6 +1,8 @@
-zip_code = "19401"
-state = "PA"
 city = "Norristown"
 county = "Montgomery"
-longitude = -75.356627
 latitude = 40.149154
+longitude = -75.356627
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19401"
+

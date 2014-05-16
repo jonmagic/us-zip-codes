@@ -1,6 +1,8 @@
-zip_code = "39086"
-state = "MS"
 city = "Hermanville"
 county = "Claiborne"
-longitude = -90.716602
 latitude = 31.997408
+longitude = -90.716602
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39086"
+

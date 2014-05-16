@@ -1,6 +1,8 @@
-zip_code = "95140"
-state = "CA"
 city = "Mount Hamilton"
 county = "Santa Clara"
-longitude = -121.633457
 latitude = 37.304321
+longitude = -121.633457
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95140"
+

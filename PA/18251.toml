@@ -1,6 +1,8 @@
-zip_code = "18251"
-state = "PA"
 city = "Sybertsville"
 county = "Luzerne"
-longitude = -75.880146
 latitude = 41.272248
+longitude = -75.880146
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18251"
+

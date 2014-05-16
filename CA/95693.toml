@@ -1,6 +1,8 @@
-zip_code = "95693"
-state = "CA"
 city = "Wilton"
 county = "Sacramento"
-longitude = -121.239026
 latitude = 38.405222
+longitude = -121.239026
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95693"
+

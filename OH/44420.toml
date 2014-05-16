@@ -1,6 +1,8 @@
-zip_code = "44420"
-state = "OH"
 city = "Girard"
 county = "Trumbull"
-longitude = -80.795028
 latitude = 41.17133
+longitude = -80.795028
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44420"
+

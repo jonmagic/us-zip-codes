@@ -1,6 +1,8 @@
-zip_code = "13859"
-state = "NY"
 city = "Wells Bridge"
 county = "Otsego"
-longitude = -75.264556
 latitude = 42.379383
+longitude = -75.264556
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13859"
+

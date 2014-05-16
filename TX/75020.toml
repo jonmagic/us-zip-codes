@@ -1,6 +1,8 @@
-zip_code = "75020"
-state = "TX"
 city = "Denison"
 county = "Grayson"
-longitude = -96.546662
 latitude = 33.76672
+longitude = -96.546662
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75020"
+

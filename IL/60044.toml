@@ -1,6 +1,8 @@
-zip_code = "60044"
-state = "IL"
 city = "Lake Bluff"
 county = "Lake"
-longitude = -87.86767
 latitude = 42.294172
+longitude = -87.86767
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60044"
+

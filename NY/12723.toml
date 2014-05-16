@@ -1,6 +1,8 @@
-zip_code = "12723"
-state = "NY"
 city = "Callicoon"
 county = "Sullivan"
-longitude = -75.01807
 latitude = 41.775202
+longitude = -75.01807
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12723"
+

@@ -1,6 +1,8 @@
-zip_code = "51653"
-state = "IA"
 city = "Tabor"
 county = "Fremont"
-longitude = -95.694406
 latitude = 40.822599
+longitude = -95.694406
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51653"
+

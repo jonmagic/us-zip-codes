@@ -1,6 +1,8 @@
-zip_code = "28314"
-state = "NC"
 city = "Fayetteville"
 county = "Cumberland"
-longitude = -79.011328
 latitude = 35.05425
+longitude = -79.011328
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28314"
+

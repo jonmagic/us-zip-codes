@@ -1,6 +1,8 @@
-zip_code = "37737"
-state = "TN"
 city = "Friendsville"
 county = "Blount"
-longitude = -84.101182
 latitude = 35.758228
+longitude = -84.101182
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37737"
+

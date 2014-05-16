@@ -1,6 +1,8 @@
-zip_code = "76082"
-state = "TX"
 city = "Springtown"
 county = "Parker"
-longitude = -97.693195
 latitude = 32.80864
+longitude = -97.693195
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76082"
+

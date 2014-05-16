@@ -1,6 +1,8 @@
-zip_code = "94528"
-state = "CA"
 city = "Diablo"
 county = "Contra Costa"
-longitude = -121.96672
 latitude = 37.838744
+longitude = -121.96672
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94528"
+

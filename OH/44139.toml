@@ -1,6 +1,8 @@
-zip_code = "44139"
-state = "OH"
 city = "Solon"
 county = "Cuyahoga"
-longitude = -81.440322
 latitude = 41.386753
+longitude = -81.440322
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44139"
+

@@ -1,6 +1,8 @@
-zip_code = "70047"
-state = "LA"
 city = "Destrehan"
 county = "Saint Charles"
-longitude = -90.368185
 latitude = 29.964207
+longitude = -90.368185
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70047"
+

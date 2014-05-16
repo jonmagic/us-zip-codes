@@ -1,6 +1,8 @@
-zip_code = "50595"
-state = "IA"
 city = "Webster City"
 county = "Hamilton"
-longitude = -93.825581
 latitude = 42.434161
+longitude = -93.825581
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50595"
+

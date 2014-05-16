@@ -1,6 +1,8 @@
-zip_code = "95553"
-state = "CA"
 city = "Miranda"
 county = "Humboldt"
-longitude = -123.845935
 latitude = 40.23548
+longitude = -123.845935
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95553"
+

@@ -1,6 +1,8 @@
-zip_code = "40371"
-state = "KY"
 city = "Salt Lick"
 county = "Bath"
-longitude = -83.621715
 latitude = 38.10437
+longitude = -83.621715
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40371"
+

@@ -1,6 +1,8 @@
-zip_code = "21723"
-state = "MD"
 city = "Cooksville"
 county = "Howard"
-longitude = -77.0142
 latitude = 39.328104
+longitude = -77.0142
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21723"
+

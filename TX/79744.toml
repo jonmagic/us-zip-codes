@@ -1,6 +1,8 @@
-zip_code = "79744"
-state = "TX"
 city = "Iraan"
 county = "Pecos"
-longitude = -101.899569
 latitude = 30.914993
+longitude = -101.899569
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79744"
+

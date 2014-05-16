@@ -1,6 +1,8 @@
-zip_code = "88343"
-state = "NM"
 city = "Picacho"
 county = "Lincoln"
-longitude = -105.640034
 latitude = 33.336307
+longitude = -105.640034
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88343"
+

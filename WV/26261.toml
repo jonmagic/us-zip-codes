@@ -1,6 +1,8 @@
-zip_code = "26261"
-state = "WV"
 city = "Richwood"
 county = "Nicholas"
-longitude = -80.578921
 latitude = 38.230265
+longitude = -80.578921
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26261"
+

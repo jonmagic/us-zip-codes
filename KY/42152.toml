@@ -1,6 +1,8 @@
-zip_code = "42152"
-state = "KY"
 city = "Hiseville"
 county = "Barren"
-longitude = -85.816472
 latitude = 37.098753
+longitude = -85.816472
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42152"
+

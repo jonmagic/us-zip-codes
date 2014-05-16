@@ -1,6 +1,8 @@
-zip_code = "30711"
-state = "GA"
 city = "Crandall"
 county = "Murray"
-longitude = -84.744577
 latitude = 34.887628
+longitude = -84.744577
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30711"
+

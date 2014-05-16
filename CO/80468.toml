@@ -1,6 +1,8 @@
-zip_code = "80468"
-state = "CO"
 city = "Parshall"
 county = "Grand"
-longitude = -106.093005
 latitude = 39.953932
+longitude = -106.093005
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80468"
+

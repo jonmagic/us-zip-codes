@@ -1,6 +1,8 @@
-zip_code = "65354"
-state = "MO"
 city = "Syracuse"
 county = "Morgan"
-longitude = -92.892923
 latitude = 38.654746
+longitude = -92.892923
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65354"
+

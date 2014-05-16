@@ -1,6 +1,8 @@
-zip_code = "51023"
-state = "IA"
 city = "Hawarden"
 county = "Sioux"
-longitude = -96.263075
 latitude = 43.022799
+longitude = -96.263075
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51023"
+

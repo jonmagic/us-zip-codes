@@ -1,6 +1,8 @@
-zip_code = "99632"
-state = "AK"
 city = "Mountain Village"
 county = "Wade Hampton"
-longitude = -164.287228
 latitude = 62.332461
+longitude = -164.287228
+state = ""
+state_code_alpha2 = ""
+zip_code = "99632"
+

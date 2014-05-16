@@ -1,6 +1,8 @@
-zip_code = "16341"
-state = "PA"
 city = "Pleasantville"
 county = "Venango"
-longitude = -79.633336
 latitude = 41.501311
+longitude = -79.633336
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16341"
+

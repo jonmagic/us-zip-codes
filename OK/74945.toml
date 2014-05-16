@@ -1,6 +1,8 @@
-zip_code = "74945"
-state = "OK"
 city = "Marble City"
 county = "Sequoyah"
-longitude = -94.781885
 latitude = 35.465054
+longitude = -94.781885
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74945"
+

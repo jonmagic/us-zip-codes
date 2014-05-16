@@ -1,6 +1,8 @@
-zip_code = "28103"
-state = "NC"
 city = "Marshville"
 county = "Union"
-longitude = -80.364223
 latitude = 34.997268
+longitude = -80.364223
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28103"
+

@@ -1,6 +1,8 @@
-zip_code = "27214"
-state = "NC"
 city = "Browns Summit"
 county = "Guilford"
-longitude = -79.674079
 latitude = 36.193624
+longitude = -79.674079
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27214"
+

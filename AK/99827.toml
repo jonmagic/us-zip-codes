@@ -1,6 +1,8 @@
-zip_code = "99827"
-state = "AK"
 city = "Haines"
 county = "Haines"
-longitude = -135.681153
 latitude = 59.312688
+longitude = -135.681153
+state = ""
+state_code_alpha2 = ""
+zip_code = "99827"
+

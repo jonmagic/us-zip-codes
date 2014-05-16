@@ -1,6 +1,8 @@
-zip_code = "49637"
-state = "MI"
 city = "Grawn"
 county = "Grand Traverse"
-longitude = -85.703494
 latitude = 44.634126
+longitude = -85.703494
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49637"
+

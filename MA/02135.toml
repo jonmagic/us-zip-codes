@@ -1,6 +1,8 @@
-zip_code = "02135"
-state = "MA"
 city = "Brighton"
 county = "Suffolk"
-longitude = -71.104888
 latitude = 42.349768
+longitude = -71.104888
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02135"
+

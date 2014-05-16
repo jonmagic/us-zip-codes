@@ -1,6 +1,8 @@
-zip_code = "38951"
-state = "MS"
 city = "Pittsboro"
 county = "Calhoun"
-longitude = -89.283006
 latitude = 33.942942
+longitude = -89.283006
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38951"
+

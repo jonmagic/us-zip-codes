@@ -1,6 +1,8 @@
-zip_code = "68876"
-state = "NE"
 city = "Shelton"
 county = "Buffalo"
-longitude = -98.788349
 latitude = 40.812713
+longitude = -98.788349
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68876"
+

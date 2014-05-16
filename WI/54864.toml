@@ -1,6 +1,8 @@
-zip_code = "54864"
-state = "WI"
 city = "Poplar"
 county = "Douglas"
-longitude = -91.815333
 latitude = 46.594249
+longitude = -91.815333
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54864"
+

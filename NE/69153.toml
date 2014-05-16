@@ -1,6 +1,8 @@
-zip_code = "69153"
-state = "NE"
 city = "Ogallala"
 county = "Keith"
-longitude = -101.663033
 latitude = 41.131676
+longitude = -101.663033
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69153"
+

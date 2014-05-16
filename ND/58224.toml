@@ -1,6 +1,8 @@
-zip_code = "58224"
-state = "ND"
 city = "Dahlen"
 county = "Nelson"
-longitude = -97.957485
 latitude = 48.165871
+longitude = -97.957485
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58224"
+

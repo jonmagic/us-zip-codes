@@ -1,6 +1,8 @@
-zip_code = "65647"
-state = "MO"
 city = "Exeter"
 county = "Barry"
-longitude = -93.927466
 latitude = 36.677628
+longitude = -93.927466
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65647"
+

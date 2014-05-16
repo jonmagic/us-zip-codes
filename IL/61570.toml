@@ -1,6 +1,8 @@
-zip_code = "61570"
-state = "IL"
 city = "Washburn"
 county = "Marshall"
-longitude = -89.33833
 latitude = 40.935265
+longitude = -89.33833
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61570"
+

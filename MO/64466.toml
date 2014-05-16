@@ -1,6 +1,8 @@
-zip_code = "64466"
-state = "MO"
 city = "Maitland"
 county = "Holt"
-longitude = -95.127221
 latitude = 40.153899
+longitude = -95.127221
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64466"
+

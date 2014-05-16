@@ -1,6 +1,8 @@
-zip_code = "02061"
-state = "MA"
 city = "Norwell"
 county = "Plymouth"
-longitude = -70.823035
 latitude = 42.154145
+longitude = -70.823035
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02061"
+

@@ -1,6 +1,8 @@
-zip_code = "95224"
-state = "CA"
 city = "Avery"
 county = "Calaveras"
-longitude = -120.377348
 latitude = 38.217249
+longitude = -120.377348
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95224"
+

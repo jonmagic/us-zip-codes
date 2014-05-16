@@ -1,6 +1,8 @@
-zip_code = "49431"
-state = "MI"
 city = "Ludington"
 county = "Mason"
-longitude = -86.349439
 latitude = 43.998926
+longitude = -86.349439
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49431"
+

@@ -1,6 +1,8 @@
-zip_code = "65232"
-state = "MO"
 city = "Benton City"
 county = "Audrain"
-longitude = -91.755227
 latitude = 39.156071
+longitude = -91.755227
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65232"
+

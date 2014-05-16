@@ -1,6 +1,8 @@
-zip_code = "30124"
-state = "GA"
 city = "Cave Spring"
 county = "Floyd"
-longitude = -85.33281
 latitude = 34.16159
+longitude = -85.33281
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30124"
+

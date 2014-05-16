@@ -1,6 +1,8 @@
-zip_code = "70764"
-state = "LA"
 city = "Plaquemine"
 county = "Iberville"
-longitude = -91.267904
 latitude = 30.215233
+longitude = -91.267904
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70764"
+

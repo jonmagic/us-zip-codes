@@ -1,6 +1,8 @@
-zip_code = "62946"
-state = "IL"
 city = "Harrisburg"
 county = "Saline"
-longitude = -88.536736
 latitude = 37.720129
+longitude = -88.536736
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62946"
+

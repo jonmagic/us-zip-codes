@@ -1,6 +1,8 @@
-zip_code = "15368"
-state = "PA"
 city = "Vestaburg"
 county = "Washington"
-longitude = -80.007731
 latitude = 40.023775
+longitude = -80.007731
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15368"
+

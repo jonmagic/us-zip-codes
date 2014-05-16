@@ -1,6 +1,8 @@
-zip_code = "81327"
-state = "CO"
 city = "Lewis"
 county = "Montezuma"
-longitude = -108.655638
 latitude = 37.458047
+longitude = -108.655638
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81327"
+

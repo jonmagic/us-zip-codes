@@ -1,6 +1,8 @@
-zip_code = "43554"
-state = "OH"
 city = "Pioneer"
 county = "Williams"
-longitude = -84.585241
 latitude = 41.648218
+longitude = -84.585241
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43554"
+

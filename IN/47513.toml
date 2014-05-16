@@ -1,6 +1,8 @@
-zip_code = "47513"
-state = "IN"
 city = "Birdseye"
 county = "Dubois"
-longitude = -86.820726
 latitude = 38.326772
+longitude = -86.820726
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47513"
+

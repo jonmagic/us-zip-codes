@@ -1,6 +1,8 @@
-zip_code = "89447"
-state = "NV"
 city = "Yerington"
 county = "Lyon"
-longitude = -119.228631
 latitude = 39.080415
+longitude = -119.228631
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89447"
+

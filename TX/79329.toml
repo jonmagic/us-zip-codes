@@ -1,6 +1,8 @@
-zip_code = "79329"
-state = "TX"
 city = "Idalou"
 county = "Lubbock"
-longitude = -101.814803
 latitude = 33.593715
+longitude = -101.814803
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79329"
+

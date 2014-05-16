@@ -1,6 +1,8 @@
-zip_code = "17827"
-state = "PA"
 city = "Freeburg"
 county = "Snyder"
-longitude = -76.939544
 latitude = 40.765049
+longitude = -76.939544
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17827"
+

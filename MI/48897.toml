@@ -1,6 +1,8 @@
-zip_code = "48897"
-state = "MI"
 city = "Woodland"
 county = "Barry"
-longitude = -85.133685
 latitude = 42.697951
+longitude = -85.133685
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48897"
+

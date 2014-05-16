@@ -1,6 +1,8 @@
-zip_code = "80644"
-state = "CO"
 city = "Kersey"
 county = "Weld"
-longitude = -104.472779
 latitude = 40.47404
+longitude = -104.472779
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80644"
+

@@ -1,6 +1,8 @@
-zip_code = "51578"
-state = "IA"
 city = "Westphalia"
 county = "Shelby"
-longitude = -95.395187
 latitude = 41.719899
+longitude = -95.395187
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51578"
+

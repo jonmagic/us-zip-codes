@@ -1,6 +1,8 @@
-zip_code = "54630"
-state = "WI"
 city = "Galesville"
 county = "Trempealeau"
-longitude = -91.339528
 latitude = 44.094809
+longitude = -91.339528
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54630"
+

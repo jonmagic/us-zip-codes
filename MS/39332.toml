@@ -1,6 +1,8 @@
-zip_code = "39332"
-state = "MS"
 city = "Hickory"
 county = "Newton"
-longitude = -89.083928
 latitude = 32.323107
+longitude = -89.083928
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39332"
+

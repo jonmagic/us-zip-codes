@@ -1,6 +1,8 @@
-zip_code = "97492"
-state = "OR"
 city = "Westfir"
 county = "Lane"
-longitude = -122.481043
 latitude = 43.757499
+longitude = -122.481043
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97492"
+

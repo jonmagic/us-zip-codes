@@ -1,6 +1,8 @@
-zip_code = "31083"
-state = "GA"
 city = "Scotland"
 county = "Telfair"
-longitude = -82.912341
 latitude = 32.084139
+longitude = -82.912341
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31083"
+

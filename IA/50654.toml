@@ -1,6 +1,8 @@
-zip_code = "50654"
-state = "IA"
 city = "Masonville"
 county = "Delaware"
-longitude = -91.564233
 latitude = 42.457286
+longitude = -91.564233
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50654"
+

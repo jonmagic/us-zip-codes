@@ -1,6 +1,8 @@
-zip_code = "04690"
-state = "ME"
 city = "West Tremont"
 county = "Hancock"
-longitude = -68.391481
 latitude = 44.641873
+longitude = -68.391481
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04690"
+

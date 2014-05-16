@@ -1,6 +1,8 @@
-zip_code = "73755"
-state = "OK"
 city = "Longdale"
 county = "Blaine"
-longitude = -98.551349
 latitude = 36.133739
+longitude = -98.551349
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73755"
+

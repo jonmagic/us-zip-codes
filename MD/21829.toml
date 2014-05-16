@@ -1,6 +1,8 @@
-zip_code = "21829"
-state = "MD"
 city = "Girdletree"
 county = "Worcester"
-longitude = -75.381853
 latitude = 38.102963
+longitude = -75.381853
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21829"
+

@@ -1,6 +1,8 @@
-zip_code = "23440"
-state = "VA"
 city = "Tangier"
 county = "Accomack"
-longitude = -75.994287
 latitude = 37.823118
+longitude = -75.994287
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23440"
+

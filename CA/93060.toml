@@ -1,6 +1,8 @@
-zip_code = "93060"
-state = "CA"
 city = "Santa Paula"
 county = "Ventura"
-longitude = -119.085704
 latitude = 34.364943
+longitude = -119.085704
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93060"
+

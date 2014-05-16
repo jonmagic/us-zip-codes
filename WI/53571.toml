@@ -1,6 +1,8 @@
-zip_code = "53571"
-state = "WI"
 city = "Morrisonville"
 county = "Dane"
-longitude = -89.356403
 latitude = 43.277325
+longitude = -89.356403
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53571"
+

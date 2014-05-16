@@ -1,6 +1,8 @@
-zip_code = "59756"
-state = "MT"
 city = "Warm Springs"
 county = "Deer Lodge"
-longitude = -112.811742
 latitude = 46.218279
+longitude = -112.811742
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59756"
+

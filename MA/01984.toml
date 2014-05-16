@@ -1,6 +1,8 @@
-zip_code = "01984"
-state = "MA"
 city = "Wenham"
 county = "Essex"
-longitude = -70.8732
 latitude = 42.597691
+longitude = -70.8732
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01984"
+

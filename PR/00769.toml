@@ -1,6 +1,8 @@
-zip_code = "00769"
-state = "PR"
 city = "Coamo"
 county = "Coamo"
-longitude = -66.35081
 latitude = 18.095992
+longitude = -66.35081
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00769"
+

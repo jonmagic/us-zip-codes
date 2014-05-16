@@ -1,6 +1,8 @@
-zip_code = "53125"
-state = "WI"
 city = "Fontana"
 county = "Walworth"
-longitude = -88.463036
 latitude = 42.545625
+longitude = -88.463036
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53125"
+

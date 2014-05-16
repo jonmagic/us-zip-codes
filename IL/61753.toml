@@ -1,6 +1,8 @@
-zip_code = "61753"
-state = "IL"
 city = "Lexington"
 county = "Mclean"
-longitude = -88.874304
 latitude = 40.483327
+longitude = -88.874304
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61753"
+

@@ -1,6 +1,8 @@
-zip_code = "35759"
-state = "AL"
 city = "Meridianville"
 county = "Madison"
-longitude = -86.555622
 latitude = 34.88186
+longitude = -86.555622
+state = ""
+state_code_alpha2 = ""
+zip_code = "35759"
+

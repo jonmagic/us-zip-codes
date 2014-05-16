@@ -1,6 +1,8 @@
-zip_code = "04423"
-state = "ME"
 city = "Costigan"
 county = "Penobscot"
-longitude = -68.529182
 latitude = 45.039478
+longitude = -68.529182
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04423"
+

@@ -1,6 +1,8 @@
-zip_code = "94585"
-state = "CA"
 city = "Suisun City"
 county = "Solano"
-longitude = -121.994935
 latitude = 38.195385
+longitude = -121.994935
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94585"
+

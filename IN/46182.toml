@@ -1,6 +1,8 @@
-zip_code = "46182"
-state = "IN"
 city = "Waldron"
 county = "Shelby"
-longitude = -85.781538
 latitude = 39.515
+longitude = -85.781538
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46182"
+

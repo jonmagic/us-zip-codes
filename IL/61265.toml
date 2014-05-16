@@ -1,6 +1,8 @@
-zip_code = "61265"
-state = "IL"
 city = "Moline"
 county = "Rock Island"
-longitude = -90.528972
 latitude = 41.529431
+longitude = -90.528972
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61265"
+

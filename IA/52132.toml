@@ -1,6 +1,8 @@
-zip_code = "52132"
-state = "IA"
 city = "Calmar"
 county = "Winneshiek"
-longitude = -91.867666
 latitude = 43.168758
+longitude = -91.867666
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52132"
+

@@ -1,6 +1,8 @@
-zip_code = "15421"
-state = "PA"
 city = "Chalk Hill"
 county = "Fayette"
-longitude = -79.599126
 latitude = 39.845088
+longitude = -79.599126
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15421"
+

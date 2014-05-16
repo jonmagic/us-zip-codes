@@ -1,6 +1,8 @@
-zip_code = "54541"
-state = "WI"
 city = "Laona"
 county = "Forest"
-longitude = -88.706496
 latitude = 45.561723
+longitude = -88.706496
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54541"
+

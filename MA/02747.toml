@@ -1,6 +1,8 @@
-zip_code = "02747"
-state = "MA"
 city = "North Dartmouth"
 county = "Bristol"
-longitude = -71.007578
 latitude = 41.639261
+longitude = -71.007578
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02747"
+

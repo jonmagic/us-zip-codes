@@ -1,6 +1,8 @@
-zip_code = "45883"
-state = "OH"
 city = "Saint Henry"
 county = "Mercer"
-longitude = -84.635417
 latitude = 40.408584
+longitude = -84.635417
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45883"
+

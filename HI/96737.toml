@@ -1,6 +1,8 @@
-zip_code = "96737"
-state = "HI"
 city = "Ocean View"
 county = "Hawaii"
-longitude = -155.725803
 latitude = 19.100167
+longitude = -155.725803
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96737"
+

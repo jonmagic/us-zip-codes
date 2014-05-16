@@ -1,6 +1,8 @@
-zip_code = "42369"
-state = "KY"
 city = "Rockport"
 county = "Ohio"
-longitude = -86.88526
 latitude = 37.389897
+longitude = -86.88526
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42369"
+

@@ -1,6 +1,8 @@
-zip_code = "73742"
-state = "OK"
 city = "Hennessey"
 county = "Kingfisher"
-longitude = -97.938778
 latitude = 35.924916
+longitude = -97.938778
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73742"
+

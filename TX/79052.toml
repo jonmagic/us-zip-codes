@@ -1,6 +1,8 @@
-zip_code = "79052"
-state = "TX"
 city = "Kress"
 county = "Swisher"
-longitude = -101.749905
 latitude = 34.361722
+longitude = -101.749905
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79052"
+

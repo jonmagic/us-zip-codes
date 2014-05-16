@@ -1,6 +1,8 @@
-zip_code = "76882"
-state = "TX"
 city = "Talpa"
 county = "Coleman"
-longitude = -99.631855
 latitude = 31.78326
+longitude = -99.631855
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76882"
+

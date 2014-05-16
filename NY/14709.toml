@@ -1,6 +1,8 @@
-zip_code = "14709"
-state = "NY"
 city = "Angelica"
 county = "Allegany"
-longitude = -78.090559
 latitude = 42.217609
+longitude = -78.090559
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14709"
+

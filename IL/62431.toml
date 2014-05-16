@@ -1,6 +1,8 @@
-zip_code = "62431"
-state = "IL"
 city = "Herrick"
 county = "Shelby"
-longitude = -88.981896
 latitude = 39.219603
+longitude = -88.981896
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62431"
+

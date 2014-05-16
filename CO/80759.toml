@@ -1,6 +1,8 @@
-zip_code = "80759"
-state = "CO"
 city = "Yuma"
 county = "Yuma"
-longitude = -102.618522
 latitude = 40.061817
+longitude = -102.618522
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80759"
+

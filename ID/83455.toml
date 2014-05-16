@@ -1,6 +1,8 @@
-zip_code = "83455"
-state = "ID"
 city = "Victor"
 county = "Teton"
-longitude = -111.132302
 latitude = 43.63848
+longitude = -111.132302
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83455"
+

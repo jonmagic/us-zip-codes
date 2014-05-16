@@ -1,6 +1,8 @@
-zip_code = "74451"
-state = "OK"
 city = "Park Hill"
 county = "Cherokee"
-longitude = -94.997651
 latitude = 35.727468
+longitude = -94.997651
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74451"
+

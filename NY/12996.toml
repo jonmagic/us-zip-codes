@@ -1,6 +1,8 @@
-zip_code = "12996"
-state = "NY"
 city = "Willsboro"
 county = "Essex"
-longitude = -73.416202
 latitude = 44.242261
+longitude = -73.416202
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12996"
+

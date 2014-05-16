@@ -1,6 +1,8 @@
-zip_code = "65067"
-state = "MO"
 city = "Portland"
 county = "Callaway"
-longitude = -91.713568
 latitude = 38.770559
+longitude = -91.713568
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65067"
+

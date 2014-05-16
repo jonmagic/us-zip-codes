@@ -1,6 +1,8 @@
-zip_code = "57738"
-state = "SD"
 city = "Fairburn"
 county = "Custer"
-longitude = -103.20817
 latitude = 43.685927
+longitude = -103.20817
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57738"
+

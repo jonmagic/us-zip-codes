@@ -1,6 +1,8 @@
-zip_code = "80118"
-state = "CO"
 city = "Larkspur"
 county = "Douglas"
-longitude = -104.950189
 latitude = 39.213354
+longitude = -104.950189
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80118"
+

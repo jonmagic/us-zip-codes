@@ -1,6 +1,8 @@
-zip_code = "19540"
-state = "PA"
 city = "Mohnton"
 county = "Berks"
-longitude = -75.804757
 latitude = 40.321665
+longitude = -75.804757
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19540"
+

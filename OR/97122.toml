@@ -1,6 +1,8 @@
-zip_code = "97122"
-state = "OR"
 city = "Hebo"
 county = "Tillamook"
-longitude = -123.846
 latitude = 45.176795
+longitude = -123.846
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97122"
+

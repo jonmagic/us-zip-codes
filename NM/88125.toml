@@ -1,6 +1,8 @@
-zip_code = "88125"
-state = "NM"
 city = "Milnesand"
 county = "Roosevelt"
-longitude = -103.412259
 latitude = 33.720554
+longitude = -103.412259
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88125"
+

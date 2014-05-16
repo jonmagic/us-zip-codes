@@ -1,6 +1,8 @@
-zip_code = "67474"
-state = "KS"
 city = "Portis"
 county = "Osborne"
-longitude = -98.738629
 latitude = 39.531927
+longitude = -98.738629
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67474"
+

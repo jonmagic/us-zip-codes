@@ -1,6 +1,8 @@
-zip_code = "43803"
-state = "OH"
 city = "Bakersville"
 county = "Coshocton"
-longitude = -81.643638
 latitude = 40.357237
+longitude = -81.643638
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43803"
+

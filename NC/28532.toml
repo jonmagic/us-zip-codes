@@ -1,6 +1,8 @@
-zip_code = "28532"
-state = "NC"
 city = "Havelock"
 county = "Craven"
-longitude = -77.053443
 latitude = 35.028677
+longitude = -77.053443
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28532"
+

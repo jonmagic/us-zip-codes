@@ -1,6 +1,8 @@
-zip_code = "65725"
-state = "MO"
 city = "Pleasant Hope"
 county = "Polk"
-longitude = -93.265019
 latitude = 37.455661
+longitude = -93.265019
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65725"
+

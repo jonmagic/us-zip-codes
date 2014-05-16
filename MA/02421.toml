@@ -1,6 +1,8 @@
-zip_code = "02421"
-state = "MA"
 city = "Lexington"
 county = "Middlesex"
-longitude = -71.226453
 latitude = 42.442567
+longitude = -71.226453
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02421"
+

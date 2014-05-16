@@ -1,6 +1,8 @@
-zip_code = "39759"
-state = "MS"
 city = "Starkville"
 county = "Oktibbeha"
-longitude = -88.879117
 latitude = 33.42554
+longitude = -88.879117
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39759"
+

@@ -1,6 +1,8 @@
-zip_code = "53931"
-state = "WI"
 city = "Fairwater"
 county = "Fond Du Lac"
-longitude = -88.866516
 latitude = 43.747481
+longitude = -88.866516
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53931"
+

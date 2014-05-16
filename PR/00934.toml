@@ -1,6 +1,8 @@
-zip_code = "00934"
-state = "PR"
 city = "Fort Buchanan"
 county = "Bayamon"
-longitude = -66.166014
 latitude = 18.34487
+longitude = -66.166014
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00934"
+

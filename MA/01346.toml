@@ -1,6 +1,8 @@
-zip_code = "01346"
-state = "MA"
 city = "Heath"
 county = "Franklin"
-longitude = -72.788896
 latitude = 42.618011
+longitude = -72.788896
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01346"
+

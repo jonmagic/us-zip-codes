@@ -1,6 +1,8 @@
-zip_code = "54542"
-state = "WI"
 city = "Long Lake"
 county = "Florence"
-longitude = -88.623498
 latitude = 45.913837
+longitude = -88.623498
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54542"
+

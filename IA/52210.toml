@@ -1,6 +1,8 @@
-zip_code = "52210"
-state = "IA"
 city = "Brandon"
 county = "Buchanan"
-longitude = -92.003981
 latitude = 42.348147
+longitude = -92.003981
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52210"
+

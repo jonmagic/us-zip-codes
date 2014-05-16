@@ -1,6 +1,8 @@
-zip_code = "58335"
-state = "ND"
 city = "Fort Totten"
 county = "Benson"
-longitude = -99.186842
 latitude = 48.108758
+longitude = -99.186842
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58335"
+

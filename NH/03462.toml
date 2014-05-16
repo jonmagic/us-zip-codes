@@ -1,6 +1,8 @@
-zip_code = "03462"
-state = "NH"
 city = "Spofford"
 county = "Cheshire"
-longitude = -72.239432
 latitude = 42.870716
+longitude = -72.239432
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03462"
+

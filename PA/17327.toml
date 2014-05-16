@@ -1,6 +1,8 @@
-zip_code = "17327"
-state = "PA"
 city = "Glen Rock"
 county = "York"
-longitude = -76.750637
 latitude = 39.892205
+longitude = -76.750637
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17327"
+

@@ -1,6 +1,8 @@
-zip_code = "17550"
-state = "PA"
 city = "Maytown"
 county = "Lancaster"
-longitude = -76.57779
 latitude = 40.072108
+longitude = -76.57779
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17550"
+

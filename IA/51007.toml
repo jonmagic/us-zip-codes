@@ -1,6 +1,8 @@
-zip_code = "51007"
-state = "IA"
 city = "Bronson"
 county = "Woodbury"
-longitude = -96.165179
 latitude = 42.421334
+longitude = -96.165179
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51007"
+

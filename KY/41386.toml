@@ -1,6 +1,8 @@
-zip_code = "41386"
-state = "KY"
 city = "Vincent"
 county = "Owsley"
-longitude = -83.704908
 latitude = 37.398617
+longitude = -83.704908
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41386"
+

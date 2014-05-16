@@ -1,6 +1,8 @@
-zip_code = "13622"
-state = "NY"
 city = "Chaumont"
 county = "Jefferson"
-longitude = -76.108527
 latitude = 44.091892
+longitude = -76.108527
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13622"
+

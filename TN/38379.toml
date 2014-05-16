@@ -1,6 +1,8 @@
-zip_code = "38379"
-state = "TN"
 city = "Stantonville"
 county = "Mcnairy"
-longitude = -88.443952
 latitude = 35.164604
+longitude = -88.443952
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38379"
+

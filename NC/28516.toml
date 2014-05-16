@@ -1,6 +1,8 @@
-zip_code = "28516"
-state = "NC"
 city = "Beaufort"
 county = "Carteret"
-longitude = -76.610744
 latitude = 34.753777
+longitude = -76.610744
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28516"
+

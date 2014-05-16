@@ -1,6 +1,8 @@
-zip_code = "54230"
-state = "WI"
 city = "Reedsville"
 county = "Manitowoc"
-longitude = -87.904684
 latitude = 44.142382
+longitude = -87.904684
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54230"
+

@@ -1,6 +1,8 @@
-zip_code = "50673"
-state = "IA"
 city = "Stout"
 county = "Grundy"
-longitude = -92.70291
 latitude = 42.525507
+longitude = -92.70291
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50673"
+

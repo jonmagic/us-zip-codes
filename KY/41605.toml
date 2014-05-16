@@ -1,6 +1,8 @@
-zip_code = "41605"
-state = "KY"
 city = "Betsy Layne"
 county = "Floyd"
-longitude = -82.701035
 latitude = 37.54042
+longitude = -82.701035
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41605"
+

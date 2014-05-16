@@ -1,6 +1,8 @@
-zip_code = "01012"
-state = "MA"
 city = "Chesterfield"
 county = "Hampshire"
-longitude = -72.825607
 latitude = 42.392274
+longitude = -72.825607
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01012"
+

@@ -1,6 +1,8 @@
-zip_code = "16140"
-state = "PA"
 city = "New Bedford"
 county = "Lawrence"
-longitude = -80.308376
 latitude = 40.989662
+longitude = -80.308376
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16140"
+

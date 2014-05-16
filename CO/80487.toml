@@ -1,6 +1,8 @@
-zip_code = "80487"
-state = "CO"
 city = "Steamboat Springs"
 county = "Routt"
-longitude = -106.931827
 latitude = 40.632683
+longitude = -106.931827
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80487"
+

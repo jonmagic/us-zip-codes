@@ -1,6 +1,8 @@
-zip_code = "54226"
-state = "WI"
 city = "Maplewood"
 county = "Door"
-longitude = -87.006012
 latitude = 45.059713
+longitude = -87.006012
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54226"
+

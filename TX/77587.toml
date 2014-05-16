@@ -1,6 +1,8 @@
-zip_code = "77587"
-state = "TX"
 city = "South Houston"
 county = "Harris"
-longitude = -95.229511
 latitude = 29.662579
+longitude = -95.229511
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77587"
+

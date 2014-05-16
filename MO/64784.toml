@@ -1,6 +1,8 @@
-zip_code = "64784"
-state = "MO"
 city = "Sheldon"
 county = "Vernon"
-longitude = -94.295103
 latitude = 37.658203
+longitude = -94.295103
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64784"
+

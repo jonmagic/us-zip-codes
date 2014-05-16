@@ -1,6 +1,8 @@
-zip_code = "56484"
-state = "MN"
 city = "Walker"
 county = "Cass"
-longitude = -94.489824
 latitude = 47.067057
+longitude = -94.489824
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56484"
+

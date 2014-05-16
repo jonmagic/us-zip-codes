@@ -1,6 +1,8 @@
-zip_code = "60093"
-state = "IL"
 city = "Winnetka"
 county = "Cook"
-longitude = -87.940168
 latitude = 42.112176
+longitude = -87.940168
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60093"
+

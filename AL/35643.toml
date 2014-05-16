@@ -1,6 +1,8 @@
-zip_code = "35643"
-state = "AL"
 city = "Hillsboro"
 county = "Lawrence"
-longitude = -87.267871
 latitude = 34.635459
+longitude = -87.267871
+state = ""
+state_code_alpha2 = ""
+zip_code = "35643"
+

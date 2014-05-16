@@ -1,6 +1,8 @@
-zip_code = "77464"
-state = "TX"
 city = "Orchard"
 county = "Fort Bend"
-longitude = -95.904066
 latitude = 29.503446
+longitude = -95.904066
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77464"
+

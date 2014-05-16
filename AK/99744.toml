@@ -1,6 +1,8 @@
-zip_code = "99744"
-state = "AK"
 city = "Anderson"
 county = "Denali"
-longitude = -149.986676
 latitude = 63.543571
+longitude = -149.986676
+state = ""
+state_code_alpha2 = ""
+zip_code = "99744"
+

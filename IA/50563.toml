@@ -1,6 +1,8 @@
-zip_code = "50563"
-state = "IA"
 city = "Manson"
 county = "Calhoun"
-longitude = -94.57695
 latitude = 42.50089
+longitude = -94.57695
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50563"
+

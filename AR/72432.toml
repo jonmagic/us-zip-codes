@@ -1,6 +1,8 @@
-zip_code = "72432"
-state = "AR"
 city = "Harrisburg"
 county = "Poinsett"
-longitude = -90.791023
 latitude = 35.575374
+longitude = -90.791023
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72432"
+

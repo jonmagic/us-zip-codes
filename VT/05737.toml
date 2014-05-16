@@ -1,6 +1,8 @@
-zip_code = "05737"
-state = "VT"
 city = "Chittenden"
 county = "Rutland"
-longitude = -72.925199
 latitude = 43.713218
+longitude = -72.925199
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05737"
+

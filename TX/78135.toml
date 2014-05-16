@@ -1,6 +1,8 @@
-zip_code = "78135"
-state = "TX"
 city = "New Braunfels"
 county = "Comal"
-longitude = -98.087157
 latitude = 29.738502
+longitude = -98.087157
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78135"
+

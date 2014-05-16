@@ -1,6 +1,8 @@
-zip_code = "71970"
-state = "AR"
 city = "Story"
 county = "Montgomery"
-longitude = -93.53027
 latitude = 34.673248
+longitude = -93.53027
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71970"
+

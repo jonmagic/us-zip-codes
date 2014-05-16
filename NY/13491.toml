@@ -1,6 +1,8 @@
-zip_code = "13491"
-state = "NY"
 city = "West Winfield"
 county = "Herkimer"
-longitude = -75.12867
 latitude = 42.909122
+longitude = -75.12867
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13491"
+

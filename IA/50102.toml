@@ -1,6 +1,8 @@
-zip_code = "50102"
-state = "IA"
 city = "Garden City"
 county = "Hardin"
-longitude = -93.373262
 latitude = 42.235432
+longitude = -93.373262
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50102"
+

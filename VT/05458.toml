@@ -1,6 +1,8 @@
-zip_code = "05458"
-state = "VT"
 city = "Grand Isle"
 county = "Grand Isle"
-longitude = -73.303193
 latitude = 44.723391
+longitude = -73.303193
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05458"
+

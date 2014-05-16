@@ -1,6 +1,8 @@
-zip_code = "05472"
-state = "VT"
 city = "New Haven"
 county = "Addison"
-longitude = -73.197156
 latitude = 44.149509
+longitude = -73.197156
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05472"
+

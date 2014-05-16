@@ -1,6 +1,8 @@
-zip_code = "27818"
-state = "NC"
 city = "Como"
 county = "Hertford"
-longitude = -77.031055
 latitude = 36.491011
+longitude = -77.031055
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27818"
+

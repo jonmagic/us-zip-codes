@@ -1,6 +1,8 @@
-zip_code = "03110"
-state = "NH"
 city = "Bedford"
 county = "Hillsborough"
-longitude = -71.535515
 latitude = 42.93743
+longitude = -71.535515
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03110"
+

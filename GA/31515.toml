@@ -1,6 +1,8 @@
-zip_code = "31515"
-state = "GA"
 city = "Baxley"
 county = "Appling"
-longitude = -82.299677
 latitude = 31.717717
+longitude = -82.299677
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31515"
+

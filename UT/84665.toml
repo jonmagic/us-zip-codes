@@ -1,6 +1,8 @@
-zip_code = "84665"
-state = "UT"
 city = "Sterling"
 county = "Sanpete"
-longitude = -111.740853
 latitude = 39.133489
+longitude = -111.740853
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84665"
+

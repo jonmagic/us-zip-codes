@@ -1,6 +1,8 @@
-zip_code = "41410"
-state = "KY"
 city = "Cisco"
 county = "Magoffin"
-longitude = -83.074592
 latitude = 37.690636
+longitude = -83.074592
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41410"
+

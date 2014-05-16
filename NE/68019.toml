@@ -1,6 +1,8 @@
-zip_code = "68019"
-state = "NE"
 city = "Craig"
 county = "Burt"
-longitude = -96.376462
 latitude = 41.792415
+longitude = -96.376462
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68019"
+

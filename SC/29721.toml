@@ -1,6 +1,8 @@
-zip_code = "29721"
-state = "SC"
 city = "Lancaster"
 county = "Lancaster"
-longitude = -80.781721
 latitude = 34.699412
+longitude = -80.781721
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29721"
+

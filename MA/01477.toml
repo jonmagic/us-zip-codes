@@ -1,6 +1,8 @@
-zip_code = "01477"
-state = "MA"
 city = "Winchendon Springs"
 county = "Worcester"
-longitude = -71.896868
 latitude = 42.364807
+longitude = -71.896868
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01477"
+

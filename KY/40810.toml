@@ -1,6 +1,8 @@
-zip_code = "40810"
-state = "KY"
 city = "Bledsoe"
 county = "Harlan"
-longitude = -83.324159
 latitude = 36.934041
+longitude = -83.324159
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40810"
+

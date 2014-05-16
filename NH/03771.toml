@@ -1,6 +1,8 @@
-zip_code = "03771"
-state = "NH"
 city = "Monroe"
 county = "Grafton"
-longitude = -72.015317
 latitude = 44.268612
+longitude = -72.015317
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03771"
+

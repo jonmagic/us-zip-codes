@@ -1,6 +1,8 @@
-zip_code = "30412"
-state = "GA"
 city = "Alston"
 county = "Montgomery"
-longitude = -82.482488
 latitude = 32.077458
+longitude = -82.482488
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30412"
+

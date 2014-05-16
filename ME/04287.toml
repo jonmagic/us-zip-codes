@@ -1,6 +1,8 @@
-zip_code = "04287"
-state = "ME"
 city = "Bowdoin"
 county = "Sagadahoc"
-longitude = -69.965553
 latitude = 44.057514
+longitude = -69.965553
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04287"
+

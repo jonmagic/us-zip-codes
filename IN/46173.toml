@@ -1,6 +1,8 @@
-zip_code = "46173"
-state = "IN"
 city = "Rushville"
 county = "Rush"
-longitude = -85.439133
 latitude = 39.612836
+longitude = -85.439133
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46173"
+

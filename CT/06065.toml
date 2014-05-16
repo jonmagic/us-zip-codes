@@ -1,6 +1,8 @@
-zip_code = "06065"
-state = "CT"
 city = "Riverton"
 county = "Litchfield"
-longitude = -73.014467
 latitude = 41.968597
+longitude = -73.014467
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06065"
+

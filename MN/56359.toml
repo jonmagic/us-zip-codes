@@ -1,6 +1,8 @@
-zip_code = "56359"
-state = "MN"
 city = "Onamia"
 county = "Mille Lacs"
-longitude = -93.663152
 latitude = 45.943108
+longitude = -93.663152
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56359"
+

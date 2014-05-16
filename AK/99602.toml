@@ -1,6 +1,8 @@
-zip_code = "99602"
-state = "AK"
 city = "Holy Cross"
 county = "Yukon Koyukuk"
-longitude = -151.025085
 latitude = 65.226375
+longitude = -151.025085
+state = ""
+state_code_alpha2 = ""
+zip_code = "99602"
+

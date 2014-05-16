@@ -1,6 +1,8 @@
-zip_code = "64761"
-state = "MO"
 city = "Leeton"
 county = "Johnson"
-longitude = -93.67341
 latitude = 38.623836
+longitude = -93.67341
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64761"
+

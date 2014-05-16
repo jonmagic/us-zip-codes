@@ -1,6 +1,8 @@
-zip_code = "16048"
-state = "PA"
 city = "North Washington"
 county = "Butler"
-longitude = -79.808899
 latitude = 41.04719
+longitude = -79.808899
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16048"
+

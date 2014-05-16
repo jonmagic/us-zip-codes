@@ -1,6 +1,8 @@
-zip_code = "56244"
-state = "MN"
 city = "Hancock"
 county = "Stevens"
-longitude = -95.79426
 latitude = 45.497402
+longitude = -95.79426
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56244"
+

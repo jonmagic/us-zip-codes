@@ -1,6 +1,8 @@
-zip_code = "93420"
-state = "CA"
 city = "Arroyo Grande"
 county = "San Luis Obispo"
-longitude = -120.655743
 latitude = 35.292432
+longitude = -120.655743
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93420"
+

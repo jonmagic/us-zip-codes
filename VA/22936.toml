@@ -1,6 +1,8 @@
-zip_code = "22936"
-state = "VA"
 city = "Earlysville"
 county = "Albemarle"
-longitude = -78.506832
 latitude = 38.166565
+longitude = -78.506832
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22936"
+

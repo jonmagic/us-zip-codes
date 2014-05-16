@@ -1,6 +1,8 @@
-zip_code = "67410"
-state = "KS"
 city = "Abilene"
 county = "Dickinson"
-longitude = -97.195283
 latitude = 38.9111
+longitude = -97.195283
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67410"
+

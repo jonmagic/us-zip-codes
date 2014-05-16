@@ -1,6 +1,8 @@
-zip_code = "34491"
-state = "FL"
 city = "Summerfield"
 county = "Marion"
-longitude = -82.032463
 latitude = 29.01123
+longitude = -82.032463
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34491"
+

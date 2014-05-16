@@ -1,6 +1,8 @@
-zip_code = "70373"
-state = "LA"
 city = "Larose"
 county = "Lafourche"
-longitude = -90.347406
 latitude = 29.520061
+longitude = -90.347406
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70373"
+

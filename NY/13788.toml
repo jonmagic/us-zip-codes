@@ -1,6 +1,8 @@
-zip_code = "13788"
-state = "NY"
 city = "Hobart"
 county = "Delaware"
-longitude = -74.711604
 latitude = 42.380427
+longitude = -74.711604
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13788"
+

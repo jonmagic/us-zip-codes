@@ -1,6 +1,8 @@
-zip_code = "05744"
-state = "VT"
 city = "Florence"
 county = "Rutland"
-longitude = -73.107352
 latitude = 43.576783
+longitude = -73.107352
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05744"
+

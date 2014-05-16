@@ -1,6 +1,8 @@
-zip_code = "98051"
-state = "WA"
 city = "Ravensdale"
 county = "King"
-longitude = -121.932232
 latitude = 47.274764
+longitude = -121.932232
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98051"
+

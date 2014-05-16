@@ -1,6 +1,8 @@
-zip_code = "17985"
-state = "PA"
 city = "Zion Grove"
 county = "Schuylkill"
-longitude = -76.193099
 latitude = 40.914137
+longitude = -76.193099
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17985"
+

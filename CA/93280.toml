@@ -1,6 +1,8 @@
-zip_code = "93280"
-state = "CA"
 city = "Wasco"
 county = "Kern"
-longitude = -118.704037
 latitude = 35.467934
+longitude = -118.704037
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93280"
+

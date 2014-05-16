@@ -1,6 +1,8 @@
-zip_code = "73662"
-state = "OK"
 city = "Sayre"
 county = "Beckham"
-longitude = -99.74838
 latitude = 35.237521
+longitude = -99.74838
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73662"
+

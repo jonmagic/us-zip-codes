@@ -1,6 +1,8 @@
-zip_code = "05357"
-state = "VT"
 city = "West Dummerston"
 county = "Windham"
-longitude = -72.62408
 latitude = 42.957233
+longitude = -72.62408
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05357"
+

@@ -1,6 +1,8 @@
-zip_code = "53156"
-state = "WI"
 city = "Palmyra"
 county = "Jefferson"
-longitude = -88.59712
 latitude = 42.893937
+longitude = -88.59712
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53156"
+

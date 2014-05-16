@@ -1,6 +1,8 @@
-zip_code = "94951"
-state = "CA"
 city = "Penngrove"
 county = "Sonoma"
-longitude = -122.648346
 latitude = 38.315342
+longitude = -122.648346
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94951"
+

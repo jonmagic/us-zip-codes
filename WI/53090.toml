@@ -1,6 +1,8 @@
-zip_code = "53090"
-state = "WI"
 city = "West Bend"
 county = "Washington"
-longitude = -88.19631
 latitude = 43.443839
+longitude = -88.19631
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53090"
+

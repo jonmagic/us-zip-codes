@@ -1,6 +1,8 @@
-zip_code = "03906"
-state = "ME"
 city = "North Berwick"
 county = "York"
-longitude = -70.753996
 latitude = 43.340626
+longitude = -70.753996
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "03906"
+

@@ -1,6 +1,8 @@
-zip_code = "31329"
-state = "GA"
 city = "Springfield"
 county = "Effingham"
-longitude = -81.361775
 latitude = 32.369703
+longitude = -81.361775
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31329"
+

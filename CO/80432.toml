@@ -1,6 +1,8 @@
-zip_code = "80432"
-state = "CO"
 city = "Como"
 county = "Park"
-longitude = -105.816986
 latitude = 39.158746
+longitude = -105.816986
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80432"
+

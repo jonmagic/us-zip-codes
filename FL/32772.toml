@@ -1,6 +1,8 @@
-zip_code = "32772"
-state = "FL"
 city = "Sanford"
 county = "Seminole"
-longitude = -81.250236
 latitude = 28.80722
+longitude = -81.250236
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32772"
+

@@ -1,6 +1,8 @@
-zip_code = "07631"
-state = "NJ"
 city = "Englewood"
 county = "Bergen"
-longitude = -73.971782
 latitude = 40.889498
+longitude = -73.971782
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07631"
+

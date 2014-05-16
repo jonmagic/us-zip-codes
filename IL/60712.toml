@@ -1,6 +1,8 @@
-zip_code = "60712"
-state = "IL"
 city = "Lincolnwood"
 county = "Cook"
-longitude = -87.736135
 latitude = 42.00798
+longitude = -87.736135
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60712"
+

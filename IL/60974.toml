@@ -1,6 +1,8 @@
-zip_code = "60974"
-state = "IL"
 city = "Woodland"
 county = "Iroquois"
-longitude = -87.730743
 latitude = 40.715072
+longitude = -87.730743
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60974"
+

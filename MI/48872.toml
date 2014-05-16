@@ -1,6 +1,8 @@
-zip_code = "48872"
-state = "MI"
 city = "Perry"
 county = "Shiawassee"
-longitude = -84.211149
 latitude = 42.823317
+longitude = -84.211149
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48872"
+

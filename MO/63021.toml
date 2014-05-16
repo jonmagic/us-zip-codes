@@ -1,6 +1,8 @@
-zip_code = "63021"
-state = "MO"
 city = "Ballwin"
 county = "Saint Louis"
-longitude = -90.535646
 latitude = 38.566653
+longitude = -90.535646
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63021"
+

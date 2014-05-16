@@ -1,6 +1,8 @@
-zip_code = "32577"
-state = "FL"
 city = "Molino"
 county = "Escambia"
-longitude = -87.385248
 latitude = 30.690231
+longitude = -87.385248
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32577"
+

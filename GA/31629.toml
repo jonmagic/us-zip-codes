@@ -1,6 +1,8 @@
-zip_code = "31629"
-state = "GA"
 city = "Dixie"
 county = "Brooks"
-longitude = -83.708223
 latitude = 30.761316
+longitude = -83.708223
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31629"
+

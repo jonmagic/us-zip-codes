@@ -1,6 +1,8 @@
-zip_code = "42235"
-state = "KY"
 city = "Hadley"
 county = "Warren"
-longitude = -86.394012
 latitude = 36.983441
+longitude = -86.394012
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42235"
+

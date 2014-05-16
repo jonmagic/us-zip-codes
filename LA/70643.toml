@@ -1,6 +1,8 @@
-zip_code = "70643"
-state = "LA"
 city = "Grand Chenier"
 county = "Cameron"
-longitude = -92.926076
 latitude = 29.764417
+longitude = -92.926076
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70643"
+

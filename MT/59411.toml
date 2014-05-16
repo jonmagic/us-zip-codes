@@ -1,6 +1,8 @@
-zip_code = "59411"
-state = "MT"
 city = "Babb"
 county = "Glacier"
-longitude = -113.298384
 latitude = 48.904169
+longitude = -113.298384
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59411"
+

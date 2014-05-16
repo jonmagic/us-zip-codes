@@ -1,6 +1,8 @@
-zip_code = "01240"
-state = "MA"
 city = "Lenox"
 county = "Berkshire"
-longitude = -73.219858
 latitude = 42.459202
+longitude = -73.219858
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01240"
+

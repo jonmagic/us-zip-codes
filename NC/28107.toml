@@ -1,6 +1,8 @@
-zip_code = "28107"
-state = "NC"
 city = "Midland"
 county = "Cabarrus"
-longitude = -80.535601
 latitude = 35.250608
+longitude = -80.535601
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28107"
+

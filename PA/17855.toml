@@ -1,6 +1,8 @@
-zip_code = "17855"
-state = "PA"
 city = "New Berlin"
 county = "Union"
-longitude = -76.984667
 latitude = 40.882689
+longitude = -76.984667
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17855"
+

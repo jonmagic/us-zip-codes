@@ -1,6 +1,8 @@
-zip_code = "50236"
-state = "IA"
 city = "Roland"
 county = "Story"
-longitude = -93.496057
 latitude = 42.161972
+longitude = -93.496057
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50236"
+

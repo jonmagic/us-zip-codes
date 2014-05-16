@@ -1,6 +1,8 @@
-zip_code = "06010"
-state = "CT"
 city = "Bristol"
 county = "Hartford"
-longitude = -72.939577
 latitude = 41.681198
+longitude = -72.939577
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06010"
+

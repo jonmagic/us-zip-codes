@@ -1,6 +1,8 @@
-zip_code = "15904"
-state = "PA"
 city = "Johnstown"
 county = "Cambria"
-longitude = -78.828084
 latitude = 40.319279
+longitude = -78.828084
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15904"
+

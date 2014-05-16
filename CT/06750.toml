@@ -1,6 +1,8 @@
-zip_code = "06750"
-state = "CT"
 city = "Bantam"
 county = "Litchfield"
-longitude = -73.251598
 latitude = 41.714352
+longitude = -73.251598
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06750"
+

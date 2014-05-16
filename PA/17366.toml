@@ -1,6 +1,8 @@
-zip_code = "17366"
-state = "PA"
 city = "Windsor"
 county = "York"
-longitude = -76.613232
 latitude = 40.006581
+longitude = -76.613232
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17366"
+

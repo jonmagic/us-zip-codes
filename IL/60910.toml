@@ -1,6 +1,8 @@
-zip_code = "60910"
-state = "IL"
 city = "Aroma Park"
 county = "Kankakee"
-longitude = -87.684284
 latitude = 41.091582
+longitude = -87.684284
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60910"
+

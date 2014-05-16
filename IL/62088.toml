@@ -1,6 +1,8 @@
-zip_code = "62088"
-state = "IL"
 city = "Staunton"
 county = "Macoupin"
-longitude = -89.784732
 latitude = 39.038526
+longitude = -89.784732
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62088"
+

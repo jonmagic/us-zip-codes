@@ -1,6 +1,8 @@
-zip_code = "20674"
-state = "MD"
 city = "Piney Point"
 county = "Saint Marys"
-longitude = -76.498367
 latitude = 38.16863
+longitude = -76.498367
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20674"
+

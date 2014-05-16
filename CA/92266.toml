@@ -1,6 +1,8 @@
-zip_code = "92266"
-state = "CA"
 city = "Palo Verde"
 county = "Imperial"
-longitude = -114.735544
 latitude = 33.369594
+longitude = -114.735544
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92266"
+

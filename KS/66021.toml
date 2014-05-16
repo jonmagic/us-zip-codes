@@ -1,6 +1,8 @@
-zip_code = "66021"
-state = "KS"
 city = "Edgerton"
 county = "Johnson"
-longitude = -94.94316
 latitude = 38.817766
+longitude = -94.94316
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66021"
+

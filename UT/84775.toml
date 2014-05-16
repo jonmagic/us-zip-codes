@@ -1,6 +1,8 @@
-zip_code = "84775"
-state = "UT"
 city = "Torrey"
 county = "Wayne"
-longitude = -111.413774
 latitude = 38.296853
+longitude = -111.413774
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84775"
+

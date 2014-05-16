@@ -1,6 +1,8 @@
-zip_code = "63833"
-state = "MO"
 city = "Catron"
 county = "New Madrid"
-longitude = -89.74355
 latitude = 36.62761
+longitude = -89.74355
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63833"
+

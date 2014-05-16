@@ -1,6 +1,8 @@
-zip_code = "17745"
-state = "PA"
 city = "Lock Haven"
 county = "Clinton"
-longitude = -77.641745
 latitude = 41.229022
+longitude = -77.641745
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17745"
+

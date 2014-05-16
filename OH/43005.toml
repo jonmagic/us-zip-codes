@@ -1,6 +1,8 @@
-zip_code = "43005"
-state = "OH"
 city = "Bladensburg"
 county = "Knox"
-longitude = -82.27362
 latitude = 40.29623
+longitude = -82.27362
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43005"
+

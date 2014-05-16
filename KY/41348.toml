@@ -1,6 +1,8 @@
-zip_code = "41348"
-state = "KY"
 city = "Lost Creek"
 county = "Breathitt"
-longitude = -83.297614
 latitude = 37.441782
+longitude = -83.297614
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41348"
+

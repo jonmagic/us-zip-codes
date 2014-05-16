@@ -1,6 +1,8 @@
-zip_code = "95694"
-state = "CA"
 city = "Winters"
 county = "Yolo"
-longitude = -121.923196
 latitude = 38.622768
+longitude = -121.923196
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95694"
+

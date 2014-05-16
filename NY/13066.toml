@@ -1,6 +1,8 @@
-zip_code = "13066"
-state = "NY"
 city = "Fayetteville"
 county = "Onondaga"
-longitude = -75.995518
 latitude = 42.947789
+longitude = -75.995518
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13066"
+

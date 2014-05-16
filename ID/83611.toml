@@ -1,6 +1,8 @@
-zip_code = "83611"
-state = "ID"
 city = "Cascade"
 county = "Valley"
-longitude = -115.641659
 latitude = 44.692713
+longitude = -115.641659
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83611"
+

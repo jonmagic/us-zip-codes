@@ -1,6 +1,8 @@
-zip_code = "96772"
-state = "HI"
 city = "Naalehu"
 county = "Hawaii"
-longitude = -155.622528
 latitude = 19.052137
+longitude = -155.622528
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96772"
+

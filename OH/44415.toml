@@ -1,6 +1,8 @@
-zip_code = "44415"
-state = "OH"
 city = "Elkton"
 county = "Columbiana"
-longitude = -80.704245
 latitude = 40.76304
+longitude = -80.704245
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44415"
+

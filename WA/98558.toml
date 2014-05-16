@@ -1,6 +1,8 @@
-zip_code = "98558"
-state = "WA"
 city = "Mckenna"
 county = "Pierce"
-longitude = -122.55585
 latitude = 46.955863
+longitude = -122.55585
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98558"
+

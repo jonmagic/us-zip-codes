@@ -1,6 +1,8 @@
-zip_code = "83126"
-state = "WY"
 city = "Smoot"
 county = "Lincoln"
-longitude = -110.916034
 latitude = 42.587769
+longitude = -110.916034
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83126"
+

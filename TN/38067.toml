@@ -1,6 +1,8 @@
-zip_code = "38067"
-state = "TN"
 city = "Saulsbury"
 county = "Hardeman"
-longitude = -89.005719
 latitude = 35.084166
+longitude = -89.005719
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38067"
+

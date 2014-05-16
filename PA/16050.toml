@@ -1,6 +1,8 @@
-zip_code = "16050"
-state = "PA"
 city = "Petrolia"
 county = "Butler"
-longitude = -79.762814
 latitude = 41.041059
+longitude = -79.762814
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16050"
+

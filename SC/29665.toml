@@ -1,6 +1,8 @@
-zip_code = "29665"
-state = "SC"
 city = "Newry"
 county = "Oconee"
-longitude = -82.910578
 latitude = 34.724743
+longitude = -82.910578
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29665"
+

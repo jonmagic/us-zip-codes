@@ -1,6 +1,8 @@
-zip_code = "73622"
-state = "OK"
 city = "Bessie"
 county = "Washita"
-longitude = -98.989778
 latitude = 35.387478
+longitude = -98.989778
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73622"
+

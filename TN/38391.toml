@@ -1,6 +1,8 @@
-zip_code = "38391"
-state = "TN"
 city = "Denmark"
 county = "Madison"
-longitude = -88.988401
 latitude = 35.540108
+longitude = -88.988401
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38391"
+

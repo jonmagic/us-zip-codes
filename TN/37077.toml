@@ -1,6 +1,8 @@
-zip_code = "37077"
-state = "TN"
 city = "Hendersonville"
 county = "Sumner"
-longitude = -86.621095
 latitude = 36.304701
+longitude = -86.621095
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37077"
+

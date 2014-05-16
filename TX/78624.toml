@@ -1,6 +1,8 @@
-zip_code = "78624"
-state = "TX"
 city = "Fredericksburg"
 county = "Gillespie"
-longitude = -98.8936
 latitude = 30.313385
+longitude = -98.8936
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78624"
+

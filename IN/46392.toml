@@ -1,6 +1,8 @@
-zip_code = "46392"
-state = "IN"
 city = "Wheatfield"
 county = "Jasper"
-longitude = -87.063818
 latitude = 41.133299
+longitude = -87.063818
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46392"
+

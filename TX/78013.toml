@@ -1,6 +1,8 @@
-zip_code = "78013"
-state = "TX"
 city = "Comfort"
 county = "Kendall"
-longitude = -98.712767
 latitude = 29.945489
+longitude = -98.712767
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78013"
+

@@ -1,6 +1,8 @@
-zip_code = "16825"
-state = "PA"
 city = "Bigler"
 county = "Clearfield"
-longitude = -78.360612
 latitude = 40.990006
+longitude = -78.360612
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16825"
+

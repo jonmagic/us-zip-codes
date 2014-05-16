@@ -1,6 +1,8 @@
-zip_code = "47861"
-state = "IN"
 city = "Merom"
 county = "Sullivan"
-longitude = -87.566595
 latitude = 39.057641
+longitude = -87.566595
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47861"
+

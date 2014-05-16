@@ -1,6 +1,8 @@
-zip_code = "81233"
-state = "CO"
 city = "Howard"
 county = "Fremont"
-longitude = -105.769848
 latitude = 38.410012
+longitude = -105.769848
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81233"
+

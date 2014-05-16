@@ -1,6 +1,8 @@
-zip_code = "63012"
-state = "MO"
 city = "Barnhart"
 county = "Jefferson"
-longitude = -90.453027
 latitude = 38.334232
+longitude = -90.453027
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63012"
+

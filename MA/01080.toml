@@ -1,6 +1,8 @@
-zip_code = "01080"
-state = "MA"
 city = "Three Rivers"
 county = "Hampden"
-longitude = -72.517813
 latitude = 42.179805
+longitude = -72.517813
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01080"
+

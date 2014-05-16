@@ -1,6 +1,8 @@
-zip_code = "49660"
-state = "MI"
 city = "Manistee"
 county = "Manistee"
-longitude = -86.182473
 latitude = 44.263534
+longitude = -86.182473
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49660"
+

@@ -1,6 +1,8 @@
-zip_code = "54529"
-state = "WI"
 city = "Harshaw"
 county = "Oneida"
-longitude = -89.663974
 latitude = 45.690115
+longitude = -89.663974
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54529"
+

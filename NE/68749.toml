@@ -1,6 +1,8 @@
-zip_code = "68749"
-state = "NE"
 city = "Magnet"
 county = "Cedar"
-longitude = -97.250378
 latitude = 42.609687
+longitude = -97.250378
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68749"
+

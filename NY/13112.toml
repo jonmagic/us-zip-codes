@@ -1,6 +1,8 @@
-zip_code = "13112"
-state = "NY"
 city = "Memphis"
 county = "Onondaga"
-longitude = -76.413216
 latitude = 43.098983
+longitude = -76.413216
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13112"
+

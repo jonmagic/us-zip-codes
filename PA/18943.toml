@@ -1,6 +1,8 @@
-zip_code = "18943"
-state = "PA"
 city = "Penns Park"
 county = "Bucks"
-longitude = -75.009401
 latitude = 40.268981
+longitude = -75.009401
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18943"
+

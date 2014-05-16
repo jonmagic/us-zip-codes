@@ -1,6 +1,8 @@
-zip_code = "06473"
-state = "CT"
 city = "North Haven"
 county = "New Haven"
-longitude = -72.862644
 latitude = 41.384381
+longitude = -72.862644
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06473"
+

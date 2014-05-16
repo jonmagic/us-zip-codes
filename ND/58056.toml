@@ -1,6 +1,8 @@
-zip_code = "58056"
-state = "ND"
 city = "Luverne"
 county = "Steele"
-longitude = -97.718955
 latitude = 47.45565
+longitude = -97.718955
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58056"
+

@@ -1,6 +1,8 @@
-zip_code = "99218"
-state = "WA"
 city = "Spokane"
 county = "Spokane"
-longitude = -117.407552
 latitude = 47.75754
+longitude = -117.407552
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99218"
+

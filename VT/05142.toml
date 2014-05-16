@@ -1,6 +1,8 @@
-zip_code = "05142"
-state = "VT"
 city = "Cavendish"
 county = "Windsor"
-longitude = -72.583854
 latitude = 43.402135
+longitude = -72.583854
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05142"
+

@@ -1,6 +1,8 @@
-zip_code = "68054"
-state = "NE"
 city = "Richfield"
 county = "Sarpy"
-longitude = -96.070433
 latitude = 41.089048
+longitude = -96.070433
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68054"
+

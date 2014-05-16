@@ -1,6 +1,8 @@
-zip_code = "65646"
-state = "MO"
 city = "Everton"
 county = "Dade"
-longitude = -93.702108
 latitude = 37.34335
+longitude = -93.702108
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65646"
+

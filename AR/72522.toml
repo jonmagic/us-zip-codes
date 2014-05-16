@@ -1,6 +1,8 @@
-zip_code = "72522"
-state = "AR"
 city = "Charlotte"
 county = "Independence"
-longitude = -91.456609
 latitude = 35.803978
+longitude = -91.456609
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72522"
+

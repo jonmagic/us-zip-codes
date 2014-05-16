@@ -1,6 +1,8 @@
-zip_code = "74832"
-state = "OK"
 city = "Carney"
 county = "Lincoln"
-longitude = -97.028182
 latitude = 35.804507
+longitude = -97.028182
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74832"
+

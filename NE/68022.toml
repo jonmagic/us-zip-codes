@@ -1,6 +1,8 @@
-zip_code = "68022"
-state = "NE"
 city = "Elkhorn"
 county = "Douglas"
-longitude = -96.238818
 latitude = 41.288631
+longitude = -96.238818
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68022"
+

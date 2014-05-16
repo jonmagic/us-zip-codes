@@ -1,6 +1,8 @@
-zip_code = "89439"
-state = "NV"
 city = "Verdi"
 county = "Washoe"
-longitude = -119.983252
 latitude = 39.516486
+longitude = -119.983252
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89439"
+

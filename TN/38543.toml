@@ -1,6 +1,8 @@
-zip_code = "38543"
-state = "TN"
 city = "Alpine"
 county = "Overton"
-longitude = -85.189932
 latitude = 36.364735
+longitude = -85.189932
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38543"
+

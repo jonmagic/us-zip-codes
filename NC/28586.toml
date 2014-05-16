@@ -1,6 +1,8 @@
-zip_code = "28586"
-state = "NC"
 city = "Vanceboro"
 county = "Craven"
-longitude = -77.177912
 latitude = 35.31313
+longitude = -77.177912
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28586"
+

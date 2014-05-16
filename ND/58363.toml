@@ -1,6 +1,8 @@
-zip_code = "58363"
-state = "ND"
 city = "Perth"
 county = "Towner"
-longitude = -99.438351
 latitude = 48.754621
+longitude = -99.438351
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58363"
+

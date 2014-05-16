@@ -1,6 +1,8 @@
-zip_code = "65557"
-state = "MO"
 city = "Roby"
 county = "Texas"
-longitude = -92.132343
 latitude = 37.499376
+longitude = -92.132343
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65557"
+

@@ -1,6 +1,8 @@
-zip_code = "71270"
-state = "LA"
 city = "Ruston"
 county = "Lincoln"
-longitude = -92.639756
 latitude = 32.580553
+longitude = -92.639756
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71270"
+

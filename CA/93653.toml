@@ -1,6 +1,8 @@
-zip_code = "93653"
-state = "CA"
 city = "Raymond"
 county = "Madera"
-longitude = -119.859865
 latitude = 37.242121
+longitude = -119.859865
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93653"
+

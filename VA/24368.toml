@@ -1,6 +1,8 @@
-zip_code = "24368"
-state = "VA"
 city = "Rural Retreat"
 county = "Wythe"
-longitude = -81.25526
 latitude = 36.880988
+longitude = -81.25526
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24368"
+

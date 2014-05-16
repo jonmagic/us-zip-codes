@@ -1,6 +1,8 @@
-zip_code = "67101"
-state = "KS"
 city = "Maize"
 county = "Sedgwick"
-longitude = -97.486701
 latitude = 37.789561
+longitude = -97.486701
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67101"
+

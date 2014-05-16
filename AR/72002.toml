@@ -1,6 +1,8 @@
-zip_code = "72002"
-state = "AR"
 city = "Alexander"
 county = "Pulaski"
-longitude = -92.425087
 latitude = 34.694468
+longitude = -92.425087
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72002"
+

@@ -1,6 +1,8 @@
-zip_code = "67863"
-state = "KS"
 city = "Marienthal"
 county = "Wichita"
-longitude = -101.283946
 latitude = 38.483749
+longitude = -101.283946
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67863"
+

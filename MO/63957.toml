@@ -1,6 +1,8 @@
-zip_code = "63957"
-state = "MO"
 city = "Piedmont"
 county = "Wayne"
-longitude = -90.574279
 latitude = 37.148461
+longitude = -90.574279
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63957"
+

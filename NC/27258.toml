@@ -1,6 +1,8 @@
-zip_code = "27258"
-state = "NC"
 city = "Haw River"
 county = "Alamance"
-longitude = -79.324239
 latitude = 36.042367
+longitude = -79.324239
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27258"
+

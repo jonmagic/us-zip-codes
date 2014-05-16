@@ -1,6 +1,8 @@
-zip_code = "39576"
-state = "MS"
 city = "Waveland"
 county = "Hancock"
-longitude = -89.371231
 latitude = 30.285046
+longitude = -89.371231
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39576"
+

@@ -1,6 +1,8 @@
-zip_code = "31009"
-state = "GA"
 city = "Cadwell"
 county = "Laurens"
-longitude = -83.009422
 latitude = 32.303915
+longitude = -83.009422
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31009"
+

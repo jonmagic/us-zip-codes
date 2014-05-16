@@ -1,6 +1,8 @@
-zip_code = "56291"
-state = "MN"
 city = "Taunton"
 county = "Lyon"
-longitude = -95.883387
 latitude = 44.580923
+longitude = -95.883387
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56291"
+

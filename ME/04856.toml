@@ -1,6 +1,8 @@
-zip_code = "04856"
-state = "ME"
 city = "Rockport"
 county = "Knox"
-longitude = -69.03416
 latitude = 44.132144
+longitude = -69.03416
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04856"
+

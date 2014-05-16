@@ -1,6 +1,8 @@
-zip_code = "99633"
-state = "AK"
 city = "Naknek"
 county = "Bristol Bay"
-longitude = -156.788199
 latitude = 58.655425
+longitude = -156.788199
+state = ""
+state_code_alpha2 = ""
+zip_code = "99633"
+

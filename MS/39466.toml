@@ -1,6 +1,8 @@
-zip_code = "39466"
-state = "MS"
 city = "Picayune"
 county = "Pearl River"
-longitude = -89.63128
 latitude = 30.627655
+longitude = -89.63128
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39466"
+

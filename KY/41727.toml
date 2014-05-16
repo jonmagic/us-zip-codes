@@ -1,6 +1,8 @@
-zip_code = "41727"
-state = "KY"
 city = "Chavies"
 county = "Perry"
-longitude = -83.262663
 latitude = 37.277764
+longitude = -83.262663
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41727"
+

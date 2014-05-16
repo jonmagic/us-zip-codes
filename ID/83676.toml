@@ -1,6 +1,8 @@
-zip_code = "83676"
-state = "ID"
 city = "Wilder"
 county = "Canyon"
-longitude = -116.919629
 latitude = 43.657855
+longitude = -116.919629
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83676"
+

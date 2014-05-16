@@ -1,6 +1,8 @@
-zip_code = "65702"
-state = "MO"
 city = "Macomb"
 county = "Wright"
-longitude = -92.535335
 latitude = 37.100803
+longitude = -92.535335
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65702"
+

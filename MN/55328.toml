@@ -1,6 +1,8 @@
-zip_code = "55328"
-state = "MN"
 city = "Delano"
 county = "Wright"
-longitude = -93.97792
 latitude = 45.041472
+longitude = -93.97792
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55328"
+

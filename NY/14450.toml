@@ -1,6 +1,8 @@
-zip_code = "14450"
-state = "NY"
 city = "Fairport"
 county = "Monroe"
-longitude = -77.428964
 latitude = 43.104287
+longitude = -77.428964
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14450"
+

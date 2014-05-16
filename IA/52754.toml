@@ -1,6 +1,8 @@
-zip_code = "52754"
-state = "IA"
 city = "Letts"
 county = "Louisa"
-longitude = -91.249503
 latitude = 41.304284
+longitude = -91.249503
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52754"
+

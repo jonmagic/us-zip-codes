@@ -1,6 +1,8 @@
-zip_code = "05750"
-state = "VT"
 city = "Hydeville"
 county = "Rutland"
-longitude = -73.25104
 latitude = 43.599381
+longitude = -73.25104
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05750"
+

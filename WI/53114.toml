@@ -1,6 +1,8 @@
-zip_code = "53114"
-state = "WI"
 city = "Darien"
 county = "Walworth"
-longitude = -88.660964
 latitude = 42.658281
+longitude = -88.660964
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53114"
+

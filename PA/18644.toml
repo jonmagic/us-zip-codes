@@ -1,6 +1,8 @@
-zip_code = "18644"
-state = "PA"
 city = "Wyoming"
 county = "Luzerne"
-longitude = -75.912401
 latitude = 41.337161
+longitude = -75.912401
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18644"
+

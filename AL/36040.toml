@@ -1,6 +1,8 @@
-zip_code = "36040"
-state = "AL"
 city = "Hayneville"
 county = "Lowndes"
-longitude = -86.597157
 latitude = 32.152198
+longitude = -86.597157
+state = ""
+state_code_alpha2 = ""
+zip_code = "36040"
+

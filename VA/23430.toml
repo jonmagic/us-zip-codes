@@ -1,6 +1,8 @@
-zip_code = "23430"
-state = "VA"
 city = "Smithfield"
 county = "Isle Of Wight"
-longitude = -76.661123
 latitude = 36.990826
+longitude = -76.661123
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23430"
+

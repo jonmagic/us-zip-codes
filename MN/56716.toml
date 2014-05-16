@@ -1,6 +1,8 @@
-zip_code = "56716"
-state = "MN"
 city = "Crookston"
 county = "Polk"
-longitude = -96.412
 latitude = 47.705082
+longitude = -96.412
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56716"
+

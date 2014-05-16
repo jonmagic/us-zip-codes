@@ -1,6 +1,8 @@
-zip_code = "95342"
-state = "CA"
 city = "Atwater"
 county = "Merced"
-longitude = -120.570634
 latitude = 37.367315
+longitude = -120.570634
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95342"
+

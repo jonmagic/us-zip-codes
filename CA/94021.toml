@@ -1,6 +1,8 @@
-zip_code = "94021"
-state = "CA"
 city = "Loma Mar"
 county = "San Mateo"
-longitude = -122.314831
 latitude = 37.279692
+longitude = -122.314831
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94021"
+

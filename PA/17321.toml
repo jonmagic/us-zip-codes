@@ -1,6 +1,8 @@
-zip_code = "17321"
-state = "PA"
 city = "Fawn Grove"
 county = "York"
-longitude = -76.518286
 latitude = 39.784476
+longitude = -76.518286
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17321"
+

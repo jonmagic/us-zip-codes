@@ -1,6 +1,8 @@
-zip_code = "58049"
-state = "ND"
 city = "Kathryn"
 county = "Barnes"
-longitude = -97.976311
 latitude = 46.717679
+longitude = -97.976311
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58049"
+

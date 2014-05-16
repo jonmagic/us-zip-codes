@@ -1,6 +1,8 @@
-zip_code = "62972"
-state = "IL"
 city = "Ozark"
 county = "Johnson"
-longitude = -88.770166
 latitude = 37.54725
+longitude = -88.770166
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62972"
+

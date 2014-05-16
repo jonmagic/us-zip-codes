@@ -1,6 +1,8 @@
-zip_code = "15737"
-state = "PA"
 city = "Elmora"
 county = "Cambria"
-longitude = -78.752415
 latitude = 40.607635
+longitude = -78.752415
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15737"
+

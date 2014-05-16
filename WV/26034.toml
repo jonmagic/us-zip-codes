@@ -1,6 +1,8 @@
-zip_code = "26034"
-state = "WV"
 city = "Chester"
 county = "Hancock"
-longitude = -80.565784
 latitude = 40.556137
+longitude = -80.565784
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26034"
+

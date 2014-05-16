@@ -1,6 +1,8 @@
-zip_code = "48611"
-state = "MI"
 city = "Auburn"
 county = "Bay"
-longitude = -84.059141
 latitude = 43.639444
+longitude = -84.059141
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48611"
+

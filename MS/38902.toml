@@ -1,6 +1,8 @@
-zip_code = "38902"
-state = "MS"
 city = "Grenada"
 county = "Grenada"
-longitude = -89.794687
 latitude = 33.824113
+longitude = -89.794687
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38902"
+

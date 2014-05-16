@@ -1,6 +1,8 @@
-zip_code = "11697"
-state = "NY"
 city = "Breezy Point"
 county = "Queens"
-longitude = -73.906713
 latitude = 40.559365
+longitude = -73.906713
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11697"
+

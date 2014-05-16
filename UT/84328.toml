@@ -1,6 +1,8 @@
-zip_code = "84328"
-state = "UT"
 city = "Paradise"
 county = "Cache"
-longitude = -111.81074
 latitude = 41.548529
+longitude = -111.81074
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84328"
+

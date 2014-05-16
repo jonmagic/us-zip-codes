@@ -1,6 +1,8 @@
-zip_code = "73667"
-state = "OK"
 city = "Taloga"
 county = "Dewey"
-longitude = -98.961606
 latitude = 36.040765
+longitude = -98.961606
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73667"
+

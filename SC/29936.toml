@@ -1,6 +1,8 @@
-zip_code = "29936"
-state = "SC"
 city = "Ridgeland"
 county = "Jasper"
-longitude = -80.925708
 latitude = 32.486826
+longitude = -80.925708
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29936"
+

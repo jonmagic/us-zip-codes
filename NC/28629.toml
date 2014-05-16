@@ -1,6 +1,8 @@
-zip_code = "28629"
-state = "NC"
 city = "Glendale Springs"
 county = "Ashe"
-longitude = -81.374732
 latitude = 36.348613
+longitude = -81.374732
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28629"
+

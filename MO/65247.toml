@@ -1,6 +1,8 @@
-zip_code = "65247"
-state = "MO"
 city = "Excello"
 county = "Macon"
-longitude = -92.46581
 latitude = 39.638988
+longitude = -92.46581
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65247"
+

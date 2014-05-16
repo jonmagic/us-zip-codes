@@ -1,6 +1,8 @@
-zip_code = "46617"
-state = "IN"
 city = "South Bend"
 county = "St Joseph"
-longitude = -86.238906
 latitude = 41.682897
+longitude = -86.238906
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46617"
+

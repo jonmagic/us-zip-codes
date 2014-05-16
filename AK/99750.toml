@@ -1,6 +1,8 @@
-zip_code = "99750"
-state = "AK"
 city = "Kivalina"
 county = "Northwest Arctic"
-longitude = -159.843924
 latitude = 66.868442
+longitude = -159.843924
+state = ""
+state_code_alpha2 = ""
+zip_code = "99750"
+

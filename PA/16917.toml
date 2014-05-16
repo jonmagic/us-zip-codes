@@ -1,6 +1,8 @@
-zip_code = "16917"
-state = "PA"
 city = "Covington"
 county = "Tioga"
-longitude = -77.000451
 latitude = 41.769456
+longitude = -77.000451
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16917"
+

@@ -1,6 +1,8 @@
-zip_code = "84734"
-state = "UT"
 city = "Hanksville"
 county = "Wayne"
-longitude = -110.68796
 latitude = 38.286909
+longitude = -110.68796
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84734"
+

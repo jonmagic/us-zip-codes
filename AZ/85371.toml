@@ -1,6 +1,8 @@
-zip_code = "85371"
-state = "AZ"
 city = "Poston"
 county = "La Paz"
-longitude = -114.390171
 latitude = 34.031791
+longitude = -114.390171
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85371"
+

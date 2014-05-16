@@ -1,6 +1,8 @@
-zip_code = "50597"
-state = "IA"
 city = "West Bend"
 county = "Palo Alto"
-longitude = -94.501553
 latitude = 43.002465
+longitude = -94.501553
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50597"
+

@@ -1,6 +1,8 @@
-zip_code = "19318"
-state = "PA"
 city = "Chatham"
 county = "Chester"
-longitude = -75.811789
 latitude = 39.852406
+longitude = -75.811789
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19318"
+

@@ -1,6 +1,8 @@
-zip_code = "47917"
-state = "IN"
 city = "Ambia"
 county = "Benton"
-longitude = -87.499343
 latitude = 40.527877
+longitude = -87.499343
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47917"
+

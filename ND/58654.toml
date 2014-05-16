@@ -1,6 +1,8 @@
-zip_code = "58654"
-state = "ND"
 city = "Sentinel Butte"
 county = "Golden Valley"
-longitude = -103.874736
 latitude = 46.847632
+longitude = -103.874736
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58654"
+

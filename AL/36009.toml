@@ -1,6 +1,8 @@
-zip_code = "36009"
-state = "AL"
 city = "Brantley"
 county = "Crenshaw"
-longitude = -86.327501
 latitude = 31.560143
+longitude = -86.327501
+state = ""
+state_code_alpha2 = ""
+zip_code = "36009"
+

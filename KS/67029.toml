@@ -1,6 +1,8 @@
-zip_code = "67029"
-state = "KS"
 city = "Coldwater"
 county = "Comanche"
-longitude = -99.322574
 latitude = 37.25486
+longitude = -99.322574
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67029"
+

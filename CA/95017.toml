@@ -1,6 +1,8 @@
-zip_code = "95017"
-state = "CA"
 city = "Davenport"
 county = "Santa Cruz"
-longitude = -122.24338
 latitude = 37.097536
+longitude = -122.24338
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95017"
+

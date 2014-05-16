@@ -1,6 +1,8 @@
-zip_code = "42027"
-state = "KY"
 city = "Boaz"
 county = "Graves"
-longitude = -88.637039
 latitude = 36.900149
+longitude = -88.637039
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42027"
+

@@ -1,6 +1,8 @@
-zip_code = "45381"
-state = "OH"
 city = "West Alexandria"
 county = "Preble"
-longitude = -84.537597
 latitude = 39.750097
+longitude = -84.537597
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45381"
+

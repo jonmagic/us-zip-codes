@@ -1,6 +1,8 @@
-zip_code = "81638"
-state = "CO"
 city = "Hamilton"
 county = "Moffat"
-longitude = -107.665731
 latitude = 40.297591
+longitude = -107.665731
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81638"
+

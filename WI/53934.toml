@@ -1,6 +1,8 @@
-zip_code = "53934"
-state = "WI"
 city = "Friendship"
 county = "Adams"
-longitude = -89.777051
 latitude = 43.997966
+longitude = -89.777051
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53934"
+

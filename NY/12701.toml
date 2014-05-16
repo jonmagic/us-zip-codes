@@ -1,6 +1,8 @@
-zip_code = "12701"
-state = "NY"
 city = "Monticello"
 county = "Sullivan"
-longitude = -74.677156
 latitude = 41.686944
+longitude = -74.677156
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12701"
+

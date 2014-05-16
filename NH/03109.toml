@@ -1,6 +1,8 @@
-zip_code = "03109"
-state = "NH"
 city = "Manchester"
 county = "Hillsborough"
-longitude = -71.405283
 latitude = 42.970084
+longitude = -71.405283
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03109"
+

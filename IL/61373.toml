@@ -1,6 +1,8 @@
-zip_code = "61373"
-state = "IL"
 city = "Utica"
 county = "La Salle"
-longitude = -89.008197
 latitude = 41.411759
+longitude = -89.008197
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61373"
+

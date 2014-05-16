@@ -1,6 +1,8 @@
-zip_code = "47011"
-state = "IN"
 city = "Bennington"
 county = "Switzerland"
-longitude = -85.074867
 latitude = 38.864386
+longitude = -85.074867
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47011"
+

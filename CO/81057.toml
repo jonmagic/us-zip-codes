@@ -1,6 +1,8 @@
-zip_code = "81057"
-state = "CO"
 city = "Mc Clave"
 county = "Bent"
-longitude = -102.88691
 latitude = 38.085032
+longitude = -102.88691
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81057"
+

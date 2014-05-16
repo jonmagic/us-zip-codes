@@ -1,6 +1,8 @@
-zip_code = "92231"
-state = "CA"
 city = "Calexico"
 county = "Imperial"
-longitude = -115.518355
 latitude = 32.946832
+longitude = -115.518355
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92231"
+

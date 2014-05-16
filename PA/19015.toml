@@ -1,6 +1,8 @@
-zip_code = "19015"
-state = "PA"
 city = "Brookhaven"
 county = "Delaware"
-longitude = -75.366785
 latitude = 39.909511
+longitude = -75.366785
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19015"
+

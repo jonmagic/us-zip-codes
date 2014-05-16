@@ -1,6 +1,8 @@
-zip_code = "71339"
-state = "LA"
 city = "Hamburg"
 county = "Avoyelles"
-longitude = -91.904161
 latitude = 31.037572
+longitude = -91.904161
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71339"
+

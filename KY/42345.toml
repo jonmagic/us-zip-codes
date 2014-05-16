@@ -1,6 +1,8 @@
-zip_code = "42345"
-state = "KY"
 city = "Greenville"
 county = "Muhlenberg"
-longitude = -87.164385
 latitude = 37.20083
+longitude = -87.164385
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42345"
+

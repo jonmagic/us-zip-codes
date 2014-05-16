@@ -1,6 +1,8 @@
-zip_code = "53018"
-state = "WI"
 city = "Delafield"
 county = "Waukesha"
-longitude = -88.386519
 latitude = 43.015666
+longitude = -88.386519
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53018"
+

@@ -1,6 +1,8 @@
-zip_code = "95606"
-state = "CA"
 city = "Brooks"
 county = "Yolo"
-longitude = -122.181084
 latitude = 38.799836
+longitude = -122.181084
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95606"
+

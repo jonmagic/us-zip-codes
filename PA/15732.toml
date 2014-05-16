@@ -1,6 +1,8 @@
-zip_code = "15732"
-state = "PA"
 city = "Creekside"
 county = "Indiana"
-longitude = -79.217127
 latitude = 40.661336
+longitude = -79.217127
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15732"
+

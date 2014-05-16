@@ -1,6 +1,8 @@
-zip_code = "14055"
-state = "NY"
 city = "East Concord"
 county = "Erie"
-longitude = -78.621851
 latitude = 42.559423
+longitude = -78.621851
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14055"
+

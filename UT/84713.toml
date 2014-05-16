@@ -1,6 +1,8 @@
-zip_code = "84713"
-state = "UT"
 city = "Beaver"
 county = "Beaver"
-longitude = -112.798228
 latitude = 38.315334
+longitude = -112.798228
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84713"
+

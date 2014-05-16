@@ -1,6 +1,8 @@
-zip_code = "78021"
-state = "TX"
 city = "Fowlerton"
 county = "La Salle"
-longitude = -99.098369
 latitude = 28.338951
+longitude = -99.098369
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78021"
+

@@ -1,6 +1,8 @@
-zip_code = "40489"
-state = "KY"
 city = "Waynesburg"
 county = "Lincoln"
-longitude = -84.620613
 latitude = 37.377689
+longitude = -84.620613
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40489"
+

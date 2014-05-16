@@ -1,6 +1,8 @@
-zip_code = "84664"
-state = "UT"
 city = "Mapleton"
 county = "Utah"
-longitude = -111.580197
 latitude = 40.125168
+longitude = -111.580197
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84664"
+

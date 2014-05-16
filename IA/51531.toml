@@ -1,6 +1,8 @@
-zip_code = "51531"
-state = "IA"
 city = "Elk Horn"
 county = "Shelby"
-longitude = -95.129522
 latitude = 41.562409
+longitude = -95.129522
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51531"
+

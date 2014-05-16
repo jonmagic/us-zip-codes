@@ -1,6 +1,8 @@
-zip_code = "17925"
-state = "PA"
 city = "Brockton"
 county = "Schuylkill"
-longitude = -76.062859
 latitude = 40.750796
+longitude = -76.062859
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17925"
+

@@ -1,6 +1,8 @@
-zip_code = "38368"
-state = "TN"
 city = "Reagan"
 county = "Henderson"
-longitude = -88.368317
 latitude = 35.501858
+longitude = -88.368317
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38368"
+

@@ -1,6 +1,8 @@
-zip_code = "49805"
-state = "MI"
 city = "Allouez"
 county = "Keweenaw"
-longitude = -88.412893
 latitude = 47.287939
+longitude = -88.412893
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49805"
+

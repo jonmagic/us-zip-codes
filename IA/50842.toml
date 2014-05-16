@@ -1,6 +1,8 @@
-zip_code = "50842"
-state = "IA"
 city = "Cromwell"
 county = "Union"
-longitude = -94.461622
 latitude = 41.039762
+longitude = -94.461622
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50842"
+

@@ -1,6 +1,8 @@
-zip_code = "67622"
-state = "KS"
 city = "Almena"
 county = "Norton"
-longitude = -99.711523
 latitude = 39.891272
+longitude = -99.711523
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67622"
+

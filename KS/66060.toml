@@ -1,6 +1,8 @@
-zip_code = "66060"
-state = "KS"
 city = "Nortonville"
 county = "Jefferson"
-longitude = -95.319744
 latitude = 39.383848
+longitude = -95.319744
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66060"
+

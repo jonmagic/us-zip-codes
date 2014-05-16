@@ -1,6 +1,8 @@
-zip_code = "07403"
-state = "NJ"
 city = "Bloomingdale"
 county = "Passaic"
-longitude = -74.334444
 latitude = 41.023414
+longitude = -74.334444
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07403"
+

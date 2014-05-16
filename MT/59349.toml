@@ -1,6 +1,8 @@
-zip_code = "59349"
-state = "MT"
 city = "Terry"
 county = "Prairie"
-longitude = -105.312757
 latitude = 46.789256
+longitude = -105.312757
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59349"
+

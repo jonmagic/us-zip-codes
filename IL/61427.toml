@@ -1,6 +1,8 @@
-zip_code = "61427"
-state = "IL"
 city = "Cuba"
 county = "Fulton"
-longitude = -90.201152
 latitude = 40.501446
+longitude = -90.201152
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61427"
+

@@ -1,6 +1,8 @@
-zip_code = "18462"
-state = "PA"
 city = "Starrucca"
 county = "Wayne"
-longitude = -75.42428
 latitude = 41.89529
+longitude = -75.42428
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18462"
+

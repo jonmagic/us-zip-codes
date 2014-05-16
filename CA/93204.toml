@@ -1,6 +1,8 @@
-zip_code = "93204"
-state = "CA"
 city = "Avenal"
 county = "Kings"
-longitude = -120.128716
 latitude = 36.003134
+longitude = -120.128716
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93204"
+

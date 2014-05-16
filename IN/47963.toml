@@ -1,6 +1,8 @@
-zip_code = "47963"
-state = "IN"
 city = "Morocco"
 county = "Newton"
-longitude = -87.411025
 latitude = 40.95469
+longitude = -87.411025
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47963"
+

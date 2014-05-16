@@ -1,6 +1,8 @@
-zip_code = "05859"
-state = "VT"
 city = "North Troy"
 county = "Orleans"
-longitude = -72.433354
 latitude = 44.937769
+longitude = -72.433354
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05859"
+

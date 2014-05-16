@@ -1,6 +1,8 @@
-zip_code = "07029"
-state = "NJ"
 city = "Harrison"
 county = "Hudson"
-longitude = -74.150787
 latitude = 40.744501
+longitude = -74.150787
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07029"
+

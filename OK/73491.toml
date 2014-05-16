@@ -1,6 +1,8 @@
-zip_code = "73491"
-state = "OK"
 city = "Velma"
 county = "Stephens"
-longitude = -97.668866
 latitude = 34.456505
+longitude = -97.668866
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73491"
+

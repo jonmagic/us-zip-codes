@@ -1,6 +1,8 @@
-zip_code = "72764"
-state = "AR"
 city = "Springdale"
 county = "Washington"
-longitude = -94.042788
 latitude = 36.171598
+longitude = -94.042788
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72764"
+

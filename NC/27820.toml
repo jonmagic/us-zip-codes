@@ -1,6 +1,8 @@
-zip_code = "27820"
-state = "NC"
 city = "Conway"
 county = "Northampton"
-longitude = -77.452452
 latitude = 36.450554
+longitude = -77.452452
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27820"
+

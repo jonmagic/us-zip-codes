@@ -1,6 +1,8 @@
-zip_code = "65264"
-state = "MO"
 city = "Martinsburg"
 county = "Audrain"
-longitude = -91.702079
 latitude = 39.11089
+longitude = -91.702079
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65264"
+

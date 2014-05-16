@@ -1,6 +1,8 @@
-zip_code = "18232"
-state = "PA"
 city = "Lansford"
 county = "Carbon"
-longitude = -75.915416
 latitude = 40.872243
+longitude = -75.915416
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18232"
+

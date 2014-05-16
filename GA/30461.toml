@@ -1,6 +1,8 @@
-zip_code = "30461"
-state = "GA"
 city = "Statesboro"
 county = "Bulloch"
-longitude = -81.715799
 latitude = 32.450032
+longitude = -81.715799
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30461"
+

@@ -1,6 +1,8 @@
-zip_code = "18247"
-state = "PA"
 city = "Saint Johns"
 county = "Luzerne"
-longitude = -76.058391
 latitude = 41.014808
+longitude = -76.058391
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18247"
+

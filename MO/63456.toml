@@ -1,6 +1,8 @@
-zip_code = "63456"
-state = "MO"
 city = "Monroe City"
 county = "Monroe"
-longitude = -91.762318
 latitude = 39.624018
+longitude = -91.762318
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63456"
+

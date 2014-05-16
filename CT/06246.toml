@@ -1,6 +1,8 @@
-zip_code = "06246"
-state = "CT"
 city = "Grosvenor Dale"
 county = "Windham"
-longitude = -71.891732
 latitude = 41.971116
+longitude = -71.891732
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06246"
+

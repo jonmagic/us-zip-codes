@@ -1,6 +1,8 @@
-zip_code = "16433"
-state = "PA"
 city = "Saegertown"
 county = "Crawford"
-longitude = -80.207488
 latitude = 41.752837
+longitude = -80.207488
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16433"
+

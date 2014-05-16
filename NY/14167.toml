@@ -1,6 +1,8 @@
-zip_code = "14167"
-state = "NY"
 city = "Varysburg"
 county = "Wyoming"
-longitude = -78.312478
 latitude = 42.738977
+longitude = -78.312478
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14167"
+

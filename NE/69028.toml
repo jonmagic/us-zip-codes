@@ -1,6 +1,8 @@
-zip_code = "69028"
-state = "NE"
 city = "Eustis"
 county = "Frontier"
-longitude = -100.00978
 latitude = 40.564186
+longitude = -100.00978
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69028"
+

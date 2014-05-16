@@ -1,6 +1,8 @@
-zip_code = "80480"
-state = "CO"
 city = "Walden"
 county = "Jackson"
-longitude = -106.249045
 latitude = 40.678825
+longitude = -106.249045
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80480"
+

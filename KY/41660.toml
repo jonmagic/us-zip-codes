@@ -1,6 +1,8 @@
-zip_code = "41660"
-state = "KY"
 city = "Teaberry"
 county = "Floyd"
-longitude = -82.648485
 latitude = 37.413736
+longitude = -82.648485
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41660"
+

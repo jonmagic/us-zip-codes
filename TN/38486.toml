@@ -1,6 +1,8 @@
-zip_code = "38486"
-state = "TN"
 city = "Westpoint"
 county = "Lawrence"
-longitude = -87.402375
 latitude = 35.170415
+longitude = -87.402375
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38486"
+

@@ -1,6 +1,8 @@
-zip_code = "13679"
-state = "NY"
 city = "Redwood"
 county = "Jefferson"
-longitude = -75.80354
 latitude = 44.327083
+longitude = -75.80354
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13679"
+

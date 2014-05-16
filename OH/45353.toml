@@ -1,6 +1,8 @@
-zip_code = "45353"
-state = "OH"
 city = "Pemberton"
 county = "Shelby"
-longitude = -84.032272
 latitude = 40.29522
+longitude = -84.032272
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45353"
+

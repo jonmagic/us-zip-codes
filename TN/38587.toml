@@ -1,6 +1,8 @@
-zip_code = "38587"
-state = "TN"
 city = "Walling"
 county = "White"
-longitude = -85.609235
 latitude = 35.866476
+longitude = -85.609235
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38587"
+

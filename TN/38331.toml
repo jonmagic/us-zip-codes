@@ -1,6 +1,8 @@
-zip_code = "38331"
-state = "TN"
 city = "Eaton"
 county = "Gibson"
-longitude = -89.131915
 latitude = 35.969336
+longitude = -89.131915
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38331"
+

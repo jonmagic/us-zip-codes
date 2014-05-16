@@ -1,6 +1,8 @@
-zip_code = "32958"
-state = "FL"
 city = "Sebastian"
 county = "Indian River"
-longitude = -80.483098
 latitude = 27.799123
+longitude = -80.483098
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32958"
+

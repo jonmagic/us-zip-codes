@@ -1,6 +1,8 @@
-zip_code = "80633"
-state = "CO"
 city = "Greeley"
 county = "Weld"
-longitude = -104.31497
 latitude = 40.500919
+longitude = -104.31497
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80633"
+

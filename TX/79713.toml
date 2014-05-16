@@ -1,6 +1,8 @@
-zip_code = "79713"
-state = "TX"
 city = "Ackerly"
 county = "Dawson"
-longitude = -101.715971
 latitude = 32.527337
+longitude = -101.715971
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79713"
+

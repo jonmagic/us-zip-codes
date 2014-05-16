@@ -1,6 +1,8 @@
-zip_code = "12117"
-state = "NY"
 city = "Mayfield"
 county = "Fulton"
-longitude = -74.248494
 latitude = 43.132167
+longitude = -74.248494
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12117"
+

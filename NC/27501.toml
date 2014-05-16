@@ -1,6 +1,8 @@
-zip_code = "27501"
-state = "NC"
 city = "Angier"
 county = "Harnett"
-longitude = -78.729411
 latitude = 35.478164
+longitude = -78.729411
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27501"
+

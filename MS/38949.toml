@@ -1,6 +1,8 @@
-zip_code = "38949"
-state = "MS"
 city = "Paris"
 county = "Lafayette"
-longitude = -89.381994
 latitude = 34.199242
+longitude = -89.381994
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38949"
+

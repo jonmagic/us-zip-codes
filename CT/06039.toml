@@ -1,6 +1,8 @@
-zip_code = "06039"
-state = "CT"
 city = "Lakeville"
 county = "Litchfield"
-longitude = -73.38138
 latitude = 41.951917
+longitude = -73.38138
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06039"
+

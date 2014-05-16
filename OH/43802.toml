@@ -1,6 +1,8 @@
-zip_code = "43802"
-state = "OH"
 city = "Adamsville"
 county = "Muskingum"
-longitude = -81.855203
 latitude = 40.090767
+longitude = -81.855203
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43802"
+

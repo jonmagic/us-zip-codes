@@ -1,6 +1,8 @@
-zip_code = "23408"
-state = "VA"
 city = "Marionville"
 county = "Northampton"
-longitude = -75.877143
 latitude = 37.424497
+longitude = -75.877143
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23408"
+

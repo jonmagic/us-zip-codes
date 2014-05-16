@@ -1,6 +1,8 @@
-zip_code = "14139"
-state = "NY"
 city = "South Wales"
 county = "Erie"
-longitude = -78.543478
 latitude = 42.716759
+longitude = -78.543478
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14139"
+

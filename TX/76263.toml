@@ -1,6 +1,8 @@
-zip_code = "76263"
-state = "TX"
 city = "Rosston"
 county = "Cooke"
-longitude = -97.421155
 latitude = 33.487842
+longitude = -97.421155
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76263"
+

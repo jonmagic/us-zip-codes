@@ -1,6 +1,8 @@
-zip_code = "63901"
-state = "MO"
 city = "Poplar Bluff"
 county = "Butler"
-longitude = -90.440688
 latitude = 36.778764
+longitude = -90.440688
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63901"
+

@@ -1,6 +1,8 @@
-zip_code = "64831"
-state = "MO"
 city = "Anderson"
 county = "Mcdonald"
-longitude = -94.419201
 latitude = 36.666988
+longitude = -94.419201
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64831"
+

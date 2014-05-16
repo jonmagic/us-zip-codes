@@ -1,6 +1,8 @@
-zip_code = "61318"
-state = "IL"
 city = "Compton"
 county = "Lee"
-longitude = -89.091458
 latitude = 41.713223
+longitude = -89.091458
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61318"
+

@@ -1,6 +1,8 @@
-zip_code = "83604"
-state = "ID"
 city = "Bruneau"
 county = "Owyhee"
-longitude = -115.841917
 latitude = 42.613957
+longitude = -115.841917
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83604"
+

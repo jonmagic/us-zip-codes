@@ -1,6 +1,8 @@
-zip_code = "56128"
-state = "MN"
 city = "Edgerton"
 county = "Pipestone"
-longitude = -96.149676
 latitude = 43.930332
+longitude = -96.149676
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56128"
+

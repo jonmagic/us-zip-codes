@@ -1,6 +1,8 @@
-zip_code = "11514"
-state = "NY"
 city = "Carle Place"
 county = "Nassau"
-longitude = -73.608422
 latitude = 40.74435
+longitude = -73.608422
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11514"
+

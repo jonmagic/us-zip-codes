@@ -1,6 +1,8 @@
-zip_code = "24316"
-state = "VA"
 city = "Broadford"
 county = "Smyth"
-longitude = -81.620331
 latitude = 36.941611
+longitude = -81.620331
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24316"
+

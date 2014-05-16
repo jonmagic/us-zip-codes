@@ -1,6 +1,8 @@
-zip_code = "39572"
-state = "MS"
 city = "Pearlington"
 county = "Hancock"
-longitude = -89.520472
 latitude = 30.249299
+longitude = -89.520472
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39572"
+

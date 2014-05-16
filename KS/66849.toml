@@ -1,6 +1,8 @@
-zip_code = "66849"
-state = "KS"
 city = "Dwight"
 county = "Morris"
-longitude = -96.579805
 latitude = 38.826679
+longitude = -96.579805
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66849"
+

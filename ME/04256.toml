@@ -1,6 +1,8 @@
-zip_code = "04256"
-state = "ME"
 city = "Mechanic Falls"
 county = "Androscoggin"
-longitude = -70.272624
 latitude = 44.079644
+longitude = -70.272624
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04256"
+

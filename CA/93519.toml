@@ -1,6 +1,8 @@
-zip_code = "93519"
-state = "CA"
 city = "Cantil"
 county = "Kern"
-longitude = -118.035049
 latitude = 35.177369
+longitude = -118.035049
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93519"
+

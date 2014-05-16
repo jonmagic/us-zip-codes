@@ -1,6 +1,8 @@
-zip_code = "62524"
-state = "IL"
 city = "Decatur"
 county = "Macon"
-longitude = -88.981511
 latitude = 39.853981
+longitude = -88.981511
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62524"
+

@@ -1,6 +1,8 @@
-zip_code = "96088"
-state = "CA"
 city = "Shingletown"
 county = "Shasta"
-longitude = -121.960944
 latitude = 40.488664
+longitude = -121.960944
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96088"
+

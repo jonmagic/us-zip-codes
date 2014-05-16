@@ -1,6 +1,8 @@
-zip_code = "31324"
-state = "GA"
 city = "Richmond Hill"
 county = "Bryan"
-longitude = -81.407336
 latitude = 31.951531
+longitude = -81.407336
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31324"
+

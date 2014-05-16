@@ -1,6 +1,8 @@
-zip_code = "00912"
-state = "PR"
 city = "San Juan"
 county = "San Juan"
-longitude = -66.059859
 latitude = 18.444187
+longitude = -66.059859
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00912"
+

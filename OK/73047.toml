@@ -1,6 +1,8 @@
-zip_code = "73047"
-state = "OK"
 city = "Hinton"
 county = "Caddo"
-longitude = -98.36371
 latitude = 35.473233
+longitude = -98.36371
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73047"
+

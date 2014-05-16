@@ -1,6 +1,8 @@
-zip_code = "63439"
-state = "MO"
 city = "Emden"
 county = "Shelby"
-longitude = -92.069741
 latitude = 39.779288
+longitude = -92.069741
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63439"
+

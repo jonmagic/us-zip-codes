@@ -1,6 +1,8 @@
-zip_code = "75642"
-state = "TX"
 city = "Elysian Fields"
 county = "Harrison"
-longitude = -94.210541
 latitude = 32.386275
+longitude = -94.210541
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75642"
+

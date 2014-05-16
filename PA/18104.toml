@@ -1,6 +1,8 @@
-zip_code = "18104"
-state = "PA"
 city = "Allentown"
 county = "Lehigh"
-longitude = -75.545306
 latitude = 40.621048
+longitude = -75.545306
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18104"
+

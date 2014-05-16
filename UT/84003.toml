@@ -1,6 +1,8 @@
-zip_code = "84003"
-state = "UT"
 city = "American Fork"
 county = "Utah"
-longitude = -111.803101
 latitude = 40.395796
+longitude = -111.803101
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84003"
+

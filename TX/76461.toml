@@ -1,6 +1,8 @@
-zip_code = "76461"
-state = "TX"
 city = "Lingleville"
 county = "Erath"
-longitude = -98.342798
 latitude = 32.221433
+longitude = -98.342798
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76461"
+

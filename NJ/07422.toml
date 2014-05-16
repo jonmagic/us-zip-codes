@@ -1,6 +1,8 @@
-zip_code = "07422"
-state = "NJ"
 city = "Highland Lakes"
 county = "Sussex"
-longitude = -74.458935
 latitude = 41.187468
+longitude = -74.458935
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07422"
+

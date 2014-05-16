@@ -1,6 +1,8 @@
-zip_code = "53919"
-state = "WI"
 city = "Brandon"
 county = "Fond Du Lac"
-longitude = -88.62245
 latitude = 43.740975
+longitude = -88.62245
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53919"
+

@@ -1,6 +1,8 @@
-zip_code = "38044"
-state = "TN"
 city = "Hornsby"
 county = "Hardeman"
-longitude = -88.955968
 latitude = 35.189276
+longitude = -88.955968
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38044"
+

@@ -1,6 +1,8 @@
-zip_code = "68405"
-state = "NE"
 city = "Milford"
 county = "Seward"
-longitude = -97.082489
 latitude = 40.77786
+longitude = -97.082489
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68405"
+

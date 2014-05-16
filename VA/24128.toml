@@ -1,6 +1,8 @@
-zip_code = "24128"
-state = "VA"
 city = "Newport"
 county = "Giles"
-longitude = -80.523039
 latitude = 37.331516
+longitude = -80.523039
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24128"
+

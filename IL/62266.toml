@@ -1,6 +1,8 @@
-zip_code = "62266"
-state = "IL"
 city = "New Memphis"
 county = "Clinton"
-longitude = -89.681587
 latitude = 38.485708
+longitude = -89.681587
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62266"
+

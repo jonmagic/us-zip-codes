@@ -1,6 +1,8 @@
-zip_code = "71423"
-state = "LA"
 city = "Dry Prong"
 county = "Grant"
-longitude = -92.673718
 latitude = 31.552466
+longitude = -92.673718
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71423"
+

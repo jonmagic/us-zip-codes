@@ -1,6 +1,8 @@
-zip_code = "22940"
-state = "VA"
 city = "Free Union"
 county = "Albemarle"
-longitude = -78.584936
 latitude = 38.194421
+longitude = -78.584936
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22940"
+

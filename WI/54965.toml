@@ -1,6 +1,8 @@
-zip_code = "54965"
-state = "WI"
 city = "Pine River"
 county = "Waushara"
-longitude = -89.02096
 latitude = 44.155967
+longitude = -89.02096
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54965"
+

@@ -1,6 +1,8 @@
-zip_code = "71763"
-state = "AR"
 city = "Sparkman"
 county = "Dallas"
-longitude = -92.853193
 latitude = 33.914288
+longitude = -92.853193
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71763"
+

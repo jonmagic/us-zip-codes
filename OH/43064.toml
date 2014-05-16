@@ -1,6 +1,8 @@
-zip_code = "43064"
-state = "OH"
 city = "Plain City"
 county = "Madison"
-longitude = -83.307323
 latitude = 40.057901
+longitude = -83.307323
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43064"
+

@@ -1,6 +1,8 @@
-zip_code = "70038"
-state = "LA"
 city = "Boothville"
 county = "Plaquemines"
-longitude = -89.401545
 latitude = 29.303827
+longitude = -89.401545
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70038"
+

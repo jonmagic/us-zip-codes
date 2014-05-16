@@ -1,6 +1,8 @@
-zip_code = "68029"
-state = "NE"
 city = "Herman"
 county = "Washington"
-longitude = -96.273735
 latitude = 41.63256
+longitude = -96.273735
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68029"
+

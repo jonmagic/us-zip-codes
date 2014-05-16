@@ -1,6 +1,8 @@
-zip_code = "13409"
-state = "NY"
 city = "Munnsville"
 county = "Madison"
-longitude = -75.600722
 latitude = 42.972773
+longitude = -75.600722
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13409"
+

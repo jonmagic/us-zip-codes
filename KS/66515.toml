@@ -1,6 +1,8 @@
-zip_code = "66515"
-state = "KS"
 city = "Morrill"
 county = "Brown"
-longitude = -95.694761
 latitude = 39.923097
+longitude = -95.694761
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66515"
+

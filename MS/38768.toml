@@ -1,6 +1,8 @@
-zip_code = "38768"
-state = "MS"
 city = "Rome"
 county = "Sunflower"
-longitude = -90.477605
 latitude = 33.958959
+longitude = -90.477605
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38768"
+

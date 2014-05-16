@@ -1,6 +1,8 @@
-zip_code = "79078"
-state = "TX"
 city = "Sanford"
 county = "Hutchinson"
-longitude = -101.574959
 latitude = 35.672009
+longitude = -101.574959
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79078"
+

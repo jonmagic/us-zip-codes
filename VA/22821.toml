@@ -1,6 +1,8 @@
-zip_code = "22821"
-state = "VA"
 city = "Dayton"
 county = "Rockingham"
-longitude = -79.044186
 latitude = 38.417919
+longitude = -79.044186
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22821"
+

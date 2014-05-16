@@ -1,6 +1,8 @@
-zip_code = "81658"
-state = "CO"
 city = "Vail"
 county = "Eagle"
-longitude = -106.497314
 latitude = 39.624171
+longitude = -106.497314
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81658"
+

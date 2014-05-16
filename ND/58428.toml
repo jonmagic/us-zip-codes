@@ -1,6 +1,8 @@
-zip_code = "58428"
-state = "ND"
 city = "Dawson"
 county = "Kidder"
-longitude = -99.772396
 latitude = 46.806728
+longitude = -99.772396
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58428"
+

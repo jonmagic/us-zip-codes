@@ -1,6 +1,8 @@
-zip_code = "02325"
-state = "MA"
 city = "Bridgewater"
 county = "Plymouth"
-longitude = -70.972786
 latitude = 41.98725
+longitude = -70.972786
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02325"
+

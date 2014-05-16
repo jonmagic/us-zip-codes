@@ -1,6 +1,8 @@
-zip_code = "52555"
-state = "IA"
 city = "Exline"
 county = "Appanoose"
-longitude = -92.884722
 latitude = 40.630992
+longitude = -92.884722
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52555"
+

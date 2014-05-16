@@ -1,6 +1,8 @@
-zip_code = "38878"
-state = "MS"
 city = "Vardaman"
 county = "Calhoun"
-longitude = -89.221899
 latitude = 33.896961
+longitude = -89.221899
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38878"
+

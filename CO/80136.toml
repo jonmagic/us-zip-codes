@@ -1,6 +1,8 @@
-zip_code = "80136"
-state = "CO"
 city = "Strasburg"
 county = "Adams"
-longitude = -104.291682
 latitude = 39.865547
+longitude = -104.291682
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80136"
+

@@ -1,6 +1,8 @@
-zip_code = "72569"
-state = "AR"
 city = "Poughkeepsie"
 county = "Sharp"
-longitude = -91.455012
 latitude = 36.046345
+longitude = -91.455012
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72569"
+

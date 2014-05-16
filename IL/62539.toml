@@ -1,6 +1,8 @@
-zip_code = "62539"
-state = "IL"
 city = "Illiopolis"
 county = "Sangamon"
-longitude = -89.378449
 latitude = 39.860619
+longitude = -89.378449
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62539"
+

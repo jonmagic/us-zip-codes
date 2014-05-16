@@ -1,6 +1,8 @@
-zip_code = "51520"
-state = "IA"
 city = "Arion"
 county = "Crawford"
-longitude = -95.450804
 latitude = 41.979124
+longitude = -95.450804
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51520"
+

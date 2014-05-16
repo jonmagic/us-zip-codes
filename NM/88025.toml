@@ -1,6 +1,8 @@
-zip_code = "88025"
-state = "NM"
 city = "Buckhorn"
 county = "Grant"
-longitude = -108.695588
 latitude = 33.06335
+longitude = -108.695588
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88025"
+

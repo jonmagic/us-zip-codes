@@ -1,6 +1,8 @@
-zip_code = "29048"
-state = "SC"
 city = "Eutawville"
 county = "Orangeburg"
-longitude = -80.402308
 latitude = 33.416449
+longitude = -80.402308
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29048"
+

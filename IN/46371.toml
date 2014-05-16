@@ -1,6 +1,8 @@
-zip_code = "46371"
-state = "IN"
 city = "Rolling Prairie"
 county = "La Porte"
-longitude = -86.599414
 latitude = 41.686609
+longitude = -86.599414
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46371"
+

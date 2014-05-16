@@ -1,6 +1,8 @@
-zip_code = "74075"
-state = "OK"
 city = "Stillwater"
 county = "Payne"
-longitude = -97.068895
 latitude = 36.167933
+longitude = -97.068895
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74075"
+

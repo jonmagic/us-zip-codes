@@ -1,6 +1,8 @@
-zip_code = "77459"
-state = "TX"
 city = "Missouri City"
 county = "Fort Bend"
-longitude = -95.649939
 latitude = 29.323965
+longitude = -95.649939
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77459"
+

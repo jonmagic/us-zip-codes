@@ -1,6 +1,8 @@
-zip_code = "62077"
-state = "IL"
 city = "Panama"
 county = "Montgomery"
-longitude = -89.52368
 latitude = 39.031684
+longitude = -89.52368
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62077"
+

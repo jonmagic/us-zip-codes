@@ -1,6 +1,8 @@
-zip_code = "73772"
-state = "OK"
 city = "Watonga"
 county = "Blaine"
-longitude = -98.37882
 latitude = 35.980824
+longitude = -98.37882
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73772"
+

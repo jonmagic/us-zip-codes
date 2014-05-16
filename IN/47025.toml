@@ -1,6 +1,8 @@
-zip_code = "47025"
-state = "IN"
 city = "Lawrenceburg"
 county = "Dearborn"
-longitude = -84.891015
 latitude = 39.152741
+longitude = -84.891015
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47025"
+

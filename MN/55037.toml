@@ -1,6 +1,8 @@
-zip_code = "55037"
-state = "MN"
 city = "Hinckley"
 county = "Pine"
-longitude = -92.938103
 latitude = 46.014689
+longitude = -92.938103
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55037"
+

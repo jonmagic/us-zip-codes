@@ -1,6 +1,8 @@
-zip_code = "96069"
-state = "CA"
 city = "Oak Run"
 county = "Shasta"
-longitude = -122.042324
 latitude = 40.691529
+longitude = -122.042324
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96069"
+

@@ -1,6 +1,8 @@
-zip_code = "36575"
-state = "AL"
 city = "Semmes"
 county = "Mobile"
-longitude = -88.272544
 latitude = 30.779545
+longitude = -88.272544
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36575"
+

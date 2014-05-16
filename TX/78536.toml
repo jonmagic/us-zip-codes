@@ -1,6 +1,8 @@
-zip_code = "78536"
-state = "TX"
 city = "Delmita"
 county = "Starr"
-longitude = -98.848757
 latitude = 26.421394
+longitude = -98.848757
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78536"
+

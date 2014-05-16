@@ -1,6 +1,8 @@
-zip_code = "76443"
-state = "TX"
 city = "Cross Plains"
 county = "Callahan"
-longitude = -99.221055
 latitude = 32.16742
+longitude = -99.221055
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76443"
+

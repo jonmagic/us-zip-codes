@@ -1,6 +1,8 @@
-zip_code = "84735"
-state = "UT"
 city = "Hatch"
 county = "Garfield"
-longitude = -112.477716
 latitude = 37.717477
+longitude = -112.477716
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84735"
+

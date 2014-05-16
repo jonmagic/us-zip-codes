@@ -1,6 +1,8 @@
-zip_code = "61723"
-state = "IL"
 city = "Atlanta"
 county = "Logan"
-longitude = -89.257602
 latitude = 40.233769
+longitude = -89.257602
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61723"
+

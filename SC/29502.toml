@@ -1,6 +1,8 @@
-zip_code = "29502"
-state = "SC"
 city = "Florence"
 county = "Florence"
-longitude = -79.784721
 latitude = 34.200994
+longitude = -79.784721
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29502"
+

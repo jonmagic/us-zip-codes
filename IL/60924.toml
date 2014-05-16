@@ -1,6 +1,8 @@
-zip_code = "60924"
-state = "IL"
 city = "Cissna Park"
 county = "Iroquois"
-longitude = -87.907874
 latitude = 40.738175
+longitude = -87.907874
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60924"
+

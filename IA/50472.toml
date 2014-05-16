@@ -1,6 +1,8 @@
-zip_code = "50472"
-state = "IA"
 city = "Saint Ansgar"
 county = "Mitchell"
-longitude = -92.810582
 latitude = 43.406399
+longitude = -92.810582
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50472"
+

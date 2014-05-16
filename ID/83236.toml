@@ -1,6 +1,8 @@
-zip_code = "83236"
-state = "ID"
 city = "Firth"
 county = "Bingham"
-longitude = -112.10957
 latitude = 43.303218
+longitude = -112.10957
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83236"
+

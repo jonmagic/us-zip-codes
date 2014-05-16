@@ -1,6 +1,8 @@
-zip_code = "16611"
-state = "PA"
 city = "Alexandria"
 county = "Huntingdon"
-longitude = -78.095064
 latitude = 40.54851
+longitude = -78.095064
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16611"
+

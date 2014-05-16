@@ -1,6 +1,8 @@
-zip_code = "16316"
-state = "PA"
 city = "Conneaut Lake"
 county = "Crawford"
-longitude = -80.306783
 latitude = 41.616247
+longitude = -80.306783
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16316"
+

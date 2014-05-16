@@ -1,6 +1,8 @@
-zip_code = "03047"
-state = "NH"
 city = "Greenfield"
 county = "Hillsborough"
-longitude = -71.859087
 latitude = 42.929346
+longitude = -71.859087
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03047"
+

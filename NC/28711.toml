@@ -1,6 +1,8 @@
-zip_code = "28711"
-state = "NC"
 city = "Black Mountain"
 county = "Buncombe"
-longitude = -82.461196
 latitude = 35.564616
+longitude = -82.461196
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28711"
+

@@ -1,6 +1,8 @@
-zip_code = "23187"
-state = "VA"
 city = "Williamsburg"
 county = "Williamsburg City"
-longitude = -76.746769
 latitude = 37.310451
+longitude = -76.746769
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23187"
+

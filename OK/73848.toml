@@ -1,6 +1,8 @@
-zip_code = "73848"
-state = "OK"
 city = "Laverne"
 county = "Harper"
-longitude = -99.765785
 latitude = 36.764793
+longitude = -99.765785
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73848"
+

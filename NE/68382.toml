@@ -1,6 +1,8 @@
-zip_code = "68382"
-state = "NE"
 city = "Lorton"
 county = "Otoe"
-longitude = -96.086904
 latitude = 40.653589
+longitude = -96.086904
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68382"
+

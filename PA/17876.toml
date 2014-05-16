@@ -1,6 +1,8 @@
-zip_code = "17876"
-state = "PA"
 city = "Shamokin Dam"
 county = "Snyder"
-longitude = -76.82241
 latitude = 40.845896
+longitude = -76.82241
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17876"
+

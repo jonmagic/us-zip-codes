@@ -1,6 +1,8 @@
-zip_code = "65321"
-state = "MO"
 city = "Blackburn"
 county = "Saline"
-longitude = -93.484742
 latitude = 39.105316
+longitude = -93.484742
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65321"
+

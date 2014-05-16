@@ -1,6 +1,8 @@
-zip_code = "56522"
-state = "MN"
 city = "Campbell"
 county = "Wilkin"
-longitude = -96.443327
 latitude = 46.140224
+longitude = -96.443327
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56522"
+

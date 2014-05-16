@@ -1,6 +1,8 @@
-zip_code = "07657"
-state = "NJ"
 city = "Ridgefield"
 county = "Bergen"
-longitude = -74.004233
 latitude = 40.83315
+longitude = -74.004233
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07657"
+

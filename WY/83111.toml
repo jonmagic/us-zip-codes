@@ -1,6 +1,8 @@
-zip_code = "83111"
-state = "WY"
 city = "Auburn"
 county = "Lincoln"
-longitude = -110.981561
 latitude = 42.478175
+longitude = -110.981561
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83111"
+

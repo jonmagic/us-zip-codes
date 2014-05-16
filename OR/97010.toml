@@ -1,6 +1,8 @@
-zip_code = "97010"
-state = "OR"
 city = "Bridal Veil"
 county = "Multnomah"
-longitude = -122.101103
 latitude = 45.582981
+longitude = -122.101103
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97010"
+

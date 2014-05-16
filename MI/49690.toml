@@ -1,6 +1,8 @@
-zip_code = "49690"
-state = "MI"
 city = "Williamsburg"
 county = "Grand Traverse"
-longitude = -85.427605
 latitude = 44.767181
+longitude = -85.427605
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49690"
+

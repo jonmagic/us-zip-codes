@@ -1,6 +1,8 @@
-zip_code = "95925"
-state = "CA"
 city = "Challenge"
 county = "Yuba"
-longitude = -121.204452
 latitude = 39.467095
+longitude = -121.204452
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95925"
+

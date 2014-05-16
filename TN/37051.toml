@@ -1,6 +1,8 @@
-zip_code = "37051"
-state = "TN"
 city = "Cumberland Furnace"
 county = "Dickson"
-longitude = -87.391396
 latitude = 36.272071
+longitude = -87.391396
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37051"
+

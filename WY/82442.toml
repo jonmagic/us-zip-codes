@@ -1,6 +1,8 @@
-zip_code = "82442"
-state = "WY"
 city = "Ten Sleep"
 county = "Washakie"
-longitude = -107.530662
 latitude = 43.908687
+longitude = -107.530662
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82442"
+

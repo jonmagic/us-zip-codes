@@ -1,6 +1,8 @@
-zip_code = "00782"
-state = "PR"
 city = "Comerio"
 county = "Comerio"
-longitude = -66.219885
 latitude = 18.224958
+longitude = -66.219885
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00782"
+

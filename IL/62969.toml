@@ -1,6 +1,8 @@
-zip_code = "62969"
-state = "IL"
 city = "Olive Branch"
 county = "Alexander"
-longitude = -89.353662
 latitude = 37.167445
+longitude = -89.353662
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62969"
+

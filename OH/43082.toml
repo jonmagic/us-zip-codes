@@ -1,6 +1,8 @@
-zip_code = "43082"
-state = "OH"
 city = "Westerville"
 county = "Delaware"
-longitude = -82.869636
 latitude = 40.167712
+longitude = -82.869636
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43082"
+

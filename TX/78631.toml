@@ -1,6 +1,8 @@
-zip_code = "78631"
-state = "TX"
 city = "Harper"
 county = "Gillespie"
-longitude = -99.268227
 latitude = 30.247879
+longitude = -99.268227
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78631"
+

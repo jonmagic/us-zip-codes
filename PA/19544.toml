@@ -1,6 +1,8 @@
-zip_code = "19544"
-state = "PA"
 city = "Mount Aetna"
 county = "Berks"
-longitude = -76.294364
 latitude = 40.418662
+longitude = -76.294364
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19544"
+

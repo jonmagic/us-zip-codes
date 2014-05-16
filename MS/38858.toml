@@ -1,6 +1,8 @@
-zip_code = "38858"
-state = "MS"
 city = "Nettleton"
 county = "Itawamba"
-longitude = -88.472146
 latitude = 34.161842
+longitude = -88.472146
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38858"
+

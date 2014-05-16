@@ -1,6 +1,8 @@
-zip_code = "17236"
-state = "PA"
 city = "Mercersburg"
 county = "Franklin"
-longitude = -77.798952
 latitude = 39.819034
+longitude = -77.798952
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17236"
+

@@ -1,6 +1,8 @@
-zip_code = "56165"
-state = "MN"
 city = "Reading"
 county = "Nobles"
-longitude = -95.703514
 latitude = 43.732304
+longitude = -95.703514
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56165"
+

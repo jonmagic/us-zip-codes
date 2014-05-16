@@ -1,6 +1,8 @@
-zip_code = "27812"
-state = "NC"
 city = "Bethel"
 county = "Pitt"
-longitude = -77.39351
 latitude = 35.757803
+longitude = -77.39351
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27812"
+

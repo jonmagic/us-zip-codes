@@ -1,6 +1,8 @@
-zip_code = "56644"
-state = "MN"
 city = "Gonvick"
 county = "Clearwater"
-longitude = -95.470782
 latitude = 47.715406
+longitude = -95.470782
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56644"
+

@@ -1,6 +1,8 @@
-zip_code = "88061"
-state = "NM"
 city = "Silver City"
 county = "Grant"
-longitude = -108.330764
 latitude = 32.853738
+longitude = -108.330764
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88061"
+

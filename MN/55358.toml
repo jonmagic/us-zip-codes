@@ -1,6 +1,8 @@
-zip_code = "55358"
-state = "MN"
 city = "Maple Lake"
 county = "Wright"
-longitude = -94.060149
 latitude = 45.214072
+longitude = -94.060149
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55358"
+

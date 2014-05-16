@@ -1,6 +1,8 @@
-zip_code = "58856"
-state = "ND"
 city = "Zahl"
 county = "Williams"
-longitude = -103.772098
 latitude = 48.532242
+longitude = -103.772098
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58856"
+

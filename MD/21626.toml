@@ -1,6 +1,8 @@
-zip_code = "21626"
-state = "MD"
 city = "Crapo"
 county = "Dorchester"
-longitude = -76.097337
 latitude = 38.323604
+longitude = -76.097337
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21626"
+

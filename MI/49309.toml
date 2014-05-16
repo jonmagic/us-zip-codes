@@ -1,6 +1,8 @@
-zip_code = "49309"
-state = "MI"
 city = "Bitely"
 county = "Newaygo"
-longitude = -85.860379
 latitude = 43.712217
+longitude = -85.860379
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49309"
+

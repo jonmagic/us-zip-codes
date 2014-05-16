@@ -1,6 +1,8 @@
-zip_code = "27030"
-state = "NC"
 city = "Mount Airy"
 county = "Surry"
-longitude = -80.665406
 latitude = 36.444303
+longitude = -80.665406
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27030"
+

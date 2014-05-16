@@ -1,6 +1,8 @@
-zip_code = "28623"
-state = "NC"
 city = "Ennice"
 county = "Alleghany"
-longitude = -80.983323
 latitude = 36.520689
+longitude = -80.983323
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28623"
+

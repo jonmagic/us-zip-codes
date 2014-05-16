@@ -1,6 +1,8 @@
-zip_code = "59073"
-state = "MT"
 city = "Roundup"
 county = "Musselshell"
-longitude = -108.395473
 latitude = 46.444224
+longitude = -108.395473
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59073"
+

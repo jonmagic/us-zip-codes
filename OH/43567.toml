@@ -1,6 +1,8 @@
-zip_code = "43567"
-state = "OH"
 city = "Wauseon"
 county = "Fulton"
-longitude = -84.178148
 latitude = 41.59151
+longitude = -84.178148
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43567"
+

@@ -1,6 +1,8 @@
-zip_code = "28714"
-state = "NC"
 city = "Burnsville"
 county = "Yancey"
-longitude = -82.268193
 latitude = 35.835649
+longitude = -82.268193
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28714"
+

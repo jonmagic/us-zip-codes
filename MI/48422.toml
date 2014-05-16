@@ -1,6 +1,8 @@
-zip_code = "48422"
-state = "MI"
 city = "Croswell"
 county = "Sanilac"
-longitude = -82.644104
 latitude = 43.252807
+longitude = -82.644104
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48422"
+

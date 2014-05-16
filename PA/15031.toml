@@ -1,6 +1,8 @@
-zip_code = "15031"
-state = "PA"
 city = "Cuddy"
 county = "Allegheny"
-longitude = -80.166906
 latitude = 40.354712
+longitude = -80.166906
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15031"
+

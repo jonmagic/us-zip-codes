@@ -1,6 +1,8 @@
-zip_code = "37161"
-state = "TN"
 city = "Shelbyville"
 county = "Bedford"
-longitude = -86.489019
 latitude = 35.471531
+longitude = -86.489019
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37161"
+

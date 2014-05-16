@@ -1,6 +1,8 @@
-zip_code = "38647"
-state = "MS"
 city = "Michigan City"
 county = "Benton"
-longitude = -89.185048
 latitude = 34.788948
+longitude = -89.185048
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38647"
+

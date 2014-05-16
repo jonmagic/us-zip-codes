@@ -1,6 +1,8 @@
-zip_code = "61777"
-state = "IL"
 city = "Wapella"
 county = "Dewitt"
-longitude = -88.943985
 latitude = 40.223337
+longitude = -88.943985
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61777"
+

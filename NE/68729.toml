@@ -1,6 +1,8 @@
-zip_code = "68729"
-state = "NE"
 city = "Creighton"
 county = "Knox"
-longitude = -97.919351
 latitude = 42.490856
+longitude = -97.919351
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68729"
+

@@ -1,6 +1,8 @@
-zip_code = "62074"
-state = "IL"
 city = "New Douglas"
 county = "Madison"
-longitude = -89.714645
 latitude = 38.892137
+longitude = -89.714645
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62074"
+

@@ -1,6 +1,8 @@
-zip_code = "71369"
-state = "LA"
 city = "Simmesport"
 county = "Avoyelles"
-longitude = -91.894355
 latitude = 30.946808
+longitude = -91.894355
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71369"
+

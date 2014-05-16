@@ -1,6 +1,8 @@
-zip_code = "28318"
-state = "NC"
 city = "Autryville"
 county = "Sampson"
-longitude = -78.590479
 latitude = 35.066726
+longitude = -78.590479
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28318"
+

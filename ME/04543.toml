@@ -1,6 +1,8 @@
-zip_code = "04543"
-state = "ME"
 city = "Damariscotta"
 county = "Lincoln"
-longitude = -69.424228
 latitude = 43.986485
+longitude = -69.424228
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04543"
+

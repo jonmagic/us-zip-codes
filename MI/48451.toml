@@ -1,6 +1,8 @@
-zip_code = "48451"
-state = "MI"
 city = "Linden"
 county = "Genesee"
-longitude = -83.811322
 latitude = 42.825944
+longitude = -83.811322
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48451"
+

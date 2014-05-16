@@ -1,6 +1,8 @@
-zip_code = "01069"
-state = "MA"
 city = "Palmer"
 county = "Hampden"
-longitude = -72.31457
 latitude = 42.176131
+longitude = -72.31457
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01069"
+

@@ -1,6 +1,8 @@
-zip_code = "49886"
-state = "MI"
 city = "Spalding"
 county = "Menominee"
-longitude = -87.485236
 latitude = 45.677744
+longitude = -87.485236
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49886"
+

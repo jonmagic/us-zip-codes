@@ -1,6 +1,8 @@
-zip_code = "27301"
-state = "NC"
 city = "Mc Leansville"
 county = "Guilford"
-longitude = -79.670689
 latitude = 36.108629
+longitude = -79.670689
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27301"
+

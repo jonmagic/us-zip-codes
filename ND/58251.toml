@@ -1,6 +1,8 @@
-zip_code = "58251"
-state = "ND"
 city = "Larimore"
 county = "Grand Forks"
-longitude = -97.626389
 latitude = 47.911531
+longitude = -97.626389
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58251"
+

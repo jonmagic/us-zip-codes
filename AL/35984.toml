@@ -1,6 +1,8 @@
-zip_code = "35984"
-state = "AL"
 city = "Mentone"
 county = "De Kalb"
-longitude = -85.578584
 latitude = 34.556856
+longitude = -85.578584
+state = ""
+state_code_alpha2 = ""
+zip_code = "35984"
+

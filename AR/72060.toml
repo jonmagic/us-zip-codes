@@ -1,6 +1,8 @@
-zip_code = "72060"
-state = "AR"
 city = "Griffithville"
 county = "White"
-longitude = -91.606092
 latitude = 35.113187
+longitude = -91.606092
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72060"
+

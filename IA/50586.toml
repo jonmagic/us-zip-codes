@@ -1,6 +1,8 @@
-zip_code = "50586"
-state = "IA"
 city = "Somers"
 county = "Calhoun"
-longitude = -94.454529
 latitude = 42.386479
+longitude = -94.454529
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50586"
+

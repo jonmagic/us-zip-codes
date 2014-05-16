@@ -1,6 +1,8 @@
-zip_code = "72512"
-state = "AR"
 city = "Horseshoe Bend"
 county = "Izard"
-longitude = -91.915187
 latitude = 36.185457
+longitude = -91.915187
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72512"
+

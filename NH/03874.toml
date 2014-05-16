@@ -1,6 +1,8 @@
-zip_code = "03874"
-state = "NH"
 city = "Seabrook"
 county = "Rockingham"
-longitude = -70.819897
 latitude = 42.964415
+longitude = -70.819897
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03874"
+

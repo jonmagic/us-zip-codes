@@ -1,6 +1,8 @@
-zip_code = "84028"
-state = "UT"
 city = "Garden City"
 county = "Rich"
-longitude = -111.379691
 latitude = 41.907816
+longitude = -111.379691
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84028"
+

@@ -1,6 +1,8 @@
-zip_code = "79062"
-state = "TX"
 city = "Morse"
 county = "Hansford"
-longitude = -101.354354
 latitude = 36.277322
+longitude = -101.354354
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79062"
+

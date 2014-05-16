@@ -1,6 +1,8 @@
-zip_code = "36274"
-state = "AL"
 city = "Roanoke"
 county = "Randolph"
-longitude = -85.405707
 latitude = 33.216876
+longitude = -85.405707
+state = ""
+state_code_alpha2 = ""
+zip_code = "36274"
+

@@ -1,6 +1,8 @@
-zip_code = "75495"
-state = "TX"
 city = "Van Alstyne"
 county = "Grayson"
-longitude = -96.6356
 latitude = 33.541018
+longitude = -96.6356
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75495"
+

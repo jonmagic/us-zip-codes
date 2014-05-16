@@ -1,6 +1,8 @@
-zip_code = "50134"
-state = "IA"
 city = "Kelley"
 county = "Story"
-longitude = -93.654229
 latitude = 41.932278
+longitude = -93.654229
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50134"
+

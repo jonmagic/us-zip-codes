@@ -1,6 +1,8 @@
-zip_code = "63633"
-state = "MO"
 city = "Centerville"
 county = "Reynolds"
-longitude = -90.966089
 latitude = 37.240134
+longitude = -90.966089
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63633"
+

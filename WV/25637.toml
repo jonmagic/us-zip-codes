@@ -1,6 +1,8 @@
-zip_code = "25637"
-state = "WV"
 city = "Mount Gay"
 county = "Logan"
-longitude = -82.048494
 latitude = 37.84639
+longitude = -82.048494
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25637"
+

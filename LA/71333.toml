@@ -1,6 +1,8 @@
-zip_code = "71333"
-state = "LA"
 city = "Evergreen"
 county = "Avoyelles"
-longitude = -92.067027
 latitude = 30.91614
+longitude = -92.067027
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71333"
+

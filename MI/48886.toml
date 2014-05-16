@@ -1,6 +1,8 @@
-zip_code = "48886"
-state = "MI"
 city = "Six Lakes"
 county = "Montcalm"
-longitude = -85.177052
 latitude = 43.341346
+longitude = -85.177052
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48886"
+

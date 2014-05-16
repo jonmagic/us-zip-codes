@@ -1,6 +1,8 @@
-zip_code = "67634"
-state = "KS"
 city = "Dorrance"
 county = "Russell"
-longitude = -98.775418
 latitude = 38.821918
+longitude = -98.775418
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67634"
+

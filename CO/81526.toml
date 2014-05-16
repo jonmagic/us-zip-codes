@@ -1,6 +1,8 @@
-zip_code = "81526"
-state = "CO"
 city = "Palisade"
 county = "Mesa"
-longitude = -108.299254
 latitude = 39.095369
+longitude = -108.299254
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81526"
+

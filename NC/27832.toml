@@ -1,6 +1,8 @@
-zip_code = "27832"
-state = "NC"
 city = "Gaston"
 county = "Northampton"
-longitude = -77.441731
 latitude = 36.417965
+longitude = -77.441731
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27832"
+

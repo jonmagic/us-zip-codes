@@ -1,6 +1,8 @@
-zip_code = "48551"
-state = "MI"
 city = "Flint"
 county = "Genesee"
-longitude = -83.713124
 latitude = 42.978995
+longitude = -83.713124
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48551"
+

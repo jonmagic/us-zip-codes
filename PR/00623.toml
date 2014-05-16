@@ -1,6 +1,8 @@
-zip_code = "00623"
-state = "PR"
 city = "Cabo Rojo"
 county = "Cabo Rojo"
-longitude = -67.149541
 latitude = 18.062201
+longitude = -67.149541
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00623"
+

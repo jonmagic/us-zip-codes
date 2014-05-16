@@ -1,6 +1,8 @@
-zip_code = "04863"
-state = "ME"
 city = "Vinalhaven"
 county = "Knox"
-longitude = -68.841965
 latitude = 44.08511
+longitude = -68.841965
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04863"
+

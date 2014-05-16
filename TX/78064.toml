@@ -1,6 +1,8 @@
-zip_code = "78064"
-state = "TX"
 city = "Pleasanton"
 county = "Atascosa"
-longitude = -98.495551
 latitude = 28.975023
+longitude = -98.495551
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78064"
+

@@ -1,6 +1,8 @@
-zip_code = "17822"
-state = "PA"
 city = "Danville"
 county = "Montour"
-longitude = -76.604896
 latitude = 40.967437
+longitude = -76.604896
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17822"
+

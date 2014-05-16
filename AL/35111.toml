@@ -1,6 +1,8 @@
-zip_code = "35111"
-state = "AL"
 city = "Mc Calla"
 county = "Jefferson"
-longitude = -87.048881
 latitude = 33.299704
+longitude = -87.048881
+state = ""
+state_code_alpha2 = ""
+zip_code = "35111"
+

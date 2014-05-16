@@ -1,6 +1,8 @@
-zip_code = "68733"
-state = "NE"
 city = "Emerson"
 county = "Dakota"
-longitude = -96.639317
 latitude = 42.361551
+longitude = -96.639317
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68733"
+

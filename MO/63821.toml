@@ -1,6 +1,8 @@
-zip_code = "63821"
-state = "MO"
 city = "Arbyrd"
 county = "Dunklin"
-longitude = -90.229246
 latitude = 36.064878
+longitude = -90.229246
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63821"
+

@@ -1,6 +1,8 @@
-zip_code = "95978"
-state = "CA"
 city = "Stirling City"
 county = "Butte"
-longitude = -121.47936
 latitude = 39.995078
+longitude = -121.47936
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95978"
+

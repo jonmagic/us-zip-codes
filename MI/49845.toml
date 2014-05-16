@@ -1,6 +1,8 @@
-zip_code = "49845"
-state = "MI"
 city = "Harris"
 county = "Menominee"
-longitude = -87.351342
 latitude = 45.692178
+longitude = -87.351342
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49845"
+

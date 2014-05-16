@@ -1,6 +1,8 @@
-zip_code = "55125"
-state = "MN"
 city = "Saint Paul"
 county = "Washington"
-longitude = -92.943876
 latitude = 44.919716
+longitude = -92.943876
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55125"
+

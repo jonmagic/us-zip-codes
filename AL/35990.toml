@@ -1,6 +1,8 @@
-zip_code = "35990"
-state = "AL"
 city = "Walnut Grove"
 county = "Etowah"
-longitude = -86.275434
 latitude = 34.056618
+longitude = -86.275434
+state = ""
+state_code_alpha2 = ""
+zip_code = "35990"
+

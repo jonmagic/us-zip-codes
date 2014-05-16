@@ -1,6 +1,8 @@
-zip_code = "07111"
-state = "NJ"
 city = "Irvington"
 county = "Essex"
-longitude = -74.23294
 latitude = 40.726231
+longitude = -74.23294
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07111"
+

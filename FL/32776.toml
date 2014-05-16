@@ -1,6 +1,8 @@
-zip_code = "32776"
-state = "FL"
 city = "Sorrento"
 county = "Lake"
-longitude = -81.505121
 latitude = 28.831447
+longitude = -81.505121
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32776"
+

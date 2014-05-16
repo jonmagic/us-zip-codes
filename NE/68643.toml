@@ -1,6 +1,8 @@
-zip_code = "68643"
-state = "NE"
 city = "Leigh"
 county = "Colfax"
-longitude = -97.184984
 latitude = 41.647114
+longitude = -97.184984
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68643"
+

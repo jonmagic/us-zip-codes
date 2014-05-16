@@ -1,6 +1,8 @@
-zip_code = "54649"
-state = "WI"
 city = "Oakdale"
 county = "Monroe"
-longitude = -90.361161
 latitude = 43.971514
+longitude = -90.361161
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54649"
+

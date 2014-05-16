@@ -1,6 +1,8 @@
-zip_code = "57564"
-state = "SD"
 city = "Onida"
 county = "Sully"
-longitude = -99.979546
 latitude = 44.722873
+longitude = -99.979546
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57564"
+

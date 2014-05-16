@@ -1,6 +1,8 @@
-zip_code = "32736"
-state = "FL"
 city = "Eustis"
 county = "Lake"
-longitude = -81.523516
 latitude = 28.910207
+longitude = -81.523516
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32736"
+

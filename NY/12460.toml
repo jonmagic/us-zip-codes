@@ -1,6 +1,8 @@
-zip_code = "12460"
-state = "NY"
 city = "Oak Hill"
 county = "Greene"
-longitude = -74.192105
 latitude = 42.409721
+longitude = -74.192105
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12460"
+

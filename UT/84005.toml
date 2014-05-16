@@ -1,6 +1,8 @@
-zip_code = "84005"
-state = "UT"
 city = "Eagle Mountain"
 county = "Utah"
-longitude = -112.008102416992
 latitude = 40.3313026428223
+longitude = -112.008102416992
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84005"
+

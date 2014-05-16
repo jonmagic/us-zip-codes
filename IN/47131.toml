@@ -1,6 +1,8 @@
-zip_code = "47131"
-state = "IN"
 city = "Jeffersonville"
 county = "Clark"
-longitude = -85.704973
 latitude = 38.437021
+longitude = -85.704973
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47131"
+

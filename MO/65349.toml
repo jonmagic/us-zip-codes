@@ -1,6 +1,8 @@
-zip_code = "65349"
-state = "MO"
 city = "Slater"
 county = "Saline"
-longitude = -93.264214
 latitude = 39.101211
+longitude = -93.264214
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65349"
+

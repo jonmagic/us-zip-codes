@@ -1,6 +1,8 @@
-zip_code = "48028"
-state = "MI"
 city = "Harsens Island"
 county = "Saint Clair"
-longitude = -82.596757
 latitude = 42.597245
+longitude = -82.596757
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48028"
+

@@ -1,6 +1,8 @@
-zip_code = "56567"
-state = "MN"
 city = "New York Mills"
 county = "Otter Tail"
-longitude = -95.366068
 latitude = 46.491294
+longitude = -95.366068
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56567"
+

@@ -1,6 +1,8 @@
-zip_code = "49816"
-state = "MI"
 city = "Chatham"
 county = "Alger"
-longitude = -86.993579
 latitude = 46.336962
+longitude = -86.993579
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49816"
+

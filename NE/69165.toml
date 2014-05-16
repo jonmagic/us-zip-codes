@@ -1,6 +1,8 @@
-zip_code = "69165"
-state = "NE"
 city = "Sutherland"
 county = "Lincoln"
-longitude = -101.136616
 latitude = 41.1597
+longitude = -101.136616
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69165"
+

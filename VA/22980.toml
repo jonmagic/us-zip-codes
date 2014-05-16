@@ -1,6 +1,8 @@
-zip_code = "22980"
-state = "VA"
 city = "Waynesboro"
 county = "Waynesboro City"
-longitude = -78.903445
 latitude = 38.065794
+longitude = -78.903445
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22980"
+

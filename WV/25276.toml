@@ -1,6 +1,8 @@
-zip_code = "25276"
-state = "WV"
 city = "Spencer"
 county = "Roane"
-longitude = -81.364262
 latitude = 38.777675
+longitude = -81.364262
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25276"
+

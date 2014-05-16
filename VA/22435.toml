@@ -1,6 +1,8 @@
-zip_code = "22435"
-state = "VA"
 city = "Callao"
 county = "Northumberland"
-longitude = -76.577422
 latitude = 37.961716
+longitude = -76.577422
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22435"
+

@@ -1,6 +1,8 @@
-zip_code = "80537"
-state = "CO"
 city = "Loveland"
 county = "Larimer"
-longitude = -105.266415
 latitude = 40.553704
+longitude = -105.266415
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80537"
+

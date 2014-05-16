@@ -1,6 +1,8 @@
-zip_code = "28660"
-state = "NC"
 city = "Olin"
 county = "Iredell"
-longitude = -80.864673
 latitude = 35.974905
+longitude = -80.864673
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28660"
+

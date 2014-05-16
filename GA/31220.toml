@@ -1,6 +1,8 @@
-zip_code = "31220"
-state = "GA"
 city = "Macon"
 county = "Bibb"
-longitude = -83.802047
 latitude = 32.859461
+longitude = -83.802047
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31220"
+

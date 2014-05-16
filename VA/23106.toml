@@ -1,6 +1,8 @@
-zip_code = "23106"
-state = "VA"
 city = "Manquin"
 county = "King William"
-longitude = -77.206868
 latitude = 37.733093
+longitude = -77.206868
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23106"
+

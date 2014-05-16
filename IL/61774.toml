@@ -1,6 +1,8 @@
-zip_code = "61774"
-state = "IL"
 city = "Stanford"
 county = "Mclean"
-longitude = -89.220679
 latitude = 40.435192
+longitude = -89.220679
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61774"
+

@@ -1,6 +1,8 @@
-zip_code = "30641"
-state = "GA"
 city = "Good Hope"
 county = "Walton"
-longitude = -83.580359
 latitude = 33.778257
+longitude = -83.580359
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30641"
+

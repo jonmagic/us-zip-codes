@@ -1,6 +1,8 @@
-zip_code = "63774"
-state = "MO"
 city = "Perkins"
 county = "Scott"
-longitude = -89.549853
 latitude = 37.056383
+longitude = -89.549853
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63774"
+

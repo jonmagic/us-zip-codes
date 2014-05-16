@@ -1,6 +1,8 @@
-zip_code = "71932"
-state = "AR"
 city = "Board Camp"
 county = "Polk"
-longitude = -94.0972
 latitude = 34.537164
+longitude = -94.0972
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71932"
+

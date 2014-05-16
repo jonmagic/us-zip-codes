@@ -1,6 +1,8 @@
-zip_code = "39428"
-state = "MS"
 city = "Collins"
 county = "Covington"
-longitude = -89.578002
 latitude = 31.652811
+longitude = -89.578002
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39428"
+

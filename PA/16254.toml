@@ -1,6 +1,8 @@
-zip_code = "16254"
-state = "PA"
 city = "Shippenville"
 county = "Clarion"
-longitude = -79.434105
 latitude = 41.263674
+longitude = -79.434105
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16254"
+

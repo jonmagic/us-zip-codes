@@ -1,6 +1,8 @@
-zip_code = "38862"
-state = "MS"
 city = "Plantersville"
 county = "Lee"
-longitude = -88.617454
 latitude = 34.239541
+longitude = -88.617454
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38862"
+

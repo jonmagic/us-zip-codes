@@ -1,6 +1,8 @@
-zip_code = "55945"
-state = "MN"
 city = "Kellogg"
 county = "Wabasha"
-longitude = -92.109479
 latitude = 44.273871
+longitude = -92.109479
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55945"
+

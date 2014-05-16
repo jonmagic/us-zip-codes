@@ -1,6 +1,8 @@
-zip_code = "96763"
-state = "HI"
 city = "Lanai City"
 county = "Maui"
-longitude = -156.95283
 latitude = 20.812854
+longitude = -156.95283
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96763"
+

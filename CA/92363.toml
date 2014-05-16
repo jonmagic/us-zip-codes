@@ -1,6 +1,8 @@
-zip_code = "92363"
-state = "CA"
 city = "Needles"
 county = "San Bernardino"
-longitude = -115.558733
 latitude = 34.642102
+longitude = -115.558733
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92363"
+

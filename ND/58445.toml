@@ -1,6 +1,8 @@
-zip_code = "58445"
-state = "ND"
 city = "Grace City"
 county = "Foster"
-longitude = -98.702131
 latitude = 47.457057
+longitude = -98.702131
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58445"
+

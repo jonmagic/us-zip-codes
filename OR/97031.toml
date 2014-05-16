@@ -1,6 +1,8 @@
-zip_code = "97031"
-state = "OR"
 city = "Hood River"
 county = "Hood River"
-longitude = -121.677126
 latitude = 45.638312
+longitude = -121.677126
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97031"
+

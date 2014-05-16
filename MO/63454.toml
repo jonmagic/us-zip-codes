@@ -1,6 +1,8 @@
-zip_code = "63454"
-state = "MO"
 city = "Maywood"
 county = "Marion"
-longitude = -91.654578
 latitude = 39.903389
+longitude = -91.654578
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63454"
+

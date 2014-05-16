@@ -1,6 +1,8 @@
-zip_code = "43525"
-state = "OH"
 city = "Haskins"
 county = "Wood"
-longitude = -83.705486
 latitude = 41.466702
+longitude = -83.705486
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43525"
+

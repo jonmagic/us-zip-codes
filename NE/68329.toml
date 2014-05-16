@@ -1,6 +1,8 @@
-zip_code = "68329"
-state = "NE"
 city = "Cook"
 county = "Johnson"
-longitude = -96.161196
 latitude = 40.510888
+longitude = -96.161196
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68329"
+

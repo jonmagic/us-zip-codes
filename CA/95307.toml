@@ -1,6 +1,8 @@
-zip_code = "95307"
-state = "CA"
 city = "Ceres"
 county = "Stanislaus"
-longitude = -120.967976
 latitude = 37.561889
+longitude = -120.967976
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95307"
+

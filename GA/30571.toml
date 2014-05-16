@@ -1,6 +1,8 @@
-zip_code = "30571"
-state = "GA"
 city = "Sautee Nacoochee"
 county = "White"
-longitude = -83.709564
 latitude = 34.66578
+longitude = -83.709564
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30571"
+

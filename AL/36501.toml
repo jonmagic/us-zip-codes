@@ -1,6 +1,8 @@
-zip_code = "36501"
-state = "AL"
 city = "Alma"
 county = "Clarke"
-longitude = -87.880106
 latitude = 31.482494
+longitude = -87.880106
+state = ""
+state_code_alpha2 = ""
+zip_code = "36501"
+

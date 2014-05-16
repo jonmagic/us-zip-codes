@@ -1,6 +1,8 @@
-zip_code = "18211"
-state = "PA"
 city = "Andreas"
 county = "Schuylkill"
-longitude = -75.83155
 latitude = 40.744932
+longitude = -75.83155
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18211"
+

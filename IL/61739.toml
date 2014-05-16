@@ -1,6 +1,8 @@
-zip_code = "61739"
-state = "IL"
 city = "Fairbury"
 county = "Livingston"
-longitude = -88.627756
 latitude = 40.76723
+longitude = -88.627756
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61739"
+

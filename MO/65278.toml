@@ -1,6 +1,8 @@
-zip_code = "65278"
-state = "MO"
 city = "Renick"
 county = "Randolph"
-longitude = -92.410961
 latitude = 39.341357
+longitude = -92.410961
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65278"
+

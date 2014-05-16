@@ -1,6 +1,8 @@
-zip_code = "35055"
-state = "AL"
 city = "Cullman"
 county = "Cullman"
-longitude = -86.853185
 latitude = 34.111067
+longitude = -86.853185
+state = ""
+state_code_alpha2 = ""
+zip_code = "35055"
+

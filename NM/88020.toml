@@ -1,6 +1,8 @@
-zip_code = "88020"
-state = "NM"
 city = "Animas"
 county = "Hidalgo"
-longitude = -108.906944
 latitude = 32.053042
+longitude = -108.906944
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88020"
+

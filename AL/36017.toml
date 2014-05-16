@@ -1,6 +1,8 @@
-zip_code = "36017"
-state = "AL"
 city = "Clio"
 county = "Barbour"
-longitude = -85.561944
 latitude = 31.749142
+longitude = -85.561944
+state = ""
+state_code_alpha2 = ""
+zip_code = "36017"
+

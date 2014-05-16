@@ -1,6 +1,8 @@
-zip_code = "62864"
-state = "IL"
 city = "Mount Vernon"
 county = "Jefferson"
-longitude = -88.892273
 latitude = 38.293269
+longitude = -88.892273
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62864"
+

@@ -1,6 +1,8 @@
-zip_code = "50009"
-state = "IA"
 city = "Altoona"
 county = "Polk"
-longitude = -93.4685
 latitude = 41.65097
+longitude = -93.4685
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50009"
+

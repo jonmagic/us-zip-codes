@@ -1,6 +1,8 @@
-zip_code = "15446"
-state = "PA"
 city = "Indian Head"
 county = "Fayette"
-longitude = -79.377806
 latitude = 40.037453
+longitude = -79.377806
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15446"
+

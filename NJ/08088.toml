@@ -1,6 +1,8 @@
-zip_code = "08088"
-state = "NJ"
 city = "Vincentown"
 county = "Burlington"
-longitude = -74.669346
 latitude = 39.860351
+longitude = -74.669346
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08088"
+

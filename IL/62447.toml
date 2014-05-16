@@ -1,6 +1,8 @@
-zip_code = "62447"
-state = "IL"
 city = "Neoga"
 county = "Cumberland"
-longitude = -88.241333
 latitude = 39.290276
+longitude = -88.241333
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62447"
+

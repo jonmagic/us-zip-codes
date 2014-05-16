@@ -1,6 +1,8 @@
-zip_code = "73749"
-state = "OK"
 city = "Jet"
 county = "Alfalfa"
-longitude = -98.181223
 latitude = 36.666492
+longitude = -98.181223
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73749"
+

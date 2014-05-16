@@ -1,6 +1,8 @@
-zip_code = "17560"
-state = "PA"
 city = "New Providence"
 county = "Lancaster"
-longitude = -76.237428
 latitude = 39.912288
+longitude = -76.237428
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17560"
+

@@ -1,6 +1,8 @@
-zip_code = "15942"
-state = "PA"
 city = "Mineral Point"
 county = "Cambria"
-longitude = -78.823794
 latitude = 40.419784
+longitude = -78.823794
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15942"
+

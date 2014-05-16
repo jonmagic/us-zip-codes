@@ -1,6 +1,8 @@
-zip_code = "55926"
-state = "MN"
 city = "Dexter"
 county = "Mower"
-longitude = -92.786355
 latitude = 43.616293
+longitude = -92.786355
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55926"
+

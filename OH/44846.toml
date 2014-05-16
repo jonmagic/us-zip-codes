@@ -1,6 +1,8 @@
-zip_code = "44846"
-state = "OH"
 city = "Milan"
 county = "Erie"
-longitude = -82.610479
 latitude = 41.320775
+longitude = -82.610479
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44846"
+

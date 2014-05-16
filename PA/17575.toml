@@ -1,6 +1,8 @@
-zip_code = "17575"
-state = "PA"
 city = "Silver Spring"
 county = "Lancaster"
-longitude = -76.434285
 latitude = 40.064746
+longitude = -76.434285
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17575"
+

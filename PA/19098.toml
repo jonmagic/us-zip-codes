@@ -1,6 +1,8 @@
-zip_code = "19098"
-state = "PA"
 city = "Holmes"
 county = "Delaware"
-longitude = -75.310731
 latitude = 39.895362
+longitude = -75.310731
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19098"
+

@@ -1,6 +1,8 @@
-zip_code = "99712"
-state = "AK"
 city = "Fairbanks"
 county = "Fairbanks North Star"
-longitude = -147.156588
 latitude = 65.036453
+longitude = -147.156588
+state = ""
+state_code_alpha2 = ""
+zip_code = "99712"
+

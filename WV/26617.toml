@@ -1,6 +1,8 @@
-zip_code = "26617"
-state = "WV"
 city = "Dille"
 county = "Clay"
-longitude = -81.050662
 latitude = 38.465777
+longitude = -81.050662
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26617"
+

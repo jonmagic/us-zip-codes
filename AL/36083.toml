@@ -1,6 +1,8 @@
-zip_code = "36083"
-state = "AL"
 city = "Tuskegee"
 county = "Macon"
-longitude = -85.66671
 latitude = 32.372144
+longitude = -85.66671
+state = ""
+state_code_alpha2 = ""
+zip_code = "36083"
+

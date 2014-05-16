@@ -1,6 +1,8 @@
-zip_code = "58216"
-state = "ND"
 city = "Bathgate"
 county = "Pembina"
-longitude = -97.42543
 latitude = 48.874863
+longitude = -97.42543
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58216"
+

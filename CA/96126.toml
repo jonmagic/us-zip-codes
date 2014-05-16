@@ -1,6 +1,8 @@
-zip_code = "96126"
-state = "CA"
 city = "Sierraville"
 county = "Sierra"
-longitude = -120.371073
 latitude = 39.582462
+longitude = -120.371073
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96126"
+

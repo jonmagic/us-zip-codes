@@ -1,6 +1,8 @@
-zip_code = "23429"
-state = "VA"
 city = "Seaview"
 county = "Northampton"
-longitude = -75.953608
 latitude = 37.271104
+longitude = -75.953608
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23429"
+

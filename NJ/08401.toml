@@ -1,6 +1,8 @@
-zip_code = "08401"
-state = "NJ"
 city = "Atlantic City"
 county = "Atlantic"
-longitude = -74.643014
 latitude = 39.486848
+longitude = -74.643014
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08401"
+

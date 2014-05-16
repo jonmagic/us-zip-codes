@@ -1,6 +1,8 @@
-zip_code = "17829"
-state = "PA"
 city = "Hartleton"
 county = "Union"
-longitude = -77.189174
 latitude = 40.882861
+longitude = -77.189174
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17829"
+

@@ -1,6 +1,8 @@
-zip_code = "25520"
-state = "WV"
 city = "Glenwood"
 county = "Mason"
-longitude = -82.177263
 latitude = 38.590868
+longitude = -82.177263
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25520"
+

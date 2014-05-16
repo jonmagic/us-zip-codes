@@ -1,6 +1,8 @@
-zip_code = "45106"
-state = "OH"
 city = "Bethel"
 county = "Clermont"
-longitude = -84.109327
 latitude = 38.922008
+longitude = -84.109327
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45106"
+

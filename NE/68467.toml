@@ -1,6 +1,8 @@
-zip_code = "68467"
-state = "NE"
 city = "York"
 county = "York"
-longitude = -97.597278
 latitude = 40.890132
+longitude = -97.597278
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68467"
+

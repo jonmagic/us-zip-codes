@@ -1,6 +1,8 @@
-zip_code = "52309"
-state = "IA"
 city = "Monmouth"
 county = "Jackson"
-longitude = -90.864621
 latitude = 42.13894
+longitude = -90.864621
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52309"
+

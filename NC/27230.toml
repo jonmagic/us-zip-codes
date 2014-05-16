@@ -1,6 +1,8 @@
-zip_code = "27230"
-state = "NC"
 city = "Cedar Falls"
 county = "Randolph"
-longitude = -79.879711
 latitude = 35.802758
+longitude = -79.879711
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27230"
+

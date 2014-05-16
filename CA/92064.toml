@@ -1,6 +1,8 @@
-zip_code = "92064"
-state = "CA"
 city = "Poway"
 county = "San Diego"
-longitude = -117.030299
 latitude = 32.994097
+longitude = -117.030299
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92064"
+

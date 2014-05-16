@@ -1,6 +1,8 @@
-zip_code = "96084"
-state = "CA"
 city = "Round Mountain"
 county = "Shasta"
-longitude = -122.171093
 latitude = 40.762944
+longitude = -122.171093
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96084"
+

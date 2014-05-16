@@ -1,6 +1,8 @@
-zip_code = "31783"
-state = "GA"
 city = "Rebecca"
 county = "Turner"
-longitude = -83.526041
 latitude = 31.780373
+longitude = -83.526041
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31783"
+

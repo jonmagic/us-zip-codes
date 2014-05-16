@@ -1,6 +1,8 @@
-zip_code = "28682"
-state = "NC"
 city = "Terrell"
 county = "Catawba"
-longitude = -80.968153
 latitude = 35.579418
+longitude = -80.968153
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28682"
+

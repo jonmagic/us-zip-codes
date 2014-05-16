@@ -1,6 +1,8 @@
-zip_code = "70726"
-state = "LA"
 city = "Denham Springs"
 county = "Livingston"
-longitude = -90.902723
 latitude = 30.459026
+longitude = -90.902723
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70726"
+

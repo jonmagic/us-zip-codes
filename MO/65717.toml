@@ -1,6 +1,8 @@
-zip_code = "65717"
-state = "MO"
 city = "Norwood"
 county = "Wright"
-longitude = -92.415178
 latitude = 37.160913
+longitude = -92.415178
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65717"
+

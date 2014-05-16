@@ -1,6 +1,8 @@
-zip_code = "59327"
-state = "MT"
 city = "Forsyth"
 county = "Rosebud"
-longitude = -106.6303
 latitude = 46.174223
+longitude = -106.6303
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59327"
+

@@ -1,6 +1,8 @@
-zip_code = "56621"
-state = "MN"
 city = "Bagley"
 county = "Clearwater"
-longitude = -95.377949
 latitude = 47.531644
+longitude = -95.377949
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56621"
+

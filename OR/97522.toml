@@ -1,6 +1,8 @@
-zip_code = "97522"
-state = "OR"
 city = "Butte Falls"
 county = "Jackson"
-longitude = -122.554633
 latitude = 42.530813
+longitude = -122.554633
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97522"
+

@@ -1,6 +1,8 @@
-zip_code = "28330"
-state = "NC"
 city = "Cordova"
 county = "Richmond"
-longitude = -79.79851
 latitude = 34.974434
+longitude = -79.79851
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28330"
+

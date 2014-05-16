@@ -1,6 +1,8 @@
-zip_code = "41342"
-state = "KY"
 city = "Lee City"
 county = "Wolfe"
-longitude = -83.475446
 latitude = 37.740503
+longitude = -83.475446
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41342"
+

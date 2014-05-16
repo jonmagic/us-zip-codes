@@ -1,6 +1,8 @@
-zip_code = "32303"
-state = "FL"
 city = "Tallahassee"
 county = "Leon"
-longitude = -84.247698
 latitude = 30.535698
+longitude = -84.247698
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32303"
+

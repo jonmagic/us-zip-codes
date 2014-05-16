@@ -1,6 +1,8 @@
-zip_code = "30547"
-state = "GA"
 city = "Homer"
 county = "Banks"
-longitude = -83.491925
 latitude = 34.373145
+longitude = -83.491925
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30547"
+

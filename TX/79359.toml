@@ -1,6 +1,8 @@
-zip_code = "79359"
-state = "TX"
 city = "Seagraves"
 county = "Gaines"
-longitude = -102.588484
 latitude = 32.94248
+longitude = -102.588484
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79359"
+

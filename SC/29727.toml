@@ -1,6 +1,8 @@
-zip_code = "29727"
-state = "SC"
 city = "Mount Croghan"
 county = "Chesterfield"
-longitude = -80.170691
 latitude = 34.591849
+longitude = -80.170691
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29727"
+

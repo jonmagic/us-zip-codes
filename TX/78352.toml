@@ -1,6 +1,8 @@
-zip_code = "78352"
-state = "TX"
 city = "Edroy"
 county = "San Patricio"
-longitude = -97.668225
 latitude = 27.964959
+longitude = -97.668225
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78352"
+

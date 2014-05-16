@@ -1,6 +1,8 @@
-zip_code = "32266"
-state = "FL"
 city = "Neptune Beach"
 county = "Duval"
-longitude = -81.408006
 latitude = 30.315978
+longitude = -81.408006
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32266"
+

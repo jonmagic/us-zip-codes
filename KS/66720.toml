@@ -1,6 +1,8 @@
-zip_code = "66720"
-state = "KS"
 city = "Chanute"
 county = "Neosho"
-longitude = -95.416422
 latitude = 37.609218
+longitude = -95.416422
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66720"
+

@@ -1,6 +1,8 @@
-zip_code = "18040"
-state = "PA"
 city = "Easton"
 county = "Northampton"
-longitude = -75.20887
 latitude = 40.806206
+longitude = -75.20887
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18040"
+

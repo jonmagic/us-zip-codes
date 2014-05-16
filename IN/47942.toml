@@ -1,6 +1,8 @@
-zip_code = "47942"
-state = "IN"
 city = "Earl Park"
 county = "Benton"
-longitude = -87.415972
 latitude = 40.679382
+longitude = -87.415972
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47942"
+

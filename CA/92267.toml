@@ -1,6 +1,8 @@
-zip_code = "92267"
-state = "CA"
 city = "Parker Dam"
 county = "San Bernardino"
-longitude = -114.210609
 latitude = 34.249419
+longitude = -114.210609
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92267"
+

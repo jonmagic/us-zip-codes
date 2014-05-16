@@ -1,6 +1,8 @@
-zip_code = "78941"
-state = "TX"
 city = "Flatonia"
 county = "Fayette"
-longitude = -97.111371
 latitude = 29.782749
+longitude = -97.111371
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78941"
+

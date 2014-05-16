@@ -1,6 +1,8 @@
-zip_code = "81640"
-state = "CO"
 city = "Maybell"
 county = "Moffat"
-longitude = -108.369943
 latitude = 40.673756
+longitude = -108.369943
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81640"
+

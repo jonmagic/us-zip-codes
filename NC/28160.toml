@@ -1,6 +1,8 @@
-zip_code = "28160"
-state = "NC"
 city = "Spindale"
 county = "Rutherford"
-longitude = -81.9211
 latitude = 35.354511
+longitude = -81.9211
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28160"
+

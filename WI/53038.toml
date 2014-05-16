@@ -1,6 +1,8 @@
-zip_code = "53038"
-state = "WI"
 city = "Johnson Creek"
 county = "Jefferson"
-longitude = -88.743276
 latitude = 43.092348
+longitude = -88.743276
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53038"
+

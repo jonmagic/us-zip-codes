@@ -1,6 +1,8 @@
-zip_code = "75637"
-state = "TX"
 city = "Clayton"
 county = "Panola"
-longitude = -94.493543
 latitude = 32.102729
+longitude = -94.493543
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75637"
+

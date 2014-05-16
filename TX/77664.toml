@@ -1,6 +1,8 @@
-zip_code = "77664"
-state = "TX"
 city = "Warren"
 county = "Tyler"
-longitude = -94.380858
 latitude = 30.634714
+longitude = -94.380858
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77664"
+

@@ -1,6 +1,8 @@
-zip_code = "82723"
-state = "WY"
 city = "Osage"
 county = "Weston"
-longitude = -104.360224
 latitude = 44.04631
+longitude = -104.360224
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82723"
+

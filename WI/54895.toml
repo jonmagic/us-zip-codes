@@ -1,6 +1,8 @@
-zip_code = "54895"
-state = "WI"
 city = "Weyerhaeuser"
 county = "Rusk"
-longitude = -91.423051
 latitude = 45.40913
+longitude = -91.423051
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54895"
+

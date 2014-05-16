@@ -1,6 +1,8 @@
-zip_code = "23662"
-state = "VA"
 city = "Poquoson"
 county = "Poquoson City"
-longitude = -76.365419
 latitude = 37.132326
+longitude = -76.365419
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23662"
+

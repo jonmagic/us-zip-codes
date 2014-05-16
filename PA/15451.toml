@@ -1,6 +1,8 @@
-zip_code = "15451"
-state = "PA"
 city = "Lake Lynn"
 county = "Fayette"
-longitude = -79.854871
 latitude = 39.742861
+longitude = -79.854871
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15451"
+

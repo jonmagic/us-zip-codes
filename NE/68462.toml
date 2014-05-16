@@ -1,6 +1,8 @@
-zip_code = "68462"
-state = "NE"
 city = "Waverly"
 county = "Lancaster"
-longitude = -96.543431
 latitude = 40.935601
+longitude = -96.543431
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68462"
+

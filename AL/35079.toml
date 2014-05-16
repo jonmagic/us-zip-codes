@@ -1,6 +1,8 @@
-zip_code = "35079"
-state = "AL"
 city = "Hayden"
 county = "Blount"
-longitude = -86.745469
 latitude = 33.953352
+longitude = -86.745469
+state = ""
+state_code_alpha2 = ""
+zip_code = "35079"
+

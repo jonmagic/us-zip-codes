@@ -1,6 +1,8 @@
-zip_code = "30456"
-state = "GA"
 city = "Sardis"
 county = "Burke"
-longitude = -81.84486
 latitude = 32.980305
+longitude = -81.84486
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30456"
+

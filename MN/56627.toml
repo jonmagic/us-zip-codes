@@ -1,6 +1,8 @@
-zip_code = "56627"
-state = "MN"
 city = "Big Falls"
 county = "Koochiching"
-longitude = -93.81606
 latitude = 48.091615
+longitude = -93.81606
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56627"
+

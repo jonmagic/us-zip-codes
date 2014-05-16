@@ -1,6 +1,8 @@
-zip_code = "15823"
-state = "PA"
 city = "Brockport"
 county = "Elk"
-longitude = -78.699711
 latitude = 41.253932
+longitude = -78.699711
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15823"
+

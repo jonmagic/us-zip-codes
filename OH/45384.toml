@@ -1,6 +1,8 @@
-zip_code = "45384"
-state = "OH"
 city = "Wilberforce"
 county = "Greene"
-longitude = -83.878088
 latitude = 39.712811
+longitude = -83.878088
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45384"
+

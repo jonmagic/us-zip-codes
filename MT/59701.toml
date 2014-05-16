@@ -1,6 +1,8 @@
-zip_code = "59701"
-state = "MT"
 city = "Butte"
 county = "Silver Bow"
-longitude = -112.598765
 latitude = 45.997895
+longitude = -112.598765
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59701"
+

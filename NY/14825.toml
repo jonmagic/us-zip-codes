@@ -1,6 +1,8 @@
-zip_code = "14825"
-state = "NY"
 city = "Chemung"
 county = "Chemung"
-longitude = -76.607029
 latitude = 42.052426
+longitude = -76.607029
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14825"
+

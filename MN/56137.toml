@@ -1,6 +1,8 @@
-zip_code = "56137"
-state = "MN"
 city = "Heron Lake"
 county = "Jackson"
-longitude = -95.320571
 latitude = 43.795977
+longitude = -95.320571
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56137"
+

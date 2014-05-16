@@ -1,6 +1,8 @@
-zip_code = "81101"
-state = "CO"
 city = "Alamosa"
 county = "Alamosa"
-longitude = -105.790967
 latitude = 37.479933
+longitude = -105.790967
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81101"
+

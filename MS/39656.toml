@@ -1,6 +1,8 @@
-zip_code = "39656"
-state = "MS"
 city = "Oak Vale"
 county = "Lawrence"
-longitude = -90.036767
 latitude = 31.48225
+longitude = -90.036767
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39656"
+

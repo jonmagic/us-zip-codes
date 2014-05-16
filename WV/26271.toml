@@ -1,6 +1,8 @@
-zip_code = "26271"
-state = "WV"
 city = "Hendricks"
 county = "Tucker"
-longitude = -79.563678
 latitude = 39.117906
+longitude = -79.563678
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26271"
+

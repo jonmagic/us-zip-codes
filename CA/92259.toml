@@ -1,6 +1,8 @@
-zip_code = "92259"
-state = "CA"
 city = "Ocotillo"
 county = "Imperial"
-longitude = -115.823448
 latitude = 32.98097
+longitude = -115.823448
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92259"
+

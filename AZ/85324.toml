@@ -1,6 +1,8 @@
-zip_code = "85324"
-state = "AZ"
 city = "Black Canyon City"
 county = "Yavapai"
-longitude = -112.134005
 latitude = 34.075451
+longitude = -112.134005
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85324"
+

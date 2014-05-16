@@ -1,6 +1,8 @@
-zip_code = "52222"
-state = "IA"
 city = "Deep River"
 county = "Poweshiek"
-longitude = -92.373998
 latitude = 41.59165
+longitude = -92.373998
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52222"
+

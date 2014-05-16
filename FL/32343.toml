@@ -1,6 +1,8 @@
-zip_code = "32343"
-state = "FL"
 city = "Midway"
 county = "Gadsden"
-longitude = -84.429835
 latitude = 30.565524
+longitude = -84.429835
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32343"
+

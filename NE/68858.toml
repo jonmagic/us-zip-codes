@@ -1,6 +1,8 @@
-zip_code = "68858"
-state = "NE"
 city = "Miller"
 county = "Buffalo"
-longitude = -99.364921
 latitude = 40.952708
+longitude = -99.364921
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68858"
+

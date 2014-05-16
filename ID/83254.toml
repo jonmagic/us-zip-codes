@@ -1,6 +1,8 @@
-zip_code = "83254"
-state = "ID"
 city = "Montpelier"
 county = "Bear Lake"
-longitude = -111.29681
 latitude = 42.28644
+longitude = -111.29681
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83254"
+

@@ -1,6 +1,8 @@
-zip_code = "93286"
-state = "CA"
 city = "Woodlake"
 county = "Tulare"
-longitude = -119.122283
 latitude = 36.465943
+longitude = -119.122283
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93286"
+

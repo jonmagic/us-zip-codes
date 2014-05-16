@@ -1,6 +1,8 @@
-zip_code = "43506"
-state = "OH"
 city = "Bryan"
 county = "Williams"
-longitude = -84.585209
 latitude = 41.553851
+longitude = -84.585209
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43506"
+

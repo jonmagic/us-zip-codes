@@ -1,6 +1,8 @@
-zip_code = "79364"
-state = "TX"
 city = "Slaton"
 county = "Lubbock"
-longitude = -101.809124
 latitude = 33.553496
+longitude = -101.809124
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79364"
+

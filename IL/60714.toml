@@ -1,6 +1,8 @@
-zip_code = "60714"
-state = "IL"
 city = "Niles"
 county = "Cook"
-longitude = -87.811163
 latitude = 42.031179
+longitude = -87.811163
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60714"
+

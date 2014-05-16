@@ -1,6 +1,8 @@
-zip_code = "52738"
-state = "IA"
 city = "Columbus Junction"
 county = "Louisa"
-longitude = -91.300624
 latitude = 41.292638
+longitude = -91.300624
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52738"
+

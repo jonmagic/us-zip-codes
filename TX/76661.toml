@@ -1,6 +1,8 @@
-zip_code = "76661"
-state = "TX"
 city = "Marlin"
 county = "Falls"
-longitude = -96.885602
 latitude = 31.249621
+longitude = -96.885602
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76661"
+

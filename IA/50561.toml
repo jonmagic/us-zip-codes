@@ -1,6 +1,8 @@
-zip_code = "50561"
-state = "IA"
 city = "Lytton"
 county = "Calhoun"
-longitude = -94.821328
 latitude = 42.421312
+longitude = -94.821328
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50561"
+

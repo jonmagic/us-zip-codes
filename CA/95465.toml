@@ -1,6 +1,8 @@
-zip_code = "95465"
-state = "CA"
 city = "Occidental"
 county = "Sonoma"
-longitude = -123.020406
 latitude = 38.406676
+longitude = -123.020406
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95465"
+

@@ -1,6 +1,8 @@
-zip_code = "52066"
-state = "IA"
 city = "North Buena Vista"
 county = "Clayton"
-longitude = -90.986518
 latitude = 42.667786
+longitude = -90.986518
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52066"
+

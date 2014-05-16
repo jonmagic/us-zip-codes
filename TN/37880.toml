@@ -1,6 +1,8 @@
-zip_code = "37880"
-state = "TN"
 city = "Ten Mile"
 county = "Meigs"
-longitude = -84.825054
 latitude = 35.520244
+longitude = -84.825054
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37880"
+

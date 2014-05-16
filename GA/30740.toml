@@ -1,6 +1,8 @@
-zip_code = "30740"
-state = "GA"
 city = "Rocky Face"
 county = "Whitfield"
-longitude = -85.072681
 latitude = 34.766976
+longitude = -85.072681
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30740"
+

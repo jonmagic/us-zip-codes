@@ -1,6 +1,8 @@
-zip_code = "55072"
-state = "MN"
 city = "Sandstone"
 county = "Pine"
-longitude = -92.588959
 latitude = 46.132453
+longitude = -92.588959
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55072"
+

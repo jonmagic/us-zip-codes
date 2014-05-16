@@ -1,6 +1,8 @@
-zip_code = "89020"
-state = "NV"
 city = "Amargosa Valley"
 county = "Nye"
-longitude = -116.549634
 latitude = 36.539018
+longitude = -116.549634
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89020"
+

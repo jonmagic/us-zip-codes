@@ -1,6 +1,8 @@
-zip_code = "49865"
-state = "MI"
 city = "National Mine"
 county = "Marquette"
-longitude = -87.614805
 latitude = 46.604141
+longitude = -87.614805
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49865"
+

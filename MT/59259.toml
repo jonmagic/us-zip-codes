@@ -1,6 +1,8 @@
-zip_code = "59259"
-state = "MT"
 city = "Richey"
 county = "Dawson"
-longitude = -104.988111
 latitude = 47.463408
+longitude = -104.988111
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59259"
+

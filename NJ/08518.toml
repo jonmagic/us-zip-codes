@@ -1,6 +1,8 @@
-zip_code = "08518"
-state = "NJ"
 city = "Florence"
 county = "Burlington"
-longitude = -74.738863
 latitude = 40.12486
+longitude = -74.738863
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08518"
+

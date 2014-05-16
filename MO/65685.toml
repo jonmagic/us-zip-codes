@@ -1,6 +1,8 @@
-zip_code = "65685"
-state = "MO"
 city = "Louisburg"
 county = "Dallas"
-longitude = -93.018874
 latitude = 37.6596
+longitude = -93.018874
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65685"
+

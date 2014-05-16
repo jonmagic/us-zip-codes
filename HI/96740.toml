@@ -1,6 +1,8 @@
-zip_code = "96740"
-state = "HI"
 city = "Kailua Kona"
 county = "Hawaii"
-longitude = -155.936565
 latitude = 19.674123
+longitude = -155.936565
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96740"
+

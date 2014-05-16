@@ -1,6 +1,8 @@
-zip_code = "43917"
-state = "OH"
 city = "Dillonvale"
 county = "Jefferson"
-longitude = -80.77266
 latitude = 40.333811
+longitude = -80.77266
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43917"
+

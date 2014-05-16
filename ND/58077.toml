@@ -1,6 +1,8 @@
-zip_code = "58077"
-state = "ND"
 city = "Walcott"
 county = "Richland"
-longitude = -97.013693
 latitude = 46.445916
+longitude = -97.013693
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58077"
+

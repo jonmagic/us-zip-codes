@@ -1,6 +1,8 @@
-zip_code = "96746"
-state = "HI"
 city = "Kapaa"
 county = "Kauai"
-longitude = -159.406197
 latitude = 22.074197
+longitude = -159.406197
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96746"
+

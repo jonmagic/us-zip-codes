@@ -1,6 +1,8 @@
-zip_code = "43348"
-state = "OH"
 city = "Russells Point"
 county = "Logan"
-longitude = -83.890243
 latitude = 40.402746
+longitude = -83.890243
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43348"
+

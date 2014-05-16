@@ -1,6 +1,8 @@
-zip_code = "55315"
-state = "MN"
 city = "Carver"
 county = "Carver"
-longitude = -93.701637
 latitude = 44.723162
+longitude = -93.701637
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55315"
+

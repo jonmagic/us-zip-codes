@@ -1,6 +1,8 @@
-zip_code = "80745"
-state = "CO"
 city = "Padroni"
 county = "Logan"
-longitude = -103.372814
 latitude = 40.884156
+longitude = -103.372814
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80745"
+

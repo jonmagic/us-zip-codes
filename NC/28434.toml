@@ -1,6 +1,8 @@
-zip_code = "28434"
-state = "NC"
 city = "Council"
 county = "Bladen"
-longitude = -78.477201
 latitude = 34.471042
+longitude = -78.477201
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28434"
+

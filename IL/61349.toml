@@ -1,6 +1,8 @@
-zip_code = "61349"
-state = "IL"
 city = "Ohio"
 county = "Bureau"
-longitude = -89.596261
 latitude = 41.459337
+longitude = -89.596261
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61349"
+

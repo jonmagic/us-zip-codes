@@ -1,6 +1,8 @@
-zip_code = "31816"
-state = "GA"
 city = "Manchester"
 county = "Meriwether"
-longitude = -84.615478
 latitude = 32.91107
+longitude = -84.615478
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31816"
+

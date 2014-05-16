@@ -1,6 +1,8 @@
-zip_code = "51001"
-state = "IA"
 city = "Akron"
 county = "Plymouth"
-longitude = -96.462952
 latitude = 42.822482
+longitude = -96.462952
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51001"
+

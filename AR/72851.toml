@@ -1,6 +1,8 @@
-zip_code = "72851"
-state = "AR"
 city = "New Blaine"
 county = "Logan"
-longitude = -93.452038
 latitude = 35.264248
+longitude = -93.452038
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72851"
+

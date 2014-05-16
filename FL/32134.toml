@@ -1,6 +1,8 @@
-zip_code = "32134"
-state = "FL"
 city = "Fort Mc Coy"
 county = "Marion"
-longitude = -81.855082
 latitude = 29.390965
+longitude = -81.855082
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32134"
+

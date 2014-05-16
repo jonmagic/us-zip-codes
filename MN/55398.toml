@@ -1,6 +1,8 @@
-zip_code = "55398"
-state = "MN"
 city = "Zimmerman"
 county = "Sherburne"
-longitude = -93.602475
 latitude = 45.467503
+longitude = -93.602475
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55398"
+

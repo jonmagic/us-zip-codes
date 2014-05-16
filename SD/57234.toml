@@ -1,6 +1,8 @@
-zip_code = "57234"
-state = "SD"
 city = "Estelline"
 county = "Hamlin"
-longitude = -97.188324
 latitude = 44.673762
+longitude = -97.188324
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57234"
+

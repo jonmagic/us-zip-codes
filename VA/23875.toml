@@ -1,6 +1,8 @@
-zip_code = "23875"
-state = "VA"
 city = "Prince George"
 county = "Prince George"
-longitude = -77.263465
 latitude = 37.234733
+longitude = -77.263465
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23875"
+

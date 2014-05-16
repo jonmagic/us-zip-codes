@@ -1,6 +1,8 @@
-zip_code = "32420"
-state = "FL"
 city = "Alford"
 county = "Jackson"
-longitude = -85.375585
 latitude = 30.641158
+longitude = -85.375585
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32420"
+

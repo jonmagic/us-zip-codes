@@ -1,6 +1,8 @@
-zip_code = "27844"
-state = "NC"
 city = "Hollister"
 county = "Halifax"
-longitude = -77.706792
 latitude = 36.237677
+longitude = -77.706792
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27844"
+

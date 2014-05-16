@@ -1,6 +1,8 @@
-zip_code = "97378"
-state = "OR"
 city = "Sheridan"
 county = "Yamhill"
-longitude = -123.385904
 latitude = 45.145945
+longitude = -123.385904
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97378"
+

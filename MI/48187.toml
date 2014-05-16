@@ -1,6 +1,8 @@
-zip_code = "48187"
-state = "MI"
 city = "Canton"
 county = "Wayne"
-longitude = -83.418143
 latitude = 42.374118
+longitude = -83.418143
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48187"
+

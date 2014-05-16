@@ -1,6 +1,8 @@
-zip_code = "18078"
-state = "PA"
 city = "Schnecksville"
 county = "Lehigh"
-longitude = -75.620901
 latitude = 40.669675
+longitude = -75.620901
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18078"
+

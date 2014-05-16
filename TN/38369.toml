@@ -1,6 +1,8 @@
-zip_code = "38369"
-state = "TN"
 city = "Rutherford"
 county = "Gibson"
-longitude = -88.959639
 latitude = 36.127152
+longitude = -88.959639
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38369"
+

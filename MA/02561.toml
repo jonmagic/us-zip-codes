@@ -1,6 +1,8 @@
-zip_code = "02561"
-state = "MA"
 city = "Sagamore"
 county = "Barnstable"
-longitude = -70.533664
 latitude = 41.770254
+longitude = -70.533664
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02561"
+

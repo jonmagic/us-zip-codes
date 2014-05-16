@@ -1,6 +1,8 @@
-zip_code = "08890"
-state = "NJ"
 city = "Zarephath"
 county = "Somerset"
-longitude = -74.578872
 latitude = 40.536069
+longitude = -74.578872
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08890"
+

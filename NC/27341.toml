@@ -1,6 +1,8 @@
-zip_code = "27341"
-state = "NC"
 city = "Seagrove"
 county = "Randolph"
-longitude = -79.698691
 latitude = 35.562753
+longitude = -79.698691
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27341"
+

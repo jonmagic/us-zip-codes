@@ -1,6 +1,8 @@
-zip_code = "65456"
-state = "MO"
 city = "Davisville"
 county = "Crawford"
-longitude = -91.211555
 latitude = 37.786953
+longitude = -91.211555
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65456"
+

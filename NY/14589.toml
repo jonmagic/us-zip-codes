@@ -1,6 +1,8 @@
-zip_code = "14589"
-state = "NY"
 city = "Williamson"
 county = "Wayne"
-longitude = -77.163811
 latitude = 43.23941
+longitude = -77.163811
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14589"
+

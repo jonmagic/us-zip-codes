@@ -1,6 +1,8 @@
-zip_code = "71435"
-state = "LA"
 city = "Grayson"
 county = "Caldwell"
-longitude = -92.169835
 latitude = 32.066996
+longitude = -92.169835
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71435"
+

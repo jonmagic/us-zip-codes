@@ -1,6 +1,8 @@
-zip_code = "56641"
-state = "MN"
 city = "Federal Dam"
 county = "Cass"
-longitude = -94.263384
 latitude = 47.206552
+longitude = -94.263384
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56641"
+

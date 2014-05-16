@@ -1,6 +1,8 @@
-zip_code = "83350"
-state = "ID"
 city = "Rupert"
 county = "Minidoka"
-longitude = -113.648077
 latitude = 42.688753
+longitude = -113.648077
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83350"
+

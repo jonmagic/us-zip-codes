@@ -1,6 +1,8 @@
-zip_code = "98621"
-state = "WA"
 city = "Grays River"
 county = "Wahkiakum"
-longitude = -123.597874
 latitude = 46.355461
+longitude = -123.597874
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98621"
+

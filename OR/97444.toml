@@ -1,6 +1,8 @@
-zip_code = "97444"
-state = "OR"
 city = "Gold Beach"
 county = "Curry"
-longitude = -124.334383
 latitude = 42.410099
+longitude = -124.334383
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97444"
+

@@ -1,6 +1,8 @@
-zip_code = "40144"
-state = "KY"
 city = "Harned"
 county = "Breckinridge"
-longitude = -86.414768
 latitude = 37.802295
+longitude = -86.414768
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40144"
+

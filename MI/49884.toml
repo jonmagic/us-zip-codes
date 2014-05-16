@@ -1,6 +1,8 @@
-zip_code = "49884"
-state = "MI"
 city = "Shingleton"
 county = "Alger"
-longitude = -86.367899
 latitude = 46.434256
+longitude = -86.367899
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49884"
+

@@ -1,6 +1,8 @@
-zip_code = "97267"
-state = "OR"
 city = "Portland"
 county = "Clackamas"
-longitude = -122.614353
 latitude = 45.402142
+longitude = -122.614353
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97267"
+

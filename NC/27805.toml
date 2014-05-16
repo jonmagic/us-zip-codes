@@ -1,6 +1,8 @@
-zip_code = "27805"
-state = "NC"
 city = "Aulander"
 county = "Bertie"
-longitude = -77.097225
 latitude = 36.169398
+longitude = -77.097225
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27805"
+

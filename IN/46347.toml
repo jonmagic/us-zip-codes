@@ -1,6 +1,8 @@
-zip_code = "46347"
-state = "IN"
 city = "Kouts"
 county = "Porter"
-longitude = -87.066825
 latitude = 41.301319
+longitude = -87.066825
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46347"
+

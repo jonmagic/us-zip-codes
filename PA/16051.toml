@@ -1,6 +1,8 @@
-zip_code = "16051"
-state = "PA"
 city = "Portersville"
 county = "Butler"
-longitude = -80.072356
 latitude = 41.01782
+longitude = -80.072356
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16051"
+

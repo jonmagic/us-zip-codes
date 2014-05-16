@@ -1,6 +1,8 @@
-zip_code = "88323"
-state = "NM"
 city = "Fort Stanton"
 county = "Lincoln"
-longitude = -105.873956
 latitude = 33.644358
+longitude = -105.873956
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88323"
+

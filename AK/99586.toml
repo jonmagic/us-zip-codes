@@ -1,6 +1,8 @@
-zip_code = "99586"
-state = "AK"
 city = "Gakona"
 county = "Valdez Cordova"
-longitude = -144.991027
 latitude = 61.470966
+longitude = -144.991027
+state = ""
+state_code_alpha2 = ""
+zip_code = "99586"
+

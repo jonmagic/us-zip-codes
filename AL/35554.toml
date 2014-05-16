@@ -1,6 +1,8 @@
-zip_code = "35554"
-state = "AL"
 city = "Eldridge"
 county = "Walker"
-longitude = -87.613508
 latitude = 33.92856
+longitude = -87.613508
+state = ""
+state_code_alpha2 = ""
+zip_code = "35554"
+

@@ -1,6 +1,8 @@
-zip_code = "97884"
-state = "OR"
 city = "Unity"
 county = "Baker"
-longitude = -118.195489
 latitude = 44.456084
+longitude = -118.195489
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97884"
+

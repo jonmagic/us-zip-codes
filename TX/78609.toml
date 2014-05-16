@@ -1,6 +1,8 @@
-zip_code = "78609"
-state = "TX"
 city = "Buchanan Dam"
 county = "Llano"
-longitude = -98.427288
 latitude = 30.766448
+longitude = -98.427288
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78609"
+

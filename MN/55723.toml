@@ -1,6 +1,8 @@
-zip_code = "55723"
-state = "MN"
 city = "Cook"
 county = "Saint Louis"
-longitude = -92.768568
 latitude = 47.877563
+longitude = -92.768568
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55723"
+

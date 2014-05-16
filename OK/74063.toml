@@ -1,6 +1,8 @@
-zip_code = "74063"
-state = "OK"
 city = "Sand Springs"
 county = "Tulsa"
-longitude = -96.186776
 latitude = 36.118535
+longitude = -96.186776
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74063"
+

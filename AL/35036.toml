@@ -1,6 +1,8 @@
-zip_code = "35036"
-state = "AL"
 city = "Brookside"
 county = "Jefferson"
-longitude = -86.916202
 latitude = 33.63628
+longitude = -86.916202
+state = ""
+state_code_alpha2 = ""
+zip_code = "35036"
+

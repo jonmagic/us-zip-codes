@@ -1,6 +1,8 @@
-zip_code = "78368"
-state = "TX"
 city = "Mathis"
 county = "San Patricio"
-longitude = -97.539384
 latitude = 28.000693
+longitude = -97.539384
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78368"
+

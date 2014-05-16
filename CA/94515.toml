@@ -1,6 +1,8 @@
-zip_code = "94515"
-state = "CA"
 city = "Calistoga"
 county = "Napa"
-longitude = -122.507742
 latitude = 38.615055
+longitude = -122.507742
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94515"
+

@@ -1,6 +1,8 @@
-zip_code = "20746"
-state = "MD"
 city = "Suitland"
 county = "Prince Georges"
-longitude = -76.912745
 latitude = 38.834912
+longitude = -76.912745
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20746"
+

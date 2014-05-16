@@ -1,6 +1,8 @@
-zip_code = "99004"
-state = "WA"
 city = "Cheney"
 county = "Spokane"
-longitude = -117.500285
 latitude = 47.6067
+longitude = -117.500285
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99004"
+

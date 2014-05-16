@@ -1,6 +1,8 @@
-zip_code = "97532"
-state = "OR"
 city = "Merlin"
 county = "Josephine"
-longitude = -123.525826
 latitude = 42.400936
+longitude = -123.525826
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97532"
+

@@ -1,6 +1,8 @@
-zip_code = "86046"
-state = "AZ"
 city = "Williams"
 county = "Coconino"
-longitude = -112.366031
 latitude = 35.915563
+longitude = -112.366031
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86046"
+

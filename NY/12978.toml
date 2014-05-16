@@ -1,6 +1,8 @@
-zip_code = "12978"
-state = "NY"
 city = "Redford"
 county = "Clinton"
-longitude = -73.761204
 latitude = 44.664956
+longitude = -73.761204
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12978"
+

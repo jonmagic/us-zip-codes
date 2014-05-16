@@ -1,6 +1,8 @@
-zip_code = "44068"
-state = "OH"
 city = "North Kingsville"
 county = "Ashtabula"
-longitude = -80.685034
 latitude = 41.904594
+longitude = -80.685034
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44068"
+

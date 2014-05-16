@@ -1,6 +1,8 @@
-zip_code = "68457"
-state = "NE"
 city = "Verdon"
 county = "Richardson"
-longitude = -95.710477
 latitude = 40.149228
+longitude = -95.710477
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68457"
+

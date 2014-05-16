@@ -1,6 +1,8 @@
-zip_code = "26375"
-state = "WV"
 city = "Industrial"
 county = "Harrison"
-longitude = -80.575379
 latitude = 39.279818
+longitude = -80.575379
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26375"
+

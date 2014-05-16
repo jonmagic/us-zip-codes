@@ -1,6 +1,8 @@
-zip_code = "17033"
-state = "PA"
 city = "Hershey"
 county = "Dauphin"
-longitude = -76.636357
 latitude = 40.269748
+longitude = -76.636357
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17033"
+

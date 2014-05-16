@@ -1,6 +1,8 @@
-zip_code = "01222"
-state = "MA"
 city = "Ashley Falls"
 county = "Berkshire"
-longitude = -73.318695
 latitude = 42.185969
+longitude = -73.318695
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01222"
+

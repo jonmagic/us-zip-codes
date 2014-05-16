@@ -1,6 +1,8 @@
-zip_code = "28036"
-state = "NC"
 city = "Davidson"
 county = "Mecklenburg"
-longitude = -80.844594
 latitude = 35.283427
+longitude = -80.844594
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28036"
+

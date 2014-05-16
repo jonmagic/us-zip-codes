@@ -1,6 +1,8 @@
-zip_code = "33521"
-state = "FL"
 city = "Coleman"
 county = "Sumter"
-longitude = -82.059745
 latitude = 28.775537
+longitude = -82.059745
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33521"
+

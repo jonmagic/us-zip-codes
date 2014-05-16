@@ -1,6 +1,8 @@
-zip_code = "97113"
-state = "OR"
 city = "Cornelius"
 county = "Washington"
-longitude = -122.920629
 latitude = 45.600635
+longitude = -122.920629
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97113"
+

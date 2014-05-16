@@ -1,6 +1,8 @@
-zip_code = "42431"
-state = "KY"
 city = "Madisonville"
 county = "Hopkins"
-longitude = -87.532576
 latitude = 37.299458
+longitude = -87.532576
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42431"
+

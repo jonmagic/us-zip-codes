@@ -1,6 +1,8 @@
-zip_code = "41571"
-state = "KY"
 city = "Varney"
 county = "Pike"
-longitude = -82.507019
 latitude = 37.621659
+longitude = -82.507019
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41571"
+

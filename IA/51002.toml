@@ -1,6 +1,8 @@
-zip_code = "51002"
-state = "IA"
 city = "Alta"
 county = "Buena Vista"
-longitude = -95.151121
 latitude = 42.735364
+longitude = -95.151121
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51002"
+

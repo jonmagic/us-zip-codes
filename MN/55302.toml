@@ -1,6 +1,8 @@
-zip_code = "55302"
-state = "MN"
 city = "Annandale"
 county = "Wright"
-longitude = -94.105948
 latitude = 45.218652
+longitude = -94.105948
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55302"
+

@@ -1,6 +1,8 @@
-zip_code = "10965"
-state = "NY"
 city = "Pearl River"
 county = "Rockland"
-longitude = -74.018283
 latitude = 41.061476
+longitude = -74.018283
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10965"
+

@@ -1,6 +1,8 @@
-zip_code = "55353"
-state = "MN"
 city = "Kimball"
 county = "Stearns"
-longitude = -94.309928
 latitude = 45.36261
+longitude = -94.309928
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55353"
+

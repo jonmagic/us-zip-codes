@@ -1,6 +1,8 @@
-zip_code = "28021"
-state = "NC"
 city = "Cherryville"
 county = "Gaston"
-longitude = -81.236958
 latitude = 35.306707
+longitude = -81.236958
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28021"
+

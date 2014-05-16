@@ -1,6 +1,8 @@
-zip_code = "49319"
-state = "MI"
 city = "Cedar Springs"
 county = "Kent"
-longitude = -85.514105
 latitude = 43.175953
+longitude = -85.514105
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49319"
+

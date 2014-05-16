@@ -1,6 +1,8 @@
-zip_code = "36453"
-state = "AL"
 city = "Kinston"
 county = "Coffee"
-longitude = -86.124023
 latitude = 31.238943
+longitude = -86.124023
+state = ""
+state_code_alpha2 = ""
+zip_code = "36453"
+

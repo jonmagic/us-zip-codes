@@ -1,6 +1,8 @@
-zip_code = "54980"
-state = "WI"
 city = "Waukau"
 county = "Winnebago"
-longitude = -88.771167
 latitude = 43.988578
+longitude = -88.771167
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54980"
+

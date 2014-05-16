@@ -1,6 +1,8 @@
-zip_code = "75426"
-state = "TX"
 city = "Clarksville"
 county = "Red River"
-longitude = -95.096511
 latitude = 33.61306
+longitude = -95.096511
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75426"
+

@@ -1,6 +1,8 @@
-zip_code = "54246"
-state = "WI"
 city = "Washington Island"
 county = "Door"
-longitude = -86.897472
 latitude = 45.373786
+longitude = -86.897472
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54246"
+

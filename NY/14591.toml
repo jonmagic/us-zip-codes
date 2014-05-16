@@ -1,6 +1,8 @@
-zip_code = "14591"
-state = "NY"
 city = "Wyoming"
 county = "Wyoming"
-longitude = -78.102549
 latitude = 42.818578
+longitude = -78.102549
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14591"
+

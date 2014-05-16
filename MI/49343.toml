@@ -1,6 +1,8 @@
-zip_code = "49343"
-state = "MI"
 city = "Sand Lake"
 county = "Kent"
-longitude = -85.504509
 latitude = 43.258296
+longitude = -85.504509
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49343"
+

@@ -1,6 +1,8 @@
-zip_code = "71031"
-state = "LA"
 city = "Goldonna"
 county = "Natchitoches"
-longitude = -92.945356
 latitude = 31.953139
+longitude = -92.945356
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71031"
+

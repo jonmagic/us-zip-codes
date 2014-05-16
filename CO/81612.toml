@@ -1,6 +1,8 @@
-zip_code = "81612"
-state = "CO"
 city = "Aspen"
 county = "Pitkin"
-longitude = -106.882774
 latitude = 39.223416
+longitude = -106.882774
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81612"
+

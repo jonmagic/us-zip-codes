@@ -1,6 +1,8 @@
-zip_code = "72142"
-state = "AR"
 city = "Scott"
 county = "Pulaski"
-longitude = -92.152336
 latitude = 34.670904
+longitude = -92.152336
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72142"
+

@@ -1,6 +1,8 @@
-zip_code = "50070"
-state = "IA"
 city = "Dexter"
 county = "Dallas"
-longitude = -94.205252
 latitude = 41.531827
+longitude = -94.205252
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50070"
+

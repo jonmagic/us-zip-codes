@@ -1,6 +1,8 @@
-zip_code = "28395"
-state = "NC"
 city = "Wade"
 county = "Cumberland"
-longitude = -78.745001
 latitude = 35.142518
+longitude = -78.745001
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28395"
+

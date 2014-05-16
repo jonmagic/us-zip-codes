@@ -1,6 +1,8 @@
-zip_code = "45324"
-state = "OH"
 city = "Fairborn"
 county = "Greene"
-longitude = -84.014834
 latitude = 39.728549
+longitude = -84.014834
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45324"
+

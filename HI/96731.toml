@@ -1,6 +1,8 @@
-zip_code = "96731"
-state = "HI"
 city = "Kahuku"
 county = "Honolulu"
-longitude = -157.935304
 latitude = 21.6277
+longitude = -157.935304
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96731"
+

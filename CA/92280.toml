@@ -1,6 +1,8 @@
-zip_code = "92280"
-state = "CA"
 city = "Vidal"
 county = "San Bernardino"
-longitude = -115.286691
 latitude = 34.200026
+longitude = -115.286691
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92280"
+

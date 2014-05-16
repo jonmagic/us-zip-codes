@@ -1,6 +1,8 @@
-zip_code = "20686"
-state = "MD"
 city = "Saint Marys City"
 county = "Saint Marys"
-longitude = -76.420738
 latitude = 38.188796
+longitude = -76.420738
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20686"
+

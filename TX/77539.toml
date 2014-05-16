@@ -1,6 +1,8 @@
-zip_code = "77539"
-state = "TX"
 city = "Dickinson"
 county = "Galveston"
-longitude = -95.034525
 latitude = 29.458472
+longitude = -95.034525
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77539"
+

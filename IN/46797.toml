@@ -1,6 +1,8 @@
-zip_code = "46797"
-state = "IN"
 city = "Woodburn"
 county = "Allen"
-longitude = -84.874249
 latitude = 41.125044
+longitude = -84.874249
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46797"
+

@@ -1,6 +1,8 @@
-zip_code = "72938"
-state = "AR"
 city = "Hartford"
 county = "Sebastian"
-longitude = -94.353779
 latitude = 35.060177
+longitude = -94.353779
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72938"
+

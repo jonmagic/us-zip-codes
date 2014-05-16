@@ -1,6 +1,8 @@
-zip_code = "81132"
-state = "CO"
 city = "Del Norte"
 county = "Rio Grande"
-longitude = -106.407311
 latitude = 37.644684
+longitude = -106.407311
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81132"
+

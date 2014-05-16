@@ -1,6 +1,8 @@
-zip_code = "14145"
-state = "NY"
 city = "Strykersville"
 county = "Wyoming"
-longitude = -78.423303
 latitude = 42.733778
+longitude = -78.423303
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14145"
+

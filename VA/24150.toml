@@ -1,6 +1,8 @@
-zip_code = "24150"
-state = "VA"
 city = "Ripplemead"
 county = "Giles"
-longitude = -80.662674
 latitude = 37.37067
+longitude = -80.662674
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24150"
+

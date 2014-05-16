@@ -1,6 +1,8 @@
-zip_code = "15456"
-state = "PA"
 city = "Lemont Furnace"
 county = "Fayette"
-longitude = -79.805549
 latitude = 39.877276
+longitude = -79.805549
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15456"
+

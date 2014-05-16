@@ -1,6 +1,8 @@
-zip_code = "35229"
-state = "AL"
 city = "Birmingham"
 county = "Jefferson"
-longitude = -86.790389
 latitude = 33.462856
+longitude = -86.790389
+state = ""
+state_code_alpha2 = ""
+zip_code = "35229"
+

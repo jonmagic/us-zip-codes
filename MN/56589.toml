@@ -1,6 +1,8 @@
-zip_code = "56589"
-state = "MN"
 city = "Waubun"
 county = "Mahnomen"
-longitude = -95.939849
 latitude = 47.184343
+longitude = -95.939849
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56589"
+

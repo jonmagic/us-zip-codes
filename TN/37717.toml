@@ -1,6 +1,8 @@
-zip_code = "37717"
-state = "TN"
 city = "Clinton"
 county = "Anderson"
-longitude = -84.167208
 latitude = 36.110028
+longitude = -84.167208
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37717"
+

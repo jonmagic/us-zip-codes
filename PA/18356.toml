@@ -1,6 +1,8 @@
-zip_code = "18356"
-state = "PA"
 city = "Shawnee On Delaware"
 county = "Monroe"
-longitude = -75.097435
 latitude = 41.031177
+longitude = -75.097435
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18356"
+

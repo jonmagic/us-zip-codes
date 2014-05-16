@@ -1,6 +1,8 @@
-zip_code = "56136"
-state = "MN"
 city = "Hendricks"
 county = "Lincoln"
-longitude = -96.33771
 latitude = 44.460984
+longitude = -96.33771
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56136"
+

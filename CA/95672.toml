@@ -1,6 +1,8 @@
-zip_code = "95672"
-state = "CA"
 city = "Rescue"
 county = "El Dorado"
-longitude = -120.994305
 latitude = 38.718327
+longitude = -120.994305
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95672"
+

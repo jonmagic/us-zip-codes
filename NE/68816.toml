@@ -1,6 +1,8 @@
-zip_code = "68816"
-state = "NE"
 city = "Archer"
 county = "Merrick"
-longitude = -98.13559
 latitude = 41.140845
+longitude = -98.13559
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68816"
+

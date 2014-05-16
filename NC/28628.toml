@@ -1,6 +1,8 @@
-zip_code = "28628"
-state = "NC"
 city = "Glen Alpine"
 county = "Burke"
-longitude = -81.817998
 latitude = 35.721174
+longitude = -81.817998
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28628"
+

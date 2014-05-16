@@ -1,6 +1,8 @@
-zip_code = "12572"
-state = "NY"
 city = "Rhinebeck"
 county = "Dutchess"
-longitude = -73.760423
 latitude = 41.836548
+longitude = -73.760423
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12572"
+

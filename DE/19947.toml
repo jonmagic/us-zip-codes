@@ -1,6 +1,8 @@
-zip_code = "19947"
-state = "DE"
 city = "Georgetown"
 county = "Sussex"
-longitude = -75.334263
 latitude = 38.632891
+longitude = -75.334263
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19947"
+

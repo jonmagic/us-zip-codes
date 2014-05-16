@@ -1,6 +1,8 @@
-zip_code = "93625"
-state = "CA"
 city = "Fowler"
 county = "Fresno"
-longitude = -119.691869
 latitude = 36.623402
+longitude = -119.691869
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93625"
+

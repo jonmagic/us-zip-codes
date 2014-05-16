@@ -1,6 +1,8 @@
-zip_code = "78661"
-state = "TX"
 city = "Prairie Lea"
 county = "Caldwell"
-longitude = -97.748349
 latitude = 29.751348
+longitude = -97.748349
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78661"
+

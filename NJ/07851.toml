@@ -1,6 +1,8 @@
-zip_code = "07851"
-state = "NJ"
 city = "Layton"
 county = "Sussex"
-longitude = -74.89306
 latitude = 41.178266
+longitude = -74.89306
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07851"
+

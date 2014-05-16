@@ -1,6 +1,8 @@
-zip_code = "65591"
-state = "MO"
 city = "Montreal"
 county = "Camden"
-longitude = -92.744219
 latitude = 38.034962
+longitude = -92.744219
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65591"
+

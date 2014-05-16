@@ -1,6 +1,8 @@
-zip_code = "08872"
-state = "NJ"
 city = "Sayreville"
 county = "Middlesex"
-longitude = -74.334192
 latitude = 40.453358
+longitude = -74.334192
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08872"
+

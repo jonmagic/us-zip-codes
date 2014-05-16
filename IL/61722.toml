@@ -1,6 +1,8 @@
-zip_code = "61722"
-state = "IL"
 city = "Arrowsmith"
 county = "Mclean"
-longitude = -88.632584
 latitude = 40.447857
+longitude = -88.632584
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61722"
+

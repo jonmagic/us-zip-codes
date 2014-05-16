@@ -1,6 +1,8 @@
-zip_code = "24105"
-state = "VA"
 city = "Indian Valley"
 county = "Floyd"
-longitude = -80.585888
 latitude = 36.90035
+longitude = -80.585888
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24105"
+

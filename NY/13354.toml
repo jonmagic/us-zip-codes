@@ -1,6 +1,8 @@
-zip_code = "13354"
-state = "NY"
 city = "Holland Patent"
 county = "Oneida"
-longitude = -75.301263
 latitude = 43.273266
+longitude = -75.301263
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13354"
+

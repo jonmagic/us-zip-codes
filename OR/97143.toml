@@ -1,6 +1,8 @@
-zip_code = "97143"
-state = "OR"
 city = "Netarts"
 county = "Tillamook"
-longitude = -123.945785
 latitude = 45.434049
+longitude = -123.945785
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97143"
+

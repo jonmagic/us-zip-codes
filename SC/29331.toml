@@ -1,6 +1,8 @@
-zip_code = "29331"
-state = "SC"
 city = "Cross Anchor"
 county = "Spartanburg"
-longitude = -81.856745
 latitude = 34.638315
+longitude = -81.856745
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29331"
+

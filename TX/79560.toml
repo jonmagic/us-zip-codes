@@ -1,6 +1,8 @@
-zip_code = "79560"
-state = "TX"
 city = "Sylvester"
 county = "Fisher"
-longitude = -100.234051
 latitude = 32.708935
+longitude = -100.234051
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79560"
+

@@ -1,6 +1,8 @@
-zip_code = "12765"
-state = "NY"
 city = "Neversink"
 county = "Sullivan"
-longitude = -74.60902
 latitude = 41.865656
+longitude = -74.60902
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12765"
+

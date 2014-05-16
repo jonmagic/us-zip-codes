@@ -1,6 +1,8 @@
-zip_code = "67452"
-state = "KS"
 city = "Hunter"
 county = "Mitchell"
-longitude = -98.433673
 latitude = 39.287497
+longitude = -98.433673
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67452"
+

@@ -1,6 +1,8 @@
-zip_code = "24910"
-state = "WV"
 city = "Alderson"
 county = "Greenbrier"
-longitude = -80.572401
 latitude = 37.84394
+longitude = -80.572401
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24910"
+

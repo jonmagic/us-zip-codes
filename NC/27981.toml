@@ -1,6 +1,8 @@
-zip_code = "27981"
-state = "NC"
 city = "Wanchese"
 county = "Dare"
-longitude = -75.643747
 latitude = 35.862175
+longitude = -75.643747
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27981"
+

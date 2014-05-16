@@ -1,6 +1,8 @@
-zip_code = "04410"
-state = "ME"
 city = "Bradford"
 county = "Penobscot"
-longitude = -68.95432
 latitude = 45.058864
+longitude = -68.95432
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04410"
+

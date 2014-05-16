@@ -1,6 +1,8 @@
-zip_code = "79743"
-state = "TX"
 city = "Imperial"
 county = "Pecos"
-longitude = -102.676783
 latitude = 30.711984
+longitude = -102.676783
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79743"
+

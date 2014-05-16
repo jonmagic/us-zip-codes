@@ -1,6 +1,8 @@
-zip_code = "43755"
-state = "OH"
 city = "Lore City"
 county = "Guernsey"
-longitude = -81.435723
 latitude = 40.052671
+longitude = -81.435723
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43755"
+

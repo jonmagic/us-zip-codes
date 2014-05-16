@@ -1,6 +1,8 @@
-zip_code = "02051"
-state = "MA"
 city = "Marshfield Hills"
 county = "Plymouth"
-longitude = -70.734146
 latitude = 42.151202
+longitude = -70.734146
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02051"
+

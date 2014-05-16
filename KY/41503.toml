@@ -1,6 +1,8 @@
-zip_code = "41503"
-state = "KY"
 city = "South Williamson"
 county = "Pike"
-longitude = -82.310048
 latitude = 37.48871
+longitude = -82.310048
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41503"
+

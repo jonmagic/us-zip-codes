@@ -1,6 +1,8 @@
-zip_code = "54001"
-state = "WI"
 city = "Amery"
 county = "Polk"
-longitude = -92.401379
 latitude = 45.348566
+longitude = -92.401379
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54001"
+

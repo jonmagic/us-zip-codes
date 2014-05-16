@@ -1,6 +1,8 @@
-zip_code = "12760"
-state = "NY"
 city = "Long Eddy"
 county = "Sullivan"
-longitude = -75.076328
 latitude = 41.871276
+longitude = -75.076328
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12760"
+

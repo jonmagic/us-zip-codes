@@ -1,6 +1,8 @@
-zip_code = "59332"
-state = "MT"
 city = "Hammond"
 county = "Carter"
-longitude = -104.539066
 latitude = 45.567085
+longitude = -104.539066
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59332"
+

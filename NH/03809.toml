@@ -1,6 +1,8 @@
-zip_code = "03809"
-state = "NH"
 city = "Alton"
 county = "Belknap"
-longitude = -71.222455
 latitude = 43.462586
+longitude = -71.222455
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03809"
+

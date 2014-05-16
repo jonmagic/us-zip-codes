@@ -1,6 +1,8 @@
-zip_code = "99350"
-state = "WA"
 city = "Prosser"
 county = "Benton"
-longitude = -119.559674
 latitude = 46.148328
+longitude = -119.559674
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99350"
+

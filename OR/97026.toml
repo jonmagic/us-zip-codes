@@ -1,6 +1,8 @@
-zip_code = "97026"
-state = "OR"
 city = "Gervais"
 county = "Marion"
-longitude = -122.935106
 latitude = 45.120045
+longitude = -122.935106
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97026"
+

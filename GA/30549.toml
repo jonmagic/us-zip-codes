@@ -1,6 +1,8 @@
-zip_code = "30549"
-state = "GA"
 city = "Jefferson"
 county = "Jackson"
-longitude = -83.589021
 latitude = 34.10601
+longitude = -83.589021
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30549"
+

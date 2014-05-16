@@ -1,6 +1,8 @@
-zip_code = "59529"
-state = "MT"
 city = "Hogeland"
 county = "Blaine"
-longitude = -108.89392
 latitude = 48.360516
+longitude = -108.89392
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59529"
+

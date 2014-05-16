@@ -1,6 +1,8 @@
-zip_code = "48159"
-state = "MI"
 city = "Maybee"
 county = "Monroe"
-longitude = -83.557254
 latitude = 42.041832
+longitude = -83.557254
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48159"
+

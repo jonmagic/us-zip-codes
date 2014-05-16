@@ -1,6 +1,8 @@
-zip_code = "91978"
-state = "CA"
 city = "Spring Valley"
 county = "San Diego"
-longitude = -116.957898
 latitude = 32.733452
+longitude = -116.957898
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91978"
+

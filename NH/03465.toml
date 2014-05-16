@@ -1,6 +1,8 @@
-zip_code = "03465"
-state = "NH"
 city = "Troy"
 county = "Cheshire"
-longitude = -72.279814
 latitude = 42.843617
+longitude = -72.279814
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03465"
+

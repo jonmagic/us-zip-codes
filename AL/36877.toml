@@ -1,6 +1,8 @@
-zip_code = "36877"
-state = "AL"
 city = "Smiths"
 county = "Lee"
-longitude = -85.091498
 latitude = 32.558314
+longitude = -85.091498
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36877"
+

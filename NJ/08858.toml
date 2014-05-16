@@ -1,6 +1,8 @@
-zip_code = "08858"
-state = "NJ"
 city = "Oldwick"
 county = "Hunterdon"
-longitude = -74.752537
 latitude = 40.691798
+longitude = -74.752537
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08858"
+

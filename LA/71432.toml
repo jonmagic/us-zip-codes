@@ -1,6 +1,8 @@
-zip_code = "71432"
-state = "LA"
 city = "Georgetown"
 county = "Grant"
-longitude = -92.470407
 latitude = 31.648593
+longitude = -92.470407
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71432"
+

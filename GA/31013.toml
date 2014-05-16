@@ -1,6 +1,8 @@
-zip_code = "31013"
-state = "GA"
 city = "Clinchfield"
 county = "Houston"
-longitude = -83.692562
 latitude = 32.338639
+longitude = -83.692562
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31013"
+

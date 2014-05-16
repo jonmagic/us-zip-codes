@@ -1,6 +1,8 @@
-zip_code = "49887"
-state = "MI"
 city = "Stephenson"
 county = "Menominee"
-longitude = -87.61396
 latitude = 45.447416
+longitude = -87.61396
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49887"
+

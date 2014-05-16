@@ -1,6 +1,8 @@
-zip_code = "77353"
-state = "TX"
 city = "Magnolia"
 county = "Montgomery"
-longitude = -95.70925
 latitude = 30.180626
+longitude = -95.70925
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77353"
+

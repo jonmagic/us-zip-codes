@@ -1,6 +1,8 @@
-zip_code = "35744"
-state = "AL"
 city = "Dutton"
 county = "Jackson"
-longitude = -85.911106
 latitude = 34.60335
+longitude = -85.911106
+state = ""
+state_code_alpha2 = ""
+zip_code = "35744"
+

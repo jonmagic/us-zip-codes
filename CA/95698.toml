@@ -1,6 +1,8 @@
-zip_code = "95698"
-state = "CA"
 city = "Zamora"
 county = "Yolo"
-longitude = -121.89811
 latitude = 38.782731
+longitude = -121.89811
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95698"
+

@@ -1,6 +1,8 @@
-zip_code = "85227"
-state = "AZ"
 city = "Chandler Heights"
 county = "Maricopa"
-longitude = -111.686171
 latitude = 33.212186
+longitude = -111.686171
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85227"
+

@@ -1,6 +1,8 @@
-zip_code = "55382"
-state = "MN"
 city = "South Haven"
 county = "Wright"
-longitude = -94.165984
 latitude = 45.265248
+longitude = -94.165984
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55382"
+

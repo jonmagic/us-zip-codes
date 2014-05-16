@@ -1,6 +1,8 @@
-zip_code = "90710"
-state = "CA"
 city = "Harbor City"
 county = "Los Angeles"
-longitude = -118.251554
 latitude = 33.791267
+longitude = -118.251554
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90710"
+

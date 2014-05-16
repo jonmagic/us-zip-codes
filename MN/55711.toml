@@ -1,6 +1,8 @@
-zip_code = "55711"
-state = "MN"
 city = "Brookston"
 county = "Saint Louis"
-longitude = -92.680451
 latitude = 46.837747
+longitude = -92.680451
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55711"
+

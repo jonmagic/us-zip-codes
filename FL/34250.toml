@@ -1,6 +1,8 @@
-zip_code = "34250"
-state = "FL"
 city = "Terra Ceia"
 county = "Manatee"
-longitude = -82.583168
 latitude = 27.572236
+longitude = -82.583168
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34250"
+

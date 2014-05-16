@@ -1,6 +1,8 @@
-zip_code = "43527"
-state = "OH"
 city = "Holgate"
 county = "Henry"
-longitude = -84.129612
 latitude = 41.23175
+longitude = -84.129612
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43527"
+

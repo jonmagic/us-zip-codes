@@ -1,6 +1,8 @@
-zip_code = "15089"
-state = "PA"
 city = "West Newton"
 county = "Westmoreland"
-longitude = -79.727237
 latitude = 40.201808
+longitude = -79.727237
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15089"
+

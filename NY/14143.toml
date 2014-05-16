@@ -1,6 +1,8 @@
-zip_code = "14143"
-state = "NY"
 city = "Stafford"
 county = "Genesee"
-longitude = -78.069868
 latitude = 42.975195
+longitude = -78.069868
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14143"
+

@@ -1,6 +1,8 @@
-zip_code = "35553"
-state = "AL"
 city = "Double Springs"
 county = "Winston"
-longitude = -87.360437
 latitude = 34.121357
+longitude = -87.360437
+state = ""
+state_code_alpha2 = ""
+zip_code = "35553"
+

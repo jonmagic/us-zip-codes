@@ -1,6 +1,8 @@
-zip_code = "28775"
-state = "NC"
 city = "Scaly Mountain"
 county = "Macon"
-longitude = -83.327411
 latitude = 35.03107
+longitude = -83.327411
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28775"
+

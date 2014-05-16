@@ -1,6 +1,8 @@
-zip_code = "30010"
-state = "GA"
 city = "Norcross"
 county = "Gwinnett"
-longitude = -84.037859
 latitude = 33.960353
+longitude = -84.037859
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30010"
+

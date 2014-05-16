@@ -1,6 +1,8 @@
-zip_code = "70586"
-state = "LA"
 city = "Ville Platte"
 county = "Evangeline"
-longitude = -92.386968
 latitude = 30.724974
+longitude = -92.386968
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70586"
+

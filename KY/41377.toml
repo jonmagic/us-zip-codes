@@ -1,6 +1,8 @@
-zip_code = "41377"
-state = "KY"
 city = "Talbert"
 county = "Breathitt"
-longitude = -83.444462
 latitude = 37.417538
+longitude = -83.444462
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41377"
+

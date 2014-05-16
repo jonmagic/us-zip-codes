@@ -1,6 +1,8 @@
-zip_code = "45853"
-state = "OH"
 city = "Kalida"
 county = "Putnam"
-longitude = -84.219208
 latitude = 40.979612
+longitude = -84.219208
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45853"
+

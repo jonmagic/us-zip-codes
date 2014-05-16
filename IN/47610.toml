@@ -1,6 +1,8 @@
-zip_code = "47610"
-state = "IN"
 city = "Chandler"
 county = "Warrick"
-longitude = -87.267847
 latitude = 38.054569
+longitude = -87.267847
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47610"
+

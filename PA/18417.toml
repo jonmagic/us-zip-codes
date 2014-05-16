@@ -1,6 +1,8 @@
-zip_code = "18417"
-state = "PA"
 city = "Equinunk"
 county = "Wayne"
-longitude = -75.206086
 latitude = 41.797309
+longitude = -75.206086
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18417"
+

@@ -1,6 +1,8 @@
-zip_code = "38803"
-state = "MS"
 city = "Tupelo"
 county = "Lee"
-longitude = -88.77852
 latitude = 34.187638
+longitude = -88.77852
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38803"
+

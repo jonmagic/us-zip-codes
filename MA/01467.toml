@@ -1,6 +1,8 @@
-zip_code = "01467"
-state = "MA"
 city = "Still River"
 county = "Worcester"
-longitude = -71.613078
 latitude = 42.487056
+longitude = -71.613078
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01467"
+

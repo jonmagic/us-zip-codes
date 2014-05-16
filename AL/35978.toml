@@ -1,6 +1,8 @@
-zip_code = "35978"
-state = "AL"
 city = "Henagar"
 county = "De Kalb"
-longitude = -85.730615
 latitude = 34.600393
+longitude = -85.730615
+state = ""
+state_code_alpha2 = ""
+zip_code = "35978"
+

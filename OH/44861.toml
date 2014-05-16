@@ -1,6 +1,8 @@
-zip_code = "44861"
-state = "OH"
 city = "Old Fort"
 county = "Seneca"
-longitude = -83.15236
 latitude = 41.235206
+longitude = -83.15236
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44861"
+

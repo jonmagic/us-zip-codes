@@ -1,6 +1,8 @@
-zip_code = "98522"
-state = "WA"
 city = "Adna"
 county = "Lewis"
-longitude = -123.298384
 latitude = 46.571323
+longitude = -123.298384
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98522"
+

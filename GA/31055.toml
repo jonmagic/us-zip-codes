@@ -1,6 +1,8 @@
-zip_code = "31055"
-state = "GA"
 city = "Mc Rae"
 county = "Telfair"
-longitude = -82.910927
 latitude = 32.047918
+longitude = -82.910927
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31055"
+

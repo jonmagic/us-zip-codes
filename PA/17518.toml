@@ -1,6 +1,8 @@
-zip_code = "17518"
-state = "PA"
 city = "Drumore"
 county = "Lancaster"
-longitude = -76.249931
 latitude = 39.818309
+longitude = -76.249931
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17518"
+

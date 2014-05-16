@@ -1,6 +1,8 @@
-zip_code = "84756"
-state = "UT"
 city = "Newcastle"
 county = "Iron"
-longitude = -113.627239
 latitude = 37.692401
+longitude = -113.627239
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84756"
+

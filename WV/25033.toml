@@ -1,6 +1,8 @@
-zip_code = "25033"
-state = "WV"
 city = "Buffalo"
 county = "Putnam"
-longitude = -81.924758
 latitude = 38.610603
+longitude = -81.924758
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25033"
+

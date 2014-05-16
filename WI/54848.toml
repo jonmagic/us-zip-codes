@@ -1,6 +1,8 @@
-zip_code = "54848"
-state = "WI"
 city = "Ladysmith"
 county = "Rusk"
-longitude = -91.0943
 latitude = 45.490835
+longitude = -91.0943
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54848"
+

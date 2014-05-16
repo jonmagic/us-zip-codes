@@ -1,6 +1,8 @@
-zip_code = "33831"
-state = "FL"
 city = "Bartow"
 county = "Polk"
-longitude = -81.951673
 latitude = 27.955426
+longitude = -81.951673
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33831"
+

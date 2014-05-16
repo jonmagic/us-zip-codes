@@ -1,6 +1,8 @@
-zip_code = "12568"
-state = "NY"
 city = "Plattekill"
 county = "Ulster"
-longitude = -74.07805
 latitude = 41.641207
+longitude = -74.07805
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12568"
+

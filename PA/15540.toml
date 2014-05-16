@@ -1,6 +1,8 @@
-zip_code = "15540"
-state = "PA"
 city = "Fort Hill"
 county = "Somerset"
-longitude = -79.247161
 latitude = 39.796137
+longitude = -79.247161
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15540"
+

@@ -1,6 +1,8 @@
-zip_code = "72070"
-state = "AR"
 city = "Houston"
 county = "Perry"
-longitude = -92.692323
 latitude = 35.055779
+longitude = -92.692323
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72070"
+

@@ -1,6 +1,8 @@
-zip_code = "54933"
-state = "WI"
 city = "Embarrass"
 county = "Waupaca"
-longitude = -88.704318
 latitude = 44.668605
+longitude = -88.704318
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54933"
+

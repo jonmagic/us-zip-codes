@@ -1,6 +1,8 @@
-zip_code = "63448"
-state = "MO"
 city = "La Grange"
 county = "Lewis"
-longitude = -91.705042
 latitude = 40.059903
+longitude = -91.705042
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63448"
+

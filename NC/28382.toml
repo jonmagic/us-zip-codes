@@ -1,6 +1,8 @@
-zip_code = "28382"
-state = "NC"
 city = "Roseboro"
 county = "Sampson"
-longitude = -78.451568
 latitude = 35.00116
+longitude = -78.451568
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28382"
+

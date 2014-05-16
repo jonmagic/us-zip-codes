@@ -1,6 +1,8 @@
-zip_code = "97225"
-state = "OR"
 city = "Portland"
 county = "Washington"
-longitude = -122.778659
 latitude = 45.498473
+longitude = -122.778659
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97225"
+

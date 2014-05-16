@@ -1,6 +1,8 @@
-zip_code = "54141"
-state = "WI"
 city = "Little Suamico"
 county = "Oconto"
-longitude = -87.995493
 latitude = 44.744566
+longitude = -87.995493
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54141"
+

@@ -1,6 +1,8 @@
-zip_code = "74866"
-state = "OK"
 city = "Saint Louis"
 county = "Pottawatomie"
-longitude = -96.882996
 latitude = 35.181436
+longitude = -96.882996
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74866"
+

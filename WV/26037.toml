@@ -1,6 +1,8 @@
-zip_code = "26037"
-state = "WV"
 city = "Follansbee"
 county = "Brooke"
-longitude = -80.570953
 latitude = 40.335218
+longitude = -80.570953
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26037"
+

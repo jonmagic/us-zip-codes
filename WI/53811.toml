@@ -1,6 +1,8 @@
-zip_code = "53811"
-state = "WI"
 city = "Hazel Green"
 county = "Grant"
-longitude = -90.536322
 latitude = 42.543893
+longitude = -90.536322
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53811"
+

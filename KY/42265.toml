@@ -1,6 +1,8 @@
-zip_code = "42265"
-state = "KY"
 city = "Olmstead"
 county = "Logan"
-longitude = -86.980398
 latitude = 36.759526
+longitude = -86.980398
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42265"
+

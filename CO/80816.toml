@@ -1,6 +1,8 @@
-zip_code = "80816"
-state = "CO"
 city = "Florissant"
 county = "Teller"
-longitude = -105.190895
 latitude = 38.855231
+longitude = -105.190895
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80816"
+

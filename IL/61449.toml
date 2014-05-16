@@ -1,6 +1,8 @@
-zip_code = "61449"
-state = "IL"
 city = "La Fayette"
 county = "Stark"
-longitude = -89.97363
 latitude = 41.109823
+longitude = -89.97363
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61449"
+

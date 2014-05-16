@@ -1,6 +1,8 @@
-zip_code = "83238"
-state = "ID"
 city = "Geneva"
 county = "Bear Lake"
-longitude = -111.088609
 latitude = 42.331048
+longitude = -111.088609
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83238"
+

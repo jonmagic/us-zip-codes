@@ -1,6 +1,8 @@
-zip_code = "72358"
-state = "AR"
 city = "Luxora"
 county = "Mississippi"
-longitude = -89.887854
 latitude = 35.773408
+longitude = -89.887854
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72358"
+

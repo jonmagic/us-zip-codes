@@ -1,6 +1,8 @@
-zip_code = "68003"
-state = "NE"
 city = "Ashland"
 county = "Saunders"
-longitude = -96.577634
 latitude = 41.102696
+longitude = -96.577634
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68003"
+

@@ -1,6 +1,8 @@
-zip_code = "21758"
-state = "MD"
 city = "Knoxville"
 county = "Frederick"
-longitude = -77.620514
 latitude = 39.34924
+longitude = -77.620514
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21758"
+

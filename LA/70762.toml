@@ -1,6 +1,8 @@
-zip_code = "70762"
-state = "LA"
 city = "Oscar"
 county = "Pointe Coupee"
-longitude = -91.456649
 latitude = 30.616102
+longitude = -91.456649
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70762"
+

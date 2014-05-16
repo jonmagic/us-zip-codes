@@ -1,6 +1,8 @@
-zip_code = "13801"
-state = "NY"
 city = "Mc Donough"
 county = "Chenango"
-longitude = -75.731309
 latitude = 42.49712
+longitude = -75.731309
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13801"
+

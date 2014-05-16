@@ -1,6 +1,8 @@
-zip_code = "77350"
-state = "TX"
 city = "Leggett"
 county = "Polk"
-longitude = -94.856052
 latitude = 30.856814
+longitude = -94.856052
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77350"
+

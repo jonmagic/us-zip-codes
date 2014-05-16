@@ -1,6 +1,8 @@
-zip_code = "70532"
-state = "LA"
 city = "Elton"
 county = "Jefferson Davis"
-longitude = -92.71368
 latitude = 30.426249
+longitude = -92.71368
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70532"
+

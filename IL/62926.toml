@@ -1,6 +1,8 @@
-zip_code = "62926"
-state = "IL"
 city = "Dongola"
 county = "Union"
-longitude = -89.225572
 latitude = 37.42204
+longitude = -89.225572
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62926"
+

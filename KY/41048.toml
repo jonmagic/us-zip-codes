@@ -1,6 +1,8 @@
-zip_code = "41048"
-state = "KY"
 city = "Hebron"
 county = "Boone"
-longitude = -84.712389
 latitude = 39.086656
+longitude = -84.712389
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41048"
+

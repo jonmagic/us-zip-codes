@@ -1,6 +1,8 @@
-zip_code = "17543"
-state = "PA"
 city = "Lititz"
 county = "Lancaster"
-longitude = -76.455212
 latitude = 40.134761
+longitude = -76.455212
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17543"
+

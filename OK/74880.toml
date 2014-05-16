@@ -1,6 +1,8 @@
-zip_code = "74880"
-state = "OK"
 city = "Weleetka"
 county = "Okfuskee"
-longitude = -96.077141
 latitude = 35.344476
+longitude = -96.077141
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74880"
+

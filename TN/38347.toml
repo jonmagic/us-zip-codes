@@ -1,6 +1,8 @@
-zip_code = "38347"
-state = "TN"
 city = "Jacks Creek"
 county = "Chester"
-longitude = -88.491318
 latitude = 35.471954
+longitude = -88.491318
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38347"
+

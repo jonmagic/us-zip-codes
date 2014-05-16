@@ -1,6 +1,8 @@
-zip_code = "65588"
-state = "MO"
 city = "Winona"
 county = "Shannon"
-longitude = -91.331701
 latitude = 36.998455
+longitude = -91.331701
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65588"
+

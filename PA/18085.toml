@@ -1,6 +1,8 @@
-zip_code = "18085"
-state = "PA"
 city = "Tatamy"
 county = "Northampton"
-longitude = -75.254854
 latitude = 40.740625
+longitude = -75.254854
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18085"
+

@@ -1,6 +1,8 @@
-zip_code = "49252"
-state = "MI"
 city = "Litchfield"
 county = "Hillsdale"
-longitude = -84.619228
 latitude = 42.029101
+longitude = -84.619228
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49252"
+

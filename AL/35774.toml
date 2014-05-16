@@ -1,6 +1,8 @@
-zip_code = "35774"
-state = "AL"
 city = "Trenton"
 county = "Jackson"
-longitude = -86.073788
 latitude = 34.717551
+longitude = -86.073788
+state = ""
+state_code_alpha2 = ""
+zip_code = "35774"
+

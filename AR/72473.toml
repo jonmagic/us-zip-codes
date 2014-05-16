@@ -1,6 +1,8 @@
-zip_code = "72473"
-state = "AR"
 city = "Tuckerman"
 county = "Jackson"
-longitude = -91.173296
 latitude = 35.71528
+longitude = -91.173296
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72473"
+

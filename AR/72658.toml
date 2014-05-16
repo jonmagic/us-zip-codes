@@ -1,6 +1,8 @@
-zip_code = "72658"
-state = "AR"
 city = "Norfork"
 county = "Baxter"
-longitude = -92.310805
 latitude = 36.250583
+longitude = -92.310805
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72658"
+

@@ -1,6 +1,8 @@
-zip_code = "14859"
-state = "NY"
 city = "Lockwood"
 county = "Tioga"
-longitude = -76.507823
 latitude = 42.115457
+longitude = -76.507823
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14859"
+

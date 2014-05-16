@@ -1,6 +1,8 @@
-zip_code = "60945"
-state = "IL"
 city = "Iroquois"
 county = "Iroquois"
-longitude = -87.584668
 latitude = 40.826919
+longitude = -87.584668
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60945"
+

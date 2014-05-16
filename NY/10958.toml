@@ -1,6 +1,8 @@
-zip_code = "10958"
-state = "NY"
 city = "New Hampton"
 county = "Orange"
-longitude = -74.43375
 latitude = 41.375634
+longitude = -74.43375
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10958"
+

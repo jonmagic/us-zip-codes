@@ -1,6 +1,8 @@
-zip_code = "74472"
-state = "OK"
 city = "Whitefield"
 county = "Haskell"
-longitude = -95.134492
 latitude = 35.258196
+longitude = -95.134492
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74472"
+

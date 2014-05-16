@@ -1,6 +1,8 @@
-zip_code = "31739"
-state = "GA"
 city = "Cotton"
 county = "Mitchell"
-longitude = -84.253089
 latitude = 31.260443
+longitude = -84.253089
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31739"
+

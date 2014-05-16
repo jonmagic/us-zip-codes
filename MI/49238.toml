@@ -1,6 +1,8 @@
-zip_code = "49238"
-state = "MI"
 city = "Deerfield"
 county = "Lenawee"
-longitude = -83.817849
 latitude = 41.900279
+longitude = -83.817849
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49238"
+

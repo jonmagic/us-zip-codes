@@ -1,6 +1,8 @@
-zip_code = "19538"
-state = "PA"
 city = "Maxatawny"
 county = "Berks"
-longitude = -75.740942
 latitude = 40.569818
+longitude = -75.740942
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19538"
+

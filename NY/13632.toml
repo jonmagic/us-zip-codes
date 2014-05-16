@@ -1,6 +1,8 @@
-zip_code = "13632"
-state = "NY"
 city = "Depauville"
 county = "Jefferson"
-longitude = -76.061552
 latitude = 44.139501
+longitude = -76.061552
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13632"
+

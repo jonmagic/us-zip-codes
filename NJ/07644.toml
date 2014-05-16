@@ -1,6 +1,8 @@
-zip_code = "07644"
-state = "NJ"
 city = "Lodi"
 county = "Bergen"
-longitude = -74.081335
 latitude = 40.878349
+longitude = -74.081335
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07644"
+

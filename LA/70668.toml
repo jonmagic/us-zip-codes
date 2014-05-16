@@ -1,6 +1,8 @@
-zip_code = "70668"
-state = "LA"
 city = "Vinton"
 county = "Calcasieu"
-longitude = -93.583787
 latitude = 30.208206
+longitude = -93.583787
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70668"
+

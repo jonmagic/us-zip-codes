@@ -1,6 +1,8 @@
-zip_code = "51008"
-state = "IA"
 city = "Brunsville"
 county = "Plymouth"
-longitude = -96.26257
 latitude = 42.809252
+longitude = -96.26257
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51008"
+

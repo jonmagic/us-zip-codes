@@ -1,6 +1,8 @@
-zip_code = "10963"
-state = "NY"
 city = "Otisville"
 county = "Orange"
-longitude = -74.536702
 latitude = 41.401702
+longitude = -74.536702
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10963"
+

@@ -1,6 +1,8 @@
-zip_code = "53014"
-state = "WI"
 city = "Chilton"
 county = "Calumet"
-longitude = -88.185906
 latitude = 44.020561
+longitude = -88.185906
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53014"
+

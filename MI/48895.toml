@@ -1,6 +1,8 @@
-zip_code = "48895"
-state = "MI"
 city = "Williamston"
 county = "Ingham"
-longitude = -84.271215
 latitude = 42.680434
+longitude = -84.271215
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48895"
+

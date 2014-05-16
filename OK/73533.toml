@@ -1,6 +1,8 @@
-zip_code = "73533"
-state = "OK"
 city = "Duncan"
 county = "Stephens"
-longitude = -97.933279
 latitude = 34.547749
+longitude = -97.933279
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73533"
+

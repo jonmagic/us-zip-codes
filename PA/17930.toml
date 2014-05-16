@@ -1,6 +1,8 @@
-zip_code = "17930"
-state = "PA"
 city = "Cumbola"
 county = "Schuylkill"
-longitude = -76.139162
 latitude = 40.711356
+longitude = -76.139162
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17930"
+

@@ -1,6 +1,8 @@
-zip_code = "43717"
-state = "OH"
 city = "Belle Valley"
 county = "Noble"
-longitude = -81.465752
 latitude = 39.768475
+longitude = -81.465752
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43717"
+

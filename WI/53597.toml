@@ -1,6 +1,8 @@
-zip_code = "53597"
-state = "WI"
 city = "Waunakee"
 county = "Dane"
-longitude = -89.322655
 latitude = 43.183972
+longitude = -89.322655
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53597"
+

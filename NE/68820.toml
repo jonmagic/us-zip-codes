@@ -1,6 +1,8 @@
-zip_code = "68820"
-state = "NE"
 city = "Boelus"
 county = "Howard"
-longitude = -98.681367
 latitude = 41.11924
+longitude = -98.681367
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68820"
+

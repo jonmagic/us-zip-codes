@@ -1,6 +1,8 @@
-zip_code = "23960"
-state = "VA"
 city = "Prospect"
 county = "Prince Edward"
-longitude = -78.461789
 latitude = 37.238139
+longitude = -78.461789
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23960"
+

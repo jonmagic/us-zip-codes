@@ -1,6 +1,8 @@
-zip_code = "93283"
-state = "CA"
 city = "Weldon"
 county = "Kern"
-longitude = -118.578135
 latitude = 35.54194
+longitude = -118.578135
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93283"
+

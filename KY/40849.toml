@@ -1,6 +1,8 @@
-zip_code = "40849"
-state = "KY"
 city = "Lejunior"
 county = "Harlan"
-longitude = -83.14331
 latitude = 36.889879
+longitude = -83.14331
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40849"
+

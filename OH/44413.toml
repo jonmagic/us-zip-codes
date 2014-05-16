@@ -1,6 +1,8 @@
-zip_code = "44413"
-state = "OH"
 city = "East Palestine"
 county = "Columbiana"
-longitude = -80.646556
 latitude = 40.837509
+longitude = -80.646556
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44413"
+

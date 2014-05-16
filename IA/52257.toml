@@ -1,6 +1,8 @@
-zip_code = "52257"
-state = "IA"
 city = "Luzerne"
 county = "Benton"
-longitude = -92.163137
 latitude = 42.003812
+longitude = -92.163137
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52257"
+

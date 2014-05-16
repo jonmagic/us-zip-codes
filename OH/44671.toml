@@ -1,6 +1,8 @@
-zip_code = "44671"
-state = "OH"
 city = "Sandyville"
 county = "Tuscarawas"
-longitude = -81.365254
 latitude = 40.644174
+longitude = -81.365254
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44671"
+

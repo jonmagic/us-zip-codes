@@ -1,6 +1,8 @@
-zip_code = "82929"
-state = "WY"
 city = "Little America"
 county = "Sweetwater"
-longitude = -109.745873
 latitude = 41.758101
+longitude = -109.745873
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82929"
+

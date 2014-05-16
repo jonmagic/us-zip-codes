@@ -1,6 +1,8 @@
-zip_code = "48724"
-state = "MI"
 city = "Carrollton"
 county = "Saginaw"
-longitude = -83.925473
 latitude = 43.465024
+longitude = -83.925473
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48724"
+

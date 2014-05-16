@@ -1,6 +1,8 @@
-zip_code = "12164"
-state = "NY"
 city = "Speculator"
 county = "Hamilton"
-longitude = -74.456913
 latitude = 43.667618
+longitude = -74.456913
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12164"
+

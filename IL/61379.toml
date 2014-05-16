@@ -1,6 +1,8 @@
-zip_code = "61379"
-state = "IL"
 city = "Wyanet"
 county = "Bureau"
-longitude = -89.44646
 latitude = 41.442109
+longitude = -89.44646
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61379"
+

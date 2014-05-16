@@ -1,6 +1,8 @@
-zip_code = "12854"
-state = "NY"
 city = "North Granville"
 county = "Washington"
-longitude = -73.34095
 latitude = 43.452517
+longitude = -73.34095
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12854"
+

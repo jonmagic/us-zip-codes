@@ -1,6 +1,8 @@
-zip_code = "60942"
-state = "IL"
 city = "Hoopeston"
 county = "Vermilion"
-longitude = -87.672943
 latitude = 40.442138
+longitude = -87.672943
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60942"
+

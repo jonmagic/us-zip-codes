@@ -1,6 +1,8 @@
-zip_code = "77511"
-state = "TX"
 city = "Alvin"
 county = "Brazoria"
-longitude = -95.406048
 latitude = 29.337714
+longitude = -95.406048
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77511"
+

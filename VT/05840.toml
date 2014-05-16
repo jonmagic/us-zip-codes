@@ -1,6 +1,8 @@
-zip_code = "05840"
-state = "VT"
 city = "Granby"
 county = "Essex"
-longitude = -71.719436
 latitude = 44.680771
+longitude = -71.719436
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05840"
+

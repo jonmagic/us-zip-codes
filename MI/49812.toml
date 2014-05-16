@@ -1,6 +1,8 @@
-zip_code = "49812"
-state = "MI"
 city = "Carney"
 county = "Menominee"
-longitude = -87.519075
 latitude = 45.601899
+longitude = -87.519075
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49812"
+

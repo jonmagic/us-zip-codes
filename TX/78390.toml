@@ -1,6 +1,8 @@
-zip_code = "78390"
-state = "TX"
 city = "Taft"
 county = "San Patricio"
-longitude = -97.421131
 latitude = 27.973917
+longitude = -97.421131
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78390"
+

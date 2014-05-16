@@ -1,6 +1,8 @@
-zip_code = "25537"
-state = "WV"
 city = "Lesage"
 county = "Cabell"
-longitude = -82.255114
 latitude = 38.523488
+longitude = -82.255114
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25537"
+

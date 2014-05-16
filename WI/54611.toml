@@ -1,6 +1,8 @@
-zip_code = "54611"
-state = "WI"
 city = "Alma Center"
 county = "Jackson"
-longitude = -90.975918
 latitude = 44.451027
+longitude = -90.975918
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54611"
+

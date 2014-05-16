@@ -1,6 +1,8 @@
-zip_code = "82727"
-state = "WY"
 city = "Rozet"
 county = "Campbell"
-longitude = -105.529275
 latitude = 44.412924
+longitude = -105.529275
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82727"
+

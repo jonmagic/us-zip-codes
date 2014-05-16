@@ -1,6 +1,8 @@
-zip_code = "63472"
-state = "MO"
 city = "Wayland"
 county = "Clark"
-longitude = -91.61903
 latitude = 40.372995
+longitude = -91.61903
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63472"
+

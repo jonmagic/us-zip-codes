@@ -1,6 +1,8 @@
-zip_code = "83014"
-state = "WY"
 city = "Wilson"
 county = "Teton"
-longitude = -110.839782
 latitude = 43.482361
+longitude = -110.839782
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83014"
+

@@ -1,6 +1,8 @@
-zip_code = "52233"
-state = "IA"
 city = "Hiawatha"
 county = "Linn"
-longitude = -91.685645
 latitude = 42.047863
+longitude = -91.685645
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52233"
+

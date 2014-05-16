@@ -1,6 +1,8 @@
-zip_code = "73027"
-state = "OK"
 city = "Coyle"
 county = "Logan"
-longitude = -97.291688
 latitude = 35.950214
+longitude = -97.291688
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73027"
+

@@ -1,6 +1,8 @@
-zip_code = "51646"
-state = "IA"
 city = "New Market"
 county = "Taylor"
-longitude = -94.842837
 latitude = 40.722464
+longitude = -94.842837
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51646"
+

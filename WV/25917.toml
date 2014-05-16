@@ -1,6 +1,8 @@
-zip_code = "25917"
-state = "WV"
 city = "Scarbro"
 county = "Fayette"
-longitude = -81.15307
 latitude = 37.948765
+longitude = -81.15307
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25917"
+

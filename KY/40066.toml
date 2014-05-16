@@ -1,6 +1,8 @@
-zip_code = "40066"
-state = "KY"
 city = "Shelbyville"
 county = "Shelby"
-longitude = -85.212156
 latitude = 38.197268
+longitude = -85.212156
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40066"
+

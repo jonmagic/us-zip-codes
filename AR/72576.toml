@@ -1,6 +1,8 @@
-zip_code = "72576"
-state = "AR"
 city = "Salem"
 county = "Fulton"
-longitude = -91.699502
 latitude = 36.425836
+longitude = -91.699502
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72576"
+

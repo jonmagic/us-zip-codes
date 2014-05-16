@@ -1,6 +1,8 @@
-zip_code = "13812"
-state = "NY"
 city = "Nichols"
 county = "Tioga"
-longitude = -76.370793
 latitude = 42.039954
+longitude = -76.370793
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13812"
+

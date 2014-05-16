@@ -1,6 +1,8 @@
-zip_code = "72016"
-state = "AR"
 city = "Bigelow"
 county = "Perry"
-longitude = -92.626882
 latitude = 34.968975
+longitude = -92.626882
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72016"
+

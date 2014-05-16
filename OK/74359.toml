@@ -1,6 +1,8 @@
-zip_code = "74359"
-state = "OK"
 city = "Oaks"
 county = "Delaware"
-longitude = -94.787091
 latitude = 36.415938
+longitude = -94.787091
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74359"
+

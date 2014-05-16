@@ -1,6 +1,8 @@
-zip_code = "52533"
-state = "IA"
 city = "Batavia"
 county = "Jefferson"
-longitude = -92.0835
 latitude = 41.013559
+longitude = -92.0835
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52533"
+

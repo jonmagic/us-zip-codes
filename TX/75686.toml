@@ -1,6 +1,8 @@
-zip_code = "75686"
-state = "TX"
 city = "Pittsburg"
 county = "Camp"
-longitude = -94.952278
 latitude = 32.998041
+longitude = -94.952278
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75686"
+

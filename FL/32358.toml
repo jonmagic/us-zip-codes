@@ -1,6 +1,8 @@
-zip_code = "32358"
-state = "FL"
 city = "Sopchoppy"
 county = "Wakulla"
-longitude = -84.552965
 latitude = 30.141958
+longitude = -84.552965
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32358"
+

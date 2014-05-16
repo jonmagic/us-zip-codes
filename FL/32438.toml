@@ -1,6 +1,8 @@
-zip_code = "32438"
-state = "FL"
 city = "Fountain"
 county = "Bay"
-longitude = -85.491959
 latitude = 30.45245
+longitude = -85.491959
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32438"
+

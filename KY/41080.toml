@@ -1,6 +1,8 @@
-zip_code = "41080"
-state = "KY"
 city = "Petersburg"
 county = "Boone"
-longitude = -84.837832
 latitude = 39.039096
+longitude = -84.837832
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41080"
+

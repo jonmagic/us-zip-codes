@@ -1,6 +1,8 @@
-zip_code = "40476"
-state = "KY"
 city = "Richmond"
 county = "Madison"
-longitude = -84.299699
 latitude = 37.716443
+longitude = -84.299699
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40476"
+

@@ -1,6 +1,8 @@
-zip_code = "46372"
-state = "IN"
 city = "Roselawn"
 county = "Newton"
-longitude = -87.322049
 latitude = 41.143358
+longitude = -87.322049
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46372"
+

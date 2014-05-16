@@ -1,6 +1,8 @@
-zip_code = "64657"
-state = "MO"
 city = "Mc Fall"
 county = "Gentry"
-longitude = -94.223134
 latitude = 40.111077
+longitude = -94.223134
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64657"
+

@@ -1,6 +1,8 @@
-zip_code = "01256"
-state = "MA"
 city = "Savoy"
 county = "Berkshire"
-longitude = -73.128528
 latitude = 42.367341
+longitude = -73.128528
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01256"
+

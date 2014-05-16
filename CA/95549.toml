@@ -1,6 +1,8 @@
-zip_code = "95549"
-state = "CA"
 city = "Kneeland"
 county = "Humboldt"
-longitude = -123.913353
 latitude = 40.647049
+longitude = -123.913353
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95549"
+

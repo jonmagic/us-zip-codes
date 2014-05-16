@@ -1,6 +1,8 @@
-zip_code = "56284"
-state = "MN"
 city = "Renville"
 county = "Renville"
-longitude = -95.240065
 latitude = 44.760675
+longitude = -95.240065
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56284"
+

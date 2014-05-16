@@ -1,6 +1,8 @@
-zip_code = "40350"
-state = "KY"
 city = "Moorefield"
 county = "Nicholas"
-longitude = -83.886328
 latitude = 38.303859
+longitude = -83.886328
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40350"
+

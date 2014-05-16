@@ -1,6 +1,8 @@
-zip_code = "67631"
-state = "KS"
 city = "Collyer"
 county = "Trego"
-longitude = -99.872931
 latitude = 38.91436
+longitude = -99.872931
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67631"
+

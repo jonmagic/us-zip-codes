@@ -1,6 +1,8 @@
-zip_code = "06349"
-state = "CT"
 city = "Groton"
 county = "New London"
-longitude = -72.090357
 latitude = 41.39973
+longitude = -72.090357
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06349"
+

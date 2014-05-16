@@ -1,6 +1,8 @@
-zip_code = "51249"
-state = "IA"
 city = "Sibley"
 county = "Osceola"
-longitude = -95.624809
 latitude = 43.377681
+longitude = -95.624809
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51249"
+

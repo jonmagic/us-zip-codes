@@ -1,6 +1,8 @@
-zip_code = "70078"
-state = "LA"
 city = "New Sarpy"
 county = "Saint Charles"
-longitude = -90.38595
 latitude = 29.981674
+longitude = -90.38595
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70078"
+

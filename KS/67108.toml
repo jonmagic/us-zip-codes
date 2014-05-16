@@ -1,6 +1,8 @@
-zip_code = "67108"
-state = "KS"
 city = "Mount Hope"
 county = "Sedgwick"
-longitude = -97.637834
 latitude = 37.823852
+longitude = -97.637834
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67108"
+

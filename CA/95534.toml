@@ -1,6 +1,8 @@
-zip_code = "95534"
-state = "CA"
 city = "Cutten"
 county = "Humboldt"
-longitude = -123.944021
 latitude = 40.733552
+longitude = -123.944021
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95534"
+

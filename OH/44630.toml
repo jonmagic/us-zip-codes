@@ -1,6 +1,8 @@
-zip_code = "44630"
-state = "OH"
 city = "Greentown"
 county = "Stark"
-longitude = -81.400134
 latitude = 40.929507
+longitude = -81.400134
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44630"
+

@@ -1,6 +1,8 @@
-zip_code = "63829"
-state = "MO"
 city = "Cardwell"
 county = "Dunklin"
-longitude = -90.257353
 latitude = 36.066896
+longitude = -90.257353
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63829"
+

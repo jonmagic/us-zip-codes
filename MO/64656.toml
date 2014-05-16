@@ -1,6 +1,8 @@
-zip_code = "64656"
-state = "MO"
 city = "Ludlow"
 county = "Livingston"
-longitude = -93.686524
 latitude = 39.654952
+longitude = -93.686524
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64656"
+

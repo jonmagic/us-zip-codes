@@ -1,6 +1,8 @@
-zip_code = "50208"
-state = "IA"
 city = "Newton"
 county = "Jasper"
-longitude = -93.012335
 latitude = 41.718107
+longitude = -93.012335
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50208"
+

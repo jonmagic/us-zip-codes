@@ -1,6 +1,8 @@
-zip_code = "72169"
-state = "AR"
 city = "Tupelo"
 county = "Jackson"
-longitude = -91.223248
 latitude = 35.384449
+longitude = -91.223248
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72169"
+

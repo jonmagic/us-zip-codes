@@ -1,6 +1,8 @@
-zip_code = "48873"
-state = "MI"
 city = "Pewamo"
 county = "Ionia"
-longitude = -84.916118
 latitude = 42.970044
+longitude = -84.916118
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48873"
+

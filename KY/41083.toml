@@ -1,6 +1,8 @@
-zip_code = "41083"
-state = "KY"
 city = "Sanders"
 county = "Carroll"
-longitude = -85.005783
 latitude = 38.660372
+longitude = -85.005783
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41083"
+

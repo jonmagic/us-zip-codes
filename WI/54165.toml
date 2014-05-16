@@ -1,6 +1,8 @@
-zip_code = "54165"
-state = "WI"
 city = "Seymour"
 county = "Outagamie"
-longitude = -88.463328
 latitude = 44.430443
+longitude = -88.463328
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54165"
+

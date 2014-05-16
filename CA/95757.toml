@@ -1,6 +1,8 @@
-zip_code = "95757"
-state = "CA"
 city = "Elk Grove"
 county = "Sacramento"
-longitude = -121.428681
 latitude = 38.347205
+longitude = -121.428681
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95757"
+

@@ -1,6 +1,8 @@
-zip_code = "37023"
-state = "TN"
 city = "Big Rock"
 county = "Stewart"
-longitude = -87.774854
 latitude = 36.580898
+longitude = -87.774854
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37023"
+

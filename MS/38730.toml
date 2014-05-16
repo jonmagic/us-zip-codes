@@ -1,6 +1,8 @@
-zip_code = "38730"
-state = "MS"
 city = "Boyle"
 county = "Bolivar"
-longitude = -90.773978
 latitude = 33.741709
+longitude = -90.773978
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38730"
+

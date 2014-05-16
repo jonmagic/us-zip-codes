@@ -1,6 +1,8 @@
-zip_code = "57528"
-state = "SD"
 city = "Colome"
 county = "Tripp"
-longitude = -99.716537
 latitude = 43.260083
+longitude = -99.716537
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57528"
+

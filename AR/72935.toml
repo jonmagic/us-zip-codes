@@ -1,6 +1,8 @@
-zip_code = "72935"
-state = "AR"
 city = "Dyer"
 county = "Crawford"
-longitude = -94.114259
 latitude = 35.496721
+longitude = -94.114259
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72935"
+

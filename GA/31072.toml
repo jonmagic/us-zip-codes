@@ -1,6 +1,8 @@
-zip_code = "31072"
-state = "GA"
 city = "Pitts"
 county = "Wilcox"
-longitude = -83.539522
 latitude = 31.948637
+longitude = -83.539522
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31072"
+

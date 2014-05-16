@@ -1,6 +1,8 @@
-zip_code = "08353"
-state = "NJ"
 city = "Shiloh"
 county = "Cumberland"
-longitude = -75.207667
 latitude = 39.42165
+longitude = -75.207667
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08353"
+

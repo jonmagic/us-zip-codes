@@ -1,6 +1,8 @@
-zip_code = "37869"
-state = "TN"
 city = "Sneedville"
 county = "Hancock"
-longitude = -83.185624
 latitude = 36.509867
+longitude = -83.185624
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37869"
+

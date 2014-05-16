@@ -1,6 +1,8 @@
-zip_code = "67450"
-state = "KS"
 city = "Holyrood"
 county = "Ellsworth"
-longitude = -98.420938
 latitude = 38.613667
+longitude = -98.420938
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67450"
+

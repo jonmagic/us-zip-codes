@@ -1,6 +1,8 @@
-zip_code = "46355"
-state = "IN"
 city = "Leroy"
 county = "Lake"
-longitude = -87.27081
 latitude = 41.359415
+longitude = -87.27081
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46355"
+

@@ -1,6 +1,8 @@
-zip_code = "61010"
-state = "IL"
 city = "Byron"
 county = "Ogle"
-longitude = -89.322625
 latitude = 42.091976
+longitude = -89.322625
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61010"
+

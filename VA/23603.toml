@@ -1,6 +1,8 @@
-zip_code = "23603"
-state = "VA"
 city = "Newport News"
 county = "Newport News City"
-longitude = -76.541367
 latitude = 37.168276
+longitude = -76.541367
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23603"
+

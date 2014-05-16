@@ -1,6 +1,8 @@
-zip_code = "50248"
-state = "IA"
 city = "Story City"
 county = "Story"
-longitude = -93.610141
 latitude = 42.158072
+longitude = -93.610141
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50248"
+

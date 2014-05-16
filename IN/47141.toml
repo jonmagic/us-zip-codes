@@ -1,6 +1,8 @@
-zip_code = "47141"
-state = "IN"
 city = "Marysville"
 county = "Clark"
-longitude = -85.597466
 latitude = 38.549871
+longitude = -85.597466
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47141"
+

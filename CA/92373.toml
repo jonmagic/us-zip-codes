@@ -1,6 +1,8 @@
-zip_code = "92373"
-state = "CA"
 city = "Redlands"
 county = "San Bernardino"
-longitude = -116.889474
 latitude = 34.2409
+longitude = -116.889474
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92373"
+

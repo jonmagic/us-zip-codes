@@ -1,6 +1,8 @@
-zip_code = "93291"
-state = "CA"
 city = "Visalia"
 county = "Tulare"
-longitude = -119.363349
 latitude = 36.184014
+longitude = -119.363349
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93291"
+

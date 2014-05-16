@@ -1,6 +1,8 @@
-zip_code = "24317"
-state = "VA"
 city = "Cana"
 county = "Carroll"
-longitude = -80.729669
 latitude = 36.664788
+longitude = -80.729669
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24317"
+

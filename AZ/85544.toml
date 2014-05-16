@@ -1,6 +1,8 @@
-zip_code = "85544"
-state = "AZ"
 city = "Pine"
 county = "Gila"
-longitude = -111.396855
 latitude = 34.320445
+longitude = -111.396855
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85544"
+

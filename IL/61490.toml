@@ -1,6 +1,8 @@
-zip_code = "61490"
-state = "IL"
 city = "Woodhull"
 county = "Henry"
-longitude = -90.230506
 latitude = 41.208513
+longitude = -90.230506
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61490"
+

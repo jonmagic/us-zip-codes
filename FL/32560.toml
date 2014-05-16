@@ -1,6 +1,8 @@
-zip_code = "32560"
-state = "FL"
 city = "Gonzalez"
 county = "Escambia"
-longitude = -87.292918
 latitude = 30.581825
+longitude = -87.292918
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32560"
+

@@ -1,6 +1,8 @@
-zip_code = "39601"
-state = "MS"
 city = "Brookhaven"
 county = "Lincoln"
-longitude = -90.460786
 latitude = 31.521489
+longitude = -90.460786
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39601"
+

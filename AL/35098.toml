@@ -1,6 +1,8 @@
-zip_code = "35098"
-state = "AL"
 city = "Logan"
 county = "Cullman"
-longitude = -87.026554
 latitude = 34.137678
+longitude = -87.026554
+state = ""
+state_code_alpha2 = ""
+zip_code = "35098"
+

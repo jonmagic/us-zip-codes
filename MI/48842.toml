@@ -1,6 +1,8 @@
-zip_code = "48842"
-state = "MI"
 city = "Holt"
 county = "Ingham"
-longitude = -84.506522
 latitude = 42.639785
+longitude = -84.506522
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48842"
+

@@ -1,6 +1,8 @@
-zip_code = "66945"
-state = "KS"
 city = "Hanover"
 county = "Washington"
-longitude = -96.896534
 latitude = 39.867079
+longitude = -96.896534
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66945"
+

@@ -1,6 +1,8 @@
-zip_code = "03450"
-state = "NH"
 city = "Harrisville"
 county = "Cheshire"
-longitude = -72.102634
 latitude = 42.884548
+longitude = -72.102634
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03450"
+

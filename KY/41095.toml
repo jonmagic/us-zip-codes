@@ -1,6 +1,8 @@
-zip_code = "41095"
-state = "KY"
 city = "Warsaw"
 county = "Gallatin"
-longitude = -84.877785
 latitude = 38.762505
+longitude = -84.877785
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41095"
+

@@ -1,6 +1,8 @@
-zip_code = "67345"
-state = "KS"
 city = "Elk Falls"
 county = "Elk"
-longitude = -96.272149
 latitude = 37.383228
+longitude = -96.272149
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67345"
+

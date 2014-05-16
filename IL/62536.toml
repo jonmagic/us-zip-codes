@@ -1,6 +1,8 @@
-zip_code = "62536"
-state = "IL"
 city = "Glenarm"
 county = "Sangamon"
-longitude = -89.650041
 latitude = 39.641606
+longitude = -89.650041
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62536"
+

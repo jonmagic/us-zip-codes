@@ -1,6 +1,8 @@
-zip_code = "59473"
-state = "MT"
 city = "Santa Rita"
 county = "Glacier"
-longitude = -113.126262
 latitude = 48.65417
+longitude = -113.126262
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59473"
+

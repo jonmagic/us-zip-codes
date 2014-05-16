@@ -1,6 +1,8 @@
-zip_code = "56320"
-state = "MN"
 city = "Cold Spring"
 county = "Stearns"
-longitude = -94.661654
 latitude = 45.470708
+longitude = -94.661654
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56320"
+

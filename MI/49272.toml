@@ -1,6 +1,8 @@
-zip_code = "49272"
-state = "MI"
 city = "Pleasant Lake"
 county = "Jackson"
-longitude = -84.347636
 latitude = 42.387785
+longitude = -84.347636
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49272"
+

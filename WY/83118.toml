@@ -1,6 +1,8 @@
-zip_code = "83118"
-state = "WY"
 city = "Etna"
 county = "Lincoln"
-longitude = -111.008517
 latitude = 43.044268
+longitude = -111.008517
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83118"
+

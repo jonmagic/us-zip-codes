@@ -1,6 +1,8 @@
-zip_code = "01905"
-state = "MA"
 city = "Lynn"
 county = "Essex"
-longitude = -70.972844
 latitude = 42.469395
+longitude = -70.972844
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01905"
+

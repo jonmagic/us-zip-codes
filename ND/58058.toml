@@ -1,6 +1,8 @@
-zip_code = "58058"
-state = "ND"
 city = "Mantador"
 county = "Richland"
-longitude = -96.969366
 latitude = 46.16038
+longitude = -96.969366
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58058"
+

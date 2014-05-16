@@ -1,6 +1,8 @@
-zip_code = "02134"
-state = "MA"
 city = "Allston"
 county = "Suffolk"
-longitude = -71.112646
 latitude = 42.357169
+longitude = -71.112646
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02134"
+

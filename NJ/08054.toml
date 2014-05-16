@@ -1,6 +1,8 @@
-zip_code = "08054"
-state = "NJ"
 city = "Mount Laurel"
 county = "Burlington"
-longitude = -74.91731
 latitude = 39.955912
+longitude = -74.91731
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08054"
+

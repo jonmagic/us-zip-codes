@@ -1,6 +1,8 @@
-zip_code = "55027"
-state = "MN"
 city = "Goodhue"
 county = "Goodhue"
-longitude = -92.620355
 latitude = 44.427157
+longitude = -92.620355
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55027"
+

@@ -1,6 +1,8 @@
-zip_code = "53177"
-state = "WI"
 city = "Sturtevant"
 county = "Racine"
-longitude = -87.934013
 latitude = 42.712962
+longitude = -87.934013
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53177"
+

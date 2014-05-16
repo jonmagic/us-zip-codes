@@ -1,6 +1,8 @@
-zip_code = "67851"
-state = "KS"
 city = "Holcomb"
 county = "Finney"
-longitude = -100.961803
 latitude = 38.098129
+longitude = -100.961803
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67851"
+

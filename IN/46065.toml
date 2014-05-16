@@ -1,6 +1,8 @@
-zip_code = "46065"
-state = "IN"
 city = "Rossville"
 county = "Clinton"
-longitude = -86.603449
 latitude = 40.360973
+longitude = -86.603449
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46065"
+

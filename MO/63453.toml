@@ -1,6 +1,8 @@
-zip_code = "63453"
-state = "MO"
 city = "Luray"
 county = "Clark"
-longitude = -91.685103
 latitude = 40.431201
+longitude = -91.685103
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63453"
+

@@ -1,6 +1,8 @@
-zip_code = "50125"
-state = "IA"
 city = "Indianola"
 county = "Warren"
-longitude = -93.588041
 latitude = 41.314309
+longitude = -93.588041
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50125"
+

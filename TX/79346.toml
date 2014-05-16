@@ -1,6 +1,8 @@
-zip_code = "79346"
-state = "TX"
 city = "Morton"
 county = "Cochran"
-longitude = -102.690997
 latitude = 33.667497
+longitude = -102.690997
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79346"
+

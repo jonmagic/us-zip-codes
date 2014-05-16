@@ -1,6 +1,8 @@
-zip_code = "26424"
-state = "WV"
 city = "Rosemont"
 county = "Taylor"
-longitude = -80.04977
 latitude = 39.345364
+longitude = -80.04977
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26424"
+

@@ -1,6 +1,8 @@
-zip_code = "16830"
-state = "PA"
 city = "Clearfield"
 county = "Clearfield"
-longitude = -78.435492
 latitude = 41.037563
+longitude = -78.435492
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16830"
+

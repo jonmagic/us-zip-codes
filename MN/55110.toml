@@ -1,6 +1,8 @@
-zip_code = "55110"
-state = "MN"
 city = "Saint Paul"
 county = "Ramsey"
-longitude = -93.022317
 latitude = 45.079965
+longitude = -93.022317
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55110"
+

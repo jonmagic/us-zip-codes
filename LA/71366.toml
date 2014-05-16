@@ -1,6 +1,8 @@
-zip_code = "71366"
-state = "LA"
 city = "Saint Joseph"
 county = "Tensas"
-longitude = -91.239631
 latitude = 31.919051
+longitude = -91.239631
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71366"
+

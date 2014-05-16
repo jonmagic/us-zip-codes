@@ -1,6 +1,8 @@
-zip_code = "99925"
-state = "AK"
 city = "Klawock"
 county = "Prince Wales Ketchikan"
-longitude = -133.09068
 latitude = 55.554393
+longitude = -133.09068
+state = ""
+state_code_alpha2 = ""
+zip_code = "99925"
+

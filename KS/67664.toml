@@ -1,6 +1,8 @@
-zip_code = "67664"
-state = "KS"
 city = "Prairie View"
 county = "Phillips"
-longitude = -99.348129
 latitude = 39.75337
+longitude = -99.348129
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67664"
+

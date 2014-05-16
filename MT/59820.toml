@@ -1,6 +1,8 @@
-zip_code = "59820"
-state = "MT"
 city = "Alberton"
 county = "Mineral"
-longitude = -114.558456
 latitude = 46.989275
+longitude = -114.558456
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59820"
+

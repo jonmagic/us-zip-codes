@@ -1,6 +1,8 @@
-zip_code = "52753"
-state = "IA"
 city = "Le Claire"
 county = "Scott"
-longitude = -90.537234
 latitude = 41.568131
+longitude = -90.537234
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52753"
+

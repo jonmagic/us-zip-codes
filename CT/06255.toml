@@ -1,6 +1,8 @@
-zip_code = "06255"
-state = "CT"
 city = "North Grosvenordale"
 county = "Windham"
-longitude = -71.899716
 latitude = 41.978392
+longitude = -71.899716
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06255"
+

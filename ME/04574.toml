@@ -1,6 +1,8 @@
-zip_code = "04574"
-state = "ME"
 city = "Washington"
 county = "Knox"
-longitude = -69.387795
 latitude = 44.162384
+longitude = -69.387795
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04574"
+

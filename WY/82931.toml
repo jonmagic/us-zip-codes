@@ -1,6 +1,8 @@
-zip_code = "82931"
-state = "WY"
 city = "Evanston"
 county = "Uinta"
-longitude = -110.919995
 latitude = 41.261943
+longitude = -110.919995
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82931"
+

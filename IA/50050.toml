@@ -1,6 +1,8 @@
-zip_code = "50050"
-state = "IA"
 city = "Churdan"
 county = "Greene"
-longitude = -94.503538
 latitude = 42.141856
+longitude = -94.503538
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50050"
+

@@ -1,6 +1,8 @@
-zip_code = "34777"
-state = "FL"
 city = "Winter Garden"
 county = "Orange"
-longitude = -81.605846
 latitude = 28.541579
+longitude = -81.605846
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34777"
+

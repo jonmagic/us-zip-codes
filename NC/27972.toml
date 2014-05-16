@@ -1,6 +1,8 @@
-zip_code = "27972"
-state = "NC"
 city = "Salvo"
 county = "Dare"
-longitude = -75.469319
 latitude = 35.554569
+longitude = -75.469319
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27972"
+

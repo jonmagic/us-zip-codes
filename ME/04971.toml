@@ -1,6 +1,8 @@
-zip_code = "04971"
-state = "ME"
 city = "Saint Albans"
 county = "Somerset"
-longitude = -69.403011
 latitude = 44.93183
+longitude = -69.403011
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04971"
+

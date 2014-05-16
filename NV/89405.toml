@@ -1,6 +1,8 @@
-zip_code = "89405"
-state = "NV"
 city = "Empire"
 county = "Washoe"
-longitude = -119.348515
 latitude = 40.613152
+longitude = -119.348515
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89405"
+

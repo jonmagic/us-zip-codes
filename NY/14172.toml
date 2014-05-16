@@ -1,6 +1,8 @@
-zip_code = "14172"
-state = "NY"
 city = "Wilson"
 county = "Niagara"
-longitude = -78.83101
 latitude = 43.272729
+longitude = -78.83101
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14172"
+

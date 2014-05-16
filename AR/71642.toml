@@ -1,6 +1,8 @@
-zip_code = "71642"
-state = "AR"
 city = "Fountain Hill"
 county = "Ashley"
-longitude = -91.908776
 latitude = 33.363143
+longitude = -91.908776
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71642"
+

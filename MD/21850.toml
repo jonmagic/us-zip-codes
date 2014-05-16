@@ -1,6 +1,8 @@
-zip_code = "21850"
-state = "MD"
 city = "Pittsville"
 county = "Wicomico"
-longitude = -75.410499
 latitude = 38.394572
+longitude = -75.410499
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21850"
+

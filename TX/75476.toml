@@ -1,6 +1,8 @@
-zip_code = "75476"
-state = "TX"
 city = "Ravenna"
 county = "Fannin"
-longitude = -96.276105
 latitude = 33.670261
+longitude = -96.276105
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75476"
+

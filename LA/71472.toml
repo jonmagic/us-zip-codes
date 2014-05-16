@@ -1,6 +1,8 @@
-zip_code = "71472"
-state = "LA"
 city = "Sieper"
 county = "Rapides"
-longitude = -92.785799
 latitude = 31.197632
+longitude = -92.785799
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71472"
+

@@ -1,6 +1,8 @@
-zip_code = "25245"
-state = "WV"
 city = "Given"
 county = "Jackson"
-longitude = -81.722296
 latitude = 38.70697
+longitude = -81.722296
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25245"
+

@@ -1,6 +1,8 @@
-zip_code = "90240"
-state = "CA"
 city = "Downey"
 county = "Los Angeles"
-longitude = -118.119461
 latitude = 33.946363
+longitude = -118.119461
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90240"
+

@@ -1,6 +1,8 @@
-zip_code = "95232"
-state = "CA"
 city = "Glencoe"
 county = "Calaveras"
-longitude = -120.573947
 latitude = 38.352793
+longitude = -120.573947
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95232"
+

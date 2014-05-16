@@ -1,6 +1,8 @@
-zip_code = "68429"
-state = "NE"
 city = "Reynolds"
 county = "Thayer"
-longitude = -97.380646
 latitude = 40.059775
+longitude = -97.380646
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68429"
+

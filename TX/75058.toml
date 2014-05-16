@@ -1,6 +1,8 @@
-zip_code = "75058"
-state = "TX"
 city = "Gunter"
 county = "Grayson"
-longitude = -96.709494
 latitude = 33.449135
+longitude = -96.709494
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75058"
+

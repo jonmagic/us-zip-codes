@@ -1,6 +1,8 @@
-zip_code = "14847"
-state = "NY"
 city = "Interlaken"
 county = "Seneca"
-longitude = -76.735556
 latitude = 42.60844
+longitude = -76.735556
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14847"
+

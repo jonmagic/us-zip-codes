@@ -1,6 +1,8 @@
-zip_code = "13165"
-state = "NY"
 city = "Waterloo"
 county = "Seneca"
-longitude = -76.882263
 latitude = 42.892556
+longitude = -76.882263
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13165"
+

@@ -1,6 +1,8 @@
-zip_code = "76022"
-state = "TX"
 city = "Bedford"
 county = "Tarrant"
-longitude = -97.144339
 latitude = 32.831019
+longitude = -97.144339
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76022"
+

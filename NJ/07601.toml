@@ -1,6 +1,8 @@
-zip_code = "07601"
-state = "NJ"
 city = "Hackensack"
 county = "Bergen"
-longitude = -74.001623
 latitude = 40.913482
+longitude = -74.001623
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07601"
+

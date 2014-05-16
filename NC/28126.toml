@@ -1,6 +1,8 @@
-zip_code = "28126"
-state = "NC"
 city = "Newell"
 county = "Mecklenburg"
-longitude = -80.716495
 latitude = 35.276794
+longitude = -80.716495
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28126"
+

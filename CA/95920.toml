@@ -1,6 +1,8 @@
-zip_code = "95920"
-state = "CA"
 city = "Butte City"
 county = "Glenn"
-longitude = -121.934145
 latitude = 39.458507
+longitude = -121.934145
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95920"
+

@@ -1,6 +1,8 @@
-zip_code = "77611"
-state = "TX"
 city = "Bridge City"
 county = "Orange"
-longitude = -93.832632
 latitude = 30.019163
+longitude = -93.832632
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77611"
+

@@ -1,6 +1,8 @@
-zip_code = "51645"
-state = "IA"
 city = "Imogene"
 county = "Fremont"
-longitude = -95.432381
 latitude = 40.858205
+longitude = -95.432381
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51645"
+

@@ -1,6 +1,8 @@
-zip_code = "20657"
-state = "MD"
 city = "Lusby"
 county = "Calvert"
-longitude = -76.459768
 latitude = 38.49343
+longitude = -76.459768
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20657"
+

@@ -1,6 +1,8 @@
-zip_code = "23220"
-state = "VA"
 city = "Richmond"
 county = "Richmond City"
-longitude = -77.456602
 latitude = 37.552746
+longitude = -77.456602
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23220"
+

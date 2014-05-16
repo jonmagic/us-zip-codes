@@ -1,6 +1,8 @@
-zip_code = "21675"
-state = "MD"
 city = "Wingate"
 county = "Dorchester"
-longitude = -76.106344
 latitude = 38.307394
+longitude = -76.106344
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21675"
+

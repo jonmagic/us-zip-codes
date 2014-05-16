@@ -1,6 +1,8 @@
-zip_code = "47381"
-state = "IN"
 city = "Salamonia"
 county = "Jay"
-longitude = -84.882263
 latitude = 40.378574
+longitude = -84.882263
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47381"
+

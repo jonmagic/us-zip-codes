@@ -1,6 +1,8 @@
-zip_code = "66851"
-state = "KS"
 city = "Florence"
 county = "Marion"
-longitude = -96.974518
 latitude = 38.293353
+longitude = -96.974518
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66851"
+

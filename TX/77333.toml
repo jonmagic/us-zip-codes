@@ -1,6 +1,8 @@
-zip_code = "77333"
-state = "TX"
 city = "Dobbin"
 county = "Montgomery"
-longitude = -95.79387
 latitude = 30.374064
+longitude = -95.79387
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77333"
+

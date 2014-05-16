@@ -1,6 +1,8 @@
-zip_code = "48167"
-state = "MI"
 city = "Northville"
 county = "Wayne"
-longitude = -83.432434
 latitude = 42.41729
+longitude = -83.432434
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48167"
+

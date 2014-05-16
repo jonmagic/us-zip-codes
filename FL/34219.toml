@@ -1,6 +1,8 @@
-zip_code = "34219"
-state = "FL"
 city = "Parrish"
 county = "Manatee"
-longitude = -82.269458
 latitude = 27.566457
+longitude = -82.269458
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34219"
+

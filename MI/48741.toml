@@ -1,6 +1,8 @@
-zip_code = "48741"
-state = "MI"
 city = "Kingston"
 county = "Tuscola"
-longitude = -83.195025
 latitude = 43.398564
+longitude = -83.195025
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48741"
+

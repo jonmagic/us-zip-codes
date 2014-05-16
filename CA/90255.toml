@@ -1,6 +1,8 @@
-zip_code = "90255"
-state = "CA"
 city = "Huntington Park"
 county = "Los Angeles"
-longitude = -118.213137
 latitude = 33.977987
+longitude = -118.213137
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90255"
+

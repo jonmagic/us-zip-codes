@@ -1,6 +1,8 @@
-zip_code = "08756"
-state = "NJ"
 city = "Toms River"
 county = "Ocean"
-longitude = -74.191058
 latitude = 39.787966
+longitude = -74.191058
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08756"
+

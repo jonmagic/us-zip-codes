@@ -1,6 +1,8 @@
-zip_code = "94022"
-state = "CA"
 city = "Los Altos"
 county = "Santa Clara"
-longitude = -121.885066
 latitude = 37.238842
+longitude = -121.885066
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94022"
+

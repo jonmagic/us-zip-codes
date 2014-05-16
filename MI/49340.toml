@@ -1,6 +1,8 @@
-zip_code = "49340"
-state = "MI"
 city = "Remus"
 county = "Mecosta"
-longitude = -85.198945
 latitude = 43.637851
+longitude = -85.198945
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49340"
+

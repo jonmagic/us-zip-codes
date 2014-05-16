@@ -1,6 +1,8 @@
-zip_code = "22407"
-state = "VA"
 city = "Fredericksburg"
 county = "Spotsylvania"
-longitude = -77.606772
 latitude = 38.271969
+longitude = -77.606772
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22407"
+

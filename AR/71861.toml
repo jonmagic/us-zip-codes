@@ -1,6 +1,8 @@
-zip_code = "71861"
-state = "AR"
 city = "Taylor"
 county = "Columbia"
-longitude = -93.322254
 latitude = 33.112208
+longitude = -93.322254
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71861"
+

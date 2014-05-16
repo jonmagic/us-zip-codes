@@ -1,6 +1,8 @@
-zip_code = "84414"
-state = "UT"
 city = "Ogden"
 county = "Weber"
-longitude = -111.92559
 latitude = 41.309184
+longitude = -111.92559
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84414"
+

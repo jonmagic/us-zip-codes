@@ -1,6 +1,8 @@
-zip_code = "62807"
-state = "IL"
 city = "Alma"
 county = "Marion"
-longitude = -88.929039
 latitude = 38.758394
+longitude = -88.929039
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62807"
+

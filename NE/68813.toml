@@ -1,6 +1,8 @@
-zip_code = "68813"
-state = "NE"
 city = "Anselmo"
 county = "Custer"
-longitude = -99.864392
 latitude = 41.620773
+longitude = -99.864392
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68813"
+

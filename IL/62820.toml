@@ -1,6 +1,8 @@
-zip_code = "62820"
-state = "IL"
 city = "Burnt Prairie"
 county = "White"
-longitude = -88.222704
 latitude = 38.220716
+longitude = -88.222704
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62820"
+

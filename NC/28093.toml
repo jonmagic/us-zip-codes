@@ -1,6 +1,8 @@
-zip_code = "28093"
-state = "NC"
 city = "Lincolnton"
 county = "Lincoln"
-longitude = -81.239543
 latitude = 35.484822
+longitude = -81.239543
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28093"
+

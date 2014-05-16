@@ -1,6 +1,8 @@
-zip_code = "10540"
-state = "NY"
 city = "Lincolndale"
 county = "Westchester"
-longitude = -73.724257
 latitude = 41.333398
+longitude = -73.724257
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10540"
+

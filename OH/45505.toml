@@ -1,6 +1,8 @@
-zip_code = "45505"
-state = "OH"
 city = "Springfield"
 county = "Clark"
-longitude = -83.7482
 latitude = 39.906009
+longitude = -83.7482
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45505"
+

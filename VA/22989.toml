@@ -1,6 +1,8 @@
-zip_code = "22989"
-state = "VA"
 city = "Woodberry Forest"
 county = "Madison"
-longitude = -78.267848
 latitude = 38.428509
+longitude = -78.267848
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22989"
+

@@ -1,6 +1,8 @@
-zip_code = "70763"
-state = "LA"
 city = "Paulina"
 county = "Saint James"
-longitude = -90.743705
 latitude = 30.041815
+longitude = -90.743705
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70763"
+

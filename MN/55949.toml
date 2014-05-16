@@ -1,6 +1,8 @@
-zip_code = "55949"
-state = "MN"
 city = "Lanesboro"
 county = "Fillmore"
-longitude = -91.977384
 latitude = 43.721194
+longitude = -91.977384
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55949"
+

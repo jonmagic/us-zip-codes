@@ -1,6 +1,8 @@
-zip_code = "63837"
-state = "MO"
 city = "Clarkton"
 county = "Dunklin"
-longitude = -90.058362
 latitude = 36.297884
+longitude = -90.058362
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63837"
+

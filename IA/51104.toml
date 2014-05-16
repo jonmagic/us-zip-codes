@@ -1,6 +1,8 @@
-zip_code = "51104"
-state = "IA"
 city = "Sioux City"
 county = "Woodbury"
-longitude = -96.106247
 latitude = 42.472367
+longitude = -96.106247
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51104"
+

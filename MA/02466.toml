@@ -1,6 +1,8 @@
-zip_code = "02466"
-state = "MA"
 city = "Auburndale"
 county = "Middlesex"
-longitude = -71.224957
 latitude = 42.346696
+longitude = -71.224957
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02466"
+

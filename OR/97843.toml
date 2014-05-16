@@ -1,6 +1,8 @@
-zip_code = "97843"
-state = "OR"
 city = "Ione"
 county = "Morrow"
-longitude = -119.842256
 latitude = 45.456534
+longitude = -119.842256
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97843"
+

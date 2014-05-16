@@ -1,6 +1,8 @@
-zip_code = "01906"
-state = "MA"
 city = "Saugus"
 county = "Essex"
-longitude = -70.997794
 latitude = 42.472112
+longitude = -70.997794
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01906"
+

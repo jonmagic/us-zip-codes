@@ -1,6 +1,8 @@
-zip_code = "59054"
-state = "MT"
 city = "Melstone"
 county = "Musselshell"
-longitude = -107.869188
 latitude = 46.598623
+longitude = -107.869188
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59054"
+

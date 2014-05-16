@@ -1,6 +1,8 @@
-zip_code = "68452"
-state = "NE"
 city = "Ong"
 county = "Clay"
-longitude = -98.051184
 latitude = 40.524526
+longitude = -98.051184
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68452"
+

@@ -1,6 +1,8 @@
-zip_code = "61771"
-state = "IL"
 city = "Secor"
 county = "Woodford"
-longitude = -89.134822
 latitude = 40.742182
+longitude = -89.134822
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61771"
+

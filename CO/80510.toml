@@ -1,6 +1,8 @@
-zip_code = "80510"
-state = "CO"
 city = "Allenspark"
 county = "Boulder"
-longitude = -105.50795
 latitude = 40.210184
+longitude = -105.50795
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80510"
+

@@ -1,6 +1,8 @@
-zip_code = "24220"
-state = "VA"
 city = "Birchleaf"
 county = "Dickenson"
-longitude = -82.344881
 latitude = 37.130943
+longitude = -82.344881
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24220"
+

@@ -1,6 +1,8 @@
-zip_code = "73547"
-state = "OK"
 city = "Granite"
 county = "Greer"
-longitude = -99.394148
 latitude = 34.950884
+longitude = -99.394148
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73547"
+

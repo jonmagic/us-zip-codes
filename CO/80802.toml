@@ -1,6 +1,8 @@
-zip_code = "80802"
-state = "CO"
 city = "Arapahoe"
 county = "Cheyenne"
-longitude = -102.524932
 latitude = 38.847485
+longitude = -102.524932
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80802"
+

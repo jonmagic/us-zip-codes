@@ -1,6 +1,8 @@
-zip_code = "31627"
-state = "GA"
 city = "Cecil"
 county = "Cook"
-longitude = -83.391519
 latitude = 31.040257
+longitude = -83.391519
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31627"
+

@@ -1,6 +1,8 @@
-zip_code = "27811"
-state = "NC"
 city = "Bellarthur"
 county = "Pitt"
-longitude = -77.513357
 latitude = 35.584685
+longitude = -77.513357
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27811"
+

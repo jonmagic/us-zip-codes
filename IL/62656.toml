@@ -1,6 +1,8 @@
-zip_code = "62656"
-state = "IL"
 city = "Lincoln"
 county = "Logan"
-longitude = -89.398361
 latitude = 40.162779
+longitude = -89.398361
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62656"
+

@@ -1,6 +1,8 @@
-zip_code = "44491"
-state = "OH"
 city = "West Farmington"
 county = "Trumbull"
-longitude = -80.950285
 latitude = 41.368863
+longitude = -80.950285
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44491"
+

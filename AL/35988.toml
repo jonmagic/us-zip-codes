@@ -1,6 +1,8 @@
-zip_code = "35988"
-state = "AL"
 city = "Sylvania"
 county = "De Kalb"
-longitude = -85.729289
 latitude = 34.570198
+longitude = -85.729289
+state = ""
+state_code_alpha2 = ""
+zip_code = "35988"
+

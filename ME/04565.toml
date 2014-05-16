@@ -1,6 +1,8 @@
-zip_code = "04565"
-state = "ME"
 city = "Sebasco Estates"
 county = "Sagadahoc"
-longitude = -69.863461
 latitude = 43.773312
+longitude = -69.863461
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04565"
+

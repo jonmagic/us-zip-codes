@@ -1,6 +1,8 @@
-zip_code = "56216"
-state = "MN"
 city = "Blomkest"
 county = "Kandiyohi"
-longitude = -95.058849
 latitude = 44.950076
+longitude = -95.058849
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56216"
+

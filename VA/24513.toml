@@ -1,6 +1,8 @@
-zip_code = "24513"
-state = "VA"
 city = "Lynchburg"
 county = "Campbell"
-longitude = -79.133546
 latitude = 37.245798
+longitude = -79.133546
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24513"
+

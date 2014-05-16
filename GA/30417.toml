@@ -1,6 +1,8 @@
-zip_code = "30417"
-state = "GA"
 city = "Claxton"
 county = "Evans"
-longitude = -81.923832
 latitude = 32.160611
+longitude = -81.923832
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30417"
+

@@ -1,6 +1,8 @@
-zip_code = "43558"
-state = "OH"
 city = "Swanton"
 county = "Fulton"
-longitude = -84.103035
 latitude = 41.593787
+longitude = -84.103035
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43558"
+

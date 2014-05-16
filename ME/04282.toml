@@ -1,6 +1,8 @@
-zip_code = "04282"
-state = "ME"
 city = "Turner"
 county = "Androscoggin"
-longitude = -70.254155
 latitude = 44.265473
+longitude = -70.254155
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04282"
+

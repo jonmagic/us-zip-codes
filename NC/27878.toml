@@ -1,6 +1,8 @@
-zip_code = "27878"
-state = "NC"
 city = "Sharpsburg"
 county = "Nash"
-longitude = -77.838886
 latitude = 35.865387
+longitude = -77.838886
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27878"
+

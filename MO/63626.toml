@@ -1,6 +1,8 @@
-zip_code = "63626"
-state = "MO"
 city = "Blackwell"
 county = "Saint Francois"
-longitude = -90.627911
 latitude = 38.054424
+longitude = -90.627911
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63626"
+

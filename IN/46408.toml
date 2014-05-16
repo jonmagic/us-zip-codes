@@ -1,6 +1,8 @@
-zip_code = "46408"
-state = "IN"
 city = "Gary"
 county = "Lake"
-longitude = -87.375307
 latitude = 41.544936
+longitude = -87.375307
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46408"
+

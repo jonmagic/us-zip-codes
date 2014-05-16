@@ -1,6 +1,8 @@
-zip_code = "23661"
-state = "VA"
 city = "Hampton"
 county = "Hampton City"
-longitude = -76.385817
 latitude = 37.034746
+longitude = -76.385817
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23661"
+

@@ -1,6 +1,8 @@
-zip_code = "13865"
-state = "NY"
 city = "Windsor"
 county = "Broome"
-longitude = -75.644078
 latitude = 42.069103
+longitude = -75.644078
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13865"
+

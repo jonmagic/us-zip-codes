@@ -1,6 +1,8 @@
-zip_code = "21627"
-state = "MD"
 city = "Crocheron"
 county = "Dorchester"
-longitude = -76.053064
 latitude = 38.242608
+longitude = -76.053064
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21627"
+

@@ -1,6 +1,8 @@
-zip_code = "29704"
-state = "SC"
 city = "Catawba"
 county = "York"
-longitude = -80.938257
 latitude = 34.859604
+longitude = -80.938257
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29704"
+

@@ -1,6 +1,8 @@
-zip_code = "23881"
-state = "VA"
 city = "Spring Grove"
 county = "Surry"
-longitude = -76.967517
 latitude = 37.169453
+longitude = -76.967517
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23881"
+

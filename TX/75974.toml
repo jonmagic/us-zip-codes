@@ -1,6 +1,8 @@
-zip_code = "75974"
-state = "TX"
 city = "Tenaha"
 county = "Shelby"
-longitude = -94.247695
 latitude = 31.948053
+longitude = -94.247695
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75974"
+

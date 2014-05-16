@@ -1,6 +1,8 @@
-zip_code = "47631"
-state = "IN"
 city = "New Harmony"
 county = "Posey"
-longitude = -87.898765
 latitude = 38.101827
+longitude = -87.898765
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47631"
+

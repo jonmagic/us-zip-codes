@@ -1,6 +1,8 @@
-zip_code = "56736"
-state = "MN"
 city = "Mentor"
 county = "Polk"
-longitude = -96.154311
 latitude = 47.681728
+longitude = -96.154311
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56736"
+

@@ -1,6 +1,8 @@
-zip_code = "96064"
-state = "CA"
 city = "Montague"
 county = "Siskiyou"
-longitude = -122.196783
 latitude = 41.757491
+longitude = -122.196783
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96064"
+

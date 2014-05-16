@@ -1,6 +1,8 @@
-zip_code = "47012"
-state = "IN"
 city = "Brookville"
 county = "Franklin"
-longitude = -85.00028
 latitude = 39.416398
+longitude = -85.00028
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47012"
+

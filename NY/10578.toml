@@ -1,6 +1,8 @@
-zip_code = "10578"
-state = "NY"
 city = "Purdys"
 county = "Westchester"
-longitude = -73.645145
 latitude = 41.315779
+longitude = -73.645145
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10578"
+

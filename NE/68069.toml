@@ -1,6 +1,8 @@
-zip_code = "68069"
-state = "NE"
 city = "Waterloo"
 county = "Douglas"
-longitude = -96.305914
 latitude = 41.248299
+longitude = -96.305914
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68069"
+

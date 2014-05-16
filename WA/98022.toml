@@ -1,6 +1,8 @@
-zip_code = "98022"
-state = "WA"
 city = "Enumclaw"
 county = "King"
-longitude = -121.903936
 latitude = 47.234107
+longitude = -121.903936
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98022"
+

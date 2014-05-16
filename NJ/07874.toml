@@ -1,6 +1,8 @@
-zip_code = "07874"
-state = "NJ"
 city = "Stanhope"
 county = "Sussex"
-longitude = -74.713557
 latitude = 40.930937
+longitude = -74.713557
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07874"
+

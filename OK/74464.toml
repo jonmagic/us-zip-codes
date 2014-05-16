@@ -1,6 +1,8 @@
-zip_code = "74464"
-state = "OK"
 city = "Tahlequah"
 county = "Cherokee"
-longitude = -94.911331
 latitude = 35.911304
+longitude = -94.911331
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74464"
+

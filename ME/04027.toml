@@ -1,6 +1,8 @@
-zip_code = "04027"
-state = "ME"
 city = "Lebanon"
 county = "York"
-longitude = -70.91519
 latitude = 43.459708
+longitude = -70.91519
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04027"
+

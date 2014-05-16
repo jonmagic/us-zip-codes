@@ -1,6 +1,8 @@
-zip_code = "28146"
-state = "NC"
 city = "Salisbury"
 county = "Rowan"
-longitude = -80.402235
 latitude = 35.618694
+longitude = -80.402235
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28146"
+

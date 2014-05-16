@@ -1,6 +1,8 @@
-zip_code = "50139"
-state = "IA"
 city = "Lacona"
 county = "Warren"
-longitude = -93.414713
 latitude = 41.218741
+longitude = -93.414713
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50139"
+

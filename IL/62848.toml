@@ -1,6 +1,8 @@
-zip_code = "62848"
-state = "IL"
 city = "Irvington"
 county = "Washington"
-longitude = -89.167834
 latitude = 38.413658
+longitude = -89.167834
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62848"
+

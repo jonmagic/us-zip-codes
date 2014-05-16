@@ -1,6 +1,8 @@
-zip_code = "97461"
-state = "OR"
 city = "Noti"
 county = "Lane"
-longitude = -123.468389
 latitude = 44.099169
+longitude = -123.468389
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97461"
+

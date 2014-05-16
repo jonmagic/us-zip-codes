@@ -1,6 +1,8 @@
-zip_code = "99012"
-state = "WA"
 city = "Fairfield"
 county = "Spokane"
-longitude = -117.17253
 latitude = 47.405253
+longitude = -117.17253
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99012"
+

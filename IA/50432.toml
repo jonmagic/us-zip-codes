@@ -1,6 +1,8 @@
-zip_code = "50432"
-state = "IA"
 city = "Crystal Lake"
 county = "Hancock"
-longitude = -93.800697
 latitude = 43.21835
+longitude = -93.800697
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50432"
+

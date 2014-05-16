@@ -1,6 +1,8 @@
-zip_code = "31084"
-state = "GA"
 city = "Seville"
 county = "Wilcox"
-longitude = -83.394574
 latitude = 31.989039
+longitude = -83.394574
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31084"
+

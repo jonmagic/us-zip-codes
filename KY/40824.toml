@@ -1,6 +1,8 @@
-zip_code = "40824"
-state = "KY"
 city = "Dayhoit"
 county = "Harlan"
-longitude = -83.375307
 latitude = 36.835555
+longitude = -83.375307
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40824"
+

@@ -1,6 +1,8 @@
-zip_code = "25064"
-state = "WV"
 city = "Dunbar"
 county = "Kanawha"
-longitude = -81.570048
 latitude = 38.348822
+longitude = -81.570048
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25064"
+

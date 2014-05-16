@@ -1,6 +1,8 @@
-zip_code = "33865"
-state = "FL"
 city = "Ona"
 county = "Hardee"
-longitude = -81.899723
 latitude = 27.450538
+longitude = -81.899723
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33865"
+

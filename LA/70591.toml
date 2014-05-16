@@ -1,6 +1,8 @@
-zip_code = "70591"
-state = "LA"
 city = "Welsh"
 county = "Jefferson Davis"
-longitude = -92.833656
 latitude = 30.294276
+longitude = -92.833656
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70591"
+

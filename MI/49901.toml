@@ -1,6 +1,8 @@
-zip_code = "49901"
-state = "MI"
 city = "Ahmeek"
 county = "Keweenaw"
-longitude = -88.389708
 latitude = 47.293287
+longitude = -88.389708
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49901"
+

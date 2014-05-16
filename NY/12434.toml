@@ -1,6 +1,8 @@
-zip_code = "12434"
-state = "NY"
 city = "Grand Gorge"
 county = "Delaware"
-longitude = -74.459223
 latitude = 42.320684
+longitude = -74.459223
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12434"
+

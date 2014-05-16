@@ -1,6 +1,8 @@
-zip_code = "92342"
-state = "CA"
 city = "Helendale"
 county = "San Bernardino"
-longitude = -116.378323
 latitude = 34.496921
+longitude = -116.378323
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92342"
+

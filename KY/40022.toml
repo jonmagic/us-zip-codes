@@ -1,6 +1,8 @@
-zip_code = "40022"
-state = "KY"
 city = "Finchville"
 county = "Shelby"
-longitude = -85.340174
 latitude = 38.15483
+longitude = -85.340174
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40022"
+

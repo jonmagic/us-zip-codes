@@ -1,6 +1,8 @@
-zip_code = "44054"
-state = "OH"
 city = "Sheffield Lake"
 county = "Lorain"
-longitude = -82.089769
 latitude = 41.463541
+longitude = -82.089769
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44054"
+

@@ -1,6 +1,8 @@
-zip_code = "41606"
-state = "KY"
 city = "Bevinsville"
 county = "Floyd"
-longitude = -82.740255
 latitude = 37.346493
+longitude = -82.740255
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41606"
+

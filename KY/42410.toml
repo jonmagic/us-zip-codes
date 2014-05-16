@@ -1,6 +1,8 @@
-zip_code = "42410"
-state = "KY"
 city = "Earlington"
 county = "Hopkins"
-longitude = -87.513052
 latitude = 37.27427
+longitude = -87.513052
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42410"
+

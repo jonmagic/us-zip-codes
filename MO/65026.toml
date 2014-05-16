@@ -1,6 +1,8 @@
-zip_code = "65026"
-state = "MO"
 city = "Eldon"
 county = "Miller"
-longitude = -92.478035
 latitude = 38.320057
+longitude = -92.478035
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65026"
+

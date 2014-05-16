@@ -1,6 +1,8 @@
-zip_code = "78576"
-state = "TX"
 city = "Penitas"
 county = "Hidalgo"
-longitude = -98.101526
 latitude = 26.193734
+longitude = -98.101526
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78576"
+

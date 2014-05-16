@@ -1,6 +1,8 @@
-zip_code = "68711"
-state = "NE"
 city = "Amelia"
 county = "Holt"
-longitude = -99.032048
 latitude = 42.556421
+longitude = -99.032048
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68711"
+

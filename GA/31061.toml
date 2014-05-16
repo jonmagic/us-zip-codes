@@ -1,6 +1,8 @@
-zip_code = "31061"
-state = "GA"
 city = "Milledgeville"
 county = "Baldwin"
-longitude = -83.239008
 latitude = 33.072279
+longitude = -83.239008
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31061"
+

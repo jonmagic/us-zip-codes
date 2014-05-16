@@ -1,6 +1,8 @@
-zip_code = "41855"
-state = "KY"
 city = "Thornton"
 county = "Letcher"
-longitude = -82.795137
 latitude = 37.178608
+longitude = -82.795137
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41855"
+

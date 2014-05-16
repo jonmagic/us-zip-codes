@@ -1,6 +1,8 @@
-zip_code = "29449"
-state = "SC"
 city = "Hollywood"
 county = "Charleston"
-longitude = -80.27443
 latitude = 32.710486
+longitude = -80.27443
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29449"
+

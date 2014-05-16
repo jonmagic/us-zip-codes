@@ -1,6 +1,8 @@
-zip_code = "61262"
-state = "IL"
 city = "Lynn Center"
 county = "Henry"
-longitude = -90.319658
 latitude = 41.285461
+longitude = -90.319658
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61262"
+

@@ -1,6 +1,8 @@
-zip_code = "93424"
-state = "CA"
 city = "Avila Beach"
 county = "San Luis Obispo"
-longitude = -120.717769
 latitude = 35.190349
+longitude = -120.717769
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93424"
+

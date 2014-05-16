@@ -1,6 +1,8 @@
-zip_code = "58365"
-state = "ND"
 city = "Rocklake"
 county = "Towner"
-longitude = -99.26309
 latitude = 48.844548
+longitude = -99.26309
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58365"
+

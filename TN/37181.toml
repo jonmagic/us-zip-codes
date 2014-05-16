@@ -1,6 +1,8 @@
-zip_code = "37181"
-state = "TN"
 city = "Vanleer"
 county = "Dickson"
-longitude = -87.465507
 latitude = 36.245657
+longitude = -87.465507
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37181"
+

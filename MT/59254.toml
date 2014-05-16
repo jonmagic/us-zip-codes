@@ -1,6 +1,8 @@
-zip_code = "59254"
-state = "MT"
 city = "Plentywood"
 county = "Sheridan"
-longitude = -104.468029
 latitude = 48.747919
+longitude = -104.468029
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59254"
+

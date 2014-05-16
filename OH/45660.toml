@@ -1,6 +1,8 @@
-zip_code = "45660"
-state = "OH"
 city = "Peebles"
 county = "Adams"
-longitude = -83.461114
 latitude = 38.858792
+longitude = -83.461114
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45660"
+

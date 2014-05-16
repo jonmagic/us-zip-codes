@@ -1,6 +1,8 @@
-zip_code = "55953"
-state = "MN"
 city = "Lyle"
 county = "Mower"
-longitude = -92.942939
 latitude = 43.506952
+longitude = -92.942939
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55953"
+

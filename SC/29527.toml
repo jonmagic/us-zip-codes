@@ -1,6 +1,8 @@
-zip_code = "29527"
-state = "SC"
 city = "Conway"
 county = "Horry"
-longitude = -79.022331
 latitude = 33.82352
+longitude = -79.022331
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29527"
+

@@ -1,6 +1,8 @@
-zip_code = "71649"
-state = "AR"
 city = "Jennie"
 county = "Chicot"
-longitude = -91.25206
 latitude = 33.283901
+longitude = -91.25206
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71649"
+

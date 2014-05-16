@@ -1,6 +1,8 @@
-zip_code = "38468"
-state = "TN"
 city = "Leoma"
 county = "Lawrence"
-longitude = -87.295169
 latitude = 35.149182
+longitude = -87.295169
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38468"
+

@@ -1,6 +1,8 @@
-zip_code = "17801"
-state = "PA"
 city = "Sunbury"
 county = "Northumberland"
-longitude = -76.735577
 latitude = 40.869766
+longitude = -76.735577
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17801"
+

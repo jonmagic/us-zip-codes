@@ -1,6 +1,8 @@
-zip_code = "50251"
-state = "IA"
 city = "Sully"
 county = "Jasper"
-longitude = -92.924355
 latitude = 41.576832
+longitude = -92.924355
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50251"
+

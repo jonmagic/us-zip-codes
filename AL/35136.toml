@@ -1,6 +1,8 @@
-zip_code = "35136"
-state = "AL"
 city = "Rockford"
 county = "Coosa"
-longitude = -86.156068
 latitude = 32.897085
+longitude = -86.156068
+state = ""
+state_code_alpha2 = ""
+zip_code = "35136"
+

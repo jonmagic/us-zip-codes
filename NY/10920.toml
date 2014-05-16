@@ -1,6 +1,8 @@
-zip_code = "10920"
-state = "NY"
 city = "Congers"
 county = "Rockland"
-longitude = -73.936305
 latitude = 41.152545
+longitude = -73.936305
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10920"
+

@@ -1,6 +1,8 @@
-zip_code = "30803"
-state = "GA"
 city = "Avera"
 county = "Jefferson"
-longitude = -82.527009
 latitude = 33.141307
+longitude = -82.527009
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30803"
+

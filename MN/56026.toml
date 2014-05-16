@@ -1,6 +1,8 @@
-zip_code = "56026"
-state = "MN"
 city = "Ellendale"
 county = "Steele"
-longitude = -93.286367
 latitude = 43.927861
+longitude = -93.286367
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56026"
+

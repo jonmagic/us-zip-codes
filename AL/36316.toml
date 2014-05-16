@@ -1,6 +1,8 @@
-zip_code = "36316"
-state = "AL"
 city = "Chancellor"
 county = "Geneva"
-longitude = -85.813483
 latitude = 31.176749
+longitude = -85.813483
+state = ""
+state_code_alpha2 = ""
+zip_code = "36316"
+

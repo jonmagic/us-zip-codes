@@ -1,6 +1,8 @@
-zip_code = "27893"
-state = "NC"
 city = "Wilson"
 county = "Wilson"
-longitude = -77.925269
 latitude = 35.723264
+longitude = -77.925269
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27893"
+

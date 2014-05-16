@@ -1,6 +1,8 @@
-zip_code = "73073"
-state = "OK"
 city = "Orlando"
 county = "Logan"
-longitude = -97.408181
 latitude = 35.944569
+longitude = -97.408181
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73073"
+

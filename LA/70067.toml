@@ -1,6 +1,8 @@
-zip_code = "70067"
-state = "LA"
 city = "Lafitte"
 county = "Jefferson"
-longitude = -90.113675
 latitude = 29.825895
+longitude = -90.113675
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70067"
+

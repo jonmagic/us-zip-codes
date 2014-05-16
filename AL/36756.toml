@@ -1,6 +1,8 @@
-zip_code = "36756"
-state = "AL"
 city = "Marion"
 county = "Perry"
-longitude = -87.350401
 latitude = 32.608995
+longitude = -87.350401
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36756"
+

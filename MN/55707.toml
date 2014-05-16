@@ -1,6 +1,8 @@
-zip_code = "55707"
-state = "MN"
 city = "Barnum"
 county = "Carlton"
-longitude = -92.720097
 latitude = 46.556833
+longitude = -92.720097
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55707"
+

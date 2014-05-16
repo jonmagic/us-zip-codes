@@ -1,6 +1,8 @@
-zip_code = "54749"
-state = "WI"
 city = "Knapp"
 county = "Dunn"
-longitude = -92.07521
 latitude = 44.947538
+longitude = -92.07521
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54749"
+

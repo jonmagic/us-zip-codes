@@ -1,6 +1,8 @@
-zip_code = "98223"
-state = "WA"
 city = "Arlington"
 county = "Snohomish"
-longitude = -121.959469
 latitude = 48.181498
+longitude = -121.959469
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98223"
+

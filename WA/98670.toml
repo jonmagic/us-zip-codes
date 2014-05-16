@@ -1,6 +1,8 @@
-zip_code = "98670"
-state = "WA"
 city = "Wahkiacus"
 county = "Klickitat"
-longitude = -121.302305
 latitude = 45.810317
+longitude = -121.302305
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98670"
+

@@ -1,6 +1,8 @@
-zip_code = "59453"
-state = "MT"
 city = "Judith Gap"
 county = "Wheatland"
-longitude = -109.834856
 latitude = 46.485721
+longitude = -109.834856
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59453"
+

@@ -1,6 +1,8 @@
-zip_code = "06069"
-state = "CT"
 city = "Sharon"
 county = "Litchfield"
-longitude = -73.433903
 latitude = 41.874681
+longitude = -73.433903
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06069"
+

@@ -1,6 +1,8 @@
-zip_code = "05355"
-state = "VT"
 city = "Wardsboro"
 county = "Windham"
-longitude = -72.792004
 latitude = 43.00476
+longitude = -72.792004
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05355"
+

@@ -1,6 +1,8 @@
-zip_code = "76455"
-state = "TX"
 city = "Gustine"
 county = "Comanche"
-longitude = -98.401686
 latitude = 31.846846
+longitude = -98.401686
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76455"
+

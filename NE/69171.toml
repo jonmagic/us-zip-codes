@@ -1,6 +1,8 @@
-zip_code = "69171"
-state = "NE"
 city = "Willow Island"
 county = "Dawson"
-longitude = -100.070257
 latitude = 40.892469
+longitude = -100.070257
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69171"
+

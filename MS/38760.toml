@@ -1,6 +1,8 @@
-zip_code = "38760"
-state = "MS"
 city = "Metcalfe"
 county = "Washington"
-longitude = -90.994264
 latitude = 33.454614
+longitude = -90.994264
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38760"
+

@@ -1,6 +1,8 @@
-zip_code = "17769"
-state = "PA"
 city = "Slate Run"
 county = "Lycoming"
-longitude = -77.023601
 latitude = 41.33275
+longitude = -77.023601
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17769"
+

@@ -1,6 +1,8 @@
-zip_code = "81253"
-state = "CO"
 city = "Wetmore"
 county = "Custer"
-longitude = -105.14766
 latitude = 38.121657
+longitude = -105.14766
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81253"
+

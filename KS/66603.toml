@@ -1,6 +1,8 @@
-zip_code = "66603"
-state = "KS"
 city = "Topeka"
 county = "Shawnee"
-longitude = -95.675758
 latitude = 39.05215
+longitude = -95.675758
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66603"
+

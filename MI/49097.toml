@@ -1,6 +1,8 @@
-zip_code = "49097"
-state = "MI"
 city = "Vicksburg"
 county = "Kalamazoo"
-longitude = -85.473371
 latitude = 42.17954
+longitude = -85.473371
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49097"
+

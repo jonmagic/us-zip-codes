@@ -1,6 +1,8 @@
-zip_code = "37347"
-state = "TN"
 city = "Jasper"
 county = "Marion"
-longitude = -85.589691
 latitude = 35.097012
+longitude = -85.589691
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37347"
+

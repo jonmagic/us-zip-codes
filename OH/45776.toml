@@ -1,6 +1,8 @@
-zip_code = "45776"
-state = "OH"
 city = "Shade"
 county = "Athens"
-longitude = -82.018739
 latitude = 39.214673
+longitude = -82.018739
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45776"
+

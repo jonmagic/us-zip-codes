@@ -1,6 +1,8 @@
-zip_code = "67427"
-state = "KS"
 city = "Bushton"
 county = "Rice"
-longitude = -98.387168
 latitude = 38.463875
+longitude = -98.387168
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67427"
+

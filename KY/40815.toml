@@ -1,6 +1,8 @@
-zip_code = "40815"
-state = "KY"
 city = "Cawood"
 county = "Harlan"
-longitude = -83.291362
 latitude = 36.781218
+longitude = -83.291362
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40815"
+

@@ -1,6 +1,8 @@
-zip_code = "17051"
-state = "PA"
 city = "Mc Veytown"
 county = "Mifflin"
-longitude = -77.734919
 latitude = 40.478095
+longitude = -77.734919
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17051"
+

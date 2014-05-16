@@ -1,6 +1,8 @@
-zip_code = "12788"
-state = "NY"
 city = "Woodbourne"
 county = "Sullivan"
-longitude = -74.729403
 latitude = 41.810974
+longitude = -74.729403
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12788"
+

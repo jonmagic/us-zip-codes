@@ -1,6 +1,8 @@
-zip_code = "76525"
-state = "TX"
 city = "Evant"
 county = "Coryell"
-longitude = -98.053477
 latitude = 31.438841
+longitude = -98.053477
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76525"
+

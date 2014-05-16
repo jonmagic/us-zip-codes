@@ -1,6 +1,8 @@
-zip_code = "60097"
-state = "IL"
 city = "Wonder Lake"
 county = "Mchenry"
-longitude = -88.332794
 latitude = 42.355165
+longitude = -88.332794
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60097"
+

@@ -1,6 +1,8 @@
-zip_code = "95927"
-state = "CA"
 city = "Chico"
 county = "Butte"
-longitude = -121.684124
 latitude = 39.805255
+longitude = -121.684124
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95927"
+

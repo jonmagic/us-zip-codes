@@ -1,6 +1,8 @@
-zip_code = "27565"
-state = "NC"
 city = "Oxford"
 county = "Granville"
-longitude = -78.65313
 latitude = 36.348168
+longitude = -78.65313
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27565"
+

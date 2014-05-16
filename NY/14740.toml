@@ -1,6 +1,8 @@
-zip_code = "14740"
-state = "NY"
 city = "Gerry"
 county = "Chautauqua"
-longitude = -79.170519
 latitude = 42.21129
+longitude = -79.170519
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14740"
+

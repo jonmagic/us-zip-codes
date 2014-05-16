@@ -1,6 +1,8 @@
-zip_code = "50049"
-state = "IA"
 city = "Chariton"
 county = "Lucas"
-longitude = -93.309464
 latitude = 41.046868
+longitude = -93.309464
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50049"
+

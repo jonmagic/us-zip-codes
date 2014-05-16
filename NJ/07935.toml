@@ -1,6 +1,8 @@
-zip_code = "07935"
-state = "NJ"
 city = "Green Village"
 county = "Morris"
-longitude = -74.448747
 latitude = 40.739782
+longitude = -74.448747
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07935"
+

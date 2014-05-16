@@ -1,6 +1,8 @@
-zip_code = "38345"
-state = "TN"
 city = "Huron"
 county = "Henderson"
-longitude = -88.496219
 latitude = 35.621106
+longitude = -88.496219
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38345"
+

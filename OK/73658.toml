@@ -1,6 +1,8 @@
-zip_code = "73658"
-state = "OK"
 city = "Oakwood"
 county = "Dewey"
-longitude = -98.706518
 latitude = 35.93284
+longitude = -98.706518
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73658"
+

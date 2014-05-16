@@ -1,6 +1,8 @@
-zip_code = "72747"
-state = "AR"
 city = "Maysville"
 county = "Benton"
-longitude = -94.583717
 latitude = 36.391882
+longitude = -94.583717
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72747"
+

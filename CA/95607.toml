@@ -1,6 +1,8 @@
-zip_code = "95607"
-state = "CA"
 city = "Capay"
 county = "Yolo"
-longitude = -122.140491
 latitude = 38.785596
+longitude = -122.140491
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95607"
+

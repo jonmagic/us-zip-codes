@@ -1,6 +1,8 @@
-zip_code = "38661"
-state = "MS"
 city = "Red Banks"
 county = "Marshall"
-longitude = -89.564928
 latitude = 34.893744
+longitude = -89.564928
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38661"
+

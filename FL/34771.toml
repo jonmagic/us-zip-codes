@@ -1,6 +1,8 @@
-zip_code = "34771"
-state = "FL"
 city = "Saint Cloud"
 county = "Osceola"
-longitude = -81.231589
 latitude = 28.246439
+longitude = -81.231589
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34771"
+

@@ -1,6 +1,8 @@
-zip_code = "56585"
-state = "MN"
 city = "Ulen"
 county = "Clay"
-longitude = -96.258706
 latitude = 47.0663
+longitude = -96.258706
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56585"
+

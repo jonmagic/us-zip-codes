@@ -1,6 +1,8 @@
-zip_code = "76248"
-state = "TX"
 city = "Keller"
 county = "Tarrant"
-longitude = -97.24871
 latitude = 32.934629
+longitude = -97.24871
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76248"
+

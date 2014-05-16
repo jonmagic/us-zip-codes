@@ -1,6 +1,8 @@
-zip_code = "97874"
-state = "OR"
 city = "Spray"
 county = "Wheeler"
-longitude = -119.914072
 latitude = 44.780103
+longitude = -119.914072
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97874"
+

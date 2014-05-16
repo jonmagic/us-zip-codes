@@ -1,6 +1,8 @@
-zip_code = "58250"
-state = "ND"
 city = "Lankin"
 county = "Walsh"
-longitude = -98.076663
 latitude = 48.282007
+longitude = -98.076663
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58250"
+

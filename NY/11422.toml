@@ -1,6 +1,8 @@
-zip_code = "11422"
-state = "NY"
 city = "Rosedale"
 county = "Queens"
-longitude = -73.736866
 latitude = 40.659418
+longitude = -73.736866
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11422"
+

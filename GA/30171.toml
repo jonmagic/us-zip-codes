@@ -1,6 +1,8 @@
-zip_code = "30171"
-state = "GA"
 city = "Rydal"
 county = "Bartow"
-longitude = -84.737644
 latitude = 34.337901
+longitude = -84.737644
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30171"
+

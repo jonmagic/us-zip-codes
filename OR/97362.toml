@@ -1,6 +1,8 @@
-zip_code = "97362"
-state = "OR"
 city = "Mount Angel"
 county = "Marion"
-longitude = -122.655118
 latitude = 44.934698
+longitude = -122.655118
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97362"
+

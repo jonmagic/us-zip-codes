@@ -1,6 +1,8 @@
-zip_code = "57461"
-state = "SD"
 city = "Mellette"
 county = "Spink"
-longitude = -98.426714
 latitude = 45.155829
+longitude = -98.426714
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57461"
+

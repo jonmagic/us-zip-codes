@@ -1,6 +1,8 @@
-zip_code = "64420"
-state = "MO"
 city = "Allendale"
 county = "Worth"
-longitude = -94.423294
 latitude = 40.478118
+longitude = -94.423294
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64420"
+

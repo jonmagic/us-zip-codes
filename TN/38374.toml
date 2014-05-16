@@ -1,6 +1,8 @@
-zip_code = "38374"
-state = "TN"
 city = "Scotts Hill"
 county = "Decatur"
-longitude = -88.2138
 latitude = 35.466358
+longitude = -88.2138
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38374"
+

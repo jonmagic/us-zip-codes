@@ -1,6 +1,8 @@
-zip_code = "06092"
-state = "CT"
 city = "West Simsbury"
 county = "Hartford"
-longitude = -72.849854
 latitude = 41.865597
+longitude = -72.849854
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06092"
+

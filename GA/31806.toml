@@ -1,6 +1,8 @@
-zip_code = "31806"
-state = "GA"
 city = "Ellaville"
 county = "Schley"
-longitude = -84.277064
 latitude = 32.209028
+longitude = -84.277064
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31806"
+

@@ -1,6 +1,8 @@
-zip_code = "59758"
-state = "MT"
 city = "West Yellowstone"
 county = "Gallatin"
-longitude = -111.237705
 latitude = 44.763016
+longitude = -111.237705
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59758"
+

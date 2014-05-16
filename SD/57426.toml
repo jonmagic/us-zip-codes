@@ -1,6 +1,8 @@
-zip_code = "57426"
-state = "SD"
 city = "Barnard"
 county = "Brown"
-longitude = -98.569848
 latitude = 45.735409
+longitude = -98.569848
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57426"
+

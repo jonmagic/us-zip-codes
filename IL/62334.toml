@@ -1,6 +1,8 @@
-zip_code = "62334"
-state = "IL"
 city = "Elvaston"
 county = "Hancock"
-longitude = -91.221434
 latitude = 40.41707
+longitude = -91.221434
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62334"
+

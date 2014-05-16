@@ -1,6 +1,8 @@
-zip_code = "43311"
-state = "OH"
 city = "Bellefontaine"
 county = "Logan"
-longitude = -83.787784
 latitude = 40.378783
+longitude = -83.787784
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43311"
+

@@ -1,6 +1,8 @@
-zip_code = "61048"
-state = "IL"
 city = "Lena"
 county = "Stephenson"
-longitude = -89.816756
 latitude = 42.386301
+longitude = -89.816756
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61048"
+

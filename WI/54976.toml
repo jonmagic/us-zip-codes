@@ -1,6 +1,8 @@
-zip_code = "54976"
-state = "WI"
 city = "Saxeville"
 county = "Waushara"
-longitude = -89.096856
 latitude = 44.209313
+longitude = -89.096856
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54976"
+

@@ -1,6 +1,8 @@
-zip_code = "68065"
-state = "NE"
 city = "Valparaiso"
 county = "Saunders"
-longitude = -96.831839
 latitude = 41.108919
+longitude = -96.831839
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68065"
+

@@ -1,6 +1,8 @@
-zip_code = "78622"
-state = "TX"
 city = "Fentress"
 county = "Caldwell"
-longitude = -97.751156
 latitude = 29.76084
+longitude = -97.751156
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78622"
+

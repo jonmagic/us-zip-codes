@@ -1,6 +1,8 @@
-zip_code = "50519"
-state = "IA"
 city = "Bode"
 county = "Humboldt"
-longitude = -94.295698
 latitude = 42.863891
+longitude = -94.295698
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50519"
+

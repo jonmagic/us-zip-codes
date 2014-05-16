@@ -1,6 +1,8 @@
-zip_code = "85929"
-state = "AZ"
 city = "Lakeside"
 county = "Navajo"
-longitude = -109.972598
 latitude = 34.175198
+longitude = -109.972598
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85929"
+

@@ -1,6 +1,8 @@
-zip_code = "28109"
-state = "NC"
 city = "Misenheimer"
 county = "Stanly"
-longitude = -80.270445
 latitude = 35.480124
+longitude = -80.270445
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28109"
+

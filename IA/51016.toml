@@ -1,6 +1,8 @@
-zip_code = "51016"
-state = "IA"
 city = "Correctionville"
 county = "Woodbury"
-longitude = -95.969596
 latitude = 42.394029
+longitude = -95.969596
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51016"
+

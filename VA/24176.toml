@@ -1,6 +1,8 @@
-zip_code = "24176"
-state = "VA"
 city = "Union Hall"
 county = "Franklin"
-longitude = -79.757636
 latitude = 37.014893
+longitude = -79.757636
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24176"
+

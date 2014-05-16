@@ -1,6 +1,8 @@
-zip_code = "41339"
-state = "KY"
 city = "Jackson"
 county = "Breathitt"
-longitude = -83.291331
 latitude = 37.486809
+longitude = -83.291331
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41339"
+

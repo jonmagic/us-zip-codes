@@ -1,6 +1,8 @@
-zip_code = "17261"
-state = "PA"
 city = "South Mountain"
 county = "Franklin"
-longitude = -77.488633
 latitude = 39.833095
+longitude = -77.488633
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17261"
+

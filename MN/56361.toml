@@ -1,6 +1,8 @@
-zip_code = "56361"
-state = "MN"
 city = "Parkers Prairie"
 county = "Otter Tail"
-longitude = -95.350438
 latitude = 46.150334
+longitude = -95.350438
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56361"
+

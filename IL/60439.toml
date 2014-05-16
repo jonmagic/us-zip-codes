@@ -1,6 +1,8 @@
-zip_code = "60439"
-state = "IL"
 city = "Lemont"
 county = "Du Page"
-longitude = -87.975568
 latitude = 41.707431
+longitude = -87.975568
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60439"
+

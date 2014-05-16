@@ -1,6 +1,8 @@
-zip_code = "46161"
-state = "IN"
 city = "Morristown"
 county = "Shelby"
-longitude = -85.71264
 latitude = 39.65521
+longitude = -85.71264
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46161"
+

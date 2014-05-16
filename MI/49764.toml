@@ -1,6 +1,8 @@
-zip_code = "49764"
-state = "MI"
 city = "Oden"
 county = "Emmet"
-longitude = -84.814645
 latitude = 45.480257
+longitude = -84.814645
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49764"
+

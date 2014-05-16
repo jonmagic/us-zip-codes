@@ -1,6 +1,8 @@
-zip_code = "14772"
-state = "NY"
 city = "Randolph"
 county = "Cattaraugus"
-longitude = -78.844412
 latitude = 42.156841
+longitude = -78.844412
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14772"
+

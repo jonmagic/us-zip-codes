@@ -1,6 +1,8 @@
-zip_code = "88043"
-state = "NM"
 city = "Hurley"
 county = "Grant"
-longitude = -108.100988
 latitude = 32.702887
+longitude = -108.100988
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88043"
+

@@ -1,6 +1,8 @@
-zip_code = "36790"
-state = "AL"
 city = "Stanton"
 county = "Chilton"
-longitude = -86.875759
 latitude = 32.723537
+longitude = -86.875759
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36790"
+

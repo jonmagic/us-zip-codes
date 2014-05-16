@@ -1,6 +1,8 @@
-zip_code = "13123"
-state = "NY"
 city = "North Bay"
 county = "Oneida"
-longitude = -75.776918
 latitude = 43.236407
+longitude = -75.776918
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13123"
+

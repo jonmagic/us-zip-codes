@@ -1,6 +1,8 @@
-zip_code = "62477"
-state = "IL"
 city = "West Union"
 county = "Clark"
-longitude = -87.674977
 latitude = 39.236906
+longitude = -87.674977
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62477"
+

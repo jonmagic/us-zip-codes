@@ -1,6 +1,8 @@
-zip_code = "21856"
-state = "MD"
 city = "Quantico"
 county = "Wicomico"
-longitude = -75.763118
 latitude = 38.305282
+longitude = -75.763118
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21856"
+

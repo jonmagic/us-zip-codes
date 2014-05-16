@@ -1,6 +1,8 @@
-zip_code = "18843"
-state = "PA"
 city = "South Montrose"
 county = "Susquehanna"
-longitude = -75.88314
 latitude = 41.8237
+longitude = -75.88314
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18843"
+

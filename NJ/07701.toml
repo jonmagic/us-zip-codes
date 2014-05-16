@@ -1,6 +1,8 @@
-zip_code = "07701"
-state = "NJ"
 city = "Red Bank"
 county = "Monmouth"
-longitude = -74.068143
 latitude = 40.358409
+longitude = -74.068143
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07701"
+

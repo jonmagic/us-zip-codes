@@ -1,6 +1,8 @@
-zip_code = "77665"
-state = "TX"
 city = "Winnie"
 county = "Chambers"
-longitude = -94.475364
 latitude = 29.823383
+longitude = -94.475364
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77665"
+

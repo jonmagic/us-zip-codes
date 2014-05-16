@@ -1,6 +1,8 @@
-zip_code = "49047"
-state = "MI"
 city = "Dowagiac"
 county = "Cass"
-longitude = -86.019304
 latitude = 41.961597
+longitude = -86.019304
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49047"
+

@@ -1,6 +1,8 @@
-zip_code = "62433"
-state = "IL"
 city = "Hutsonville"
 county = "Crawford"
-longitude = -87.707636
 latitude = 39.085312
+longitude = -87.707636
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62433"
+

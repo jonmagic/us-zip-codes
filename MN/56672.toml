@@ -1,6 +1,8 @@
-zip_code = "56672"
-state = "MN"
 city = "Remer"
 county = "Cass"
-longitude = -94.021032
 latitude = 47.095793
+longitude = -94.021032
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56672"
+

@@ -1,6 +1,8 @@
-zip_code = "96132"
-state = "CA"
 city = "Termo"
 county = "Lassen"
-longitude = -120.612954
 latitude = 40.950868
+longitude = -120.612954
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96132"
+

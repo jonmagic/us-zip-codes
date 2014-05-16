@@ -1,6 +1,8 @@
-zip_code = "18653"
-state = "PA"
 city = "Ransom"
 county = "Lackawanna"
-longitude = -75.824239
 latitude = 41.394526
+longitude = -75.824239
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18653"
+

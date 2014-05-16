@@ -1,6 +1,8 @@
-zip_code = "84741"
-state = "UT"
 city = "Kanab"
 county = "Kane"
-longitude = -111.687187
 latitude = 37.265251
+longitude = -111.687187
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84741"
+

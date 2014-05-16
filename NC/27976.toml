@@ -1,6 +1,8 @@
-zip_code = "27976"
-state = "NC"
 city = "South Mills"
 county = "Camden"
-longitude = -76.280026
 latitude = 36.455346
+longitude = -76.280026
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27976"
+

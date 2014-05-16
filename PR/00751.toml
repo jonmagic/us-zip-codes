@@ -1,6 +1,8 @@
-zip_code = "00751"
-state = "PR"
 city = "Salinas"
 county = "Salinas"
-longitude = -66.264825
 latitude = 17.99852
+longitude = -66.264825
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00751"
+

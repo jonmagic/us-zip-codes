@@ -1,6 +1,8 @@
-zip_code = "24124"
-state = "VA"
 city = "Narrows"
 county = "Giles"
-longitude = -80.762866
 latitude = 37.342026
+longitude = -80.762866
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24124"
+

@@ -1,6 +1,8 @@
-zip_code = "14564"
-state = "NY"
 city = "Victor"
 county = "Ontario"
-longitude = -77.426906
 latitude = 42.973715
+longitude = -77.426906
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14564"
+

@@ -1,6 +1,8 @@
-zip_code = "51242"
-state = "IA"
 city = "Lester"
 county = "Lyon"
-longitude = -96.336111
 latitude = 43.444333
+longitude = -96.336111
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51242"
+

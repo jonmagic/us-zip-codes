@@ -1,6 +1,8 @@
-zip_code = "14893"
-state = "NY"
 city = "Wayne"
 county = "Schuyler"
-longitude = -77.097713
 latitude = 42.474143
+longitude = -77.097713
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14893"
+

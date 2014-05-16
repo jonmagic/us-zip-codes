@@ -1,6 +1,8 @@
-zip_code = "12141"
-state = "NY"
 city = "Quaker Street"
 county = "Schenectady"
-longitude = -74.185395
 latitude = 42.731771
+longitude = -74.185395
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12141"
+

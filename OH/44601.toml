@@ -1,6 +1,8 @@
-zip_code = "44601"
-state = "OH"
 city = "Alliance"
 county = "Stark"
-longitude = -81.335275
 latitude = 40.820292
+longitude = -81.335275
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44601"
+

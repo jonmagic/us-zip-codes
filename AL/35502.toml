@@ -1,6 +1,8 @@
-zip_code = "35502"
-state = "AL"
 city = "Jasper"
 county = "Walker"
-longitude = -87.293888
 latitude = 33.901993
+longitude = -87.293888
+state = ""
+state_code_alpha2 = ""
+zip_code = "35502"
+

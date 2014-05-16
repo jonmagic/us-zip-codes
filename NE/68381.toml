@@ -1,6 +1,8 @@
-zip_code = "68381"
-state = "NE"
 city = "Liberty"
 county = "Gage"
-longitude = -96.689998
 latitude = 40.262266
+longitude = -96.689998
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68381"
+

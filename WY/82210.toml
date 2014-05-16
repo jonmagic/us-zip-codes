@@ -1,6 +1,8 @@
-zip_code = "82210"
-state = "WY"
 city = "Chugwater"
 county = "Platte"
-longitude = -104.871308
 latitude = 41.74064
+longitude = -104.871308
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82210"
+

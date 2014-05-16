@@ -1,6 +1,8 @@
-zip_code = "13747"
-state = "NY"
 city = "Colliersville"
 county = "Otsego"
-longitude = -74.982056
 latitude = 42.505122
+longitude = -74.982056
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13747"
+

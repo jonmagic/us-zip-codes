@@ -1,6 +1,8 @@
-zip_code = "76273"
-state = "TX"
 city = "Whitesboro"
 county = "Grayson"
-longitude = -96.836522
 latitude = 33.701372
+longitude = -96.836522
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76273"
+

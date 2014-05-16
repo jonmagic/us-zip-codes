@@ -1,6 +1,8 @@
-zip_code = "62991"
-state = "IL"
 city = "Tunnel Hill"
 county = "Johnson"
-longitude = -88.847731
 latitude = 37.503628
+longitude = -88.847731
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62991"
+

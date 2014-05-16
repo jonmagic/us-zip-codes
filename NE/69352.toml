@@ -1,6 +1,8 @@
-zip_code = "69352"
-state = "NE"
 city = "Lyman"
 county = "Scotts Bluff"
-longitude = -103.974153
 latitude = 41.835492
+longitude = -103.974153
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69352"
+

@@ -1,6 +1,8 @@
-zip_code = "41031"
-state = "KY"
 city = "Cynthiana"
 county = "Harrison"
-longitude = -84.323033
 latitude = 38.356954
+longitude = -84.323033
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41031"
+

@@ -1,6 +1,8 @@
-zip_code = "26416"
-state = "WV"
 city = "Philippi"
 county = "Barbour"
-longitude = -80.049182
 latitude = 39.161343
+longitude = -80.049182
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26416"
+

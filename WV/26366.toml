@@ -1,6 +1,8 @@
-zip_code = "26366"
-state = "WV"
 city = "Haywood"
 county = "Harrison"
-longitude = -80.348925
 latitude = 39.374487
+longitude = -80.348925
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26366"
+

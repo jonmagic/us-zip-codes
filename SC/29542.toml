@@ -1,6 +1,8 @@
-zip_code = "29542"
-state = "SC"
 city = "Floyd Dale"
 county = "Dillon"
-longitude = -79.352291
 latitude = 34.425629
+longitude = -79.352291
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29542"
+

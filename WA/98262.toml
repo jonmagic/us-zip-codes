@@ -1,6 +1,8 @@
-zip_code = "98262"
-state = "WA"
 city = "Lummi Island"
 county = "Whatcom"
-longitude = -122.67647
 latitude = 48.713022
+longitude = -122.67647
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98262"
+

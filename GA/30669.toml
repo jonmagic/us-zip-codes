@@ -1,6 +1,8 @@
-zip_code = "30669"
-state = "GA"
 city = "Union Point"
 county = "Greene"
-longitude = -83.122065
 latitude = 33.634342
+longitude = -83.122065
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30669"
+

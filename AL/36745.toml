@@ -1,6 +1,8 @@
-zip_code = "36745"
-state = "AL"
 city = "Jefferson"
 county = "Marengo"
-longitude = -87.898611
 latitude = 32.414036
+longitude = -87.898611
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36745"
+

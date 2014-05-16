@@ -1,6 +1,8 @@
-zip_code = "03284"
-state = "NH"
 city = "Springfield"
 county = "Sullivan"
-longitude = -72.047018
 latitude = 43.493812
+longitude = -72.047018
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03284"
+

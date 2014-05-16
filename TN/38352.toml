@@ -1,6 +1,8 @@
-zip_code = "38352"
-state = "TN"
 city = "Luray"
 county = "Chester"
-longitude = -88.537854
 latitude = 35.535462
+longitude = -88.537854
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38352"
+

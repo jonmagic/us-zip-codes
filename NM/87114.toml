@@ -1,6 +1,8 @@
-zip_code = "87114"
-state = "NM"
 city = "Albuquerque"
 county = "Bernalillo"
-longitude = -106.665199
 latitude = 35.186754
+longitude = -106.665199
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87114"
+

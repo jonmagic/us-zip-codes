@@ -1,6 +1,8 @@
-zip_code = "68039"
-state = "NE"
 city = "Macy"
 county = "Thurston"
-longitude = -96.545297
 latitude = 42.146597
+longitude = -96.545297
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68039"
+

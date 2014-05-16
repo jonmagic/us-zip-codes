@@ -1,6 +1,8 @@
-zip_code = "51449"
-state = "IA"
 city = "Lake City"
 county = "Calhoun"
-longitude = -94.721051
 latitude = 42.29709
+longitude = -94.721051
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51449"
+

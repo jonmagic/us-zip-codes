@@ -1,6 +1,8 @@
-zip_code = "80534"
-state = "CO"
 city = "Johnstown"
 county = "Weld"
-longitude = -104.867196
 latitude = 40.320091
+longitude = -104.867196
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80534"
+

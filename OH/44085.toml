@@ -1,6 +1,8 @@
-zip_code = "44085"
-state = "OH"
 city = "Rome"
 county = "Ashtabula"
-longitude = -80.770777
 latitude = 41.624828
+longitude = -80.770777
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44085"
+

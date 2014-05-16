@@ -1,6 +1,8 @@
-zip_code = "63332"
-state = "MO"
 city = "Augusta"
 county = "Saint Charles"
-longitude = -90.880321
 latitude = 38.619089
+longitude = -90.880321
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63332"
+

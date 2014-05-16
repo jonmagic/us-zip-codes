@@ -1,6 +1,8 @@
-zip_code = "24246"
-state = "VA"
 city = "East Stone Gap"
 county = "Wise"
-longitude = -82.737469
 latitude = 36.864429
+longitude = -82.737469
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24246"
+

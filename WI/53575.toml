@@ -1,6 +1,8 @@
-zip_code = "53575"
-state = "WI"
 city = "Oregon"
 county = "Dane"
-longitude = -89.389642
 latitude = 42.933918
+longitude = -89.389642
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53575"
+

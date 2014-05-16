@@ -1,6 +1,8 @@
-zip_code = "27520"
-state = "NC"
 city = "Clayton"
 county = "Johnston"
-longitude = -78.435416
 latitude = 35.633257
+longitude = -78.435416
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27520"
+

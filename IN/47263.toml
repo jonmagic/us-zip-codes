@@ -1,6 +1,8 @@
-zip_code = "47263"
-state = "IN"
 city = "New Point"
 county = "Decatur"
-longitude = -85.329695
 latitude = 39.308252
+longitude = -85.329695
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47263"
+

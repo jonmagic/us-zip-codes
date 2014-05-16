@@ -1,6 +1,8 @@
-zip_code = "61455"
-state = "IL"
 city = "Macomb"
 county = "Mcdonough"
-longitude = -90.660675
 latitude = 40.459904
+longitude = -90.660675
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61455"
+

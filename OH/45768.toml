@@ -1,6 +1,8 @@
-zip_code = "45768"
-state = "OH"
 city = "Newport"
 county = "Washington"
-longitude = -81.225093
 latitude = 39.393315
+longitude = -81.225093
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45768"
+

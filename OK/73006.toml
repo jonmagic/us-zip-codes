@@ -1,6 +1,8 @@
-zip_code = "73006"
-state = "OK"
 city = "Apache"
 county = "Caddo"
-longitude = -98.361483
 latitude = 34.891016
+longitude = -98.361483
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73006"
+

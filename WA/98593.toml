@@ -1,6 +1,8 @@
-zip_code = "98593"
-state = "WA"
 city = "Vader"
 county = "Lewis"
-longitude = -122.973972
 latitude = 46.423038
+longitude = -122.973972
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98593"
+

@@ -1,6 +1,8 @@
-zip_code = "47143"
-state = "IN"
 city = "Memphis"
 county = "Clark"
-longitude = -85.769631
 latitude = 38.467595
+longitude = -85.769631
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47143"
+

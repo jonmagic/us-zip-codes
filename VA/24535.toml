@@ -1,6 +1,8 @@
-zip_code = "24535"
-state = "VA"
 city = "Cluster Springs"
 county = "Halifax"
-longitude = -78.945519
 latitude = 36.611317
+longitude = -78.945519
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24535"
+

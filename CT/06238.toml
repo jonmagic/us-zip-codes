@@ -1,6 +1,8 @@
-zip_code = "06238"
-state = "CT"
 city = "Coventry"
 county = "Tolland"
-longitude = -72.323642
 latitude = 41.778623
+longitude = -72.323642
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06238"
+

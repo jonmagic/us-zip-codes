@@ -1,6 +1,8 @@
-zip_code = "43449"
-state = "OH"
 city = "Oak Harbor"
 county = "Ottawa"
-longitude = -83.144869
 latitude = 41.53653
+longitude = -83.144869
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43449"
+

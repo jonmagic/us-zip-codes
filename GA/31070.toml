@@ -1,6 +1,8 @@
-zip_code = "31070"
-state = "GA"
 city = "Pinehurst"
 county = "Dooly"
-longitude = -83.778422
 latitude = 32.182652
+longitude = -83.778422
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31070"
+

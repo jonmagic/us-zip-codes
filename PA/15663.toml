@@ -1,6 +1,8 @@
-zip_code = "15663"
-state = "PA"
 city = "Madison"
 county = "Westmoreland"
-longitude = -79.676516
 latitude = 40.24397
+longitude = -79.676516
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15663"
+

@@ -1,6 +1,8 @@
-zip_code = "77486"
-state = "TX"
 city = "West Columbia"
 county = "Brazoria"
-longitude = -95.684009
 latitude = 29.122892
+longitude = -95.684009
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77486"
+

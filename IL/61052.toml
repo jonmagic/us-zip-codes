@@ -1,6 +1,8 @@
-zip_code = "61052"
-state = "IL"
 city = "Monroe Center"
 county = "Ogle"
-longitude = -88.998128
 latitude = 42.108224
+longitude = -88.998128
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61052"
+

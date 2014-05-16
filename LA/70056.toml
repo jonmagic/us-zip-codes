@@ -1,6 +1,8 @@
-zip_code = "70056"
-state = "LA"
 city = "Gretna"
 county = "Jefferson"
-longitude = -90.033138
 latitude = 29.887204
+longitude = -90.033138
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70056"
+

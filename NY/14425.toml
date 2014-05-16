@@ -1,6 +1,8 @@
-zip_code = "14425"
-state = "NY"
 city = "Farmington"
 county = "Ontario"
-longitude = -77.308256
 latitude = 42.958041
+longitude = -77.308256
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14425"
+

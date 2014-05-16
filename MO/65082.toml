@@ -1,6 +1,8 @@
-zip_code = "65082"
-state = "MO"
 city = "Tuscumbia"
 county = "Miller"
-longitude = -92.446098
 latitude = 38.21813
+longitude = -92.446098
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65082"
+

@@ -1,6 +1,8 @@
-zip_code = "61745"
-state = "IL"
 city = "Heyworth"
 county = "Mclean"
-longitude = -88.985385
 latitude = 40.458782
+longitude = -88.985385
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61745"
+

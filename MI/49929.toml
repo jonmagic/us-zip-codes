@@ -1,6 +1,8 @@
-zip_code = "49929"
-state = "MI"
 city = "Greenland"
 county = "Ontonagon"
-longitude = -89.114601
 latitude = 46.780865
+longitude = -89.114601
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49929"
+

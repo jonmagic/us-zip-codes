@@ -1,6 +1,8 @@
-zip_code = "37330"
-state = "TN"
 city = "Estill Springs"
 county = "Franklin"
-longitude = -86.056548
 latitude = 35.270666
+longitude = -86.056548
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37330"
+

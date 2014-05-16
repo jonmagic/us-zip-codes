@@ -1,6 +1,8 @@
-zip_code = "56754"
-state = "MN"
 city = "Saint Hilaire"
 county = "Pennington"
-longitude = -96.213472
 latitude = 48.014969
+longitude = -96.213472
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56754"
+

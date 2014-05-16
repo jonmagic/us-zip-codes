@@ -1,6 +1,8 @@
-zip_code = "62932"
-state = "IL"
 city = "Elkville"
 county = "Jackson"
-longitude = -89.217138
 latitude = 37.894281
+longitude = -89.217138
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62932"
+

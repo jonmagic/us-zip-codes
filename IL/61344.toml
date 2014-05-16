@@ -1,6 +1,8 @@
-zip_code = "61344"
-state = "IL"
 city = "Mineral"
 county = "Bureau"
-longitude = -89.828368
 latitude = 41.379654
+longitude = -89.828368
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61344"
+

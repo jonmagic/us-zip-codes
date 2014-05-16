@@ -1,6 +1,8 @@
-zip_code = "40150"
-state = "KY"
 city = "Lebanon Junction"
 county = "Bullitt"
-longitude = -85.688029
 latitude = 37.90878
+longitude = -85.688029
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40150"
+

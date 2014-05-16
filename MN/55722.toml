@@ -1,6 +1,8 @@
-zip_code = "55722"
-state = "MN"
 city = "Coleraine"
 county = "Itasca"
-longitude = -93.385597
 latitude = 47.377503
+longitude = -93.385597
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55722"
+

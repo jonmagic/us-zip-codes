@@ -1,6 +1,8 @@
-zip_code = "43321"
-state = "OH"
 city = "Fulton"
 county = "Morrow"
-longitude = -82.834207
 latitude = 40.49712
+longitude = -82.834207
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43321"
+

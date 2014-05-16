@@ -1,6 +1,8 @@
-zip_code = "12746"
-state = "NY"
 city = "Huguenot"
 county = "Orange"
-longitude = -74.640019
 latitude = 41.437689
+longitude = -74.640019
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12746"
+

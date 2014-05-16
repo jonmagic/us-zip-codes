@@ -1,6 +1,8 @@
-zip_code = "12827"
-state = "NY"
 city = "Fort Ann"
 county = "Washington"
-longitude = -73.489198
 latitude = 43.443936
+longitude = -73.489198
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12827"
+

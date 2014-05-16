@@ -1,6 +1,8 @@
-zip_code = "79255"
-state = "TX"
 city = "Quitaque"
 county = "Briscoe"
-longitude = -101.087775
 latitude = 34.380648
+longitude = -101.087775
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79255"
+

@@ -1,6 +1,8 @@
-zip_code = "81146"
-state = "CO"
 city = "Mosca"
 county = "Alamosa"
-longitude = -105.773133
 latitude = 37.631025
+longitude = -105.773133
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81146"
+

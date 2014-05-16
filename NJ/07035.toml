@@ -1,6 +1,8 @@
-zip_code = "07035"
-state = "NJ"
 city = "Lincoln Park"
 county = "Morris"
-longitude = -74.303093
 latitude = 40.926637
+longitude = -74.303093
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07035"
+

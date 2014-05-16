@@ -1,6 +1,8 @@
-zip_code = "56011"
-state = "MN"
 city = "Belle Plaine"
 county = "Scott"
-longitude = -93.757888
 latitude = 44.608912
+longitude = -93.757888
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56011"
+

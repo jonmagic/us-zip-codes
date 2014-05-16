@@ -1,6 +1,8 @@
-zip_code = "63080"
-state = "MO"
 city = "Sullivan"
 county = "Franklin"
-longitude = -91.091755
 latitude = 38.349197
+longitude = -91.091755
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63080"
+

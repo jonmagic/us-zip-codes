@@ -1,6 +1,8 @@
-zip_code = "84621"
-state = "UT"
 city = "Axtell"
 county = "Sanpete"
-longitude = -111.719605
 latitude = 39.192478
+longitude = -111.719605
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84621"
+

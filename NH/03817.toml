@@ -1,6 +1,8 @@
-zip_code = "03817"
-state = "NH"
 city = "Chocorua"
 county = "Carroll"
-longitude = -71.089796
 latitude = 43.74858
+longitude = -71.089796
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03817"
+

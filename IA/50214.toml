@@ -1,6 +1,8 @@
-zip_code = "50214"
-state = "IA"
 city = "Otley"
 county = "Marion"
-longitude = -93.030605
 latitude = 41.426958
+longitude = -93.030605
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50214"
+

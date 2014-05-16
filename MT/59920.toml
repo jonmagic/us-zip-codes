@@ -1,6 +1,8 @@
-zip_code = "59920"
-state = "MT"
 city = "Kila"
 county = "Flathead"
-longitude = -114.513752
 latitude = 48.047758
+longitude = -114.513752
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59920"
+

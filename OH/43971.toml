@@ -1,6 +1,8 @@
-zip_code = "43971"
-state = "OH"
 city = "Yorkville"
 county = "Jefferson"
-longitude = -80.810216
 latitude = 40.338699
+longitude = -80.810216
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43971"
+

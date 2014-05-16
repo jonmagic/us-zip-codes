@@ -1,6 +1,8 @@
-zip_code = "74338"
-state = "OK"
 city = "Colcord"
 county = "Delaware"
-longitude = -94.694674
 latitude = 36.265655
+longitude = -94.694674
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74338"
+

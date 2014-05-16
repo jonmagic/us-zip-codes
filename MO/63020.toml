@@ -1,6 +1,8 @@
-zip_code = "63020"
-state = "MO"
 city = "De Soto"
 county = "Jefferson"
-longitude = -90.559045
 latitude = 38.139054
+longitude = -90.559045
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63020"
+

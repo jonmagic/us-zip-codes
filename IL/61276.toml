@@ -1,6 +1,8 @@
-zip_code = "61276"
-state = "IL"
 city = "Preemption"
 county = "Mercer"
-longitude = -90.586643
 latitude = 41.299563
+longitude = -90.586643
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61276"
+

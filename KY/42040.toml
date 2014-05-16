@@ -1,6 +1,8 @@
-zip_code = "42040"
-state = "KY"
 city = "Farmington"
 county = "Graves"
-longitude = -88.51864
 latitude = 36.600013
+longitude = -88.51864
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42040"
+

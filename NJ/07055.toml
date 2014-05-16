@@ -1,6 +1,8 @@
-zip_code = "07055"
-state = "NJ"
 city = "Passaic"
 county = "Passaic"
-longitude = -74.126916
 latitude = 40.855103
+longitude = -74.126916
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07055"
+

@@ -1,6 +1,8 @@
-zip_code = "72037"
-state = "AR"
 city = "Coy"
 county = "Lonoke"
-longitude = -91.875767
 latitude = 34.541185
+longitude = -91.875767
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72037"
+

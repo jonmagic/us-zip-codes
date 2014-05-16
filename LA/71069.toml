@@ -1,6 +1,8 @@
-zip_code = "71069"
-state = "LA"
 city = "Rodessa"
 county = "Caddo"
-longitude = -93.968905
 latitude = 32.96331
+longitude = -93.968905
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71069"
+

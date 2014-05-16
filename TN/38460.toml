@@ -1,6 +1,8 @@
-zip_code = "38460"
-state = "TN"
 city = "Goodspring"
 county = "Giles"
-longitude = -87.143713
 latitude = 35.077182
+longitude = -87.143713
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38460"
+

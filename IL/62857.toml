@@ -1,6 +1,8 @@
-zip_code = "62857"
-state = "IL"
 city = "Loogootee"
 county = "Fayette"
-longitude = -88.975507
 latitude = 38.977111
+longitude = -88.975507
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62857"
+

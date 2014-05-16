@@ -1,6 +1,8 @@
-zip_code = "84740"
-state = "UT"
 city = "Junction"
 county = "Piute"
-longitude = -112.223742
 latitude = 38.243856
+longitude = -112.223742
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84740"
+

@@ -1,6 +1,8 @@
-zip_code = "42085"
-state = "KY"
 city = "Water Valley"
 county = "Graves"
-longitude = -88.761466
 latitude = 36.572137
+longitude = -88.761466
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42085"
+

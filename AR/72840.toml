@@ -1,6 +1,8 @@
-zip_code = "72840"
-state = "AR"
 city = "Hartman"
 county = "Johnson"
-longitude = -93.64356
 latitude = 35.436024
+longitude = -93.64356
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72840"
+

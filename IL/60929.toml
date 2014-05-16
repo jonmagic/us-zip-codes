@@ -1,6 +1,8 @@
-zip_code = "60929"
-state = "IL"
 city = "Cullom"
 county = "Livingston"
-longitude = -88.30019
 latitude = 40.882509
+longitude = -88.30019
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60929"
+

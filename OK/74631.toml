@@ -1,6 +1,8 @@
-zip_code = "74631"
-state = "OK"
 city = "Blackwell"
 county = "Kay"
-longitude = -97.20684
 latitude = 36.803494
+longitude = -97.20684
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74631"
+

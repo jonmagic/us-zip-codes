@@ -1,6 +1,8 @@
-zip_code = "20131"
-state = "VA"
 city = "Philomont"
 county = "Loudoun"
-longitude = -77.743423
 latitude = 39.057952
+longitude = -77.743423
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20131"
+

@@ -1,6 +1,8 @@
-zip_code = "50259"
-state = "IA"
 city = "Gifford"
 county = "Hardin"
-longitude = -93.250567
 latitude = 42.383133
+longitude = -93.250567
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50259"
+

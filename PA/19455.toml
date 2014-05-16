@@ -1,6 +1,8 @@
-zip_code = "19455"
-state = "PA"
 city = "North Wales"
 county = "Montgomery"
-longitude = -75.35586
 latitude = 40.211896
+longitude = -75.35586
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19455"
+

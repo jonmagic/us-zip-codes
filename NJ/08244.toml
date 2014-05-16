@@ -1,6 +1,8 @@
-zip_code = "08244"
-state = "NJ"
 city = "Somers Point"
 county = "Atlantic"
-longitude = -74.664422
 latitude = 39.425655
+longitude = -74.664422
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08244"
+

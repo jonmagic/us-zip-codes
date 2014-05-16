@@ -1,6 +1,8 @@
-zip_code = "75443"
-state = "TX"
 city = "Gober"
 county = "Fannin"
-longitude = -96.111103
 latitude = 33.469719
+longitude = -96.111103
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75443"
+

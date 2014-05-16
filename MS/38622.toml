@@ -1,6 +1,8 @@
-zip_code = "38622"
-state = "MS"
 city = "Crowder"
 county = "Quitman"
-longitude = -90.136429
 latitude = 34.173057
+longitude = -90.136429
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38622"
+

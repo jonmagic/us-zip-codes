@@ -1,6 +1,8 @@
-zip_code = "15136"
-state = "PA"
 city = "Mc Kees Rocks"
 county = "Allegheny"
-longitude = -80.103669
 latitude = 40.467006
+longitude = -80.103669
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15136"
+

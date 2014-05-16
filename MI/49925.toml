@@ -1,6 +1,8 @@
-zip_code = "49925"
-state = "MI"
 city = "Ewen"
 county = "Ontonagon"
-longitude = -89.365311
 latitude = 46.548352
+longitude = -89.365311
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49925"
+

@@ -1,6 +1,8 @@
-zip_code = "53577"
-state = "WI"
 city = "Plain"
 county = "Sauk"
-longitude = -90.022327
 latitude = 43.293776
+longitude = -90.022327
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53577"
+

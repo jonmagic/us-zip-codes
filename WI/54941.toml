@@ -1,6 +1,8 @@
-zip_code = "54941"
-state = "WI"
 city = "Green Lake"
 county = "Green Lake"
-longitude = -88.985883
 latitude = 43.85627
+longitude = -88.985883
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54941"
+

@@ -1,6 +1,8 @@
-zip_code = "68314"
-state = "NE"
 city = "Bee"
 county = "Seward"
-longitude = -97.034527
 latitude = 41.002864
+longitude = -97.034527
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68314"
+

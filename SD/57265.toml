@@ -1,6 +1,8 @@
-zip_code = "57265"
-state = "SD"
 city = "Strandburg"
 county = "Grant"
-longitude = -96.74078
 latitude = 45.021579
+longitude = -96.74078
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57265"
+

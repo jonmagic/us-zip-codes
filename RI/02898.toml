@@ -1,6 +1,8 @@
-zip_code = "02898"
-state = "RI"
 city = "Wyoming"
 county = "Washington"
-longitude = -71.662954
 latitude = 41.504089
+longitude = -71.662954
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02898"
+

@@ -1,6 +1,8 @@
-zip_code = "75755"
-state = "TX"
 city = "Big Sandy"
 county = "Upshur"
-longitude = -95.057746
 latitude = 32.571552
+longitude = -95.057746
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75755"
+

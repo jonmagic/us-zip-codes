@@ -1,6 +1,8 @@
-zip_code = "49885"
-state = "MI"
 city = "Skandia"
 county = "Marquette"
-longitude = -87.300505
 latitude = 46.396896
+longitude = -87.300505
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49885"
+

@@ -1,6 +1,8 @@
-zip_code = "66036"
-state = "KS"
 city = "Hillsdale"
 county = "Miami"
-longitude = -94.852061
 latitude = 38.658068
+longitude = -94.852061
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66036"
+

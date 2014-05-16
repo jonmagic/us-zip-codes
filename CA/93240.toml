@@ -1,6 +1,8 @@
-zip_code = "93240"
-state = "CA"
 city = "Lake Isabella"
 county = "Kern"
-longitude = -118.457002
 latitude = 35.668987
+longitude = -118.457002
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93240"
+

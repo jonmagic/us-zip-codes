@@ -1,6 +1,8 @@
-zip_code = "71474"
-state = "LA"
 city = "Simpson"
 county = "Vernon"
-longitude = -93.016983
 latitude = 31.257037
+longitude = -93.016983
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71474"
+

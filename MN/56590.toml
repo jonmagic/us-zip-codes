@@ -1,6 +1,8 @@
-zip_code = "56590"
-state = "MN"
 city = "Wendell"
 county = "Grant"
-longitude = -96.012359
 latitude = 45.934055
+longitude = -96.012359
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56590"
+

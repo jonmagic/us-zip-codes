@@ -1,6 +1,8 @@
-zip_code = "21836"
-state = "MD"
 city = "Manokin"
 county = "Somerset"
-longitude = -75.734412
 latitude = 38.073294
+longitude = -75.734412
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21836"
+

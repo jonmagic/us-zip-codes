@@ -1,6 +1,8 @@
-zip_code = "38575"
-state = "TN"
 city = "Moss"
 county = "Clay"
-longitude = -85.631181
 latitude = 36.552546
+longitude = -85.631181
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38575"
+

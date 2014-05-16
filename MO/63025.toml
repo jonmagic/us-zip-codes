@@ -1,6 +1,8 @@
-zip_code = "63025"
-state = "MO"
 city = "Eureka"
 county = "Saint Louis"
-longitude = -90.630576
 latitude = 38.512803
+longitude = -90.630576
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63025"
+

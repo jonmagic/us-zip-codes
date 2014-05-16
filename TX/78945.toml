@@ -1,6 +1,8 @@
-zip_code = "78945"
-state = "TX"
 city = "La Grange"
 county = "Fayette"
-longitude = -96.872133
 latitude = 29.896494
+longitude = -96.872133
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78945"
+

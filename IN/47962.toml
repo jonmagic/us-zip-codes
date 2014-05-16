@@ -1,6 +1,8 @@
-zip_code = "47962"
-state = "IN"
 city = "Montmorenci"
 county = "Tippecanoe"
-longitude = -87.027571
 latitude = 40.473159
+longitude = -87.027571
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47962"
+

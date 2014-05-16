@@ -1,6 +1,8 @@
-zip_code = "33851"
-state = "FL"
 city = "Lake Hamilton"
 county = "Polk"
-longitude = -81.627998
 latitude = 28.036937
+longitude = -81.627998
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33851"
+

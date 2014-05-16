@@ -1,6 +1,8 @@
-zip_code = "61472"
-state = "IL"
 city = "Rio"
 county = "Knox"
-longitude = -90.38161
 latitude = 41.100464
+longitude = -90.38161
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61472"
+

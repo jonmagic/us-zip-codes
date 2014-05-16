@@ -1,6 +1,8 @@
-zip_code = "49777"
-state = "MI"
 city = "Presque Isle"
 county = "Presque Isle"
-longitude = -83.586073
 latitude = 45.283057
+longitude = -83.586073
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49777"
+

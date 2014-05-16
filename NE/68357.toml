@@ -1,6 +1,8 @@
-zip_code = "68357"
-state = "NE"
 city = "Filley"
 county = "Gage"
-longitude = -96.535195
 latitude = 40.284748
+longitude = -96.535195
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68357"
+

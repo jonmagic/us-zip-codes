@@ -1,6 +1,8 @@
-zip_code = "73566"
-state = "OK"
 city = "Snyder"
 county = "Kiowa"
-longitude = -98.95239
 latitude = 34.673689
+longitude = -98.95239
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73566"
+

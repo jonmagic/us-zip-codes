@@ -1,6 +1,8 @@
-zip_code = "14534"
-state = "NY"
 city = "Pittsford"
 county = "Monroe"
-longitude = -77.520692
 latitude = 43.060229
+longitude = -77.520692
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14534"
+

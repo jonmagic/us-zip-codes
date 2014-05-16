@@ -1,6 +1,8 @@
-zip_code = "38376"
-state = "TN"
 city = "Shiloh"
 county = "Hardin"
-longitude = -88.346807
 latitude = 35.126018
+longitude = -88.346807
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38376"
+

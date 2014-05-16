@@ -1,6 +1,8 @@
-zip_code = "66714"
-state = "KS"
 city = "Benedict"
 county = "Wilson"
-longitude = -95.703812
 latitude = 37.611817
+longitude = -95.703812
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66714"
+

@@ -1,6 +1,8 @@
-zip_code = "61858"
-state = "IL"
 city = "Oakwood"
 county = "Vermilion"
-longitude = -87.756376
 latitude = 40.133222
+longitude = -87.756376
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61858"
+

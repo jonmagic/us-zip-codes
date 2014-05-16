@@ -1,6 +1,8 @@
-zip_code = "56285"
-state = "MN"
 city = "Sacred Heart"
 county = "Renville"
-longitude = -95.370482
 latitude = 44.779761
+longitude = -95.370482
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56285"
+

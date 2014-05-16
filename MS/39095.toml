@@ -1,6 +1,8 @@
-zip_code = "39095"
-state = "MS"
 city = "Lexington"
 county = "Holmes"
-longitude = -90.057116
 latitude = 33.126082
+longitude = -90.057116
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39095"
+

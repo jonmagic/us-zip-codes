@@ -1,6 +1,8 @@
-zip_code = "48806"
-state = "MI"
 city = "Ashley"
 county = "Gratiot"
-longitude = -84.494123
 latitude = 43.204648
+longitude = -84.494123
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48806"
+

@@ -1,6 +1,8 @@
-zip_code = "52320"
-state = "IA"
 city = "Olin"
 county = "Jones"
-longitude = -91.116054
 latitude = 42.08132
+longitude = -91.116054
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52320"
+

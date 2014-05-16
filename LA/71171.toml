@@ -1,6 +1,8 @@
-zip_code = "71171"
-state = "LA"
 city = "Bossier City"
 county = "Bossier"
-longitude = -93.608968
 latitude = 32.62762
+longitude = -93.608968
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71171"
+

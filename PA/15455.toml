@@ -1,6 +1,8 @@
-zip_code = "15455"
-state = "PA"
 city = "Leisenring"
 county = "Fayette"
-longitude = -79.643451
 latitude = 39.998536
+longitude = -79.643451
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15455"
+

@@ -1,6 +1,8 @@
-zip_code = "13655"
-state = "NY"
 city = "Hogansburg"
 county = "Franklin"
-longitude = -74.647334
 latitude = 44.980232
+longitude = -74.647334
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13655"
+

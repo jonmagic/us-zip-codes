@@ -1,6 +1,8 @@
-zip_code = "21612"
-state = "MD"
 city = "Bozman"
 county = "Talbot"
-longitude = -76.273704
 latitude = 38.74955
+longitude = -76.273704
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21612"
+

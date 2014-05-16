@@ -1,6 +1,8 @@
-zip_code = "69128"
-state = "NE"
 city = "Bushnell"
 county = "Kimball"
-longitude = -103.891757
 latitude = 41.232626
+longitude = -103.891757
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69128"
+

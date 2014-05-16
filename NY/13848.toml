@@ -1,6 +1,8 @@
-zip_code = "13848"
-state = "NY"
 city = "Tunnel"
 county = "Broome"
-longitude = -75.727699
 latitude = 42.214705
+longitude = -75.727699
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13848"
+

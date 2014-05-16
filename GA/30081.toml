@@ -1,6 +1,8 @@
-zip_code = "30081"
-state = "GA"
 city = "Smyrna"
 county = "Cobb"
-longitude = -84.71062
 latitude = 33.858836
+longitude = -84.71062
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30081"
+

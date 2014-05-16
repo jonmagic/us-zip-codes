@@ -1,6 +1,8 @@
-zip_code = "62543"
-state = "IL"
 city = "Latham"
 county = "Logan"
-longitude = -89.315464
 latitude = 40.075633
+longitude = -89.315464
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62543"
+

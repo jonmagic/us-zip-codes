@@ -1,6 +1,8 @@
-zip_code = "70513"
-state = "LA"
 city = "Avery Island"
 county = "Iberia"
-longitude = -91.878675
 latitude = 30.045066
+longitude = -91.878675
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70513"
+

@@ -1,6 +1,8 @@
-zip_code = "40018"
-state = "KY"
 city = "Eastwood"
 county = "Jefferson"
-longitude = -85.66304
 latitude = 38.22977
+longitude = -85.66304
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40018"
+

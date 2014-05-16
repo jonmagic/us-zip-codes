@@ -1,6 +1,8 @@
-zip_code = "67665"
-state = "KS"
 city = "Russell"
 county = "Russell"
-longitude = -98.784797
 latitude = 38.905159
+longitude = -98.784797
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67665"
+

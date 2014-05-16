@@ -1,6 +1,8 @@
-zip_code = "17224"
-state = "PA"
 city = "Fort Loudon"
 county = "Franklin"
-longitude = -77.809574
 latitude = 40.002593
+longitude = -77.809574
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17224"
+

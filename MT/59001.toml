@@ -1,6 +1,8 @@
-zip_code = "59001"
-state = "MT"
 city = "Absarokee"
 county = "Stillwater"
-longitude = -109.455156
 latitude = 45.515571
+longitude = -109.455156
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59001"
+

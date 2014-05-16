@@ -1,6 +1,8 @@
-zip_code = "14420"
-state = "NY"
 city = "Brockport"
 county = "Monroe"
-longitude = -77.917335
 latitude = 43.223303
+longitude = -77.917335
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14420"
+

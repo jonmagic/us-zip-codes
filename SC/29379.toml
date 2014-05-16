@@ -1,6 +1,8 @@
-zip_code = "29379"
-state = "SC"
 city = "Union"
 county = "Union"
-longitude = -81.647687
 latitude = 34.700463
+longitude = -81.647687
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29379"
+

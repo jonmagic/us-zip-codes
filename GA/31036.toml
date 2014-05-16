@@ -1,6 +1,8 @@
-zip_code = "31036"
-state = "GA"
 city = "Hawkinsville"
 county = "Pulaski"
-longitude = -83.49009
 latitude = 32.275664
+longitude = -83.49009
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31036"
+

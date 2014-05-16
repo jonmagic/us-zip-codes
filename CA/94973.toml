@@ -1,6 +1,8 @@
-zip_code = "94973"
-state = "CA"
 city = "Woodacre"
 county = "Marin"
-longitude = -122.661691
 latitude = 38.007172
+longitude = -122.661691
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94973"
+

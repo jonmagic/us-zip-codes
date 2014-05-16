@@ -1,6 +1,8 @@
-zip_code = "73064"
-state = "OK"
 city = "Mustang"
 county = "Canadian"
-longitude = -97.759874
 latitude = 35.390376
+longitude = -97.759874
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73064"
+

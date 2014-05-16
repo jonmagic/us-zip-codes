@@ -1,6 +1,8 @@
-zip_code = "43009"
-state = "OH"
 city = "Cable"
 county = "Champaign"
-longitude = -83.648461
 latitude = 40.161025
+longitude = -83.648461
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43009"
+

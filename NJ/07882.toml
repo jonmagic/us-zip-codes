@@ -1,6 +1,8 @@
-zip_code = "07882"
-state = "NJ"
 city = "Washington"
 county = "Warren"
-longitude = -75.008713
 latitude = 40.747698
+longitude = -75.008713
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07882"
+

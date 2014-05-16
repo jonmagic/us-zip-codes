@@ -1,6 +1,8 @@
-zip_code = "84304"
-state = "UT"
 city = "Cache Junction"
 county = "Cache"
-longitude = -111.998197
 latitude = 41.816936
+longitude = -111.998197
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84304"
+

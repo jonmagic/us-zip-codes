@@ -1,6 +1,8 @@
-zip_code = "12762"
-state = "NY"
 city = "Mongaup Valley"
 county = "Sullivan"
-longitude = -74.783554
 latitude = 41.686123
+longitude = -74.783554
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12762"
+

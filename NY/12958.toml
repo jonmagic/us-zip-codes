@@ -1,6 +1,8 @@
-zip_code = "12958"
-state = "NY"
 city = "Mooers"
 county = "Clinton"
-longitude = -73.661296
 latitude = 44.792956
+longitude = -73.661296
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12958"
+

@@ -1,6 +1,8 @@
-zip_code = "43074"
-state = "OH"
 city = "Sunbury"
 county = "Delaware"
-longitude = -82.854334
 latitude = 40.266029
+longitude = -82.854334
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43074"
+

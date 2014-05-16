@@ -1,6 +1,8 @@
-zip_code = "76233"
-state = "TX"
 city = "Collinsville"
 county = "Grayson"
-longitude = -96.856165
 latitude = 33.561589
+longitude = -96.856165
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76233"
+

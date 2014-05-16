@@ -1,6 +1,8 @@
-zip_code = "74131"
-state = "OK"
 city = "Tulsa"
 county = "Creek"
-longitude = -96.074326
 latitude = 36.04989
+longitude = -96.074326
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74131"
+

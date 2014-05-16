@@ -1,6 +1,8 @@
-zip_code = "28167"
-state = "NC"
 city = "Union Mills"
 county = "Rutherford"
-longitude = -81.975821
 latitude = 35.486941
+longitude = -81.975821
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28167"
+

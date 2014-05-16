@@ -1,6 +1,8 @@
-zip_code = "28662"
-state = "NC"
 city = "Pineola"
 county = "Avery"
-longitude = -81.876049
 latitude = 36.085582
+longitude = -81.876049
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28662"
+

@@ -1,6 +1,8 @@
-zip_code = "37074"
-state = "TN"
 city = "Hartsville"
 county = "Trousdale"
-longitude = -86.143252
 latitude = 36.402012
+longitude = -86.143252
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37074"
+

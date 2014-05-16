@@ -1,6 +1,8 @@
-zip_code = "02030"
-state = "MA"
 city = "Dover"
 county = "Norfolk"
-longitude = -71.283072
 latitude = 42.236114
+longitude = -71.283072
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02030"
+

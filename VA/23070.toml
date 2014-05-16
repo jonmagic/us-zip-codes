@@ -1,6 +1,8 @@
-zip_code = "23070"
-state = "VA"
 city = "Hardyville"
 county = "Middlesex"
-longitude = -76.384428
 latitude = 37.55118
+longitude = -76.384428
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23070"
+

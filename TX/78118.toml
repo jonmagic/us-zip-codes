@@ -1,6 +1,8 @@
-zip_code = "78118"
-state = "TX"
 city = "Karnes City"
 county = "Karnes"
-longitude = -97.937085
 latitude = 28.922377
+longitude = -97.937085
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78118"
+

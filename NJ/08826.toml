@@ -1,6 +1,8 @@
-zip_code = "08826"
-state = "NJ"
 city = "Glen Gardner"
 county = "Hunterdon"
-longitude = -74.904575
 latitude = 40.578191
+longitude = -74.904575
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08826"
+

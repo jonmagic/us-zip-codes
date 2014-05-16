@@ -1,6 +1,8 @@
-zip_code = "24751"
-state = "WV"
 city = "Wolfe"
 county = "Mercer"
-longitude = -81.105803
 latitude = 37.416395
+longitude = -81.105803
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24751"
+

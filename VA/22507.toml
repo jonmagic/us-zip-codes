@@ -1,6 +1,8 @@
-zip_code = "22507"
-state = "VA"
 city = "Lively"
 county = "Lancaster"
-longitude = -76.511804
 latitude = 37.757226
+longitude = -76.511804
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22507"
+

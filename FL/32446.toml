@@ -1,6 +1,8 @@
-zip_code = "32446"
-state = "FL"
 city = "Marianna"
 county = "Jackson"
-longitude = -85.229347
 latitude = 30.799574
+longitude = -85.229347
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32446"
+

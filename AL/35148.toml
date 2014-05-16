@@ -1,6 +1,8 @@
-zip_code = "35148"
-state = "AL"
 city = "Sumiton"
 county = "Walker"
-longitude = -87.0461
 latitude = 33.757716
+longitude = -87.0461
+state = ""
+state_code_alpha2 = ""
+zip_code = "35148"
+

@@ -1,6 +1,8 @@
-zip_code = "74029"
-state = "OK"
 city = "Dewey"
 county = "Washington"
-longitude = -95.896743
 latitude = 36.676086
+longitude = -95.896743
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74029"
+

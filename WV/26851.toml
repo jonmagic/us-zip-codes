@@ -1,6 +1,8 @@
-zip_code = "26851"
-state = "WV"
 city = "Wardensville"
 county = "Hardy"
-longitude = -78.593865
 latitude = 39.077365
+longitude = -78.593865
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26851"
+

@@ -1,6 +1,8 @@
-zip_code = "76301"
-state = "TX"
 city = "Wichita Falls"
 county = "Wichita"
-longitude = -98.48283
 latitude = 33.959758
+longitude = -98.48283
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76301"
+

@@ -1,6 +1,8 @@
-zip_code = "26631"
-state = "WV"
 city = "Napier"
 county = "Braxton"
-longitude = -80.736884
 latitude = 38.706017
+longitude = -80.736884
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26631"
+

@@ -1,6 +1,8 @@
-zip_code = "00660"
-state = "PR"
 city = "Hormigueros"
 county = "Hormigueros"
-longitude = -67.135323
 latitude = 18.145486
+longitude = -67.135323
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00660"
+

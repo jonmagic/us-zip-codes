@@ -1,6 +1,8 @@
-zip_code = "19061"
-state = "PA"
 city = "Marcus Hook"
 county = "Delaware"
-longitude = -75.418228
 latitude = 39.85091
+longitude = -75.418228
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19061"
+

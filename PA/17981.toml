@@ -1,6 +1,8 @@
-zip_code = "17981"
-state = "PA"
 city = "Tremont"
 county = "Schuylkill"
-longitude = -76.306539
 latitude = 40.694624
+longitude = -76.306539
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17981"
+

@@ -1,6 +1,8 @@
-zip_code = "03595"
-state = "NH"
 city = "Twin Mountain"
 county = "Coos"
-longitude = -71.547061
 latitude = 44.26895
+longitude = -71.547061
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03595"
+

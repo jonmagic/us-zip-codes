@@ -1,6 +1,8 @@
-zip_code = "53569"
-state = "WI"
 city = "Montfort"
 county = "Grant"
-longitude = -90.492475
 latitude = 43.031263
+longitude = -90.492475
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53569"
+

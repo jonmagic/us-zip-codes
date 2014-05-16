@@ -1,6 +1,8 @@
-zip_code = "71424"
-state = "LA"
 city = "Elmer"
 county = "Rapides"
-longitude = -92.700294
 latitude = 31.178183
+longitude = -92.700294
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71424"
+

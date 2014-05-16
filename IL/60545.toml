@@ -1,6 +1,8 @@
-zip_code = "60545"
-state = "IL"
 city = "Plano"
 county = "Kendall"
-longitude = -88.513814
 latitude = 41.628567
+longitude = -88.513814
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60545"
+

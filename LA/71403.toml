@@ -1,6 +1,8 @@
-zip_code = "71403"
-state = "LA"
 city = "Anacoco"
 county = "Vernon"
-longitude = -93.268452
 latitude = 31.142302
+longitude = -93.268452
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71403"
+

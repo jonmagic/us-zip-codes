@@ -1,6 +1,8 @@
-zip_code = "36483"
-state = "AL"
 city = "Wing"
 county = "Covington"
-longitude = -86.629331
 latitude = 31.022268
+longitude = -86.629331
+state = ""
+state_code_alpha2 = ""
+zip_code = "36483"
+

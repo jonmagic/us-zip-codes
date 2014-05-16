@@ -1,6 +1,8 @@
-zip_code = "60962"
-state = "IL"
 city = "Roberts"
 county = "Ford"
-longitude = -88.234682
 latitude = 40.57087
+longitude = -88.234682
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60962"
+

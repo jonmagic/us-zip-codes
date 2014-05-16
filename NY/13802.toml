@@ -1,6 +1,8 @@
-zip_code = "13802"
-state = "NY"
 city = "Maine"
 county = "Broome"
-longitude = -76.046399
 latitude = 42.253754
+longitude = -76.046399
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13802"
+

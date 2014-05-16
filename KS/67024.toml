@@ -1,6 +1,8 @@
-zip_code = "67024"
-state = "KS"
 city = "Cedar Vale"
 county = "Chautauqua"
-longitude = -96.444127
 latitude = 37.130234
+longitude = -96.444127
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67024"
+

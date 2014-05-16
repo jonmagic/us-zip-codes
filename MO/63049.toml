@@ -1,6 +1,8 @@
-zip_code = "63049"
-state = "MO"
 city = "High Ridge"
 county = "Jefferson"
-longitude = -90.551323
 latitude = 38.456203
+longitude = -90.551323
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63049"
+

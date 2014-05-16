@@ -1,6 +1,8 @@
-zip_code = "25063"
-state = "WV"
 city = "Duck"
 county = "Clay"
-longitude = -80.936783
 latitude = 38.582138
+longitude = -80.936783
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25063"
+

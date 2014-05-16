@@ -1,6 +1,8 @@
-zip_code = "22664"
-state = "VA"
 city = "Woodstock"
 county = "Shenandoah"
-longitude = -78.512429
 latitude = 38.918791
+longitude = -78.512429
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22664"
+

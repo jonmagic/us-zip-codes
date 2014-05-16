@@ -1,6 +1,8 @@
-zip_code = "47454"
-state = "IN"
 city = "Paoli"
 county = "Orange"
-longitude = -86.459473
 latitude = 38.513132
+longitude = -86.459473
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47454"
+

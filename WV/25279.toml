@@ -1,6 +1,8 @@
-zip_code = "25279"
-state = "WV"
 city = "Statts Mills"
 county = "Jackson"
-longitude = -81.70665
 latitude = 38.824924
+longitude = -81.70665
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25279"
+

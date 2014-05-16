@@ -1,6 +1,8 @@
-zip_code = "61924"
-state = "IL"
 city = "Chrisman"
 county = "Edgar"
-longitude = -87.687638
 latitude = 39.77859
+longitude = -87.687638
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61924"
+

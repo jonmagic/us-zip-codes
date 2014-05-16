@@ -1,6 +1,8 @@
-zip_code = "16434"
-state = "PA"
 city = "Spartansburg"
 county = "Crawford"
-longitude = -80.097316
 latitude = 41.667286
+longitude = -80.097316
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16434"
+

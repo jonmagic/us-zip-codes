@@ -1,6 +1,8 @@
-zip_code = "54201"
-state = "WI"
 city = "Algoma"
 county = "Kewaunee"
-longitude = -87.540266
 latitude = 44.596017
+longitude = -87.540266
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54201"
+

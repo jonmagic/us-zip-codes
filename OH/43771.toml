@@ -1,6 +1,8 @@
-zip_code = "43771"
-state = "OH"
 city = "Philo"
 county = "Muskingum"
-longitude = -81.954582
 latitude = 39.822159
+longitude = -81.954582
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43771"
+

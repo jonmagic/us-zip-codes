@@ -1,6 +1,8 @@
-zip_code = "50174"
-state = "IA"
 city = "Murray"
 county = "Clarke"
-longitude = -93.925695
 latitude = 41.026682
+longitude = -93.925695
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50174"
+

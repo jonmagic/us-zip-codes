@@ -1,6 +1,8 @@
-zip_code = "64653"
-state = "MO"
 city = "Linneus"
 county = "Linn"
-longitude = -93.205383
 latitude = 39.886336
+longitude = -93.205383
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64653"
+

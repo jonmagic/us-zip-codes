@@ -1,6 +1,8 @@
-zip_code = "16720"
-state = "PA"
 city = "Austin"
 county = "Potter"
-longitude = -77.957975
 latitude = 41.615099
+longitude = -77.957975
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16720"
+

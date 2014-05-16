@@ -1,6 +1,8 @@
-zip_code = "14445"
-state = "NY"
 city = "East Rochester"
 county = "Monroe"
-longitude = -77.482538
 latitude = 43.113563
+longitude = -77.482538
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14445"
+

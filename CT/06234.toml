@@ -1,6 +1,8 @@
-zip_code = "06234"
-state = "CT"
 city = "Brooklyn"
 county = "Windham"
-longitude = -71.983412
 latitude = 41.847758
+longitude = -71.983412
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06234"
+

@@ -1,6 +1,8 @@
-zip_code = "59337"
-state = "MT"
 city = "Jordan"
 county = "Garfield"
-longitude = -106.943963
 latitude = 47.325641
+longitude = -106.943963
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59337"
+

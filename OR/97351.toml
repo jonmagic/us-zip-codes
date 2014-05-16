@@ -1,6 +1,8 @@
-zip_code = "97351"
-state = "OR"
 city = "Independence"
 county = "Polk"
-longitude = -123.165523
 latitude = 44.836951
+longitude = -123.165523
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97351"
+

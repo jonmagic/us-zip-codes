@@ -1,6 +1,8 @@
-zip_code = "06796"
-state = "CT"
 city = "West Cornwall"
 county = "Litchfield"
-longitude = -73.350384
 latitude = 41.821529
+longitude = -73.350384
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06796"
+

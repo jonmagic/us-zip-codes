@@ -1,6 +1,8 @@
-zip_code = "38011"
-state = "TN"
 city = "Brighton"
 county = "Tipton"
-longitude = -89.745307
 latitude = 35.473412
+longitude = -89.745307
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38011"
+

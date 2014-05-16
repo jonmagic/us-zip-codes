@@ -1,6 +1,8 @@
-zip_code = "79081"
-state = "TX"
 city = "Spearman"
 county = "Hansford"
-longitude = -101.294059
 latitude = 36.226446
+longitude = -101.294059
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79081"
+

@@ -1,6 +1,8 @@
-zip_code = "30664"
-state = "GA"
 city = "Sharon"
 county = "Taliaferro"
-longitude = -82.794766
 latitude = 33.559964
+longitude = -82.794766
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30664"
+

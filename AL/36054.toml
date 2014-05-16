@@ -1,6 +1,8 @@
-zip_code = "36054"
-state = "AL"
 city = "Millbrook"
 county = "Elmore"
-longitude = -86.225602
 latitude = 32.584717
+longitude = -86.225602
+state = ""
+state_code_alpha2 = ""
+zip_code = "36054"
+

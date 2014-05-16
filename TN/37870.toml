@@ -1,6 +1,8 @@
-zip_code = "37870"
-state = "TN"
 city = "Speedwell"
 county = "Claiborne"
-longitude = -83.823282
 latitude = 36.48404
+longitude = -83.823282
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37870"
+

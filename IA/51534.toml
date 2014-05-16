@@ -1,6 +1,8 @@
-zip_code = "51534"
-state = "IA"
 city = "Glenwood"
 county = "Mills"
-longitude = -95.71558
 latitude = 41.031806
+longitude = -95.71558
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51534"
+

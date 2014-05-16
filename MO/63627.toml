@@ -1,6 +1,8 @@
-zip_code = "63627"
-state = "MO"
 city = "Bloomsdale"
 county = "Sainte Genevieve"
-longitude = -90.252806
 latitude = 38.023217
+longitude = -90.252806
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63627"
+

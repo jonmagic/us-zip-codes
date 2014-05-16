@@ -1,6 +1,8 @@
-zip_code = "10520"
-state = "NY"
 city = "Croton On Hudson"
 county = "Westchester"
-longitude = -73.867258
 latitude = 41.122622
+longitude = -73.867258
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10520"
+

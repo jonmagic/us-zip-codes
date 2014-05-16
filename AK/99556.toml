@@ -1,6 +1,8 @@
-zip_code = "99556"
-state = "AK"
 city = "Anchor Point"
 county = "Kenai Peninsula"
-longitude = -151.70781
 latitude = 59.837116
+longitude = -151.70781
+state = ""
+state_code_alpha2 = ""
+zip_code = "99556"
+

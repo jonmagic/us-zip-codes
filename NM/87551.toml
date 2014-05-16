@@ -1,6 +1,8 @@
-zip_code = "87551"
-state = "NM"
 city = "Los Ojos"
 county = "Rio Arriba"
-longitude = -106.515714
 latitude = 36.728938
+longitude = -106.515714
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87551"
+

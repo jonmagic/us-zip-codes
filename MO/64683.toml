@@ -1,6 +1,8 @@
-zip_code = "64683"
-state = "MO"
 city = "Trenton"
 county = "Grundy"
-longitude = -93.598888
 latitude = 40.083658
+longitude = -93.598888
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64683"
+

@@ -1,6 +1,8 @@
-zip_code = "51031"
-state = "IA"
 city = "Le Mars"
 county = "Plymouth"
-longitude = -96.261735
 latitude = 42.749146
+longitude = -96.261735
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51031"
+

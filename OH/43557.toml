@@ -1,6 +1,8 @@
-zip_code = "43557"
-state = "OH"
 city = "Stryker"
 county = "Williams"
-longitude = -84.409876
 latitude = 41.488708
+longitude = -84.409876
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43557"
+

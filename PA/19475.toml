@@ -1,6 +1,8 @@
-zip_code = "19475"
-state = "PA"
 city = "Spring City"
 county = "Chester"
-longitude = -75.605398
 latitude = 40.146989
+longitude = -75.605398
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19475"
+

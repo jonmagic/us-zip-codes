@@ -1,6 +1,8 @@
-zip_code = "55338"
-state = "MN"
 city = "Green Isle"
 county = "Sibley"
-longitude = -94.057781
 latitude = 44.63575
+longitude = -94.057781
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55338"
+

@@ -1,6 +1,8 @@
-zip_code = "64730"
-state = "MO"
 city = "Butler"
 county = "Bates"
-longitude = -94.3491
 latitude = 38.241174
+longitude = -94.3491
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64730"
+

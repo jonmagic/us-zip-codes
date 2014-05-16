@@ -1,6 +1,8 @@
-zip_code = "45336"
-state = "OH"
 city = "Kettlersville"
 county = "Shelby"
-longitude = -84.262602
 latitude = 40.441325
+longitude = -84.262602
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45336"
+

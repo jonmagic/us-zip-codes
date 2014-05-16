@@ -1,6 +1,8 @@
-zip_code = "48062"
-state = "MI"
 city = "Richmond"
 county = "Macomb"
-longitude = -82.799617
 latitude = 42.838913
+longitude = -82.799617
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48062"
+

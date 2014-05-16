@@ -1,6 +1,8 @@
-zip_code = "71045"
-state = "LA"
 city = "Jamestown"
 county = "Bienville"
-longitude = -93.078363
 latitude = 32.415006
+longitude = -93.078363
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71045"
+

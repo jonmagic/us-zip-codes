@@ -1,6 +1,8 @@
-zip_code = "49101"
-state = "MI"
 city = "Baroda"
 county = "Berrien"
-longitude = -86.475504
 latitude = 41.949647
+longitude = -86.475504
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49101"
+

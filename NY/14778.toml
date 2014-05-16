@@ -1,6 +1,8 @@
-zip_code = "14778"
-state = "NY"
 city = "Saint Bonaventure"
 county = "Cattaraugus"
-longitude = -78.684684
 latitude = 42.270112
+longitude = -78.684684
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14778"
+

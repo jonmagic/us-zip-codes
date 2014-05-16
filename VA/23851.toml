@@ -1,6 +1,8 @@
-zip_code = "23851"
-state = "VA"
 city = "Franklin"
 county = "Franklin City"
-longitude = -76.942233
 latitude = 36.682635
+longitude = -76.942233
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23851"
+

@@ -1,6 +1,8 @@
-zip_code = "04953"
-state = "ME"
 city = "Newport"
 county = "Penobscot"
-longitude = -69.266827
 latitude = 44.863406
+longitude = -69.266827
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04953"
+

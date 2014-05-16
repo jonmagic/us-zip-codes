@@ -1,6 +1,8 @@
-zip_code = "42711"
-state = "KY"
 city = "Bakerton"
 county = "Cumberland"
-longitude = -85.317785
 latitude = 36.879564
+longitude = -85.317785
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42711"
+

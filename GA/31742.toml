@@ -1,6 +1,8 @@
-zip_code = "31742"
-state = "GA"
 city = "Dawson"
 county = "Terrell"
-longitude = -84.438586
 latitude = 31.76615
+longitude = -84.438586
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31742"
+

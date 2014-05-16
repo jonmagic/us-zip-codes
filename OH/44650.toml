@@ -1,6 +1,8 @@
-zip_code = "44650"
-state = "OH"
 city = "Maximo"
 county = "Stark"
-longitude = -81.173873
 latitude = 40.874558
+longitude = -81.173873
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44650"
+

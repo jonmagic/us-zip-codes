@@ -1,6 +1,8 @@
-zip_code = "62436"
-state = "IL"
 city = "Jewett"
 county = "Cumberland"
-longitude = -88.273197
 latitude = 39.207405
+longitude = -88.273197
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62436"
+

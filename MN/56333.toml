@@ -1,6 +1,8 @@
-zip_code = "56333"
-state = "MN"
 city = "Gilman"
 county = "Benton"
-longitude = -94.05629
 latitude = 45.691714
+longitude = -94.05629
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56333"
+

@@ -1,6 +1,8 @@
-zip_code = "54838"
-state = "WI"
 city = "Gordon"
 county = "Douglas"
-longitude = -91.894633
 latitude = 46.293033
+longitude = -91.894633
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54838"
+

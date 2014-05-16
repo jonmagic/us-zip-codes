@@ -1,6 +1,8 @@
-zip_code = "24563"
-state = "VA"
 city = "Hurt"
 county = "Pittsylvania"
-longitude = -79.36393
 latitude = 37.038301
+longitude = -79.36393
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24563"
+

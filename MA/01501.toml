@@ -1,6 +1,8 @@
-zip_code = "01501"
-state = "MA"
 city = "Auburn"
 county = "Worcester"
-longitude = -71.947184
 latitude = 42.184835
+longitude = -71.947184
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01501"
+

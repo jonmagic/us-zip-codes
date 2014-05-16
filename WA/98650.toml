@@ -1,6 +1,8 @@
-zip_code = "98650"
-state = "WA"
 city = "Trout Lake"
 county = "Klickitat"
-longitude = -121.53564
 latitude = 45.958949
+longitude = -121.53564
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98650"
+

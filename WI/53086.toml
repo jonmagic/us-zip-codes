@@ -1,6 +1,8 @@
-zip_code = "53086"
-state = "WI"
 city = "Slinger"
 county = "Washington"
-longitude = -88.260878
 latitude = 43.327417
+longitude = -88.260878
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53086"
+

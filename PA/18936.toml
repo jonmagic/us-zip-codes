@@ -1,6 +1,8 @@
-zip_code = "18936"
-state = "PA"
 city = "Montgomeryville"
 county = "Montgomery"
-longitude = -75.23656
 latitude = 40.2375
+longitude = -75.23656
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18936"
+

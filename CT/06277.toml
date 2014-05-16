@@ -1,6 +1,8 @@
-zip_code = "06277"
-state = "CT"
 city = "Thompson"
 county = "Windham"
-longitude = -71.862047
 latitude = 41.975796
+longitude = -71.862047
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06277"
+

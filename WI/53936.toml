@@ -1,6 +1,8 @@
-zip_code = "53936"
-state = "WI"
 city = "Grand Marsh"
 county = "Adams"
-longitude = -89.72751
 latitude = 43.947894
+longitude = -89.72751
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53936"
+

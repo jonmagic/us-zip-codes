@@ -1,6 +1,8 @@
-zip_code = "63352"
-state = "MO"
 city = "Laddonia"
 county = "Audrain"
-longitude = -91.66077
 latitude = 39.243096
+longitude = -91.66077
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63352"
+

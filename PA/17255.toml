@@ -1,6 +1,8 @@
-zip_code = "17255"
-state = "PA"
 city = "Shade Gap"
 county = "Huntingdon"
-longitude = -77.87475
 latitude = 40.133259
+longitude = -77.87475
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17255"
+

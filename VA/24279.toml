@@ -1,6 +1,8 @@
-zip_code = "24279"
-state = "VA"
 city = "Pound"
 county = "Wise"
-longitude = -82.623231
 latitude = 37.088727
+longitude = -82.623231
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24279"
+

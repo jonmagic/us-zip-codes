@@ -1,6 +1,8 @@
-zip_code = "75661"
-state = "TX"
 city = "Karnack"
 county = "Harrison"
-longitude = -94.154735
 latitude = 32.65575
+longitude = -94.154735
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75661"
+

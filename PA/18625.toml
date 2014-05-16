@@ -1,6 +1,8 @@
-zip_code = "18625"
-state = "PA"
 city = "Lake Winola"
 county = "Wyoming"
-longitude = -75.841598
 latitude = 41.513852
+longitude = -75.841598
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18625"
+

@@ -1,6 +1,8 @@
-zip_code = "62805"
-state = "IL"
 city = "Akin"
 county = "Franklin"
-longitude = -88.941665
 latitude = 37.994296
+longitude = -88.941665
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62805"
+

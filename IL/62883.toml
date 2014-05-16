@@ -1,6 +1,8 @@
-zip_code = "62883"
-state = "IL"
 city = "Scheller"
 county = "Jefferson"
-longitude = -89.094644
 latitude = 38.176165
+longitude = -89.094644
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62883"
+

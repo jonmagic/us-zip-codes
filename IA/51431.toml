@@ -1,6 +1,8 @@
-zip_code = "51431"
-state = "IA"
 city = "Arthur"
 county = "Ida"
-longitude = -95.371381
 latitude = 42.341553
+longitude = -95.371381
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51431"
+

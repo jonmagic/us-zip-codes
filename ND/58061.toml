@@ -1,6 +1,8 @@
-zip_code = "58061"
-state = "ND"
 city = "Mooreton"
 county = "Richland"
-longitude = -96.861092
 latitude = 46.315035
+longitude = -96.861092
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58061"
+

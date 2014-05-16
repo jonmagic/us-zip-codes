@@ -1,6 +1,8 @@
-zip_code = "29492"
-state = "SC"
 city = "Charleston"
 county = "Berkeley"
-longitude = -79.852835
 latitude = 32.96678
+longitude = -79.852835
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29492"
+

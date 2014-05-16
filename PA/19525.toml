@@ -1,6 +1,8 @@
-zip_code = "19525"
-state = "PA"
 city = "Gilbertsville"
 county = "Montgomery"
-longitude = -75.584885
 latitude = 40.309952
+longitude = -75.584885
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19525"
+

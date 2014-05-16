@@ -1,6 +1,8 @@
-zip_code = "29346"
-state = "SC"
 city = "Glendale"
 county = "Spartanburg"
-longitude = -81.977324
 latitude = 35.044719
+longitude = -81.977324
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29346"
+

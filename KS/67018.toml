@@ -1,6 +1,8 @@
-zip_code = "67018"
-state = "KS"
 city = "Bluff City"
 county = "Harper"
-longitude = -97.865887
 latitude = 37.062263
+longitude = -97.865887
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67018"
+

@@ -1,6 +1,8 @@
-zip_code = "12159"
-state = "NY"
 city = "Slingerlands"
 county = "Albany"
-longitude = -73.876338
 latitude = 42.644278
+longitude = -73.876338
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12159"
+

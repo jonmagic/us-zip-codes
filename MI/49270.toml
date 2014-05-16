@@ -1,6 +1,8 @@
-zip_code = "49270"
-state = "MI"
 city = "Petersburg"
 county = "Monroe"
-longitude = -83.670689
 latitude = 41.865026
+longitude = -83.670689
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49270"
+

@@ -1,6 +1,8 @@
-zip_code = "72543"
-state = "AR"
 city = "Heber Springs"
 county = "Cleburne"
-longitude = -91.98883
 latitude = 35.453106
+longitude = -91.98883
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72543"
+

@@ -1,6 +1,8 @@
-zip_code = "73771"
-state = "OK"
 city = "Wakita"
 county = "Grant"
-longitude = -97.923858
 latitude = 36.882468
+longitude = -97.923858
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73771"
+

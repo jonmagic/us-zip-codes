@@ -1,6 +1,8 @@
-zip_code = "65708"
-state = "MO"
 city = "Monett"
 county = "Barry"
-longitude = -93.934986
 latitude = 36.802435
+longitude = -93.934986
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65708"
+

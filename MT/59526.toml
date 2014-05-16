@@ -1,6 +1,8 @@
-zip_code = "59526"
-state = "MT"
 city = "Harlem"
 county = "Blaine"
-longitude = -108.818157
 latitude = 48.655123
+longitude = -108.818157
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59526"
+

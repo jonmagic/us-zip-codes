@@ -1,6 +1,8 @@
-zip_code = "56229"
-state = "MN"
 city = "Cottonwood"
 county = "Lyon"
-longitude = -95.744921
 latitude = 44.56956
+longitude = -95.744921
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56229"
+

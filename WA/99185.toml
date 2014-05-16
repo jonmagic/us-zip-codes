@@ -1,6 +1,8 @@
-zip_code = "99185"
-state = "WA"
 city = "Wilbur"
 county = "Lincoln"
-longitude = -118.729143
 latitude = 47.761025
+longitude = -118.729143
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99185"
+

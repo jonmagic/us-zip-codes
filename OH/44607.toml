@@ -1,6 +1,8 @@
-zip_code = "44607"
-state = "OH"
 city = "Augusta"
 county = "Carroll"
-longitude = -81.02187
 latitude = 40.686028
+longitude = -81.02187
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44607"
+

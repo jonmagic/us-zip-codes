@@ -1,6 +1,8 @@
-zip_code = "52314"
-state = "IA"
 city = "Mount Vernon"
 county = "Linn"
-longitude = -91.450762
 latitude = 41.939802
+longitude = -91.450762
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52314"
+

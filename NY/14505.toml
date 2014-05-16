@@ -1,6 +1,8 @@
-zip_code = "14505"
-state = "NY"
 city = "Marion"
 county = "Wayne"
-longitude = -77.172684
 latitude = 43.15594
+longitude = -77.172684
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14505"
+

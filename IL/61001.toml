@@ -1,6 +1,8 @@
-zip_code = "61001"
-state = "IL"
 city = "Apple River"
 county = "Jo Daviess"
-longitude = -90.118471
 latitude = 42.454161
+longitude = -90.118471
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61001"
+

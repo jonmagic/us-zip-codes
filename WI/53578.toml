@@ -1,6 +1,8 @@
-zip_code = "53578"
-state = "WI"
 city = "Prairie Du Sac"
 county = "Sauk"
-longitude = -89.808407
 latitude = 43.360759
+longitude = -89.808407
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53578"
+

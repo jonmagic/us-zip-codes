@@ -1,6 +1,8 @@
-zip_code = "01068"
-state = "MA"
 city = "Oakham"
 county = "Worcester"
-longitude = -72.058847
 latitude = 42.346144
+longitude = -72.058847
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01068"
+

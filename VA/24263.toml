@@ -1,6 +1,8 @@
-zip_code = "24263"
-state = "VA"
 city = "Jonesville"
 county = "Lee"
-longitude = -83.114212
 latitude = 36.6885
+longitude = -83.114212
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24263"
+

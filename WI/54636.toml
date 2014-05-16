@@ -1,6 +1,8 @@
-zip_code = "54636"
-state = "WI"
 city = "Holmen"
 county = "La Crosse"
-longitude = -91.223484
 latitude = 43.968617
+longitude = -91.223484
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54636"
+

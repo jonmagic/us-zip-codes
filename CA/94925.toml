@@ -1,6 +1,8 @@
-zip_code = "94925"
-state = "CA"
 city = "Corte Madera"
 county = "Marin"
-longitude = -122.512035
 latitude = 37.925039
+longitude = -122.512035
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94925"
+

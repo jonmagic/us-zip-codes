@@ -1,6 +1,8 @@
-zip_code = "39740"
-state = "MS"
 city = "Caledonia"
 county = "Monroe"
-longitude = -88.271904
 latitude = 33.81523
+longitude = -88.271904
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39740"
+

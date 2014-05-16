@@ -1,6 +1,8 @@
-zip_code = "16027"
-state = "PA"
 city = "Connoquenessing"
 county = "Butler"
-longitude = -80.013785
 latitude = 40.826436
+longitude = -80.013785
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16027"
+

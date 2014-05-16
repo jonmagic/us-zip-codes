@@ -1,6 +1,8 @@
-zip_code = "27923"
-state = "NC"
 city = "Coinjock"
 county = "Currituck"
-longitude = -75.954658
 latitude = 36.383368
+longitude = -75.954658
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27923"
+

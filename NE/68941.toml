@@ -1,6 +1,8 @@
-zip_code = "68941"
-state = "NE"
 city = "Glenvil"
 county = "Clay"
-longitude = -98.255757
 latitude = 40.503252
+longitude = -98.255757
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68941"
+

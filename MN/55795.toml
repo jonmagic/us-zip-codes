@@ -1,6 +1,8 @@
-zip_code = "55795"
-state = "MN"
 city = "Willow River"
 county = "Pine"
-longitude = -92.863863
 latitude = 46.310484
+longitude = -92.863863
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55795"
+

@@ -1,6 +1,8 @@
-zip_code = "85344"
-state = "AZ"
 city = "Parker"
 county = "La Paz"
-longitude = -114.268073
 latitude = 33.967712
+longitude = -114.268073
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85344"
+

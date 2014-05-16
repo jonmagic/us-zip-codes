@@ -1,6 +1,8 @@
-zip_code = "25112"
-state = "WV"
 city = "Institute"
 county = "Kanawha"
-longitude = -81.56514
 latitude = 38.282497
+longitude = -81.56514
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25112"
+

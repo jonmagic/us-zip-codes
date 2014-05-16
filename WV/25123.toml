@@ -1,6 +1,8 @@
-zip_code = "25123"
-state = "WV"
 city = "Leon"
 county = "Mason"
-longitude = -81.914474
 latitude = 38.704805
+longitude = -81.914474
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25123"
+

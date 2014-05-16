@@ -1,6 +1,8 @@
-zip_code = "35060"
-state = "AL"
 city = "Docena"
 county = "Jefferson"
-longitude = -86.929443
 latitude = 33.558905
+longitude = -86.929443
+state = ""
+state_code_alpha2 = ""
+zip_code = "35060"
+

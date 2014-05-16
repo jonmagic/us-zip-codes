@@ -1,6 +1,8 @@
-zip_code = "57551"
-state = "SD"
 city = "Martin"
 county = "Bennett"
-longitude = -101.734068
 latitude = 43.172158
+longitude = -101.734068
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57551"
+

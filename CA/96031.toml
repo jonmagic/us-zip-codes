@@ -1,6 +1,8 @@
-zip_code = "96031"
-state = "CA"
 city = "Forks Of Salmon"
 county = "Siskiyou"
-longitude = -123.23633
 latitude = 41.219117
+longitude = -123.23633
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96031"
+

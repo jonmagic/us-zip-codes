@@ -1,6 +1,8 @@
-zip_code = "61243"
-state = "IL"
 city = "Deer Grove"
 county = "Whiteside"
-longitude = -89.710301
 latitude = 41.620757
+longitude = -89.710301
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61243"
+

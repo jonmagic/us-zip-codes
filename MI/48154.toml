@@ -1,6 +1,8 @@
-zip_code = "48154"
-state = "MI"
 city = "Livonia"
 county = "Wayne"
-longitude = -83.389962
 latitude = 42.375986
+longitude = -83.389962
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48154"
+

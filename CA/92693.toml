@@ -1,6 +1,8 @@
-zip_code = "92693"
-state = "CA"
 city = "San Juan Capistrano"
 county = "Orange"
-longitude = -117.564
 latitude = 33.555323
+longitude = -117.564
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92693"
+

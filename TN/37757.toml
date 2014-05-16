@@ -1,6 +1,8 @@
-zip_code = "37757"
-state = "TN"
 city = "Jacksboro"
 county = "Campbell"
-longitude = -84.15575
 latitude = 36.307449
+longitude = -84.15575
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37757"
+

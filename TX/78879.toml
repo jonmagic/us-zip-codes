@@ -1,6 +1,8 @@
-zip_code = "78879"
-state = "TX"
 city = "Rio Frio"
 county = "Real"
-longitude = -99.768284
 latitude = 29.84975
+longitude = -99.768284
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78879"
+

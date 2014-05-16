@@ -1,6 +1,8 @@
-zip_code = "42333"
-state = "KY"
 city = "Cromwell"
 county = "Ohio"
-longitude = -86.764417
 latitude = 37.373832
+longitude = -86.764417
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42333"
+

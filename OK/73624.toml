@@ -1,6 +1,8 @@
-zip_code = "73624"
-state = "OK"
 city = "Burns Flat"
 county = "Washita"
-longitude = -99.187984
 latitude = 35.349154
+longitude = -99.187984
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73624"
+

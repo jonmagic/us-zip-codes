@@ -1,6 +1,8 @@
-zip_code = "95246"
-state = "CA"
 city = "Mountain Ranch"
 county = "Calaveras"
-longitude = -120.536352
 latitude = 38.279047
+longitude = -120.536352
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95246"
+

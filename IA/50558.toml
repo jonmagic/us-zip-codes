@@ -1,6 +1,8 @@
-zip_code = "50558"
-state = "IA"
 city = "Livermore"
 county = "Humboldt"
-longitude = -94.163578
 latitude = 42.841534
+longitude = -94.163578
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50558"
+

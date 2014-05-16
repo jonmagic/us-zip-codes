@@ -1,6 +1,8 @@
-zip_code = "79104"
-state = "TX"
 city = "Amarillo"
 county = "Potter"
-longitude = -101.777911
 latitude = 35.205702
+longitude = -101.777911
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79104"
+

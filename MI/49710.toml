@@ -1,6 +1,8 @@
-zip_code = "49710"
-state = "MI"
 city = "Barbeau"
 county = "Chippewa"
-longitude = -84.196899
 latitude = 46.278437
+longitude = -84.196899
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49710"
+

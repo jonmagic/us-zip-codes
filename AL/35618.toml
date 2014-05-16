@@ -1,6 +1,8 @@
-zip_code = "35618"
-state = "AL"
 city = "Courtland"
 county = "Lawrence"
-longitude = -87.28962
 latitude = 34.673954
+longitude = -87.28962
+state = ""
+state_code_alpha2 = ""
+zip_code = "35618"
+

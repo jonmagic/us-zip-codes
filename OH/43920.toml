@@ -1,6 +1,8 @@
-zip_code = "43920"
-state = "OH"
 city = "East Liverpool"
 county = "Columbiana"
-longitude = -80.600629
 latitude = 40.677372
+longitude = -80.600629
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43920"
+

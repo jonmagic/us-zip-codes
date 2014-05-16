@@ -1,6 +1,8 @@
-zip_code = "28694"
-state = "NC"
 city = "West Jefferson"
 county = "Ashe"
-longitude = -81.484857
 latitude = 36.359734
+longitude = -81.484857
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28694"
+

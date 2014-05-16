@@ -1,6 +1,8 @@
-zip_code = "57313"
-state = "SD"
 city = "Armour"
 county = "Douglas"
-longitude = -98.398964
 latitude = 43.341035
+longitude = -98.398964
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57313"
+

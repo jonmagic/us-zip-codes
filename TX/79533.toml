@@ -1,6 +1,8 @@
-zip_code = "79533"
-state = "TX"
 city = "Lueders"
 county = "Jones"
-longitude = -99.745175
 latitude = 32.815151
+longitude = -99.745175
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79533"
+

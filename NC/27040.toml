@@ -1,6 +1,8 @@
-zip_code = "27040"
-state = "NC"
 city = "Pfafftown"
 county = "Forsyth"
-longitude = -80.378143
 latitude = 36.160959
+longitude = -80.378143
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27040"
+

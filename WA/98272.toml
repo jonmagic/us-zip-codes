@@ -1,6 +1,8 @@
-zip_code = "98272"
-state = "WA"
 city = "Monroe"
 county = "Snohomish"
-longitude = -121.88433
 latitude = 47.863149
+longitude = -121.88433
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98272"
+

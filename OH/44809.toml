@@ -1,6 +1,8 @@
-zip_code = "44809"
-state = "OH"
 city = "Bascom"
 county = "Seneca"
-longitude = -83.285361
 latitude = 41.132816
+longitude = -83.285361
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44809"
+

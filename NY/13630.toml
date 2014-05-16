@@ -1,6 +1,8 @@
-zip_code = "13630"
-state = "NY"
 city = "De Kalb Junction"
 county = "Saint Lawrence"
-longitude = -75.30067
 latitude = 44.462555
+longitude = -75.30067
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13630"
+

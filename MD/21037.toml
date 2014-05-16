@@ -1,6 +1,8 @@
-zip_code = "21037"
-state = "MD"
 city = "Edgewater"
 county = "Anne Arundel"
-longitude = -76.623684
 latitude = 38.975128
+longitude = -76.623684
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21037"
+

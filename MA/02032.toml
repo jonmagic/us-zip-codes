@@ -1,6 +1,8 @@
-zip_code = "02032"
-state = "MA"
 city = "East Walpole"
 county = "Norfolk"
-longitude = -71.21455
 latitude = 42.153786
+longitude = -71.21455
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02032"
+

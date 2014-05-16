@@ -1,6 +1,8 @@
-zip_code = "40023"
-state = "KY"
 city = "Fisherville"
 county = "Jefferson"
-longitude = -85.446269
 latitude = 38.188936
+longitude = -85.446269
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40023"
+

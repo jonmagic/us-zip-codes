@@ -1,6 +1,8 @@
-zip_code = "53007"
-state = "WI"
 city = "Butler"
 county = "Waukesha"
-longitude = -88.071489
 latitude = 43.108459
+longitude = -88.071489
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53007"
+

@@ -1,6 +1,8 @@
-zip_code = "81431"
-state = "CO"
 city = "Redvale"
 county = "Montrose"
-longitude = -108.415514
 latitude = 38.192224
+longitude = -108.415514
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81431"
+

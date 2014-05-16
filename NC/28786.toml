@@ -1,6 +1,8 @@
-zip_code = "28786"
-state = "NC"
 city = "Waynesville"
 county = "Haywood"
-longitude = -82.959617
 latitude = 35.585619
+longitude = -82.959617
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28786"
+

@@ -1,6 +1,8 @@
-zip_code = "12512"
-state = "NY"
 city = "Chelsea"
 county = "Dutchess"
-longitude = -73.968183
 latitude = 41.552793
+longitude = -73.968183
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12512"
+

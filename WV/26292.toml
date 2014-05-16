@@ -1,6 +1,8 @@
-zip_code = "26292"
-state = "WV"
 city = "Thomas"
 county = "Tucker"
-longitude = -79.481555
 latitude = 39.138003
+longitude = -79.481555
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26292"
+

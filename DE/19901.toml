@@ -1,6 +1,8 @@
-zip_code = "19901"
-state = "DE"
 city = "Dover"
 county = "Kent"
-longitude = -75.49549
 latitude = 39.156376
+longitude = -75.49549
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19901"
+

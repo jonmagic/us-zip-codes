@@ -1,6 +1,8 @@
-zip_code = "64161"
-state = "MO"
 city = "Kansas City"
 county = "Clay"
-longitude = -94.463954
 latitude = 39.166079
+longitude = -94.463954
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64161"
+

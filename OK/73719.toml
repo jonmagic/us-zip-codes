@@ -1,6 +1,8 @@
-zip_code = "73719"
-state = "OK"
 city = "Amorita"
 county = "Alfalfa"
-longitude = -98.29243
 latitude = 36.925116
+longitude = -98.29243
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73719"
+

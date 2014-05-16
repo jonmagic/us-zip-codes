@@ -1,6 +1,8 @@
-zip_code = "37049"
-state = "TN"
 city = "Cross Plains"
 county = "Robertson"
-longitude = -86.712734
 latitude = 36.521044
+longitude = -86.712734
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37049"
+

@@ -1,6 +1,8 @@
-zip_code = "29832"
-state = "SC"
 city = "Johnston"
 county = "Edgefield"
-longitude = -81.818415
 latitude = 33.783177
+longitude = -81.818415
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29832"
+

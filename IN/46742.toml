@@ -1,6 +1,8 @@
-zip_code = "46742"
-state = "IN"
 city = "Hamilton"
 county = "Steuben"
-longitude = -84.897465
 latitude = 41.572304
+longitude = -84.897465
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46742"
+

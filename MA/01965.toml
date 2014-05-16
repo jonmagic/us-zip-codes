@@ -1,6 +1,8 @@
-zip_code = "01965"
-state = "MA"
 city = "Prides Crossing"
 county = "Essex"
-longitude = -70.825743
 latitude = 42.558113
+longitude = -70.825743
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01965"
+

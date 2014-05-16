@@ -1,6 +1,8 @@
-zip_code = "80498"
-state = "CO"
 city = "Silverthorne"
 county = "Summit"
-longitude = -106.221139
 latitude = 39.764692
+longitude = -106.221139
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80498"
+

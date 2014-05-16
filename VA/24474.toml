@@ -1,6 +1,8 @@
-zip_code = "24474"
-state = "VA"
 city = "Selma"
 county = "Alleghany"
-longitude = -79.840421
 latitude = 37.806241
+longitude = -79.840421
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24474"
+

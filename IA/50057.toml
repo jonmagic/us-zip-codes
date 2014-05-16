@@ -1,6 +1,8 @@
-zip_code = "50057"
-state = "IA"
 city = "Columbia"
 county = "Marion"
-longitude = -93.159664
 latitude = 41.196557
+longitude = -93.159664
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50057"
+

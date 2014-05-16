@@ -1,6 +1,8 @@
-zip_code = "97909"
-state = "OR"
 city = "Jamieson"
 county = "Malheur"
-longitude = -117.481258
 latitude = 44.216093
+longitude = -117.481258
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97909"
+

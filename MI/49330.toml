@@ -1,6 +1,8 @@
-zip_code = "49330"
-state = "MI"
 city = "Kent City"
 county = "Kent"
-longitude = -85.670248
 latitude = 43.23506
+longitude = -85.670248
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49330"
+

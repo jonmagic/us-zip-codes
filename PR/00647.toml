@@ -1,6 +1,8 @@
-zip_code = "00647"
-state = "PR"
 city = "Ensenada"
 county = "Guanica"
-longitude = -66.939754
 latitude = 17.969594
+longitude = -66.939754
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00647"
+

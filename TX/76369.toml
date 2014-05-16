@@ -1,6 +1,8 @@
-zip_code = "76369"
-state = "TX"
 city = "Kamay"
 county = "Wichita"
-longitude = -98.687748
 latitude = 34.023386
+longitude = -98.687748
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76369"
+

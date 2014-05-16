@@ -1,6 +1,8 @@
-zip_code = "01095"
-state = "MA"
 city = "Wilbraham"
 county = "Hampden"
-longitude = -72.489988
 latitude = 42.125974
+longitude = -72.489988
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01095"
+

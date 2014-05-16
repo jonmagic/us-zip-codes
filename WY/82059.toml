@@ -1,6 +1,8 @@
-zip_code = "82059"
-state = "WY"
 city = "Granite Canon"
 county = "Laramie"
-longitude = -105.151706
 latitude = 41.047337
+longitude = -105.151706
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82059"
+

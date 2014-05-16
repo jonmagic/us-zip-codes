@@ -1,6 +1,8 @@
-zip_code = "38943"
-state = "MS"
 city = "Mc Carley"
 county = "Carroll"
-longitude = -89.834467
 latitude = 33.489564
+longitude = -89.834467
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38943"
+

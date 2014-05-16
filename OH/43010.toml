@@ -1,6 +1,8 @@
-zip_code = "43010"
-state = "OH"
 city = "Catawba"
 county = "Clark"
-longitude = -83.622204
 latitude = 39.99914
+longitude = -83.622204
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43010"
+

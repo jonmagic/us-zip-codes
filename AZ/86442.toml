@@ -1,6 +1,8 @@
-zip_code = "86442"
-state = "AZ"
 city = "Bullhead City"
 county = "Mohave"
-longitude = -114.323801
 latitude = 35.005498
+longitude = -114.323801
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86442"
+

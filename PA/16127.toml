@@ -1,6 +1,8 @@
-zip_code = "16127"
-state = "PA"
 city = "Grove City"
 county = "Mercer"
-longitude = -80.089581
 latitude = 41.170823
+longitude = -80.089581
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16127"
+

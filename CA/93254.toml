@@ -1,6 +1,8 @@
-zip_code = "93254"
-state = "CA"
 city = "New Cuyama"
 county = "Santa Barbara"
-longitude = -119.590275
 latitude = 34.922283
+longitude = -119.590275
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93254"
+

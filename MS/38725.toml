@@ -1,6 +1,8 @@
-zip_code = "38725"
-state = "MS"
 city = "Benoit"
 county = "Bolivar"
-longitude = -90.994878
 latitude = 33.627816
+longitude = -90.994878
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38725"
+

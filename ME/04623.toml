@@ -1,6 +1,8 @@
-zip_code = "04623"
-state = "ME"
 city = "Columbia Falls"
 county = "Washington"
-longitude = -67.779881
 latitude = 44.698608
+longitude = -67.779881
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04623"
+

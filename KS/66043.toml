@@ -1,6 +1,8 @@
-zip_code = "66043"
-state = "KS"
 city = "Lansing"
 county = "Leavenworth"
-longitude = -94.883026
 latitude = 39.233204
+longitude = -94.883026
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66043"
+

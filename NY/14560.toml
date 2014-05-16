@@ -1,6 +1,8 @@
-zip_code = "14560"
-state = "NY"
 city = "Springwater"
 county = "Livingston"
-longitude = -77.594478
 latitude = 42.635525
+longitude = -77.594478
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14560"
+

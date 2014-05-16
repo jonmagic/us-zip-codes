@@ -1,6 +1,8 @@
-zip_code = "43032"
-state = "OH"
 city = "Kilbourne"
 county = "Delaware"
-longitude = -82.961585
 latitude = 40.313445
+longitude = -82.961585
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43032"
+

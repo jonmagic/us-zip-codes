@@ -1,6 +1,8 @@
-zip_code = "38222"
-state = "TN"
 city = "Buchanan"
 county = "Henry"
-longitude = -88.179868
 latitude = 36.428005
+longitude = -88.179868
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38222"
+

@@ -1,6 +1,8 @@
-zip_code = "55085"
-state = "MN"
 city = "Vermillion"
 county = "Dakota"
-longitude = -92.968309
 latitude = 44.674799
+longitude = -92.968309
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55085"
+

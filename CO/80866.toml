@@ -1,6 +1,8 @@
-zip_code = "80866"
-state = "CO"
 city = "Woodland Park"
 county = "Teller"
-longitude = -105.15597
 latitude = 39.03635
+longitude = -105.15597
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80866"
+

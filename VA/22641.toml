@@ -1,6 +1,8 @@
-zip_code = "22641"
-state = "VA"
 city = "Strasburg"
 county = "Shenandoah"
-longitude = -78.37477
 latitude = 39.056218
+longitude = -78.37477
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22641"
+

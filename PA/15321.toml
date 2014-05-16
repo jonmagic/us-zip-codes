@@ -1,6 +1,8 @@
-zip_code = "15321"
-state = "PA"
 city = "Cecil"
 county = "Washington"
-longitude = -80.104193
 latitude = 40.159268
+longitude = -80.104193
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15321"
+

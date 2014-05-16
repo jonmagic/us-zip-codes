@@ -1,6 +1,8 @@
-zip_code = "16407"
-state = "PA"
 city = "Corry"
 county = "Erie"
-longitude = -79.696549
 latitude = 41.924886
+longitude = -79.696549
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16407"
+

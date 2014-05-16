@@ -1,6 +1,8 @@
-zip_code = "31727"
-state = "GA"
 city = "Brookfield"
 county = "Tift"
-longitude = -83.503715
 latitude = 31.44172
+longitude = -83.503715
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31727"
+

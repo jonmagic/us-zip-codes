@@ -1,6 +1,8 @@
-zip_code = "96748"
-state = "HI"
 city = "Kaunakakai"
 county = "Maui"
-longitude = -157.012533
 latitude = 21.092266
+longitude = -157.012533
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96748"
+

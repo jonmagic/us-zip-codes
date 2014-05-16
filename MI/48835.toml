@@ -1,6 +1,8 @@
-zip_code = "48835"
-state = "MI"
 city = "Fowler"
 county = "Clinton"
-longitude = -84.761244
 latitude = 42.993295
+longitude = -84.761244
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48835"
+

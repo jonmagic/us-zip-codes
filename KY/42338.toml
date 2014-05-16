@@ -1,6 +1,8 @@
-zip_code = "42338"
-state = "KY"
 city = "Dundee"
 county = "Ohio"
-longitude = -86.77762
 latitude = 37.552013
+longitude = -86.77762
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42338"
+

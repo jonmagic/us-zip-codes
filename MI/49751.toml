@@ -1,6 +1,8 @@
-zip_code = "49751"
-state = "MI"
 city = "Johannesburg"
 county = "Otsego"
-longitude = -84.505983
 latitude = 44.963223
+longitude = -84.505983
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49751"
+

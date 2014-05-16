@@ -1,6 +1,8 @@
-zip_code = "16613"
-state = "PA"
 city = "Ashville"
 county = "Cambria"
-longitude = -78.544825
 latitude = 40.554875
+longitude = -78.544825
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16613"
+

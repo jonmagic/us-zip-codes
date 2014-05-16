@@ -1,6 +1,8 @@
-zip_code = "35447"
-state = "AL"
 city = "Carrollton"
 county = "Pickens"
-longitude = -88.117113
 latitude = 33.289682
+longitude = -88.117113
+state = ""
+state_code_alpha2 = ""
+zip_code = "35447"
+

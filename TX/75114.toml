@@ -1,6 +1,8 @@
-zip_code = "75114"
-state = "TX"
 city = "Crandall"
 county = "Kaufman"
-longitude = -96.444347
 latitude = 32.661312
+longitude = -96.444347
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75114"
+

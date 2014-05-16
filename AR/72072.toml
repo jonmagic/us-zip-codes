@@ -1,6 +1,8 @@
-zip_code = "72072"
-state = "AR"
 city = "Humnoke"
 county = "Lonoke"
-longitude = -91.833442
 latitude = 34.757194
+longitude = -91.833442
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72072"
+

@@ -1,6 +1,8 @@
-zip_code = "72041"
-state = "AR"
 city = "De Valls Bluff"
 county = "Prairie"
-longitude = -91.465859
 latitude = 34.787106
+longitude = -91.465859
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72041"
+

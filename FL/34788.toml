@@ -1,6 +1,8 @@
-zip_code = "34788"
-state = "FL"
 city = "Leesburg"
 county = "Lake"
-longitude = -81.782704
 latitude = 28.888724
+longitude = -81.782704
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34788"
+

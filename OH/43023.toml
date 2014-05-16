@@ -1,6 +1,8 @@
-zip_code = "43023"
-state = "OH"
 city = "Granville"
 county = "Licking"
-longitude = -82.539941
 latitude = 40.048971
+longitude = -82.539941
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43023"
+

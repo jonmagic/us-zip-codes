@@ -1,6 +1,8 @@
-zip_code = "19380"
-state = "PA"
 city = "West Chester"
 county = "Chester"
-longitude = -75.610503
 latitude = 39.980107
+longitude = -75.610503
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19380"
+

@@ -1,6 +1,8 @@
-zip_code = "97424"
-state = "OR"
 city = "Cottage Grove"
 county = "Lane"
-longitude = -123.049498
 latitude = 43.72893
+longitude = -123.049498
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97424"
+

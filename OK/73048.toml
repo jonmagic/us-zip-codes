@@ -1,6 +1,8 @@
-zip_code = "73048"
-state = "OK"
 city = "Hydro"
 county = "Caddo"
-longitude = -98.43108
 latitude = 35.327225
+longitude = -98.43108
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73048"
+

@@ -1,6 +1,8 @@
-zip_code = "52410"
-state = "IA"
 city = "Cedar Rapids"
 county = "Linn"
-longitude = -91.599215
 latitude = 42.079415
+longitude = -91.599215
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52410"
+

@@ -1,6 +1,8 @@
-zip_code = "30833"
-state = "GA"
 city = "Wrens"
 county = "Jefferson"
-longitude = -82.361546
 latitude = 33.192426
+longitude = -82.361546
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30833"
+

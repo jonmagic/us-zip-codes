@@ -1,6 +1,8 @@
-zip_code = "04253"
-state = "ME"
 city = "Livermore"
 county = "Androscoggin"
-longitude = -70.189139
 latitude = 44.297416
+longitude = -70.189139
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04253"
+

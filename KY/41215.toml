@@ -1,6 +1,8 @@
-zip_code = "41215"
-state = "KY"
 city = "Denver"
 county = "Johnson"
-longitude = -82.865092
 latitude = 37.771963
+longitude = -82.865092
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41215"
+

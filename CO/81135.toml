@@ -1,6 +1,8 @@
-zip_code = "81135"
-state = "CO"
 city = "Homelake"
 county = "Rio Grande"
-longitude = -106.375292
 latitude = 37.615741
+longitude = -106.375292
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81135"
+

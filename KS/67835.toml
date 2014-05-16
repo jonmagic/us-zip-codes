@@ -1,6 +1,8 @@
-zip_code = "67835"
-state = "KS"
 city = "Cimarron"
 county = "Gray"
-longitude = -100.338634
 latitude = 37.803608
+longitude = -100.338634
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67835"
+

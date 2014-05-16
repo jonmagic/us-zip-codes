@@ -1,6 +1,8 @@
-zip_code = "59926"
-state = "MT"
 city = "Martin City"
 county = "Flathead"
-longitude = -114.087311
 latitude = 48.400447
+longitude = -114.087311
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59926"
+

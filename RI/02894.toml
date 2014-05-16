@@ -1,6 +1,8 @@
-zip_code = "02894"
-state = "RI"
 city = "Wood River Junction"
 county = "Washington"
-longitude = -71.70742
 latitude = 41.45005
+longitude = -71.70742
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02894"
+

@@ -1,6 +1,8 @@
-zip_code = "92317"
-state = "CA"
 city = "Blue Jay"
 county = "San Bernardino"
-longitude = -117.079624
 latitude = 34.211175
+longitude = -117.079624
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92317"
+

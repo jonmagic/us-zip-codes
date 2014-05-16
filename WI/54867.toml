@@ -1,6 +1,8 @@
-zip_code = "54867"
-state = "WI"
 city = "Radisson"
 county = "Sawyer"
-longitude = -91.268979
 latitude = 45.800649
+longitude = -91.268979
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54867"
+

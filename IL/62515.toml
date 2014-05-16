@@ -1,6 +1,8 @@
-zip_code = "62515"
-state = "IL"
 city = "Buffalo"
 county = "Sangamon"
-longitude = -89.387944
 latitude = 39.849893
+longitude = -89.387944
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62515"
+

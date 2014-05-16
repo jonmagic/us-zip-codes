@@ -1,6 +1,8 @@
-zip_code = "63769"
-state = "MO"
 city = "Oak Ridge"
 county = "Cape Girardeau"
-longitude = -89.752719
 latitude = 37.514047
+longitude = -89.752719
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63769"
+

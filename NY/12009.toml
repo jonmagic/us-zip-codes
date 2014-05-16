@@ -1,6 +1,8 @@
-zip_code = "12009"
-state = "NY"
 city = "Altamont"
 county = "Albany"
-longitude = -74.030596
 latitude = 42.688731
+longitude = -74.030596
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12009"
+

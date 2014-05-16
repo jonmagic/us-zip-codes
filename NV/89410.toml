@@ -1,6 +1,8 @@
-zip_code = "89410"
-state = "NV"
 city = "Gardnerville"
 county = "Douglas"
-longitude = -119.649498
 latitude = 38.818277
+longitude = -119.649498
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89410"
+

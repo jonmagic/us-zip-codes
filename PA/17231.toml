@@ -1,6 +1,8 @@
-zip_code = "17231"
-state = "PA"
 city = "Lemasters"
 county = "Franklin"
-longitude = -77.857889
 latitude = 39.859432
+longitude = -77.857889
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17231"
+

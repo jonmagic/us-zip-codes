@@ -1,6 +1,8 @@
-zip_code = "69156"
-state = "NE"
 city = "Potter"
 county = "Cheyenne"
-longitude = -103.247811
 latitude = 41.212817
+longitude = -103.247811
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69156"
+

@@ -1,6 +1,8 @@
-zip_code = "37828"
-state = "TN"
 city = "Norris"
 county = "Anderson"
-longitude = -84.085785
 latitude = 36.200476
+longitude = -84.085785
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37828"
+

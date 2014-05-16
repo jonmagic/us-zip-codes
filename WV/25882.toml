@@ -1,6 +1,8 @@
-zip_code = "25882"
-state = "WV"
 city = "Mullens"
 county = "Wyoming"
-longitude = -81.413815
 latitude = 37.582143
+longitude = -81.413815
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25882"
+

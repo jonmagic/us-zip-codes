@@ -1,6 +1,8 @@
-zip_code = "50464"
-state = "IA"
 city = "Plymouth"
 county = "Cerro Gordo"
-longitude = -93.082854
 latitude = 43.234199
+longitude = -93.082854
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50464"
+

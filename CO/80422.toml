@@ -1,6 +1,8 @@
-zip_code = "80422"
-state = "CO"
 city = "Black Hawk"
 county = "Gilpin"
-longitude = -105.475322
 latitude = 39.81599
+longitude = -105.475322
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80422"
+

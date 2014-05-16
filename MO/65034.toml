@@ -1,6 +1,8 @@
-zip_code = "65034"
-state = "MO"
 city = "Fortuna"
 county = "Moniteau"
-longitude = -92.760087
 latitude = 38.545388
+longitude = -92.760087
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65034"
+

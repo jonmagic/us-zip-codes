@@ -1,6 +1,8 @@
-zip_code = "75144"
-state = "TX"
 city = "Kerens"
 county = "Navarro"
-longitude = -96.368686
 latitude = 32.124332
+longitude = -96.368686
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75144"
+

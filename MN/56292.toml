@@ -1,6 +1,8 @@
-zip_code = "56292"
-state = "MN"
 city = "Vesta"
 county = "Redwood"
-longitude = -95.447604
 latitude = 44.492318
+longitude = -95.447604
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56292"
+

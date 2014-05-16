@@ -1,6 +1,8 @@
-zip_code = "61377"
-state = "IL"
 city = "Wenona"
 county = "Marshall"
-longitude = -89.134955
 latitude = 41.029236
+longitude = -89.134955
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61377"
+

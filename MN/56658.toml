@@ -1,6 +1,8 @@
-zip_code = "56658"
-state = "MN"
 city = "Margie"
 county = "Koochiching"
-longitude = -93.755536
 latitude = 48.27888
+longitude = -93.755536
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56658"
+

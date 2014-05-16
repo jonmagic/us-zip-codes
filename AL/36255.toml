@@ -1,6 +1,8 @@
-zip_code = "36255"
-state = "AL"
 city = "Cragford"
 county = "Clay"
-longitude = -85.745014
 latitude = 33.193639
+longitude = -85.745014
+state = ""
+state_code_alpha2 = ""
+zip_code = "36255"
+

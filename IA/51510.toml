@@ -1,6 +1,8 @@
-zip_code = "51510"
-state = "IA"
 city = "Carter Lake"
 county = "Pottawattamie"
-longitude = -95.91689
 latitude = 41.287335
+longitude = -95.91689
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51510"
+

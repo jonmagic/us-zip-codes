@@ -1,6 +1,8 @@
-zip_code = "74330"
-state = "OK"
 city = "Adair"
 county = "Mayes"
-longitude = -95.26975
 latitude = 36.43736
+longitude = -95.26975
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74330"
+

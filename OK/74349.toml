@@ -1,6 +1,8 @@
-zip_code = "74349"
-state = "OK"
 city = "Ketchum"
 county = "Mayes"
-longitude = -95.027854
 latitude = 36.489096
+longitude = -95.027854
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74349"
+

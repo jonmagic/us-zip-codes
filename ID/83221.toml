@@ -1,6 +1,8 @@
-zip_code = "83221"
-state = "ID"
 city = "Blackfoot"
 county = "Bingham"
-longitude = -112.464518
 latitude = 43.251328
+longitude = -112.464518
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83221"
+

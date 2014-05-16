@@ -1,6 +1,8 @@
-zip_code = "94933"
-state = "CA"
 city = "Forest Knolls"
 county = "Marin"
-longitude = -122.690302
 latitude = 38.015803
+longitude = -122.690302
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94933"
+

@@ -1,6 +1,8 @@
-zip_code = "86446"
-state = "AZ"
 city = "Mohave Valley"
 county = "Mohave"
-longitude = -114.591728
 latitude = 34.849946
+longitude = -114.591728
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86446"
+

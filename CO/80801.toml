@@ -1,6 +1,8 @@
-zip_code = "80801"
-state = "CO"
 city = "Anton"
 county = "Washington"
-longitude = -103.137281
 latitude = 39.690908
+longitude = -103.137281
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80801"
+

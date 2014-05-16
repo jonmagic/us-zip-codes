@@ -1,6 +1,8 @@
-zip_code = "27920"
-state = "NC"
 city = "Buxton"
 county = "Dare"
-longitude = -75.572155
 latitude = 35.252534
+longitude = -75.572155
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27920"
+

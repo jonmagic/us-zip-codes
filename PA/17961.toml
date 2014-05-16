@@ -1,6 +1,8 @@
-zip_code = "17961"
-state = "PA"
 city = "Orwigsburg"
 county = "Schuylkill"
-longitude = -76.206854
 latitude = 40.618065
+longitude = -76.206854
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17961"
+

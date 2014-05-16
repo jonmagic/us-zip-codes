@@ -1,6 +1,8 @@
-zip_code = "63051"
-state = "MO"
 city = "House Springs"
 county = "Jefferson"
-longitude = -90.603575
 latitude = 38.250874
+longitude = -90.603575
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63051"
+

@@ -1,6 +1,8 @@
-zip_code = "24467"
-state = "VA"
 city = "Mount Sidney"
 county = "Augusta"
-longitude = -78.96826
 latitude = 38.242038
+longitude = -78.96826
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24467"
+

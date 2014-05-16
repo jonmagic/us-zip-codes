@@ -1,6 +1,8 @@
-zip_code = "42153"
-state = "KY"
 city = "Holland"
 county = "Allen"
-longitude = -86.038273
 latitude = 36.678703
+longitude = -86.038273
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42153"
+

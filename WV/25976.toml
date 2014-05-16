@@ -1,6 +1,8 @@
-zip_code = "25976"
-state = "WV"
 city = "Meadow Bridge"
 county = "Fayette"
-longitude = -80.874366
 latitude = 37.865186
+longitude = -80.874366
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25976"
+

@@ -1,6 +1,8 @@
-zip_code = "26372"
-state = "WV"
 city = "Horner"
 county = "Lewis"
-longitude = -80.51449
 latitude = 38.945847
+longitude = -80.51449
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26372"
+

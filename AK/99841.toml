@@ -1,6 +1,8 @@
-zip_code = "99841"
-state = "AK"
 city = "Tenakee Springs"
 county = "Skagway Hoonah Angoon"
-longitude = -135.285061
 latitude = 57.798249
+longitude = -135.285061
+state = ""
+state_code_alpha2 = ""
+zip_code = "99841"
+

@@ -1,6 +1,8 @@
-zip_code = "04921"
-state = "ME"
 city = "Brooks"
 county = "Waldo"
-longitude = -69.175448
 latitude = 44.579387
+longitude = -69.175448
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04921"
+

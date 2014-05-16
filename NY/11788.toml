@@ -1,6 +1,8 @@
-zip_code = "11788"
-state = "NY"
 city = "Hauppauge"
 county = "Suffolk"
-longitude = -73.2122
 latitude = 40.819074
+longitude = -73.2122
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11788"
+

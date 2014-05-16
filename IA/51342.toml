@@ -1,6 +1,8 @@
-zip_code = "51342"
-state = "IA"
 city = "Graettinger"
 county = "Palo Alto"
-longitude = -94.736878
 latitude = 43.19802
+longitude = -94.736878
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51342"
+

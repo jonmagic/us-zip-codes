@@ -1,6 +1,8 @@
-zip_code = "75670"
-state = "TX"
 city = "Marshall"
 county = "Harrison"
-longitude = -94.406228
 latitude = 32.538112
+longitude = -94.406228
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75670"
+

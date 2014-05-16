@@ -1,6 +1,8 @@
-zip_code = "42503"
-state = "KY"
 city = "Somerset"
 county = "Pulaski"
-longitude = -84.518445
 latitude = 37.131938
+longitude = -84.518445
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42503"
+

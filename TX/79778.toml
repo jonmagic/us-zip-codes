@@ -1,6 +1,8 @@
-zip_code = "79778"
-state = "TX"
 city = "Rankin"
 county = "Upton"
-longitude = -101.944129
 latitude = 31.226573
+longitude = -101.944129
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79778"
+

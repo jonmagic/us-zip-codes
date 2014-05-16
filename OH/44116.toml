@@ -1,6 +1,8 @@
-zip_code = "44116"
-state = "OH"
 city = "Rocky River"
 county = "Cuyahoga"
-longitude = -81.849209
 latitude = 41.469497
+longitude = -81.849209
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44116"
+

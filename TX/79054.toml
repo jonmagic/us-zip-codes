@@ -1,6 +1,8 @@
-zip_code = "79054"
-state = "TX"
 city = "Lefors"
 county = "Gray"
-longitude = -100.805869
 latitude = 35.439056
+longitude = -100.805869
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79054"
+

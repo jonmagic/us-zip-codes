@@ -1,6 +1,8 @@
-zip_code = "63468"
-state = "MO"
 city = "Shelbina"
 county = "Shelby"
-longitude = -92.067449
 latitude = 39.739181
+longitude = -92.067449
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63468"
+

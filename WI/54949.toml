@@ -1,6 +1,8 @@
-zip_code = "54949"
-state = "WI"
 city = "Manawa"
 county = "Waupaca"
-longitude = -88.926954
 latitude = 44.488057
+longitude = -88.926954
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54949"
+

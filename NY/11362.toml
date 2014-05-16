@@ -1,6 +1,8 @@
-zip_code = "11362"
-state = "NY"
 city = "Little Neck"
 county = "Queens"
-longitude = -73.735759
 latitude = 40.758364
+longitude = -73.735759
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11362"
+

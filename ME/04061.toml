@@ -1,6 +1,8 @@
-zip_code = "04061"
-state = "ME"
 city = "North Waterboro"
 county = "York"
-longitude = -70.710773
 latitude = 43.54209
+longitude = -70.710773
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04061"
+

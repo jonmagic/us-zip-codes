@@ -1,6 +1,8 @@
-zip_code = "80726"
-state = "CO"
 city = "Crook"
 county = "Logan"
-longitude = -103.074727
 latitude = 40.8523
+longitude = -103.074727
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80726"
+

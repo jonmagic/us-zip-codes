@@ -1,6 +1,8 @@
-zip_code = "30638"
-state = "GA"
 city = "Farmington"
 county = "Oconee"
-longitude = -83.420094
 latitude = 33.755811
+longitude = -83.420094
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30638"
+

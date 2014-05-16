@@ -1,6 +1,8 @@
-zip_code = "50001"
-state = "IA"
 city = "Ackworth"
 county = "Warren"
-longitude = -93.424294
 latitude = 41.384345
+longitude = -93.424294
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50001"
+

@@ -1,6 +1,8 @@
-zip_code = "42124"
-state = "KY"
 city = "Beaumont"
 county = "Metcalfe"
-longitude = -85.649583
 latitude = 36.857666
+longitude = -85.649583
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42124"
+

@@ -1,6 +1,8 @@
-zip_code = "15474"
-state = "PA"
 city = "Point Marion"
 county = "Fayette"
-longitude = -79.71174
 latitude = 39.911834
+longitude = -79.71174
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15474"
+

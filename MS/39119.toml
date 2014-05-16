@@ -1,6 +1,8 @@
-zip_code = "39119"
-state = "MS"
 city = "Mount Olive"
 county = "Covington"
-longitude = -89.623543
 latitude = 31.717905
+longitude = -89.623543
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39119"
+

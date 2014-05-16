@@ -1,6 +1,8 @@
-zip_code = "72469"
-state = "AR"
 city = "Strawberry"
 county = "Lawrence"
-longitude = -91.293503
 latitude = 35.967306
+longitude = -91.293503
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72469"
+

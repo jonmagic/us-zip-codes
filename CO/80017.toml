@@ -1,6 +1,8 @@
-zip_code = "80017"
-state = "CO"
 city = "Aurora"
 county = "Arapahoe"
-longitude = -104.80667
 latitude = 39.702142
+longitude = -104.80667
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80017"
+

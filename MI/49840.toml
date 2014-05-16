@@ -1,6 +1,8 @@
-zip_code = "49840"
-state = "MI"
 city = "Gulliver"
 county = "Schoolcraft"
-longitude = -86.235756
 latitude = 46.042076
+longitude = -86.235756
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49840"
+

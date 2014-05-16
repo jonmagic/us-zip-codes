@@ -1,6 +1,8 @@
-zip_code = "03875"
-state = "NH"
 city = "Silver Lake"
 county = "Carroll"
-longitude = -71.176182
 latitude = 43.855269
+longitude = -71.176182
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03875"
+

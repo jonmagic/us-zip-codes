@@ -1,6 +1,8 @@
-zip_code = "60062"
-state = "IL"
 city = "Northbrook"
 county = "Cook"
-longitude = -87.838815
 latitude = 42.120176
+longitude = -87.838815
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60062"
+

@@ -1,6 +1,8 @@
-zip_code = "14883"
-state = "NY"
 city = "Spencer"
 county = "Tioga"
-longitude = -76.471165
 latitude = 42.203102
+longitude = -76.471165
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14883"
+

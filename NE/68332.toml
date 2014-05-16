@@ -1,6 +1,8 @@
-zip_code = "68332"
-state = "NE"
 city = "Crab Orchard"
 county = "Johnson"
-longitude = -96.26478
 latitude = 40.392595
+longitude = -96.26478
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68332"
+

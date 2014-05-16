@@ -1,6 +1,8 @@
-zip_code = "67335"
-state = "KS"
 city = "Cherryvale"
 county = "Montgomery"
-longitude = -95.732508
 latitude = 37.167997
+longitude = -95.732508
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67335"
+

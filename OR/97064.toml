@@ -1,6 +1,8 @@
-zip_code = "97064"
-state = "OR"
 city = "Vernonia"
 county = "Columbia"
-longitude = -123.209056
 latitude = 45.888246
+longitude = -123.209056
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97064"
+

@@ -1,6 +1,8 @@
-zip_code = "04942"
-state = "ME"
 city = "Harmony"
 county = "Somerset"
-longitude = -69.548148
 latitude = 44.973047
+longitude = -69.548148
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04942"
+

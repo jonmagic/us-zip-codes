@@ -1,6 +1,8 @@
-zip_code = "39335"
-state = "MS"
 city = "Lauderdale"
 county = "Lauderdale"
-longitude = -88.534433
 latitude = 32.498068
+longitude = -88.534433
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39335"
+

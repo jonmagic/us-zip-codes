@@ -1,6 +1,8 @@
-zip_code = "24054"
-state = "VA"
 city = "Axton"
 county = "Henry"
-longitude = -79.742557
 latitude = 36.670446
+longitude = -79.742557
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24054"
+

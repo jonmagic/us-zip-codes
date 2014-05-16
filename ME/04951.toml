@@ -1,6 +1,8 @@
-zip_code = "04951"
-state = "ME"
 city = "Monroe"
 county = "Waldo"
-longitude = -69.149559
 latitude = 44.478694
+longitude = -69.149559
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04951"
+

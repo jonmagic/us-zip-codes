@@ -1,6 +1,8 @@
-zip_code = "05602"
-state = "VT"
 city = "Montpelier"
 county = "Washington"
-longitude = -72.623619
 latitude = 44.26829
+longitude = -72.623619
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05602"
+

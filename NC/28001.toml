@@ -1,6 +1,8 @@
-zip_code = "28001"
-state = "NC"
 city = "Albemarle"
 county = "Stanly"
-longitude = -80.253448
 latitude = 35.319817
+longitude = -80.253448
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28001"
+

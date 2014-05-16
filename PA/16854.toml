@@ -1,6 +1,8 @@
-zip_code = "16854"
-state = "PA"
 city = "Millheim"
 county = "Centre"
-longitude = -77.473298
 latitude = 40.893455
+longitude = -77.473298
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16854"
+

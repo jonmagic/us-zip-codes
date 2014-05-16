@@ -1,6 +1,8 @@
-zip_code = "74345"
-state = "OK"
 city = "Grove"
 county = "Delaware"
-longitude = -94.72974
 latitude = 36.603587
+longitude = -94.72974
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74345"
+

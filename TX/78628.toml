@@ -1,6 +1,8 @@
-zip_code = "78628"
-state = "TX"
 city = "Georgetown"
 county = "Williamson"
-longitude = -97.756049
 latitude = 30.692191
+longitude = -97.756049
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78628"
+

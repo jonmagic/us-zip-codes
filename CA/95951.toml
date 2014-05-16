@@ -1,6 +1,8 @@
-zip_code = "95951"
-state = "CA"
 city = "Hamilton City"
 county = "Glenn"
-longitude = -122.053823
 latitude = 39.728209
+longitude = -122.053823
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95951"
+

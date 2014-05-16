@@ -1,6 +1,8 @@
-zip_code = "48877"
-state = "MI"
 city = "Riverdale"
 county = "Gratiot"
-longitude = -84.816107
 latitude = 43.382803
+longitude = -84.816107
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48877"
+

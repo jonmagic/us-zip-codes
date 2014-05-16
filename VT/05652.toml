@@ -1,6 +1,8 @@
-zip_code = "05652"
-state = "VT"
 city = "Eden"
 county = "Lamoille"
-longitude = -72.57821
 latitude = 44.718619
+longitude = -72.57821
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05652"
+

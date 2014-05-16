@@ -1,6 +1,8 @@
-zip_code = "28740"
-state = "NC"
 city = "Green Mountain"
 county = "Yancey"
-longitude = -82.319283
 latitude = 35.89163
+longitude = -82.319283
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28740"
+

@@ -1,6 +1,8 @@
-zip_code = "01057"
-state = "MA"
 city = "Monson"
 county = "Hampden"
-longitude = -72.282063
 latitude = 42.095323
+longitude = -72.282063
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01057"
+

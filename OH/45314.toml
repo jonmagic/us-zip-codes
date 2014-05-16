@@ -1,6 +1,8 @@
-zip_code = "45314"
-state = "OH"
 city = "Cedarville"
 county = "Greene"
-longitude = -83.759973
 latitude = 39.747459
+longitude = -83.759973
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45314"
+

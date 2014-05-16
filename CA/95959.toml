@@ -1,6 +1,8 @@
-zip_code = "95959"
-state = "CA"
 city = "Nevada City"
 county = "Nevada"
-longitude = -120.887965
 latitude = 39.299606
+longitude = -120.887965
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95959"
+

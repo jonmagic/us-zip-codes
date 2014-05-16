@@ -1,6 +1,8 @@
-zip_code = "24562"
-state = "VA"
 city = "Howardsville"
 county = "Albemarle"
-longitude = -78.631326
 latitude = 37.751112
+longitude = -78.631326
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24562"
+

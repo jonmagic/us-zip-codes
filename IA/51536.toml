@@ -1,6 +1,8 @@
-zip_code = "51536"
-state = "IA"
 city = "Hancock"
 county = "Pottawattamie"
-longitude = -95.372891
 latitude = 41.389941
+longitude = -95.372891
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51536"
+

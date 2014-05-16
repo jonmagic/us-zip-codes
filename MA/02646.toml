@@ -1,6 +1,8 @@
-zip_code = "02646"
-state = "MA"
 city = "Harwich Port"
 county = "Barnstable"
-longitude = -70.053544
 latitude = 41.845717
+longitude = -70.053544
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02646"
+

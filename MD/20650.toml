@@ -1,6 +1,8 @@
-zip_code = "20650"
-state = "MD"
 city = "Leonardtown"
 county = "Saint Marys"
-longitude = -76.655917
 latitude = 38.278757
+longitude = -76.655917
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20650"
+

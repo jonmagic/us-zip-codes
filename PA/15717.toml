@@ -1,6 +1,8 @@
-zip_code = "15717"
-state = "PA"
 city = "Blairsville"
 county = "Indiana"
-longitude = -79.195766
 latitude = 40.486445
+longitude = -79.195766
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15717"
+

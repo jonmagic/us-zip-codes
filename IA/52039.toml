@@ -1,6 +1,8 @@
-zip_code = "52039"
-state = "IA"
 city = "Durango"
 county = "Dubuque"
-longitude = -90.851368
 latitude = 42.534545
+longitude = -90.851368
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52039"
+

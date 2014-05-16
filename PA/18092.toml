@@ -1,6 +1,8 @@
-zip_code = "18092"
-state = "PA"
 city = "Zionsville"
 county = "Lehigh"
-longitude = -75.512091
 latitude = 40.467193
+longitude = -75.512091
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18092"
+

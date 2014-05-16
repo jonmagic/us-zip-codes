@@ -1,6 +1,8 @@
-zip_code = "30701"
-state = "GA"
 city = "Calhoun"
 county = "Gordon"
-longitude = -84.887942
 latitude = 34.496921
+longitude = -84.887942
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30701"
+

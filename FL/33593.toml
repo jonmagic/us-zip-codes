@@ -1,6 +1,8 @@
-zip_code = "33593"
-state = "FL"
 city = "Trilby"
 county = "Pasco"
-longitude = -82.481766
 latitude = 28.324796
+longitude = -82.481766
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33593"
+

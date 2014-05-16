@@ -1,6 +1,8 @@
-zip_code = "67420"
-state = "KS"
 city = "Beloit"
 county = "Mitchell"
-longitude = -98.119189
 latitude = 39.441631
+longitude = -98.119189
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67420"
+

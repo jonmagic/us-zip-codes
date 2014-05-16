@@ -1,6 +1,8 @@
-zip_code = "92236"
-state = "CA"
 city = "Coachella"
 county = "Riverside"
-longitude = -116.143588
 latitude = 33.646405
+longitude = -116.143588
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92236"
+

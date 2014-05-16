@@ -1,6 +1,8 @@
-zip_code = "07020"
-state = "NJ"
 city = "Edgewater"
 county = "Bergen"
-longitude = -73.978082
 latitude = 40.82655
+longitude = -73.978082
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07020"
+

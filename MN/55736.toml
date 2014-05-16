@@ -1,6 +1,8 @@
-zip_code = "55736"
-state = "MN"
 city = "Floodwood"
 county = "Saint Louis"
-longitude = -92.837735
 latitude = 46.937895
+longitude = -92.837735
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55736"
+

@@ -1,6 +1,8 @@
-zip_code = "28378"
-state = "NC"
 city = "Rex"
 county = "Robeson"
-longitude = -79.064165
 latitude = 34.854316
+longitude = -79.064165
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28378"
+

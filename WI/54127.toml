@@ -1,6 +1,8 @@
-zip_code = "54127"
-state = "WI"
 city = "Green Valley"
 county = "Shawano"
-longitude = -88.269238
 latitude = 44.804687
+longitude = -88.269238
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54127"
+

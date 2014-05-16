@@ -1,6 +1,8 @@
-zip_code = "43420"
-state = "OH"
 city = "Fremont"
 county = "Sandusky"
-longitude = -83.133981
 latitude = 41.35622
+longitude = -83.133981
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43420"
+

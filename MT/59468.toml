@@ -1,6 +1,8 @@
-zip_code = "59468"
-state = "MT"
 city = "Power"
 county = "Teton"
-longitude = -111.6938
 latitude = 47.726972
+longitude = -111.6938
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59468"
+

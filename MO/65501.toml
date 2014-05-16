@@ -1,6 +1,8 @@
-zip_code = "65501"
-state = "MO"
 city = "Jadwin"
 county = "Dent"
-longitude = -91.481225
 latitude = 37.603341
+longitude = -91.481225
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65501"
+

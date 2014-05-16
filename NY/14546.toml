@@ -1,6 +1,8 @@
-zip_code = "14546"
-state = "NY"
 city = "Scottsville"
 county = "Monroe"
-longitude = -77.772652
 latitude = 43.04471
+longitude = -77.772652
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14546"
+

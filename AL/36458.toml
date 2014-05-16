@@ -1,6 +1,8 @@
-zip_code = "36458"
-state = "AL"
 city = "Mexia"
 county = "Monroe"
-longitude = -87.408362
 latitude = 31.514659
+longitude = -87.408362
+state = ""
+state_code_alpha2 = ""
+zip_code = "36458"
+

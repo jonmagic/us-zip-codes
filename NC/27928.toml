@@ -1,6 +1,8 @@
-zip_code = "27928"
-state = "NC"
 city = "Creswell"
 county = "Washington"
-longitude = -76.567703
 latitude = 35.829692
+longitude = -76.567703
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27928"
+

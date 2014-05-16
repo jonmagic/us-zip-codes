@@ -1,6 +1,8 @@
-zip_code = "98531"
-state = "WA"
 city = "Centralia"
 county = "Lewis"
-longitude = -123.01046
 latitude = 46.713822
+longitude = -123.01046
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98531"
+

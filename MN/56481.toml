@@ -1,6 +1,8 @@
-zip_code = "56481"
-state = "MN"
 city = "Verndale"
 county = "Wadena"
-longitude = -94.967564
 latitude = 46.506528
+longitude = -94.967564
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56481"
+

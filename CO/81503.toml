@@ -1,6 +1,8 @@
-zip_code = "81503"
-state = "CO"
 city = "Grand Junction"
 county = "Mesa"
-longitude = -108.591229
 latitude = 39.013584
+longitude = -108.591229
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81503"
+

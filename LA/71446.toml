@@ -1,6 +1,8 @@
-zip_code = "71446"
-state = "LA"
 city = "Leesville"
 county = "Vernon"
-longitude = -93.173622
 latitude = 31.125636
+longitude = -93.173622
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71446"
+

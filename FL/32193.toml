@@ -1,6 +1,8 @@
-zip_code = "32193"
-state = "FL"
 city = "Welaka"
 county = "Putnam"
-longitude = -81.640527
 latitude = 29.463627
+longitude = -81.640527
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32193"
+

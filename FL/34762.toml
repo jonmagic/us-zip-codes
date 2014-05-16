@@ -1,6 +1,8 @@
-zip_code = "34762"
-state = "FL"
 city = "Okahumpka"
 county = "Lake"
-longitude = -81.895885
 latitude = 28.74751
+longitude = -81.895885
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34762"
+

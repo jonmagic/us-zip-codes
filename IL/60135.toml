@@ -1,6 +1,8 @@
-zip_code = "60135"
-state = "IL"
 city = "Genoa"
 county = "De Kalb"
-longitude = -88.718101
 latitude = 42.10153
+longitude = -88.718101
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60135"
+

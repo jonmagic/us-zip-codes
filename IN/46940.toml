@@ -1,6 +1,8 @@
-zip_code = "46940"
-state = "IN"
 city = "La Fontaine"
 county = "Wabash"
-longitude = -85.740428
 latitude = 40.696155
+longitude = -85.740428
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46940"
+

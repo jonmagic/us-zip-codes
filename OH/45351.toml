@@ -1,6 +1,8 @@
-zip_code = "45351"
-state = "OH"
 city = "Osgood"
 county = "Darke"
-longitude = -84.496342
 latitude = 40.340616
+longitude = -84.496342
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45351"
+

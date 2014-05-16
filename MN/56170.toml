@@ -1,6 +1,8 @@
-zip_code = "56170"
-state = "MN"
 city = "Ruthton"
 county = "Pipestone"
-longitude = -96.275913
 latitude = 44.153916
+longitude = -96.275913
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56170"
+

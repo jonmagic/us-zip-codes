@@ -1,6 +1,8 @@
-zip_code = "29911"
-state = "SC"
 city = "Brunson"
 county = "Hampton"
-longitude = -81.206373
 latitude = 32.885698
+longitude = -81.206373
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29911"
+

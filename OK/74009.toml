@@ -1,6 +1,8 @@
-zip_code = "74009"
-state = "OK"
 city = "Bowring"
 county = "Osage"
-longitude = -96.398424
 latitude = 36.665794
+longitude = -96.398424
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74009"
+

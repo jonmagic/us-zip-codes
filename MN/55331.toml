@@ -1,6 +1,8 @@
-zip_code = "55331"
-state = "MN"
 city = "Excelsior"
 county = "Hennepin"
-longitude = -93.623186
 latitude = 44.912712
+longitude = -93.623186
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55331"
+

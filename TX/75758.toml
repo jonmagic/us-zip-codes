@@ -1,6 +1,8 @@
-zip_code = "75758"
-state = "TX"
 city = "Chandler"
 county = "Henderson"
-longitude = -95.539252
 latitude = 32.257185
+longitude = -95.539252
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75758"
+

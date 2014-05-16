@@ -1,6 +1,8 @@
-zip_code = "12457"
-state = "NY"
 city = "Mount Tremper"
 county = "Ulster"
-longitude = -74.168979
 latitude = 41.8743
+longitude = -74.168979
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12457"
+

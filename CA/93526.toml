@@ -1,6 +1,8 @@
-zip_code = "93526"
-state = "CA"
 city = "Independence"
 county = "Inyo"
-longitude = -118.235097
 latitude = 36.831167
+longitude = -118.235097
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93526"
+

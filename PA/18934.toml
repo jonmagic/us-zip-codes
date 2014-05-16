@@ -1,6 +1,8 @@
-zip_code = "18934"
-state = "PA"
 city = "Mechanicsville"
 county = "Bucks"
-longitude = -75.067622
 latitude = 40.349443
+longitude = -75.067622
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18934"
+

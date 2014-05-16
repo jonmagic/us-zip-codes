@@ -1,6 +1,8 @@
-zip_code = "55063"
-state = "MN"
 city = "Pine City"
 county = "Pine"
-longitude = -92.892997
 latitude = 45.949599
+longitude = -92.892997
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55063"
+

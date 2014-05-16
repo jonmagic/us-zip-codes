@@ -1,6 +1,8 @@
-zip_code = "05456"
-state = "VT"
 city = "Ferrisburg"
 county = "Addison"
-longitude = -73.256629
 latitude = 44.210886
+longitude = -73.256629
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05456"
+

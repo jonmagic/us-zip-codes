@@ -1,6 +1,8 @@
-zip_code = "36584"
-state = "AL"
 city = "Vinegar Bend"
 county = "Washington"
-longitude = -88.393047
 latitude = 31.213691
+longitude = -88.393047
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36584"
+

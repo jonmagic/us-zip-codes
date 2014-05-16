@@ -1,6 +1,8 @@
-zip_code = "72149"
-state = "AR"
 city = "Searcy"
 county = "White"
-longitude = -91.73139
 latitude = 35.247376
+longitude = -91.73139
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72149"
+

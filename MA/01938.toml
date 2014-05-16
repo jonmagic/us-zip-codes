@@ -1,6 +1,8 @@
-zip_code = "01938"
-state = "MA"
 city = "Ipswich"
 county = "Essex"
-longitude = -70.864132
 latitude = 42.68571
+longitude = -70.864132
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01938"
+

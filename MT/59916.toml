@@ -1,6 +1,8 @@
-zip_code = "59916"
-state = "MT"
 city = "Essex"
 county = "Flathead"
-longitude = -113.893384
 latitude = 48.324238
+longitude = -113.893384
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59916"
+

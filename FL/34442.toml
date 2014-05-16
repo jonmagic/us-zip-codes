@@ -1,6 +1,8 @@
-zip_code = "34442"
-state = "FL"
 city = "Hernando"
 county = "Citrus"
-longitude = -82.390044
 latitude = 28.922317
+longitude = -82.390044
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34442"
+

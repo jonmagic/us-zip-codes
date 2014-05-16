@@ -1,6 +1,8 @@
-zip_code = "93954"
-state = "CA"
 city = "San Lucas"
 county = "Monterey"
-longitude = -121.290346
 latitude = 36.457423
+longitude = -121.290346
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93954"
+

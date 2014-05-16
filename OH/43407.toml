@@ -1,6 +1,8 @@
-zip_code = "43407"
-state = "OH"
 city = "Burgoon"
 county = "Sandusky"
-longitude = -83.244604
 latitude = 41.278621
+longitude = -83.244604
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43407"
+

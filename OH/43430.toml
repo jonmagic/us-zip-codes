@@ -1,6 +1,8 @@
-zip_code = "43430"
-state = "OH"
 city = "Genoa"
 county = "Ottawa"
-longitude = -83.352477
 latitude = 41.524657
+longitude = -83.352477
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43430"
+

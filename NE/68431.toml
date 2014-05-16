@@ -1,6 +1,8 @@
-zip_code = "68431"
-state = "NE"
 city = "Rulo"
 county = "Richardson"
-longitude = -95.428531
 latitude = 40.046277
+longitude = -95.428531
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68431"
+

@@ -1,6 +1,8 @@
-zip_code = "10985"
-state = "NY"
 city = "Thompson Ridge"
 county = "Orange"
-longitude = -74.322534
 latitude = 41.574986
+longitude = -74.322534
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10985"
+

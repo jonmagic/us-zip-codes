@@ -1,6 +1,8 @@
-zip_code = "04576"
-state = "ME"
 city = "Southport"
 county = "Lincoln"
-longitude = -69.529648
 latitude = 43.935605
+longitude = -69.529648
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04576"
+

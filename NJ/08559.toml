@@ -1,6 +1,8 @@
-zip_code = "08559"
-state = "NJ"
 city = "Stockton"
 county = "Hunterdon"
-longitude = -74.970597
 latitude = 40.436413
+longitude = -74.970597
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08559"
+

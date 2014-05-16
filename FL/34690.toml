@@ -1,6 +1,8 @@
-zip_code = "34690"
-state = "FL"
 city = "Holiday"
 county = "Pasco"
-longitude = -82.724448
 latitude = 28.191434
+longitude = -82.724448
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34690"
+

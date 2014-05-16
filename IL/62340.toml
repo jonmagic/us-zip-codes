@@ -1,6 +1,8 @@
-zip_code = "62340"
-state = "IL"
 city = "Griggsville"
 county = "Pike"
-longitude = -90.749386
 latitude = 39.741573
+longitude = -90.749386
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62340"
+

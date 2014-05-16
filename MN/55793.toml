@@ -1,6 +1,8 @@
-zip_code = "55793"
-state = "MN"
 city = "Warba"
 county = "Itasca"
-longitude = -93.228104
 latitude = 47.241169
+longitude = -93.228104
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55793"
+

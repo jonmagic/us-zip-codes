@@ -1,6 +1,8 @@
-zip_code = "80815"
-state = "CO"
 city = "Flagler"
 county = "Kit Carson"
-longitude = -102.783284
 latitude = 39.32513
+longitude = -102.783284
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80815"
+

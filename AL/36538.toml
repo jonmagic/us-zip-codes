@@ -1,6 +1,8 @@
-zip_code = "36538"
-state = "AL"
 city = "Frankville"
 county = "Washington"
-longitude = -88.175846
 latitude = 31.406683
+longitude = -88.175846
+state = ""
+state_code_alpha2 = ""
+zip_code = "36538"
+

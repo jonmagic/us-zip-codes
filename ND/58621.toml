@@ -1,6 +1,8 @@
-zip_code = "58621"
-state = "ND"
 city = "Beach"
 county = "Golden Valley"
-longitude = -103.898766
 latitude = 46.963728
+longitude = -103.898766
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58621"
+

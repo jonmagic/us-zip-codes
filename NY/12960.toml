@@ -1,6 +1,8 @@
-zip_code = "12960"
-state = "NY"
 city = "Moriah"
 county = "Essex"
-longitude = -73.505265
 latitude = 44.041863
+longitude = -73.505265
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12960"
+

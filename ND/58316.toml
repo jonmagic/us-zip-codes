@@ -1,6 +1,8 @@
-zip_code = "58316"
-state = "ND"
 city = "Belcourt"
 county = "Rolette"
-longitude = -99.799919
 latitude = 48.777557
+longitude = -99.799919
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58316"
+

@@ -1,6 +1,8 @@
-zip_code = "07847"
-state = "NJ"
 city = "Kenvil"
 county = "Morris"
-longitude = -74.695309
 latitude = 40.876098
+longitude = -74.695309
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07847"
+

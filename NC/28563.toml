@@ -1,6 +1,8 @@
-zip_code = "28563"
-state = "NC"
 city = "New Bern"
 county = "Craven"
-longitude = -77.06336
 latitude = 35.110855
+longitude = -77.06336
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28563"
+

@@ -1,6 +1,8 @@
-zip_code = "44804"
-state = "OH"
 city = "Arcadia"
 county = "Hancock"
-longitude = -83.535416
 latitude = 41.115906
+longitude = -83.535416
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44804"
+

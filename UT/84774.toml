@@ -1,6 +1,8 @@
-zip_code = "84774"
-state = "UT"
 city = "Toquerville"
 county = "Washington"
-longitude = -113.332321
 latitude = 37.237701
+longitude = -113.332321
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84774"
+

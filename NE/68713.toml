@@ -1,6 +1,8 @@
-zip_code = "68713"
-state = "NE"
 city = "Atkinson"
 county = "Holt"
-longitude = -98.975603
 latitude = 42.533852
+longitude = -98.975603
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68713"
+

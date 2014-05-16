@@ -1,6 +1,8 @@
-zip_code = "67628"
-state = "KS"
 city = "Cedar"
 county = "Smith"
-longitude = -98.785622
 latitude = 39.784963
+longitude = -98.785622
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67628"
+

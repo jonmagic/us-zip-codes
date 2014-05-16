@@ -1,6 +1,8 @@
-zip_code = "38852"
-state = "MS"
 city = "Iuka"
 county = "Tishomingo"
-longitude = -88.2318
 latitude = 34.81583
+longitude = -88.2318
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38852"
+

@@ -1,6 +1,8 @@
-zip_code = "47432"
-state = "IN"
 city = "French Lick"
 county = "Orange"
-longitude = -86.587861
 latitude = 38.486914
+longitude = -86.587861
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47432"
+

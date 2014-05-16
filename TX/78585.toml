@@ -1,6 +1,8 @@
-zip_code = "78585"
-state = "TX"
 city = "Salineno"
 county = "Starr"
-longitude = -98.746365
 latitude = 26.510436
+longitude = -98.746365
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78585"
+

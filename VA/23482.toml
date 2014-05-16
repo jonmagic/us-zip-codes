@@ -1,6 +1,8 @@
-zip_code = "23482"
-state = "VA"
 city = "Wardtown"
 county = "Northampton"
-longitude = -75.86913
 latitude = 37.273986
+longitude = -75.86913
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23482"
+

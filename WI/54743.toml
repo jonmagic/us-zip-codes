@@ -1,6 +1,8 @@
-zip_code = "54743"
-state = "WI"
 city = "Gilmanton"
 county = "Buffalo"
-longitude = -91.806396
 latitude = 44.311074
+longitude = -91.806396
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54743"
+

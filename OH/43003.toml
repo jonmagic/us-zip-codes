@@ -1,6 +1,8 @@
-zip_code = "43003"
-state = "OH"
 city = "Ashley"
 county = "Delaware"
-longitude = -82.98071
 latitude = 40.389346
+longitude = -82.98071
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43003"
+

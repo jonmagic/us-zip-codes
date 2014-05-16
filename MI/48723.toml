@@ -1,6 +1,8 @@
-zip_code = "48723"
-state = "MI"
 city = "Caro"
 county = "Tuscola"
-longitude = -83.385078
 latitude = 43.489001
+longitude = -83.385078
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48723"
+

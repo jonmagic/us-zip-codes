@@ -1,6 +1,8 @@
-zip_code = "45030"
-state = "OH"
 city = "Harrison"
 county = "Hamilton"
-longitude = -84.736254
 latitude = 39.244275
+longitude = -84.736254
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45030"
+

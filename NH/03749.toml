@@ -1,6 +1,8 @@
-zip_code = "03749"
-state = "NH"
 city = "Enfield Center"
 county = "Grafton"
-longitude = -72.08541
 latitude = 43.579573
+longitude = -72.08541
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03749"
+

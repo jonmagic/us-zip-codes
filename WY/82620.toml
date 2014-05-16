@@ -1,6 +1,8 @@
-zip_code = "82620"
-state = "WY"
 city = "Alcova"
 county = "Natrona"
-longitude = -106.759971
 latitude = 42.530223
+longitude = -106.759971
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82620"
+

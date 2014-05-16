@@ -1,6 +1,8 @@
-zip_code = "54963"
-state = "WI"
 city = "Omro"
 county = "Winnebago"
-longitude = -88.754887
 latitude = 44.050782
+longitude = -88.754887
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54963"
+

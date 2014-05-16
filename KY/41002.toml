@@ -1,6 +1,8 @@
-zip_code = "41002"
-state = "KY"
 city = "Augusta"
 county = "Bracken"
-longitude = -83.982911
 latitude = 38.72342
+longitude = -83.982911
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41002"
+

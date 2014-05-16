@@ -1,6 +1,8 @@
-zip_code = "44214"
-state = "OH"
 city = "Burbank"
 county = "Wayne"
-longitude = -81.996351
 latitude = 40.927483
+longitude = -81.996351
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44214"
+

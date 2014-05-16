@@ -1,6 +1,8 @@
-zip_code = "97489"
-state = "OR"
 city = "Walterville"
 county = "Lane"
-longitude = -122.637619
 latitude = 44.128776
+longitude = -122.637619
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97489"
+

@@ -1,6 +1,8 @@
-zip_code = "62232"
-state = "IL"
 city = "Caseyville"
 county = "Saint Clair"
-longitude = -90.012477
 latitude = 38.630199
+longitude = -90.012477
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62232"
+

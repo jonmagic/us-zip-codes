@@ -1,6 +1,8 @@
-zip_code = "22827"
-state = "VA"
 city = "Elkton"
 county = "Rockingham"
-longitude = -78.729679
 latitude = 38.4009
+longitude = -78.729679
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22827"
+

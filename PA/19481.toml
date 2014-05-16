@@ -1,6 +1,8 @@
-zip_code = "19481"
-state = "PA"
 city = "Valley Forge"
 county = "Chester"
-longitude = -75.453735
 latitude = 40.092269
+longitude = -75.453735
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19481"
+

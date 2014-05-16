@@ -1,6 +1,8 @@
-zip_code = "54532"
-state = "WI"
 city = "Heafford Junction"
 county = "Lincoln"
-longitude = -89.735524
 latitude = 45.337678
+longitude = -89.735524
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54532"
+

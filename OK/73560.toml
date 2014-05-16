@@ -1,6 +1,8 @@
-zip_code = "73560"
-state = "OK"
 city = "Olustee"
 county = "Jackson"
-longitude = -99.421959
 latitude = 34.54794
+longitude = -99.421959
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73560"
+

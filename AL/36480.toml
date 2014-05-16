@@ -1,6 +1,8 @@
-zip_code = "36480"
-state = "AL"
 city = "Uriah"
 county = "Monroe"
-longitude = -87.500236
 latitude = 31.541789
+longitude = -87.500236
+state = ""
+state_code_alpha2 = ""
+zip_code = "36480"
+

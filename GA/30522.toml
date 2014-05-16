@@ -1,6 +1,8 @@
-zip_code = "30522"
-state = "GA"
 city = "Cherrylog"
 county = "Gilmer"
-longitude = -84.425035
 latitude = 34.73249
+longitude = -84.425035
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30522"
+

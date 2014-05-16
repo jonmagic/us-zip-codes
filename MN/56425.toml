@@ -1,6 +1,8 @@
-zip_code = "56425"
-state = "MN"
 city = "Baxter"
 county = "Crow Wing"
-longitude = -94.196884
 latitude = 46.373474
+longitude = -94.196884
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56425"
+

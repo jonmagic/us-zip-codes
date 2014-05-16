@@ -1,6 +1,8 @@
-zip_code = "08724"
-state = "NJ"
 city = "Brick"
 county = "Ocean"
-longitude = -74.17109
 latitude = 39.938047
+longitude = -74.17109
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08724"
+

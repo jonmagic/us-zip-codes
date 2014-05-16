@@ -1,6 +1,8 @@
-zip_code = "11702"
-state = "NY"
 city = "Babylon"
 county = "Suffolk"
-longitude = -73.340984
 latitude = 40.66415
+longitude = -73.340984
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11702"
+

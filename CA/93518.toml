@@ -1,6 +1,8 @@
-zip_code = "93518"
-state = "CA"
 city = "Caliente"
 county = "Kern"
-longitude = -118.609553
 latitude = 35.488054
+longitude = -118.609553
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93518"
+

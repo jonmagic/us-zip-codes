@@ -1,6 +1,8 @@
-zip_code = "25054"
-state = "WV"
 city = "Dawes"
 county = "Kanawha"
-longitude = -81.451066
 latitude = 38.073666
+longitude = -81.451066
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25054"
+

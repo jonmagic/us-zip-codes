@@ -1,6 +1,8 @@
-zip_code = "15088"
-state = "PA"
 city = "West Elizabeth"
 county = "Allegheny"
-longitude = -79.89661
 latitude = 40.271597
+longitude = -79.89661
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15088"
+

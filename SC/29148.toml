@@ -1,6 +1,8 @@
-zip_code = "29148"
-state = "SC"
 city = "Summerton"
 county = "Clarendon"
-longitude = -80.322756
 latitude = 33.55156
+longitude = -80.322756
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29148"
+

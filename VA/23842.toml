@@ -1,6 +1,8 @@
-zip_code = "23842"
-state = "VA"
 city = "Disputanta"
 county = "Prince George"
-longitude = -77.213961
 latitude = 37.150869
+longitude = -77.213961
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23842"
+

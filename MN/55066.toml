@@ -1,6 +1,8 @@
-zip_code = "55066"
-state = "MN"
 city = "Red Wing"
 county = "Goodhue"
-longitude = -92.537774
 latitude = 44.521909
+longitude = -92.537774
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55066"
+

@@ -1,6 +1,8 @@
-zip_code = "35143"
-state = "AL"
 city = "Shelby"
 county = "Shelby"
-longitude = -86.550392
 latitude = 33.080188
+longitude = -86.550392
+state = ""
+state_code_alpha2 = ""
+zip_code = "35143"
+

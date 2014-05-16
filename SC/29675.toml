@@ -1,6 +1,8 @@
-zip_code = "29675"
-state = "SC"
 city = "Richland"
 county = "Oconee"
-longitude = -83.088332
 latitude = 34.764076
+longitude = -83.088332
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29675"
+

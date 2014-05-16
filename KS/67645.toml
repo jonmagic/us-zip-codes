@@ -1,6 +1,8 @@
-zip_code = "67645"
-state = "KS"
 city = "Lenora"
 county = "Norton"
-longitude = -100.002777
 latitude = 39.610503
+longitude = -100.002777
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67645"
+

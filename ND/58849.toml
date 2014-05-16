@@ -1,6 +1,8 @@
-zip_code = "58849"
-state = "ND"
 city = "Ray"
 county = "Williams"
-longitude = -103.165391
 latitude = 48.321696
+longitude = -103.165391
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58849"
+

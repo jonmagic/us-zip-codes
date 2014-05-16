@@ -1,6 +1,8 @@
-zip_code = "35755"
-state = "AL"
 city = "Langston"
 county = "Jackson"
-longitude = -86.020239
 latitude = 34.733585
+longitude = -86.020239
+state = ""
+state_code_alpha2 = ""
+zip_code = "35755"
+

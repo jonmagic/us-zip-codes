@@ -1,6 +1,8 @@
-zip_code = "12952"
-state = "NY"
 city = "Lyon Mountain"
 county = "Clinton"
-longitude = -73.900452
 latitude = 44.734587
+longitude = -73.900452
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12952"
+

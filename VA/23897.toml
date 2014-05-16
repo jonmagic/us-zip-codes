@@ -1,6 +1,8 @@
-zip_code = "23897"
-state = "VA"
 city = "Yale"
 county = "Sussex"
-longitude = -77.27587
 latitude = 36.838572
+longitude = -77.27587
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23897"
+

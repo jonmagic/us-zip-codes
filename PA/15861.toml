@@ -1,6 +1,8 @@
-zip_code = "15861"
-state = "PA"
 city = "Sinnamahoning"
 county = "Cameron"
-longitude = -78.204927
 latitude = 41.417566
+longitude = -78.204927
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15861"
+

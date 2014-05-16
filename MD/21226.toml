@@ -1,6 +1,8 @@
-zip_code = "21226"
-state = "MD"
 city = "Curtis Bay"
 county = "Anne Arundel"
-longitude = -76.584137
 latitude = 39.06871
+longitude = -76.584137
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21226"
+

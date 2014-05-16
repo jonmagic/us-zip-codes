@@ -1,6 +1,8 @@
-zip_code = "68743"
-state = "NE"
 city = "Jackson"
 county = "Dakota"
-longitude = -96.631738
 latitude = 42.452053
+longitude = -96.631738
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68743"
+

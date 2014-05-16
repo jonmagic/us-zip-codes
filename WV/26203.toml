@@ -1,6 +1,8 @@
-zip_code = "26203"
-state = "WV"
 city = "Erbacon"
 county = "Webster"
-longitude = -80.607651
 latitude = 38.522709
+longitude = -80.607651
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26203"
+

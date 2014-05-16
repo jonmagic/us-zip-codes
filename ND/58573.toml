@@ -1,6 +1,8 @@
-zip_code = "58573"
-state = "ND"
 city = "Strasburg"
 county = "Emmons"
-longitude = -100.223542
 latitude = 46.080388
+longitude = -100.223542
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58573"
+

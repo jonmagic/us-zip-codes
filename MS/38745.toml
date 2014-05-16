@@ -1,6 +1,8 @@
-zip_code = "38745"
-state = "MS"
 city = "Grace"
 county = "Issaquena"
-longitude = -90.952716
 latitude = 32.711257
+longitude = -90.952716
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38745"
+

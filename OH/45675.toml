@@ -1,6 +1,8 @@
-zip_code = "45675"
-state = "OH"
 city = "Rock Camp"
 county = "Lawrence"
-longitude = -82.532715
 latitude = 38.536685
+longitude = -82.532715
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45675"
+

@@ -1,6 +1,8 @@
-zip_code = "24430"
-state = "VA"
 city = "Craigsville"
 county = "Augusta"
-longitude = -79.359123
 latitude = 38.073868
+longitude = -79.359123
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24430"
+

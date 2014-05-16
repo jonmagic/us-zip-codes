@@ -1,6 +1,8 @@
-zip_code = "67559"
-state = "KS"
 city = "Nekoma"
 county = "Rush"
-longitude = -99.309591
 latitude = 38.52286
+longitude = -99.309591
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67559"
+

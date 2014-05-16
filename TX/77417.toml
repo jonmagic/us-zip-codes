@@ -1,6 +1,8 @@
-zip_code = "77417"
-state = "TX"
 city = "Beasley"
 county = "Fort Bend"
-longitude = -95.974399
 latitude = 29.482797
+longitude = -95.974399
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77417"
+

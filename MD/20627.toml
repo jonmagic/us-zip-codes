@@ -1,6 +1,8 @@
-zip_code = "20627"
-state = "MD"
 city = "Compton"
 county = "Saint Marys"
-longitude = -76.703971
 latitude = 38.276828
+longitude = -76.703971
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20627"
+

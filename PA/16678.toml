@@ -1,6 +1,8 @@
-zip_code = "16678"
-state = "PA"
 city = "Saxton"
 county = "Bedford"
-longitude = -78.252528
 latitude = 40.201876
+longitude = -78.252528
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16678"
+

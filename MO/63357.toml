@@ -1,6 +1,8 @@
-zip_code = "63357"
-state = "MO"
 city = "Marthasville"
 county = "Warren"
-longitude = -91.151576
 latitude = 38.651157
+longitude = -91.151576
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63357"
+

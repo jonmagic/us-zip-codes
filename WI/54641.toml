@@ -1,6 +1,8 @@
-zip_code = "54641"
-state = "WI"
 city = "Mather"
 county = "Juneau"
-longitude = -90.049489
 latitude = 43.94521
+longitude = -90.049489
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54641"
+

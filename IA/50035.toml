@@ -1,6 +1,8 @@
-zip_code = "50035"
-state = "IA"
 city = "Bondurant"
 county = "Polk"
-longitude = -93.45694
 latitude = 41.730186
+longitude = -93.45694
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50035"
+

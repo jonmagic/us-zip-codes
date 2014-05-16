@@ -1,6 +1,8 @@
-zip_code = "84064"
-state = "UT"
 city = "Randolph"
 county = "Rich"
-longitude = -111.184512
 latitude = 41.690895
+longitude = -111.184512
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84064"
+

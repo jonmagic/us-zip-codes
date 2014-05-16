@@ -1,6 +1,8 @@
-zip_code = "48138"
-state = "MI"
 city = "Grosse Ile"
 county = "Wayne"
-longitude = -83.156124
 latitude = 42.135191
+longitude = -83.156124
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48138"
+

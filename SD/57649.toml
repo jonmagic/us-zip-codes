@@ -1,6 +1,8 @@
-zip_code = "57649"
-state = "SD"
 city = "Prairie City"
 county = "Perkins"
-longitude = -102.704216
 latitude = 45.440744
+longitude = -102.704216
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57649"
+

@@ -1,6 +1,8 @@
-zip_code = "27915"
-state = "NC"
 city = "Avon"
 county = "Dare"
-longitude = -75.635823
 latitude = 35.776474
+longitude = -75.635823
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27915"
+

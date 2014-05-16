@@ -1,6 +1,8 @@
-zip_code = "38390"
-state = "TN"
 city = "Yuma"
 county = "Carroll"
-longitude = -88.357504
 latitude = 35.8458
+longitude = -88.357504
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38390"
+

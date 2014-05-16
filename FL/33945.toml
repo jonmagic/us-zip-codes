@@ -1,6 +1,8 @@
-zip_code = "33945"
-state = "FL"
 city = "Pineland"
 county = "Lee"
-longitude = -82.1434
 latitude = 26.658313
+longitude = -82.1434
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33945"
+

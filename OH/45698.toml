@@ -1,6 +1,8 @@
-zip_code = "45698"
-state = "OH"
 city = "Zaleski"
 county = "Vinton"
-longitude = -82.397708
 latitude = 39.283031
+longitude = -82.397708
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45698"
+

@@ -1,6 +1,8 @@
-zip_code = "03036"
-state = "NH"
 city = "Chester"
 county = "Rockingham"
-longitude = -71.251021
 latitude = 42.961606
+longitude = -71.251021
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03036"
+

@@ -1,6 +1,8 @@
-zip_code = "97438"
-state = "OR"
 city = "Fall Creek"
 county = "Lane"
-longitude = -122.76915
 latitude = 43.9823
+longitude = -122.76915
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97438"
+

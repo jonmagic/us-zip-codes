@@ -1,6 +1,8 @@
-zip_code = "33840"
-state = "FL"
 city = "Eaton Park"
 county = "Polk"
-longitude = -81.5415
 latitude = 28.084383
+longitude = -81.5415
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33840"
+

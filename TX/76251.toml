@@ -1,6 +1,8 @@
-zip_code = "76251"
-state = "TX"
 city = "Montague"
 county = "Montague"
-longitude = -97.720081
 latitude = 33.647198
+longitude = -97.720081
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76251"
+

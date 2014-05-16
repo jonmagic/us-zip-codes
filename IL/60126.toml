@@ -1,6 +1,8 @@
-zip_code = "60126"
-state = "IL"
 city = "Elmhurst"
 county = "Du Page"
-longitude = -87.946413
 latitude = 41.88353
+longitude = -87.946413
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60126"
+

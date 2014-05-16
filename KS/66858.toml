@@ -1,6 +1,8 @@
-zip_code = "66858"
-state = "KS"
 city = "Lincolnville"
 county = "Marion"
-longitude = -96.96264
 latitude = 38.493293
+longitude = -96.96264
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66858"
+

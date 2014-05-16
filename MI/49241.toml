@@ -1,6 +1,8 @@
-zip_code = "49241"
-state = "MI"
 city = "Hanover"
 county = "Jackson"
-longitude = -84.601588
 latitude = 42.111258
+longitude = -84.601588
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49241"
+

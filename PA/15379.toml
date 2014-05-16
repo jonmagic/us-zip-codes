@@ -1,6 +1,8 @@
-zip_code = "15379"
-state = "PA"
 city = "West Middletown"
 county = "Washington"
-longitude = -80.424154
 latitude = 40.241731
+longitude = -80.424154
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15379"
+

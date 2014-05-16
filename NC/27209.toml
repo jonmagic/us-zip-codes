@@ -1,6 +1,8 @@
-zip_code = "27209"
-state = "NC"
 city = "Biscoe"
 county = "Montgomery"
-longitude = -79.943839
 latitude = 35.365836
+longitude = -79.943839
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27209"
+

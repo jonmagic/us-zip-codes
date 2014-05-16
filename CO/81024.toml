@@ -1,6 +1,8 @@
-zip_code = "81024"
-state = "CO"
 city = "Boncarbo"
 county = "Las Animas"
-longitude = -104.719787
 latitude = 37.208109
+longitude = -104.719787
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81024"
+

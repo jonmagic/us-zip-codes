@@ -1,6 +1,8 @@
-zip_code = "93282"
-state = "CA"
 city = "Waukena"
 county = "Tulare"
-longitude = -119.516076
 latitude = 36.129557
+longitude = -119.516076
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93282"
+

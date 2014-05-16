@@ -1,6 +1,8 @@
-zip_code = "04455"
-state = "ME"
 city = "Lee"
 county = "Penobscot"
-longitude = -68.647416
 latitude = 45.519867
+longitude = -68.647416
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04455"
+

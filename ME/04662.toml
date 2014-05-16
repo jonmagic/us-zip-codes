@@ -1,6 +1,8 @@
-zip_code = "04662"
-state = "ME"
 city = "Northeast Harbor"
 county = "Hancock"
-longitude = -68.284865
 latitude = 44.294073
+longitude = -68.284865
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04662"
+

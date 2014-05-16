@@ -1,6 +1,8 @@
-zip_code = "60944"
-state = "IL"
 city = "Hopkins Park"
 county = "Kankakee"
-longitude = -87.888971
 latitude = 41.146464
+longitude = -87.888971
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60944"
+

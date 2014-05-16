@@ -1,6 +1,8 @@
-zip_code = "14741"
-state = "NY"
 city = "Great Valley"
 county = "Cattaraugus"
-longitude = -78.584117
 latitude = 42.21704
+longitude = -78.584117
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14741"
+

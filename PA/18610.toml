@@ -1,6 +1,8 @@
-zip_code = "18610"
-state = "PA"
 city = "Blakeslee"
 county = "Monroe"
-longitude = -75.499384
 latitude = 41.085529
+longitude = -75.499384
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18610"
+

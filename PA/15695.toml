@@ -1,6 +1,8 @@
-zip_code = "15695"
-state = "PA"
 city = "Wyano"
 county = "Westmoreland"
-longitude = -79.694244
 latitude = 40.196199
+longitude = -79.694244
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15695"
+

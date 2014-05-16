@@ -1,6 +1,8 @@
-zip_code = "19472"
-state = "PA"
 city = "Sassamansville"
 county = "Montgomery"
-longitude = -75.577458
 latitude = 40.344773
+longitude = -75.577458
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19472"
+

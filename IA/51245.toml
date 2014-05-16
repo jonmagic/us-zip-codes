@@ -1,6 +1,8 @@
-zip_code = "51245"
-state = "IA"
 city = "Primghar"
 county = "Obrien"
-longitude = -95.625042
 latitude = 43.083854
+longitude = -95.625042
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51245"
+

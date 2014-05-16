@@ -1,6 +1,8 @@
-zip_code = "98050"
-state = "WA"
 city = "Preston"
 county = "King"
-longitude = -121.931195
 latitude = 47.536015
+longitude = -121.931195
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98050"
+

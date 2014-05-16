@@ -1,6 +1,8 @@
-zip_code = "44062"
-state = "OH"
 city = "Middlefield"
 county = "Geauga"
-longitude = -81.068303
 latitude = 41.453242
+longitude = -81.068303
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44062"
+

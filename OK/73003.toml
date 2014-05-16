@@ -1,6 +1,8 @@
-zip_code = "73003"
-state = "OK"
 city = "Edmond"
 county = "Oklahoma"
-longitude = -97.499681
 latitude = 35.674777
+longitude = -97.499681
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73003"
+

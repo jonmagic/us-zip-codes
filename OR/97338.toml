@@ -1,6 +1,8 @@
-zip_code = "97338"
-state = "OR"
 city = "Dallas"
 county = "Polk"
-longitude = -123.337291
 latitude = 44.928092
+longitude = -123.337291
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97338"
+

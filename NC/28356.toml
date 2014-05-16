@@ -1,6 +1,8 @@
-zip_code = "28356"
-state = "NC"
 city = "Linden"
 county = "Cumberland"
-longitude = -78.783749
 latitude = 35.218025
+longitude = -78.783749
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28356"
+

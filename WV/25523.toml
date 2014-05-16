@@ -1,6 +1,8 @@
-zip_code = "25523"
-state = "WV"
 city = "Hamlin"
 county = "Lincoln"
-longitude = -82.083145
 latitude = 38.280522
+longitude = -82.083145
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25523"
+

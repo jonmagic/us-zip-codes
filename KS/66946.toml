@@ -1,6 +1,8 @@
-zip_code = "66946"
-state = "KS"
 city = "Hollenberg"
 county = "Washington"
-longitude = -96.966275
 latitude = 39.841523
+longitude = -96.966275
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66946"
+

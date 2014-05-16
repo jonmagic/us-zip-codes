@@ -1,6 +1,8 @@
-zip_code = "49625"
-state = "MI"
 city = "Copemish"
 county = "Manistee"
-longitude = -86.028192
 latitude = 44.42757
+longitude = -86.028192
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49625"
+

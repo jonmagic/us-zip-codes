@@ -1,6 +1,8 @@
-zip_code = "76883"
-state = "TX"
 city = "Telegraph"
 county = "Edwards"
-longitude = -100.227509
 latitude = 29.956952
+longitude = -100.227509
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76883"
+

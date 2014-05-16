@@ -1,6 +1,8 @@
-zip_code = "55318"
-state = "MN"
 city = "Chaska"
 county = "Carver"
-longitude = -93.653336
 latitude = 44.810062
+longitude = -93.653336
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55318"
+

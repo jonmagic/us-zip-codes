@@ -1,6 +1,8 @@
-zip_code = "43447"
-state = "OH"
 city = "Millbury"
 county = "Wood"
-longitude = -83.512454
 latitude = 41.426265
+longitude = -83.512454
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43447"
+

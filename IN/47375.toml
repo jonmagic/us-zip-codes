@@ -1,6 +1,8 @@
-zip_code = "47375"
-state = "IN"
 city = "Richmond"
 county = "Wayne"
-longitude = -85.015983
 latitude = 39.860417
+longitude = -85.015983
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47375"
+

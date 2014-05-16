@@ -1,6 +1,8 @@
-zip_code = "21921"
-state = "MD"
 city = "Elkton"
 county = "Cecil"
-longitude = -75.87574
 latitude = 39.56186
+longitude = -75.87574
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21921"
+

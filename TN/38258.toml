@@ -1,6 +1,8 @@
-zip_code = "38258"
-state = "TN"
 city = "Trezevant"
 county = "Carroll"
-longitude = -88.606605
 latitude = 36.040631
+longitude = -88.606605
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38258"
+

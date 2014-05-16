@@ -1,6 +1,8 @@
-zip_code = "64649"
-state = "MO"
 city = "Kidder"
 county = "Caldwell"
-longitude = -94.08478
 latitude = 39.734774
+longitude = -94.08478
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64649"
+

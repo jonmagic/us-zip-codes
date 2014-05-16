@@ -1,6 +1,8 @@
-zip_code = "07405"
-state = "NJ"
 city = "Butler"
 county = "Morris"
-longitude = -74.426148
 latitude = 40.998797
+longitude = -74.426148
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07405"
+

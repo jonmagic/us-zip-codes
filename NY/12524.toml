@@ -1,6 +1,8 @@
-zip_code = "12524"
-state = "NY"
 city = "Fishkill"
 county = "Dutchess"
-longitude = -73.847308
 latitude = 41.61898
+longitude = -73.847308
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12524"
+

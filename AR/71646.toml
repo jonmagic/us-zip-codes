@@ -1,6 +1,8 @@
-zip_code = "71646"
-state = "AR"
 city = "Hamburg"
 county = "Ashley"
-longitude = -91.804371
 latitude = 33.215895
+longitude = -91.804371
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71646"
+

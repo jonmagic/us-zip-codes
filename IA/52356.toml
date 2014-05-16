@@ -1,6 +1,8 @@
-zip_code = "52356"
-state = "IA"
 city = "Wellman"
 county = "Washington"
-longitude = -91.840264
 latitude = 41.448663
+longitude = -91.840264
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52356"
+

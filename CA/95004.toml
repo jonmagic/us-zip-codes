@@ -1,6 +1,8 @@
-zip_code = "95004"
-state = "CA"
 city = "Aromas"
 county = "Monterey"
-longitude = -121.647608
 latitude = 36.864154
+longitude = -121.647608
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95004"
+

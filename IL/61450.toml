@@ -1,6 +1,8 @@
-zip_code = "61450"
-state = "IL"
 city = "La Harpe"
 county = "Hancock"
-longitude = -90.997312
 latitude = 40.549636
+longitude = -90.997312
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61450"
+

@@ -1,6 +1,8 @@
-zip_code = "17073"
-state = "PA"
 city = "Newmanstown"
 county = "Lebanon"
-longitude = -76.26055
 latitude = 40.314112
+longitude = -76.26055
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17073"
+

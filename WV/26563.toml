@@ -1,6 +1,8 @@
-zip_code = "26563"
-state = "WV"
 city = "Carolina"
 county = "Marion"
-longitude = -80.271988
 latitude = 39.478198
+longitude = -80.271988
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26563"
+

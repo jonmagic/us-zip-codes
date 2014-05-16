@@ -1,6 +1,8 @@
-zip_code = "19067"
-state = "PA"
 city = "Morrisville"
 county = "Bucks"
-longitude = -74.82914
 latitude = 40.208408
+longitude = -74.82914
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19067"
+

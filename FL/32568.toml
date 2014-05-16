@@ -1,6 +1,8 @@
-zip_code = "32568"
-state = "FL"
 city = "Mc David"
 county = "Escambia"
-longitude = -87.453852
 latitude = 30.868646
+longitude = -87.453852
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32568"
+

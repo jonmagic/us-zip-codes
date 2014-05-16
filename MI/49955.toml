@@ -1,6 +1,8 @@
-zip_code = "49955"
-state = "MI"
 city = "Painesdale"
 county = "Houghton"
-longitude = -88.670361
 latitude = 47.04038
+longitude = -88.670361
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49955"
+

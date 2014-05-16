@@ -1,6 +1,8 @@
-zip_code = "13737"
-state = "NY"
 city = "Bible School Park"
 county = "Broome"
-longitude = -76.097288
 latitude = 42.080494
+longitude = -76.097288
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13737"
+

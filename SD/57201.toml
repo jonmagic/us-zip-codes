@@ -1,6 +1,8 @@
-zip_code = "57201"
-state = "SD"
 city = "Watertown"
 county = "Codington"
-longitude = -97.177954
 latitude = 44.955643
+longitude = -97.177954
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57201"
+

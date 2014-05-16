@@ -1,6 +1,8 @@
-zip_code = "00603"
-state = "PR"
 city = "Aguadilla"
 county = "Aguadilla"
-longitude = -67.14578
 latitude = 18.455913
+longitude = -67.14578
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00603"
+

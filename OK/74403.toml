@@ -1,6 +1,8 @@
-zip_code = "74403"
-state = "OK"
 city = "Muskogee"
 county = "Muskogee"
-longitude = -95.433598
 latitude = 35.654483
+longitude = -95.433598
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74403"
+

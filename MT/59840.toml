@@ -1,6 +1,8 @@
-zip_code = "59840"
-state = "MT"
 city = "Hamilton"
 county = "Ravalli"
-longitude = -114.165774
 latitude = 46.234189
+longitude = -114.165774
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59840"
+

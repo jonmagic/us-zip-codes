@@ -1,6 +1,8 @@
-zip_code = "84068"
-state = "UT"
 city = "Park City"
 county = "Summit"
-longitude = -111.505365
 latitude = 40.66797
+longitude = -111.505365
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84068"
+

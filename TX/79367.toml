@@ -1,6 +1,8 @@
-zip_code = "79367"
-state = "TX"
 city = "Smyer"
 county = "Hockley"
-longitude = -102.210086
 latitude = 33.566955
+longitude = -102.210086
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79367"
+

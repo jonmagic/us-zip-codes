@@ -1,6 +1,8 @@
-zip_code = "76377"
-state = "TX"
 city = "Petrolia"
 county = "Clay"
-longitude = -98.228187
 latitude = 34.032867
+longitude = -98.228187
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76377"
+

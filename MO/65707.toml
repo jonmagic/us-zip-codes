@@ -1,6 +1,8 @@
-zip_code = "65707"
-state = "MO"
 city = "Miller"
 county = "Lawrence"
-longitude = -93.847381
 latitude = 37.229699
+longitude = -93.847381
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65707"
+

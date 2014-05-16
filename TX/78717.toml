@@ -1,6 +1,8 @@
-zip_code = "78717"
-state = "TX"
 city = "Austin"
 county = "Williamson"
-longitude = -97.756517
 latitude = 30.493156
+longitude = -97.756517
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78717"
+

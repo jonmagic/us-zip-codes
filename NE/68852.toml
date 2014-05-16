@@ -1,6 +1,8 @@
-zip_code = "68852"
-state = "NE"
 city = "Litchfield"
 county = "Sherman"
-longitude = -99.153012
 latitude = 41.156948
+longitude = -99.153012
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68852"
+

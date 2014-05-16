@@ -1,6 +1,8 @@
-zip_code = "25653"
-state = "WV"
 city = "Wilkinson"
 county = "Logan"
-longitude = -82.053011
 latitude = 37.808204
+longitude = -82.053011
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25653"
+

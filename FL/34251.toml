@@ -1,6 +1,8 @@
-zip_code = "34251"
-state = "FL"
 city = "Myakka City"
 county = "Manatee"
-longitude = -82.225911
 latitude = 27.372771
+longitude = -82.225911
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34251"
+

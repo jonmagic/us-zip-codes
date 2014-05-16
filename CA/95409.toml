@@ -1,6 +1,8 @@
-zip_code = "95409"
-state = "CA"
 city = "Santa Rosa"
 county = "Sonoma"
-longitude = -122.626545
 latitude = 38.462575
+longitude = -122.626545
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95409"
+

@@ -1,6 +1,8 @@
-zip_code = "24471"
-state = "VA"
 city = "Port Republic"
 county = "Rockingham"
-longitude = -78.788649
 latitude = 38.322592
+longitude = -78.788649
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24471"
+

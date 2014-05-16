@@ -1,6 +1,8 @@
-zip_code = "38619"
-state = "MS"
 city = "Como"
 county = "Panola"
-longitude = -89.954427
 latitude = 34.474028
+longitude = -89.954427
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38619"
+

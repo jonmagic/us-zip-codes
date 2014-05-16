@@ -1,6 +1,8 @@
-zip_code = "31623"
-state = "GA"
 city = "Argyle"
 county = "Clinch"
-longitude = -82.68954
 latitude = 31.064114
+longitude = -82.68954
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31623"
+

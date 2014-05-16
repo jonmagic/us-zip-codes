@@ -1,6 +1,8 @@
-zip_code = "59648"
-state = "MT"
 city = "Wolf Creek"
 county = "Lewis And Clark"
-longitude = -112.147602
 latitude = 47.085616
+longitude = -112.147602
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59648"
+

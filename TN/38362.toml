@@ -1,6 +1,8 @@
-zip_code = "38362"
-state = "TN"
 city = "Oakfield"
 county = "Madison"
-longitude = -88.780118
 latitude = 35.724238
+longitude = -88.780118
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38362"
+

@@ -1,6 +1,8 @@
-zip_code = "58458"
-state = "ND"
 city = "Lamoure"
 county = "Lamoure"
-longitude = -98.358671
 latitude = 46.384379
+longitude = -98.358671
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58458"
+

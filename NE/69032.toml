@@ -1,6 +1,8 @@
-zip_code = "69032"
-state = "NE"
 city = "Hayes Center"
 county = "Hayes"
-longitude = -101.061328
 latitude = 40.524819
+longitude = -101.061328
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69032"
+

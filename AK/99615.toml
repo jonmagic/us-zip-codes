@@ -1,6 +1,8 @@
-zip_code = "99615"
-state = "AK"
 city = "Kodiak"
 county = "Kodiak Island"
-longitude = -152.472876
 latitude = 57.762816
+longitude = -152.472876
+state = ""
+state_code_alpha2 = ""
+zip_code = "99615"
+

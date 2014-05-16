@@ -1,6 +1,8 @@
-zip_code = "49052"
-state = "MI"
 city = "Fulton"
 county = "Kalamazoo"
-longitude = -85.342481
 latitude = 42.13344
+longitude = -85.342481
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49052"
+

@@ -1,6 +1,8 @@
-zip_code = "83835"
-state = "ID"
 city = "Hayden"
 county = "Kootenai"
-longitude = -116.742254
 latitude = 47.798886
+longitude = -116.742254
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83835"
+

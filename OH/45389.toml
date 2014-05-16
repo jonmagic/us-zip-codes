@@ -1,6 +1,8 @@
-zip_code = "45389"
-state = "OH"
 city = "Christiansburg"
 county = "Champaign"
-longitude = -84.025444
 latitude = 40.0564
+longitude = -84.025444
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45389"
+

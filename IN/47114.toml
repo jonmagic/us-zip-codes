@@ -1,6 +1,8 @@
-zip_code = "47114"
-state = "IN"
 city = "Crandall"
 county = "Harrison"
-longitude = -86.08239
 latitude = 38.289882
+longitude = -86.08239
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47114"
+

@@ -1,6 +1,8 @@
-zip_code = "10506"
-state = "NY"
 city = "Bedford"
 county = "Westchester"
-longitude = -73.718481
 latitude = 41.123741
+longitude = -73.718481
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10506"
+

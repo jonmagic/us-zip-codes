@@ -1,6 +1,8 @@
-zip_code = "16932"
-state = "PA"
 city = "Mainesburg"
 county = "Tioga"
-longitude = -77.035282
 latitude = 41.790065
+longitude = -77.035282
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16932"
+

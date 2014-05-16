@@ -1,6 +1,8 @@
-zip_code = "17837"
-state = "PA"
 city = "Lewisburg"
 county = "Union"
-longitude = -76.948072
 latitude = 40.969642
+longitude = -76.948072
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17837"
+

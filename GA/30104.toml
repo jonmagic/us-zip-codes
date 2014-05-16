@@ -1,6 +1,8 @@
-zip_code = "30104"
-state = "GA"
 city = "Aragon"
 county = "Polk"
-longitude = -85.079865
 latitude = 34.053167
+longitude = -85.079865
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30104"
+

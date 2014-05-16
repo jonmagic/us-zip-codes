@@ -1,6 +1,8 @@
-zip_code = "48434"
-state = "MI"
 city = "Forestville"
 county = "Sanilac"
-longitude = -82.613319
 latitude = 43.663206
+longitude = -82.613319
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48434"
+

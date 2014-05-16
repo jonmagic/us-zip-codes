@@ -1,6 +1,8 @@
-zip_code = "58081"
-state = "ND"
 city = "Wyndmere"
 county = "Richland"
-longitude = -97.11408
 latitude = 46.384021
+longitude = -97.11408
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58081"
+

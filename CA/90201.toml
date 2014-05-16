@@ -1,6 +1,8 @@
-zip_code = "90201"
-state = "CA"
 city = "Bell"
 county = "Los Angeles"
-longitude = -118.168903
 latitude = 33.976663
+longitude = -118.168903
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90201"
+

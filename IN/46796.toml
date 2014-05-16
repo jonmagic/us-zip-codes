@@ -1,6 +1,8 @@
-zip_code = "46796"
-state = "IN"
 city = "Wolflake"
 county = "Noble"
-longitude = -85.500246
 latitude = 41.336115
+longitude = -85.500246
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46796"
+

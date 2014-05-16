@@ -1,6 +1,8 @@
-zip_code = "29032"
-state = "SC"
 city = "Cassatt"
 county = "Kershaw"
-longitude = -80.54149
 latitude = 34.35723
+longitude = -80.54149
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29032"
+

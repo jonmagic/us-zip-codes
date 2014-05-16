@@ -1,6 +1,8 @@
-zip_code = "49013"
-state = "MI"
 city = "Bangor"
 county = "Van Buren"
-longitude = -86.096133
 latitude = 42.312771
+longitude = -86.096133
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49013"
+

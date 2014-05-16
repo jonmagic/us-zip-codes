@@ -1,6 +1,8 @@
-zip_code = "89040"
-state = "NV"
 city = "Overton"
 county = "Clark"
-longitude = -114.473191
 latitude = 36.570259
+longitude = -114.473191
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89040"
+

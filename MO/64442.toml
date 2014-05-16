@@ -1,6 +1,8 @@
-zip_code = "64442"
-state = "MO"
 city = "Eagleville"
 county = "Harrison"
-longitude = -94.013848
 latitude = 40.50037
+longitude = -94.013848
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64442"
+

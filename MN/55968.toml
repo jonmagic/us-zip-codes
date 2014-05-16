@@ -1,6 +1,8 @@
-zip_code = "55968"
-state = "MN"
 city = "Reads Landing"
 county = "Wabasha"
-longitude = -92.282467
 latitude = 44.340826
+longitude = -92.282467
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55968"
+

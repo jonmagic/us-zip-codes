@@ -1,6 +1,8 @@
-zip_code = "75951"
-state = "TX"
 city = "Jasper"
 county = "Jasper"
-longitude = -93.997666
 latitude = 30.867257
+longitude = -93.997666
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75951"
+

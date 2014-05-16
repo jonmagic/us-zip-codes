@@ -1,6 +1,8 @@
-zip_code = "53020"
-state = "WI"
 city = "Elkhart Lake"
 county = "Sheboygan"
-longitude = -87.9915
 latitude = 43.827363
+longitude = -87.9915
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53020"
+

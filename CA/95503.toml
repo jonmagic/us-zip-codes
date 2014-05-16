@@ -1,6 +1,8 @@
-zip_code = "95503"
-state = "CA"
 city = "Eureka"
 county = "Humboldt"
-longitude = -123.938685
 latitude = 40.787799
+longitude = -123.938685
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95503"
+

@@ -1,6 +1,8 @@
-zip_code = "61058"
-state = "IL"
 city = "Nelson"
 county = "Lee"
-longitude = -89.599529
 latitude = 41.797256
+longitude = -89.599529
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61058"
+

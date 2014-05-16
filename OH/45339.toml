@@ -1,6 +1,8 @@
-zip_code = "45339"
-state = "OH"
 city = "Ludlow Falls"
 county = "Miami"
-longitude = -84.351781
 latitude = 40.005764
+longitude = -84.351781
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45339"
+

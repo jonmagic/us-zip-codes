@@ -1,6 +1,8 @@
-zip_code = "93243"
-state = "CA"
 city = "Lebec"
 county = "Kern"
-longitude = -118.856562
 latitude = 34.881773
+longitude = -118.856562
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93243"
+

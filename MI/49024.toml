@@ -1,6 +1,8 @@
-zip_code = "49024"
-state = "MI"
 city = "Portage"
 county = "Kalamazoo"
-longitude = -85.619352
 latitude = 42.197442
+longitude = -85.619352
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49024"
+

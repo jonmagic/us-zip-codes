@@ -1,6 +1,8 @@
-zip_code = "46760"
-state = "IN"
 city = "Kimmell"
 county = "Noble"
-longitude = -85.543448
 latitude = 41.369423
+longitude = -85.543448
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46760"
+

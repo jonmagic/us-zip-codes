@@ -1,6 +1,8 @@
-zip_code = "58035"
-state = "ND"
 city = "Galesburg"
 county = "Traill"
-longitude = -97.408156
 latitude = 47.270447
+longitude = -97.408156
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58035"
+

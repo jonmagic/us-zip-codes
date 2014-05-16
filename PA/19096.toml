@@ -1,6 +1,8 @@
-zip_code = "19096"
-state = "PA"
 city = "Wynnewood"
 county = "Montgomery"
-longitude = -75.164822
 latitude = 40.051411
+longitude = -75.164822
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19096"
+

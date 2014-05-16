@@ -1,6 +1,8 @@
-zip_code = "85273"
-state = "AZ"
 city = "Superior"
 county = "Pinal"
-longitude = -111.130022
 latitude = 33.180583
+longitude = -111.130022
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85273"
+

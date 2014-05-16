@@ -1,6 +1,8 @@
-zip_code = "07875"
-state = "NJ"
 city = "Stillwater"
 county = "Sussex"
-longitude = -74.871981
 latitude = 41.043858
+longitude = -74.871981
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07875"
+

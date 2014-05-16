@@ -1,6 +1,8 @@
-zip_code = "27846"
-state = "NC"
 city = "Jamesville"
 county = "Martin"
-longitude = -76.997456
 latitude = 35.805568
+longitude = -76.997456
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27846"
+

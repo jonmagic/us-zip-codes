@@ -1,6 +1,8 @@
-zip_code = "72132"
-state = "AR"
 city = "Redfield"
 county = "Jefferson"
-longitude = -92.150356
 latitude = 34.436424
+longitude = -92.150356
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72132"
+

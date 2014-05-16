@@ -1,6 +1,8 @@
-zip_code = "56584"
-state = "MN"
 city = "Twin Valley"
 county = "Norman"
-longitude = -96.182441
 latitude = 47.271463
+longitude = -96.182441
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56584"
+

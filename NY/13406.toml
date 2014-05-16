@@ -1,6 +1,8 @@
-zip_code = "13406"
-state = "NY"
 city = "Middleville"
 county = "Herkimer"
-longitude = -74.934473
 latitude = 43.135209
+longitude = -74.934473
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13406"
+

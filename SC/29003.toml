@@ -1,6 +1,8 @@
-zip_code = "29003"
-state = "SC"
 city = "Bamberg"
 county = "Bamberg"
-longitude = -80.973559
 latitude = 33.206294
+longitude = -80.973559
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29003"
+

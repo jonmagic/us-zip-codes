@@ -1,6 +1,8 @@
-zip_code = "91784"
-state = "CA"
 city = "Upland"
 county = "San Bernardino"
-longitude = -116.246997
 latitude = 34.128118
+longitude = -116.246997
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91784"
+

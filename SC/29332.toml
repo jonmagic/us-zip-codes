@@ -1,6 +1,8 @@
-zip_code = "29332"
-state = "SC"
 city = "Cross Hill"
 county = "Laurens"
-longitude = -81.977214
 latitude = 34.281449
+longitude = -81.977214
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29332"
+

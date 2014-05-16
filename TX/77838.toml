@@ -1,6 +1,8 @@
-zip_code = "77838"
-state = "TX"
 city = "Chriesman"
 county = "Burleson"
-longitude = -96.618047
 latitude = 30.513118
+longitude = -96.618047
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77838"
+

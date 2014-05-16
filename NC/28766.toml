@@ -1,6 +1,8 @@
-zip_code = "28766"
-state = "NC"
 city = "Penrose"
 county = "Transylvania"
-longitude = -82.644584
 latitude = 35.260991
+longitude = -82.644584
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28766"
+

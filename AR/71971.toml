@@ -1,6 +1,8 @@
-zip_code = "71971"
-state = "AR"
 city = "Umpire"
 county = "Howard"
-longitude = -94.095969
 latitude = 34.294469
+longitude = -94.095969
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71971"
+

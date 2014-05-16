@@ -1,6 +1,8 @@
-zip_code = "52572"
-state = "IA"
 city = "Moulton"
 county = "Appanoose"
-longitude = -92.806081
 latitude = 40.740795
+longitude = -92.806081
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52572"
+

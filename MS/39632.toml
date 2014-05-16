@@ -1,6 +1,8 @@
-zip_code = "39632"
-state = "MS"
 city = "Chatawa"
 county = "Pike"
-longitude = -90.487486
 latitude = 31.114483
+longitude = -90.487486
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39632"
+

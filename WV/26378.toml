@@ -1,6 +1,8 @@
-zip_code = "26378"
-state = "WV"
 city = "Jane Lew"
 county = "Lewis"
-longitude = -80.441713
 latitude = 39.109143
+longitude = -80.441713
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26378"
+

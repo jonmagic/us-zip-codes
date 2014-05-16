@@ -1,6 +1,8 @@
-zip_code = "07080"
-state = "NJ"
 city = "South Plainfield"
 county = "Middlesex"
-longitude = -74.413545
 latitude = 40.572065
+longitude = -74.413545
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07080"
+

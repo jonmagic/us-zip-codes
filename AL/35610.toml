@@ -1,6 +1,8 @@
-zip_code = "35610"
-state = "AL"
 city = "Anderson"
 county = "Lauderdale"
-longitude = -87.273375
 latitude = 34.942388
+longitude = -87.273375
+state = ""
+state_code_alpha2 = ""
+zip_code = "35610"
+

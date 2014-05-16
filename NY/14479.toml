@@ -1,6 +1,8 @@
-zip_code = "14479"
-state = "NY"
 city = "Knowlesville"
 county = "Orleans"
-longitude = -78.318828
 latitude = 43.241502
+longitude = -78.318828
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14479"
+

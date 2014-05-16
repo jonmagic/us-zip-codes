@@ -1,6 +1,8 @@
-zip_code = "21523"
-state = "MD"
 city = "Bloomington"
 county = "Garrett"
-longitude = -79.08297
 latitude = 39.486109
+longitude = -79.08297
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21523"
+

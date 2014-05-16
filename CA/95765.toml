@@ -1,6 +1,8 @@
-zip_code = "95765"
-state = "CA"
 city = "Rocklin"
 county = "Placer"
-longitude = -121.277439
 latitude = 38.819795
+longitude = -121.277439
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95765"
+

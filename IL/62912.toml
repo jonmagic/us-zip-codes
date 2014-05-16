@@ -1,6 +1,8 @@
-zip_code = "62912"
-state = "IL"
 city = "Buncombe"
 county = "Johnson"
-longitude = -89.000586
 latitude = 37.467463
+longitude = -89.000586
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62912"
+

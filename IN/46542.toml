@@ -1,6 +1,8 @@
-zip_code = "46542"
-state = "IN"
 city = "Milford"
 county = "Kosciusko"
-longitude = -85.871138
 latitude = 41.28296
+longitude = -85.871138
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46542"
+

@@ -1,6 +1,8 @@
-zip_code = "19085"
-state = "PA"
 city = "Villanova"
 county = "Delaware"
-longitude = -75.369458
 latitude = 40.027909
+longitude = -75.369458
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19085"
+

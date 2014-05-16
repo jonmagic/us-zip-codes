@@ -1,6 +1,8 @@
-zip_code = "71754"
-state = "AR"
 city = "Magnolia"
 county = "Columbia"
-longitude = -93.22996
 latitude = 33.242571
+longitude = -93.22996
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71754"
+

@@ -1,6 +1,8 @@
-zip_code = "39362"
-state = "MS"
 city = "State Line"
 county = "Greene"
-longitude = -88.606456
 latitude = 31.360647
+longitude = -88.606456
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39362"
+

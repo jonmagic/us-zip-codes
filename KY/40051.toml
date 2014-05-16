@@ -1,6 +1,8 @@
-zip_code = "40051"
-state = "KY"
 city = "New Haven"
 county = "Nelson"
-longitude = -85.547037
 latitude = 37.643761
+longitude = -85.547037
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40051"
+

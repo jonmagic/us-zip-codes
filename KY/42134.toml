@@ -1,6 +1,8 @@
-zip_code = "42134"
-state = "KY"
 city = "Franklin"
 county = "Simpson"
-longitude = -86.583305
 latitude = 36.740598
+longitude = -86.583305
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42134"
+

@@ -1,6 +1,8 @@
-zip_code = "28070"
-state = "NC"
 city = "Huntersville"
 county = "Mecklenburg"
-longitude = -80.898668
 latitude = 35.462187
+longitude = -80.898668
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28070"
+

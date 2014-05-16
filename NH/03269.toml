@@ -1,6 +1,8 @@
-zip_code = "03269"
-state = "NH"
 city = "Sanbornton"
 county = "Belknap"
-longitude = -71.514248
 latitude = 43.50178
+longitude = -71.514248
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03269"
+

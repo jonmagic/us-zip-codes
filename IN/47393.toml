@@ -1,6 +1,8 @@
-zip_code = "47393"
-state = "IN"
 city = "Williamsburg"
 county = "Wayne"
-longitude = -85.028032
 latitude = 39.930541
+longitude = -85.028032
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47393"
+

@@ -1,6 +1,8 @@
-zip_code = "80720"
-state = "CO"
 city = "Akron"
 county = "Washington"
-longitude = -103.202379
 latitude = 40.073328
+longitude = -103.202379
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80720"
+

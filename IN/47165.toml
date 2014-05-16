@@ -1,6 +1,8 @@
-zip_code = "47165"
-state = "IN"
 city = "Pekin"
 county = "Washington"
-longitude = -86.010567
 latitude = 38.512878
+longitude = -86.010567
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47165"
+

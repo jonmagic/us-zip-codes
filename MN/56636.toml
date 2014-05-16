@@ -1,6 +1,8 @@
-zip_code = "56636"
-state = "MN"
 city = "Deer River"
 county = "Itasca"
-longitude = -93.810949
 latitude = 47.46843
+longitude = -93.810949
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56636"
+

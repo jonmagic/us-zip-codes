@@ -1,6 +1,8 @@
-zip_code = "41477"
-state = "KY"
 city = "Wrigley"
 county = "Morgan"
-longitude = -83.233761
 latitude = 37.914002
+longitude = -83.233761
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41477"
+

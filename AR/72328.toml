@@ -1,6 +1,8 @@
-zip_code = "72328"
-state = "AR"
 city = "Crumrod"
 county = "Phillips"
-longitude = -90.82932
 latitude = 34.382204
+longitude = -90.82932
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72328"
+

@@ -1,6 +1,8 @@
-zip_code = "77868"
-state = "TX"
 city = "Navasota"
 county = "Grimes"
-longitude = -96.008619
 latitude = 30.383369
+longitude = -96.008619
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77868"
+

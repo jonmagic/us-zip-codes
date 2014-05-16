@@ -1,6 +1,8 @@
-zip_code = "64446"
-state = "MO"
 city = "Fairfax"
 county = "Atchison"
-longitude = -95.390747
 latitude = 40.347147
+longitude = -95.390747
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64446"
+

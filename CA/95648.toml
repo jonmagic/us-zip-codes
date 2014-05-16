@@ -1,6 +1,8 @@
-zip_code = "95648"
-state = "CA"
 city = "Lincoln"
 county = "Placer"
-longitude = -121.327143
 latitude = 38.929305
+longitude = -121.327143
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95648"
+

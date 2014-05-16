@@ -1,6 +1,8 @@
-zip_code = "33975"
-state = "FL"
 city = "Labelle"
 county = "Hendry"
-longitude = -81.438833
 latitude = 26.763312
+longitude = -81.438833
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33975"
+

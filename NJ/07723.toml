@@ -1,6 +1,8 @@
-zip_code = "07723"
-state = "NJ"
 city = "Deal"
 county = "Monmouth"
-longitude = -74.004581
 latitude = 40.250861
+longitude = -74.004581
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07723"
+

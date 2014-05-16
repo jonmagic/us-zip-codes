@@ -1,6 +1,8 @@
-zip_code = "29576"
-state = "SC"
 city = "Murrells Inlet"
 county = "Georgetown"
-longitude = -79.04822
 latitude = 33.529642
+longitude = -79.04822
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29576"
+

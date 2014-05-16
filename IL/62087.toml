@@ -1,6 +1,8 @@
-zip_code = "62087"
-state = "IL"
 city = "South Roxana"
 county = "Madison"
-longitude = -90.058255
 latitude = 38.822547
+longitude = -90.058255
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62087"
+

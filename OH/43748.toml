@@ -1,6 +1,8 @@
-zip_code = "43748"
-state = "OH"
 city = "Junction City"
 county = "Perry"
-longitude = -82.302787
 latitude = 39.684697
+longitude = -82.302787
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43748"
+

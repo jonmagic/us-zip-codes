@@ -1,6 +1,8 @@
-zip_code = "12404"
-state = "NY"
 city = "Accord"
 county = "Ulster"
-longitude = -74.130688
 latitude = 41.949147
+longitude = -74.130688
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12404"
+

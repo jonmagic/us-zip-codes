@@ -1,6 +1,8 @@
-zip_code = "53937"
-state = "WI"
 city = "Hillpoint"
 county = "Sauk"
-longitude = -90.128539
 latitude = 43.390863
+longitude = -90.128539
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53937"
+

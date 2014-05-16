@@ -1,6 +1,8 @@
-zip_code = "81423"
-state = "CO"
 city = "Norwood"
 county = "San Miguel"
-longitude = -108.316049
 latitude = 38.028899
+longitude = -108.316049
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81423"
+

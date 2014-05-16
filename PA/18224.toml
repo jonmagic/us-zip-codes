@@ -1,6 +1,8 @@
-zip_code = "18224"
-state = "PA"
 city = "Freeland"
 county = "Luzerne"
-longitude = -75.881697
 latitude = 41.019593
+longitude = -75.881697
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18224"
+

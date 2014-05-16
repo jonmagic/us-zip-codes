@@ -1,6 +1,8 @@
-zip_code = "84032"
-state = "UT"
 city = "Heber City"
 county = "Wasatch"
-longitude = -111.348882
 latitude = 40.517678
+longitude = -111.348882
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84032"
+

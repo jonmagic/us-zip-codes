@@ -1,6 +1,8 @@
-zip_code = "62627"
-state = "IL"
 city = "Chandlerville"
 county = "Cass"
-longitude = -90.116282
 latitude = 40.037402
+longitude = -90.116282
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62627"
+

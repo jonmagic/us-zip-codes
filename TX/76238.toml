@@ -1,6 +1,8 @@
-zip_code = "76238"
-state = "TX"
 city = "Era"
 county = "Cooke"
-longitude = -97.313913
 latitude = 33.490924
+longitude = -97.313913
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76238"
+

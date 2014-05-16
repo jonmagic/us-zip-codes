@@ -1,6 +1,8 @@
-zip_code = "64733"
-state = "MO"
 city = "Chilhowee"
 county = "Johnson"
-longitude = -93.8462
 latitude = 38.621259
+longitude = -93.8462
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64733"
+

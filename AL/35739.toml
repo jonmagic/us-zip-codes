@@ -1,6 +1,8 @@
-zip_code = "35739"
-state = "AL"
 city = "Ardmore"
 county = "Limestone"
-longitude = -86.844257
 latitude = 34.961697
+longitude = -86.844257
+state = ""
+state_code_alpha2 = ""
+zip_code = "35739"
+

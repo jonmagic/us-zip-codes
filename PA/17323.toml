@@ -1,6 +1,8 @@
-zip_code = "17323"
-state = "PA"
 city = "Franklintown"
 county = "York"
-longitude = -77.027926
 latitude = 40.07501
+longitude = -77.027926
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17323"
+

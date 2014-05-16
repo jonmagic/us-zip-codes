@@ -1,6 +1,8 @@
-zip_code = "52660"
-state = "IA"
 city = "Yarmouth"
 county = "Des Moines"
-longitude = -91.302644
 latitude = 40.983507
+longitude = -91.302644
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52660"
+

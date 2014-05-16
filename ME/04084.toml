@@ -1,6 +1,8 @@
-zip_code = "04084"
-state = "ME"
 city = "Standish"
 county = "Cumberland"
-longitude = -70.554905
 latitude = 43.804454
+longitude = -70.554905
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04084"
+

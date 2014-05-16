@@ -1,6 +1,8 @@
-zip_code = "79382"
-state = "TX"
 city = "Wolfforth"
 county = "Lubbock"
-longitude = -102.026405
 latitude = 33.563121
+longitude = -102.026405
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79382"
+

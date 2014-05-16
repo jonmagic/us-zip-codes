@@ -1,6 +1,8 @@
-zip_code = "13137"
-state = "NY"
 city = "Plainville"
 county = "Onondaga"
-longitude = -76.44698
 latitude = 43.157653
+longitude = -76.44698
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13137"
+

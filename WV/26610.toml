@@ -1,6 +1,8 @@
-zip_code = "26610"
-state = "WV"
 city = "Birch River"
 county = "Nicholas"
-longitude = -80.834152
 latitude = 38.318389
+longitude = -80.834152
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26610"
+

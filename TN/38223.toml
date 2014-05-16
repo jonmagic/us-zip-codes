@@ -1,6 +1,8 @@
-zip_code = "38223"
-state = "TN"
 city = "Como"
 county = "Henry"
-longitude = -88.260367
 latitude = 36.310995
+longitude = -88.260367
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38223"
+

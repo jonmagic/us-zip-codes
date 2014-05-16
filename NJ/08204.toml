@@ -1,6 +1,8 @@
-zip_code = "08204"
-state = "NJ"
 city = "Cape May"
 county = "Cape May"
-longitude = -74.767939
 latitude = 39.110337
+longitude = -74.767939
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08204"
+

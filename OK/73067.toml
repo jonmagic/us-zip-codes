@@ -1,6 +1,8 @@
-zip_code = "73067"
-state = "OK"
 city = "Ninnekah"
 county = "Grady"
-longitude = -97.939225
 latitude = 34.932908
+longitude = -97.939225
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73067"
+

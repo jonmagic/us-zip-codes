@@ -1,6 +1,8 @@
-zip_code = "50061"
-state = "IA"
 city = "Cumming"
 county = "Warren"
-longitude = -93.745358
 latitude = 41.468663
+longitude = -93.745358
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50061"
+

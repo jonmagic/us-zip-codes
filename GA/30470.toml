@@ -1,6 +1,8 @@
-zip_code = "30470"
-state = "GA"
 city = "Tarrytown"
 county = "Montgomery"
-longitude = -82.522115
 latitude = 32.188768
+longitude = -82.522115
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30470"
+

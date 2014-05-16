@@ -1,6 +1,8 @@
-zip_code = "69147"
-state = "NE"
 city = "Lewellen"
 county = "Garden"
-longitude = -102.153084
 latitude = 41.315509
+longitude = -102.153084
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69147"
+

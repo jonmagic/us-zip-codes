@@ -1,6 +1,8 @@
-zip_code = "60444"
-state = "IL"
 city = "Mazon"
 county = "Grundy"
-longitude = -88.421748
 latitude = 41.226425
+longitude = -88.421748
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60444"
+

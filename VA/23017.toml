@@ -1,6 +1,8 @@
-zip_code = "23017"
-state = "VA"
 city = "Bellamy"
 county = "Gloucester"
-longitude = -76.508402
 latitude = 37.418242
+longitude = -76.508402
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23017"
+

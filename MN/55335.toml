@@ -1,6 +1,8 @@
-zip_code = "55335"
-state = "MN"
 city = "Gibbon"
 county = "Sibley"
-longitude = -94.543258
 latitude = 44.55017
+longitude = -94.543258
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55335"
+

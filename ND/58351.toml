@@ -1,6 +1,8 @@
-zip_code = "58351"
-state = "ND"
 city = "Minnewaukan"
 county = "Benson"
-longitude = -99.38981
 latitude = 48.130016
+longitude = -99.38981
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58351"
+

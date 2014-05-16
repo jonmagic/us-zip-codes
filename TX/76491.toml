@@ -1,6 +1,8 @@
-zip_code = "76491"
-state = "TX"
 city = "Woodson"
 county = "Throckmorton"
-longitude = -99.054584
 latitude = 33.074064
+longitude = -99.054584
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76491"
+

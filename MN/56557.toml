@@ -1,6 +1,8 @@
-zip_code = "56557"
-state = "MN"
 city = "Mahnomen"
 county = "Mahnomen"
-longitude = -95.939586
 latitude = 47.287889
+longitude = -95.939586
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56557"
+

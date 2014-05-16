@@ -1,6 +1,8 @@
-zip_code = "38589"
-state = "TN"
 city = "Wilder"
 county = "Fentress"
-longitude = -85.091312
 latitude = 36.282181
+longitude = -85.091312
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38589"
+

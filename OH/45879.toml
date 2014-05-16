@@ -1,6 +1,8 @@
-zip_code = "45879"
-state = "OH"
 city = "Paulding"
 county = "Paulding"
-longitude = -84.532406
 latitude = 41.121205
+longitude = -84.532406
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45879"
+

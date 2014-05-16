@@ -1,6 +1,8 @@
-zip_code = "12423"
-state = "NY"
 city = "East Durham"
 county = "Greene"
-longitude = -74.123477
 latitude = 42.377483
+longitude = -74.123477
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12423"
+

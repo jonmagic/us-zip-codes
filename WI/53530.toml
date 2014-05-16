@@ -1,6 +1,8 @@
-zip_code = "53530"
-state = "WI"
 city = "Darlington"
 county = "Lafayette"
-longitude = -90.134781
 latitude = 42.69112
+longitude = -90.134781
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53530"
+

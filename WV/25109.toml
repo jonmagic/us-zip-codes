@@ -1,6 +1,8 @@
-zip_code = "25109"
-state = "WV"
 city = "Hometown"
 county = "Putnam"
-longitude = -81.880455
 latitude = 38.475369
+longitude = -81.880455
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25109"
+

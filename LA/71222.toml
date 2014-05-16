@@ -1,6 +1,8 @@
-zip_code = "71222"
-state = "LA"
 city = "Bernice"
 county = "Union"
-longitude = -92.471522
 latitude = 32.837199
+longitude = -92.471522
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71222"
+

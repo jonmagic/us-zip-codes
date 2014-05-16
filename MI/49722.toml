@@ -1,6 +1,8 @@
-zip_code = "49722"
-state = "MI"
 city = "Conway"
 county = "Emmet"
-longitude = -84.852401
 latitude = 45.423616
+longitude = -84.852401
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49722"
+

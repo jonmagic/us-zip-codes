@@ -1,6 +1,8 @@
-zip_code = "95038"
-state = "CA"
 city = "Morgan Hill"
 county = "Santa Clara"
-longitude = -121.617894
 latitude = 37.225787
+longitude = -121.617894
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95038"
+

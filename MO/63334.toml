@@ -1,6 +1,8 @@
-zip_code = "63334"
-state = "MO"
 city = "Bowling Green"
 county = "Pike"
-longitude = -91.174859
 latitude = 39.316369
+longitude = -91.174859
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63334"
+

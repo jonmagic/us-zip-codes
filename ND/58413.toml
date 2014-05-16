@@ -1,6 +1,8 @@
-zip_code = "58413"
-state = "ND"
 city = "Ashley"
 county = "Mcintosh"
-longitude = -99.285013
 latitude = 46.056209
+longitude = -99.285013
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58413"
+

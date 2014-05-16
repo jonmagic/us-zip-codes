@@ -1,6 +1,8 @@
-zip_code = "78853"
-state = "TX"
 city = "Eagle Pass"
 county = "Maverick"
-longitude = -100.478373
 latitude = 28.679006
+longitude = -100.478373
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78853"
+

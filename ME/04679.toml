@@ -1,6 +1,8 @@
-zip_code = "04679"
-state = "ME"
 city = "Southwest Harbor"
 county = "Hancock"
-longitude = -68.261568
 latitude = 44.390897
+longitude = -68.261568
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04679"
+

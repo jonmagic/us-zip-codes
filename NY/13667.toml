@@ -1,6 +1,8 @@
-zip_code = "13667"
-state = "NY"
 city = "Norfolk"
 county = "Saint Lawrence"
-longitude = -74.942946
 latitude = 44.855075
+longitude = -74.942946
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13667"
+

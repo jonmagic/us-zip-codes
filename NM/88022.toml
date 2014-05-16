@@ -1,6 +1,8 @@
-zip_code = "88022"
-state = "NM"
 city = "Arenas Valley"
 county = "Grant"
-longitude = -108.185406
 latitude = 32.783939
+longitude = -108.185406
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88022"
+

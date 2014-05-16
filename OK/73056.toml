@@ -1,6 +1,8 @@
-zip_code = "73056"
-state = "OK"
 city = "Marshall"
 county = "Logan"
-longitude = -97.626084
 latitude = 36.154158
+longitude = -97.626084
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73056"
+

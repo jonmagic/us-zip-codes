@@ -1,6 +1,8 @@
-zip_code = "41775"
-state = "KY"
 city = "Wendover"
 county = "Leslie"
-longitude = -83.356305
 latitude = 37.107867
+longitude = -83.356305
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41775"
+

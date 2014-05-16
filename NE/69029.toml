@@ -1,6 +1,8 @@
-zip_code = "69029"
-state = "NE"
 city = "Farnam"
 county = "Dawson"
-longitude = -100.173314
 latitude = 40.740544
+longitude = -100.173314
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69029"
+

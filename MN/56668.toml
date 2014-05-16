@@ -1,6 +1,8 @@
-zip_code = "56668"
-state = "MN"
 city = "Ranier"
 county = "Koochiching"
-longitude = -93.29771
 latitude = 48.603143
+longitude = -93.29771
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56668"
+

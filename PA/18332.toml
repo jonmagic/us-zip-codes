@@ -1,6 +1,8 @@
-zip_code = "18332"
-state = "PA"
 city = "Henryville"
 county = "Monroe"
-longitude = -75.323738
 latitude = 41.025342
+longitude = -75.323738
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18332"
+

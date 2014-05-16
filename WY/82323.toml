@@ -1,6 +1,8 @@
-zip_code = "82323"
-state = "WY"
 city = "Dixon"
 county = "Carbon"
-longitude = -107.642891
 latitude = 41.031513
+longitude = -107.642891
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82323"
+

@@ -1,6 +1,8 @@
-zip_code = "16354"
-state = "PA"
 city = "Titusville"
 county = "Crawford"
-longitude = -79.720068
 latitude = 41.661775
+longitude = -79.720068
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16354"
+

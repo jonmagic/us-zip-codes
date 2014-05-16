@@ -1,6 +1,8 @@
-zip_code = "68628"
-state = "NE"
 city = "Clarks"
 county = "Merrick"
-longitude = -97.80937
 latitude = 41.202853
+longitude = -97.80937
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68628"
+

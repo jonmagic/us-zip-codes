@@ -1,6 +1,8 @@
-zip_code = "32060"
-state = "FL"
 city = "Live Oak"
 county = "Suwannee"
-longitude = -83.030438
 latitude = 30.175865
+longitude = -83.030438
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32060"
+

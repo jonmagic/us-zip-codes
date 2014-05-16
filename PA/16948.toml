@@ -1,6 +1,8 @@
-zip_code = "16948"
-state = "PA"
 city = "Ulysses"
 county = "Potter"
-longitude = -77.75736
 latitude = 41.843678
+longitude = -77.75736
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16948"
+

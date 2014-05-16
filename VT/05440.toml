@@ -1,6 +1,8 @@
-zip_code = "05440"
-state = "VT"
 city = "Alburg"
 county = "Grand Isle"
-longitude = -73.289065
 latitude = 44.93606
+longitude = -73.289065
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05440"
+

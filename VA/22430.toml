@@ -1,6 +1,8 @@
-zip_code = "22430"
-state = "VA"
 city = "Brooke"
 county = "Stafford"
-longitude = -77.374292
 latitude = 38.385704
+longitude = -77.374292
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22430"
+

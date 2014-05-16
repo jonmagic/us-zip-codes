@@ -1,6 +1,8 @@
-zip_code = "30275"
-state = "GA"
 city = "Sargent"
 county = "Coweta"
-longitude = -84.874406
 latitude = 33.42985
+longitude = -84.874406
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30275"
+

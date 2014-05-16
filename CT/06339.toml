@@ -1,6 +1,8 @@
-zip_code = "06339"
-state = "CT"
 city = "Ledyard"
 county = "New London"
-longitude = -71.965554
 latitude = 41.492843
+longitude = -71.965554
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06339"
+

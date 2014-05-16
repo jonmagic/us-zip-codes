@@ -1,6 +1,8 @@
-zip_code = "22832"
-state = "VA"
 city = "Keezletown"
 county = "Rockingham"
-longitude = -78.749875
 latitude = 38.465855
+longitude = -78.749875
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22832"
+

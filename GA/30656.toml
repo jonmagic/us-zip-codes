@@ -1,6 +1,8 @@
-zip_code = "30656"
-state = "GA"
 city = "Monroe"
 county = "Walton"
-longitude = -83.710359
 latitude = 33.838638
+longitude = -83.710359
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30656"
+

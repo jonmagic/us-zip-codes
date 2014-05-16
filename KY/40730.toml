@@ -1,6 +1,8 @@
-zip_code = "40730"
-state = "KY"
 city = "Emlyn"
 county = "Whitley"
-longitude = -84.141486
 latitude = 36.703868
+longitude = -84.141486
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40730"
+

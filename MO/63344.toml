@@ -1,6 +1,8 @@
-zip_code = "63344"
-state = "MO"
 city = "Eolia"
 county = "Pike"
-longitude = -90.980854
 latitude = 39.280278
+longitude = -90.980854
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63344"
+

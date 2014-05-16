@@ -1,6 +1,8 @@
-zip_code = "72577"
-state = "AR"
 city = "Sidney"
 county = "Sharp"
-longitude = -91.64203
 latitude = 36.066371
+longitude = -91.64203
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72577"
+

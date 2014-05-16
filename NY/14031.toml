@@ -1,6 +1,8 @@
-zip_code = "14031"
-state = "NY"
 city = "Clarence"
 county = "Erie"
-longitude = -78.601269
 latitude = 42.992968
+longitude = -78.601269
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14031"
+

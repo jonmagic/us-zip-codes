@@ -1,6 +1,8 @@
-zip_code = "15720"
-state = "PA"
 city = "Brush Valley"
 county = "Indiana"
-longitude = -79.0846
 latitude = 40.529238
+longitude = -79.0846
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15720"
+

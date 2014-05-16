@@ -1,6 +1,8 @@
-zip_code = "38665"
-state = "MS"
 city = "Sarah"
 county = "Panola"
-longitude = -90.039377
 latitude = 34.414146
+longitude = -90.039377
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38665"
+

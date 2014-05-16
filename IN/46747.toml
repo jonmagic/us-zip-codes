@@ -1,6 +1,8 @@
-zip_code = "46747"
-state = "IN"
 city = "Hudson"
 county = "Steuben"
-longitude = -85.113166
 latitude = 41.577125
+longitude = -85.113166
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46747"
+

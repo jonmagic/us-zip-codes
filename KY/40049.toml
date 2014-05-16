@@ -1,6 +1,8 @@
-zip_code = "40049"
-state = "KY"
 city = "Nerinx"
 county = "Marion"
-longitude = -85.393204
 latitude = 37.660251
+longitude = -85.393204
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40049"
+

@@ -1,6 +1,8 @@
-zip_code = "38646"
-state = "MS"
 city = "Marks"
 county = "Quitman"
-longitude = -90.214465
 latitude = 34.314968
+longitude = -90.214465
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38646"
+

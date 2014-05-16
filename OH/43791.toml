@@ -1,6 +1,8 @@
-zip_code = "43791"
-state = "OH"
 city = "White Cottage"
 county = "Muskingum"
-longitude = -82.098668
 latitude = 39.87133
+longitude = -82.098668
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43791"
+

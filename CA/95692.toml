@@ -1,6 +1,8 @@
-zip_code = "95692"
-state = "CA"
 city = "Wheatland"
 county = "Yuba"
-longitude = -121.397892
 latitude = 39.08337
+longitude = -121.397892
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95692"
+

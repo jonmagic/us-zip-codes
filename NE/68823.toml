@@ -1,6 +1,8 @@
-zip_code = "68823"
-state = "NE"
 city = "Burwell"
 county = "Garfield"
-longitude = -99.134041
 latitude = 41.782277
+longitude = -99.134041
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68823"
+

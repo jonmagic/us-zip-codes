@@ -1,6 +1,8 @@
-zip_code = "43157"
-state = "OH"
 city = "Thurston"
 county = "Fairfield"
-longitude = -82.560131
 latitude = 39.842263
+longitude = -82.560131
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43157"
+

@@ -1,6 +1,8 @@
-zip_code = "39088"
-state = "MS"
 city = "Holly Bluff"
 county = "Yazoo"
-longitude = -90.723119
 latitude = 32.841523
+longitude = -90.723119
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39088"
+

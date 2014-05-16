@@ -1,6 +1,8 @@
-zip_code = "47576"
-state = "IN"
 city = "Saint Croix"
 county = "Perry"
-longitude = -86.64902
 latitude = 38.152479
+longitude = -86.64902
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47576"
+

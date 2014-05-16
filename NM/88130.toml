@@ -1,6 +1,8 @@
-zip_code = "88130"
-state = "NM"
 city = "Portales"
 county = "Roosevelt"
-longitude = -103.352595
 latitude = 34.076964
+longitude = -103.352595
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88130"
+

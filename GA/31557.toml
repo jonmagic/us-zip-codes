@@ -1,6 +1,8 @@
-zip_code = "31557"
-state = "GA"
 city = "Patterson"
 county = "Pierce"
-longitude = -82.115363
 latitude = 31.369686
+longitude = -82.115363
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31557"
+

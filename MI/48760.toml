@@ -1,6 +1,8 @@
-zip_code = "48760"
-state = "MI"
 city = "Silverwood"
 county = "Lapeer"
-longitude = -83.261468
 latitude = 43.285214
+longitude = -83.261468
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48760"
+

@@ -1,6 +1,8 @@
-zip_code = "24060"
-state = "VA"
 city = "Blacksburg"
 county = "Montgomery"
-longitude = -80.43473
 latitude = 37.256283
+longitude = -80.43473
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24060"
+

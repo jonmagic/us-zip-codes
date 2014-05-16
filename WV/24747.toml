@@ -1,6 +1,8 @@
-zip_code = "24747"
-state = "WV"
 city = "Rock"
 county = "Mercer"
-longitude = -81.178417
 latitude = 37.414224
+longitude = -81.178417
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24747"
+

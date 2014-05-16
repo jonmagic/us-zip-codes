@@ -1,6 +1,8 @@
-zip_code = "03049"
-state = "NH"
 city = "Hollis"
 county = "Hillsborough"
-longitude = -71.581313
 latitude = 42.859545
+longitude = -71.581313
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03049"
+

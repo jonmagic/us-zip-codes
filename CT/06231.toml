@@ -1,6 +1,8 @@
-zip_code = "06231"
-state = "CT"
 city = "Amston"
 county = "Tolland"
-longitude = -72.3728
 latitude = 41.626377
+longitude = -72.3728
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06231"
+

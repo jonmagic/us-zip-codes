@@ -1,6 +1,8 @@
-zip_code = "36779"
-state = "AL"
 city = "Sprott"
 county = "Perry"
-longitude = -87.271667
 latitude = 32.591207
+longitude = -87.271667
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36779"
+

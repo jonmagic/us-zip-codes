@@ -1,6 +1,8 @@
-zip_code = "67052"
-state = "KS"
 city = "Goddard"
 county = "Sedgwick"
-longitude = -97.579616
 latitude = 37.663432
+longitude = -97.579616
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67052"
+

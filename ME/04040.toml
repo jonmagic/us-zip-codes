@@ -1,6 +1,8 @@
-zip_code = "04040"
-state = "ME"
 city = "Harrison"
 county = "Cumberland"
-longitude = -70.357119
 latitude = 43.992681
+longitude = -70.357119
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04040"
+

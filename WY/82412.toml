@@ -1,6 +1,8 @@
-zip_code = "82412"
-state = "WY"
 city = "Byron"
 county = "Big Horn"
-longitude = -108.543965
 latitude = 44.784396
+longitude = -108.543965
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82412"
+

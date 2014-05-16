@@ -1,6 +1,8 @@
-zip_code = "39191"
-state = "MS"
 city = "Wesson"
 county = "Copiah"
-longitude = -90.377153
 latitude = 31.847453
+longitude = -90.377153
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39191"
+

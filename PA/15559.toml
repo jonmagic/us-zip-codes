@@ -1,6 +1,8 @@
-zip_code = "15559"
-state = "PA"
 city = "Schellsburg"
 county = "Bedford"
-longitude = -78.642513
 latitude = 40.057047
+longitude = -78.642513
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15559"
+

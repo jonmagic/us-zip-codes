@@ -1,6 +1,8 @@
-zip_code = "03813"
-state = "NH"
 city = "Center Conway"
 county = "Carroll"
-longitude = -71.145357
 latitude = 43.797391
+longitude = -71.145357
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03813"
+

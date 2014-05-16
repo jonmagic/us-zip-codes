@@ -1,6 +1,8 @@
-zip_code = "67568"
-state = "KS"
 city = "Plevna"
 county = "Reno"
-longitude = -98.261811
 latitude = 38.006255
+longitude = -98.261811
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67568"
+

@@ -1,6 +1,8 @@
-zip_code = "58422"
-state = "ND"
 city = "Cathay"
 county = "Wells"
-longitude = -99.404936
 latitude = 47.628946
+longitude = -99.404936
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58422"
+

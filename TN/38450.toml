@@ -1,6 +1,8 @@
-zip_code = "38450"
-state = "TN"
 city = "Collinwood"
 county = "Wayne"
-longitude = -87.786778
 latitude = 35.180623
+longitude = -87.786778
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38450"
+

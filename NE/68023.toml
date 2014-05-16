@@ -1,6 +1,8 @@
-zip_code = "68023"
-state = "NE"
 city = "Fort Calhoun"
 county = "Washington"
-longitude = -96.023829
 latitude = 41.447307
+longitude = -96.023829
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68023"
+

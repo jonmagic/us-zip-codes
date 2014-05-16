@@ -1,6 +1,8 @@
-zip_code = "17038"
-state = "PA"
 city = "Jonestown"
 county = "Lebanon"
-longitude = -76.480732
 latitude = 40.430902
+longitude = -76.480732
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17038"
+

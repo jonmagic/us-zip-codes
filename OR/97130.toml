@@ -1,6 +1,8 @@
-zip_code = "97130"
-state = "OR"
 city = "Manzanita"
 county = "Tillamook"
-longitude = -123.923108
 latitude = 45.736552
+longitude = -123.923108
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97130"
+

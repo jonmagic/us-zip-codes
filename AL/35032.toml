@@ -1,6 +1,8 @@
-zip_code = "35032"
-state = "AL"
 city = "Bon Air"
 county = "Talladega"
-longitude = -86.338572
 latitude = 33.256886
+longitude = -86.338572
+state = ""
+state_code_alpha2 = ""
+zip_code = "35032"
+

@@ -1,6 +1,8 @@
-zip_code = "95949"
-state = "CA"
 city = "Grass Valley"
 county = "Nevada"
-longitude = -121.128336
 latitude = 39.110986
+longitude = -121.128336
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95949"
+

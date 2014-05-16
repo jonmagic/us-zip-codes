@@ -1,6 +1,8 @@
-zip_code = "84041"
-state = "UT"
 city = "Layton"
 county = "Davis"
-longitude = -111.994525
 latitude = 41.059863
+longitude = -111.994525
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84041"
+

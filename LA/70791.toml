@@ -1,6 +1,8 @@
-zip_code = "70791"
-state = "LA"
 city = "Zachary"
 county = "East Baton Rouge"
-longitude = -91.129053
 latitude = 30.641035
+longitude = -91.129053
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70791"
+

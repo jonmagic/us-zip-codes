@@ -1,6 +1,8 @@
-zip_code = "81252"
-state = "CO"
 city = "Westcliffe"
 county = "Custer"
-longitude = -105.421953
 latitude = 38.095173
+longitude = -105.421953
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81252"
+

@@ -1,6 +1,8 @@
-zip_code = "62263"
-state = "IL"
 city = "Nashville"
 county = "Washington"
-longitude = -89.3674
 latitude = 38.331439
+longitude = -89.3674
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62263"
+

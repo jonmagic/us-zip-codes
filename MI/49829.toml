@@ -1,6 +1,8 @@
-zip_code = "49829"
-state = "MI"
 city = "Escanaba"
 county = "Delta"
-longitude = -87.057049
 latitude = 45.851343
+longitude = -87.057049
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49829"
+

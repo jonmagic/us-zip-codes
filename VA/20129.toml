@@ -1,6 +1,8 @@
-zip_code = "20129"
-state = "VA"
 city = "Paeonian Springs"
 county = "Loudoun"
-longitude = -77.60967
 latitude = 39.160291
+longitude = -77.60967
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20129"
+

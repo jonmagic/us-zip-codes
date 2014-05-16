@@ -1,6 +1,8 @@
-zip_code = "48015"
-state = "MI"
 city = "Center Line"
 county = "Macomb"
-longitude = -83.027221
 latitude = 42.480186
+longitude = -83.027221
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48015"
+

@@ -1,6 +1,8 @@
-zip_code = "50243"
-state = "IA"
 city = "Sheldahl"
 county = "Polk"
-longitude = -93.697325
 latitude = 41.857068
+longitude = -93.697325
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50243"
+

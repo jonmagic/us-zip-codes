@@ -1,6 +1,8 @@
-zip_code = "59231"
-state = "MT"
 city = "Saint Marie"
 county = "Valley"
-longitude = -106.542815
 latitude = 48.403894
+longitude = -106.542815
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59231"
+

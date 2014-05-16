@@ -1,6 +1,8 @@
-zip_code = "12584"
-state = "NY"
 city = "Vails Gate"
 county = "Orange"
-longitude = -74.059104
 latitude = 41.464073
+longitude = -74.059104
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12584"
+

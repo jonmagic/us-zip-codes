@@ -1,6 +1,8 @@
-zip_code = "60510"
-state = "IL"
 city = "Batavia"
 county = "Kane"
-longitude = -88.407334
 latitude = 41.828292
+longitude = -88.407334
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60510"
+

@@ -1,6 +1,8 @@
-zip_code = "00791"
-state = "PR"
 city = "Humacao"
 county = "Humacao"
-longitude = -65.788499
 latitude = 18.138029
+longitude = -65.788499
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00791"
+

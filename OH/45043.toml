@@ -1,6 +1,8 @@
-zip_code = "45043"
-state = "OH"
 city = "Middletown"
 county = "Butler"
-longitude = -84.575746
 latitude = 39.440956
+longitude = -84.575746
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45043"
+

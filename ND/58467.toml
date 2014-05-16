@@ -1,6 +1,8 @@
-zip_code = "58467"
-state = "ND"
 city = "Medina"
 county = "Stutsman"
-longitude = -99.316908
 latitude = 46.899774
+longitude = -99.316908
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58467"
+

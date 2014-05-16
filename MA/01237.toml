@@ -1,6 +1,8 @@
-zip_code = "01237"
-state = "MA"
 city = "Lanesboro"
 county = "Berkshire"
-longitude = -73.235048
 latitude = 42.487569
+longitude = -73.235048
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01237"
+

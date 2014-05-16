@@ -1,6 +1,8 @@
-zip_code = "79501"
-state = "TX"
 city = "Anson"
 county = "Jones"
-longitude = -99.854766
 latitude = 32.765623
+longitude = -99.854766
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79501"
+

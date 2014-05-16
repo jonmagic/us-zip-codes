@@ -1,6 +1,8 @@
-zip_code = "50218"
-state = "IA"
 city = "Patterson"
 county = "Madison"
-longitude = -93.880265
 latitude = 41.349901
+longitude = -93.880265
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50218"
+

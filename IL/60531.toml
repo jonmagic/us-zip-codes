@@ -1,6 +1,8 @@
-zip_code = "60531"
-state = "IL"
 city = "Leland"
 county = "La Salle"
-longitude = -88.7265
 latitude = 41.47805
+longitude = -88.7265
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60531"
+

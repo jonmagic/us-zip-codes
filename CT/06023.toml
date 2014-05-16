@@ -1,6 +1,8 @@
-zip_code = "06023"
-state = "CT"
 city = "East Berlin"
 county = "Hartford"
-longitude = -72.7207
 latitude = 41.613489
+longitude = -72.7207
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06023"
+

@@ -1,6 +1,8 @@
-zip_code = "07856"
-state = "NJ"
 city = "Mount Arlington"
 county = "Morris"
-longitude = -74.73433
 latitude = 40.874049
+longitude = -74.73433
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07856"
+

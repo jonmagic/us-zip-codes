@@ -1,6 +1,8 @@
-zip_code = "30643"
-state = "GA"
 city = "Hartwell"
 county = "Hart"
-longitude = -82.941703
 latitude = 34.361177
+longitude = -82.941703
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30643"
+

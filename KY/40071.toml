@@ -1,6 +1,8 @@
-zip_code = "40071"
-state = "KY"
 city = "Taylorsville"
 county = "Spencer"
-longitude = -85.366055
 latitude = 38.032735
+longitude = -85.366055
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40071"
+

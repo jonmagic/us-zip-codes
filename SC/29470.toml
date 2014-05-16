@@ -1,6 +1,8 @@
-zip_code = "29470"
-state = "SC"
 city = "Ravenel"
 county = "Charleston"
-longitude = -80.224756
 latitude = 32.787774
+longitude = -80.224756
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29470"
+

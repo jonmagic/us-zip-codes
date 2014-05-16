@@ -1,6 +1,8 @@
-zip_code = "36754"
-state = "AL"
 city = "Magnolia"
 county = "Marengo"
-longitude = -87.706019
 latitude = 32.129123
+longitude = -87.706019
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36754"
+

@@ -1,6 +1,8 @@
-zip_code = "38778"
-state = "MS"
 city = "Sunflower"
 county = "Sunflower"
-longitude = -90.545111
 latitude = 33.556746
+longitude = -90.545111
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38778"
+

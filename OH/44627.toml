@@ -1,6 +1,8 @@
-zip_code = "44627"
-state = "OH"
 city = "Fredericksburg"
 county = "Wayne"
-longitude = -81.831036
 latitude = 40.696545
+longitude = -81.831036
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44627"
+

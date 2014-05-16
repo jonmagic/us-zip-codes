@@ -1,6 +1,8 @@
-zip_code = "21790"
-state = "MD"
 city = "Tuscarora"
 county = "Frederick"
-longitude = -77.496646
 latitude = 39.265086
+longitude = -77.496646
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21790"
+

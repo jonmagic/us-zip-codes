@@ -1,6 +1,8 @@
-zip_code = "03853"
-state = "NH"
 city = "Mirror Lake"
 county = "Carroll"
-longitude = -71.282068
 latitude = 43.646319
+longitude = -71.282068
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03853"
+

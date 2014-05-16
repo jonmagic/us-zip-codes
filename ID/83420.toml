@@ -1,6 +1,8 @@
-zip_code = "83420"
-state = "ID"
 city = "Ashton"
 county = "Fremont"
-longitude = -111.42527
 latitude = 44.015259
+longitude = -111.42527
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83420"
+

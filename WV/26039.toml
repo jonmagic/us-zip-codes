@@ -1,6 +1,8 @@
-zip_code = "26039"
-state = "WV"
 city = "Glen Easton"
 county = "Marshall"
-longitude = -80.600655
 latitude = 39.868737
+longitude = -80.600655
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26039"
+

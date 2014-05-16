@@ -1,6 +1,8 @@
-zip_code = "65664"
-state = "MO"
 city = "Halltown"
 county = "Lawrence"
-longitude = -93.627547
 latitude = 37.194385
+longitude = -93.627547
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65664"
+

@@ -1,6 +1,8 @@
-zip_code = "98612"
-state = "WA"
 city = "Cathlamet"
 county = "Wahkiakum"
-longitude = -123.334899
 latitude = 46.214628
+longitude = -123.334899
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98612"
+

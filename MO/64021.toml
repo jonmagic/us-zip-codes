@@ -1,6 +1,8 @@
-zip_code = "64021"
-state = "MO"
 city = "Corder"
 county = "Lafayette"
-longitude = -93.61919
 latitude = 39.118071
+longitude = -93.61919
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64021"
+

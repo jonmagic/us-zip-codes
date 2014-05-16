@@ -1,6 +1,8 @@
-zip_code = "80421"
-state = "CO"
 city = "Bailey"
 county = "Park"
-longitude = -105.747242
 latitude = 39.203721
+longitude = -105.747242
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80421"
+

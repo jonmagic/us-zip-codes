@@ -1,6 +1,8 @@
-zip_code = "37372"
-state = "TN"
 city = "Saint Andrews"
 county = "Franklin"
-longitude = -86.098338
 latitude = 35.175522
+longitude = -86.098338
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37372"
+

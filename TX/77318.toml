@@ -1,6 +1,8 @@
-zip_code = "77318"
-state = "TX"
 city = "Willis"
 county = "Montgomery"
-longitude = -95.490719
 latitude = 30.43794
+longitude = -95.490719
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77318"
+

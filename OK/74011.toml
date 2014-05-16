@@ -1,6 +1,8 @@
-zip_code = "74011"
-state = "OK"
 city = "Broken Arrow"
 county = "Tulsa"
-longitude = -95.818064
 latitude = 35.986399
+longitude = -95.818064
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74011"
+

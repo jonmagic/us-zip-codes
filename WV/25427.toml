@@ -1,6 +1,8 @@
-zip_code = "25427"
-state = "WV"
 city = "Hedgesville"
 county = "Berkeley"
-longitude = -78.034659
 latitude = 39.485043
+longitude = -78.034659
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25427"
+

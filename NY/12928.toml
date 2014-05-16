@@ -1,6 +1,8 @@
-zip_code = "12928"
-state = "NY"
 city = "Crown Point"
 county = "Essex"
-longitude = -73.58854
 latitude = 43.930616
+longitude = -73.58854
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12928"
+

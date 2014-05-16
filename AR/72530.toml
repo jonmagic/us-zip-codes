@@ -1,6 +1,8 @@
-zip_code = "72530"
-state = "AR"
 city = "Drasco"
 county = "Cleburne"
-longitude = -92.022867
 latitude = 35.607847
+longitude = -92.022867
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72530"
+

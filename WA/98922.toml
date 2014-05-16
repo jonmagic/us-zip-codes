@@ -1,6 +1,8 @@
-zip_code = "98922"
-state = "WA"
 city = "Cle Elum"
 county = "Kittitas"
-longitude = -120.806926
 latitude = 47.156558
+longitude = -120.806926
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98922"
+

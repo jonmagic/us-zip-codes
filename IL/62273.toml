@@ -1,6 +1,8 @@
-zip_code = "62273"
-state = "IL"
 city = "Pierron"
 county = "Bond"
-longitude = -89.444898
 latitude = 38.884459
+longitude = -89.444898
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62273"
+

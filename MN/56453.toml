@@ -1,6 +1,8 @@
-zip_code = "56453"
-state = "MN"
 city = "Hewitt"
 county = "Todd"
-longitude = -94.945126
 latitude = 46.330157
+longitude = -94.945126
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56453"
+

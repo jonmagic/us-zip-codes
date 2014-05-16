@@ -1,6 +1,8 @@
-zip_code = "19810"
-state = "DE"
 city = "Wilmington"
 county = "New Castle"
-longitude = -75.527812
 latitude = 39.763961
+longitude = -75.527812
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19810"
+

@@ -1,6 +1,8 @@
-zip_code = "46789"
-state = "IN"
 city = "Stroh"
 county = "Lagrange"
-longitude = -85.199186
 latitude = 41.583493
+longitude = -85.199186
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46789"
+

@@ -1,6 +1,8 @@
-zip_code = "04254"
-state = "ME"
 city = "Livermore Falls"
 county = "Androscoggin"
-longitude = -70.188508
 latitude = 44.242189
+longitude = -70.188508
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04254"
+

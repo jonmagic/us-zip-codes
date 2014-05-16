@@ -1,6 +1,8 @@
-zip_code = "69101"
-state = "NE"
 city = "North Platte"
 county = "Lincoln"
-longitude = -100.74907
 latitude = 41.102555
+longitude = -100.74907
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69101"
+

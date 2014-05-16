@@ -1,6 +1,8 @@
-zip_code = "68751"
-state = "NE"
 city = "Maskell"
 county = "Dixon"
-longitude = -96.926042
 latitude = 42.481711
+longitude = -96.926042
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68751"
+

@@ -1,6 +1,8 @@
-zip_code = "30663"
-state = "GA"
 city = "Rutledge"
 county = "Morgan"
-longitude = -83.602459
 latitude = 33.61101
+longitude = -83.602459
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30663"
+

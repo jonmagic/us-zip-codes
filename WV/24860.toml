@@ -1,6 +1,8 @@
-zip_code = "24860"
-state = "WV"
 city = "Matheny"
 county = "Wyoming"
-longitude = -81.53998
 latitude = 37.603344
+longitude = -81.53998
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24860"
+

@@ -1,6 +1,8 @@
-zip_code = "59011"
-state = "MT"
 city = "Big Timber"
 county = "Sweet Grass"
-longitude = -109.950025
 latitude = 45.834206
+longitude = -109.950025
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59011"
+

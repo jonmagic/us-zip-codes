@@ -1,6 +1,8 @@
-zip_code = "06375"
-state = "CT"
 city = "Quaker Hill"
 county = "New London"
-longitude = -72.140022
 latitude = 41.401066
+longitude = -72.140022
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06375"
+

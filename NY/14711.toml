@@ -1,6 +1,8 @@
-zip_code = "14711"
-state = "NY"
 city = "Belfast"
 county = "Allegany"
-longitude = -78.12964
 latitude = 42.320366
+longitude = -78.12964
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14711"
+

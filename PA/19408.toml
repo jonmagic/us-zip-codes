@@ -1,6 +1,8 @@
-zip_code = "19408"
-state = "PA"
 city = "Eagleville"
 county = "Montgomery"
-longitude = -75.413127
 latitude = 40.156555
+longitude = -75.413127
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19408"
+

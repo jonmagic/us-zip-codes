@@ -1,6 +1,8 @@
-zip_code = "45354"
-state = "OH"
 city = "Phillipsburg"
 county = "Montgomery"
-longitude = -84.402785
 latitude = 39.905385
+longitude = -84.402785
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45354"
+

@@ -1,6 +1,8 @@
-zip_code = "49653"
-state = "MI"
 city = "Lake Leelanau"
 county = "Leelanau"
-longitude = -85.736199
 latitude = 44.980451
+longitude = -85.736199
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49653"
+

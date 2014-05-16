@@ -1,6 +1,8 @@
-zip_code = "24613"
-state = "VA"
 city = "Falls Mills"
 county = "Tazewell"
-longitude = -81.563406
 latitude = 37.13549
+longitude = -81.563406
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24613"
+

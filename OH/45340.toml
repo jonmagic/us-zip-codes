@@ -1,6 +1,8 @@
-zip_code = "45340"
-state = "OH"
 city = "Maplewood"
 county = "Shelby"
-longitude = -84.056464
 latitude = 40.364305
+longitude = -84.056464
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45340"
+

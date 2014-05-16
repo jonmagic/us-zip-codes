@@ -1,6 +1,8 @@
-zip_code = "12734"
-state = "NY"
 city = "Ferndale"
 county = "Sullivan"
-longitude = -74.734508
 latitude = 41.734858
+longitude = -74.734508
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12734"
+

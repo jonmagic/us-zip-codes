@@ -1,6 +1,8 @@
-zip_code = "98512"
-state = "WA"
 city = "Olympia"
 county = "Thurston"
-longitude = -123.021207
 latitude = 46.949776
+longitude = -123.021207
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98512"
+

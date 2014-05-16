@@ -1,6 +1,8 @@
-zip_code = "45693"
-state = "OH"
 city = "West Union"
 county = "Adams"
-longitude = -83.504048
 latitude = 38.82346
+longitude = -83.504048
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45693"
+

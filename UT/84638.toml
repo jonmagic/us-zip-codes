@@ -1,6 +1,8 @@
-zip_code = "84638"
-state = "UT"
 city = "Leamington"
 county = "Millard"
-longitude = -112.295191
 latitude = 39.530246
+longitude = -112.295191
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84638"
+

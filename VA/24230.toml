@@ -1,6 +1,8 @@
-zip_code = "24230"
-state = "VA"
 city = "Coeburn"
 county = "Wise"
-longitude = -82.475496
 latitude = 36.971586
+longitude = -82.475496
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24230"
+

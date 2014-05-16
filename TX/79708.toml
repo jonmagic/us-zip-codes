@@ -1,6 +1,8 @@
-zip_code = "79708"
-state = "TX"
 city = "Midland"
 county = "Midland"
-longitude = -102.031726
 latitude = 31.869259
+longitude = -102.031726
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79708"
+

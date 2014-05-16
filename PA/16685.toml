@@ -1,6 +1,8 @@
-zip_code = "16685"
-state = "PA"
 city = "Todd"
 county = "Huntingdon"
-longitude = -78.077244
 latitude = 40.270965
+longitude = -78.077244
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16685"
+

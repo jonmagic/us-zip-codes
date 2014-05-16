@@ -1,6 +1,8 @@
-zip_code = "39161"
-state = "MS"
 city = "Sandhill"
 county = "Rankin"
-longitude = -89.868563
 latitude = 32.498294
+longitude = -89.868563
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39161"
+

@@ -1,6 +1,8 @@
-zip_code = "56657"
-state = "MN"
 city = "Marcell"
 county = "Itasca"
-longitude = -93.62356
 latitude = 47.548518
+longitude = -93.62356
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56657"
+

@@ -1,6 +1,8 @@
-zip_code = "54229"
-state = "WI"
 city = "New Franken"
 county = "Brown"
-longitude = -87.833306
 latitude = 44.571416
+longitude = -87.833306
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54229"
+

@@ -1,6 +1,8 @@
-zip_code = "70076"
-state = "LA"
 city = "Mount Airy"
 county = "St John The Baptist"
-longitude = -90.636855
 latitude = 30.057525
+longitude = -90.636855
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70076"
+

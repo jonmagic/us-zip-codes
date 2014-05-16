@@ -1,6 +1,8 @@
-zip_code = "59019"
-state = "MT"
 city = "Columbus"
 county = "Stillwater"
-longitude = -109.206617
 latitude = 45.657453
+longitude = -109.206617
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59019"
+

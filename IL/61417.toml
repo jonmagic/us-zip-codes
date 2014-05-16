@@ -1,6 +1,8 @@
-zip_code = "61417"
-state = "IL"
 city = "Berwick"
 county = "Warren"
-longitude = -90.534172
 latitude = 40.769783
+longitude = -90.534172
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61417"
+

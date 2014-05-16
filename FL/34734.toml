@@ -1,6 +1,8 @@
-zip_code = "34734"
-state = "FL"
 city = "Gotha"
 county = "Orange"
-longitude = -81.520774
 latitude = 28.538407
+longitude = -81.520774
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34734"
+

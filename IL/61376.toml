@@ -1,6 +1,8 @@
-zip_code = "61376"
-state = "IL"
 city = "Walnut"
 county = "Bureau"
-longitude = -89.478453
 latitude = 41.453979
+longitude = -89.478453
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61376"
+

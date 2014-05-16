@@ -1,6 +1,8 @@
-zip_code = "62045"
-state = "IL"
 city = "Hamburg"
 county = "Calhoun"
-longitude = -90.69376
 latitude = 39.13427
+longitude = -90.69376
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62045"
+

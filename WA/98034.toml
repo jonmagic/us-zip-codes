@@ -1,6 +1,8 @@
-zip_code = "98034"
-state = "WA"
 city = "Kirkland"
 county = "King"
-longitude = -122.205646
 latitude = 47.725139
+longitude = -122.205646
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98034"
+

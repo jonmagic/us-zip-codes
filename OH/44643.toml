@@ -1,6 +1,8 @@
-zip_code = "44643"
-state = "OH"
 city = "Magnolia"
 county = "Stark"
-longitude = -81.312133
 latitude = 40.679881
+longitude = -81.312133
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44643"
+

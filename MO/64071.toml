@@ -1,6 +1,8 @@
-zip_code = "64071"
-state = "MO"
 city = "Mayview"
 county = "Lafayette"
-longitude = -93.758998
 latitude = 39.020768
+longitude = -93.758998
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64071"
+

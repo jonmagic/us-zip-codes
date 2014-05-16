@@ -1,6 +1,8 @@
-zip_code = "16143"
-state = "PA"
 city = "Pulaski"
 county = "Lawrence"
-longitude = -80.472593
 latitude = 41.087533
+longitude = -80.472593
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16143"
+

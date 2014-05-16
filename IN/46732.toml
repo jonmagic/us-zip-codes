@@ -1,6 +1,8 @@
-zip_code = "46732"
-state = "IN"
 city = "Cromwell"
 county = "Noble"
-longitude = -85.59875
 latitude = 41.377903
+longitude = -85.59875
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46732"
+

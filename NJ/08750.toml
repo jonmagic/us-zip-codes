@@ -1,6 +1,8 @@
-zip_code = "08750"
-state = "NJ"
 city = "Sea Girt"
 county = "Monmouth"
-longitude = -74.043772
 latitude = 40.161392
+longitude = -74.043772
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08750"
+

@@ -1,6 +1,8 @@
-zip_code = "42257"
-state = "KY"
 city = "Lindseyville"
 county = "Edmonson"
-longitude = -86.299361
 latitude = 37.237211
+longitude = -86.299361
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42257"
+

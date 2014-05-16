@@ -1,6 +1,8 @@
-zip_code = "05038"
-state = "VT"
 city = "Chelsea"
 county = "Orange"
-longitude = -72.457153
 latitude = 43.994212
+longitude = -72.457153
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05038"
+

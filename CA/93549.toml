@@ -1,6 +1,8 @@
-zip_code = "93549"
-state = "CA"
 city = "Olancha"
 county = "Inyo"
-longitude = -117.955189
 latitude = 36.229962
+longitude = -117.955189
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93549"
+

@@ -1,6 +1,8 @@
-zip_code = "71221"
-state = "LA"
 city = "Bastrop"
 county = "Morehouse"
-longitude = -91.843528
 latitude = 32.823863
+longitude = -91.843528
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71221"
+

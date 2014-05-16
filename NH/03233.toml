@@ -1,6 +1,8 @@
-zip_code = "03233"
-state = "NH"
 city = "Elkins"
 county = "Merrimack"
-longitude = -71.944794
 latitude = 43.422706
+longitude = -71.944794
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03233"
+

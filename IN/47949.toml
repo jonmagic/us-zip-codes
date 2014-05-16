@@ -1,6 +1,8 @@
-zip_code = "47949"
-state = "IN"
 city = "Hillsboro"
 county = "Fountain"
-longitude = -87.175046
 latitude = 40.045073
+longitude = -87.175046
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47949"
+

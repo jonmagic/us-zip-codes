@@ -1,6 +1,8 @@
-zip_code = "23834"
-state = "VA"
 city = "Colonial Heights"
 county = "Colonial Heights City"
-longitude = -77.396989
 latitude = 37.26219
+longitude = -77.396989
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23834"
+

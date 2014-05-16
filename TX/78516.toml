@@ -1,6 +1,8 @@
-zip_code = "78516"
-state = "TX"
 city = "Alamo"
 county = "Hidalgo"
-longitude = -98.218896
 latitude = 26.221712
+longitude = -98.218896
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78516"
+

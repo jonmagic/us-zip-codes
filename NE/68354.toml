@@ -1,6 +1,8 @@
-zip_code = "68354"
-state = "NE"
 city = "Fairmont"
 county = "Fillmore"
-longitude = -97.559927
 latitude = 40.641428
+longitude = -97.559927
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68354"
+

@@ -1,6 +1,8 @@
-zip_code = "42374"
-state = "KY"
 city = "South Carrollton"
 county = "Muhlenberg"
-longitude = -87.165762
 latitude = 37.353575
+longitude = -87.165762
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42374"
+

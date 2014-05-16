@@ -1,6 +1,8 @@
-zip_code = "01223"
-state = "MA"
 city = "Becket"
 county = "Berkshire"
-longitude = -73.103468
 latitude = 42.3418
+longitude = -73.103468
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01223"
+

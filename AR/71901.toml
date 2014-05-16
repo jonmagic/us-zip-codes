@@ -1,6 +1,8 @@
-zip_code = "71901"
-state = "AR"
 city = "Hot Springs National Park"
 county = "Garland"
-longitude = -92.958697
 latitude = 34.526841
+longitude = -92.958697
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71901"
+

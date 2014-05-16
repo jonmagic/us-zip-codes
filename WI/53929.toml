@@ -1,6 +1,8 @@
-zip_code = "53929"
-state = "WI"
 city = "Elroy"
 county = "Juneau"
-longitude = -90.10446
 latitude = 43.82702
+longitude = -90.10446
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53929"
+

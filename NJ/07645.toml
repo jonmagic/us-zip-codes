@@ -1,6 +1,8 @@
-zip_code = "07645"
-state = "NJ"
 city = "Montvale"
 county = "Bergen"
-longitude = -74.045425
 latitude = 41.054651
+longitude = -74.045425
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07645"
+

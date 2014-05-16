@@ -1,6 +1,8 @@
-zip_code = "73669"
-state = "OK"
 city = "Thomas"
 county = "Custer"
-longitude = -98.81099
 latitude = 35.709894
+longitude = -98.81099
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73669"
+

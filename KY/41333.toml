@@ -1,6 +1,8 @@
-zip_code = "41333"
-state = "KY"
 city = "Heidelberg"
 county = "Lee"
-longitude = -83.776253
 latitude = 37.556255
+longitude = -83.776253
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41333"
+

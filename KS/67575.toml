@@ -1,6 +1,8 @@
-zip_code = "67575"
-state = "KS"
 city = "Rush Center"
 county = "Rush"
-longitude = -99.24642
 latitude = 38.467528
+longitude = -99.24642
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67575"
+

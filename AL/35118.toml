@@ -1,6 +1,8 @@
-zip_code = "35118"
-state = "AL"
 city = "Mulga"
 county = "Jefferson"
-longitude = -87.051031
 latitude = 33.536339
+longitude = -87.051031
+state = ""
+state_code_alpha2 = ""
+zip_code = "35118"
+

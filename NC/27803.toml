@@ -1,6 +1,8 @@
-zip_code = "27803"
-state = "NC"
 city = "Rocky Mount"
 county = "Nash"
-longitude = -77.874947
 latitude = 35.902088
+longitude = -77.874947
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27803"
+

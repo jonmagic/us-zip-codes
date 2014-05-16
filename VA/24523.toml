@@ -1,6 +1,8 @@
-zip_code = "24523"
-state = "VA"
 city = "Bedford"
 county = "Bedford City"
-longitude = -79.522585
 latitude = 37.336027
+longitude = -79.522585
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24523"
+

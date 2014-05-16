@@ -1,6 +1,8 @@
-zip_code = "54893"
-state = "WI"
 city = "Webster"
 county = "Burnett"
-longitude = -92.30286
 latitude = 45.869606
+longitude = -92.30286
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54893"
+

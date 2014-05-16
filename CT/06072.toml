@@ -1,6 +1,8 @@
-zip_code = "06072"
-state = "CT"
 city = "Somersville"
 county = "Tolland"
-longitude = -72.490593
 latitude = 41.976466
+longitude = -72.490593
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06072"
+

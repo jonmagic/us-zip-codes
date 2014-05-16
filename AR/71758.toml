@@ -1,6 +1,8 @@
-zip_code = "71758"
-state = "AR"
 city = "Mount Holly"
 county = "Union"
-longitude = -92.817651
 latitude = 33.302589
+longitude = -92.817651
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71758"
+

@@ -1,6 +1,8 @@
-zip_code = "48005"
-state = "MI"
 city = "Armada"
 county = "Macomb"
-longitude = -82.894993
 latitude = 42.850051
+longitude = -82.894993
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48005"
+

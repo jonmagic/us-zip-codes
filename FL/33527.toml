@@ -1,6 +1,8 @@
-zip_code = "33527"
-state = "FL"
 city = "Dover"
 county = "Hillsborough"
-longitude = -82.240415
 latitude = 27.975742
+longitude = -82.240415
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33527"
+

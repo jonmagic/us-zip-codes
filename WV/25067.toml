@@ -1,6 +1,8 @@
-zip_code = "25067"
-state = "WV"
 city = "East Bank"
 county = "Kanawha"
-longitude = -81.438053
 latitude = 38.209887
+longitude = -81.438053
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25067"
+

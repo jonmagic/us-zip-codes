@@ -1,6 +1,8 @@
-zip_code = "29540"
-state = "SC"
 city = "Darlington"
 county = "Darlington"
-longitude = -79.842182
 latitude = 34.384261
+longitude = -79.842182
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29540"
+

@@ -1,6 +1,8 @@
-zip_code = "64658"
-state = "MO"
 city = "Marceline"
 county = "Linn"
-longitude = -92.936247
 latitude = 39.731085
+longitude = -92.936247
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64658"
+

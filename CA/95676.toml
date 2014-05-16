@@ -1,6 +1,8 @@
-zip_code = "95676"
-state = "CA"
 city = "Robbins"
 county = "Sutter"
-longitude = -121.70949
 latitude = 38.868875
+longitude = -121.70949
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95676"
+

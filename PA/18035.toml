@@ -1,6 +1,8 @@
-zip_code = "18035"
-state = "PA"
 city = "Cherryville"
 county = "Northampton"
-longitude = -75.53937
 latitude = 40.750996
+longitude = -75.53937
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18035"
+

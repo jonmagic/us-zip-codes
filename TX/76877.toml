@@ -1,6 +1,8 @@
-zip_code = "76877"
-state = "TX"
 city = "San Saba"
 county = "San Saba"
-longitude = -98.723024
 latitude = 31.212412
+longitude = -98.723024
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76877"
+

@@ -1,6 +1,8 @@
-zip_code = "37705"
-state = "TN"
 city = "Andersonville"
 county = "Anderson"
-longitude = -84.068808
 latitude = 36.202528
+longitude = -84.068808
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37705"
+

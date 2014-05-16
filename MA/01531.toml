@@ -1,6 +1,8 @@
-zip_code = "01531"
-state = "MA"
 city = "New Braintree"
 county = "Worcester"
-longitude = -72.128644
 latitude = 42.320938
+longitude = -72.128644
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01531"
+

@@ -1,6 +1,8 @@
-zip_code = "98814"
-state = "WA"
 city = "Carlton"
 county = "Okanogan"
-longitude = -119.812938
 latitude = 48.551984
+longitude = -119.812938
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98814"
+

@@ -1,6 +1,8 @@
-zip_code = "55006"
-state = "MN"
 city = "Braham"
 county = "Isanti"
-longitude = -93.278348
 latitude = 45.69146
+longitude = -93.278348
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55006"
+

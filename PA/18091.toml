@@ -1,6 +1,8 @@
-zip_code = "18091"
-state = "PA"
 city = "Wind Gap"
 county = "Northampton"
-longitude = -75.310958
 latitude = 40.801131
+longitude = -75.310958
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18091"
+

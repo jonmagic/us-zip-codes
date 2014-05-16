@@ -1,6 +1,8 @@
-zip_code = "57301"
-state = "SD"
 city = "Mitchell"
 county = "Davison"
-longitude = -98.086401
 latitude = 43.69591
+longitude = -98.086401
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57301"
+

@@ -1,6 +1,8 @@
-zip_code = "06762"
-state = "CT"
 city = "Middlebury"
 county = "New Haven"
-longitude = -73.116458
 latitude = 41.528274
+longitude = -73.116458
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06762"
+

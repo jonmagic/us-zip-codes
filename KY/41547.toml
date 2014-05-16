@@ -1,6 +1,8 @@
-zip_code = "41547"
-state = "KY"
 city = "Majestic"
 county = "Pike"
-longitude = -82.091605
 latitude = 37.531145
+longitude = -82.091605
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41547"
+

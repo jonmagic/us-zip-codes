@@ -1,6 +1,8 @@
-zip_code = "12130"
-state = "NY"
 city = "Niverville"
 county = "Columbia"
-longitude = -73.666343
 latitude = 42.439983
+longitude = -73.666343
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12130"
+

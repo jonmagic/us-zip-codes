@@ -1,6 +1,8 @@
-zip_code = "85629"
-state = "AZ"
 city = "Sahuarita"
 county = "Pima"
-longitude = -110.895188
 latitude = 31.932883
+longitude = -110.895188
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85629"
+

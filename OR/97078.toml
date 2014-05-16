@@ -1,6 +1,8 @@
-zip_code = "97078"
-state = "OR"
 city = "Beaverton"
 county = "Washington"
-longitude = -122.789257
 latitude = 45.451976
+longitude = -122.789257
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97078"
+

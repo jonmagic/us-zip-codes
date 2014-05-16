@@ -1,6 +1,8 @@
-zip_code = "52247"
-state = "IA"
 city = "Kalona"
 county = "Washington"
-longitude = -91.698928
 latitude = 41.460979
+longitude = -91.698928
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52247"
+

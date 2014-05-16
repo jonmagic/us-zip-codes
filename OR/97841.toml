@@ -1,6 +1,8 @@
-zip_code = "97841"
-state = "OR"
 city = "Imbler"
 county = "Union"
-longitude = -117.957463
 latitude = 45.474915
+longitude = -117.957463
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97841"
+

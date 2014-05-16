@@ -1,6 +1,8 @@
-zip_code = "66760"
-state = "KS"
 city = "Opolis"
 county = "Crawford"
-longitude = -94.619885
 latitude = 37.34199
+longitude = -94.619885
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66760"
+

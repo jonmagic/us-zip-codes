@@ -1,6 +1,8 @@
-zip_code = "04757"
-state = "ME"
 city = "Mapleton"
 county = "Aroostook"
-longitude = -68.182061
 latitude = 47.007842
+longitude = -68.182061
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04757"
+

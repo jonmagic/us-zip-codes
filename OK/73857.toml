@@ -1,6 +1,8 @@
-zip_code = "73857"
-state = "OK"
 city = "Sharon"
 county = "Woodward"
-longitude = -99.33784
 latitude = 36.27581
+longitude = -99.33784
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73857"
+

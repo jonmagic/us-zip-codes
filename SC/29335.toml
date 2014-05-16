@@ -1,6 +1,8 @@
-zip_code = "29335"
-state = "SC"
 city = "Enoree"
 county = "Spartanburg"
-longitude = -81.882943
 latitude = 34.749045
+longitude = -81.882943
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29335"
+

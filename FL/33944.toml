@@ -1,6 +1,8 @@
-zip_code = "33944"
-state = "FL"
 city = "Palmdale"
 county = "Glades"
-longitude = -81.309114
 latitude = 26.946449
+longitude = -81.309114
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33944"
+

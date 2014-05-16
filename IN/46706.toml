@@ -1,6 +1,8 @@
-zip_code = "46706"
-state = "IN"
 city = "Auburn"
 county = "De Kalb"
-longitude = -85.027689
 latitude = 41.377758
+longitude = -85.027689
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46706"
+

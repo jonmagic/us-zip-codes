@@ -1,6 +1,8 @@
-zip_code = "73933"
-state = "OK"
 city = "Boise City"
 county = "Cimarron"
-longitude = -102.510484
 latitude = 36.742042
+longitude = -102.510484
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73933"
+

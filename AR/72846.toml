@@ -1,6 +1,8 @@
-zip_code = "72846"
-state = "AR"
 city = "Lamar"
 county = "Johnson"
-longitude = -93.369461
 latitude = 35.476393
+longitude = -93.369461
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72846"
+

@@ -1,6 +1,8 @@
-zip_code = "12742"
-state = "NY"
 city = "Harris"
 county = "Sullivan"
-longitude = -74.71536
 latitude = 41.710156
+longitude = -74.71536
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12742"
+

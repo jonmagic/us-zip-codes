@@ -1,6 +1,8 @@
-zip_code = "62643"
-state = "IL"
 city = "Hartsburg"
 county = "Logan"
-longitude = -89.47409
 latitude = 40.251211
+longitude = -89.47409
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62643"
+

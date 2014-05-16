@@ -1,6 +1,8 @@
-zip_code = "51045"
-state = "IA"
 city = "Oyens"
 county = "Plymouth"
-longitude = -96.056556
 latitude = 42.8199
+longitude = -96.056556
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51045"
+

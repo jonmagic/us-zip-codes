@@ -1,6 +1,8 @@
-zip_code = "37321"
-state = "TN"
 city = "Dayton"
 county = "Rhea"
-longitude = -84.979171
 latitude = 35.556414
+longitude = -84.979171
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37321"
+

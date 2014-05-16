@@ -1,6 +1,8 @@
-zip_code = "76225"
-state = "TX"
 city = "Alvord"
 county = "Wise"
-longitude = -97.708353
 latitude = 33.355828
+longitude = -97.708353
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76225"
+

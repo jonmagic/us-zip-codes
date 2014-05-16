@@ -1,6 +1,8 @@
-zip_code = "43436"
-state = "OH"
 city = "Isle Saint George"
 county = "Ottawa"
-longitude = -82.822697
 latitude = 41.715332
+longitude = -82.822697
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43436"
+

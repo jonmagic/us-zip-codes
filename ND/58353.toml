@@ -1,6 +1,8 @@
-zip_code = "58353"
-state = "ND"
 city = "Mylo"
 county = "Rolette"
-longitude = -99.838063
 latitude = 48.772022
+longitude = -99.838063
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58353"
+

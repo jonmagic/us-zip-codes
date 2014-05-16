@@ -1,6 +1,8 @@
-zip_code = "97920"
-state = "OR"
 city = "Westfall"
 county = "Malheur"
-longitude = -117.709928
 latitude = 43.966853
+longitude = -117.709928
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97920"
+

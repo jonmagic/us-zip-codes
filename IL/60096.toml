@@ -1,6 +1,8 @@
-zip_code = "60096"
-state = "IL"
 city = "Winthrop Harbor"
 county = "Lake"
-longitude = -87.834222
 latitude = 42.47832
+longitude = -87.834222
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60096"
+

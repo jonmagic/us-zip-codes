@@ -1,6 +1,8 @@
-zip_code = "31092"
-state = "GA"
 city = "Vienna"
 county = "Dooly"
-longitude = -83.791644
 latitude = 32.115981
+longitude = -83.791644
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31092"
+

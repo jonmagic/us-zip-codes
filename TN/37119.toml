@@ -1,6 +1,8 @@
-zip_code = "37119"
-state = "TN"
 city = "Mitchellville"
 county = "Sumner"
-longitude = -86.539028
 latitude = 36.631981
+longitude = -86.539028
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37119"
+

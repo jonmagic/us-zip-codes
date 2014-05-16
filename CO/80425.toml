@@ -1,6 +1,8 @@
-zip_code = "80425"
-state = "CO"
 city = "Buffalo Creek"
 county = "Jefferson"
-longitude = -105.254998
 latitude = 39.332179
+longitude = -105.254998
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80425"
+

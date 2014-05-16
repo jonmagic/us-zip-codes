@@ -1,6 +1,8 @@
-zip_code = "04853"
-state = "ME"
 city = "North Haven"
 county = "Knox"
-longitude = -68.855722
 latitude = 44.113472
+longitude = -68.855722
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04853"
+

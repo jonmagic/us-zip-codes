@@ -1,6 +1,8 @@
-zip_code = "59873"
-state = "MT"
 city = "Thompson Falls"
 county = "Sanders"
-longitude = -115.407291
 latitude = 47.744885
+longitude = -115.407291
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59873"
+

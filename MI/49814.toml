@@ -1,6 +1,8 @@
-zip_code = "49814"
-state = "MI"
 city = "Champion"
 county = "Marquette"
-longitude = -87.920429
 latitude = 46.466637
+longitude = -87.920429
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49814"
+

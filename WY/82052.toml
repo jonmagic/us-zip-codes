@@ -1,6 +1,8 @@
-zip_code = "82052"
-state = "WY"
 city = "Buford"
 county = "Albany"
-longitude = -105.325712
 latitude = 41.110146
+longitude = -105.325712
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82052"
+

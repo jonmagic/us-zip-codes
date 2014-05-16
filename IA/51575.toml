@@ -1,6 +1,8 @@
-zip_code = "51575"
-state = "IA"
 city = "Treynor"
 county = "Pottawattamie"
-longitude = -95.608582
 latitude = 41.230742
+longitude = -95.608582
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51575"
+

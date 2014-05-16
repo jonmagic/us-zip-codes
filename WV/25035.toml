@@ -1,6 +1,8 @@
-zip_code = "25035"
-state = "WV"
 city = "Cabin Creek"
 county = "Kanawha"
-longitude = -81.498415
 latitude = 38.193014
+longitude = -81.498415
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25035"
+

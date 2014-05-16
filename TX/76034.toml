@@ -1,6 +1,8 @@
-zip_code = "76034"
-state = "TX"
 city = "Colleyville"
 county = "Tarrant"
-longitude = -97.143409
 latitude = 32.88955
+longitude = -97.143409
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76034"
+

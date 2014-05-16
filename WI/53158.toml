@@ -1,6 +1,8 @@
-zip_code = "53158"
-state = "WI"
 city = "Pleasant Prairie"
 county = "Kenosha"
-longitude = -87.885546
 latitude = 42.52926
+longitude = -87.885546
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53158"
+

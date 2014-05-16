@@ -1,6 +1,8 @@
-zip_code = "94066"
-state = "CA"
 city = "San Bruno"
 county = "San Mateo"
-longitude = -122.436034
 latitude = 37.623159
+longitude = -122.436034
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94066"
+

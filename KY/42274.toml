@@ -1,6 +1,8 @@
-zip_code = "42274"
-state = "KY"
 city = "Rockfield"
 county = "Warren"
-longitude = -86.597869
 latitude = 36.924137
+longitude = -86.597869
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42274"
+

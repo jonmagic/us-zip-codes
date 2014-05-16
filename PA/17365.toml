@@ -1,6 +1,8 @@
-zip_code = "17365"
-state = "PA"
 city = "Wellsville"
 county = "York"
-longitude = -76.784811
 latitude = 40.018835
+longitude = -76.784811
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17365"
+

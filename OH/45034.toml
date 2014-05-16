@@ -1,6 +1,8 @@
-zip_code = "45034"
-state = "OH"
 city = "Kings Mills"
 county = "Warren"
-longitude = -84.247288
 latitude = 39.357963
+longitude = -84.247288
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45034"
+

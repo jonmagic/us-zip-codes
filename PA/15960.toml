@@ -1,6 +1,8 @@
-zip_code = "15960"
-state = "PA"
 city = "Twin Rocks"
 county = "Cambria"
-longitude = -78.861308
 latitude = 40.49963
+longitude = -78.861308
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15960"
+

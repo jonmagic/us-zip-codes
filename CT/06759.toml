@@ -1,6 +1,8 @@
-zip_code = "06759"
-state = "CT"
 city = "Litchfield"
 county = "Litchfield"
-longitude = -73.229787
 latitude = 41.791598
+longitude = -73.229787
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06759"
+

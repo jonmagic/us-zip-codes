@@ -1,6 +1,8 @@
-zip_code = "13825"
-state = "NY"
 city = "Otego"
 county = "Otsego"
-longitude = -75.148268
 latitude = 42.441165
+longitude = -75.148268
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13825"
+

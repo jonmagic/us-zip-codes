@@ -1,6 +1,8 @@
-zip_code = "83555"
-state = "ID"
 city = "Winchester"
 county = "Lewis"
-longitude = -116.544158
 latitude = 46.24243
+longitude = -116.544158
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83555"
+

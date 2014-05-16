@@ -1,6 +1,8 @@
-zip_code = "16117"
-state = "PA"
 city = "Ellwood City"
 county = "Lawrence"
-longitude = -80.363481
 latitude = 40.917478
+longitude = -80.363481
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16117"
+

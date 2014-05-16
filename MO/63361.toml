@@ -1,6 +1,8 @@
-zip_code = "63361"
-state = "MO"
 city = "Montgomery City"
 county = "Montgomery"
-longitude = -91.472754
 latitude = 38.94604
+longitude = -91.472754
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63361"
+

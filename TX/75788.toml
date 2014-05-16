@@ -1,6 +1,8 @@
-zip_code = "75788"
-state = "TX"
 city = "Sacul"
 county = "Nacogdoches"
-longitude = -94.918855
 latitude = 31.825389
+longitude = -94.918855
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75788"
+

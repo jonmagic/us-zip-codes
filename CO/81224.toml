@@ -1,6 +1,8 @@
-zip_code = "81224"
-state = "CO"
 city = "Crested Butte"
 county = "Gunnison"
-longitude = -106.94868
 latitude = 38.880713
+longitude = -106.94868
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81224"
+

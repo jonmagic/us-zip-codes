@@ -1,6 +1,8 @@
-zip_code = "59026"
-state = "MT"
 city = "Edgar"
 county = "Carbon"
-longitude = -108.848692
 latitude = 45.444257
+longitude = -108.848692
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59026"
+

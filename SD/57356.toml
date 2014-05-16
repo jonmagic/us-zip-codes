@@ -1,6 +1,8 @@
-zip_code = "57356"
-state = "SD"
 city = "Lake Andes"
 county = "Charles Mix"
-longitude = -98.527479
 latitude = 43.147572
+longitude = -98.527479
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57356"
+

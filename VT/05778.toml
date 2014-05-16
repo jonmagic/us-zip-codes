@@ -1,6 +1,8 @@
-zip_code = "05778"
-state = "VT"
 city = "Whiting"
 county = "Addison"
-longitude = -73.203001
 latitude = 43.893982
+longitude = -73.203001
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05778"
+

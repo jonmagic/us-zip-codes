@@ -1,6 +1,8 @@
-zip_code = "78164"
-state = "TX"
 city = "Yorktown"
 county = "De Witt"
-longitude = -97.504179
 latitude = 29.080478
+longitude = -97.504179
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78164"
+

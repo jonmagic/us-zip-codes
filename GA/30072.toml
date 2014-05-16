@@ -1,6 +1,8 @@
-zip_code = "30072"
-state = "GA"
 city = "Pine Lake"
 county = "Dekalb"
-longitude = -84.205269
 latitude = 33.790606
+longitude = -84.205269
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30072"
+

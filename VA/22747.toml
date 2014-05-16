@@ -1,6 +1,8 @@
-zip_code = "22747"
-state = "VA"
 city = "Washington"
 county = "Rappahannock"
-longitude = -78.174894
 latitude = 38.705616
+longitude = -78.174894
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22747"
+

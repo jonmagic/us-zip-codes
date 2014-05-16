@@ -1,6 +1,8 @@
-zip_code = "13839"
-state = "NY"
 city = "Sidney Center"
 county = "Delaware"
-longitude = -75.232488
 latitude = 42.217118
+longitude = -75.232488
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13839"
+

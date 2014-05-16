@@ -1,6 +1,8 @@
-zip_code = "32058"
-state = "FL"
 city = "Lawtey"
 county = "Bradford"
-longitude = -82.12691
 latitude = 30.047063
+longitude = -82.12691
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32058"
+

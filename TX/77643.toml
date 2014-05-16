@@ -1,6 +1,8 @@
-zip_code = "77643"
-state = "TX"
 city = "Port Arthur"
 county = "Jefferson"
-longitude = -93.867932
 latitude = 29.962144
+longitude = -93.867932
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77643"
+

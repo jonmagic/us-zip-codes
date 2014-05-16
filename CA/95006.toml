@@ -1,6 +1,8 @@
-zip_code = "95006"
-state = "CA"
 city = "Boulder Creek"
 county = "Santa Cruz"
-longitude = -122.130887
 latitude = 37.176595
+longitude = -122.130887
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95006"
+

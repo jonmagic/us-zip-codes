@@ -1,6 +1,8 @@
-zip_code = "16233"
-state = "PA"
 city = "Leeper"
 county = "Clarion"
-longitude = -79.273662
 latitude = 41.388826
+longitude = -79.273662
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16233"
+

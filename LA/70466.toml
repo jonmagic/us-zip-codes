@@ -1,6 +1,8 @@
-zip_code = "70466"
-state = "LA"
 city = "Tickfaw"
 county = "Tangipahoa"
-longitude = -90.439399
 latitude = 30.572825
+longitude = -90.439399
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70466"
+

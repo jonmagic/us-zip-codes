@@ -1,6 +1,8 @@
-zip_code = "16201"
-state = "PA"
 city = "Kittanning"
 county = "Armstrong"
-longitude = -79.419457
 latitude = 40.817197
+longitude = -79.419457
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16201"
+

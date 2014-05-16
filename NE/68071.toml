@@ -1,6 +1,8 @@
-zip_code = "68071"
-state = "NE"
 city = "Winnebago"
 county = "Thurston"
-longitude = -96.472847
 latitude = 42.238161
+longitude = -96.472847
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68071"
+

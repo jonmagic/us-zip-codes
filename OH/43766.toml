@@ -1,6 +1,8 @@
-zip_code = "43766"
-state = "OH"
 city = "New Straitsville"
 county = "Perry"
-longitude = -82.252758
 latitude = 39.619477
+longitude = -82.252758
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43766"
+

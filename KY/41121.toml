@@ -1,6 +1,8 @@
-zip_code = "41121"
-state = "KY"
 city = "Argillite"
 county = "Greenup"
-longitude = -82.872362
 latitude = 38.511714
+longitude = -82.872362
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41121"
+

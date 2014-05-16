@@ -1,6 +1,8 @@
-zip_code = "15632"
-state = "PA"
 city = "Export"
 county = "Westmoreland"
-longitude = -79.634789
 latitude = 40.429723
+longitude = -79.634789
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15632"
+

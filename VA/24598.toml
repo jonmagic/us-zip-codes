@@ -1,6 +1,8 @@
-zip_code = "24598"
-state = "VA"
 city = "Virgilina"
 county = "Halifax"
-longitude = -78.798686
 latitude = 36.616452
+longitude = -78.798686
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24598"
+

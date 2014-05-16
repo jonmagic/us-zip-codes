@@ -1,6 +1,8 @@
-zip_code = "02327"
-state = "MA"
 city = "Bryantville"
 county = "Plymouth"
-longitude = -70.827245
 latitude = 42.040708
+longitude = -70.827245
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02327"
+

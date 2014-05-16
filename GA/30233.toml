@@ -1,6 +1,8 @@
-zip_code = "30233"
-state = "GA"
 city = "Jackson"
 county = "Butts"
-longitude = -83.981112
 latitude = 33.319863
+longitude = -83.981112
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30233"
+

@@ -1,6 +1,8 @@
-zip_code = "50833"
-state = "IA"
 city = "Bedford"
 county = "Taylor"
-longitude = -94.690576
 latitude = 40.687613
+longitude = -94.690576
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50833"
+

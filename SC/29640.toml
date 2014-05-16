@@ -1,6 +1,8 @@
-zip_code = "29640"
-state = "SC"
 city = "Easley"
 county = "Pickens"
-longitude = -82.643754
 latitude = 34.843968
+longitude = -82.643754
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29640"
+

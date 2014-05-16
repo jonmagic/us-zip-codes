@@ -1,6 +1,8 @@
-zip_code = "16942"
-state = "PA"
 city = "Osceola"
 county = "Tioga"
-longitude = -77.347725
 latitude = 41.989264
+longitude = -77.347725
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16942"
+

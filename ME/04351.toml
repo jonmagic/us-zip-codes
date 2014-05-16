@@ -1,6 +1,8 @@
-zip_code = "04351"
-state = "ME"
 city = "Manchester"
 county = "Kennebec"
-longitude = -69.867001
 latitude = 44.358014
+longitude = -69.867001
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04351"
+

@@ -1,6 +1,8 @@
-zip_code = "13693"
-state = "NY"
 city = "Three Mile Bay"
 county = "Jefferson"
-longitude = -76.222374
 latitude = 44.029787
+longitude = -76.222374
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13693"
+

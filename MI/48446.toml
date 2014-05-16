@@ -1,6 +1,8 @@
-zip_code = "48446"
-state = "MI"
 city = "Lapeer"
 county = "Lapeer"
-longitude = -83.319558
 latitude = 43.121459
+longitude = -83.319558
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48446"
+

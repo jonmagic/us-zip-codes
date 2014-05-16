@@ -1,6 +1,8 @@
-zip_code = "70562"
-state = "LA"
 city = "New Iberia"
 county = "Iberia"
-longitude = -91.6331
 latitude = 29.739932
+longitude = -91.6331
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70562"
+

@@ -1,6 +1,8 @@
-zip_code = "01571"
-state = "MA"
 city = "Dudley"
 county = "Worcester"
-longitude = -71.937037
 latitude = 42.059189
+longitude = -71.937037
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01571"
+

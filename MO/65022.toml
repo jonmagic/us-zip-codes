@@ -1,6 +1,8 @@
-zip_code = "65022"
-state = "MO"
 city = "Cedar City"
 county = "Callaway"
-longitude = -92.178057
 latitude = 38.599175
+longitude = -92.178057
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65022"
+

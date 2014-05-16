@@ -1,6 +1,8 @@
-zip_code = "49650"
-state = "MI"
 city = "Lake Ann"
 county = "Benzie"
-longitude = -85.882364
 latitude = 44.722002
+longitude = -85.882364
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49650"
+

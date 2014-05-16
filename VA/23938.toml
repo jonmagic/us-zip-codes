@@ -1,6 +1,8 @@
-zip_code = "23938"
-state = "VA"
 city = "Dundas"
 county = "Lunenburg"
-longitude = -78.052391
 latitude = 36.918641
+longitude = -78.052391
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23938"
+

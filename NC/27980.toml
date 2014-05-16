@@ -1,6 +1,8 @@
-zip_code = "27980"
-state = "NC"
 city = "Tyner"
 county = "Chowan"
-longitude = -76.630775
 latitude = 36.249278
+longitude = -76.630775
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27980"
+

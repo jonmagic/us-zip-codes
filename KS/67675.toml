@@ -1,6 +1,8 @@
-zip_code = "67675"
-state = "KS"
 city = "Woodston"
 county = "Rooks"
-longitude = -99.244147
 latitude = 39.401699
+longitude = -99.244147
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67675"
+

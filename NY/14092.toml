@@ -1,6 +1,8 @@
-zip_code = "14092"
-state = "NY"
 city = "Lewiston"
 county = "Niagara"
-longitude = -78.989515
 latitude = 43.170805
+longitude = -78.989515
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14092"
+

@@ -1,6 +1,8 @@
-zip_code = "06795"
-state = "CT"
 city = "Watertown"
 county = "Litchfield"
-longitude = -73.162003
 latitude = 41.759427
+longitude = -73.162003
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06795"
+

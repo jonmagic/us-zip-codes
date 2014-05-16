@@ -1,6 +1,8 @@
-zip_code = "28702"
-state = "NC"
 city = "Almond"
 county = "Swain"
-longitude = -83.479397
 latitude = 35.409905
+longitude = -83.479397
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28702"
+

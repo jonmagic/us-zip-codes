@@ -1,6 +1,8 @@
-zip_code = "68375"
-state = "NE"
 city = "Hubbell"
 county = "Thayer"
-longitude = -97.497878
 latitude = 40.008563
+longitude = -97.497878
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68375"
+

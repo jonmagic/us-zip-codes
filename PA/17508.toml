@@ -1,6 +1,8 @@
-zip_code = "17508"
-state = "PA"
 city = "Brownstown"
 county = "Lancaster"
-longitude = -76.213013
 latitude = 40.125896
+longitude = -76.213013
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17508"
+

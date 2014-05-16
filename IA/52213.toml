@@ -1,6 +1,8 @@
-zip_code = "52213"
-state = "IA"
 city = "Center Point"
 county = "Linn"
-longitude = -91.744447
 latitude = 42.197041
+longitude = -91.744447
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52213"
+

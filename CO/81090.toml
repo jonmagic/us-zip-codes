@@ -1,6 +1,8 @@
-zip_code = "81090"
-state = "CO"
 city = "Walsh"
 county = "Baca"
-longitude = -102.265146
 latitude = 37.368042
+longitude = -102.265146
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81090"
+

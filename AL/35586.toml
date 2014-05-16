@@ -1,6 +1,8 @@
-zip_code = "35586"
-state = "AL"
 city = "Sulligent"
 county = "Lamar"
-longitude = -88.10667
 latitude = 33.854224
+longitude = -88.10667
+state = ""
+state_code_alpha2 = ""
+zip_code = "35586"
+

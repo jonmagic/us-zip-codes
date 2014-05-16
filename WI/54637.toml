@@ -1,6 +1,8 @@
-zip_code = "54637"
-state = "WI"
 city = "Hustler"
 county = "Juneau"
-longitude = -90.272928
 latitude = 43.88013
+longitude = -90.272928
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54637"
+

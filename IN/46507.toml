@@ -1,6 +1,8 @@
-zip_code = "46507"
-state = "IN"
 city = "Bristol"
 county = "Elkhart"
-longitude = -85.824845
 latitude = 41.712983
+longitude = -85.824845
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46507"
+

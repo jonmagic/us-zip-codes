@@ -1,6 +1,8 @@
-zip_code = "20818"
-state = "MD"
 city = "Cabin John"
 county = "Montgomery"
-longitude = -77.180053
 latitude = 39.128407
+longitude = -77.180053
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20818"
+

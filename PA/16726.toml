@@ -1,6 +1,8 @@
-zip_code = "16726"
-state = "PA"
 city = "Cyclone"
 county = "Mckean"
-longitude = -78.595669
 latitude = 41.818645
+longitude = -78.595669
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16726"
+

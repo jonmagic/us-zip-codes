@@ -1,6 +1,8 @@
-zip_code = "01518"
-state = "MA"
 city = "Fiskdale"
 county = "Worcester"
-longitude = -72.114045
 latitude = 42.106405
+longitude = -72.114045
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01518"
+

@@ -1,6 +1,8 @@
-zip_code = "61761"
-state = "IL"
 city = "Normal"
 county = "Mclean"
-longitude = -88.7989
 latitude = 40.530375
+longitude = -88.7989
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61761"
+

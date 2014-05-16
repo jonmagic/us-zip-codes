@@ -1,6 +1,8 @@
-zip_code = "70752"
-state = "LA"
 city = "Lakeland"
 county = "Pointe Coupee"
-longitude = -91.446813
 latitude = 30.575993
+longitude = -91.446813
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70752"
+

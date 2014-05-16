@@ -1,6 +1,8 @@
-zip_code = "93430"
-state = "CA"
 city = "Cayucos"
 county = "San Luis Obispo"
-longitude = -120.908608
 latitude = 35.473343
+longitude = -120.908608
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93430"
+

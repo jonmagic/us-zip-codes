@@ -1,6 +1,8 @@
-zip_code = "62278"
-state = "IL"
 city = "Red Bud"
 county = "Randolph"
-longitude = -89.818578
 latitude = 38.119605
+longitude = -89.818578
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62278"
+

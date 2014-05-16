@@ -1,6 +1,8 @@
-zip_code = "61752"
-state = "IL"
 city = "Le Roy"
 county = "Mclean"
-longitude = -88.849599
 latitude = 40.459553
+longitude = -88.849599
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61752"
+

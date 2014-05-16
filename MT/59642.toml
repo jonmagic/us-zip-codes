@@ -1,6 +1,8 @@
-zip_code = "59642"
-state = "MT"
 city = "Ringling"
 county = "Meagher"
-longitude = -110.965623
 latitude = 46.636196
+longitude = -110.965623
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59642"
+

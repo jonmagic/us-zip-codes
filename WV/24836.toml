@@ -1,6 +1,8 @@
-zip_code = "24836"
-state = "WV"
 city = "Gary"
 county = "Mcdowell"
-longitude = -81.554444
 latitude = 37.36584
+longitude = -81.554444
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24836"
+

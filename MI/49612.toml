@@ -1,6 +1,8 @@
-zip_code = "49612"
-state = "MI"
 city = "Alden"
 county = "Antrim"
-longitude = -85.232932
 latitude = 44.900641
+longitude = -85.232932
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49612"
+

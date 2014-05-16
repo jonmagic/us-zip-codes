@@ -1,6 +1,8 @@
-zip_code = "86301"
-state = "AZ"
 city = "Prescott"
 county = "Yavapai"
-longitude = -112.567165
 latitude = 34.620826
+longitude = -112.567165
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86301"
+

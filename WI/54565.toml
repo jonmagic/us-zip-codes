@@ -1,6 +1,8 @@
-zip_code = "54565"
-state = "WI"
 city = "Upson"
 county = "Iron"
-longitude = -90.434344
 latitude = 46.370313
+longitude = -90.434344
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54565"
+

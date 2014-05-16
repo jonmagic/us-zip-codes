@@ -1,6 +1,8 @@
-zip_code = "13778"
-state = "NY"
 city = "Greene"
 county = "Chenango"
-longitude = -75.734191
 latitude = 42.34013
+longitude = -75.734191
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13778"
+

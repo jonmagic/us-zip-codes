@@ -1,6 +1,8 @@
-zip_code = "58005"
-state = "ND"
 city = "Argusville"
 county = "Cass"
-longitude = -96.975162
 latitude = 47.057026
+longitude = -96.975162
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58005"
+

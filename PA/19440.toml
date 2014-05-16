@@ -1,6 +1,8 @@
-zip_code = "19440"
-state = "PA"
 city = "Hatfield"
 county = "Montgomery"
-longitude = -75.358491
 latitude = 40.28202
+longitude = -75.358491
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19440"
+

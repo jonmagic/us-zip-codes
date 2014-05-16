@@ -1,6 +1,8 @@
-zip_code = "37098"
-state = "TN"
 city = "Lyles"
 county = "Hickman"
-longitude = -87.312683
 latitude = 35.850248
+longitude = -87.312683
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37098"
+

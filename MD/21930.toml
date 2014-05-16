@@ -1,6 +1,8 @@
-zip_code = "21930"
-state = "MD"
 city = "Georgetown"
 county = "Cecil"
-longitude = -75.884544
 latitude = 39.366183
+longitude = -75.884544
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21930"
+

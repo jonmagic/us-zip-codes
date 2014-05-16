@@ -1,6 +1,8 @@
-zip_code = "95511"
-state = "CA"
 city = "Alderpoint"
 county = "Humboldt"
-longitude = -123.602161
 latitude = 40.13049
+longitude = -123.602161
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95511"
+

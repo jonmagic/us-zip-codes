@@ -1,6 +1,8 @@
-zip_code = "48655"
-state = "MI"
 city = "Saint Charles"
 county = "Saginaw"
-longitude = -84.180476
 latitude = 43.25677
+longitude = -84.180476
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48655"
+

@@ -1,6 +1,8 @@
-zip_code = "59636"
-state = "MT"
 city = "Fort Harrison"
 county = "Lewis And Clark"
-longitude = -112.121494
 latitude = 46.609677
+longitude = -112.121494
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59636"
+

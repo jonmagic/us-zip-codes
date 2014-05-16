@@ -1,6 +1,8 @@
-zip_code = "54128"
-state = "WI"
 city = "Gresham"
 county = "Shawano"
-longitude = -88.732786
 latitude = 44.806061
+longitude = -88.732786
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54128"
+

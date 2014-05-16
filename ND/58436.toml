@@ -1,6 +1,8 @@
-zip_code = "58436"
-state = "ND"
 city = "Ellendale"
 county = "Dickey"
-longitude = -98.620707
 latitude = 46.106141
+longitude = -98.620707
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58436"
+

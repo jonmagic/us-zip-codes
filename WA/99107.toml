@@ -1,6 +1,8 @@
-zip_code = "99107"
-state = "WA"
 city = "Boyds"
 county = "Ferry"
-longitude = -118.182764
 latitude = 48.84269
+longitude = -118.182764
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99107"
+

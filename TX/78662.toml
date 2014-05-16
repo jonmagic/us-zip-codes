@@ -1,6 +1,8 @@
-zip_code = "78662"
-state = "TX"
 city = "Red Rock"
 county = "Bastrop"
-longitude = -97.425923
 latitude = 29.955422
+longitude = -97.425923
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78662"
+

@@ -1,6 +1,8 @@
-zip_code = "14489"
-state = "NY"
 city = "Lyons"
 county = "Wayne"
-longitude = -76.970937
 latitude = 43.099263
+longitude = -76.970937
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14489"
+

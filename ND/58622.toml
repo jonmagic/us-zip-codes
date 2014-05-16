@@ -1,6 +1,8 @@
-zip_code = "58622"
-state = "ND"
 city = "Belfield"
 county = "Stark"
-longitude = -103.126111
 latitude = 46.819805
+longitude = -103.126111
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58622"
+

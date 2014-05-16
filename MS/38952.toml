@@ -1,6 +1,8 @@
-zip_code = "38952"
-state = "MS"
 city = "Schlater"
 county = "Leflore"
-longitude = -90.301026
 latitude = 33.627351
+longitude = -90.301026
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38952"
+

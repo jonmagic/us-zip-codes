@@ -1,6 +1,8 @@
-zip_code = "54543"
-state = "WI"
 city = "Mc Naughton"
 county = "Oneida"
-longitude = -89.557263
 latitude = 45.72293
+longitude = -89.557263
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54543"
+

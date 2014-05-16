@@ -1,6 +1,8 @@
-zip_code = "18946"
-state = "PA"
 city = "Pineville"
 county = "Bucks"
-longitude = -75.062204
 latitude = 40.271104
+longitude = -75.062204
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18946"
+

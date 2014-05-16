@@ -1,6 +1,8 @@
-zip_code = "70540"
-state = "LA"
 city = "Garden City"
 county = "Saint Mary"
-longitude = -91.466962
 latitude = 29.76327
+longitude = -91.466962
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70540"
+

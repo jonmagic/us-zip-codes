@@ -1,6 +1,8 @@
-zip_code = "72769"
-state = "AR"
 city = "Summers"
 county = "Washington"
-longitude = -94.49393
 latitude = 36.027589
+longitude = -94.49393
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72769"
+

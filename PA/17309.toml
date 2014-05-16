@@ -1,6 +1,8 @@
-zip_code = "17309"
-state = "PA"
 city = "Brogue"
 county = "York"
-longitude = -76.467305
 latitude = 39.860758
+longitude = -76.467305
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17309"
+

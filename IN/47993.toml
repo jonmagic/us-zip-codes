@@ -1,6 +1,8 @@
-zip_code = "47993"
-state = "IN"
 city = "Williamsport"
 county = "Warren"
-longitude = -87.403882
 latitude = 40.314172
+longitude = -87.403882
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47993"
+

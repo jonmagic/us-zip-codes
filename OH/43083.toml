@@ -1,6 +1,8 @@
-zip_code = "43083"
-state = "OH"
 city = "Westville"
 county = "Champaign"
-longitude = -83.83786
 latitude = 40.102185
+longitude = -83.83786
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43083"
+

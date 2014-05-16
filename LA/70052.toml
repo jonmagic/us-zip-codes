@@ -1,6 +1,8 @@
-zip_code = "70052"
-state = "LA"
 city = "Gramercy"
 county = "Saint James"
-longitude = -90.711904
 latitude = 30.048935
+longitude = -90.711904
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70052"
+

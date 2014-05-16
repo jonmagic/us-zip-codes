@@ -1,6 +1,8 @@
-zip_code = "54175"
-state = "WI"
 city = "Townsend"
 county = "Oconto"
-longitude = -88.605896
 latitude = 45.309457
+longitude = -88.605896
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54175"
+

@@ -1,6 +1,8 @@
-zip_code = "17944"
-state = "PA"
 city = "Llewellyn"
 county = "Schuylkill"
-longitude = -76.2819
 latitude = 40.67578
+longitude = -76.2819
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17944"
+

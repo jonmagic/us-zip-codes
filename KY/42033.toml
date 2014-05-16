@@ -1,6 +1,8 @@
-zip_code = "42033"
-state = "KY"
 city = "Crayne"
 county = "Crittenden"
-longitude = -88.079607
 latitude = 37.336533
+longitude = -88.079607
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42033"
+

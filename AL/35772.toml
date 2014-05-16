@@ -1,6 +1,8 @@
-zip_code = "35772"
-state = "AL"
 city = "Stevenson"
 county = "Jackson"
-longitude = -85.871317
 latitude = 34.856233
+longitude = -85.871317
+state = ""
+state_code_alpha2 = ""
+zip_code = "35772"
+

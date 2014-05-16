@@ -1,6 +1,8 @@
-zip_code = "63779"
-state = "MO"
 city = "Pocahontas"
 county = "Cape Girardeau"
-longitude = -89.639595
 latitude = 37.500656
+longitude = -89.639595
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63779"
+

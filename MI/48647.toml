@@ -1,6 +1,8 @@
-zip_code = "48647"
-state = "MI"
 city = "Mio"
 county = "Oscoda"
-longitude = -84.089518
 latitude = 44.662952
+longitude = -84.089518
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48647"
+

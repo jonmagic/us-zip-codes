@@ -1,6 +1,8 @@
-zip_code = "13054"
-state = "NY"
 city = "Durhamville"
 county = "Oneida"
-longitude = -75.559605
 latitude = 43.14548
+longitude = -75.559605
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13054"
+

@@ -1,6 +1,8 @@
-zip_code = "56519"
-state = "MN"
 city = "Borup"
 county = "Norman"
-longitude = -96.500374
 latitude = 47.201971
+longitude = -96.500374
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56519"
+

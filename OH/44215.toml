@@ -1,6 +1,8 @@
-zip_code = "44215"
-state = "OH"
 city = "Chippewa Lake"
 county = "Medina"
-longitude = -81.901693
 latitude = 41.065342
+longitude = -81.901693
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44215"
+

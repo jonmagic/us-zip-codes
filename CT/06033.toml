@@ -1,6 +1,8 @@
-zip_code = "06033"
-state = "CT"
 city = "Glastonbury"
 county = "Hartford"
-longitude = -72.539332
 latitude = 41.703451
+longitude = -72.539332
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06033"
+

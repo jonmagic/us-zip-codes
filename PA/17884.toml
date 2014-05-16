@@ -1,6 +1,8 @@
-zip_code = "17884"
-state = "PA"
 city = "Washingtonville"
 county = "Montour"
-longitude = -76.653633
 latitude = 41.027277
+longitude = -76.653633
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17884"
+

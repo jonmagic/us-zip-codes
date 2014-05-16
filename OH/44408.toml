@@ -1,6 +1,8 @@
-zip_code = "44408"
-state = "OH"
 city = "Columbiana"
 county = "Columbiana"
-longitude = -80.730023
 latitude = 40.857858
+longitude = -80.730023
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44408"
+

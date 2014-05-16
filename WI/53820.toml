@@ -1,6 +1,8 @@
-zip_code = "53820"
-state = "WI"
 city = "Potosi"
 county = "Grant"
-longitude = -90.731654
 latitude = 42.692445
+longitude = -90.731654
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53820"
+

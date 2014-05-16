@@ -1,6 +1,8 @@
-zip_code = "43017"
-state = "OH"
 city = "Dublin"
 county = "Franklin"
-longitude = -82.814456
 latitude = 40.076041
+longitude = -82.814456
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43017"
+

@@ -1,6 +1,8 @@
-zip_code = "98528"
-state = "WA"
 city = "Belfair"
 county = "Mason"
-longitude = -122.928877
 latitude = 47.432465
+longitude = -122.928877
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98528"
+

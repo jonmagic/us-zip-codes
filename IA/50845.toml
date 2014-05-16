@@ -1,6 +1,8 @@
-zip_code = "50845"
-state = "IA"
 city = "Diagonal"
 county = "Ringgold"
-longitude = -94.292656
 latitude = 40.727999
+longitude = -94.292656
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50845"
+

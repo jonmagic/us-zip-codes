@@ -1,6 +1,8 @@
-zip_code = "49240"
-state = "MI"
 city = "Grass Lake"
 county = "Jackson"
-longitude = -84.344285
 latitude = 42.258533
+longitude = -84.344285
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49240"
+

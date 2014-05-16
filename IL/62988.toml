@@ -1,6 +1,8 @@
-zip_code = "62988"
-state = "IL"
 city = "Tamms"
 county = "Alexander"
-longitude = -89.269752
 latitude = 37.239072
+longitude = -89.269752
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62988"
+

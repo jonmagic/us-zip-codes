@@ -1,6 +1,8 @@
-zip_code = "61030"
-state = "IL"
 city = "Forreston"
 county = "Ogle"
-longitude = -89.312592
 latitude = 42.120046
+longitude = -89.312592
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61030"
+

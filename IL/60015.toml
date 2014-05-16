@@ -1,6 +1,8 @@
-zip_code = "60015"
-state = "IL"
 city = "Deerfield"
 county = "Lake"
-longitude = -87.866818
 latitude = 42.178175
+longitude = -87.866818
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60015"
+

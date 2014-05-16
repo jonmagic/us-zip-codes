@@ -1,6 +1,8 @@
-zip_code = "60002"
-state = "IL"
 city = "Antioch"
 county = "Lake"
-longitude = -88.075733
 latitude = 42.451419
+longitude = -88.075733
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60002"
+

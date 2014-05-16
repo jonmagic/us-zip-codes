@@ -1,6 +1,8 @@
-zip_code = "07435"
-state = "NJ"
 city = "Newfoundland"
 county = "Passaic"
-longitude = -74.439356
 latitude = 41.053096
+longitude = -74.439356
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07435"
+

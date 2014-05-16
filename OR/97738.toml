@@ -1,6 +1,8 @@
-zip_code = "97738"
-state = "OR"
 city = "Hines"
 county = "Harney"
-longitude = -119.081558
 latitude = 43.555768
+longitude = -119.081558
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97738"
+

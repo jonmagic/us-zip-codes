@@ -1,6 +1,8 @@
-zip_code = "77989"
-state = "TX"
 city = "Thomaston"
 county = "De Witt"
-longitude = -97.153868
 latitude = 28.997449
+longitude = -97.153868
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77989"
+

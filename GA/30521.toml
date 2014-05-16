@@ -1,6 +1,8 @@
-zip_code = "30521"
-state = "GA"
 city = "Carnesville"
 county = "Franklin"
-longitude = -83.254745
 latitude = 34.363122
+longitude = -83.254745
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30521"
+

@@ -1,6 +1,8 @@
-zip_code = "42023"
-state = "KY"
 city = "Bardwell"
 county = "Carlisle"
-longitude = -89.006956
 latitude = 36.87522
+longitude = -89.006956
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42023"
+

@@ -1,6 +1,8 @@
-zip_code = "98252"
-state = "WA"
 city = "Granite Falls"
 county = "Snohomish"
-longitude = -121.798489
 latitude = 48.074894
+longitude = -121.798489
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98252"
+

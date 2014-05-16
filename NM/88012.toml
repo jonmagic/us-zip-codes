@@ -1,6 +1,8 @@
-zip_code = "88012"
-state = "NM"
 city = "Las Cruces"
 county = "Dona Ana"
-longitude = -106.604677
 latitude = 32.329638
+longitude = -106.604677
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88012"
+

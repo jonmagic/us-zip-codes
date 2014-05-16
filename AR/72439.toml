@@ -1,6 +1,8 @@
-zip_code = "72439"
-state = "AR"
 city = "Light"
 county = "Greene"
-longitude = -90.748876
 latitude = 36.06805
+longitude = -90.748876
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72439"
+

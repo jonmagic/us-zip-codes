@@ -1,6 +1,8 @@
-zip_code = "50155"
-state = "IA"
 city = "Macksburg"
 county = "Madison"
-longitude = -94.182509
 latitude = 41.210365
+longitude = -94.182509
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50155"
+

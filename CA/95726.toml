@@ -1,6 +1,8 @@
-zip_code = "95726"
-state = "CA"
 city = "Pollock Pines"
 county = "El Dorado"
-longitude = -120.481278
 latitude = 38.766276
+longitude = -120.481278
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95726"
+

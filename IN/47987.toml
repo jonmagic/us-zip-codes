@@ -1,6 +1,8 @@
-zip_code = "47987"
-state = "IN"
 city = "Veedersburg"
 county = "Fountain"
-longitude = -87.228444
 latitude = 40.110318
+longitude = -87.228444
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47987"
+

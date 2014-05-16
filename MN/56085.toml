@@ -1,6 +1,8 @@
-zip_code = "56085"
-state = "MN"
 city = "Sleepy Eye"
 county = "Brown"
-longitude = -94.777163
 latitude = 44.317309
+longitude = -94.777163
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56085"
+

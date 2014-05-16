@@ -1,6 +1,8 @@
-zip_code = "70042"
-state = "LA"
 city = "Carlisle"
 county = "Plaquemines"
-longitude = -89.477464
 latitude = 29.380066
+longitude = -89.477464
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70042"
+

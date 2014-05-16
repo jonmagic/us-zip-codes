@@ -1,6 +1,8 @@
-zip_code = "92603"
-state = "CA"
 city = "Irvine"
 county = "Orange"
-longitude = -117.764637
 latitude = 33.648871
+longitude = -117.764637
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92603"
+

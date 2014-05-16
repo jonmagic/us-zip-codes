@@ -1,6 +1,8 @@
-zip_code = "76651"
-state = "TX"
 city = "Italy"
 county = "Ellis"
-longitude = -96.873872
 latitude = 32.189616
+longitude = -96.873872
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76651"
+

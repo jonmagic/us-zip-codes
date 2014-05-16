@@ -1,6 +1,8 @@
-zip_code = "48041"
-state = "MI"
 city = "Memphis"
 county = "Saint Clair"
-longitude = -82.804636
 latitude = 42.941032
+longitude = -82.804636
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48041"
+

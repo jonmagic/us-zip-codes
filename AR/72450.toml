@@ -1,6 +1,8 @@
-zip_code = "72450"
-state = "AR"
 city = "Paragould"
 county = "Greene"
-longitude = -90.551092
 latitude = 36.113222
+longitude = -90.551092
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72450"
+

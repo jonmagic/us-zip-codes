@@ -1,6 +1,8 @@
-zip_code = "17071"
-state = "PA"
 city = "New Germantown"
 county = "Perry"
-longitude = -77.292578
 latitude = 40.406766
+longitude = -77.292578
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17071"
+

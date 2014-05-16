@@ -1,6 +1,8 @@
-zip_code = "98466"
-state = "WA"
 city = "Tacoma"
 county = "Pierce"
-longitude = -122.53936
 latitude = 47.243075
+longitude = -122.53936
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98466"
+

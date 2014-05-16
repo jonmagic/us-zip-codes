@@ -1,6 +1,8 @@
-zip_code = "66932"
-state = "KS"
 city = "Athol"
 county = "Smith"
-longitude = -98.919297
 latitude = 39.766784
+longitude = -98.919297
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66932"
+

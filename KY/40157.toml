@@ -1,6 +1,8 @@
-zip_code = "40157"
-state = "KY"
 city = "Payneville"
 county = "Meade"
-longitude = -86.355493
 latitude = 38.022328
+longitude = -86.355493
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40157"
+

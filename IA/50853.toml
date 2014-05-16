@@ -1,6 +1,8 @@
-zip_code = "50853"
-state = "IA"
 city = "Massena"
 county = "Cass"
-longitude = -94.784375
 latitude = 41.229493
+longitude = -94.784375
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50853"
+

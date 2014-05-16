@@ -1,6 +1,8 @@
-zip_code = "72313"
-state = "AR"
 city = "Bassett"
 county = "Mississippi"
-longitude = -90.028429
 latitude = 35.712249
+longitude = -90.028429
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72313"
+

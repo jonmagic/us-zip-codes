@@ -1,6 +1,8 @@
-zip_code = "65609"
-state = "MO"
 city = "Bakersfield"
 county = "Ozark"
-longitude = -92.144958
 latitude = 36.52365
+longitude = -92.144958
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65609"
+

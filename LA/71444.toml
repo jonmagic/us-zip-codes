@@ -1,6 +1,8 @@
-zip_code = "71444"
-state = "LA"
 city = "Lacamp"
 county = "Vernon"
-longitude = -93.104943
 latitude = 31.120174
+longitude = -93.104943
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71444"
+

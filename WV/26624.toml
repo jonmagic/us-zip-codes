@@ -1,6 +1,8 @@
-zip_code = "26624"
-state = "WV"
 city = "Gassaway"
 county = "Braxton"
-longitude = -80.687337
 latitude = 38.718522
+longitude = -80.687337
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26624"
+

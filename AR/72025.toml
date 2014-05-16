@@ -1,6 +1,8 @@
-zip_code = "72025"
-state = "AR"
 city = "Casa"
 county = "Perry"
-longitude = -92.923191
 latitude = 34.943809
+longitude = -92.923191
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72025"
+

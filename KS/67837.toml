@@ -1,6 +1,8 @@
-zip_code = "67837"
-state = "KS"
 city = "Copeland"
 county = "Gray"
-longitude = -100.505348
 latitude = 37.738785
+longitude = -100.505348
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67837"
+

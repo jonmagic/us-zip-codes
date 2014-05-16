@@ -1,6 +1,8 @@
-zip_code = "30263"
-state = "GA"
 city = "Newnan"
 county = "Coweta"
-longitude = -84.819397
 latitude = 33.369595
+longitude = -84.819397
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30263"
+

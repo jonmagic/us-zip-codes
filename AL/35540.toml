@@ -1,6 +1,8 @@
-zip_code = "35540"
-state = "AL"
 city = "Addison"
 county = "Winston"
-longitude = -87.358538
 latitude = 34.229897
+longitude = -87.358538
+state = ""
+state_code_alpha2 = ""
+zip_code = "35540"
+

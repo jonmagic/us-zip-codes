@@ -1,6 +1,8 @@
-zip_code = "19933"
-state = "DE"
 city = "Bridgeville"
 county = "Sussex"
-longitude = -75.330023
 latitude = 38.660295
+longitude = -75.330023
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19933"
+

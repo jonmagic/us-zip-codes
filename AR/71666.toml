@@ -1,6 +1,8 @@
-zip_code = "71666"
-state = "AR"
 city = "Mc Gehee"
 county = "Desha"
-longitude = -91.214054
 latitude = 33.818318
+longitude = -91.214054
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71666"
+

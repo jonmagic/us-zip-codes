@@ -1,6 +1,8 @@
-zip_code = "28734"
-state = "NC"
 city = "Franklin"
 county = "Macon"
-longitude = -83.422421
 latitude = 35.155829
+longitude = -83.422421
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28734"
+

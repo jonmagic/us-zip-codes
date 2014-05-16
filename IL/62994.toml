@@ -1,6 +1,8 @@
-zip_code = "62994"
-state = "IL"
 city = "Vergennes"
 county = "Jackson"
-longitude = -89.410304
 latitude = 37.907239
+longitude = -89.410304
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62994"
+

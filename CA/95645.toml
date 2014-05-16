@@ -1,6 +1,8 @@
-zip_code = "95645"
-state = "CA"
 city = "Knights Landing"
 county = "Yolo"
-longitude = -121.772472
 latitude = 38.858483
+longitude = -121.772472
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95645"
+

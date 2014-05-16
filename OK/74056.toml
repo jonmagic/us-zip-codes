@@ -1,6 +1,8 @@
-zip_code = "74056"
-state = "OK"
 city = "Pawhuska"
 county = "Osage"
-longitude = -96.324443
 latitude = 36.620131
+longitude = -96.324443
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74056"
+

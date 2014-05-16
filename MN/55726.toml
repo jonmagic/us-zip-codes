@@ -1,6 +1,8 @@
-zip_code = "55726"
-state = "MN"
 city = "Cromwell"
 county = "Carlton"
-longitude = -92.836499
 latitude = 46.654061
+longitude = -92.836499
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55726"
+

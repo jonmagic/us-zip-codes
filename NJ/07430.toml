@@ -1,6 +1,8 @@
-zip_code = "07430"
-state = "NJ"
 city = "Mahwah"
 county = "Bergen"
-longitude = -74.172766
 latitude = 41.053446
+longitude = -74.172766
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07430"
+

@@ -1,6 +1,8 @@
-zip_code = "62923"
-state = "IL"
 city = "Cypress"
 county = "Johnson"
-longitude = -88.974743
 latitude = 37.365007
+longitude = -88.974743
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62923"
+

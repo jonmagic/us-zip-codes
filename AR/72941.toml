@@ -1,6 +1,8 @@
-zip_code = "72941"
-state = "AR"
 city = "Lavaca"
 county = "Sebastian"
-longitude = -94.18783
 latitude = 35.241045
+longitude = -94.18783
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72941"
+

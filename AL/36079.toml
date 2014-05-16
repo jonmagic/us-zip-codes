@@ -1,6 +1,8 @@
-zip_code = "36079"
-state = "AL"
 city = "Troy"
 county = "Pike"
-longitude = -85.954983
 latitude = 31.802786
+longitude = -85.954983
+state = ""
+state_code_alpha2 = ""
+zip_code = "36079"
+

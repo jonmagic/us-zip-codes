@@ -1,6 +1,8 @@
-zip_code = "48381"
-state = "MI"
 city = "Milford"
 county = "Oakland"
-longitude = -83.579098
 latitude = 42.554322
+longitude = -83.579098
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48381"
+

@@ -1,6 +1,8 @@
-zip_code = "36776"
-state = "AL"
 city = "Sawyerville"
 county = "Hale"
-longitude = -87.705829
 latitude = 32.755975
+longitude = -87.705829
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36776"
+

@@ -1,6 +1,8 @@
-zip_code = "16644"
-state = "PA"
 city = "Glasgow"
 county = "Cambria"
-longitude = -78.463679
 latitude = 40.717845
+longitude = -78.463679
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16644"
+

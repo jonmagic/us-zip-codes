@@ -1,6 +1,8 @@
-zip_code = "26187"
-state = "WV"
 city = "Williamstown"
 county = "Wood"
-longitude = -81.455899
 latitude = 39.367796
+longitude = -81.455899
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26187"
+

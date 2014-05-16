@@ -1,6 +1,8 @@
-zip_code = "72322"
-state = "AR"
 city = "Caldwell"
 county = "Saint Francis"
-longitude = -90.81081
 latitude = 35.08844
+longitude = -90.81081
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72322"
+

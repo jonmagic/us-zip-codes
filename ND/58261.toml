@@ -1,6 +1,8 @@
-zip_code = "58261"
-state = "ND"
 city = "Minto"
 county = "Walsh"
-longitude = -97.314367
 latitude = 48.25997
+longitude = -97.314367
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58261"
+

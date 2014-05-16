@@ -1,6 +1,8 @@
-zip_code = "27592"
-state = "NC"
 city = "Willow Spring"
 county = "Wake"
-longitude = -78.534929
 latitude = 35.67238
+longitude = -78.534929
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27592"
+

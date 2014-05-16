@@ -1,6 +1,8 @@
-zip_code = "59242"
-state = "MT"
 city = "Homestead"
 county = "Roosevelt"
-longitude = -104.813996
 latitude = 48.292043
+longitude = -104.813996
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59242"
+

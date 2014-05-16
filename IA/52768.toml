@@ -1,6 +1,8 @@
-zip_code = "52768"
-state = "IA"
 city = "Princeton"
 county = "Scott"
-longitude = -90.394692
 latitude = 41.69565
+longitude = -90.394692
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52768"
+

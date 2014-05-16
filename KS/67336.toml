@@ -1,6 +1,8 @@
-zip_code = "67336"
-state = "KS"
 city = "Chetopa"
 county = "Labette"
-longitude = -95.218047
 latitude = 37.04542
+longitude = -95.218047
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67336"
+

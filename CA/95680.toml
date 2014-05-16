@@ -1,6 +1,8 @@
-zip_code = "95680"
-state = "CA"
 city = "Ryde"
 county = "Sacramento"
-longitude = -121.568427
 latitude = 38.232898
+longitude = -121.568427
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95680"
+

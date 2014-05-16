@@ -1,6 +1,8 @@
-zip_code = "32053"
-state = "FL"
 city = "Jennings"
 county = "Hamilton"
-longitude = -83.148179
 latitude = 30.555263
+longitude = -83.148179
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32053"
+

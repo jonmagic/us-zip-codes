@@ -1,6 +1,8 @@
-zip_code = "02458"
-state = "MA"
 city = "Newton"
 county = "Middlesex"
-longitude = -71.208399
 latitude = 42.385096
+longitude = -71.208399
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02458"
+

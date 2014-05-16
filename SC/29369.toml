@@ -1,6 +1,8 @@
-zip_code = "29369"
-state = "SC"
 city = "Moore"
 county = "Spartanburg"
-longitude = -82.02732
 latitude = 34.970097
+longitude = -82.02732
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29369"
+

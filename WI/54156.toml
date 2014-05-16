@@ -1,6 +1,8 @@
-zip_code = "54156"
-state = "WI"
 city = "Pembine"
 county = "Marinette"
-longitude = -87.904337
 latitude = 45.392437
+longitude = -87.904337
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54156"
+

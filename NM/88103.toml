@@ -1,6 +1,8 @@
-zip_code = "88103"
-state = "NM"
 city = "Cannon Afb"
 county = "Curry"
-longitude = -103.326445
 latitude = 34.401452
+longitude = -103.326445
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88103"
+

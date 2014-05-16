@@ -1,6 +1,8 @@
-zip_code = "32189"
-state = "FL"
 city = "Satsuma"
 county = "Putnam"
-longitude = -81.633608
 latitude = 29.536502
+longitude = -81.633608
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32189"
+

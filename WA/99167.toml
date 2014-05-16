@@ -1,6 +1,8 @@
-zip_code = "99167"
-state = "WA"
 city = "Rice"
 county = "Stevens"
-longitude = -118.100693
 latitude = 48.42424
+longitude = -118.100693
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99167"
+

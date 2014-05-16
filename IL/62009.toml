@@ -1,6 +1,8 @@
-zip_code = "62009"
-state = "IL"
 city = "Benld"
 county = "Macoupin"
-longitude = -89.940021
 latitude = 39.120709
+longitude = -89.940021
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62009"
+

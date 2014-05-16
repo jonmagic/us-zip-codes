@@ -1,6 +1,8 @@
-zip_code = "37010"
-state = "TN"
 city = "Adams"
 county = "Robertson"
-longitude = -87.018127
 latitude = 36.556825
+longitude = -87.018127
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37010"
+

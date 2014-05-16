@@ -1,6 +1,8 @@
-zip_code = "52649"
-state = "IA"
 city = "Salem"
 county = "Henry"
-longitude = -91.610895
 latitude = 40.857375
+longitude = -91.610895
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52649"
+

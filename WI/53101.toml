@@ -1,6 +1,8 @@
-zip_code = "53101"
-state = "WI"
 city = "Bassett"
 county = "Kenosha"
-longitude = -87.662878
 latitude = 42.58098
+longitude = -87.662878
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53101"
+

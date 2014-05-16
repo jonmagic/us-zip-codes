@@ -1,6 +1,8 @@
-zip_code = "89007"
-state = "NV"
 city = "Bunkerville"
 county = "Clark"
-longitude = -114.128106
 latitude = 36.768399
+longitude = -114.128106
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89007"
+

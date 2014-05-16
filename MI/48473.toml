@@ -1,6 +1,8 @@
-zip_code = "48473"
-state = "MI"
 city = "Swartz Creek"
 county = "Genesee"
-longitude = -83.812575
 latitude = 42.950323
+longitude = -83.812575
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48473"
+

@@ -1,6 +1,8 @@
-zip_code = "78124"
-state = "TX"
 city = "Marion"
 county = "Guadalupe"
-longitude = -98.130236
 latitude = 29.567879
+longitude = -98.130236
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78124"
+

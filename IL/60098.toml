@@ -1,6 +1,8 @@
-zip_code = "60098"
-state = "IL"
 city = "Woodstock"
 county = "Mchenry"
-longitude = -88.462832
 latitude = 42.320271
+longitude = -88.462832
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60098"
+

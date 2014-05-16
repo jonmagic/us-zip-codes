@@ -1,6 +1,8 @@
-zip_code = "93267"
-state = "CA"
 city = "Strathmore"
 county = "Tulare"
-longitude = -119.039111
 latitude = 36.137375
+longitude = -119.039111
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93267"
+

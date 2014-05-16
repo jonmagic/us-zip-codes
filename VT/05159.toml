@@ -1,6 +1,8 @@
-zip_code = "05159"
-state = "VT"
 city = "Westminster Station"
 county = "Windham"
-longitude = -72.456492
 latitude = 43.093972
+longitude = -72.456492
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05159"
+

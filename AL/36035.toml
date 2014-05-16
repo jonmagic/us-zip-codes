@@ -1,6 +1,8 @@
-zip_code = "36035"
-state = "AL"
 city = "Goshen"
 county = "Pike"
-longitude = -86.092603
 latitude = 31.810302
+longitude = -86.092603
+state = ""
+state_code_alpha2 = ""
+zip_code = "36035"
+

@@ -1,6 +1,8 @@
-zip_code = "77991"
-state = "TX"
 city = "Vanderbilt"
 county = "Jackson"
-longitude = -96.581962
 latitude = 28.845526
+longitude = -96.581962
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77991"
+

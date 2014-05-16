@@ -1,6 +1,8 @@
-zip_code = "30315"
-state = "GA"
 city = "Atlanta"
 county = "Fulton"
-longitude = -84.383725
 latitude = 33.697257
+longitude = -84.383725
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30315"
+

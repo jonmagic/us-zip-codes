@@ -1,6 +1,8 @@
-zip_code = "73008"
-state = "OK"
 city = "Bethany"
 county = "Oklahoma"
-longitude = -97.498858
 latitude = 35.576674
+longitude = -97.498858
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73008"
+

@@ -1,6 +1,8 @@
-zip_code = "66739"
-state = "KS"
 city = "Galena"
 county = "Cherokee"
-longitude = -94.833896
 latitude = 37.15456
+longitude = -94.833896
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66739"
+

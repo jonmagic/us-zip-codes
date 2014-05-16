@@ -1,6 +1,8 @@
-zip_code = "15834"
-state = "PA"
 city = "Emporium"
 county = "Cameron"
-longitude = -78.23157
 latitude = 41.51031
+longitude = -78.23157
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15834"
+

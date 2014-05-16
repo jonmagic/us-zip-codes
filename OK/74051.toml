@@ -1,6 +1,8 @@
-zip_code = "74051"
-state = "OK"
 city = "Ochelata"
 county = "Washington"
-longitude = -95.951734
 latitude = 36.624717
+longitude = -95.951734
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74051"
+

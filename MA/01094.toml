@@ -1,6 +1,8 @@
-zip_code = "01094"
-state = "MA"
 city = "Wheelwright"
 county = "Worcester"
-longitude = -72.140846
 latitude = 42.358201
+longitude = -72.140846
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01094"
+

@@ -1,6 +1,8 @@
-zip_code = "08048"
-state = "NJ"
 city = "Lumberton"
 county = "Burlington"
-longitude = -74.80007
 latitude = 39.962299
+longitude = -74.80007
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08048"
+

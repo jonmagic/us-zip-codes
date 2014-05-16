@@ -1,6 +1,8 @@
-zip_code = "06781"
-state = "CT"
 city = "Pequabuck"
 county = "Litchfield"
-longitude = -72.99145
 latitude = 41.669898
+longitude = -72.99145
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06781"
+

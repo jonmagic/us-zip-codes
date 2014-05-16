@@ -1,6 +1,8 @@
-zip_code = "07653"
-state = "NJ"
 city = "Paramus"
 county = "Bergen"
-longitude = -74.083231
 latitude = 40.948054
+longitude = -74.083231
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07653"
+

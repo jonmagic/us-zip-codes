@@ -1,6 +1,8 @@
-zip_code = "67667"
-state = "KS"
 city = "Schoenchen"
 county = "Ellis"
-longitude = -99.332221
 latitude = 38.712772
+longitude = -99.332221
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67667"
+

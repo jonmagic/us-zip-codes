@@ -1,6 +1,8 @@
-zip_code = "43469"
-state = "OH"
 city = "Woodville"
 county = "Sandusky"
-longitude = -83.31686
 latitude = 41.42021
+longitude = -83.31686
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43469"
+

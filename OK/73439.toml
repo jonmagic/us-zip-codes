@@ -1,6 +1,8 @@
-zip_code = "73439"
-state = "OK"
 city = "Kingston"
 county = "Marshall"
-longitude = -96.698204
 latitude = 33.974518
+longitude = -96.698204
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73439"
+

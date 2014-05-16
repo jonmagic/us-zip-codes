@@ -1,6 +1,8 @@
-zip_code = "97906"
-state = "OR"
 city = "Harper"
 county = "Malheur"
-longitude = -117.626175
 latitude = 43.830263
+longitude = -117.626175
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97906"
+

@@ -1,6 +1,8 @@
-zip_code = "61864"
-state = "IL"
 city = "Philo"
 county = "Champaign"
-longitude = -88.151394
 latitude = 40.011073
+longitude = -88.151394
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61864"
+

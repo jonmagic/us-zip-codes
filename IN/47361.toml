@@ -1,6 +1,8 @@
-zip_code = "47361"
-state = "IN"
 city = "Mount Summit"
 county = "Henry"
-longitude = -85.319923
 latitude = 40.001295
+longitude = -85.319923
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47361"
+

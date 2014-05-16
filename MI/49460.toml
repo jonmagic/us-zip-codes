@@ -1,6 +1,8 @@
-zip_code = "49460"
-state = "MI"
 city = "West Olive"
 county = "Ottawa"
-longitude = -86.095232
 latitude = 42.929518
+longitude = -86.095232
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49460"
+

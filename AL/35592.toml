@@ -1,6 +1,8 @@
-zip_code = "35592"
-state = "AL"
 city = "Vernon"
 county = "Lamar"
-longitude = -88.086009
 latitude = 33.732286
+longitude = -88.086009
+state = ""
+state_code_alpha2 = ""
+zip_code = "35592"
+

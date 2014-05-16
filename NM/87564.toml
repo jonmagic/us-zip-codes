@@ -1,6 +1,8 @@
-zip_code = "87564"
-state = "NM"
 city = "San Cristobal"
 county = "Taos"
-longitude = -105.63093
 latitude = 36.619304
+longitude = -105.63093
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87564"
+

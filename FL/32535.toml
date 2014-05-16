@@ -1,6 +1,8 @@
-zip_code = "32535"
-state = "FL"
 city = "Century"
 county = "Escambia"
-longitude = -87.364552
 latitude = 30.955907
+longitude = -87.364552
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32535"
+

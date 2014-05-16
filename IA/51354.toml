@@ -1,6 +1,8 @@
-zip_code = "51354"
-state = "IA"
 city = "Ocheyedan"
 county = "Osceola"
-longitude = -95.626901
 latitude = 43.378852
+longitude = -95.626901
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51354"
+

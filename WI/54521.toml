@@ -1,6 +1,8 @@
-zip_code = "54521"
-state = "WI"
 city = "Eagle River"
 county = "Vilas"
-longitude = -89.265609
 latitude = 45.988126
+longitude = -89.265609
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54521"
+

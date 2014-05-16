@@ -1,6 +1,8 @@
-zip_code = "38632"
-state = "MS"
 city = "Hernando"
 county = "De Soto"
-longitude = -89.994591
 latitude = 34.80684
+longitude = -89.994591
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38632"
+

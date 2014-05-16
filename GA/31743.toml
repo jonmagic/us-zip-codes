@@ -1,6 +1,8 @@
-zip_code = "31743"
-state = "GA"
 city = "De Soto"
 county = "Sumter"
-longitude = -84.03104
 latitude = 31.938088
+longitude = -84.03104
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31743"
+

@@ -1,6 +1,8 @@
-zip_code = "41526"
-state = "KY"
 city = "Fords Branch"
 county = "Pike"
-longitude = -82.518527
 latitude = 37.437194
+longitude = -82.518527
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41526"
+

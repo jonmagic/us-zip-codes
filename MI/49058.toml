@@ -1,6 +1,8 @@
-zip_code = "49058"
-state = "MI"
 city = "Hastings"
 county = "Barry"
-longitude = -85.28988
 latitude = 42.639121
+longitude = -85.28988
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49058"
+

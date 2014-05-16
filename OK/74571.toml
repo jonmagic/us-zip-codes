@@ -1,6 +1,8 @@
-zip_code = "74571"
-state = "OK"
 city = "Talihina"
 county = "Le Flore"
-longitude = -95.044014
 latitude = 34.745742
+longitude = -95.044014
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74571"
+

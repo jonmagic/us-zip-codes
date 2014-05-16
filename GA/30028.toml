@@ -1,6 +1,8 @@
-zip_code = "30028"
-state = "GA"
 city = "Cumming"
 county = "Forsyth"
-longitude = -84.092588
 latitude = 34.193041
+longitude = -84.092588
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30028"
+

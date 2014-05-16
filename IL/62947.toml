@@ -1,6 +1,8 @@
-zip_code = "62947"
-state = "IL"
 city = "Herod"
 county = "Pope"
-longitude = -88.561428
 latitude = 37.333591
+longitude = -88.561428
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62947"
+

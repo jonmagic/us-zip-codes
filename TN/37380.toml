@@ -1,6 +1,8 @@
-zip_code = "37380"
-state = "TN"
 city = "South Pittsburg"
 county = "Marion"
-longitude = -85.655679
 latitude = 35.109722
+longitude = -85.655679
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37380"
+

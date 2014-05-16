@@ -1,6 +1,8 @@
-zip_code = "73546"
-state = "OK"
 city = "Grandfield"
 county = "Tillman"
-longitude = -98.911705
 latitude = 34.362887
+longitude = -98.911705
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73546"
+

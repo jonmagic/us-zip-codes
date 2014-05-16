@@ -1,6 +1,8 @@
-zip_code = "44405"
-state = "OH"
 city = "Campbell"
 county = "Mahoning"
-longitude = -80.591894
 latitude = 41.077708
+longitude = -80.591894
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44405"
+

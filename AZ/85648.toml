@@ -1,6 +1,8 @@
-zip_code = "85648"
-state = "AZ"
 city = "Rio Rico"
 county = "Santa Cruz"
-longitude = -111.075695
 latitude = 31.508436
+longitude = -111.075695
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85648"
+

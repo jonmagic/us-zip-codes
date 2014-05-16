@@ -1,6 +1,8 @@
-zip_code = "61053"
-state = "IL"
 city = "Mount Carroll"
 county = "Carroll"
-longitude = -89.968127
 latitude = 42.093181
+longitude = -89.968127
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61053"
+

@@ -1,6 +1,8 @@
-zip_code = "28038"
-state = "NC"
 city = "Earl"
 county = "Cleveland"
-longitude = -81.538645
 latitude = 35.196998
+longitude = -81.538645
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28038"
+

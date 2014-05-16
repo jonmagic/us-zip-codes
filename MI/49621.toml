@@ -1,6 +1,8 @@
-zip_code = "49621"
-state = "MI"
 city = "Cedar"
 county = "Leelanau"
-longitude = -85.813768
 latitude = 44.860517
+longitude = -85.813768
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49621"
+

@@ -1,6 +1,8 @@
-zip_code = "29945"
-state = "SC"
 city = "Yemassee"
 county = "Hampton"
-longitude = -80.887321
 latitude = 32.692321
+longitude = -80.887321
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29945"
+

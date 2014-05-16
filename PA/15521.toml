@@ -1,6 +1,8 @@
-zip_code = "15521"
-state = "PA"
 city = "Alum Bank"
 county = "Bedford"
-longitude = -78.622801
 latitude = 40.198627
+longitude = -78.622801
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15521"
+

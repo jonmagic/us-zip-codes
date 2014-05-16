@@ -1,6 +1,8 @@
-zip_code = "94517"
-state = "CA"
 city = "Clayton"
 county = "Contra Costa"
-longitude = -121.784818
 latitude = 37.897832
+longitude = -121.784818
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94517"
+

@@ -1,6 +1,8 @@
-zip_code = "12147"
-state = "NY"
 city = "Rensselaerville"
 county = "Albany"
-longitude = -74.160591
 latitude = 42.500258
+longitude = -74.160591
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12147"
+

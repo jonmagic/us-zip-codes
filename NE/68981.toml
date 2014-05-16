@@ -1,6 +1,8 @@
-zip_code = "68981"
-state = "NE"
 city = "Upland"
 county = "Franklin"
-longitude = -98.904418
 latitude = 40.31743
+longitude = -98.904418
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68981"
+

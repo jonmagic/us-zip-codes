@@ -1,6 +1,8 @@
-zip_code = "08837"
-state = "NJ"
 city = "Edison"
 county = "Middlesex"
-longitude = -74.350393
 latitude = 40.527054
+longitude = -74.350393
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08837"
+

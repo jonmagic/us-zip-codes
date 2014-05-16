@@ -1,6 +1,8 @@
-zip_code = "95222"
-state = "CA"
 city = "Angels Camp"
 county = "Calaveras"
-longitude = -120.618608
 latitude = 38.052816
+longitude = -120.618608
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95222"
+

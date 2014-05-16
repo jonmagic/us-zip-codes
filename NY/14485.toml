@@ -1,6 +1,8 @@
-zip_code = "14485"
-state = "NY"
 city = "Lima"
 county = "Livingston"
-longitude = -77.608688
 latitude = 42.889864
+longitude = -77.608688
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14485"
+

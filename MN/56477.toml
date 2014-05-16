@@ -1,6 +1,8 @@
-zip_code = "56477"
-state = "MN"
 city = "Sebeka"
 county = "Wadena"
-longitude = -94.974942
 latitude = 46.652292
+longitude = -94.974942
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56477"
+

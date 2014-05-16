@@ -1,6 +1,8 @@
-zip_code = "32615"
-state = "FL"
 city = "Alachua"
 county = "Alachua"
-longitude = -82.472049
 latitude = 29.813456
+longitude = -82.472049
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32615"
+

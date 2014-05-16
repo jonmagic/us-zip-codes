@@ -1,6 +1,8 @@
-zip_code = "45686"
-state = "OH"
 city = "Vinton"
 county = "Gallia"
-longitude = -82.345709
 latitude = 38.961601
+longitude = -82.345709
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45686"
+

@@ -1,6 +1,8 @@
-zip_code = "70808"
-state = "LA"
 city = "Baton Rouge"
 county = "East Baton Rouge"
-longitude = -91.143906
 latitude = 30.408291
+longitude = -91.143906
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70808"
+

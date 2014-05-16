@@ -1,6 +1,8 @@
-zip_code = "02762"
-state = "MA"
 city = "Plainville"
 county = "Norfolk"
-longitude = -71.334399
 latitude = 42.013553
+longitude = -71.334399
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02762"
+

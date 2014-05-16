@@ -1,6 +1,8 @@
-zip_code = "61812"
-state = "IL"
 city = "Armstrong"
 county = "Vermilion"
-longitude = -87.874221
 latitude = 40.258038
+longitude = -87.874221
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61812"
+

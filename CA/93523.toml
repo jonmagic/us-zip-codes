@@ -1,6 +1,8 @@
-zip_code = "93523"
-state = "CA"
 city = "Edwards"
 county = "Kern"
-longitude = -118.130233
 latitude = 35.258171
+longitude = -118.130233
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93523"
+

@@ -1,6 +1,8 @@
-zip_code = "66516"
-state = "KS"
 city = "Netawaka"
 county = "Jackson"
-longitude = -95.716332
 latitude = 39.601523
+longitude = -95.716332
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66516"
+

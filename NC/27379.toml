@@ -1,6 +1,8 @@
-zip_code = "27379"
-state = "NC"
 city = "Yanceyville"
 county = "Caswell"
-longitude = -79.366733
 latitude = 36.379479
+longitude = -79.366733
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27379"
+

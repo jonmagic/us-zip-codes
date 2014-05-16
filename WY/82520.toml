@@ -1,6 +1,8 @@
-zip_code = "82520"
-state = "WY"
 city = "Lander"
 county = "Fremont"
-longitude = -108.591264
 latitude = 42.920832
+longitude = -108.591264
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82520"
+

@@ -1,6 +1,8 @@
-zip_code = "39192"
-state = "MS"
 city = "West"
 county = "Holmes"
-longitude = -89.853487
 latitude = 33.198544
+longitude = -89.853487
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39192"
+

@@ -1,6 +1,8 @@
-zip_code = "53118"
-state = "WI"
 city = "Dousman"
 county = "Waukesha"
-longitude = -88.444097
 latitude = 42.951536
+longitude = -88.444097
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53118"
+

@@ -1,6 +1,8 @@
-zip_code = "95552"
-state = "CA"
 city = "Mad River"
 county = "Trinity"
-longitude = -123.505623
 latitude = 40.450929
+longitude = -123.505623
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95552"
+

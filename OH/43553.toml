@@ -1,6 +1,8 @@
-zip_code = "43553"
-state = "OH"
 city = "Pettisville"
 county = "Fulton"
-longitude = -84.225646
 latitude = 41.531033
+longitude = -84.225646
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43553"
+

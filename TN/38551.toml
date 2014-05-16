@@ -1,6 +1,8 @@
-zip_code = "38551"
-state = "TN"
 city = "Celina"
 county = "Clay"
-longitude = -85.512924
 latitude = 36.547777
+longitude = -85.512924
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38551"
+

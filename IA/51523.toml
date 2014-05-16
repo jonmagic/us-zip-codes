@@ -1,6 +1,8 @@
-zip_code = "51523"
-state = "IA"
 city = "Blencoe"
 county = "Monona"
-longitude = -96.049414
 latitude = 41.915049
+longitude = -96.049414
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51523"
+

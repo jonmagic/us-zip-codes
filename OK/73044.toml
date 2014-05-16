@@ -1,6 +1,8 @@
-zip_code = "73044"
-state = "OK"
 city = "Guthrie"
 county = "Logan"
-longitude = -97.456312
 latitude = 35.877129
+longitude = -97.456312
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73044"
+

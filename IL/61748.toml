@@ -1,6 +1,8 @@
-zip_code = "61748"
-state = "IL"
 city = "Hudson"
 county = "Mclean"
-longitude = -88.989005
 latitude = 40.62502
+longitude = -88.989005
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61748"
+

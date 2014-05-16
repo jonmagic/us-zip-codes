@@ -1,6 +1,8 @@
-zip_code = "37068"
-state = "TN"
 city = "Franklin"
 county = "Williamson"
-longitude = -86.907565
 latitude = 35.874553
+longitude = -86.907565
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37068"
+

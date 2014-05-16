@@ -1,6 +1,8 @@
-zip_code = "70637"
-state = "LA"
 city = "Dry Creek"
 county = "Beauregard"
-longitude = -93.020236
 latitude = 30.743467
+longitude = -93.020236
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70637"
+

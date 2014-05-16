@@ -1,6 +1,8 @@
-zip_code = "37370"
-state = "TN"
 city = "Riceville"
 county = "Mcminn"
-longitude = -84.695085
 latitude = 35.373143
+longitude = -84.695085
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37370"
+

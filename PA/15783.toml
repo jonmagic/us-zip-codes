@@ -1,6 +1,8 @@
-zip_code = "15783"
-state = "PA"
 city = "West Lebanon"
 county = "Indiana"
-longitude = -79.342331
 latitude = 40.583778
+longitude = -79.342331
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15783"
+

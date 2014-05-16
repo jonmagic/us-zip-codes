@@ -1,6 +1,8 @@
-zip_code = "62217"
-state = "IL"
 city = "Baldwin"
 county = "Randolph"
-longitude = -89.752849
 latitude = 38.155348
+longitude = -89.752849
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62217"
+

@@ -1,6 +1,8 @@
-zip_code = "66040"
-state = "KS"
 city = "La Cygne"
 county = "Linn"
-longitude = -94.731773
 latitude = 38.362869
+longitude = -94.731773
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66040"
+

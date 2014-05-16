@@ -1,6 +1,8 @@
-zip_code = "91908"
-state = "CA"
 city = "Bonita"
 county = "San Diego"
-longitude = -116.846046
 latitude = 33.016928
+longitude = -116.846046
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91908"
+

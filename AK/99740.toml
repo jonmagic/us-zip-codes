@@ -1,6 +1,8 @@
-zip_code = "99740"
-state = "AK"
 city = "Fort Yukon"
 county = "Yukon Koyukuk"
-longitude = -151.025085
 latitude = 65.226375
+longitude = -151.025085
+state = ""
+state_code_alpha2 = ""
+zip_code = "99740"
+

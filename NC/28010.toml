@@ -1,6 +1,8 @@
-zip_code = "28010"
-state = "NC"
 city = "Barium Springs"
 county = "Iredell"
-longitude = -80.89909
 latitude = 35.719228
+longitude = -80.89909
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28010"
+

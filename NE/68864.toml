@@ -1,6 +1,8 @@
-zip_code = "68864"
-state = "NE"
 city = "Palmer"
 county = "Merrick"
-longitude = -98.182952
 latitude = 41.244701
+longitude = -98.182952
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68864"
+

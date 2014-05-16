@@ -1,6 +1,8 @@
-zip_code = "46360"
-state = "IN"
 city = "Michigan City"
 county = "La Porte"
-longitude = -86.756985
 latitude = 41.594185
+longitude = -86.756985
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46360"
+

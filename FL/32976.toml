@@ -1,6 +1,8 @@
-zip_code = "32976"
-state = "FL"
 city = "Sebastian"
 county = "Brevard"
-longitude = -80.541647
 latitude = 27.867945
+longitude = -80.541647
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32976"
+

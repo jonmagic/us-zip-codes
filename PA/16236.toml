@@ -1,6 +1,8 @@
-zip_code = "16236"
-state = "PA"
 city = "Mc Grann"
 county = "Armstrong"
-longitude = -79.521842
 latitude = 40.781788
+longitude = -79.521842
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16236"
+

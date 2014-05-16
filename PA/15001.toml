@@ -1,6 +1,8 @@
-zip_code = "15001"
-state = "PA"
 city = "Aliquippa"
 county = "Beaver"
-longitude = -80.304178
 latitude = 40.675225
+longitude = -80.304178
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15001"
+

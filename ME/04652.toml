@@ -1,6 +1,8 @@
-zip_code = "04652"
-state = "ME"
 city = "Lubec"
 county = "Washington"
-longitude = -67.040767
 latitude = 44.904288
+longitude = -67.040767
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04652"
+

@@ -1,6 +1,8 @@
-zip_code = "97027"
-state = "OR"
 city = "Gladstone"
 county = "Clackamas"
-longitude = -122.59322
 latitude = 45.390442
+longitude = -122.59322
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97027"
+

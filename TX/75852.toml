@@ -1,6 +1,8 @@
-zip_code = "75852"
-state = "TX"
 city = "Midway"
 county = "Madison"
-longitude = -95.772458
 latitude = 31.009503
+longitude = -95.772458
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75852"
+

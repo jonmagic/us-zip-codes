@@ -1,6 +1,8 @@
-zip_code = "65063"
-state = "MO"
 city = "New Bloomfield"
 county = "Callaway"
-longitude = -92.08044
 latitude = 38.730467
+longitude = -92.08044
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65063"
+

@@ -1,6 +1,8 @@
-zip_code = "38049"
-state = "TN"
 city = "Mason"
 county = "Tipton"
-longitude = -89.563798
 latitude = 35.443164
+longitude = -89.563798
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38049"
+

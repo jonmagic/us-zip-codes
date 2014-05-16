@@ -1,6 +1,8 @@
-zip_code = "48612"
-state = "MI"
 city = "Beaverton"
 county = "Gladwin"
-longitude = -84.436146
 latitude = 43.965212
+longitude = -84.436146
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48612"
+

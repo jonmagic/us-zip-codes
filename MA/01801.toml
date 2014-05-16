@@ -1,6 +1,8 @@
-zip_code = "01801"
-state = "MA"
 city = "Woburn"
 county = "Middlesex"
-longitude = -71.157271
 latitude = 42.488595
+longitude = -71.157271
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01801"
+

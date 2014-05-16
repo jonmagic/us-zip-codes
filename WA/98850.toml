@@ -1,6 +1,8 @@
-zip_code = "98850"
-state = "WA"
 city = "Rock Island"
 county = "Douglas"
-longitude = -120.103205
 latitude = 47.312058
+longitude = -120.103205
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98850"
+

@@ -1,6 +1,8 @@
-zip_code = "28690"
-state = "NC"
 city = "Valdese"
 county = "Burke"
-longitude = -81.6166
 latitude = 35.737757
+longitude = -81.6166
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28690"
+

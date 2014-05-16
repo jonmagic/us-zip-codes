@@ -1,6 +1,8 @@
-zip_code = "22503"
-state = "VA"
 city = "Lancaster"
 county = "Lancaster"
-longitude = -76.50021
 latitude = 37.739451
+longitude = -76.50021
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22503"
+

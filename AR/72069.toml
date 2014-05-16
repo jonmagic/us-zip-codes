@@ -1,6 +1,8 @@
-zip_code = "72069"
-state = "AR"
 city = "Holly Grove"
 county = "Monroe"
-longitude = -91.183945
 latitude = 34.598059
+longitude = -91.183945
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72069"
+

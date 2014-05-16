@@ -1,6 +1,8 @@
-zip_code = "95762"
-state = "CA"
 city = "El Dorado Hills"
 county = "El Dorado"
-longitude = -121.044846
 latitude = 38.686847
+longitude = -121.044846
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95762"
+

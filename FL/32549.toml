@@ -1,6 +1,8 @@
-zip_code = "32549"
-state = "FL"
 city = "Fort Walton Beach"
 county = "Okaloosa"
-longitude = -86.594479
 latitude = 30.661155
+longitude = -86.594479
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32549"
+

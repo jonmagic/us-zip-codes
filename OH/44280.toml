@@ -1,6 +1,8 @@
-zip_code = "44280"
-state = "OH"
 city = "Valley City"
 county = "Medina"
-longitude = -81.917187
 latitude = 41.233736
+longitude = -81.917187
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44280"
+

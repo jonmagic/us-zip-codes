@@ -1,6 +1,8 @@
-zip_code = "54732"
-state = "WI"
 city = "Cornell"
 county = "Chippewa"
-longitude = -91.170922
 latitude = 45.125153
+longitude = -91.170922
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54732"
+

@@ -1,6 +1,8 @@
-zip_code = "31322"
-state = "GA"
 city = "Pooler"
 county = "Chatham"
-longitude = -81.083881
 latitude = 32.071917
+longitude = -81.083881
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31322"
+

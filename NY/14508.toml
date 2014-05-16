@@ -1,6 +1,8 @@
-zip_code = "14508"
-state = "NY"
 city = "Morton"
 county = "Orleans"
-longitude = -78.231338
 latitude = 43.381027
+longitude = -78.231338
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14508"
+

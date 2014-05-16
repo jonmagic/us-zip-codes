@@ -1,6 +1,8 @@
-zip_code = "74055"
-state = "OK"
 city = "Owasso"
 county = "Tulsa"
-longitude = -95.909669
 latitude = 36.140225
+longitude = -95.909669
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74055"
+

@@ -1,6 +1,8 @@
-zip_code = "40312"
-state = "KY"
 city = "Clay City"
 county = "Powell"
-longitude = -83.859331
 latitude = 37.847517
+longitude = -83.859331
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40312"
+

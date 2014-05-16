@@ -1,6 +1,8 @@
-zip_code = "98267"
-state = "WA"
 city = "Marblemount"
 county = "Skagit"
-longitude = -121.47384
 latitude = 48.537813
+longitude = -121.47384
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98267"
+

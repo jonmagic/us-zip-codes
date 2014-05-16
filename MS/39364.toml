@@ -1,6 +1,8 @@
-zip_code = "39364"
-state = "MS"
 city = "Toomsuba"
 county = "Lauderdale"
-longitude = -88.660633
 latitude = 32.424306
+longitude = -88.660633
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39364"
+

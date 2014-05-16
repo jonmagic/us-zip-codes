@@ -1,6 +1,8 @@
-zip_code = "44452"
-state = "OH"
 city = "North Lima"
 county = "Mahoning"
-longitude = -80.662484
 latitude = 40.951177
+longitude = -80.662484
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44452"
+

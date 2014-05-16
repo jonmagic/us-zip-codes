@@ -1,6 +1,8 @@
-zip_code = "48145"
-state = "MI"
 city = "La Salle"
 county = "Monroe"
-longitude = -83.462383
 latitude = 41.845509
+longitude = -83.462383
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48145"
+

@@ -1,6 +1,8 @@
-zip_code = "27562"
-state = "NC"
 city = "New Hill"
 county = "Wake"
-longitude = -78.867658
 latitude = 35.643693
+longitude = -78.867658
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27562"
+

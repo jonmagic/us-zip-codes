@@ -1,6 +1,8 @@
-zip_code = "12520"
-state = "NY"
 city = "Cornwall On Hudson"
 county = "Orange"
-longitude = -74.132883
 latitude = 41.431474
+longitude = -74.132883
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12520"
+

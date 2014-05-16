@@ -1,6 +1,8 @@
-zip_code = "07444"
-state = "NJ"
 city = "Pompton Plains"
 county = "Morris"
-longitude = -74.402663
 latitude = 41.008797
+longitude = -74.402663
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07444"
+

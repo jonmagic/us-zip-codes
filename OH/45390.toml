@@ -1,6 +1,8 @@
-zip_code = "45390"
-state = "OH"
 city = "Union City"
 county = "Darke"
-longitude = -84.758818
 latitude = 40.211787
+longitude = -84.758818
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45390"
+

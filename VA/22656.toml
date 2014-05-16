@@ -1,6 +1,8 @@
-zip_code = "22656"
-state = "VA"
 city = "Stephenson"
 county = "Frederick"
-longitude = -78.090144
 latitude = 39.213701
+longitude = -78.090144
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22656"
+

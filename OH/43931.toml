@@ -1,6 +1,8 @@
-zip_code = "43931"
-state = "OH"
 city = "Hannibal"
 county = "Monroe"
-longitude = -80.891369
 latitude = 39.676317
+longitude = -80.891369
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43931"
+

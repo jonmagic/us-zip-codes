@@ -1,6 +1,8 @@
-zip_code = "56296"
-state = "MN"
 city = "Wheaton"
 county = "Traverse"
-longitude = -96.633211
 latitude = 45.703481
+longitude = -96.633211
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56296"
+

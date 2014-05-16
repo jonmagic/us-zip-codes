@@ -1,6 +1,8 @@
-zip_code = "51432"
-state = "IA"
 city = "Aspinwall"
 county = "Crawford"
-longitude = -95.135602
 latitude = 41.911924
+longitude = -95.135602
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51432"
+

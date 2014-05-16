@@ -1,6 +1,8 @@
-zip_code = "37345"
-state = "TN"
 city = "Huntland"
 county = "Franklin"
-longitude = -86.25541
 latitude = 35.045745
+longitude = -86.25541
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37345"
+

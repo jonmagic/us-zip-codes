@@ -1,6 +1,8 @@
-zip_code = "79521"
-state = "TX"
 city = "Haskell"
 county = "Haskell"
-longitude = -99.717417
 latitude = 33.207016
+longitude = -99.717417
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79521"
+

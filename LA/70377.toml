@@ -1,6 +1,8 @@
-zip_code = "70377"
-state = "LA"
 city = "Montegut"
 county = "Terrebonne"
-longitude = -90.524964
 latitude = 29.456248
+longitude = -90.524964
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70377"
+

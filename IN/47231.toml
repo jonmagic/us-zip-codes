@@ -1,6 +1,8 @@
-zip_code = "47231"
-state = "IN"
 city = "Dupont"
 county = "Jefferson"
-longitude = -85.500519
 latitude = 38.876272
+longitude = -85.500519
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47231"
+

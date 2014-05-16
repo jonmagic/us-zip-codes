@@ -1,6 +1,8 @@
-zip_code = "72513"
-state = "AR"
 city = "Ash Flat"
 county = "Sharp"
-longitude = -91.568849
 latitude = 36.234637
+longitude = -91.568849
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72513"
+

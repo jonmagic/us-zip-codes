@@ -1,6 +1,8 @@
-zip_code = "44431"
-state = "OH"
 city = "Leetonia"
 county = "Columbiana"
-longitude = -80.749844
 latitude = 40.837984
+longitude = -80.749844
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44431"
+

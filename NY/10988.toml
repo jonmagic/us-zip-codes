@@ -1,6 +1,8 @@
-zip_code = "10988"
-state = "NY"
 city = "Unionville"
 county = "Orange"
-longitude = -74.550346
 latitude = 41.314931
+longitude = -74.550346
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10988"
+

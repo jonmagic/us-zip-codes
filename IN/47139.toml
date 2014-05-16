@@ -1,6 +1,8 @@
-zip_code = "47139"
-state = "IN"
 city = "Little York"
 county = "Washington"
-longitude = -86.078828
 latitude = 38.600666
+longitude = -86.078828
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47139"
+

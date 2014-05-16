@@ -1,6 +1,8 @@
-zip_code = "48183"
-state = "MI"
 city = "Trenton"
 county = "Wayne"
-longitude = -83.217937
 latitude = 42.138209
+longitude = -83.217937
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48183"
+

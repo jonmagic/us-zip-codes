@@ -1,6 +1,8 @@
-zip_code = "80732"
-state = "CO"
 city = "Hereford"
 county = "Weld"
-longitude = -104.305265
 latitude = 40.975104
+longitude = -104.305265
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80732"
+

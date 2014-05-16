@@ -1,6 +1,8 @@
-zip_code = "28610"
-state = "NC"
 city = "Claremont"
 county = "Catawba"
-longitude = -81.12693
 latitude = 35.730213
+longitude = -81.12693
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28610"
+

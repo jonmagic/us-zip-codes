@@ -1,6 +1,8 @@
-zip_code = "54437"
-state = "WI"
 city = "Greenwood"
 county = "Clark"
-longitude = -90.6756
 latitude = 44.660403
+longitude = -90.6756
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54437"
+

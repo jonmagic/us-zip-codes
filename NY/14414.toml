@@ -1,6 +1,8 @@
-zip_code = "14414"
-state = "NY"
 city = "Avon"
 county = "Livingston"
-longitude = -77.735104
 latitude = 42.895631
+longitude = -77.735104
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14414"
+

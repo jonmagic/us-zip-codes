@@ -1,6 +1,8 @@
-zip_code = "31038"
-state = "GA"
 city = "Hillsboro"
 county = "Jasper"
-longitude = -83.618059
 latitude = 33.207511
+longitude = -83.618059
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31038"
+

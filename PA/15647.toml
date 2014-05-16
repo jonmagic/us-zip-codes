@@ -1,6 +1,8 @@
-zip_code = "15647"
-state = "PA"
 city = "Larimer"
 county = "Westmoreland"
-longitude = -79.727216
 latitude = 40.341519
+longitude = -79.727216
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15647"
+

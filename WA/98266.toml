@@ -1,6 +1,8 @@
-zip_code = "98266"
-state = "WA"
 city = "Maple Falls"
 county = "Whatcom"
-longitude = -122.247881
 latitude = 48.853213
+longitude = -122.247881
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98266"
+

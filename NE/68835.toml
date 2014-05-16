@@ -1,6 +1,8 @@
-zip_code = "68835"
-state = "NE"
 city = "Elba"
 county = "Howard"
-longitude = -98.604437
 latitude = 41.32178
+longitude = -98.604437
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68835"
+

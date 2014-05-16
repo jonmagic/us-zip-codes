@@ -1,6 +1,8 @@
-zip_code = "71469"
-state = "LA"
 city = "Robeline"
 county = "Natchitoches"
-longitude = -93.186289
 latitude = 31.633931
+longitude = -93.186289
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71469"
+

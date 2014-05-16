@@ -1,6 +1,8 @@
-zip_code = "12463"
-state = "NY"
 city = "Palenville"
 county = "Greene"
-longitude = -74.00995
 latitude = 42.197886
+longitude = -74.00995
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12463"
+

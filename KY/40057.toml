@@ -1,6 +1,8 @@
-zip_code = "40057"
-state = "KY"
 city = "Pleasureville"
 county = "Henry"
-longitude = -85.032581
 latitude = 38.431413
+longitude = -85.032581
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40057"
+

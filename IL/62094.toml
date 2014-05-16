@@ -1,6 +1,8 @@
-zip_code = "62094"
-state = "IL"
 city = "Witt"
 county = "Montgomery"
-longitude = -89.40593
 latitude = 39.162463
+longitude = -89.40593
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62094"
+

@@ -1,6 +1,8 @@
-zip_code = "53048"
-state = "WI"
 city = "Lomira"
 county = "Dodge"
-longitude = -88.480811
 latitude = 43.516912
+longitude = -88.480811
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53048"
+

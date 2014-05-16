@@ -1,6 +1,8 @@
-zip_code = "19966"
-state = "DE"
 city = "Millsboro"
 county = "Sussex"
-longitude = -75.24641
 latitude = 38.659458
+longitude = -75.24641
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19966"
+

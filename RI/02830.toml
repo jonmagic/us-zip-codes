@@ -1,6 +1,8 @@
-zip_code = "02830"
-state = "RI"
 city = "Harrisville"
 county = "Providence"
-longitude = -71.648502
 latitude = 41.97239
+longitude = -71.648502
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02830"
+

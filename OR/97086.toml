@@ -1,6 +1,8 @@
-zip_code = "97086"
-state = "OR"
 city = "Happy Valley"
 county = "Clackamas"
-longitude = -122.532279968262
 latitude = 45.445499420166
+longitude = -122.532279968262
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97086"
+

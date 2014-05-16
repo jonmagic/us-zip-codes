@@ -1,6 +1,8 @@
-zip_code = "31822"
-state = "GA"
 city = "Pine Mountain"
 county = "Harris"
-longitude = -84.904638
 latitude = 32.834241
+longitude = -84.904638
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31822"
+

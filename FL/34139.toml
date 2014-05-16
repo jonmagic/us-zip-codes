@@ -1,6 +1,8 @@
-zip_code = "34139"
-state = "FL"
 city = "Everglades City"
 county = "Collier"
-longitude = -81.377791
 latitude = 25.856971
+longitude = -81.377791
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34139"
+

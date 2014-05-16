@@ -1,6 +1,8 @@
-zip_code = "49069"
-state = "MI"
 city = "Marshall"
 county = "Calhoun"
-longitude = -84.949919
 latitude = 42.204494
+longitude = -84.949919
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49069"
+

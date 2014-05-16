@@ -1,6 +1,8 @@
-zip_code = "48118"
-state = "MI"
 city = "Chelsea"
 county = "Washtenaw"
-longitude = -84.013999
 latitude = 42.31375
+longitude = -84.013999
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48118"
+

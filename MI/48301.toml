@@ -1,6 +1,8 @@
-zip_code = "48301"
-state = "MI"
 city = "Bloomfield Hills"
 county = "Oakland"
-longitude = -83.279231
 latitude = 42.544534
+longitude = -83.279231
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48301"
+

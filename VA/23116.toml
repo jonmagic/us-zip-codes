@@ -1,6 +1,8 @@
-zip_code = "23116"
-state = "VA"
 city = "Mechanicsville"
 county = "Hanover"
-longitude = -77.329421
 latitude = 37.669086
+longitude = -77.329421
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23116"
+

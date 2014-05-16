@@ -1,6 +1,8 @@
-zip_code = "15436"
-state = "PA"
 city = "Fairchance"
 county = "Fayette"
-longitude = -79.808073
 latitude = 39.954424
+longitude = -79.808073
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15436"
+

@@ -1,6 +1,8 @@
-zip_code = "58477"
-state = "ND"
 city = "Regan"
 county = "Burleigh"
-longitude = -100.548434
 latitude = 47.212951
+longitude = -100.548434
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58477"
+

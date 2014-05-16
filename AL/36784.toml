@@ -1,6 +1,8 @@
-zip_code = "36784"
-state = "AL"
 city = "Thomasville"
 county = "Clarke"
-longitude = -87.769476
 latitude = 31.745135
+longitude = -87.769476
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36784"
+

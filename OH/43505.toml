@@ -1,6 +1,8 @@
-zip_code = "43505"
-state = "OH"
 city = "Blakeslee"
 county = "Williams"
-longitude = -84.730275
 latitude = 41.523945
+longitude = -84.730275
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43505"
+

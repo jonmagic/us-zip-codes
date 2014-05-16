@@ -1,6 +1,8 @@
-zip_code = "18243"
-state = "PA"
 city = "Pardeesville"
 county = "Luzerne"
-longitude = -75.966146
 latitude = 41.001683
+longitude = -75.966146
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18243"
+

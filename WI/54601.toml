@@ -1,6 +1,8 @@
-zip_code = "54601"
-state = "WI"
 city = "La Crosse"
 county = "La Crosse"
-longitude = -91.132072
 latitude = 43.85456
+longitude = -91.132072
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54601"
+

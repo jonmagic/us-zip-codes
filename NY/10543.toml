@@ -1,6 +1,8 @@
-zip_code = "10543"
-state = "NY"
 city = "Mamaroneck"
 county = "Westchester"
-longitude = -73.738779
 latitude = 40.949199
+longitude = -73.738779
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10543"
+

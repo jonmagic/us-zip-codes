@@ -1,6 +1,8 @@
-zip_code = "56544"
-state = "MN"
 city = "Frazee"
 county = "Becker"
-longitude = -95.579405
 latitude = 46.803165
+longitude = -95.579405
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56544"
+

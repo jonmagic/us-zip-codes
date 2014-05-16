@@ -1,6 +1,8 @@
-zip_code = "79323"
-state = "TX"
 city = "Denver City"
 county = "Yoakum"
-longitude = -102.851592
 latitude = 33.005196
+longitude = -102.851592
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79323"
+

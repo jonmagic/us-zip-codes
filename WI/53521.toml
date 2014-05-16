@@ -1,6 +1,8 @@
-zip_code = "53521"
-state = "WI"
 city = "Brooklyn"
 county = "Green"
-longitude = -89.582703
 latitude = 42.717122
+longitude = -89.582703
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53521"
+

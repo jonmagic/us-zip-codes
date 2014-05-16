@@ -1,6 +1,8 @@
-zip_code = "26369"
-state = "WV"
 city = "Hepzibah"
 county = "Harrison"
-longitude = -80.332455
 latitude = 39.331202
+longitude = -80.332455
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26369"
+

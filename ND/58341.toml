@@ -1,6 +1,8 @@
-zip_code = "58341"
-state = "ND"
 city = "Harvey"
 county = "Wells"
-longitude = -99.747755
 latitude = 47.703539
+longitude = -99.747755
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58341"
+

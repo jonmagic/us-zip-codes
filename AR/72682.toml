@@ -1,6 +1,8 @@
-zip_code = "72682"
-state = "AR"
 city = "Valley Springs"
 county = "Boone"
-longitude = -92.989569
 latitude = 36.148259
+longitude = -92.989569
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72682"
+

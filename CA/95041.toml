@@ -1,6 +1,8 @@
-zip_code = "95041"
-state = "CA"
 city = "Mount Hermon"
 county = "Santa Cruz"
-longitude = -122.058024
 latitude = 37.052137
+longitude = -122.058024
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95041"
+

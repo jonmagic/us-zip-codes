@@ -1,6 +1,8 @@
-zip_code = "75101"
-state = "TX"
 city = "Bardwell"
 county = "Ellis"
-longitude = -96.736746
 latitude = 32.211518
+longitude = -96.736746
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75101"
+

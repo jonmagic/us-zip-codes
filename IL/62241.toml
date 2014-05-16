@@ -1,6 +1,8 @@
-zip_code = "62241"
-state = "IL"
 city = "Ellis Grove"
 county = "Randolph"
-longitude = -89.893045
 latitude = 38.041586
+longitude = -89.893045
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62241"
+

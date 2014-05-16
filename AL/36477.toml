@@ -1,6 +1,8 @@
-zip_code = "36477"
-state = "AL"
 city = "Samson"
 county = "Geneva"
-longitude = -86.113647
 latitude = 31.07181
+longitude = -86.113647
+state = ""
+state_code_alpha2 = ""
+zip_code = "36477"
+

@@ -1,6 +1,8 @@
-zip_code = "78578"
-state = "TX"
 city = "Port Isabel"
 county = "Cameron"
-longitude = -97.505429
 latitude = 26.145304
+longitude = -97.505429
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78578"
+

@@ -1,6 +1,8 @@
-zip_code = "61733"
-state = "IL"
 city = "Deer Creek"
 county = "Tazewell"
-longitude = -89.406261
 latitude = 40.561464
+longitude = -89.406261
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61733"
+

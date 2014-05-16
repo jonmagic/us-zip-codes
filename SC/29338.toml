@@ -1,6 +1,8 @@
-zip_code = "29338"
-state = "SC"
 city = "Fingerville"
 county = "Spartanburg"
-longitude = -82.057103
 latitude = 34.999397
+longitude = -82.057103
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29338"
+

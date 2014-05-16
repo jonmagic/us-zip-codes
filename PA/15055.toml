@@ -1,6 +1,8 @@
-zip_code = "15055"
-state = "PA"
 city = "Lawrence"
 county = "Washington"
-longitude = -80.121904
 latitude = 40.305838
+longitude = -80.121904
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15055"
+

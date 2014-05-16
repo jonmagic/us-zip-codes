@@ -1,6 +1,8 @@
-zip_code = "72615"
-state = "AR"
 city = "Bergman"
 county = "Boone"
-longitude = -93.032099
 latitude = 36.308349
+longitude = -93.032099
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72615"
+

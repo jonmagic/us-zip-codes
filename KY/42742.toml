@@ -1,6 +1,8 @@
-zip_code = "42742"
-state = "KY"
 city = "Gradyville"
 county = "Adair"
-longitude = -85.465005
 latitude = 37.091158
+longitude = -85.465005
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42742"
+

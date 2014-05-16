@@ -1,6 +1,8 @@
-zip_code = "35063"
-state = "AL"
 city = "Empire"
 county = "Walker"
-longitude = -87.027469
 latitude = 33.827269
+longitude = -87.027469
+state = ""
+state_code_alpha2 = ""
+zip_code = "35063"
+

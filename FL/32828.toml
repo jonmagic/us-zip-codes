@@ -1,6 +1,8 @@
-zip_code = "32828"
-state = "FL"
 city = "Orlando"
 county = "Orange"
-longitude = -81.175502
 latitude = 28.529582
+longitude = -81.175502
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32828"
+

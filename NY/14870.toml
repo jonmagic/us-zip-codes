@@ -1,6 +1,8 @@
-zip_code = "14870"
-state = "NY"
 city = "Painted Post"
 county = "Steuben"
-longitude = -77.382462
 latitude = 42.159759
+longitude = -77.382462
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14870"
+

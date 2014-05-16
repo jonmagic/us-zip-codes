@@ -1,6 +1,8 @@
-zip_code = "29939"
-state = "SC"
 city = "Scotia"
 county = "Hampton"
-longitude = -81.245487
 latitude = 32.678624
+longitude = -81.245487
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29939"
+

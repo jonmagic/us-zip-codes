@@ -1,6 +1,8 @@
-zip_code = "89019"
-state = "NV"
 city = "Jean"
 county = "Clark"
-longitude = -115.540529
 latitude = 35.736806
+longitude = -115.540529
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89019"
+

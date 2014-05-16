@@ -1,6 +1,8 @@
-zip_code = "15696"
-state = "PA"
 city = "Youngstown"
 county = "Westmoreland"
-longitude = -79.366066
 latitude = 40.279337
+longitude = -79.366066
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15696"
+

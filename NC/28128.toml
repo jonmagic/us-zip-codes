@@ -1,6 +1,8 @@
-zip_code = "28128"
-state = "NC"
 city = "Norwood"
 county = "Stanly"
-longitude = -80.196863
 latitude = 35.30281
+longitude = -80.196863
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28128"
+

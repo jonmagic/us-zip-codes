@@ -1,6 +1,8 @@
-zip_code = "46988"
-state = "IN"
 city = "Twelve Mile"
 county = "Cass"
-longitude = -86.233899
 latitude = 40.866096
+longitude = -86.233899
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46988"
+

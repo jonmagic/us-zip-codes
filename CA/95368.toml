@@ -1,6 +1,8 @@
-zip_code = "95368"
-state = "CA"
 city = "Salida"
 county = "Stanislaus"
-longitude = -121.078608
 latitude = 37.695359
+longitude = -121.078608
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95368"
+

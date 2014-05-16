@@ -1,6 +1,8 @@
-zip_code = "49246"
-state = "MI"
 city = "Horton"
 county = "Jackson"
-longitude = -84.479081
 latitude = 42.131129
+longitude = -84.479081
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49246"
+

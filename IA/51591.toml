@@ -1,6 +1,8 @@
-zip_code = "51591"
-state = "IA"
 city = "Red Oak"
 county = "Montgomery"
-longitude = -95.156205
 latitude = 41.030256
+longitude = -95.156205
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51591"
+

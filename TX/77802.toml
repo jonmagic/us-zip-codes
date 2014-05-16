@@ -1,6 +1,8 @@
-zip_code = "77802"
-state = "TX"
 city = "Bryan"
 county = "Brazos"
-longitude = -96.319377
 latitude = 30.620983
+longitude = -96.319377
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77802"
+

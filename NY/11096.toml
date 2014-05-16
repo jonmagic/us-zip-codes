@@ -1,6 +1,8 @@
-zip_code = "11096"
-state = "NY"
 city = "Inwood"
 county = "Nassau"
-longitude = -73.747376
 latitude = 40.620492
+longitude = -73.747376
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11096"
+

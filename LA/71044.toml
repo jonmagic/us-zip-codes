@@ -1,6 +1,8 @@
-zip_code = "71044"
-state = "LA"
 city = "Ida"
 county = "Caddo"
-longitude = -93.900321
 latitude = 32.924377
+longitude = -93.900321
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71044"
+

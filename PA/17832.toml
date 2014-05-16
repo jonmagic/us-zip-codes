@@ -1,6 +1,8 @@
-zip_code = "17832"
-state = "PA"
 city = "Marion Heights"
 county = "Northumberland"
-longitude = -76.464607
 latitude = 40.805096
+longitude = -76.464607
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17832"
+

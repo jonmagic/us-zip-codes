@@ -1,6 +1,8 @@
-zip_code = "57433"
-state = "SD"
 city = "Columbia"
 county = "Brown"
-longitude = -98.339885
 latitude = 45.537847
+longitude = -98.339885
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57433"
+

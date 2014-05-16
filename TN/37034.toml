@@ -1,6 +1,8 @@
-zip_code = "37034"
-state = "TN"
 city = "Chapel Hill"
 county = "Marshall"
-longitude = -86.718225
 latitude = 35.640617
+longitude = -86.718225
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37034"
+

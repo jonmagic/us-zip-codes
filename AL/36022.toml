@@ -1,6 +1,8 @@
-zip_code = "36022"
-state = "AL"
 city = "Deatsville"
 county = "Elmore"
-longitude = -86.35842
 latitude = 32.614355
+longitude = -86.35842
+state = ""
+state_code_alpha2 = ""
+zip_code = "36022"
+

@@ -1,6 +1,8 @@
-zip_code = "34228"
-state = "FL"
 city = "Longboat Key"
 county = "Manatee"
-longitude = -82.443071
 latitude = 27.357231
+longitude = -82.443071
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34228"
+

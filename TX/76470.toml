@@ -1,6 +1,8 @@
-zip_code = "76470"
-state = "TX"
 city = "Ranger"
 county = "Eastland"
-longitude = -98.778484
 latitude = 32.303639
+longitude = -98.778484
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76470"
+

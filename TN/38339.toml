@@ -1,6 +1,8 @@
-zip_code = "38339"
-state = "TN"
 city = "Guys"
 county = "Mcnairy"
-longitude = -88.504368
 latitude = 35.056023
+longitude = -88.504368
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38339"
+

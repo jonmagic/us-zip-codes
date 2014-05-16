@@ -1,6 +1,8 @@
-zip_code = "38672"
-state = "MS"
 city = "Southaven"
 county = "De Soto"
-longitude = -89.925792
 latitude = 34.947407
+longitude = -89.925792
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38672"
+

@@ -1,6 +1,8 @@
-zip_code = "25103"
-state = "WV"
 city = "Hansford"
 county = "Kanawha"
-longitude = -81.39286
 latitude = 38.207048
+longitude = -81.39286
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25103"
+

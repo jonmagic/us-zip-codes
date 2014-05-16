@@ -1,6 +1,8 @@
-zip_code = "94546"
-state = "CA"
 city = "Castro Valley"
 county = "Alameda"
-longitude = -122.066373
 latitude = 37.731229
+longitude = -122.066373
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94546"
+

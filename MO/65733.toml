@@ -1,6 +1,8 @@
-zip_code = "65733"
-state = "MO"
 city = "Protem"
 county = "Taney"
-longitude = -93.02939
 latitude = 36.546632
+longitude = -93.02939
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65733"
+

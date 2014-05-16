@@ -1,6 +1,8 @@
-zip_code = "45631"
-state = "OH"
 city = "Gallipolis"
 county = "Gallia"
-longitude = -82.2692
 latitude = 38.793762
+longitude = -82.2692
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45631"
+

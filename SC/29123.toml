@@ -1,6 +1,8 @@
-zip_code = "29123"
-state = "SC"
 city = "Pelion"
 county = "Lexington"
-longitude = -81.247547
 latitude = 33.766538
+longitude = -81.247547
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29123"
+

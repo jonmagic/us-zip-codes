@@ -1,6 +1,8 @@
-zip_code = "87710"
-state = "NM"
 city = "Angel Fire"
 county = "Colfax"
-longitude = -104.919697
 latitude = 36.512495
+longitude = -104.919697
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87710"
+

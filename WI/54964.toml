@@ -1,6 +1,8 @@
-zip_code = "54964"
-state = "WI"
 city = "Pickett"
 county = "Winnebago"
-longitude = -88.71918
 latitude = 43.956653
+longitude = -88.71918
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54964"
+

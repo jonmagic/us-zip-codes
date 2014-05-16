@@ -1,6 +1,8 @@
-zip_code = "30126"
-state = "GA"
 city = "Mableton"
 county = "Cobb"
-longitude = -84.603102
 latitude = 33.833161
+longitude = -84.603102
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30126"
+

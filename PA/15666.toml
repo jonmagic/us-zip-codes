@@ -1,6 +1,8 @@
-zip_code = "15666"
-state = "PA"
 city = "Mount Pleasant"
 county = "Westmoreland"
-longitude = -79.609982
 latitude = 40.202211
+longitude = -79.609982
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15666"
+

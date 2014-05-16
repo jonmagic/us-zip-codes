@@ -1,6 +1,8 @@
-zip_code = "49253"
-state = "MI"
 city = "Manitou Beach"
 county = "Lenawee"
-longitude = -84.270369
 latitude = 41.970384
+longitude = -84.270369
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49253"
+

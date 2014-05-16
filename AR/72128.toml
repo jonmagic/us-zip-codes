@@ -1,6 +1,8 @@
-zip_code = "72128"
-state = "AR"
 city = "Poyen"
 county = "Grant"
-longitude = -92.609528
 latitude = 34.3023
+longitude = -92.609528
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72128"
+

@@ -1,6 +1,8 @@
-zip_code = "41572"
-state = "KY"
 city = "Virgie"
 county = "Pike"
-longitude = -82.611355
 latitude = 37.319685
+longitude = -82.611355
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41572"
+

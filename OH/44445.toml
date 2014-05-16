@@ -1,6 +1,8 @@
-zip_code = "44445"
-state = "OH"
 city = "New Waterford"
 county = "Columbiana"
-longitude = -80.614381
 latitude = 40.843906
+longitude = -80.614381
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44445"
+

@@ -1,6 +1,8 @@
-zip_code = "71665"
-state = "AR"
 city = "Rison"
 county = "Cleveland"
-longitude = -92.131777
 latitude = 33.900651
+longitude = -92.131777
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71665"
+

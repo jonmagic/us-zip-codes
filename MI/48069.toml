@@ -1,6 +1,8 @@
-zip_code = "48069"
-state = "MI"
 city = "Pleasant Ridge"
 county = "Oakland"
-longitude = -83.144026
 latitude = 42.471385
+longitude = -83.144026
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48069"
+

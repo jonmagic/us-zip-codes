@@ -1,6 +1,8 @@
-zip_code = "59053"
-state = "MT"
 city = "Martinsdale"
 county = "Meagher"
-longitude = -110.845396
 latitude = 46.619039
+longitude = -110.845396
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59053"
+

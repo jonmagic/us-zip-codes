@@ -1,6 +1,8 @@
-zip_code = "70718"
-state = "LA"
 city = "Brittany"
 county = "Ascension"
-longitude = -90.868876
 latitude = 30.201004
+longitude = -90.868876
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70718"
+

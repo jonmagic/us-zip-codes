@@ -1,6 +1,8 @@
-zip_code = "95958"
-state = "CA"
 city = "Nelson"
 county = "Butte"
-longitude = -121.803777
 latitude = 39.556251
+longitude = -121.803777
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95958"
+

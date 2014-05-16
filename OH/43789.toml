@@ -1,6 +1,8 @@
-zip_code = "43789"
-state = "OH"
 city = "Sycamore Valley"
 county = "Monroe"
-longitude = -81.240732
 latitude = 39.654386
+longitude = -81.240732
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43789"
+

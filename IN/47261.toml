@@ -1,6 +1,8 @@
-zip_code = "47261"
-state = "IN"
 city = "Millhousen"
 county = "Decatur"
-longitude = -85.491788
 latitude = 39.292004
+longitude = -85.491788
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47261"
+

@@ -1,6 +1,8 @@
-zip_code = "83220"
-state = "ID"
 city = "Bern"
 county = "Bear Lake"
-longitude = -111.373414
 latitude = 42.295466
+longitude = -111.373414
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83220"
+

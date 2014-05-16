@@ -1,6 +1,8 @@
-zip_code = "71229"
-state = "LA"
 city = "Collinston"
 county = "Morehouse"
-longitude = -91.812865
 latitude = 32.663142
+longitude = -91.812865
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71229"
+

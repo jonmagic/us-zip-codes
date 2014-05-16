@@ -1,6 +1,8 @@
-zip_code = "05733"
-state = "VT"
 city = "Brandon"
 county = "Rutland"
-longitude = -73.121251
 latitude = 43.655139
+longitude = -73.121251
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05733"
+

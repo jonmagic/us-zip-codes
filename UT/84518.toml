@@ -1,6 +1,8 @@
-zip_code = "84518"
-state = "UT"
 city = "Cleveland"
 county = "Emery"
-longitude = -110.893573
 latitude = 39.373583
+longitude = -110.893573
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84518"
+

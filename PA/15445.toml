@@ -1,6 +1,8 @@
-zip_code = "15445"
-state = "PA"
 city = "Hopwood"
 county = "Fayette"
-longitude = -79.671812
 latitude = 39.876835
+longitude = -79.671812
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15445"
+

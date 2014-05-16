@@ -1,6 +1,8 @@
-zip_code = "87552"
-state = "NM"
 city = "Pecos"
 county = "San Miguel"
-longitude = -105.687047
 latitude = 35.571588
+longitude = -105.687047
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87552"
+

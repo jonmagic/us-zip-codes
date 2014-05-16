@@ -1,6 +1,8 @@
-zip_code = "03561"
-state = "NH"
 city = "Littleton"
 county = "Grafton"
-longitude = -71.877638
 latitude = 44.335289
+longitude = -71.877638
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03561"
+

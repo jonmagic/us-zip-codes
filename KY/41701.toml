@@ -1,6 +1,8 @@
-zip_code = "41701"
-state = "KY"
 city = "Hazard"
 county = "Perry"
-longitude = -83.239904
 latitude = 37.299666
+longitude = -83.239904
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41701"
+

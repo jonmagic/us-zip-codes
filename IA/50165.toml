@@ -1,6 +1,8 @@
-zip_code = "50165"
-state = "IA"
 city = "Millerton"
 county = "Wayne"
-longitude = -93.362185
 latitude = 40.843741
+longitude = -93.362185
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50165"
+

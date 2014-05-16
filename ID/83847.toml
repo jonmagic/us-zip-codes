@@ -1,6 +1,8 @@
-zip_code = "83847"
-state = "ID"
 city = "Naples"
 county = "Boundary"
-longitude = -116.304264
 latitude = 48.694804
+longitude = -116.304264
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83847"
+

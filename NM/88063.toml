@@ -1,6 +1,8 @@
-zip_code = "88063"
-state = "NM"
 city = "Sunland Park"
 county = "Dona Ana"
-longitude = -106.599975
 latitude = 31.880055
+longitude = -106.599975
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88063"
+

@@ -1,6 +1,8 @@
-zip_code = "12427"
-state = "NY"
 city = "Elka Park"
 county = "Greene"
-longitude = -74.12958
 latitude = 42.169082
+longitude = -74.12958
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12427"
+

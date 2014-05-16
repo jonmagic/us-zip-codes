@@ -1,6 +1,8 @@
-zip_code = "42071"
-state = "KY"
 city = "Murray"
 county = "Calloway"
-longitude = -88.279562
 latitude = 36.625349
+longitude = -88.279562
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42071"
+

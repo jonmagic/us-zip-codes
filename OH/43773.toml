@@ -1,6 +1,8 @@
-zip_code = "43773"
-state = "OH"
 city = "Quaker City"
 county = "Guernsey"
-longitude = -81.313561
 latitude = 40.040755
+longitude = -81.313561
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43773"
+

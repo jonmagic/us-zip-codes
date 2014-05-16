@@ -1,6 +1,8 @@
-zip_code = "44032"
-state = "OH"
 city = "Dorset"
 county = "Ashtabula"
-longitude = -80.673288
 latitude = 41.677076
+longitude = -80.673288
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44032"
+

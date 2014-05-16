@@ -1,6 +1,8 @@
-zip_code = "95609"
-state = "CA"
 city = "Carmichael"
 county = "Sacramento"
-longitude = -121.327214
 latitude = 38.650335
+longitude = -121.327214
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95609"
+

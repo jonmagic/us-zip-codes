@@ -1,6 +1,8 @@
-zip_code = "30721"
-state = "GA"
 city = "Dalton"
 county = "Whitfield"
-longitude = -84.91381
 latitude = 34.788493
+longitude = -84.91381
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30721"
+

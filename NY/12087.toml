@@ -1,6 +1,8 @@
-zip_code = "12087"
-state = "NY"
 city = "Hannacroix"
 county = "Greene"
-longitude = -73.881515
 latitude = 42.411114
+longitude = -73.881515
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12087"
+

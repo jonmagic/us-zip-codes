@@ -1,6 +1,8 @@
-zip_code = "71750"
-state = "AR"
 city = "Lawson"
 county = "Union"
-longitude = -92.52891
 latitude = 33.198024
+longitude = -92.52891
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71750"
+

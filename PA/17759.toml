@@ -1,6 +1,8 @@
-zip_code = "17759"
-state = "PA"
 city = "Nisbet"
 county = "Lycoming"
-longitude = -77.12137
 latitude = 41.218259
+longitude = -77.12137
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17759"
+

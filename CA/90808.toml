@@ -1,6 +1,8 @@
-zip_code = "90808"
-state = "CA"
 city = "Long Beach"
 county = "Los Angeles"
-longitude = -118.106132
 latitude = 33.800266
+longitude = -118.106132
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90808"
+

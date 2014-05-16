@@ -1,6 +1,8 @@
-zip_code = "43945"
-state = "OH"
 city = "Salineville"
 county = "Columbiana"
-longitude = -80.822333
 latitude = 40.649533
+longitude = -80.822333
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43945"
+

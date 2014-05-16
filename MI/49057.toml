@@ -1,6 +1,8 @@
-zip_code = "49057"
-state = "MI"
 city = "Hartford"
 county = "Van Buren"
-longitude = -86.052434
 latitude = 42.218519
+longitude = -86.052434
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49057"
+

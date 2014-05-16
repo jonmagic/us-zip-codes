@@ -1,6 +1,8 @@
-zip_code = "36362"
-state = "AL"
 city = "Fort Rucker"
 county = "Dale"
-longitude = -85.737811
 latitude = 31.327347
+longitude = -85.737811
+state = ""
+state_code_alpha2 = ""
+zip_code = "36362"
+

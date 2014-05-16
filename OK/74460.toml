@@ -1,6 +1,8 @@
-zip_code = "74460"
-state = "OK"
 city = "Schulter"
 county = "Okmulgee"
-longitude = -95.958271
 latitude = 35.513169
+longitude = -95.958271
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74460"
+

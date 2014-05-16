@@ -1,6 +1,8 @@
-zip_code = "82055"
-state = "WY"
 city = "Centennial"
 county = "Albany"
-longitude = -105.847938
 latitude = 41.311739
+longitude = -105.847938
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82055"
+

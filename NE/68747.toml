@@ -1,6 +1,8 @@
-zip_code = "68747"
-state = "NE"
 city = "Mclean"
 county = "Pierce"
-longitude = -97.475151
 latitude = 42.438634
+longitude = -97.475151
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68747"
+

@@ -1,6 +1,8 @@
-zip_code = "81655"
-state = "CO"
 city = "Wolcott"
 county = "Eagle"
-longitude = -106.696372
 latitude = 39.79073
+longitude = -106.696372
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81655"
+

@@ -1,6 +1,8 @@
-zip_code = "01270"
-state = "MA"
 city = "Windsor"
 county = "Berkshire"
-longitude = -73.116127
 latitude = 42.443726
+longitude = -73.116127
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01270"
+

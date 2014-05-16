@@ -1,6 +1,8 @@
-zip_code = "81127"
-state = "CO"
 city = "Chimney Rock"
 county = "Archuleta"
-longitude = -107.321138
 latitude = 37.250704
+longitude = -107.321138
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81127"
+

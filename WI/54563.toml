@@ -1,6 +1,8 @@
-zip_code = "54563"
-state = "WI"
 city = "Tony"
 county = "Rusk"
-longitude = -90.964443
 latitude = 45.45197
+longitude = -90.964443
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54563"
+

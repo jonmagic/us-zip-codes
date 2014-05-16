@@ -1,6 +1,8 @@
-zip_code = "17754"
-state = "PA"
 city = "Montoursville"
 county = "Lycoming"
-longitude = -76.881055
 latitude = 41.307308
+longitude = -76.881055
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17754"
+

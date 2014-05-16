@@ -1,6 +1,8 @@
-zip_code = "84750"
-state = "UT"
 city = "Marysvale"
 county = "Piute"
-longitude = -112.206757
 latitude = 38.434909
+longitude = -112.206757
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84750"
+

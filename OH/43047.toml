@@ -1,6 +1,8 @@
-zip_code = "43047"
-state = "OH"
 city = "Mingo"
 county = "Champaign"
-longitude = -83.646581
 latitude = 40.204914
+longitude = -83.646581
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43047"
+

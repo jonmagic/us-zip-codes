@@ -1,6 +1,8 @@
-zip_code = "15679"
-state = "PA"
 city = "Ruffs Dale"
 county = "Westmoreland"
-longitude = -79.673364
 latitude = 40.226934
+longitude = -79.673364
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15679"
+

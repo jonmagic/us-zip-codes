@@ -1,6 +1,8 @@
-zip_code = "95228"
-state = "CA"
 city = "Copperopolis"
 county = "Calaveras"
-longitude = -120.649912
 latitude = 37.971877
+longitude = -120.649912
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95228"
+

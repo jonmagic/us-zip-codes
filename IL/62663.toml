@@ -1,6 +1,8 @@
-zip_code = "62663"
-state = "IL"
 city = "Manchester"
 county = "Scott"
-longitude = -90.331705
 latitude = 39.540479
+longitude = -90.331705
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62663"
+

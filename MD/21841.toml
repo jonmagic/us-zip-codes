@@ -1,6 +1,8 @@
-zip_code = "21841"
-state = "MD"
 city = "Newark"
 county = "Worcester"
-longitude = -75.301838
 latitude = 38.246348
+longitude = -75.301838
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21841"
+

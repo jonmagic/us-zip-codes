@@ -1,6 +1,8 @@
-zip_code = "98029"
-state = "WA"
 city = "Issaquah"
 county = "King"
-longitude = -122.025754
 latitude = 47.565587
+longitude = -122.025754
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98029"
+

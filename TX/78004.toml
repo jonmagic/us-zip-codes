@@ -1,6 +1,8 @@
-zip_code = "78004"
-state = "TX"
 city = "Bergheim"
 county = "Kendall"
-longitude = -98.564153
 latitude = 29.897947
+longitude = -98.564153
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78004"
+

@@ -1,6 +1,8 @@
-zip_code = "56065"
-state = "MN"
 city = "Mapleton"
 county = "Blue Earth"
-longitude = -93.952056
 latitude = 43.925112
+longitude = -93.952056
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56065"
+

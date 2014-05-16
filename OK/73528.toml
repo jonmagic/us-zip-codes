@@ -1,6 +1,8 @@
-zip_code = "73528"
-state = "OK"
 city = "Chattanooga"
 county = "Comanche"
-longitude = -98.654352
 latitude = 34.424316
+longitude = -98.654352
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73528"
+

@@ -1,6 +1,8 @@
-zip_code = "54111"
-state = "WI"
 city = "Cecil"
 county = "Shawano"
-longitude = -88.391648
 latitude = 44.810274
+longitude = -88.391648
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54111"
+

@@ -1,6 +1,8 @@
-zip_code = "60082"
-state = "IL"
 city = "Techny"
 county = "Cook"
-longitude = -87.812064
 latitude = 42.116377
+longitude = -87.812064
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60082"
+

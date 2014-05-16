@@ -1,6 +1,8 @@
-zip_code = "80737"
-state = "CO"
 city = "Julesburg"
 county = "Sedgwick"
-longitude = -102.351994
 latitude = 40.875606
+longitude = -102.351994
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80737"
+

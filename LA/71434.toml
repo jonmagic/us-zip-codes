@@ -1,6 +1,8 @@
-zip_code = "71434"
-state = "LA"
 city = "Gorum"
 county = "Natchitoches"
-longitude = -92.998576
 latitude = 31.503751
+longitude = -92.998576
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71434"
+

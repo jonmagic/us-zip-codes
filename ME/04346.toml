@@ -1,6 +1,8 @@
-zip_code = "04346"
-state = "ME"
 city = "Randolph"
 county = "Kennebec"
-longitude = -69.724135
 latitude = 44.269959
+longitude = -69.724135
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04346"
+

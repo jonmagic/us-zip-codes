@@ -1,6 +1,8 @@
-zip_code = "80107"
-state = "CO"
 city = "Elizabeth"
 county = "Elbert"
-longitude = -104.495911
 latitude = 39.382844
+longitude = -104.495911
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80107"
+

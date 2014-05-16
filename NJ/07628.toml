@@ -1,6 +1,8 @@
-zip_code = "07628"
-state = "NJ"
 city = "Dumont"
 county = "Bergen"
-longitude = -73.989911
 latitude = 40.955018
+longitude = -73.989911
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07628"
+

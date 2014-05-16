@@ -1,6 +1,8 @@
-zip_code = "18766"
-state = "PA"
 city = "Wilkes Barre"
 county = "Luzerne"
-longitude = -75.88959
 latitude = 41.244781
+longitude = -75.88959
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18766"
+

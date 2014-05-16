@@ -1,6 +1,8 @@
-zip_code = "15440"
-state = "PA"
 city = "Gibbon Glade"
 county = "Fayette"
-longitude = -79.628365
 latitude = 39.757751
+longitude = -79.628365
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15440"
+

@@ -1,6 +1,8 @@
-zip_code = "97477"
-state = "OR"
 city = "Springfield"
 county = "Lane"
-longitude = -123.444371
 latitude = 43.937276
+longitude = -123.444371
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97477"
+

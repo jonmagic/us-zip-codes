@@ -1,6 +1,8 @@
-zip_code = "96709"
-state = "HI"
 city = "Kapolei"
 county = "Honolulu"
-longitude = -164.701172
 latitude = 23.573339
+longitude = -164.701172
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96709"
+

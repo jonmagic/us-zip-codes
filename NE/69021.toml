@@ -1,6 +1,8 @@
-zip_code = "69021"
-state = "NE"
 city = "Benkelman"
 county = "Dundy"
-longitude = -101.789168
 latitude = 40.103088
+longitude = -101.789168
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69021"
+

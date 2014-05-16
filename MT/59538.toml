@@ -1,6 +1,8 @@
-zip_code = "59538"
-state = "MT"
 city = "Malta"
 county = "Phillips"
-longitude = -107.783145
 latitude = 48.124479
+longitude = -107.783145
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59538"
+

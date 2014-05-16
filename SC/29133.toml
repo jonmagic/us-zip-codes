@@ -1,6 +1,8 @@
-zip_code = "29133"
-state = "SC"
 city = "Rowesville"
 county = "Orangeburg"
-longitude = -80.701135
 latitude = 33.4008
+longitude = -80.701135
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29133"
+

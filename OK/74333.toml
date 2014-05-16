@@ -1,6 +1,8 @@
-zip_code = "74333"
-state = "OK"
 city = "Bluejacket"
 county = "Craig"
-longitude = -95.073159
 latitude = 36.844913
+longitude = -95.073159
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74333"
+

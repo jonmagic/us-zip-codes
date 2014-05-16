@@ -1,6 +1,8 @@
-zip_code = "29676"
-state = "SC"
 city = "Salem"
 county = "Oconee"
-longitude = -82.97658
 latitude = 34.866881
+longitude = -82.97658
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29676"
+

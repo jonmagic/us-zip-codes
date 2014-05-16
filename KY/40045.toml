@@ -1,6 +1,8 @@
-zip_code = "40045"
-state = "KY"
 city = "Milton"
 county = "Trimble"
-longitude = -85.378762
 latitude = 38.687402
+longitude = -85.378762
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40045"
+

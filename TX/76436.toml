@@ -1,6 +1,8 @@
-zip_code = "76436"
-state = "TX"
 city = "Carlton"
 county = "Hamilton"
-longitude = -98.115083
 latitude = 31.717077
+longitude = -98.115083
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76436"
+

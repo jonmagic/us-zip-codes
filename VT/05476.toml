@@ -1,6 +1,8 @@
-zip_code = "05476"
-state = "VT"
 city = "Richford"
 county = "Franklin"
-longitude = -72.65435
 latitude = 44.952669
+longitude = -72.65435
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05476"
+

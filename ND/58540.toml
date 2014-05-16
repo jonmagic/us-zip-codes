@@ -1,6 +1,8 @@
-zip_code = "58540"
-state = "ND"
 city = "Garrison"
 county = "Mclean"
-longitude = -101.61418
 latitude = 47.667515
+longitude = -101.61418
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58540"
+

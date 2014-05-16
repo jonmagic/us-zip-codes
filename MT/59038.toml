@@ -1,6 +1,8 @@
-zip_code = "59038"
-state = "MT"
 city = "Hysham"
 county = "Treasure"
-longitude = -107.228948
 latitude = 46.290753
+longitude = -107.228948
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59038"
+

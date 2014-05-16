@@ -1,6 +1,8 @@
-zip_code = "49073"
-state = "MI"
 city = "Nashville"
 county = "Barry"
-longitude = -85.197412
 latitude = 42.621104
+longitude = -85.197412
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49073"
+

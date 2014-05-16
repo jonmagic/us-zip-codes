@@ -1,6 +1,8 @@
-zip_code = "60474"
-state = "IL"
 city = "South Wilmington"
 county = "Grundy"
-longitude = -88.267338
 latitude = 41.171883
+longitude = -88.267338
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60474"
+

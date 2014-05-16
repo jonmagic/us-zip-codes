@@ -1,6 +1,8 @@
-zip_code = "96719"
-state = "HI"
 city = "Hawi"
 county = "Hawaii"
-longitude = -155.818291
 latitude = 20.222737
+longitude = -155.818291
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96719"
+

@@ -1,6 +1,8 @@
-zip_code = "92539"
-state = "CA"
 city = "Anza"
 county = "Riverside"
-longitude = -116.679174
 latitude = 33.524988
+longitude = -116.679174
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92539"
+

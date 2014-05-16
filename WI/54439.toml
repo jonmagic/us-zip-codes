@@ -1,6 +1,8 @@
-zip_code = "54439"
-state = "WI"
 city = "Hannibal"
 county = "Taylor"
-longitude = -90.484132
 latitude = 45.206757
+longitude = -90.484132
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54439"
+

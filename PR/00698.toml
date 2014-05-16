@@ -1,6 +1,8 @@
-zip_code = "00698"
-state = "PR"
 city = "Yauco"
 county = "Yauco"
-longitude = -66.861164
 latitude = 18.06104
+longitude = -66.861164
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00698"
+

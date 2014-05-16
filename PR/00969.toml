@@ -1,6 +1,8 @@
-zip_code = "00969"
-state = "PR"
 city = "Guaynabo"
 county = "Guaynabo"
-longitude = -66.113729
 latitude = 18.362322
+longitude = -66.113729
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00969"
+

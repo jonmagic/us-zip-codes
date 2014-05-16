@@ -1,6 +1,8 @@
-zip_code = "97119"
-state = "OR"
 city = "Gaston"
 county = "Washington"
-longitude = -123.149974
 latitude = 45.466171
+longitude = -123.149974
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97119"
+

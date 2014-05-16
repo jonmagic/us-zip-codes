@@ -1,6 +1,8 @@
-zip_code = "12803"
-state = "NY"
 city = "South Glens Falls"
 county = "Saratoga"
-longitude = -73.629401
 latitude = 43.283561
+longitude = -73.629401
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12803"
+

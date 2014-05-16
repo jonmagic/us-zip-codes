@@ -1,6 +1,8 @@
-zip_code = "74003"
-state = "OK"
 city = "Bartlesville"
 county = "Washington"
-longitude = -95.970182
 latitude = 36.759485
+longitude = -95.970182
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74003"
+

@@ -1,6 +1,8 @@
-zip_code = "13862"
-state = "NY"
 city = "Whitney Point"
 county = "Broome"
-longitude = -75.945183
 latitude = 42.321825
+longitude = -75.945183
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13862"
+

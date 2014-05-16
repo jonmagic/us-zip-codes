@@ -1,6 +1,8 @@
-zip_code = "77340"
-state = "TX"
 city = "Huntsville"
 county = "Walker"
-longitude = -95.579836
 latitude = 30.644755
+longitude = -95.579836
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77340"
+

@@ -1,6 +1,8 @@
-zip_code = "03230"
-state = "NH"
 city = "Danbury"
 county = "Merrimack"
-longitude = -71.882094
 latitude = 43.514791
+longitude = -71.882094
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03230"
+

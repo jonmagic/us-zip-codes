@@ -1,6 +1,8 @@
-zip_code = "68113"
-state = "NE"
 city = "Offutt A F B"
 county = "Sarpy"
-longitude = -95.917392
 latitude = 41.128191
+longitude = -95.917392
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68113"
+

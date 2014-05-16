@@ -1,6 +1,8 @@
-zip_code = "26750"
-state = "WV"
 city = "Piedmont"
 county = "Mineral"
-longitude = -78.909518
 latitude = 39.546831
+longitude = -78.909518
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26750"
+

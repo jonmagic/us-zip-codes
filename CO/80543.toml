@@ -1,6 +1,8 @@
-zip_code = "80543"
-state = "CO"
 city = "Milliken"
 county = "Weld"
-longitude = -104.841349
 latitude = 40.387381
+longitude = -104.841349
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80543"
+

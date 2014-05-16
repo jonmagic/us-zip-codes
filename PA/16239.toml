@@ -1,6 +1,8 @@
-zip_code = "16239"
-state = "PA"
 city = "Marienville"
 county = "Forest"
-longitude = -79.125004
 latitude = 41.469973
+longitude = -79.125004
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16239"
+

@@ -1,6 +1,8 @@
-zip_code = "14548"
-state = "NY"
 city = "Shortsville"
 county = "Ontario"
-longitude = -77.252696
 latitude = 42.978834
+longitude = -77.252696
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14548"
+

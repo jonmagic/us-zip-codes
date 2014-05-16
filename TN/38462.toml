@@ -1,6 +1,8 @@
-zip_code = "38462"
-state = "TN"
 city = "Hohenwald"
 county = "Lewis"
-longitude = -87.489057
 latitude = 35.526554
+longitude = -87.489057
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38462"
+

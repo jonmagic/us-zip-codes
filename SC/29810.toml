@@ -1,6 +1,8 @@
-zip_code = "29810"
-state = "SC"
 city = "Allendale"
 county = "Allendale"
-longitude = -81.287561
 latitude = 32.990158
+longitude = -81.287561
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29810"
+

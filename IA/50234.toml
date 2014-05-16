@@ -1,6 +1,8 @@
-zip_code = "50234"
-state = "IA"
 city = "Rhodes"
 county = "Marshall"
-longitude = -93.154445
 latitude = 41.906231
+longitude = -93.154445
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50234"
+

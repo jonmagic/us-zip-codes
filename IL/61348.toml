@@ -1,6 +1,8 @@
-zip_code = "61348"
-state = "IL"
 city = "Oglesby"
 county = "La Salle"
-longitude = -89.040428
 latitude = 41.225813
+longitude = -89.040428
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61348"
+

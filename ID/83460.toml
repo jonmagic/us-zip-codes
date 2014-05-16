@@ -1,6 +1,8 @@
-zip_code = "83460"
-state = "ID"
 city = "Rexburg"
 county = "Madison"
-longitude = -111.691047
 latitude = 43.776095
+longitude = -111.691047
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83460"
+

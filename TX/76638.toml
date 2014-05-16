@@ -1,6 +1,8 @@
-zip_code = "76638"
-state = "TX"
 city = "Crawford"
 county = "Mclennan"
-longitude = -97.43051
 latitude = 31.565099
+longitude = -97.43051
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76638"
+

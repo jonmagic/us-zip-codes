@@ -1,6 +1,8 @@
-zip_code = "03755"
-state = "NH"
 city = "Hanover"
 county = "Grafton"
-longitude = -72.120314
 latitude = 43.861077
+longitude = -72.120314
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03755"
+

@@ -1,6 +1,8 @@
-zip_code = "28470"
-state = "NC"
 city = "Shallotte"
 county = "Brunswick"
-longitude = -78.311346
 latitude = 33.992923
+longitude = -78.311346
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28470"
+

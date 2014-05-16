@@ -1,6 +1,8 @@
-zip_code = "49713"
-state = "MI"
 city = "Boyne Falls"
 county = "Charlevoix"
-longitude = -84.848126
 latitude = 45.203875
+longitude = -84.848126
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49713"
+

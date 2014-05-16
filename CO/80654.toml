@@ -1,6 +1,8 @@
-zip_code = "80654"
-state = "CO"
 city = "Wiggins"
 county = "Morgan"
-longitude = -104.046791
 latitude = 40.159839
+longitude = -104.046791
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80654"
+

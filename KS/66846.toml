@@ -1,6 +1,8 @@
-zip_code = "66846"
-state = "KS"
 city = "Council Grove"
 county = "Morris"
-longitude = -96.5469
 latitude = 38.69588
+longitude = -96.5469
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66846"
+

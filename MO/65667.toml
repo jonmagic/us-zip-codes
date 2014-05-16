@@ -1,6 +1,8 @@
-zip_code = "65667"
-state = "MO"
 city = "Hartville"
 county = "Wright"
-longitude = -92.512497
 latitude = 37.319401
+longitude = -92.512497
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65667"
+

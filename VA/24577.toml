@@ -1,6 +1,8 @@
-zip_code = "24577"
-state = "VA"
 city = "Nathalie"
 county = "Halifax"
-longitude = -78.962546
 latitude = 36.811672
+longitude = -78.962546
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24577"
+

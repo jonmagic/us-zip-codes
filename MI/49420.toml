@@ -1,6 +1,8 @@
-zip_code = "49420"
-state = "MI"
 city = "Hart"
 county = "Oceana"
-longitude = -86.334122
 latitude = 43.700968
+longitude = -86.334122
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49420"
+

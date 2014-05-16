@@ -1,6 +1,8 @@
-zip_code = "28089"
-state = "NC"
 city = "Lattimore"
 county = "Cleveland"
-longitude = -81.661675
 latitude = 35.308726
+longitude = -81.661675
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28089"
+

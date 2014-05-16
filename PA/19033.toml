@@ -1,6 +1,8 @@
-zip_code = "19033"
-state = "PA"
 city = "Folsom"
 county = "Delaware"
-longitude = -75.327282
 latitude = 39.890962
+longitude = -75.327282
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19033"
+

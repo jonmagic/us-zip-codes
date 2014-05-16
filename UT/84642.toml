@@ -1,6 +1,8 @@
-zip_code = "84642"
-state = "UT"
 city = "Manti"
 county = "Sanpete"
-longitude = -111.65769
 latitude = 39.358358
+longitude = -111.65769
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84642"
+

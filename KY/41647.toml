@@ -1,6 +1,8 @@
-zip_code = "41647"
-state = "KY"
 city = "Mc Dowell"
 county = "Floyd"
-longitude = -82.713723
 latitude = 37.560801
+longitude = -82.713723
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41647"
+

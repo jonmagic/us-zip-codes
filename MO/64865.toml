@@ -1,6 +1,8 @@
-zip_code = "64865"
-state = "MO"
 city = "Seneca"
 county = "Newton"
-longitude = -94.345348
 latitude = 36.878572
+longitude = -94.345348
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64865"
+

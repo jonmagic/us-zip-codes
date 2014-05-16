@@ -1,6 +1,8 @@
-zip_code = "38588"
-state = "TN"
 city = "Whitleyville"
 county = "Jackson"
-longitude = -85.707955
 latitude = 36.433214
+longitude = -85.707955
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38588"
+

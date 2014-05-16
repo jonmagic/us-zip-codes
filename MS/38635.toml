@@ -1,6 +1,8 @@
-zip_code = "38635"
-state = "MS"
 city = "Holly Springs"
 county = "Marshall"
-longitude = -89.513878
 latitude = 34.774733
+longitude = -89.513878
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38635"
+

@@ -1,6 +1,8 @@
-zip_code = "04435"
-state = "ME"
 city = "Exeter"
 county = "Penobscot"
-longitude = -69.13308
 latitude = 44.966032
+longitude = -69.13308
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04435"
+

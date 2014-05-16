@@ -1,6 +1,8 @@
-zip_code = "00778"
-state = "PR"
 city = "Gurabo"
 county = "Gurabo"
-longitude = -65.974641
 latitude = 18.259092
+longitude = -65.974641
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00778"
+

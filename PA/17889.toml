@@ -1,6 +1,8 @@
-zip_code = "17889"
-state = "PA"
 city = "Winfield"
 county = "Union"
-longitude = -76.859662
 latitude = 40.905947
+longitude = -76.859662
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17889"
+

@@ -1,6 +1,8 @@
-zip_code = "41721"
-state = "KY"
 city = "Buckhorn"
 county = "Perry"
-longitude = -83.47173
 latitude = 37.302001
+longitude = -83.47173
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41721"
+

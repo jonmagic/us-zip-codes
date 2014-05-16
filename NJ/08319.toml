@@ -1,6 +1,8 @@
-zip_code = "08319"
-state = "NJ"
 city = "Estell Manor"
 county = "Atlantic"
-longitude = -74.805412
 latitude = 39.376144
+longitude = -74.805412
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08319"
+

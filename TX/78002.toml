@@ -1,6 +1,8 @@
-zip_code = "78002"
-state = "TX"
 city = "Atascosa"
 county = "Bexar"
-longitude = -98.735851
 latitude = 29.279376
+longitude = -98.735851
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78002"
+

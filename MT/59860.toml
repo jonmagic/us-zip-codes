@@ -1,6 +1,8 @@
-zip_code = "59860"
-state = "MT"
 city = "Polson"
 county = "Lake"
-longitude = -114.230256
 latitude = 47.737279
+longitude = -114.230256
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59860"
+

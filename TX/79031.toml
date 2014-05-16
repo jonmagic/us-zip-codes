@@ -1,6 +1,8 @@
-zip_code = "79031"
-state = "TX"
 city = "Earth"
 county = "Lamb"
-longitude = -102.36276
 latitude = 34.237177
+longitude = -102.36276
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79031"
+

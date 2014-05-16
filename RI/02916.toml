@@ -1,6 +1,8 @@
-zip_code = "02916"
-state = "RI"
 city = "Rumford"
 county = "Providence"
-longitude = -71.355798
 latitude = 41.842727
+longitude = -71.355798
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02916"
+

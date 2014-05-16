@@ -1,6 +1,8 @@
-zip_code = "68004"
-state = "NE"
 city = "Bancroft"
 county = "Cuming"
-longitude = -96.671008
 latitude = 41.995729
+longitude = -96.671008
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68004"
+

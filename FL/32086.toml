@@ -1,6 +1,8 @@
-zip_code = "32086"
-state = "FL"
 city = "Saint Augustine"
 county = "Saint Johns"
-longitude = -81.302246
 latitude = 29.775409
+longitude = -81.302246
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32086"
+

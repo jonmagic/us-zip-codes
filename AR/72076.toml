@@ -1,6 +1,8 @@
-zip_code = "72076"
-state = "AR"
 city = "Jacksonville"
 county = "Pulaski"
-longitude = -92.15149
 latitude = 34.918774
+longitude = -92.15149
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72076"
+

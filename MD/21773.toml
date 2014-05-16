@@ -1,6 +1,8 @@
-zip_code = "21773"
-state = "MD"
 city = "Myersville"
 county = "Frederick"
-longitude = -77.556275
 latitude = 39.550036
+longitude = -77.556275
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21773"
+

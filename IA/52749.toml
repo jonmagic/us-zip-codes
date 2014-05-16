@@ -1,6 +1,8 @@
-zip_code = "52749"
-state = "IA"
 city = "Fruitland"
 county = "Muscatine"
-longitude = -91.123729
 latitude = 41.3486
+longitude = -91.123729
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52749"
+

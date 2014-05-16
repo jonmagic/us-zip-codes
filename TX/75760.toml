@@ -1,6 +1,8 @@
-zip_code = "75760"
-state = "TX"
 city = "Cushing"
 county = "Nacogdoches"
-longitude = -94.841773
 latitude = 31.714047
+longitude = -94.841773
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75760"
+

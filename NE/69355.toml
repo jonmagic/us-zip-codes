@@ -1,6 +1,8 @@
-zip_code = "69355"
-state = "NE"
 city = "Melbeta"
 county = "Scotts Bluff"
-longitude = -103.468748
 latitude = 41.765008
+longitude = -103.468748
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69355"
+

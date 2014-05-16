@@ -1,6 +1,8 @@
-zip_code = "29850"
-state = "SC"
 city = "Vaucluse"
 county = "Aiken"
-longitude = -81.686183
 latitude = 33.545819
+longitude = -81.686183
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29850"
+

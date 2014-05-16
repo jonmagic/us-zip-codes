@@ -1,6 +1,8 @@
-zip_code = "56052"
-state = "MN"
 city = "Kilkenny"
 county = "Le Sueur"
-longitude = -93.574653
 latitude = 44.313417
+longitude = -93.574653
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56052"
+

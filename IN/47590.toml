@@ -1,6 +1,8 @@
-zip_code = "47590"
-state = "IN"
 city = "Velpen"
 county = "Pike"
-longitude = -87.109044
 latitude = 38.367402
+longitude = -87.109044
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47590"
+

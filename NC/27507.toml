@@ -1,6 +1,8 @@
-zip_code = "27507"
-state = "NC"
 city = "Bullock"
 county = "Granville"
-longitude = -78.566691
 latitude = 36.451463
+longitude = -78.566691
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27507"
+

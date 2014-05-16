@@ -1,6 +1,8 @@
-zip_code = "95559"
-state = "CA"
 city = "Phillipsville"
 county = "Humboldt"
-longitude = -123.786863
 latitude = 40.195018
+longitude = -123.786863
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95559"
+

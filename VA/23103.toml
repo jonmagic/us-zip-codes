@@ -1,6 +1,8 @@
-zip_code = "23103"
-state = "VA"
 city = "Manakin Sabot"
 county = "Goochland"
-longitude = -77.791971
 latitude = 37.663224
+longitude = -77.791971
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23103"
+

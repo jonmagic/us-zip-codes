@@ -1,6 +1,8 @@
-zip_code = "40058"
-state = "KY"
 city = "Port Royal"
 county = "Henry"
-longitude = -85.124192
 latitude = 38.494055
+longitude = -85.124192
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40058"
+

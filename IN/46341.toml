@@ -1,6 +1,8 @@
-zip_code = "46341"
-state = "IN"
 city = "Hebron"
 county = "Porter"
-longitude = -87.152358
 latitude = 41.347188
+longitude = -87.152358
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46341"
+

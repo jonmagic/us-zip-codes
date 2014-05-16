@@ -1,6 +1,8 @@
-zip_code = "47342"
-state = "IN"
 city = "Gaston"
 county = "Delaware"
-longitude = -85.432657
 latitude = 40.309361
+longitude = -85.432657
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47342"
+

@@ -1,6 +1,8 @@
-zip_code = "36344"
-state = "AL"
 city = "Hartford"
 county = "Geneva"
-longitude = -85.690252
 latitude = 31.105822
+longitude = -85.690252
+state = ""
+state_code_alpha2 = ""
+zip_code = "36344"
+

@@ -1,6 +1,8 @@
-zip_code = "15476"
-state = "PA"
 city = "Ronco"
 county = "Fayette"
-longitude = -79.916806
 latitude = 39.879384
+longitude = -79.916806
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15476"
+

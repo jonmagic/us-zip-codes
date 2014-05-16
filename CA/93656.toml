@@ -1,6 +1,8 @@
-zip_code = "93656"
-state = "CA"
 city = "Riverdale"
 county = "Fresno"
-longitude = -119.97768
 latitude = 36.466514
+longitude = -119.97768
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93656"
+

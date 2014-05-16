@@ -1,6 +1,8 @@
-zip_code = "51558"
-state = "IA"
 city = "Moorhead"
 county = "Monona"
-longitude = -95.853673
 latitude = 41.939436
+longitude = -95.853673
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51558"
+

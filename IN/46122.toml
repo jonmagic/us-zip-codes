@@ -1,6 +1,8 @@
-zip_code = "46122"
-state = "IN"
 city = "Danville"
 county = "Hendricks"
-longitude = -86.530319
 latitude = 39.766794
+longitude = -86.530319
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46122"
+

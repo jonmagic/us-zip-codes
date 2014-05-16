@@ -1,6 +1,8 @@
-zip_code = "24138"
-state = "VA"
 city = "Pilot"
 county = "Montgomery"
-longitude = -80.32637
 latitude = 37.06488
+longitude = -80.32637
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24138"
+

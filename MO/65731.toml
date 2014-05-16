@@ -1,6 +1,8 @@
-zip_code = "65731"
-state = "MO"
 city = "Powersite"
 county = "Taney"
-longitude = -93.124271
 latitude = 36.657825
+longitude = -93.124271
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65731"
+

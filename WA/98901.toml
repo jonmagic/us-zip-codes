@@ -1,6 +1,8 @@
-zip_code = "98901"
-state = "WA"
 city = "Yakima"
 county = "Yakima"
-longitude = -120.725557
 latitude = 46.644476
+longitude = -120.725557
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98901"
+

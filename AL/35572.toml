@@ -1,6 +1,8 @@
-zip_code = "35572"
-state = "AL"
 city = "Houston"
 county = "Winston"
-longitude = -87.2786
 latitude = 34.188775
+longitude = -87.2786
+state = ""
+state_code_alpha2 = ""
+zip_code = "35572"
+

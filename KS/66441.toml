@@ -1,6 +1,8 @@
-zip_code = "66441"
-state = "KS"
 city = "Junction City"
 county = "Geary"
-longitude = -96.783359
 latitude = 39.026465
+longitude = -96.783359
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66441"
+

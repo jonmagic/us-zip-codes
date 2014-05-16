@@ -1,6 +1,8 @@
-zip_code = "08556"
-state = "NJ"
 city = "Rosemont"
 county = "Hunterdon"
-longitude = -74.988619
 latitude = 40.419965
+longitude = -74.988619
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08556"
+

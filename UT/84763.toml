@@ -1,6 +1,8 @@
-zip_code = "84763"
-state = "UT"
 city = "Rockville"
 county = "Washington"
-longitude = -113.042525
 latitude = 37.160144
+longitude = -113.042525
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84763"
+

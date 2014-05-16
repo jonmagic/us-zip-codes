@@ -1,6 +1,8 @@
-zip_code = "51632"
-state = "IA"
 city = "Clarinda"
 county = "Page"
-longitude = -95.108481
 latitude = 40.738247
+longitude = -95.108481
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51632"
+

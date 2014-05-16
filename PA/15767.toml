@@ -1,6 +1,8 @@
-zip_code = "15767"
-state = "PA"
 city = "Punxsutawney"
 county = "Jefferson"
-longitude = -78.979845
 latitude = 40.944538
+longitude = -78.979845
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15767"
+

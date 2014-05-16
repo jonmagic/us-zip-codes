@@ -1,6 +1,8 @@
-zip_code = "51573"
-state = "IA"
 city = "Stanton"
 county = "Montgomery"
-longitude = -95.115799
 latitude = 40.980119
+longitude = -95.115799
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51573"
+

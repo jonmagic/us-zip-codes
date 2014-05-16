@@ -1,6 +1,8 @@
-zip_code = "88044"
-state = "NM"
 city = "La Mesa"
 county = "Dona Ana"
-longitude = -106.691214
 latitude = 32.143754
+longitude = -106.691214
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88044"
+

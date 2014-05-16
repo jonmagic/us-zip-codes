@@ -1,6 +1,8 @@
-zip_code = "40020"
-state = "KY"
 city = "Fairfield"
 county = "Nelson"
-longitude = -85.386242
 latitude = 37.933981
+longitude = -85.386242
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40020"
+

@@ -1,6 +1,8 @@
-zip_code = "08063"
-state = "NJ"
 city = "National Park"
 county = "Gloucester"
-longitude = -75.218413
 latitude = 39.779654
+longitude = -75.218413
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08063"
+

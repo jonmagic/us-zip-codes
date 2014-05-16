@@ -1,6 +1,8 @@
-zip_code = "27310"
-state = "NC"
 city = "Oak Ridge"
 county = "Guilford"
-longitude = -79.948214
 latitude = 36.166822
+longitude = -79.948214
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27310"
+

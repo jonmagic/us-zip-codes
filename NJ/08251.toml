@@ -1,6 +1,8 @@
-zip_code = "08251"
-state = "NJ"
 city = "Villas"
 county = "Cape May"
-longitude = -74.851181
 latitude = 39.140921
+longitude = -74.851181
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08251"
+

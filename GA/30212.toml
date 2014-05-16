@@ -1,6 +1,8 @@
-zip_code = "30212"
-state = "GA"
 city = "Experiment"
 county = "Spalding"
-longitude = -84.288803
 latitude = 33.278205
+longitude = -84.288803
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30212"
+

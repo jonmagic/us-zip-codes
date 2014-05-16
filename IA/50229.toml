@@ -1,6 +1,8 @@
-zip_code = "50229"
-state = "IA"
 city = "Prole"
 county = "Warren"
-longitude = -93.703126
 latitude = 41.368045
+longitude = -93.703126
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50229"
+

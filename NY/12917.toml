@@ -1,6 +1,8 @@
-zip_code = "12917"
-state = "NY"
 city = "Burke"
 county = "Franklin"
-longitude = -74.200948
 latitude = 44.932057
+longitude = -74.200948
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12917"
+

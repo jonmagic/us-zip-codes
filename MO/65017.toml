@@ -1,6 +1,8 @@
-zip_code = "65017"
-state = "MO"
 city = "Brumley"
 county = "Miller"
-longitude = -92.499823
 latitude = 38.187229
+longitude = -92.499823
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65017"
+

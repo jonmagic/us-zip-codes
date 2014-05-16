@@ -1,6 +1,8 @@
-zip_code = "14009"
-state = "NY"
 city = "Arcade"
 county = "Wyoming"
-longitude = -78.37463
 latitude = 42.597171
+longitude = -78.37463
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14009"
+

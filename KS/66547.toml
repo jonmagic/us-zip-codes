@@ -1,6 +1,8 @@
-zip_code = "66547"
-state = "KS"
 city = "Wamego"
 county = "Pottawatomie"
-longitude = -96.341383
 latitude = 39.298416
+longitude = -96.341383
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66547"
+

@@ -1,6 +1,8 @@
-zip_code = "36427"
-state = "AL"
 city = "Brewton"
 county = "Escambia"
-longitude = -87.26404
 latitude = 31.091784
+longitude = -87.26404
+state = ""
+state_code_alpha2 = ""
+zip_code = "36427"
+

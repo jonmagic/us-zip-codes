@@ -1,6 +1,8 @@
-zip_code = "69043"
-state = "NE"
 city = "Stratton"
 county = "Hitchcock"
-longitude = -101.227939
 latitude = 40.15014
+longitude = -101.227939
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69043"
+

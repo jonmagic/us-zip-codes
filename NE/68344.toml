@@ -1,6 +1,8 @@
-zip_code = "68344"
-state = "NE"
 city = "Douglas"
 county = "Otoe"
-longitude = -96.42238
 latitude = 40.569758
+longitude = -96.42238
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68344"
+

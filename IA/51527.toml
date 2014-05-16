@@ -1,6 +1,8 @@
-zip_code = "51527"
-state = "IA"
 city = "Defiance"
 county = "Shelby"
-longitude = -95.353707
 latitude = 41.80531
+longitude = -95.353707
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51527"
+

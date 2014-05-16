@@ -1,6 +1,8 @@
-zip_code = "40142"
-state = "KY"
 city = "Guston"
 county = "Meade"
-longitude = -86.199842
 latitude = 37.889946
+longitude = -86.199842
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40142"
+

@@ -1,6 +1,8 @@
-zip_code = "60034"
-state = "IL"
 city = "Hebron"
 county = "Mchenry"
-longitude = -88.430802
 latitude = 42.455151
+longitude = -88.430802
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60034"
+

@@ -1,6 +1,8 @@
-zip_code = "72774"
-state = "AR"
 city = "West Fork"
 county = "Washington"
-longitude = -94.198446
 latitude = 35.98025
+longitude = -94.198446
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72774"
+

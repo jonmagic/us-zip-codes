@@ -1,6 +1,8 @@
-zip_code = "28658"
-state = "NC"
 city = "Newton"
 county = "Catawba"
-longitude = -81.17193
 latitude = 35.631914
+longitude = -81.17193
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28658"
+

@@ -1,6 +1,8 @@
-zip_code = "70719"
-state = "LA"
 city = "Brusly"
 county = "West Baton Rouge"
-longitude = -91.273501
 latitude = 30.390091
+longitude = -91.273501
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70719"
+

@@ -1,6 +1,8 @@
-zip_code = "51365"
-state = "IA"
 city = "Wallingford"
 county = "Emmet"
-longitude = -94.796359
 latitude = 43.318868
+longitude = -94.796359
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51365"
+

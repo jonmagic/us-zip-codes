@@ -1,6 +1,8 @@
-zip_code = "16922"
-state = "PA"
 city = "Galeton"
 county = "Potter"
-longitude = -77.644214
 latitude = 41.733379
+longitude = -77.644214
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16922"
+

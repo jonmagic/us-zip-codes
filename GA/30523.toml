@@ -1,6 +1,8 @@
-zip_code = "30523"
-state = "GA"
 city = "Clarkesville"
 county = "Habersham"
-longitude = -83.508274
 latitude = 34.655918
+longitude = -83.508274
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30523"
+

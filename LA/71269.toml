@@ -1,6 +1,8 @@
-zip_code = "71269"
-state = "LA"
 city = "Rayville"
 county = "Richland"
-longitude = -91.743314
 latitude = 32.445645
+longitude = -91.743314
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71269"
+

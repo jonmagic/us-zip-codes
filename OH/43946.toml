@@ -1,6 +1,8 @@
-zip_code = "43946"
-state = "OH"
 city = "Sardis"
 county = "Monroe"
-longitude = -80.970678
 latitude = 39.646018
+longitude = -80.970678
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43946"
+

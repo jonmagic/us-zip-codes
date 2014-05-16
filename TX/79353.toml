@@ -1,6 +1,8 @@
-zip_code = "79353"
-state = "TX"
 city = "Pep"
 county = "Hockley"
-longitude = -102.466624
 latitude = 33.778988
+longitude = -102.466624
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79353"
+

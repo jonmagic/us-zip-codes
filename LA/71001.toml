@@ -1,6 +1,8 @@
-zip_code = "71001"
-state = "LA"
 city = "Arcadia"
 county = "Bienville"
-longitude = -92.970592
 latitude = 32.376273
+longitude = -92.970592
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71001"
+

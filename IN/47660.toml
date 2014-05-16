@@ -1,6 +1,8 @@
-zip_code = "47660"
-state = "IN"
 city = "Oakland City"
 county = "Gibson"
-longitude = -87.514796
 latitude = 38.306265
+longitude = -87.514796
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47660"
+

@@ -1,6 +1,8 @@
-zip_code = "14174"
-state = "NY"
 city = "Youngstown"
 county = "Niagara"
-longitude = -78.988325
 latitude = 43.244454
+longitude = -78.988325
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14174"
+

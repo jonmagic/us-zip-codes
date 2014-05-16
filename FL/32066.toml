@@ -1,6 +1,8 @@
-zip_code = "32066"
-state = "FL"
 city = "Mayo"
 county = "Lafayette"
-longitude = -83.210982
 latitude = 30.148296
+longitude = -83.210982
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32066"
+

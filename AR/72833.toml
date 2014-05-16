@@ -1,6 +1,8 @@
-zip_code = "72833"
-state = "AR"
 city = "Danville"
 county = "Yell"
-longitude = -93.381315
 latitude = 35.052818
+longitude = -93.381315
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72833"
+

@@ -1,6 +1,8 @@
-zip_code = "97520"
-state = "OR"
 city = "Ashland"
 county = "Jackson"
-longitude = -122.537356
 latitude = 42.148098
+longitude = -122.537356
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97520"
+

@@ -1,6 +1,8 @@
-zip_code = "97502"
-state = "OR"
 city = "Central Point"
 county = "Jackson"
-longitude = -122.917383
 latitude = 42.416384
+longitude = -122.917383
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97502"
+

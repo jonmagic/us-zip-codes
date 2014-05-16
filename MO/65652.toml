@@ -1,6 +1,8 @@
-zip_code = "65652"
-state = "MO"
 city = "Fordland"
 county = "Webster"
-longitude = -92.958202
 latitude = 37.165856
+longitude = -92.958202
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65652"
+

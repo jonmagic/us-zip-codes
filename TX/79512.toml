@@ -1,6 +1,8 @@
-zip_code = "79512"
-state = "TX"
 city = "Colorado City"
 county = "Mitchell"
-longitude = -100.900564
 latitude = 32.340912
+longitude = -100.900564
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79512"
+

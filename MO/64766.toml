@@ -1,6 +1,8 @@
-zip_code = "64766"
-state = "MO"
 city = "Milford"
 county = "Barton"
-longitude = -94.345591
 latitude = 37.501451
+longitude = -94.345591
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64766"
+

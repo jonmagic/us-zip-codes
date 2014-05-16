@@ -1,6 +1,8 @@
-zip_code = "88265"
-state = "NM"
 city = "Monument"
 county = "Lea"
-longitude = -103.268907
 latitude = 32.654163
+longitude = -103.268907
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88265"
+

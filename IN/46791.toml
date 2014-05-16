@@ -1,6 +1,8 @@
-zip_code = "46791"
-state = "IN"
 city = "Uniondale"
 county = "Wells"
-longitude = -85.270039
 latitude = 40.859358
+longitude = -85.270039
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46791"
+

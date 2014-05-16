@@ -1,6 +1,8 @@
-zip_code = "76693"
-state = "TX"
 city = "Wortham"
 county = "Freestone"
-longitude = -96.391904
 latitude = 31.76936
+longitude = -96.391904
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76693"
+

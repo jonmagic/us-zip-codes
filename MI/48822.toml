@@ -1,6 +1,8 @@
-zip_code = "48822"
-state = "MI"
 city = "Eagle"
 county = "Clinton"
-longitude = -84.759243
 latitude = 42.85703
+longitude = -84.759243
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48822"
+

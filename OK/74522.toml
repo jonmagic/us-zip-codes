@@ -1,6 +1,8 @@
-zip_code = "74522"
-state = "OK"
 city = "Alderson"
 county = "Pittsburg"
-longitude = -95.69806
 latitude = 34.904489
+longitude = -95.69806
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74522"
+

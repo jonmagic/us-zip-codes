@@ -1,6 +1,8 @@
-zip_code = "88121"
-state = "NM"
 city = "House"
 county = "Quay"
-longitude = -103.970607
 latitude = 34.753722
+longitude = -103.970607
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88121"
+

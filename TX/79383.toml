@@ -1,6 +1,8 @@
-zip_code = "79383"
-state = "TX"
 city = "New Home"
 county = "Lynn"
-longitude = -101.816432
 latitude = 33.177231
+longitude = -101.816432
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79383"
+

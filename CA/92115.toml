@@ -1,6 +1,8 @@
-zip_code = "92115"
-state = "CA"
 city = "San Diego"
 county = "San Diego"
-longitude = -117.070688
 latitude = 32.7576
+longitude = -117.070688
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92115"
+

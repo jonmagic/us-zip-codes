@@ -1,6 +1,8 @@
-zip_code = "83657"
-state = "ID"
 city = "Ola"
 county = "Gem"
-longitude = -116.273214
 latitude = 44.241764
+longitude = -116.273214
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83657"
+

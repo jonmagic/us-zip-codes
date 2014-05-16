@@ -1,6 +1,8 @@
-zip_code = "29429"
-state = "SC"
 city = "Awendaw"
 county = "Charleston"
-longitude = -79.656119
 latitude = 33.006254
+longitude = -79.656119
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29429"
+

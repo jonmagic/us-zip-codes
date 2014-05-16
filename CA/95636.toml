@@ -1,6 +1,8 @@
-zip_code = "95636"
-state = "CA"
 city = "Grizzly Flats"
 county = "El Dorado"
-longitude = -120.553399
 latitude = 38.63765
+longitude = -120.553399
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95636"
+

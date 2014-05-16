@@ -1,6 +1,8 @@
-zip_code = "56710"
-state = "MN"
 city = "Alvarado"
 county = "Marshall"
-longitude = -96.998433
 latitude = 48.191085
+longitude = -96.998433
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56710"
+

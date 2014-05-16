@@ -1,6 +1,8 @@
-zip_code = "39741"
-state = "MS"
 city = "Cedarbluff"
 county = "Clay"
-longitude = -88.753976
 latitude = 33.659271
+longitude = -88.753976
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39741"
+

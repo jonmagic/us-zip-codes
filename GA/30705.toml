@@ -1,6 +1,8 @@
-zip_code = "30705"
-state = "GA"
 city = "Chatsworth"
 county = "Murray"
-longitude = -84.771623
 latitude = 34.785543
+longitude = -84.771623
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30705"
+

@@ -1,6 +1,8 @@
-zip_code = "33041"
-state = "FL"
 city = "Key West"
 county = "Monroe"
-longitude = -81.568862
 latitude = 25.100957
+longitude = -81.568862
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33041"
+

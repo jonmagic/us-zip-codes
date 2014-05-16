@@ -1,6 +1,8 @@
-zip_code = "20868"
-state = "MD"
 city = "Spencerville"
 county = "Montgomery"
-longitude = -76.972157
 latitude = 39.122262
+longitude = -76.972157
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20868"
+

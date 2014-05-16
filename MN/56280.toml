@@ -1,6 +1,8 @@
-zip_code = "56280"
-state = "MN"
 city = "Porter"
 county = "Yellow Medicine"
-longitude = -96.11204
 latitude = 44.674215
+longitude = -96.11204
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56280"
+

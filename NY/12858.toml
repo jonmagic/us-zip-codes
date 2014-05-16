@@ -1,6 +1,8 @@
-zip_code = "12858"
-state = "NY"
 city = "Paradox"
 county = "Essex"
-longitude = -73.400254
 latitude = 43.879451
+longitude = -73.400254
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12858"
+

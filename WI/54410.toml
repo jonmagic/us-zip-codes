@@ -1,6 +1,8 @@
-zip_code = "54410"
-state = "WI"
 city = "Arpin"
 county = "Wood"
-longitude = -90.007245
 latitude = 44.535658
+longitude = -90.007245
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54410"
+

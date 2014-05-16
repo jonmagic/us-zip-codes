@@ -1,6 +1,8 @@
-zip_code = "74080"
-state = "OK"
 city = "Talala"
 county = "Rogers"
-longitude = -95.70201
 latitude = 36.496258
+longitude = -95.70201
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74080"
+

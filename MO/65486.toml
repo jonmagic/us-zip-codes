@@ -1,6 +1,8 @@
-zip_code = "65486"
-state = "MO"
 city = "Iberia"
 county = "Miller"
-longitude = -92.31017
 latitude = 38.108574
+longitude = -92.31017
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65486"
+

@@ -1,6 +1,8 @@
-zip_code = "08903"
-state = "NJ"
 city = "New Brunswick"
 county = "Middlesex"
-longitude = -74.445098
 latitude = 40.513854
+longitude = -74.445098
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08903"
+

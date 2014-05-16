@@ -1,6 +1,8 @@
-zip_code = "74836"
-state = "OK"
 city = "Connerville"
 county = "Johnston"
-longitude = -96.629095
 latitude = 34.419411
+longitude = -96.629095
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74836"
+

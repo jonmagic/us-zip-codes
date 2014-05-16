@@ -1,6 +1,8 @@
-zip_code = "67035"
-state = "KS"
 city = "Cunningham"
 county = "Kingman"
-longitude = -98.35639
 latitude = 37.630922
+longitude = -98.35639
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67035"
+

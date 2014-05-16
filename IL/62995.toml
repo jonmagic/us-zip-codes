@@ -1,6 +1,8 @@
-zip_code = "62995"
-state = "IL"
 city = "Vienna"
 county = "Johnson"
-longitude = -88.898049
 latitude = 37.42417
+longitude = -88.898049
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62995"
+

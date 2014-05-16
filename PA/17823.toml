@@ -1,6 +1,8 @@
-zip_code = "17823"
-state = "PA"
 city = "Dornsife"
 county = "Northumberland"
-longitude = -76.664574
 latitude = 40.889632
+longitude = -76.664574
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17823"
+

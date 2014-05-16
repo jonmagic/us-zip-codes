@@ -1,6 +1,8 @@
-zip_code = "45333"
-state = "OH"
 city = "Houston"
 county = "Shelby"
-longitude = -84.345612
 latitude = 40.248489
+longitude = -84.345612
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45333"
+

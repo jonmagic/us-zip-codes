@@ -1,6 +1,8 @@
-zip_code = "35466"
-state = "AL"
 city = "Gordo"
 county = "Pickens"
-longitude = -87.875835
 latitude = 33.290717
+longitude = -87.875835
+state = ""
+state_code_alpha2 = ""
+zip_code = "35466"
+

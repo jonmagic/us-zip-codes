@@ -1,6 +1,8 @@
-zip_code = "59087"
-state = "MT"
 city = "Winnett"
 county = "Petroleum"
-longitude = -108.122735
 latitude = 47.002053
+longitude = -108.122735
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59087"
+

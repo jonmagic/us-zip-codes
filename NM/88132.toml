@@ -1,6 +1,8 @@
-zip_code = "88132"
-state = "NM"
 city = "Rogers"
 county = "Roosevelt"
-longitude = -103.189798
 latitude = 33.921623
+longitude = -103.189798
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88132"
+

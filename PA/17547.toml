@@ -1,6 +1,8 @@
-zip_code = "17547"
-state = "PA"
 city = "Marietta"
 county = "Lancaster"
-longitude = -76.485935
 latitude = 40.061596
+longitude = -76.485935
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17547"
+

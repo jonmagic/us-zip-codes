@@ -1,6 +1,8 @@
-zip_code = "01004"
-state = "MA"
 city = "Amherst"
 county = "Hampshire"
-longitude = -72.513183
 latitude = 42.384494
+longitude = -72.513183
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01004"
+

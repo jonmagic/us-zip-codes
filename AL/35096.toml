@@ -1,6 +1,8 @@
-zip_code = "35096"
-state = "AL"
 city = "Lincoln"
 county = "Talladega"
-longitude = -86.255605
 latitude = 33.445821
+longitude = -86.255605
+state = ""
+state_code_alpha2 = ""
+zip_code = "35096"
+

@@ -1,6 +1,8 @@
-zip_code = "49770"
-state = "MI"
 city = "Petoskey"
 county = "Emmet"
-longitude = -84.913255
 latitude = 45.355915
+longitude = -84.913255
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49770"
+

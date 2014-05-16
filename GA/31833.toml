@@ -1,6 +1,8 @@
-zip_code = "31833"
-state = "GA"
 city = "West Point"
 county = "Troup"
-longitude = -85.077535
 latitude = 32.907328
+longitude = -85.077535
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31833"
+

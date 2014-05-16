@@ -1,6 +1,8 @@
-zip_code = "56728"
-state = "MN"
 city = "Hallock"
 county = "Kittson"
-longitude = -96.942022
 latitude = 48.774787
+longitude = -96.942022
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56728"
+

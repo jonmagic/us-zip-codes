@@ -1,6 +1,8 @@
-zip_code = "76354"
-state = "TX"
 city = "Burkburnett"
 county = "Wichita"
-longitude = -98.600475
 latitude = 34.048087
+longitude = -98.600475
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76354"
+

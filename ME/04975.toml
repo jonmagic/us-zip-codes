@@ -1,6 +1,8 @@
-zip_code = "04975"
-state = "ME"
 city = "Shawmut"
 county = "Somerset"
-longitude = -69.586852
 latitude = 44.624515
+longitude = -69.586852
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04975"
+

@@ -1,6 +1,8 @@
-zip_code = "31647"
-state = "GA"
 city = "Sparks"
 county = "Cook"
-longitude = -83.412143
 latitude = 31.212878
+longitude = -83.412143
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31647"
+

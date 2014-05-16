@@ -1,6 +1,8 @@
-zip_code = "98588"
-state = "WA"
 city = "Tahuya"
 county = "Mason"
-longitude = -123.096769
 latitude = 47.434953
+longitude = -123.096769
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98588"
+

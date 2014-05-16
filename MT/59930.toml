@@ -1,6 +1,8 @@
-zip_code = "59930"
-state = "MT"
 city = "Rexford"
 county = "Lincoln"
-longitude = -115.118207
 latitude = 48.867183
+longitude = -115.118207
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59930"
+

@@ -1,6 +1,8 @@
-zip_code = "41074"
-state = "KY"
 city = "Dayton"
 county = "Campbell"
-longitude = -84.396404
 latitude = 39.057835
+longitude = -84.396404
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41074"
+

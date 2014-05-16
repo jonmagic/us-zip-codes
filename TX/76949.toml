@@ -1,6 +1,8 @@
-zip_code = "76949"
-state = "TX"
 city = "Silver"
 county = "Coke"
-longitude = -100.530253
 latitude = 31.889601
+longitude = -100.530253
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76949"
+

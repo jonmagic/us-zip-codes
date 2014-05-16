@@ -1,6 +1,8 @@
-zip_code = "00777"
-state = "PR"
 city = "Juncos"
 county = "Juncos"
-longitude = -65.901774
 latitude = 18.206489
+longitude = -65.901774
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00777"
+

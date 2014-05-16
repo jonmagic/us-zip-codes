@@ -1,6 +1,8 @@
-zip_code = "22716"
-state = "VA"
 city = "Castleton"
 county = "Rappahannock"
-longitude = -78.102389
 latitude = 38.624123
+longitude = -78.102389
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22716"
+

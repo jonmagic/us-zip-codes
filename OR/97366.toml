@@ -1,6 +1,8 @@
-zip_code = "97366"
-state = "OR"
 city = "South Beach"
 county = "Lincoln"
-longitude = -124.043287
 latitude = 44.574645
+longitude = -124.043287
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97366"
+

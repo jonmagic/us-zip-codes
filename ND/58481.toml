@@ -1,6 +1,8 @@
-zip_code = "58481"
-state = "ND"
 city = "Spiritwood"
 county = "Stutsman"
-longitude = -98.521889
 latitude = 46.986518
+longitude = -98.521889
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58481"
+

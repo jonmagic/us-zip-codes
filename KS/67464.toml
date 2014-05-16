@@ -1,6 +1,8 @@
-zip_code = "67464"
-state = "KS"
 city = "Marquette"
 county = "Mcpherson"
-longitude = -97.675384
 latitude = 38.529808
+longitude = -97.675384
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67464"
+

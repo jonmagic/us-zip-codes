@@ -1,6 +1,8 @@
-zip_code = "41465"
-state = "KY"
 city = "Salyersville"
 county = "Magoffin"
-longitude = -83.029761
 latitude = 37.732536
+longitude = -83.029761
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41465"
+

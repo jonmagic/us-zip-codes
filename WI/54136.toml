@@ -1,6 +1,8 @@
-zip_code = "54136"
-state = "WI"
 city = "Kimberly"
 county = "Outagamie"
-longitude = -88.473445
 latitude = 44.303208
+longitude = -88.473445
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54136"
+

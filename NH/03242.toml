@@ -1,6 +1,8 @@
-zip_code = "03242"
-state = "NH"
 city = "Henniker"
 county = "Merrimack"
-longitude = -71.81959
 latitude = 43.180148
+longitude = -71.81959
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03242"
+

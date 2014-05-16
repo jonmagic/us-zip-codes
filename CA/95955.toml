@@ -1,6 +1,8 @@
-zip_code = "95955"
-state = "CA"
 city = "Maxwell"
 county = "Colusa"
-longitude = -122.210089
 latitude = 39.2847
+longitude = -122.210089
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95955"
+

@@ -1,6 +1,8 @@
-zip_code = "65536"
-state = "MO"
 city = "Lebanon"
 county = "Laclede"
-longitude = -92.620542
 latitude = 37.685459
+longitude = -92.620542
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65536"
+

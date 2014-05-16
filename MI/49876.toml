@@ -1,6 +1,8 @@
-zip_code = "49876"
-state = "MI"
 city = "Quinnesec"
 county = "Dickinson"
-longitude = -87.959862
 latitude = 45.80759
+longitude = -87.959862
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49876"
+

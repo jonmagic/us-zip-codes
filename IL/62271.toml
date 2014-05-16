@@ -1,6 +1,8 @@
-zip_code = "62271"
-state = "IL"
 city = "Okawville"
 county = "Washington"
-longitude = -89.511013
 latitude = 38.433952
+longitude = -89.511013
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62271"
+

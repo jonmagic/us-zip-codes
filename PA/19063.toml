@@ -1,6 +1,8 @@
-zip_code = "19063"
-state = "PA"
 city = "Media"
 county = "Delaware"
-longitude = -75.399118
 latitude = 39.918804
+longitude = -75.399118
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19063"
+

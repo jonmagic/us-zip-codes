@@ -1,6 +1,8 @@
-zip_code = "06443"
-state = "CT"
 city = "Madison"
 county = "New Haven"
-longitude = -72.788392
 latitude = 41.350397
+longitude = -72.788392
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06443"
+

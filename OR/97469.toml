@@ -1,6 +1,8 @@
-zip_code = "97469"
-state = "OR"
 city = "Riddle"
 county = "Douglas"
-longitude = -123.42545
 latitude = 43.267918
+longitude = -123.42545
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97469"
+

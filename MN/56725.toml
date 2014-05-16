@@ -1,6 +1,8 @@
-zip_code = "56725"
-state = "MN"
 city = "Goodridge"
 county = "Pennington"
-longitude = -95.804345
 latitude = 48.144158
+longitude = -95.804345
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56725"
+

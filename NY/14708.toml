@@ -1,6 +1,8 @@
-zip_code = "14708"
-state = "NY"
 city = "Alma"
 county = "Allegany"
-longitude = -78.084837
 latitude = 42.025431
+longitude = -78.084837
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14708"
+

@@ -1,6 +1,8 @@
-zip_code = "67870"
-state = "KS"
 city = "Satanta"
 county = "Haskell"
-longitude = -100.998474
 latitude = 37.441023
+longitude = -100.998474
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67870"
+

@@ -1,6 +1,8 @@
-zip_code = "54499"
-state = "WI"
 city = "Wittenberg"
 county = "Shawano"
-longitude = -89.11476
 latitude = 44.801314
+longitude = -89.11476
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54499"
+

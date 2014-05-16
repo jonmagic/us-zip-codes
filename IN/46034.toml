@@ -1,6 +1,8 @@
-zip_code = "46034"
-state = "IN"
 city = "Cicero"
 county = "Hamilton"
-longitude = -86.038337
 latitude = 40.154903
+longitude = -86.038337
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46034"
+

@@ -1,6 +1,8 @@
-zip_code = "29667"
-state = "SC"
 city = "Norris"
 county = "Pickens"
-longitude = -82.76478
 latitude = 34.764198
+longitude = -82.76478
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29667"
+

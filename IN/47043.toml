@@ -1,6 +1,8 @@
-zip_code = "47043"
-state = "IN"
 city = "Vevay"
 county = "Switzerland"
-longitude = -85.061136
 latitude = 38.809388
+longitude = -85.061136
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47043"
+

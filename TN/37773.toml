@@ -1,6 +1,8 @@
-zip_code = "37773"
-state = "TN"
 city = "Lone Mountain"
 county = "Claiborne"
-longitude = -83.678621
 latitude = 36.466398
+longitude = -83.678621
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37773"
+

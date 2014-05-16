@@ -1,6 +1,8 @@
-zip_code = "61730"
-state = "IL"
 city = "Cooksville"
 county = "Mclean"
-longitude = -88.716816
 latitude = 40.54215
+longitude = -88.716816
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61730"
+

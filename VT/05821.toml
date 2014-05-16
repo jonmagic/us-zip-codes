@@ -1,6 +1,8 @@
-zip_code = "05821"
-state = "VT"
 city = "Barnet"
 county = "Caledonia"
-longitude = -72.11879
 latitude = 44.313675
+longitude = -72.11879
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05821"
+

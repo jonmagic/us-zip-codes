@@ -1,6 +1,8 @@
-zip_code = "95564"
-state = "CA"
 city = "Samoa"
 county = "Humboldt"
-longitude = -124.199568
 latitude = 40.795138
+longitude = -124.199568
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95564"
+

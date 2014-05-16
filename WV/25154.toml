@@ -1,6 +1,8 @@
-zip_code = "25154"
-state = "WV"
 city = "Peytona"
 county = "Boone"
-longitude = -81.679052
 latitude = 38.136924
+longitude = -81.679052
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25154"
+

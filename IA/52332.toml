@@ -1,6 +1,8 @@
-zip_code = "52332"
-state = "IA"
 city = "Shellsburg"
 county = "Benton"
-longitude = -91.914187
 latitude = 42.101443
+longitude = -91.914187
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52332"
+

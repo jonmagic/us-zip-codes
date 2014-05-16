@@ -1,6 +1,8 @@
-zip_code = "36853"
-state = "AL"
 city = "Dadeville"
 county = "Tallapoosa"
-longitude = -85.744428
 latitude = 32.794796
+longitude = -85.744428
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36853"
+

@@ -1,6 +1,8 @@
-zip_code = "32754"
-state = "FL"
 city = "Mims"
 county = "Brevard"
-longitude = -80.895344
 latitude = 28.699314
+longitude = -80.895344
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32754"
+

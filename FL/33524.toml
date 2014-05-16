@@ -1,6 +1,8 @@
-zip_code = "33524"
-state = "FL"
 city = "Crystal Springs"
 county = "Pasco"
-longitude = -82.152341
 latitude = 28.182209
+longitude = -82.152341
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33524"
+

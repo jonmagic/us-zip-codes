@@ -1,6 +1,8 @@
-zip_code = "65335"
-state = "MO"
 city = "Ionia"
 county = "Benton"
-longitude = -93.323687
 latitude = 38.503854
+longitude = -93.323687
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65335"
+

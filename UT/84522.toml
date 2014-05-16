@@ -1,6 +1,8 @@
-zip_code = "84522"
-state = "UT"
 city = "Emery"
 county = "Emery"
-longitude = -111.251238
 latitude = 38.9226
+longitude = -111.251238
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84522"
+

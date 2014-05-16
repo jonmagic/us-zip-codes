@@ -1,6 +1,8 @@
-zip_code = "18056"
-state = "PA"
 city = "Hereford"
 county = "Berks"
-longitude = -75.581444
 latitude = 40.454205
+longitude = -75.581444
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18056"
+

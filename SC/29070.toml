@@ -1,6 +1,8 @@
-zip_code = "29070"
-state = "SC"
 city = "Leesville"
 county = "Lexington"
-longitude = -81.423918
 latitude = 33.895434
+longitude = -81.423918
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29070"
+

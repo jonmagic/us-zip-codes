@@ -1,6 +1,8 @@
-zip_code = "03777"
-state = "NH"
 city = "Orford"
 county = "Grafton"
-longitude = -72.10987
 latitude = 43.927348
+longitude = -72.10987
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03777"
+

@@ -1,6 +1,8 @@
-zip_code = "49938"
-state = "MI"
 city = "Ironwood"
 county = "Gogebic"
-longitude = -90.167111
 latitude = 46.479574
+longitude = -90.167111
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49938"
+

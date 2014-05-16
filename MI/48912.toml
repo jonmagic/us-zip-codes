@@ -1,6 +1,8 @@
-zip_code = "48912"
-state = "MI"
 city = "Lansing"
 county = "Ingham"
-longitude = -84.524939
 latitude = 42.740054
+longitude = -84.524939
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48912"
+

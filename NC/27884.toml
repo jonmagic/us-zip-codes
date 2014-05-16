@@ -1,6 +1,8 @@
-zip_code = "27884"
-state = "NC"
 city = "Stokes"
 county = "Pitt"
-longitude = -77.266682
 latitude = 35.711302
+longitude = -77.266682
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27884"
+

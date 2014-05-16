@@ -1,6 +1,8 @@
-zip_code = "56349"
-state = "MN"
 city = "Lowry"
 county = "Pope"
-longitude = -95.540402
 latitude = 45.715846
+longitude = -95.540402
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56349"
+

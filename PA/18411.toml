@@ -1,6 +1,8 @@
-zip_code = "18411"
-state = "PA"
 city = "Clarks Summit"
 county = "Lackawanna"
-longitude = -75.681992
 latitude = 41.463694
+longitude = -75.681992
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18411"
+

@@ -1,6 +1,8 @@
-zip_code = "26134"
-state = "WV"
 city = "Belmont"
 county = "Pleasants"
-longitude = -81.263875
 latitude = 39.375025
+longitude = -81.263875
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26134"
+

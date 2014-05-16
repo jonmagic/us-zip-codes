@@ -1,6 +1,8 @@
-zip_code = "93664"
-state = "CA"
 city = "Shaver Lake"
 county = "Fresno"
-longitude = -119.166093
 latitude = 37.098774
+longitude = -119.166093
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93664"
+

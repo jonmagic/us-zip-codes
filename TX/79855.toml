@@ -1,6 +1,8 @@
-zip_code = "79855"
-state = "TX"
 city = "Van Horn"
 county = "Culberson"
-longitude = -104.824473
 latitude = 31.03912
+longitude = -104.824473
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79855"
+

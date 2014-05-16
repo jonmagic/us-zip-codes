@@ -1,6 +1,8 @@
-zip_code = "62434"
-state = "IL"
 city = "Ingraham"
 county = "Clay"
-longitude = -88.473594
 latitude = 38.757302
+longitude = -88.473594
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62434"
+

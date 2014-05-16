@@ -1,6 +1,8 @@
-zip_code = "56087"
-state = "MN"
 city = "Springfield"
 county = "Brown"
-longitude = -94.903534
 latitude = 44.253427
+longitude = -94.903534
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56087"
+

@@ -1,6 +1,8 @@
-zip_code = "17098"
-state = "PA"
 city = "Williamstown"
 county = "Dauphin"
-longitude = -76.695547
 latitude = 40.588313
+longitude = -76.695547
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17098"
+

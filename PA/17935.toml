@@ -1,6 +1,8 @@
-zip_code = "17935"
-state = "PA"
 city = "Girardville"
 county = "Schuylkill"
-longitude = -76.270574
 latitude = 40.795384
+longitude = -76.270574
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17935"
+

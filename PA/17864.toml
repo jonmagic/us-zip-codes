@@ -1,6 +1,8 @@
-zip_code = "17864"
-state = "PA"
 city = "Port Trevorton"
 county = "Snyder"
-longitude = -76.903957
 latitude = 40.695087
+longitude = -76.903957
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17864"
+

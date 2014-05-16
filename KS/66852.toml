@@ -1,6 +1,8 @@
-zip_code = "66852"
-state = "KS"
 city = "Gridley"
 county = "Coffey"
-longitude = -95.794536
 latitude = 38.105539
+longitude = -95.794536
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66852"
+

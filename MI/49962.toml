@@ -1,6 +1,8 @@
-zip_code = "49962"
-state = "MI"
 city = "Skanee"
 county = "Baraga"
-longitude = -88.139072
 latitude = 46.867128
+longitude = -88.139072
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49962"
+

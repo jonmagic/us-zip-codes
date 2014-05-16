@@ -1,6 +1,8 @@
-zip_code = "28315"
-state = "NC"
 city = "Aberdeen"
 county = "Moore"
-longitude = -79.517795
 latitude = 35.203802
+longitude = -79.517795
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28315"
+

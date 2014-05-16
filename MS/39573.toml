@@ -1,6 +1,8 @@
-zip_code = "39573"
-state = "MS"
 city = "Perkinston"
 county = "Stone"
-longitude = -89.112944
 latitude = 30.773109
+longitude = -89.112944
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39573"
+

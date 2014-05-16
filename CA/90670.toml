@@ -1,6 +1,8 @@
-zip_code = "90670"
-state = "CA"
 city = "Santa Fe Springs"
 county = "Los Angeles"
-longitude = -118.063698
 latitude = 33.927063
+longitude = -118.063698
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90670"
+

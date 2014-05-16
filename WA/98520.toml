@@ -1,6 +1,8 @@
-zip_code = "98520"
-state = "WA"
 city = "Aberdeen"
 county = "Grays Harbor"
-longitude = -123.67129
 latitude = 47.002735
+longitude = -123.67129
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98520"
+

@@ -1,6 +1,8 @@
-zip_code = "74542"
-state = "OK"
 city = "Atoka"
 county = "Atoka"
-longitude = -96.039727
 latitude = 34.4187
+longitude = -96.039727
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74542"
+

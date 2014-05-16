@@ -1,6 +1,8 @@
-zip_code = "46167"
-state = "IN"
 city = "Pittsboro"
 county = "Hendricks"
-longitude = -86.475318
 latitude = 39.784191
+longitude = -86.475318
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46167"
+

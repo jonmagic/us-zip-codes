@@ -1,6 +1,8 @@
-zip_code = "18850"
-state = "PA"
 city = "Ulster"
 county = "Bradford"
-longitude = -76.549572
 latitude = 41.813972
+longitude = -76.549572
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18850"
+

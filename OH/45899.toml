@@ -1,6 +1,8 @@
-zip_code = "45899"
-state = "OH"
 city = "Wren"
 county = "Van Wert"
-longitude = -84.785735
 latitude = 40.794002
+longitude = -84.785735
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45899"
+

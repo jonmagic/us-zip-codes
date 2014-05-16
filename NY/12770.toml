@@ -1,6 +1,8 @@
-zip_code = "12770"
-state = "NY"
 city = "Pond Eddy"
 county = "Sullivan"
-longitude = -74.856932
 latitude = 41.446322
+longitude = -74.856932
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12770"
+

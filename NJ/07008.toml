@@ -1,6 +1,8 @@
-zip_code = "07008"
-state = "NJ"
 city = "Carteret"
 county = "Middlesex"
-longitude = -74.234839
 latitude = 40.583203
+longitude = -74.234839
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07008"
+

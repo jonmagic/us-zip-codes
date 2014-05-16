@@ -1,6 +1,8 @@
-zip_code = "10941"
-state = "NY"
 city = "Middletown"
 county = "Orange"
-longitude = -74.354017
 latitude = 41.370586
+longitude = -74.354017
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10941"
+

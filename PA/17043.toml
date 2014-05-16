@@ -1,6 +1,8 @@
-zip_code = "17043"
-state = "PA"
 city = "Lemoyne"
 county = "Cumberland"
-longitude = -76.918796
 latitude = 40.244339
+longitude = -76.918796
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17043"
+

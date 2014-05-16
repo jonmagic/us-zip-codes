@@ -1,6 +1,8 @@
-zip_code = "34698"
-state = "FL"
 city = "Dunedin"
 county = "Pinellas"
-longitude = -82.773995
 latitude = 28.010895
+longitude = -82.773995
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34698"
+

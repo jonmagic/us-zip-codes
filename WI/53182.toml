@@ -1,6 +1,8 @@
-zip_code = "53182"
-state = "WI"
 city = "Union Grove"
 county = "Racine"
-longitude = -88.083092
 latitude = 42.739435
+longitude = -88.083092
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53182"
+

@@ -1,6 +1,8 @@
-zip_code = "83355"
-state = "ID"
 city = "Wendell"
 county = "Gooding"
-longitude = -114.730593
 latitude = 42.747536
+longitude = -114.730593
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83355"
+

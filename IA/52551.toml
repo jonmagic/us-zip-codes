@@ -1,6 +1,8 @@
-zip_code = "52551"
-state = "IA"
 city = "Douds"
 county = "Van Buren"
-longitude = -92.085948
 latitude = 40.837786
+longitude = -92.085948
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52551"
+

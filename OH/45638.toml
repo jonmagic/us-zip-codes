@@ -1,6 +1,8 @@
-zip_code = "45638"
-state = "OH"
 city = "Ironton"
 county = "Lawrence"
-longitude = -82.596777
 latitude = 38.544457
+longitude = -82.596777
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45638"
+

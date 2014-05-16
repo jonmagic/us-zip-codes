@@ -1,6 +1,8 @@
-zip_code = "70642"
-state = "LA"
 city = "Fullerton"
 county = "Vernon"
-longitude = -93.200936
 latitude = 31.111979
+longitude = -93.200936
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70642"
+

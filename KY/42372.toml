@@ -1,6 +1,8 @@
-zip_code = "42372"
-state = "KY"
 city = "Sacramento"
 county = "Mclean"
-longitude = -87.258644
 latitude = 37.488059
+longitude = -87.258644
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42372"
+

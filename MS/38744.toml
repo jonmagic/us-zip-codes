@@ -1,6 +1,8 @@
-zip_code = "38744"
-state = "MS"
 city = "Glen Allan"
 county = "Washington"
-longitude = -91.019421
 latitude = 33.045837
+longitude = -91.019421
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38744"
+

@@ -1,6 +1,8 @@
-zip_code = "13808"
-state = "NY"
 city = "Morris"
 county = "Otsego"
-longitude = -75.131023
 latitude = 42.531661
+longitude = -75.131023
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13808"
+

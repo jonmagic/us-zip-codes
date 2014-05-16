@@ -1,6 +1,8 @@
-zip_code = "74881"
-state = "OK"
 city = "Wellston"
 county = "Lincoln"
-longitude = -97.098322
 latitude = 35.634929
+longitude = -97.098322
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74881"
+

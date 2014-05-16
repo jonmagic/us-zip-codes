@@ -1,6 +1,8 @@
-zip_code = "42762"
-state = "KY"
 city = "Millwood"
 county = "Grayson"
-longitude = -86.400828
 latitude = 37.444623
+longitude = -86.400828
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42762"
+

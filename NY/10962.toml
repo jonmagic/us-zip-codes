@@ -1,6 +1,8 @@
-zip_code = "10962"
-state = "NY"
 city = "Orangeburg"
 county = "Rockland"
-longitude = -73.953181
 latitude = 41.057496
+longitude = -73.953181
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10962"
+

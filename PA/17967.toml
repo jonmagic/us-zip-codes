@@ -1,6 +1,8 @@
-zip_code = "17967"
-state = "PA"
 city = "Ringtown"
 county = "Schuylkill"
-longitude = -76.23464
 latitude = 40.856227
+longitude = -76.23464
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17967"
+

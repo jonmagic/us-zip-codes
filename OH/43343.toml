@@ -1,6 +1,8 @@
-zip_code = "43343"
-state = "OH"
 city = "Quincy"
 county = "Logan"
-longitude = -83.792897
 latitude = 40.391089
+longitude = -83.792897
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43343"
+

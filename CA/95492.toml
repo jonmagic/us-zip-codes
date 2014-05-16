@@ -1,6 +1,8 @@
-zip_code = "95492"
-state = "CA"
 city = "Windsor"
 county = "Sonoma"
-longitude = -122.8041
 latitude = 38.532827
+longitude = -122.8041
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95492"
+

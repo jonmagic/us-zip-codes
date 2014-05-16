@@ -1,6 +1,8 @@
-zip_code = "70090"
-state = "LA"
 city = "Vacherie"
 county = "Saint James"
-longitude = -90.761722
 latitude = 29.989546
+longitude = -90.761722
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70090"
+

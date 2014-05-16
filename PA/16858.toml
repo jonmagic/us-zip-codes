@@ -1,6 +1,8 @@
-zip_code = "16858"
-state = "PA"
 city = "Morrisdale"
 county = "Clearfield"
-longitude = -78.191551
 latitude = 40.96891
+longitude = -78.191551
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16858"
+

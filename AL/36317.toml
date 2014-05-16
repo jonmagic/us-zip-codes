@@ -1,6 +1,8 @@
-zip_code = "36317"
-state = "AL"
 city = "Clopton"
 county = "Dale"
-longitude = -85.603458
 latitude = 31.407872
+longitude = -85.603458
+state = ""
+state_code_alpha2 = ""
+zip_code = "36317"
+

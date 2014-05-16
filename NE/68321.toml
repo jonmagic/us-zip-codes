@@ -1,6 +1,8 @@
-zip_code = "68321"
-state = "NE"
 city = "Brownville"
 county = "Nemaha"
-longitude = -95.663987
 latitude = 40.397541
+longitude = -95.663987
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68321"
+

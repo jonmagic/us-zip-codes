@@ -1,6 +1,8 @@
-zip_code = "29471"
-state = "SC"
 city = "Reevesville"
 county = "Dorchester"
-longitude = -80.660654
 latitude = 33.172596
+longitude = -80.660654
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29471"
+

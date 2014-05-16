@@ -1,6 +1,8 @@
-zip_code = "98859"
-state = "WA"
 city = "Wauconda"
 county = "Okanogan"
-longitude = -119.025578
 latitude = 48.798456
+longitude = -119.025578
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98859"
+

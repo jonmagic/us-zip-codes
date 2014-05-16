@@ -1,6 +1,8 @@
-zip_code = "06256"
-state = "CT"
 city = "North Windham"
 county = "Windham"
-longitude = -72.040003
 latitude = 41.778469
+longitude = -72.040003
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06256"
+

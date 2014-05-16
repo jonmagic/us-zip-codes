@@ -1,6 +1,8 @@
-zip_code = "45061"
-state = "OH"
 city = "Ross"
 county = "Butler"
-longitude = -84.64828
 latitude = 39.31235
+longitude = -84.64828
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45061"
+

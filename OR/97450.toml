@@ -1,6 +1,8 @@
-zip_code = "97450"
-state = "OR"
 city = "Langlois"
 county = "Curry"
-longitude = -124.406262
 latitude = 42.893126
+longitude = -124.406262
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97450"
+

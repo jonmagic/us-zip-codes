@@ -1,6 +1,8 @@
-zip_code = "23060"
-state = "VA"
 city = "Glen Allen"
 county = "Henrico"
-longitude = -77.508719
 latitude = 37.595064
+longitude = -77.508719
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23060"
+

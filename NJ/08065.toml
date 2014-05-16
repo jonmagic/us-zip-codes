@@ -1,6 +1,8 @@
-zip_code = "08065"
-state = "NJ"
 city = "Palmyra"
 county = "Burlington"
-longitude = -74.861971
 latitude = 40.031291
+longitude = -74.861971
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08065"
+

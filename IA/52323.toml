@@ -1,6 +1,8 @@
-zip_code = "52323"
-state = "IA"
 city = "Oxford Junction"
 county = "Jones"
-longitude = -91.005688
 latitude = 42.030946
+longitude = -91.005688
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52323"
+

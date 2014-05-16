@@ -1,6 +1,8 @@
-zip_code = "79237"
-state = "TX"
 city = "Hedley"
 county = "Donley"
-longitude = -100.658936
 latitude = 34.869376
+longitude = -100.658936
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79237"
+

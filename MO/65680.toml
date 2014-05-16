@@ -1,6 +1,8 @@
-zip_code = "65680"
-state = "MO"
 city = "Kissee Mills"
 county = "Taney"
-longitude = -92.985076
 latitude = 36.69779
+longitude = -92.985076
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65680"
+

@@ -1,6 +1,8 @@
-zip_code = "51463"
-state = "IA"
 city = "Templeton"
 county = "Carroll"
-longitude = -94.898698
 latitude = 41.912702
+longitude = -94.898698
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51463"
+

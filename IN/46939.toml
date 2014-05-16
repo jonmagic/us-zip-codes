@@ -1,6 +1,8 @@
-zip_code = "46939"
-state = "IN"
 city = "Kewanna"
 county = "Fulton"
-longitude = -86.374647
 latitude = 41.040533
+longitude = -86.374647
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46939"
+

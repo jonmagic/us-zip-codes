@@ -1,6 +1,8 @@
-zip_code = "05452"
-state = "VT"
 city = "Essex Junction"
 county = "Chittenden"
-longitude = -73.025271
 latitude = 44.485558
+longitude = -73.025271
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05452"
+

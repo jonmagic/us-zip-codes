@@ -1,6 +1,8 @@
-zip_code = "45377"
-state = "OH"
 city = "Vandalia"
 county = "Montgomery"
-longitude = -84.242243
 latitude = 39.889006
+longitude = -84.242243
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45377"
+

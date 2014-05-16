@@ -1,6 +1,8 @@
-zip_code = "64635"
-state = "MO"
 city = "Chula"
 county = "Livingston"
-longitude = -93.446294
 latitude = 39.921825
+longitude = -93.446294
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64635"
+

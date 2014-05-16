@@ -1,6 +1,8 @@
-zip_code = "32538"
-state = "FL"
 city = "Paxton"
 county = "Walton"
-longitude = -86.311093
 latitude = 30.970853
+longitude = -86.311093
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32538"
+

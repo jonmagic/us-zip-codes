@@ -1,6 +1,8 @@
-zip_code = "23180"
-state = "VA"
 city = "Water View"
 county = "Middlesex"
-longitude = -76.613446
 latitude = 37.725161
+longitude = -76.613446
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23180"
+

@@ -1,6 +1,8 @@
-zip_code = "72472"
-state = "AR"
 city = "Trumann"
 county = "Poinsett"
-longitude = -90.561977
 latitude = 35.588215
+longitude = -90.561977
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72472"
+

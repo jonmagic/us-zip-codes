@@ -1,6 +1,8 @@
-zip_code = "36561"
-state = "AL"
 city = "Orange Beach"
 county = "Baldwin"
-longitude = -87.581457
 latitude = 30.281046
+longitude = -87.581457
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36561"
+

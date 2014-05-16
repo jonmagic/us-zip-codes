@@ -1,6 +1,8 @@
-zip_code = "12544"
-state = "NY"
 city = "Mellenville"
 county = "Columbia"
-longitude = -73.667962
 latitude = 42.259623
+longitude = -73.667962
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12544"
+

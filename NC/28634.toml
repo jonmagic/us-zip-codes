@@ -1,6 +1,8 @@
-zip_code = "28634"
-state = "NC"
 city = "Harmony"
 county = "Iredell"
-longitude = -80.777838
 latitude = 35.964392
+longitude = -80.777838
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28634"
+

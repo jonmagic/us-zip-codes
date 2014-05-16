@@ -1,6 +1,8 @@
-zip_code = "21903"
-state = "MD"
 city = "Perryville"
 county = "Cecil"
-longitude = -76.033281
 latitude = 39.571449
+longitude = -76.033281
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21903"
+

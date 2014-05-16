@@ -1,6 +1,8 @@
-zip_code = "30447"
-state = "GA"
 city = "Norristown"
 county = "Emanuel"
-longitude = -82.484754
 latitude = 32.504092
+longitude = -82.484754
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30447"
+

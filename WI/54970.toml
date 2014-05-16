@@ -1,6 +1,8 @@
-zip_code = "54970"
-state = "WI"
 city = "Redgranite"
 county = "Waushara"
-longitude = -89.217031
 latitude = 44.080217
+longitude = -89.217031
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54970"
+

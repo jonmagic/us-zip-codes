@@ -1,6 +1,8 @@
-zip_code = "01030"
-state = "MA"
 city = "Feeding Hills"
 county = "Hampden"
-longitude = -72.79774
 latitude = 42.189335
+longitude = -72.79774
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01030"
+

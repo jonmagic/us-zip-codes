@@ -1,6 +1,8 @@
-zip_code = "56075"
-state = "MN"
 city = "Northrop"
 county = "Martin"
-longitude = -94.435705
 latitude = 43.735278
+longitude = -94.435705
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56075"
+

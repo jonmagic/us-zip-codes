@@ -1,6 +1,8 @@
-zip_code = "67432"
-state = "KS"
 city = "Clay Center"
 county = "Clay"
-longitude = -97.164849
 latitude = 39.349452
+longitude = -97.164849
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67432"
+

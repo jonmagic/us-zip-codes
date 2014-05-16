@@ -1,6 +1,8 @@
-zip_code = "63738"
-state = "MO"
 city = "Brownwood"
 county = "Stoddard"
-longitude = -89.952257
 latitude = 37.082824
+longitude = -89.952257
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63738"
+

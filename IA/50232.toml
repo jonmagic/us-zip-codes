@@ -1,6 +1,8 @@
-zip_code = "50232"
-state = "IA"
 city = "Reasnor"
 county = "Jasper"
-longitude = -92.981908
 latitude = 41.560308
+longitude = -92.981908
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50232"
+

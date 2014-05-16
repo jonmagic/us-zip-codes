@@ -1,6 +1,8 @@
-zip_code = "61919"
-state = "IL"
 city = "Camargo"
 county = "Douglas"
-longitude = -88.149912
 latitude = 39.752952
+longitude = -88.149912
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61919"
+

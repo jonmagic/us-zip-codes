@@ -1,6 +1,8 @@
-zip_code = "13167"
-state = "NY"
 city = "West Monroe"
 county = "Oswego"
-longitude = -76.229719
 latitude = 43.346453
+longitude = -76.229719
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13167"
+

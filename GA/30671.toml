@@ -1,6 +1,8 @@
-zip_code = "30671"
-state = "GA"
 city = "Maxeys"
 county = "Oglethorpe"
-longitude = -83.1706
 latitude = 33.740502
+longitude = -83.1706
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30671"
+

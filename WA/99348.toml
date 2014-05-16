@@ -1,6 +1,8 @@
-zip_code = "99348"
-state = "WA"
 city = "Prescott"
 county = "Walla Walla"
-longitude = -118.455541
 latitude = 46.354972
+longitude = -118.455541
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99348"
+

@@ -1,6 +1,8 @@
-zip_code = "76832"
-state = "TX"
 city = "Cherokee"
 county = "San Saba"
-longitude = -98.710661
 latitude = 30.965073
+longitude = -98.710661
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76832"
+

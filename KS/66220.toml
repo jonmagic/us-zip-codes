@@ -1,6 +1,8 @@
-zip_code = "66220"
-state = "KS"
 city = "Shawnee Mission"
 county = "Johnson"
-longitude = -94.822249
 latitude = 38.961334
+longitude = -94.822249
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66220"
+

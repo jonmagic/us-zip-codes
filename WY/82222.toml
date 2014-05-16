@@ -1,6 +1,8 @@
-zip_code = "82222"
-state = "WY"
 city = "Lance Creek"
 county = "Niobrara"
-longitude = -104.59198
 latitude = 43.152195
+longitude = -104.59198
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82222"
+

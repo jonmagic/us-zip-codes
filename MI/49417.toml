@@ -1,6 +1,8 @@
-zip_code = "49417"
-state = "MI"
 city = "Grand Haven"
 county = "Ottawa"
-longitude = -86.129031
 latitude = 43.008786
+longitude = -86.129031
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49417"
+

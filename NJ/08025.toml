@@ -1,6 +1,8 @@
-zip_code = "08025"
-state = "NJ"
 city = "Ewan"
 county = "Gloucester"
-longitude = -75.162903
 latitude = 39.701526
+longitude = -75.162903
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08025"
+

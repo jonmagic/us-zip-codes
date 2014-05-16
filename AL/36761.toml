@@ -1,6 +1,8 @@
-zip_code = "36761"
-state = "AL"
 city = "Minter"
 county = "Dallas"
-longitude = -87.063331
 latitude = 32.189926
+longitude = -87.063331
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36761"
+

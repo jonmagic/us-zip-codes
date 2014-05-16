@@ -1,6 +1,8 @@
-zip_code = "42003"
-state = "KY"
 city = "Paducah"
 county = "Mccracken"
-longitude = -88.581289
 latitude = 37.015159
+longitude = -88.581289
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42003"
+

@@ -1,6 +1,8 @@
-zip_code = "28335"
-state = "NC"
 city = "Dunn"
 county = "Harnett"
-longitude = -78.625362
 latitude = 35.350774
+longitude = -78.625362
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28335"
+

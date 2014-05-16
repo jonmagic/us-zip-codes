@@ -1,6 +1,8 @@
-zip_code = "71643"
-state = "AR"
 city = "Gould"
 county = "Lincoln"
-longitude = -91.626178
 latitude = 34.024648
+longitude = -91.626178
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71643"
+

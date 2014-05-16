@@ -1,6 +1,8 @@
-zip_code = "13029"
-state = "NY"
 city = "Brewerton"
 county = "Onondaga"
-longitude = -76.140648
 latitude = 43.227448
+longitude = -76.140648
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13029"
+

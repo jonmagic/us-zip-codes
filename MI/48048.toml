@@ -1,6 +1,8 @@
-zip_code = "48048"
-state = "MI"
 city = "New Haven"
 county = "Macomb"
-longitude = -82.804166
 latitude = 42.744267
+longitude = -82.804166
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48048"
+

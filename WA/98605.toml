@@ -1,6 +1,8 @@
-zip_code = "98605"
-state = "WA"
 city = "Bingen"
 county = "Klickitat"
-longitude = -121.447323
 latitude = 45.721519
+longitude = -121.447323
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98605"
+

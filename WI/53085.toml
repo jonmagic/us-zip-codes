@@ -1,6 +1,8 @@
-zip_code = "53085"
-state = "WI"
 city = "Sheboygan Falls"
 county = "Sheboygan"
-longitude = -87.853069
 latitude = 43.726404
+longitude = -87.853069
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53085"
+

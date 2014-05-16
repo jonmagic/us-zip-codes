@@ -1,6 +1,8 @@
-zip_code = "04732"
-state = "ME"
 city = "Ashland"
 county = "Aroostook"
-longitude = -68.39816
 latitude = 46.975725
+longitude = -68.39816
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04732"
+

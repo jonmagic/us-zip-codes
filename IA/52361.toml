@@ -1,6 +1,8 @@
-zip_code = "52361"
-state = "IA"
 city = "Williamsburg"
 county = "Iowa"
-longitude = -92.065181
 latitude = 41.649999
+longitude = -92.065181
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52361"
+

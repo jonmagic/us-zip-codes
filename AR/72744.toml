@@ -1,6 +1,8 @@
-zip_code = "72744"
-state = "AR"
 city = "Lincoln"
 county = "Washington"
-longitude = -94.362211
 latitude = 35.935038
+longitude = -94.362211
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72744"
+

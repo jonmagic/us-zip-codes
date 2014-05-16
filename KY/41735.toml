@@ -1,6 +1,8 @@
-zip_code = "41735"
-state = "KY"
 city = "Delphia"
 county = "Perry"
-longitude = -83.096311
 latitude = 37.033615
+longitude = -83.096311
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41735"
+

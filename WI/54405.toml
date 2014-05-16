@@ -1,6 +1,8 @@
-zip_code = "54405"
-state = "WI"
 city = "Abbotsford"
 county = "Clark"
-longitude = -90.374893
 latitude = 44.960186
+longitude = -90.374893
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54405"
+

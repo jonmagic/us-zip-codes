@@ -1,6 +1,8 @@
-zip_code = "51648"
-state = "IA"
 city = "Percival"
 county = "Fremont"
-longitude = -95.761779
 latitude = 40.742301
+longitude = -95.761779
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51648"
+

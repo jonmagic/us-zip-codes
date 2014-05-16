@@ -1,6 +1,8 @@
-zip_code = "35071"
-state = "AL"
 city = "Gardendale"
 county = "Jefferson"
-longitude = -86.848289
 latitude = 33.70615
+longitude = -86.848289
+state = ""
+state_code_alpha2 = ""
+zip_code = "35071"
+

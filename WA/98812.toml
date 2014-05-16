@@ -1,6 +1,8 @@
-zip_code = "98812"
-state = "WA"
 city = "Brewster"
 county = "Okanogan"
-longitude = -119.829391
 latitude = 48.365236
+longitude = -119.829391
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98812"
+

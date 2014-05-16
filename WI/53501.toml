@@ -1,6 +1,8 @@
-zip_code = "53501"
-state = "WI"
 city = "Afton"
 county = "Rock"
-longitude = -89.070448
 latitude = 42.605454
+longitude = -89.070448
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53501"
+

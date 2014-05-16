@@ -1,6 +1,8 @@
-zip_code = "52040"
-state = "IA"
 city = "Dyersville"
 county = "Dubuque"
-longitude = -91.035655
 latitude = 42.421746
+longitude = -91.035655
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52040"
+

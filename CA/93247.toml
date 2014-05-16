@@ -1,6 +1,8 @@
-zip_code = "93247"
-state = "CA"
 city = "Lindsay"
 county = "Tulare"
-longitude = -119.129166
 latitude = 36.073033
+longitude = -119.129166
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93247"
+

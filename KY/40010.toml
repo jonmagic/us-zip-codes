@@ -1,6 +1,8 @@
-zip_code = "40010"
-state = "KY"
 city = "Buckner"
 county = "Oldham"
-longitude = -85.44584
 latitude = 38.389195
+longitude = -85.44584
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40010"
+

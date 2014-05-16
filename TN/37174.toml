@@ -1,6 +1,8 @@
-zip_code = "37174"
-state = "TN"
 city = "Spring Hill"
 county = "Maury"
-longitude = -86.901661
 latitude = 35.712381
+longitude = -86.901661
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37174"
+

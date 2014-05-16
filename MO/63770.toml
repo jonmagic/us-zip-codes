@@ -1,6 +1,8 @@
-zip_code = "63770"
-state = "MO"
 city = "Old Appleton"
 county = "Cape Girardeau"
-longitude = -89.679373
 latitude = 37.589021
+longitude = -89.679373
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63770"
+

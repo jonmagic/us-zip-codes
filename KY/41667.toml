@@ -1,6 +1,8 @@
-zip_code = "41667"
-state = "KY"
 city = "Weeksbury"
 county = "Floyd"
-longitude = -82.704127
 latitude = 37.316961
+longitude = -82.704127
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41667"
+

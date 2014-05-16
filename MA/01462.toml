@@ -1,6 +1,8 @@
-zip_code = "01462"
-state = "MA"
 city = "Lunenburg"
 county = "Worcester"
-longitude = -71.752266
 latitude = 42.583322
+longitude = -71.752266
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01462"
+

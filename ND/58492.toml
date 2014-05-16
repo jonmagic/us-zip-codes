@@ -1,6 +1,8 @@
-zip_code = "58492"
-state = "ND"
 city = "Wimbledon"
 county = "Barnes"
-longitude = -98.397443
 latitude = 47.110075
+longitude = -98.397443
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58492"
+

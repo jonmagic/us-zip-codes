@@ -1,6 +1,8 @@
-zip_code = "66095"
-state = "KS"
 city = "Williamsburg"
 county = "Franklin"
-longitude = -95.406321
 latitude = 38.47913
+longitude = -95.406321
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66095"
+

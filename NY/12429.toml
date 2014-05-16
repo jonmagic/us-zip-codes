@@ -1,6 +1,8 @@
-zip_code = "12429"
-state = "NY"
 city = "Esopus"
 county = "Ulster"
-longitude = -73.992565
 latitude = 41.816228
+longitude = -73.992565
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12429"
+

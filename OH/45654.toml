@@ -1,6 +1,8 @@
-zip_code = "45654"
-state = "OH"
 city = "New Plymouth"
 county = "Vinton"
-longitude = -82.379663
 latitude = 39.332256
+longitude = -82.379663
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45654"
+

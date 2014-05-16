@@ -1,6 +1,8 @@
-zip_code = "18938"
-state = "PA"
 city = "New Hope"
 county = "Bucks"
-longitude = -74.998605
 latitude = 40.357492
+longitude = -74.998605
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18938"
+

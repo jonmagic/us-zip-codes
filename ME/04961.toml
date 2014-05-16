@@ -1,6 +1,8 @@
-zip_code = "04961"
-state = "ME"
 city = "North New Portland"
 county = "Somerset"
-longitude = -69.909773
 latitude = 45.575731
+longitude = -69.909773
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04961"
+

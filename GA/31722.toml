@@ -1,6 +1,8 @@
-zip_code = "31722"
-state = "GA"
 city = "Berlin"
 county = "Colquitt"
-longitude = -83.649138
 latitude = 31.080682
+longitude = -83.649138
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31722"
+

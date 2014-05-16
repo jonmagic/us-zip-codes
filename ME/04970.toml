@@ -1,6 +1,8 @@
-zip_code = "04970"
-state = "ME"
 city = "Rangeley"
 county = "Franklin"
-longitude = -70.660181
 latitude = 44.985998
+longitude = -70.660181
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04970"
+

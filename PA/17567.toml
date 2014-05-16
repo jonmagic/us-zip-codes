@@ -1,6 +1,8 @@
-zip_code = "17567"
-state = "PA"
 city = "Reamstown"
 county = "Lancaster"
-longitude = -76.116445
 latitude = 40.209941
+longitude = -76.116445
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17567"
+

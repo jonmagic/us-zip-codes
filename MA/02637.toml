@@ -1,6 +1,8 @@
-zip_code = "02637"
-state = "MA"
 city = "Cummaquid"
 county = "Barnstable"
-longitude = -70.277212
 latitude = 41.701438
+longitude = -70.277212
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02637"
+

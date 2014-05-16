@@ -1,6 +1,8 @@
-zip_code = "77651"
-state = "TX"
 city = "Port Neches"
 county = "Jefferson"
-longitude = -94.132182
 latitude = 30.005205
+longitude = -94.132182
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77651"
+

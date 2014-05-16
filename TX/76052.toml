@@ -1,6 +1,8 @@
-zip_code = "76052"
-state = "TX"
 city = "Haslet"
 county = "Tarrant"
-longitude = -97.353767
 latitude = 32.941139
+longitude = -97.353767
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76052"
+

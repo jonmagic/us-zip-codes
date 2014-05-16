@@ -1,6 +1,8 @@
-zip_code = "10501"
-state = "NY"
 city = "Amawalk"
 county = "Westchester"
-longitude = -73.759033
 latitude = 41.293169
+longitude = -73.759033
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10501"
+

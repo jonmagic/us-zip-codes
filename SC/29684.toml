@@ -1,6 +1,8 @@
-zip_code = "29684"
-state = "SC"
 city = "Starr"
 county = "Anderson"
-longitude = -82.660151
 latitude = 34.409132
+longitude = -82.660151
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29684"
+

@@ -1,6 +1,8 @@
-zip_code = "14125"
-state = "NY"
 city = "Oakfield"
 county = "Genesee"
-longitude = -78.269677
 latitude = 43.087438
+longitude = -78.269677
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14125"
+

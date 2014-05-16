@@ -1,6 +1,8 @@
-zip_code = "30137"
-state = "GA"
 city = "Emerson"
 county = "Bartow"
-longitude = -84.762315
 latitude = 34.118352
+longitude = -84.762315
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30137"
+

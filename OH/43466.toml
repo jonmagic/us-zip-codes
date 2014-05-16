@@ -1,6 +1,8 @@
-zip_code = "43466"
-state = "OH"
 city = "Wayne"
 county = "Wood"
-longitude = -83.524683
 latitude = 41.296984
+longitude = -83.524683
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43466"
+

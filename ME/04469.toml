@@ -1,6 +1,8 @@
-zip_code = "04469"
-state = "ME"
 city = "Orono"
 county = "Penobscot"
-longitude = -68.63343
 latitude = 45.002798
+longitude = -68.63343
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04469"
+

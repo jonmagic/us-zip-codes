@@ -1,6 +1,8 @@
-zip_code = "72433"
-state = "AR"
 city = "Hoxie"
 county = "Lawrence"
-longitude = -91.021301
 latitude = 36.050395
+longitude = -91.021301
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72433"
+

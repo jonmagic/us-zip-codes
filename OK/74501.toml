@@ -1,6 +1,8 @@
-zip_code = "74501"
-state = "OK"
 city = "Mcalester"
 county = "Pittsburg"
-longitude = -95.685544
 latitude = 34.922756
+longitude = -95.685544
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74501"
+

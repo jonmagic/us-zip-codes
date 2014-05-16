@@ -1,6 +1,8 @@
-zip_code = "43842"
-state = "OH"
 city = "Trinway"
 county = "Muskingum"
-longitude = -81.995016
 latitude = 40.143323
+longitude = -81.995016
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43842"
+

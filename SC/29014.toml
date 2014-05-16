@@ -1,6 +1,8 @@
-zip_code = "29014"
-state = "SC"
 city = "Blackstock"
 county = "Chester"
-longitude = -81.083171
 latitude = 34.596281
+longitude = -81.083171
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29014"
+

@@ -1,6 +1,8 @@
-zip_code = "48731"
-state = "MI"
 city = "Elkton"
 county = "Huron"
-longitude = -83.141633
 latitude = 43.826222
+longitude = -83.141633
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48731"
+

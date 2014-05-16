@@ -1,6 +1,8 @@
-zip_code = "03909"
-state = "ME"
 city = "York"
 county = "York"
-longitude = -70.69099
 latitude = 43.237891
+longitude = -70.69099
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "03909"
+

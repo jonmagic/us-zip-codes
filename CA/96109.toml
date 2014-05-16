@@ -1,6 +1,8 @@
-zip_code = "96109"
-state = "CA"
 city = "Doyle"
 county = "Lassen"
-longitude = -120.20247
 latitude = 39.962841
+longitude = -120.20247
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96109"
+

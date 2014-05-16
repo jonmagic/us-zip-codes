@@ -1,6 +1,8 @@
-zip_code = "95662"
-state = "CA"
 city = "Orangevale"
 county = "Sacramento"
-longitude = -121.225369
 latitude = 38.687103
+longitude = -121.225369
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95662"
+

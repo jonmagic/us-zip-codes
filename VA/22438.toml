@@ -1,6 +1,8 @@
-zip_code = "22438"
-state = "VA"
 city = "Champlain"
 county = "Essex"
-longitude = -77.018147
 latitude = 38.056246
+longitude = -77.018147
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22438"
+

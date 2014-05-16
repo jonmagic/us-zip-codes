@@ -1,6 +1,8 @@
-zip_code = "58017"
-state = "ND"
 city = "Cogswell"
 county = "Sargent"
-longitude = -97.820733
 latitude = 46.06593
+longitude = -97.820733
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58017"
+

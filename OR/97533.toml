@@ -1,6 +1,8 @@
-zip_code = "97533"
-state = "OR"
 city = "Murphy"
 county = "Josephine"
-longitude = -123.327323
 latitude = 42.308007
+longitude = -123.327323
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97533"
+

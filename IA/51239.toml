@@ -1,6 +1,8 @@
-zip_code = "51239"
-state = "IA"
 city = "Hull"
 county = "Sioux"
-longitude = -96.180883
 latitude = 43.192887
+longitude = -96.180883
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51239"
+

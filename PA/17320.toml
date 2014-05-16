@@ -1,6 +1,8 @@
-zip_code = "17320"
-state = "PA"
 city = "Fairfield"
 county = "Adams"
-longitude = -77.361859
 latitude = 39.780789
+longitude = -77.361859
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17320"
+

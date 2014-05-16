@@ -1,6 +1,8 @@
-zip_code = "32663"
-state = "FL"
 city = "Lowell"
 county = "Marion"
-longitude = -82.212649
 latitude = 29.342404
+longitude = -82.212649
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32663"
+

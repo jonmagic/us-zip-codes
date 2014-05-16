@@ -1,6 +1,8 @@
-zip_code = "38654"
-state = "MS"
 city = "Olive Branch"
 county = "De Soto"
-longitude = -89.869062
 latitude = 34.921172
+longitude = -89.869062
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38654"
+

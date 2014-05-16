@@ -1,6 +1,8 @@
-zip_code = "68378"
-state = "NE"
 city = "Johnson"
 county = "Nemaha"
-longitude = -96.000386
 latitude = 40.345196
+longitude = -96.000386
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68378"
+

@@ -1,6 +1,8 @@
-zip_code = "98923"
-state = "WA"
 city = "Cowiche"
 county = "Yakima"
-longitude = -120.753007
 latitude = 46.678192
+longitude = -120.753007
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98923"
+

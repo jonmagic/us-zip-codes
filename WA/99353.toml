@@ -1,6 +1,8 @@
-zip_code = "99353"
-state = "WA"
 city = "West Richland"
 county = "Benton"
-longitude = -119.371393
 latitude = 46.315267
+longitude = -119.371393
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99353"
+

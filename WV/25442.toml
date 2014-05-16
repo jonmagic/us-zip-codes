@@ -1,6 +1,8 @@
-zip_code = "25442"
-state = "WV"
 city = "Shenandoah Junction"
 county = "Jefferson"
-longitude = -77.822878
 latitude = 39.371605
+longitude = -77.822878
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25442"
+

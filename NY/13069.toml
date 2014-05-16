@@ -1,6 +1,8 @@
-zip_code = "13069"
-state = "NY"
 city = "Fulton"
 county = "Oswego"
-longitude = -76.227027
 latitude = 43.345255
+longitude = -76.227027
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13069"
+

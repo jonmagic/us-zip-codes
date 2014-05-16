@@ -1,6 +1,8 @@
-zip_code = "97464"
-state = "OR"
 city = "Ophir"
 county = "Curry"
-longitude = -124.51056
 latitude = 42.739889
+longitude = -124.51056
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97464"
+

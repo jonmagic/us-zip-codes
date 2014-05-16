@@ -1,6 +1,8 @@
-zip_code = "53505"
-state = "WI"
 city = "Avalon"
 county = "Rock"
-longitude = -88.83065
 latitude = 42.659301
+longitude = -88.83065
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53505"
+

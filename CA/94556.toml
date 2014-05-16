@@ -1,6 +1,8 @@
-zip_code = "94556"
-state = "CA"
 city = "Moraga"
 county = "Contra Costa"
-longitude = -122.099224
 latitude = 37.838926
+longitude = -122.099224
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94556"
+

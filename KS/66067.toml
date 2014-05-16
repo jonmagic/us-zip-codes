@@ -1,6 +1,8 @@
-zip_code = "66067"
-state = "KS"
 city = "Ottawa"
 county = "Franklin"
-longitude = -95.282668
 latitude = 38.564337
+longitude = -95.282668
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66067"
+

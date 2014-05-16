@@ -1,6 +1,8 @@
-zip_code = "42788"
-state = "KY"
 city = "White Mills"
 county = "Hardin"
-longitude = -86.033456
 latitude = 37.534951
+longitude = -86.033456
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42788"
+

@@ -1,6 +1,8 @@
-zip_code = "95223"
-state = "CA"
 city = "Arnold"
 county = "Calaveras"
-longitude = -120.223837
 latitude = 38.328969
+longitude = -120.223837
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95223"
+

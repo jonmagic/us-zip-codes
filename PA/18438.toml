@@ -1,6 +1,8 @@
-zip_code = "18438"
-state = "PA"
 city = "Lakeville"
 county = "Wayne"
-longitude = -75.303874
 latitude = 41.431256
+longitude = -75.303874
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18438"
+

@@ -1,6 +1,8 @@
-zip_code = "74440"
-state = "OK"
 city = "Hoyt"
 county = "Haskell"
-longitude = -95.134492
 latitude = 35.258196
+longitude = -95.134492
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74440"
+

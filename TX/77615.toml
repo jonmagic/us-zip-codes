@@ -1,6 +1,8 @@
-zip_code = "77615"
-state = "TX"
 city = "Evadale"
 county = "Jefferson"
-longitude = -94.163
 latitude = 30.69986
+longitude = -94.163
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77615"
+

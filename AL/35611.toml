@@ -1,6 +1,8 @@
-zip_code = "35611"
-state = "AL"
 city = "Athens"
 county = "Limestone"
-longitude = -87.103488
 latitude = 34.764976
+longitude = -87.103488
+state = ""
+state_code_alpha2 = ""
+zip_code = "35611"
+

@@ -1,6 +1,8 @@
-zip_code = "97427"
-state = "OR"
 city = "Culp Creek"
 county = "Lane"
-longitude = -122.787122
 latitude = 43.657939
+longitude = -122.787122
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97427"
+

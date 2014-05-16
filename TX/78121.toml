@@ -1,6 +1,8 @@
-zip_code = "78121"
-state = "TX"
 city = "La Vernia"
 county = "Wilson"
-longitude = -98.087356
 latitude = 29.34551
+longitude = -98.087356
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78121"
+

@@ -1,6 +1,8 @@
-zip_code = "61878"
-state = "IL"
 city = "Thomasboro"
 county = "Champaign"
-longitude = -88.155556
 latitude = 40.241697
+longitude = -88.155556
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61878"
+

@@ -1,6 +1,8 @@
-zip_code = "34711"
-state = "FL"
 city = "Clermont"
 county = "Lake"
-longitude = -81.779423
 latitude = 28.584025
+longitude = -81.779423
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34711"
+

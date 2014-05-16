@@ -1,6 +1,8 @@
-zip_code = "67072"
-state = "KS"
 city = "Latham"
 county = "Butler"
-longitude = -96.658181
 latitude = 37.606889
+longitude = -96.658181
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67072"
+

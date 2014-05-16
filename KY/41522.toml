@@ -1,6 +1,8 @@
-zip_code = "41522"
-state = "KY"
 city = "Elkhorn City"
 county = "Pike"
-longitude = -82.384689
 latitude = 37.42367
+longitude = -82.384689
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41522"
+

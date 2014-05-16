@@ -1,6 +1,8 @@
-zip_code = "59013"
-state = "MT"
 city = "Boyd"
 county = "Carbon"
-longitude = -109.136458
 latitude = 45.410149
+longitude = -109.136458
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59013"
+

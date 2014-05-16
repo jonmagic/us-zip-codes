@@ -1,6 +1,8 @@
-zip_code = "69337"
-state = "NE"
 city = "Chadron"
 county = "Dawes"
-longitude = -103.138479
 latitude = 42.774479
+longitude = -103.138479
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69337"
+

@@ -1,6 +1,8 @@
-zip_code = "70046"
-state = "LA"
 city = "Davant"
 county = "Plaquemines"
-longitude = -89.872599
 latitude = 29.61829
+longitude = -89.872599
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70046"
+

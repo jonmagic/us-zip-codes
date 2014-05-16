@@ -1,6 +1,8 @@
-zip_code = "04474"
-state = "ME"
 city = "Orrington"
 county = "Penobscot"
-longitude = -68.782487
 latitude = 44.842939
+longitude = -68.782487
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04474"
+

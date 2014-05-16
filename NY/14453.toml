@@ -1,6 +1,8 @@
-zip_code = "14453"
-state = "NY"
 city = "Fishers"
 county = "Ontario"
-longitude = -77.47054
 latitude = 43.010908
+longitude = -77.47054
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14453"
+

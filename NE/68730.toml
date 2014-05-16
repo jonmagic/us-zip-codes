@@ -1,6 +1,8 @@
-zip_code = "68730"
-state = "NE"
 city = "Crofton"
 county = "Knox"
-longitude = -97.603391
 latitude = 42.758387
+longitude = -97.603391
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68730"
+

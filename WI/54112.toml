@@ -1,6 +1,8 @@
-zip_code = "54112"
-state = "WI"
 city = "Coleman"
 county = "Marinette"
-longitude = -88.002389
 latitude = 45.306273
+longitude = -88.002389
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54112"
+

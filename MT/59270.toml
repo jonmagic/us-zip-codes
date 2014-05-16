@@ -1,6 +1,8 @@
-zip_code = "59270"
-state = "MT"
 city = "Sidney"
 county = "Richland"
-longitude = -104.195206
 latitude = 47.655825
+longitude = -104.195206
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59270"
+

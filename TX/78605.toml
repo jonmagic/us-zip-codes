@@ -1,6 +1,8 @@
-zip_code = "78605"
-state = "TX"
 city = "Bertram"
 county = "Burnet"
-longitude = -98.08625
 latitude = 30.74431
+longitude = -98.08625
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78605"
+

@@ -1,6 +1,8 @@
-zip_code = "67877"
-state = "KS"
 city = "Sublette"
 county = "Haskell"
-longitude = -100.848783
 latitude = 37.482236
+longitude = -100.848783
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67877"
+

@@ -1,6 +1,8 @@
-zip_code = "04762"
-state = "ME"
 city = "New Sweden"
 county = "Aroostook"
-longitude = -68.205546
 latitude = 46.976619
+longitude = -68.205546
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04762"
+

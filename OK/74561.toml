@@ -1,6 +1,8 @@
-zip_code = "74561"
-state = "OK"
 city = "Quinton"
 county = "Pittsburg"
-longitude = -95.364874
 latitude = 35.125294
+longitude = -95.364874
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74561"
+

@@ -1,6 +1,8 @@
-zip_code = "47865"
-state = "IN"
 city = "Paxton"
 county = "Sullivan"
-longitude = -87.389047
 latitude = 39.01849
+longitude = -87.389047
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47865"
+

@@ -1,6 +1,8 @@
-zip_code = "14774"
-state = "NY"
 city = "Richburg"
 county = "Allegany"
-longitude = -78.168055
 latitude = 42.114385
+longitude = -78.168055
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14774"
+

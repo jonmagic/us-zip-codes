@@ -1,6 +1,8 @@
-zip_code = "68305"
-state = "NE"
 city = "Auburn"
 county = "Nemaha"
-longitude = -95.843077
 latitude = 40.428801
+longitude = -95.843077
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68305"
+

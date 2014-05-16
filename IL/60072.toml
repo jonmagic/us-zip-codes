@@ -1,6 +1,8 @@
-zip_code = "60072"
-state = "IL"
 city = "Ringwood"
 county = "Mchenry"
-longitude = -88.305439
 latitude = 42.404829
+longitude = -88.305439
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60072"
+

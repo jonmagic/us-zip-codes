@@ -1,6 +1,8 @@
-zip_code = "25962"
-state = "WV"
 city = "Rainelle"
 county = "Greenbrier"
-longitude = -80.74519
 latitude = 37.973212
+longitude = -80.74519
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25962"
+

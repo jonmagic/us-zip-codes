@@ -1,6 +1,8 @@
-zip_code = "79360"
-state = "TX"
 city = "Seminole"
 county = "Gaines"
-longitude = -102.805355
 latitude = 32.671912
+longitude = -102.805355
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79360"
+

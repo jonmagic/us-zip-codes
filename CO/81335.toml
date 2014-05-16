@@ -1,6 +1,8 @@
-zip_code = "81335"
-state = "CO"
 city = "Yellow Jacket"
 county = "Montezuma"
-longitude = -108.744007
 latitude = 37.508114
+longitude = -108.744007
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81335"
+

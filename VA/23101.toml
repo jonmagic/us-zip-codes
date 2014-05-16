@@ -1,6 +1,8 @@
-zip_code = "23101"
-state = "VA"
 city = "Macon"
 county = "Powhatan"
-longitude = -77.892964
 latitude = 37.553314
+longitude = -77.892964
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23101"
+

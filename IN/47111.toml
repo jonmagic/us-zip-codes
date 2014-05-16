@@ -1,6 +1,8 @@
-zip_code = "47111"
-state = "IN"
 city = "Charlestown"
 county = "Clark"
-longitude = -85.615235
 latitude = 38.459992
+longitude = -85.615235
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47111"
+

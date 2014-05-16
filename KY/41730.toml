@@ -1,6 +1,8 @@
-zip_code = "41730"
-state = "KY"
 city = "Confluence"
 county = "Leslie"
-longitude = -83.395648
 latitude = 37.258617
+longitude = -83.395648
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41730"
+

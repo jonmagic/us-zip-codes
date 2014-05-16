@@ -1,6 +1,8 @@
-zip_code = "65767"
-state = "MO"
 city = "Urbana"
 county = "Dallas"
-longitude = -93.154651
 latitude = 37.803727
+longitude = -93.154651
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65767"
+

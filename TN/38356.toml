@@ -1,6 +1,8 @@
-zip_code = "38356"
-state = "TN"
 city = "Medon"
 county = "Madison"
-longitude = -88.911302
 latitude = 35.482255
+longitude = -88.911302
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38356"
+

@@ -1,6 +1,8 @@
-zip_code = "58332"
-state = "ND"
 city = "Esmond"
 county = "Benson"
-longitude = -99.538336
 latitude = 48.059736
+longitude = -99.538336
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58332"
+

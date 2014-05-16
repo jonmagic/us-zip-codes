@@ -1,6 +1,8 @@
-zip_code = "98201"
-state = "WA"
 city = "Everett"
 county = "Snohomish"
-longitude = -122.199795
 latitude = 47.988661
+longitude = -122.199795
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98201"
+

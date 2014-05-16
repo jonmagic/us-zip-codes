@@ -1,6 +1,8 @@
-zip_code = "29922"
-state = "SC"
 city = "Garnett"
 county = "Hampton"
-longitude = -81.193318
 latitude = 32.74172
+longitude = -81.193318
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29922"
+

@@ -1,6 +1,8 @@
-zip_code = "46513"
-state = "IN"
 city = "Donaldson"
 county = "Marshall"
-longitude = -86.444254
 latitude = 41.361903
+longitude = -86.444254
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46513"
+

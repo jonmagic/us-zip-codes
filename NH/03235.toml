@@ -1,6 +1,8 @@
-zip_code = "03235"
-state = "NH"
 city = "Franklin"
 county = "Merrimack"
-longitude = -71.680021
 latitude = 43.374297
+longitude = -71.680021
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03235"
+

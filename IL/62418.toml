@@ -1,6 +1,8 @@
-zip_code = "62418"
-state = "IL"
 city = "Brownstown"
 county = "Fayette"
-longitude = -88.955042
 latitude = 38.994303
+longitude = -88.955042
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62418"
+

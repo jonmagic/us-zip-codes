@@ -1,6 +1,8 @@
-zip_code = "68341"
-state = "NE"
 city = "De Witt"
 county = "Saline"
-longitude = -96.960827
 latitude = 40.374875
+longitude = -96.960827
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68341"
+

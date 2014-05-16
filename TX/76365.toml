@@ -1,6 +1,8 @@
-zip_code = "76365"
-state = "TX"
 city = "Henrietta"
 county = "Clay"
-longitude = -98.201732
 latitude = 33.906101
+longitude = -98.201732
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76365"
+

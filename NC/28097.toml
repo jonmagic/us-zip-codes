@@ -1,6 +1,8 @@
-zip_code = "28097"
-state = "NC"
 city = "Locust"
 county = "Stanly"
-longitude = -80.424512
 latitude = 35.262131
+longitude = -80.424512
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28097"
+

@@ -1,6 +1,8 @@
-zip_code = "10921"
-state = "NY"
 city = "Florida"
 county = "Orange"
-longitude = -74.36699
 latitude = 41.319956
+longitude = -74.36699
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10921"
+

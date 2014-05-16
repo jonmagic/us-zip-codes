@@ -1,6 +1,8 @@
-zip_code = "63775"
-state = "MO"
 city = "Perryville"
 county = "Perry"
-longitude = -89.862749
 latitude = 37.727156
+longitude = -89.862749
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63775"
+

@@ -1,6 +1,8 @@
-zip_code = "19520"
-state = "PA"
 city = "Elverson"
 county = "Chester"
-longitude = -75.786492
 latitude = 40.156293
+longitude = -75.786492
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19520"
+

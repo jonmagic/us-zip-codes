@@ -1,6 +1,8 @@
-zip_code = "15601"
-state = "PA"
 city = "Greensburg"
 county = "Westmoreland"
-longitude = -79.500729
 latitude = 40.347017
+longitude = -79.500729
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15601"
+

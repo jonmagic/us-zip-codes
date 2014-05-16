@@ -1,6 +1,8 @@
-zip_code = "47670"
-state = "IN"
 city = "Princeton"
 county = "Gibson"
-longitude = -87.534003
 latitude = 38.303369
+longitude = -87.534003
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47670"
+

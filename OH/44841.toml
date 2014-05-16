@@ -1,6 +1,8 @@
-zip_code = "44841"
-state = "OH"
 city = "Kansas"
 county = "Seneca"
-longitude = -83.310194
 latitude = 41.228968
+longitude = -83.310194
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44841"
+

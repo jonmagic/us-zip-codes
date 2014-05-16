@@ -1,6 +1,8 @@
-zip_code = "67732"
-state = "KS"
 city = "Brewster"
 county = "Thomas"
-longitude = -101.061905
 latitude = 39.358974
+longitude = -101.061905
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67732"
+

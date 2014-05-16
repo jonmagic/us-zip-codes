@@ -1,6 +1,8 @@
-zip_code = "58782"
-state = "ND"
 city = "Sherwood"
 county = "Renville"
-longitude = -101.770037
 latitude = 48.863353
+longitude = -101.770037
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58782"
+

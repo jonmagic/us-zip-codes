@@ -1,6 +1,8 @@
-zip_code = "96742"
-state = "HI"
 city = "Kalaupapa"
 county = "Maui"
-longitude = -156.646667
 latitude = 20.866638
+longitude = -156.646667
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96742"
+

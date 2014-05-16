@@ -1,6 +1,8 @@
-zip_code = "64777"
-state = "MO"
 city = "Passaic"
 county = "Bates"
-longitude = -94.331993
 latitude = 38.251879
+longitude = -94.331993
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64777"
+

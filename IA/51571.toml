@@ -1,6 +1,8 @@
-zip_code = "51571"
-state = "IA"
 city = "Silver City"
 county = "Mills"
-longitude = -95.604984
 latitude = 41.110642
+longitude = -95.604984
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51571"
+

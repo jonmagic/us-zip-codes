@@ -1,6 +1,8 @@
-zip_code = "12848"
-state = "NY"
 city = "Middle Falls"
 county = "Washington"
-longitude = -73.524554
 latitude = 43.100123
+longitude = -73.524554
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12848"
+

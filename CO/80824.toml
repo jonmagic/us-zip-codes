@@ -1,6 +1,8 @@
-zip_code = "80824"
-state = "CO"
 city = "Kirk"
 county = "Yuma"
-longitude = -102.546469
 latitude = 39.664421
+longitude = -102.546469
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80824"
+

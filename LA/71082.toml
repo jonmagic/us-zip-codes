@@ -1,6 +1,8 @@
-zip_code = "71082"
-state = "LA"
 city = "Vivian"
 county = "Caddo"
-longitude = -93.950401
 latitude = 32.84233
+longitude = -93.950401
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71082"
+

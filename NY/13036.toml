@@ -1,6 +1,8 @@
-zip_code = "13036"
-state = "NY"
 city = "Central Square"
 county = "Oswego"
-longitude = -76.17085
 latitude = 43.330332
+longitude = -76.17085
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13036"
+

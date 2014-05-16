@@ -1,6 +1,8 @@
-zip_code = "21869"
-state = "MD"
 city = "Vienna"
 county = "Dorchester"
-longitude = -75.897058
 latitude = 38.430928
+longitude = -75.897058
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21869"
+

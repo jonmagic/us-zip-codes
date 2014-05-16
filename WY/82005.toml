@@ -1,6 +1,8 @@
-zip_code = "82005"
-state = "WY"
 city = "Fe Warren Afb"
 county = "Laramie"
-longitude = -104.862947
 latitude = 41.139057
+longitude = -104.862947
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82005"
+

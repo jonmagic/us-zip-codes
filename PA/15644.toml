@@ -1,6 +1,8 @@
-zip_code = "15644"
-state = "PA"
 city = "Jeannette"
 county = "Westmoreland"
-longitude = -79.407913
 latitude = 40.374572
+longitude = -79.407913
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15644"
+

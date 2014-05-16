@@ -1,6 +1,8 @@
-zip_code = "21531"
-state = "MD"
 city = "Friendsville"
 county = "Garrett"
-longitude = -79.257117
 latitude = 39.637098
+longitude = -79.257117
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21531"
+

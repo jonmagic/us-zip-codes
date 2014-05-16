@@ -1,6 +1,8 @@
-zip_code = "21017"
-state = "MD"
 city = "Belcamp"
 county = "Harford"
-longitude = -76.238835
 latitude = 39.47366
+longitude = -76.238835
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21017"
+

@@ -1,6 +1,8 @@
-zip_code = "97454"
-state = "OR"
 city = "Marcola"
 county = "Lane"
-longitude = -122.812544
 latitude = 44.212732
+longitude = -122.812544
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97454"
+

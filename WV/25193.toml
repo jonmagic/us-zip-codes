@@ -1,6 +1,8 @@
-zip_code = "25193"
-state = "WV"
 city = "Sylvester"
 county = "Boone"
-longitude = -81.558467
 latitude = 38.010386
+longitude = -81.558467
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25193"
+

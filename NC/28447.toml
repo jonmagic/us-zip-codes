@@ -1,6 +1,8 @@
-zip_code = "28447"
-state = "NC"
 city = "Ivanhoe"
 county = "Sampson"
-longitude = -78.234209
 latitude = 34.623287
+longitude = -78.234209
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28447"
+

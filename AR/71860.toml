@@ -1,6 +1,8 @@
-zip_code = "71860"
-state = "AR"
 city = "Stamps"
 county = "Lafayette"
-longitude = -93.50573
 latitude = 33.343809
+longitude = -93.50573
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71860"
+

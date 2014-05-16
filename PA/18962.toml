@@ -1,6 +1,8 @@
-zip_code = "18962"
-state = "PA"
 city = "Silverdale"
 county = "Bucks"
-longitude = -75.268738
 latitude = 40.344529
+longitude = -75.268738
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18962"
+

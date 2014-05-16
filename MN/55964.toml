@@ -1,6 +1,8 @@
-zip_code = "55964"
-state = "MN"
 city = "Plainview"
 county = "Wabasha"
-longitude = -92.202044
 latitude = 44.15121
+longitude = -92.202044
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55964"
+

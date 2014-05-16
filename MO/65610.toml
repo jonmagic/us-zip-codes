@@ -1,6 +1,8 @@
-zip_code = "65610"
-state = "MO"
 city = "Billings"
 county = "Christian"
-longitude = -93.405929
 latitude = 37.046128
+longitude = -93.405929
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65610"
+

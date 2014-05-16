@@ -1,6 +1,8 @@
-zip_code = "38230"
-state = "TN"
 city = "Greenfield"
 county = "Weakley"
-longitude = -88.781253
 latitude = 36.213708
+longitude = -88.781253
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38230"
+

@@ -1,6 +1,8 @@
-zip_code = "75901"
-state = "TX"
 city = "Lufkin"
 county = "Angelina"
-longitude = -94.508447
 latitude = 31.276467
+longitude = -94.508447
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75901"
+

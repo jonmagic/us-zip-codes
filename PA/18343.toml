@@ -1,6 +1,8 @@
-zip_code = "18343"
-state = "PA"
 city = "Mount Bethel"
 county = "Northampton"
-longitude = -75.104575
 latitude = 40.898617
+longitude = -75.104575
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18343"
+

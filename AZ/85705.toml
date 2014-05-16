@@ -1,6 +1,8 @@
-zip_code = "85705"
-state = "AZ"
 city = "Tucson"
 county = "Pima"
-longitude = -110.900395
 latitude = 32.294945
+longitude = -110.900395
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85705"
+

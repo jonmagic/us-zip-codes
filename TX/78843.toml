@@ -1,6 +1,8 @@
-zip_code = "78843"
-state = "TX"
 city = "Laughlin A F B"
 county = "Val Verde"
-longitude = -100.79269
 latitude = 29.356379
+longitude = -100.79269
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78843"
+

@@ -1,6 +1,8 @@
-zip_code = "71639"
-state = "AR"
 city = "Dumas"
 county = "Desha"
-longitude = -91.488393
 latitude = 33.875244
+longitude = -91.488393
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71639"
+

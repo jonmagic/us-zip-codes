@@ -1,6 +1,8 @@
-zip_code = "57331"
-state = "SD"
 city = "Dimock"
 county = "Hutchinson"
-longitude = -97.999352
 latitude = 43.470444
+longitude = -97.999352
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57331"
+

@@ -1,6 +1,8 @@
-zip_code = "61735"
-state = "IL"
 city = "Dewitt"
 county = "Dewitt"
-longitude = -88.808015
 latitude = 40.208276
+longitude = -88.808015
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61735"
+

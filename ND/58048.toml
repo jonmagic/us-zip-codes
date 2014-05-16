@@ -1,6 +1,8 @@
-zip_code = "58048"
-state = "ND"
 city = "Hunter"
 county = "Cass"
-longitude = -97.150669
 latitude = 46.981541
+longitude = -97.150669
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58048"
+

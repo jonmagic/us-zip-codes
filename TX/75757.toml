@@ -1,6 +1,8 @@
-zip_code = "75757"
-state = "TX"
 city = "Bullard"
 county = "Smith"
-longitude = -95.254306
 latitude = 32.177304
+longitude = -95.254306
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75757"
+

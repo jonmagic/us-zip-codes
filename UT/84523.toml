@@ -1,6 +1,8 @@
-zip_code = "84523"
-state = "UT"
 city = "Ferron"
 county = "Emery"
-longitude = -111.118572
 latitude = 39.14373
+longitude = -111.118572
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84523"
+

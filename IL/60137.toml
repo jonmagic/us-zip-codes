@@ -1,6 +1,8 @@
-zip_code = "60137"
-state = "IL"
 city = "Glen Ellyn"
 county = "Du Page"
-longitude = -88.029385
 latitude = 41.872034
+longitude = -88.029385
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60137"
+

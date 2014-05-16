@@ -1,6 +1,8 @@
-zip_code = "70071"
-state = "LA"
 city = "Lutcher"
 county = "Saint James"
-longitude = -90.73039
 latitude = 30.03757
+longitude = -90.73039
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70071"
+

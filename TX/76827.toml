@@ -1,6 +1,8 @@
-zip_code = "76827"
-state = "TX"
 city = "Brookesmith"
 county = "Brown"
-longitude = -99.091825
 latitude = 31.547322
+longitude = -99.091825
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76827"
+

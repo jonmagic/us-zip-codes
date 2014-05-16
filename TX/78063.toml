@@ -1,6 +1,8 @@
-zip_code = "78063"
-state = "TX"
 city = "Pipe Creek"
 county = "Bandera"
-longitude = -98.948428
 latitude = 29.67956
+longitude = -98.948428
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78063"
+

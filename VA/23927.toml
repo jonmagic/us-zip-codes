@@ -1,6 +1,8 @@
-zip_code = "23927"
-state = "VA"
 city = "Clarksville"
 county = "Mecklenburg"
-longitude = -78.458282
 latitude = 36.65565
+longitude = -78.458282
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23927"
+

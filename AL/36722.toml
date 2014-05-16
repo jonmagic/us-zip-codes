@@ -1,6 +1,8 @@
-zip_code = "36722"
-state = "AL"
 city = "Arlington"
 county = "Wilcox"
-longitude = -87.569778
 latitude = 32.051214
+longitude = -87.569778
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36722"
+

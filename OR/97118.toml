@@ -1,6 +1,8 @@
-zip_code = "97118"
-state = "OR"
 city = "Garibaldi"
 county = "Tillamook"
-longitude = -123.900072
 latitude = 45.562572
+longitude = -123.900072
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97118"
+

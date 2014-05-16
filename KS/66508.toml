@@ -1,6 +1,8 @@
-zip_code = "66508"
-state = "KS"
 city = "Marysville"
 county = "Marshall"
-longitude = -96.617219
 latitude = 39.863544
+longitude = -96.617219
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66508"
+

@@ -1,6 +1,8 @@
-zip_code = "48306"
-state = "MI"
 city = "Rochester"
 county = "Oakland"
-longitude = -83.156629
 latitude = 42.726216
+longitude = -83.156629
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48306"
+

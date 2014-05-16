@@ -1,6 +1,8 @@
-zip_code = "39479"
-state = "MS"
 city = "Seminary"
 county = "Covington"
-longitude = -89.502846
 latitude = 31.5378
+longitude = -89.502846
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39479"
+

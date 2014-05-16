@@ -1,6 +1,8 @@
-zip_code = "50465"
-state = "IA"
 city = "Rake"
 county = "Winnebago"
-longitude = -93.872202
 latitude = 43.464673
+longitude = -93.872202
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50465"
+

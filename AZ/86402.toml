@@ -1,6 +1,8 @@
-zip_code = "86402"
-state = "AZ"
 city = "Kingman"
 county = "Mohave"
-longitude = -114.063651
 latitude = 35.263249
+longitude = -114.063651
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86402"
+

@@ -1,6 +1,8 @@
-zip_code = "28478"
-state = "NC"
 city = "Willard"
 county = "Pender"
-longitude = -78.044929
 latitude = 34.67509
+longitude = -78.044929
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28478"
+

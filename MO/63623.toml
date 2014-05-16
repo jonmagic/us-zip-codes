@@ -1,6 +1,8 @@
-zip_code = "63623"
-state = "MO"
 city = "Belleview"
 county = "Iron"
-longitude = -90.898189
 latitude = 37.665689
+longitude = -90.898189
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63623"
+

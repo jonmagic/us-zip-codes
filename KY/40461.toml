@@ -1,6 +1,8 @@
-zip_code = "40461"
-state = "KY"
 city = "Paint Lick"
 county = "Garrard"
-longitude = -84.426456
 latitude = 37.593625
+longitude = -84.426456
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40461"
+

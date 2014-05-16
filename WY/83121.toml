@@ -1,6 +1,8 @@
-zip_code = "83121"
-state = "WY"
 city = "Frontier"
 county = "Lincoln"
-longitude = -110.537302
 latitude = 41.796019
+longitude = -110.537302
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83121"
+

@@ -1,6 +1,8 @@
-zip_code = "40165"
-state = "KY"
 city = "Shepherdsville"
 county = "Bullitt"
-longitude = -85.704609
 latitude = 37.959505
+longitude = -85.704609
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40165"
+

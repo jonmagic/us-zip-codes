@@ -1,6 +1,8 @@
-zip_code = "46045"
-state = "IN"
 city = "Goldsmith"
 county = "Tipton"
-longitude = -86.149423
 latitude = 40.289836
+longitude = -86.149423
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46045"
+

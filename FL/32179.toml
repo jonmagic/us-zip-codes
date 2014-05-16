@@ -1,6 +1,8 @@
-zip_code = "32179"
-state = "FL"
 city = "Ocklawaha"
 county = "Marion"
-longitude = -81.905259
 latitude = 29.086882
+longitude = -81.905259
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32179"
+

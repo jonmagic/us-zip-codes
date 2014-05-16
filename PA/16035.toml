@@ -1,6 +1,8 @@
-zip_code = "16035"
-state = "PA"
 city = "Forestville"
 county = "Butler"
-longitude = -80.007017
 latitude = 41.106756
+longitude = -80.007017
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16035"
+

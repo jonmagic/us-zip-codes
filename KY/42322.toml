@@ -1,6 +1,8 @@
-zip_code = "42322"
-state = "KY"
 city = "Beech Grove"
 county = "Mclean"
-longitude = -87.406866
 latitude = 37.615062
+longitude = -87.406866
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42322"
+

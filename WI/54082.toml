@@ -1,6 +1,8 @@
-zip_code = "54082"
-state = "WI"
 city = "Houlton"
 county = "Saint Croix"
-longitude = -92.746568
 latitude = 45.080119
+longitude = -92.746568
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54082"
+

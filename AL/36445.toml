@@ -1,6 +1,8 @@
-zip_code = "36445"
-state = "AL"
 city = "Frisco City"
 county = "Monroe"
-longitude = -87.381527
 latitude = 31.522005
+longitude = -87.381527
+state = ""
+state_code_alpha2 = ""
+zip_code = "36445"
+

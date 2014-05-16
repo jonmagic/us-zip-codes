@@ -1,6 +1,8 @@
-zip_code = "54652"
-state = "WI"
 city = "Readstown"
 county = "Vernon"
-longitude = -90.774539
 latitude = 43.470286
+longitude = -90.774539
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54652"
+

@@ -1,6 +1,8 @@
-zip_code = "12733"
-state = "NY"
 city = "Fallsburg"
 county = "Sullivan"
-longitude = -74.537252
 latitude = 41.647052
+longitude = -74.537252
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12733"
+

@@ -1,6 +1,8 @@
-zip_code = "72560"
-state = "AR"
 city = "Mountain View"
 county = "Stone"
-longitude = -92.038894
 latitude = 35.820825
+longitude = -92.038894
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72560"
+

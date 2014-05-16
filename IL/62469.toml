@@ -1,6 +1,8 @@
-zip_code = "62469"
-state = "IL"
 city = "Trilla"
 county = "Coles"
-longitude = -88.348819
 latitude = 39.393753
+longitude = -88.348819
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62469"
+

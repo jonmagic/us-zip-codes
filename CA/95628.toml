@@ -1,6 +1,8 @@
-zip_code = "95628"
-state = "CA"
 city = "Fair Oaks"
 county = "Sacramento"
-longitude = -121.260709
 latitude = 38.655263
+longitude = -121.260709
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95628"
+

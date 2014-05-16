@@ -1,6 +1,8 @@
-zip_code = "04286"
-state = "ME"
 city = "West Bethel"
 county = "Oxford"
-longitude = -70.860094
 latitude = 44.40205
+longitude = -70.860094
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04286"
+

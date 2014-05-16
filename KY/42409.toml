@@ -1,6 +1,8 @@
-zip_code = "42409"
-state = "KY"
 city = "Dixon"
 county = "Webster"
-longitude = -87.67168
 latitude = 37.519247
+longitude = -87.67168
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42409"
+

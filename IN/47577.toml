@@ -1,6 +1,8 @@
-zip_code = "47577"
-state = "IN"
 city = "Saint Meinrad"
 county = "Spencer"
-longitude = -86.821891
 latitude = 38.141725
+longitude = -86.821891
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47577"
+

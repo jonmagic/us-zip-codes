@@ -1,6 +1,8 @@
-zip_code = "49029"
-state = "MI"
 city = "Burlington"
 county = "Calhoun"
-longitude = -85.1023
 latitude = 42.130843
+longitude = -85.1023
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49029"
+

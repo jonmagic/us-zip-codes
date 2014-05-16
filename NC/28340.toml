@@ -1,6 +1,8 @@
-zip_code = "28340"
-state = "NC"
 city = "Fairmont"
 county = "Robeson"
-longitude = -79.148832
 latitude = 34.623018
+longitude = -79.148832
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28340"
+

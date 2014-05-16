@@ -1,6 +1,8 @@
-zip_code = "88007"
-state = "NM"
 city = "Santa Teresa"
 county = "Dona Ana"
-longitude = -106.626892
 latitude = 31.87054
+longitude = -106.626892
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88007"
+

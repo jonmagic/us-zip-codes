@@ -1,6 +1,8 @@
-zip_code = "12042"
-state = "NY"
 city = "Climax"
 county = "Greene"
-longitude = -73.927573
 latitude = 42.411207
+longitude = -73.927573
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12042"
+

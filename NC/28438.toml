@@ -1,6 +1,8 @@
-zip_code = "28438"
-state = "NC"
 city = "Evergreen"
 county = "Columbus"
-longitude = -78.894652
 latitude = 34.420379
+longitude = -78.894652
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28438"
+

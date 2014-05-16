@@ -1,6 +1,8 @@
-zip_code = "62257"
-state = "IL"
 city = "Marissa"
 county = "Saint Clair"
-longitude = -89.778855
 latitude = 38.311672
+longitude = -89.778855
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62257"
+

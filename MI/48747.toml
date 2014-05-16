@@ -1,6 +1,8 @@
-zip_code = "48747"
-state = "MI"
 city = "Munger"
 county = "Bay"
-longitude = -83.762898
 latitude = 43.529339
+longitude = -83.762898
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48747"
+

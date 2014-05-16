@@ -1,6 +1,8 @@
-zip_code = "68343"
-state = "NE"
 city = "Dorchester"
 county = "Saline"
-longitude = -97.114965
 latitude = 40.646087
+longitude = -97.114965
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68343"
+

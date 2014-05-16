@@ -1,6 +1,8 @@
-zip_code = "85237"
-state = "AZ"
 city = "Kearny"
 county = "Pinal"
-longitude = -111.064109
 latitude = 33.145984
+longitude = -111.064109
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85237"
+

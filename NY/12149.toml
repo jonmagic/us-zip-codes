@@ -1,6 +1,8 @@
-zip_code = "12149"
-state = "NY"
 city = "Richmondville"
 county = "Schoharie"
-longitude = -74.594655
 latitude = 42.609418
+longitude = -74.594655
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12149"
+

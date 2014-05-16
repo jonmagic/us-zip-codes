@@ -1,6 +1,8 @@
-zip_code = "31770"
-state = "GA"
 city = "Newton"
 county = "Baker"
-longitude = -84.338325
 latitude = 31.37168
+longitude = -84.338325
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31770"
+

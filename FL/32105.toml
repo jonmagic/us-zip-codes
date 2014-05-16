@@ -1,6 +1,8 @@
-zip_code = "32105"
-state = "FL"
 city = "Barberville"
 county = "Volusia"
-longitude = -81.406458
 latitude = 29.200508
+longitude = -81.406458
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32105"
+

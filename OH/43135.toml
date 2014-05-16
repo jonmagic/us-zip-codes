@@ -1,6 +1,8 @@
-zip_code = "43135"
-state = "OH"
 city = "Laurelville"
 county = "Hocking"
-longitude = -82.666506
 latitude = 39.462546
+longitude = -82.666506
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43135"
+

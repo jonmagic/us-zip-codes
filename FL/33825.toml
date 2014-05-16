@@ -1,6 +1,8 @@
-zip_code = "33825"
-state = "FL"
 city = "Avon Park"
 county = "Highlands"
-longitude = -81.464053
 latitude = 27.473059
+longitude = -81.464053
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33825"
+

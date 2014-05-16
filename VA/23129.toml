@@ -1,6 +1,8 @@
-zip_code = "23129"
-state = "VA"
 city = "Oilville"
 county = "Goochland"
-longitude = -77.790584
 latitude = 37.701136
+longitude = -77.790584
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23129"
+

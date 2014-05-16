@@ -1,6 +1,8 @@
-zip_code = "72178"
-state = "AR"
 city = "West Point"
 county = "White"
-longitude = -91.606367
 latitude = 35.203213
+longitude = -91.606367
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72178"
+

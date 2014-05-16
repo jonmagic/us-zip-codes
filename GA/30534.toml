@@ -1,6 +1,8 @@
-zip_code = "30534"
-state = "GA"
 city = "Dawsonville"
 county = "Dawson"
-longitude = -84.155043
 latitude = 34.453661
+longitude = -84.155043
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30534"
+

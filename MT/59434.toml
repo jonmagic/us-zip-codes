@@ -1,6 +1,8 @@
-zip_code = "59434"
-state = "MT"
 city = "East Glacier Park"
 county = "Glacier"
-longitude = -113.218976
 latitude = 48.445686
+longitude = -113.218976
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59434"
+

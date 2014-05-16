@@ -1,6 +1,8 @@
-zip_code = "66769"
-state = "KS"
 city = "Redfield"
 county = "Bourbon"
-longitude = -94.880482
 latitude = 37.836666
+longitude = -94.880482
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66769"
+

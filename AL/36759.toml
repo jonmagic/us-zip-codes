@@ -1,6 +1,8 @@
-zip_code = "36759"
-state = "AL"
 city = "Marion Junction"
 county = "Dallas"
-longitude = -87.26262
 latitude = 32.388235
+longitude = -87.26262
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36759"
+

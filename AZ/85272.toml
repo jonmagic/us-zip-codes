@@ -1,6 +1,8 @@
-zip_code = "85272"
-state = "AZ"
 city = "Stanfield"
 county = "Pinal"
-longitude = -111.957245
 latitude = 32.895764
+longitude = -111.957245
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85272"
+

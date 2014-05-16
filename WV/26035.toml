@@ -1,6 +1,8 @@
-zip_code = "26035"
-state = "WV"
 city = "Colliers"
 county = "Brooke"
-longitude = -80.566155
 latitude = 40.373181
+longitude = -80.566155
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26035"
+

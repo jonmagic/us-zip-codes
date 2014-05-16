@@ -1,6 +1,8 @@
-zip_code = "95324"
-state = "CA"
 city = "Hilmar"
 county = "Merced"
-longitude = -120.885973
 latitude = 37.399608
+longitude = -120.885973
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95324"
+

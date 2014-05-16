@@ -1,6 +1,8 @@
-zip_code = "04260"
-state = "ME"
 city = "New Gloucester"
 county = "Cumberland"
-longitude = -70.299687
 latitude = 43.967474
+longitude = -70.299687
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04260"
+

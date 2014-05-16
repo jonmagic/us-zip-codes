@@ -1,6 +1,8 @@
-zip_code = "68774"
-state = "NE"
 city = "Saint Helena"
 county = "Cedar"
-longitude = -97.304691
 latitude = 42.804591
+longitude = -97.304691
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68774"
+

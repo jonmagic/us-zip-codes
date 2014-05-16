@@ -1,6 +1,8 @@
-zip_code = "43055"
-state = "OH"
 city = "Newark"
 county = "Licking"
-longitude = -82.485985
 latitude = 40.085963
+longitude = -82.485985
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43055"
+

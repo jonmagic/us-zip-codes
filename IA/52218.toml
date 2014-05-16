@@ -1,6 +1,8 @@
-zip_code = "52218"
-state = "IA"
 city = "Coggon"
 county = "Linn"
-longitude = -91.53445
 latitude = 42.250724
+longitude = -91.53445
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52218"
+

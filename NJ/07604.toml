@@ -1,6 +1,8 @@
-zip_code = "07604"
-state = "NJ"
 city = "Hasbrouck Heights"
 county = "Bergen"
-longitude = -74.075585
 latitude = 40.862349
+longitude = -74.075585
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07604"
+

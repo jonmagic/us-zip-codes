@@ -1,6 +1,8 @@
-zip_code = "29053"
-state = "SC"
 city = "Gaston"
 county = "Lexington"
-longitude = -81.104235
 latitude = 33.815305
+longitude = -81.104235
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29053"
+

@@ -1,6 +1,8 @@
-zip_code = "18631"
-state = "PA"
 city = "Mifflinville"
 county = "Columbia"
-longitude = -76.287669
 latitude = 40.98713
+longitude = -76.287669
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18631"
+

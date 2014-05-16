@@ -1,6 +1,8 @@
-zip_code = "13335"
-state = "NY"
 city = "Edmeston"
 county = "Otsego"
-longitude = -75.246539
 latitude = 42.711712
+longitude = -75.246539
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13335"
+

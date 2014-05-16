@@ -1,6 +1,8 @@
-zip_code = "62644"
-state = "IL"
 city = "Havana"
 county = "Mason"
-longitude = -89.938334
 latitude = 40.308441
+longitude = -89.938334
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62644"
+

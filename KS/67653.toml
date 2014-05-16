@@ -1,6 +1,8 @@
-zip_code = "67653"
-state = "KS"
 city = "Norcatur"
 county = "Decatur"
-longitude = -100.188191
 latitude = 39.837074
+longitude = -100.188191
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67653"
+

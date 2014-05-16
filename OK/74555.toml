@@ -1,6 +1,8 @@
-zip_code = "74555"
-state = "OK"
 city = "Lane"
 county = "Atoka"
-longitude = -95.935842
 latitude = 34.247711
+longitude = -95.935842
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74555"
+

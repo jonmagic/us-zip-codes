@@ -1,6 +1,8 @@
-zip_code = "19519"
-state = "PA"
 city = "Earlville"
 county = "Berks"
-longitude = -75.733368
 latitude = 40.318986
+longitude = -75.733368
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19519"
+

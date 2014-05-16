@@ -1,6 +1,8 @@
-zip_code = "68862"
-state = "NE"
 city = "Ord"
 county = "Valley"
-longitude = -98.932718
 latitude = 41.603603
+longitude = -98.932718
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68862"
+

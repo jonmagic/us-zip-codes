@@ -1,6 +1,8 @@
-zip_code = "37865"
-state = "TN"
 city = "Seymour"
 county = "Sevier"
-longitude = -83.711272
 latitude = 35.86053
+longitude = -83.711272
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37865"
+

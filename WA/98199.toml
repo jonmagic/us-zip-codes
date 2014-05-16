@@ -1,6 +1,8 @@
-zip_code = "98199"
-state = "WA"
 city = "Seattle"
 county = "King"
-longitude = -122.264256
 latitude = 47.776875
+longitude = -122.264256
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98199"
+

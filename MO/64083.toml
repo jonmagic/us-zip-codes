@@ -1,6 +1,8 @@
-zip_code = "64083"
-state = "MO"
 city = "Raymore"
 county = "Cass"
-longitude = -94.435542
 latitude = 38.79502
+longitude = -94.435542
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64083"
+

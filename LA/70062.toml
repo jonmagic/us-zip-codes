@@ -1,6 +1,8 @@
-zip_code = "70062"
-state = "LA"
 city = "Kenner"
 county = "Jefferson"
-longitude = -90.20446
 latitude = 29.994398
+longitude = -90.20446
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70062"
+

@@ -1,6 +1,8 @@
-zip_code = "22443"
-state = "VA"
 city = "Colonial Beach"
 county = "Westmoreland"
-longitude = -76.823742
 latitude = 38.184926
+longitude = -76.823742
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22443"
+

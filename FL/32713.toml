@@ -1,6 +1,8 @@
-zip_code = "32713"
-state = "FL"
 city = "Debary"
 county = "Volusia"
-longitude = -81.319985
 latitude = 28.889107
+longitude = -81.319985
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32713"
+

@@ -1,6 +1,8 @@
-zip_code = "76869"
-state = "TX"
 city = "Pontotoc"
 county = "Mason"
-longitude = -99.224184
 latitude = 30.719628
+longitude = -99.224184
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76869"
+

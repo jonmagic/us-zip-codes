@@ -1,6 +1,8 @@
-zip_code = "43463"
-state = "OH"
 city = "Stony Ridge"
 county = "Wood"
-longitude = -83.508531
 latitude = 41.509051
+longitude = -83.508531
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43463"
+

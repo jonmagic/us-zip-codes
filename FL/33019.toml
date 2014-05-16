@@ -1,6 +1,8 @@
-zip_code = "33019"
-state = "FL"
 city = "Hollywood"
 county = "Broward"
-longitude = -80.192966
 latitude = 26.091514
+longitude = -80.192966
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33019"
+

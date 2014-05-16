@@ -1,6 +1,8 @@
-zip_code = "41274"
-state = "KY"
 city = "Wittensville"
 county = "Johnson"
-longitude = -82.781153
 latitude = 37.899527
+longitude = -82.781153
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41274"
+

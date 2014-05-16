@@ -1,6 +1,8 @@
-zip_code = "92310"
-state = "CA"
 city = "Fort Irwin"
 county = "San Bernardino"
-longitude = -116.696561
 latitude = 35.262453
+longitude = -116.696561
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92310"
+

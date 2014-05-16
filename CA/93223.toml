@@ -1,6 +1,8 @@
-zip_code = "93223"
-state = "CA"
 city = "Farmersville"
 county = "Tulare"
-longitude = -119.202664
 latitude = 36.304981
+longitude = -119.202664
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93223"
+

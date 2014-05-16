@@ -1,6 +1,8 @@
-zip_code = "68047"
-state = "NE"
 city = "Pender"
 county = "Thurston"
-longitude = -96.723917
 latitude = 42.110449
+longitude = -96.723917
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68047"
+

@@ -1,6 +1,8 @@
-zip_code = "07950"
-state = "NJ"
 city = "Morris Plains"
 county = "Morris"
-longitude = -74.540341
 latitude = 40.843399
+longitude = -74.540341
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07950"
+

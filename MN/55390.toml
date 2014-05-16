@@ -1,6 +1,8 @@
-zip_code = "55390"
-state = "MN"
 city = "Waverly"
 county = "Wright"
-longitude = -93.974555
 latitude = 45.060676
+longitude = -93.974555
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55390"
+

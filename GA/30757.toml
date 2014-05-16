@@ -1,6 +1,8 @@
-zip_code = "30757"
-state = "GA"
 city = "Wildwood"
 county = "Dade"
-longitude = -85.448302
 latitude = 34.922998
+longitude = -85.448302
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30757"
+

@@ -1,6 +1,8 @@
-zip_code = "45065"
-state = "OH"
 city = "South Lebanon"
 county = "Warren"
-longitude = -84.207204
 latitude = 39.356027
+longitude = -84.207204
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45065"
+

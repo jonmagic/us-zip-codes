@@ -1,6 +1,8 @@
-zip_code = "53122"
-state = "WI"
 city = "Elm Grove"
 county = "Waukesha"
-longitude = -88.087888
 latitude = 43.048211
+longitude = -88.087888
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53122"
+

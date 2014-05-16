@@ -1,6 +1,8 @@
-zip_code = "02047"
-state = "MA"
 city = "Humarock"
 county = "Plymouth"
-longitude = -70.69353
 latitude = 42.142836
+longitude = -70.69353
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02047"
+

@@ -1,6 +1,8 @@
-zip_code = "28650"
-state = "NC"
 city = "Maiden"
 county = "Catawba"
-longitude = -81.162793
 latitude = 35.588869
+longitude = -81.162793
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28650"
+

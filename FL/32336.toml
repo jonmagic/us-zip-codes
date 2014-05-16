@@ -1,6 +1,8 @@
-zip_code = "32336"
-state = "FL"
 city = "Lamont"
 county = "Jefferson"
-longitude = -83.900753
 latitude = 30.298333
+longitude = -83.900753
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32336"
+

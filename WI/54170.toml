@@ -1,6 +1,8 @@
-zip_code = "54170"
-state = "WI"
 city = "Shiocton"
 county = "Outagamie"
-longitude = -88.589547
 latitude = 44.482935
+longitude = -88.589547
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54170"
+

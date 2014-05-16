@@ -1,6 +1,8 @@
-zip_code = "24270"
-state = "VA"
 city = "Mendota"
 county = "Washington"
-longitude = -82.256139
 latitude = 36.721945
+longitude = -82.256139
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24270"
+

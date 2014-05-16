@@ -1,6 +1,8 @@
-zip_code = "72645"
-state = "AR"
 city = "Leslie"
 county = "Searcy"
-longitude = -92.554222
 latitude = 35.835751
+longitude = -92.554222
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72645"
+

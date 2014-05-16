@@ -1,6 +1,8 @@
-zip_code = "63624"
-state = "MO"
 city = "Bismarck"
 county = "Saint Francois"
-longitude = -90.59839
 latitude = 37.753919
+longitude = -90.59839
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63624"
+

@@ -1,6 +1,8 @@
-zip_code = "68313"
-state = "NE"
 city = "Beaver Crossing"
 county = "Seward"
-longitude = -97.23499
 latitude = 40.785436
+longitude = -97.23499
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68313"
+

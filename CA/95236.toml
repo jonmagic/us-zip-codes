@@ -1,6 +1,8 @@
-zip_code = "95236"
-state = "CA"
 city = "Linden"
 county = "San Joaquin"
-longitude = -121.039852
 latitude = 38.017322
+longitude = -121.039852
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95236"
+

@@ -1,6 +1,8 @@
-zip_code = "71728"
-state = "AR"
 city = "Curtis"
 county = "Clark"
-longitude = -93.097627
 latitude = 34.010316
+longitude = -93.097627
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71728"
+

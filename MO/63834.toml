@@ -1,6 +1,8 @@
-zip_code = "63834"
-state = "MO"
 city = "Charleston"
 county = "Mississippi"
-longitude = -89.296639
 latitude = 36.885612
+longitude = -89.296639
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63834"
+

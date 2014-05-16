@@ -1,6 +1,8 @@
-zip_code = "15490"
-state = "PA"
 city = "White"
 county = "Fayette"
-longitude = -79.452796
 latitude = 40.075857
+longitude = -79.452796
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15490"
+

@@ -1,6 +1,8 @@
-zip_code = "58785"
-state = "ND"
 city = "Surrey"
 county = "Ward"
-longitude = -101.111794
 latitude = 48.290933
+longitude = -101.111794
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58785"
+

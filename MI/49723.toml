@@ -1,6 +1,8 @@
-zip_code = "49723"
-state = "MI"
 city = "Cross Village"
 county = "Emmet"
-longitude = -85.041872
 latitude = 45.625353
+longitude = -85.041872
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49723"
+

@@ -1,6 +1,8 @@
-zip_code = "70522"
-state = "LA"
 city = "Centerville"
 county = "Saint Mary"
-longitude = -91.439679
 latitude = 29.75226
+longitude = -91.439679
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70522"
+

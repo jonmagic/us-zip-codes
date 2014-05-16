@@ -1,6 +1,8 @@
-zip_code = "45896"
-state = "OH"
 city = "Waynesfield"
 county = "Auglaize"
-longitude = -83.953648
 latitude = 40.589899
+longitude = -83.953648
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45896"
+

@@ -1,6 +1,8 @@
-zip_code = "30251"
-state = "GA"
 city = "Luthersville"
 county = "Meriwether"
-longitude = -84.699455
 latitude = 33.179184
+longitude = -84.699455
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30251"
+

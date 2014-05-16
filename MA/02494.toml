@@ -1,6 +1,8 @@
-zip_code = "02494"
-state = "MA"
 city = "Needham Heights"
 county = "Norfolk"
-longitude = -71.26315
 latitude = 42.300147
+longitude = -71.26315
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02494"
+

@@ -1,6 +1,8 @@
-zip_code = "65654"
-state = "MO"
 city = "Freistatt"
 county = "Lawrence"
-longitude = -93.897434
 latitude = 37.021147
+longitude = -93.897434
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65654"
+

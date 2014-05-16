@@ -1,6 +1,8 @@
-zip_code = "54896"
-state = "WI"
 city = "Winter"
 county = "Sawyer"
-longitude = -91.014362
 latitude = 45.832746
+longitude = -91.014362
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54896"
+

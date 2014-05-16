@@ -1,6 +1,8 @@
-zip_code = "49070"
-state = "MI"
 city = "Martin"
 county = "Allegan"
-longitude = -85.626918
 latitude = 42.537142
+longitude = -85.626918
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49070"
+

@@ -1,6 +1,8 @@
-zip_code = "61368"
-state = "IL"
 city = "Tiskilwa"
 county = "Bureau"
-longitude = -89.521465
 latitude = 41.248455
+longitude = -89.521465
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61368"
+

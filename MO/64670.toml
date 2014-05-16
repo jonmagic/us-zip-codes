@@ -1,6 +1,8 @@
-zip_code = "64670"
-state = "MO"
 city = "Pattonsburg"
 county = "Daviess"
-longitude = -94.088967
 latitude = 40.033605
+longitude = -94.088967
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64670"
+

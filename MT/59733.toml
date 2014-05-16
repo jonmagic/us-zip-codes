@@ -1,6 +1,8 @@
-zip_code = "59733"
-state = "MT"
 city = "Gold Creek"
 county = "Powell"
-longitude = -112.936757
 latitude = 46.58791
+longitude = -112.936757
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59733"
+

@@ -1,6 +1,8 @@
-zip_code = "49709"
-state = "MI"
 city = "Atlanta"
 county = "Montmorency"
-longitude = -84.173067
 latitude = 45.030626
+longitude = -84.173067
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49709"
+

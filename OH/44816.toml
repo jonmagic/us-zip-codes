@@ -1,6 +1,8 @@
-zip_code = "44816"
-state = "OH"
 city = "Birmingham"
 county = "Erie"
-longitude = -82.355035
 latitude = 41.334898
+longitude = -82.355035
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44816"
+

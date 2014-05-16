@@ -1,6 +1,8 @@
-zip_code = "24464"
-state = "VA"
 city = "Montebello"
 county = "Nelson"
-longitude = -79.0804
 latitude = 37.865358
+longitude = -79.0804
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24464"
+

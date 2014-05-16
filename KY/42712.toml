@@ -1,6 +1,8 @@
-zip_code = "42712"
-state = "KY"
 city = "Big Clifty"
 county = "Grayson"
-longitude = -86.286363
 latitude = 37.493818
+longitude = -86.286363
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42712"
+

@@ -1,6 +1,8 @@
-zip_code = "83210"
-state = "ID"
 city = "Aberdeen"
 county = "Bingham"
-longitude = -112.839971
 latitude = 43.004883
+longitude = -112.839971
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83210"
+

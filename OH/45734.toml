@@ -1,6 +1,8 @@
-zip_code = "45734"
-state = "OH"
 city = "Graysville"
 county = "Monroe"
-longitude = -81.182232
 latitude = 39.663015
+longitude = -81.182232
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45734"
+

@@ -1,6 +1,8 @@
-zip_code = "57376"
-state = "SD"
 city = "Tripp"
 county = "Hutchinson"
-longitude = -97.923502
 latitude = 43.24846
+longitude = -97.923502
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57376"
+

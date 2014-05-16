@@ -1,6 +1,8 @@
-zip_code = "58380"
-state = "ND"
 city = "Tolna"
 county = "Nelson"
-longitude = -98.451175
 latitude = 47.846213
+longitude = -98.451175
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58380"
+

@@ -1,6 +1,8 @@
-zip_code = "45884"
-state = "OH"
 city = "Saint Johns"
 county = "Auglaize"
-longitude = -84.16797
 latitude = 40.520289
+longitude = -84.16797
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45884"
+

@@ -1,6 +1,8 @@
-zip_code = "98354"
-state = "WA"
 city = "Milton"
 county = "Pierce"
-longitude = -122.311073
 latitude = 47.245769
+longitude = -122.311073
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98354"
+

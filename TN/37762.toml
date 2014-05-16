@@ -1,6 +1,8 @@
-zip_code = "37762"
-state = "TN"
 city = "Jellico"
 county = "Campbell"
-longitude = -84.148034
 latitude = 36.446193
+longitude = -84.148034
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37762"
+

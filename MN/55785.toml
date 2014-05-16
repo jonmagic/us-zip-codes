@@ -1,6 +1,8 @@
-zip_code = "55785"
-state = "MN"
 city = "Swatara"
 county = "Aitkin"
-longitude = -93.645502
 latitude = 46.696774
+longitude = -93.645502
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55785"
+

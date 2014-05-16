@@ -1,6 +1,8 @@
-zip_code = "51015"
-state = "IA"
 city = "Climbing Hill"
 county = "Woodbury"
-longitude = -96.087523
 latitude = 42.345024
+longitude = -96.087523
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51015"
+

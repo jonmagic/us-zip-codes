@@ -1,6 +1,8 @@
-zip_code = "79234"
-state = "TX"
 city = "Flomot"
 county = "Motley"
-longitude = -100.779551
 latitude = 34.073908
+longitude = -100.779551
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79234"
+

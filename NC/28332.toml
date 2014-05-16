@@ -1,6 +1,8 @@
-zip_code = "28332"
-state = "NC"
 city = "Dublin"
 county = "Bladen"
-longitude = -78.737402
 latitude = 34.64374
+longitude = -78.737402
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28332"
+

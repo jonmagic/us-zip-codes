@@ -1,6 +1,8 @@
-zip_code = "43437"
-state = "OH"
 city = "Jerry City"
 county = "Wood"
-longitude = -83.602198
 latitude = 41.255902
+longitude = -83.602198
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43437"
+

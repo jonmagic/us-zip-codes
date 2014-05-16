@@ -1,6 +1,8 @@
-zip_code = "83714"
-state = "ID"
 city = "Garden City"
 county = "Ada"
-longitude = -116.282554
 latitude = 43.6428
+longitude = -116.282554
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83714"
+

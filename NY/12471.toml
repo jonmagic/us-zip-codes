@@ -1,6 +1,8 @@
-zip_code = "12471"
-state = "NY"
 city = "Rifton"
 county = "Ulster"
-longitude = -74.030611
 latitude = 41.840304
+longitude = -74.030611
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12471"
+

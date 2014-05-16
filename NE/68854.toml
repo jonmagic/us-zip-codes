@@ -1,6 +1,8 @@
-zip_code = "68854"
-state = "NE"
 city = "Marquette"
 county = "Hamilton"
-longitude = -98.008324
 latitude = 41.015778
+longitude = -98.008324
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68854"
+

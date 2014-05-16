@@ -1,6 +1,8 @@
-zip_code = "78557"
-state = "TX"
 city = "Hidalgo"
 county = "Hidalgo"
-longitude = -98.272287
 latitude = 26.185789
+longitude = -98.272287
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78557"
+

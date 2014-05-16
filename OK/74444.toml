@@ -1,6 +1,8 @@
-zip_code = "74444"
-state = "OK"
 city = "Moodys"
 county = "Cherokee"
-longitude = -94.957751
 latitude = 36.025728
+longitude = -94.957751
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74444"
+

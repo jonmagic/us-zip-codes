@@ -1,6 +1,8 @@
-zip_code = "54417"
-state = "WI"
 city = "Brokaw"
 county = "Marathon"
-longitude = -89.654118
 latitude = 45.02735
+longitude = -89.654118
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54417"
+

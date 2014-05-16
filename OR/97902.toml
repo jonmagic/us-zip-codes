@@ -1,6 +1,8 @@
-zip_code = "97902"
-state = "OR"
 city = "Arock"
 county = "Malheur"
-longitude = -117.497988
 latitude = 42.915641
+longitude = -117.497988
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97902"
+

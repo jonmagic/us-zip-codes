@@ -1,6 +1,8 @@
-zip_code = "64470"
-state = "MO"
 city = "Mound City"
 county = "Holt"
-longitude = -95.230117
 latitude = 40.16754
+longitude = -95.230117
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64470"
+

@@ -1,6 +1,8 @@
-zip_code = "13826"
-state = "NY"
 city = "Ouaquaga"
 county = "Broome"
-longitude = -75.639586
 latitude = 42.112127
+longitude = -75.639586
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13826"
+

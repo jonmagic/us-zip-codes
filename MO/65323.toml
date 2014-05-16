@@ -1,6 +1,8 @@
-zip_code = "65323"
-state = "MO"
 city = "Calhoun"
 county = "Henry"
-longitude = -93.608588
 latitude = 38.454863
+longitude = -93.608588
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65323"
+

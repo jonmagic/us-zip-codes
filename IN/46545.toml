@@ -1,6 +1,8 @@
-zip_code = "46545"
-state = "IN"
 city = "Mishawaka"
 county = "St Joseph"
-longitude = -86.304735
 latitude = 41.696407
+longitude = -86.304735
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46545"
+

@@ -1,6 +1,8 @@
-zip_code = "61816"
-state = "IL"
 city = "Broadlands"
 county = "Champaign"
-longitude = -87.992677
 latitude = 39.923208
+longitude = -87.992677
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61816"
+

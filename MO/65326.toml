@@ -1,6 +1,8 @@
-zip_code = "65326"
-state = "MO"
 city = "Edwards"
 county = "Benton"
-longitude = -93.291274
 latitude = 38.298955
+longitude = -93.291274
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65326"
+

@@ -1,6 +1,8 @@
-zip_code = "61534"
-state = "IL"
 city = "Green Valley"
 county = "Tazewell"
-longitude = -89.62064
 latitude = 40.425189
+longitude = -89.62064
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61534"
+

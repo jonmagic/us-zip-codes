@@ -1,6 +1,8 @@
-zip_code = "65035"
-state = "MO"
 city = "Freeburg"
 county = "Osage"
-longitude = -91.956786
 latitude = 38.395172
+longitude = -91.956786
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65035"
+

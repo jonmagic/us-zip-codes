@@ -1,6 +1,8 @@
-zip_code = "53954"
-state = "WI"
 city = "Pardeeville"
 county = "Columbia"
-longitude = -89.31459
 latitude = 43.516772
+longitude = -89.31459
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53954"
+

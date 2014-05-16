@@ -1,6 +1,8 @@
-zip_code = "87512"
-state = "NM"
 city = "Amalia"
 county = "Taos"
-longitude = -105.585441
 latitude = 36.803628
+longitude = -105.585441
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87512"
+

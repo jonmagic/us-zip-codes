@@ -1,6 +1,8 @@
-zip_code = "50579"
-state = "IA"
 city = "Rockwell City"
 county = "Calhoun"
-longitude = -94.633664
 latitude = 42.393114
+longitude = -94.633664
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50579"
+

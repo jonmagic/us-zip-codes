@@ -1,6 +1,8 @@
-zip_code = "30044"
-state = "GA"
 city = "Lawrenceville"
 county = "Gwinnett"
-longitude = -84.070567
 latitude = 33.941847
+longitude = -84.070567
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30044"
+

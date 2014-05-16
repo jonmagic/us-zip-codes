@@ -1,6 +1,8 @@
-zip_code = "21916"
-state = "MD"
 city = "Childs"
 county = "Cecil"
-longitude = -75.999972
 latitude = 39.541512
+longitude = -75.999972
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21916"
+

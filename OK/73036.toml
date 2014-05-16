@@ -1,6 +1,8 @@
-zip_code = "73036"
-state = "OK"
 city = "El Reno"
 county = "Canadian"
-longitude = -98.026708
 latitude = 35.508128
+longitude = -98.026708
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73036"
+

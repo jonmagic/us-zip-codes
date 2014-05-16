@@ -1,6 +1,8 @@
-zip_code = "53537"
-state = "WI"
 city = "Footville"
 county = "Rock"
-longitude = -89.211151
 latitude = 42.672575
+longitude = -89.211151
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53537"
+

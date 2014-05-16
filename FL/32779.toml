@@ -1,6 +1,8 @@
-zip_code = "32779"
-state = "FL"
 city = "Longwood"
 county = "Seminole"
-longitude = -81.294452
 latitude = 28.72449
+longitude = -81.294452
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32779"
+

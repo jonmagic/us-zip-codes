@@ -1,6 +1,8 @@
-zip_code = "46941"
-state = "IN"
 city = "Lagro"
 county = "Wabash"
-longitude = -85.700909
 latitude = 40.826475
+longitude = -85.700909
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46941"
+

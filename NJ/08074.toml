@@ -1,6 +1,8 @@
-zip_code = "08074"
-state = "NJ"
 city = "Richwood"
 county = "Gloucester"
-longitude = -75.168141
 latitude = 39.720622
+longitude = -75.168141
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08074"
+

@@ -1,6 +1,8 @@
-zip_code = "63740"
-state = "MO"
 city = "Chaffee"
 county = "Scott"
-longitude = -89.610468
 latitude = 37.151512
+longitude = -89.610468
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63740"
+

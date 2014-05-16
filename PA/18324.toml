@@ -1,6 +1,8 @@
-zip_code = "18324"
-state = "PA"
 city = "Bushkill"
 county = "Pike"
-longitude = -74.97889
 latitude = 41.185011
+longitude = -74.97889
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18324"
+

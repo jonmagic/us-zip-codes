@@ -1,6 +1,8 @@
-zip_code = "53121"
-state = "WI"
 city = "Elkhorn"
 county = "Walworth"
-longitude = -88.563961
 latitude = 42.671666
+longitude = -88.563961
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53121"
+

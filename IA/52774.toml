@@ -1,6 +1,8 @@
-zip_code = "52774"
-state = "IA"
 city = "Welton"
 county = "Clinton"
-longitude = -90.597017
 latitude = 41.917411
+longitude = -90.597017
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52774"
+

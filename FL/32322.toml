@@ -1,6 +1,8 @@
-zip_code = "32322"
-state = "FL"
 city = "Carrabelle"
 county = "Franklin"
-longitude = -84.735838
 latitude = 29.853775
+longitude = -84.735838
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32322"
+

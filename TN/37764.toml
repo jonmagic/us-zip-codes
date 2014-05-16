@@ -1,6 +1,8 @@
-zip_code = "37764"
-state = "TN"
 city = "Kodak"
 county = "Sevier"
-longitude = -83.602564
 latitude = 35.974032
+longitude = -83.602564
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37764"
+

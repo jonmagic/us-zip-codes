@@ -1,6 +1,8 @@
-zip_code = "52002"
-state = "IA"
 city = "Dubuque"
 county = "Dubuque"
-longitude = -90.7718
 latitude = 42.532019
+longitude = -90.7718
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52002"
+

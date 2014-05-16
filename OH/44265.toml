@@ -1,6 +1,8 @@
-zip_code = "44265"
-state = "OH"
 city = "Randolph"
 county = "Portage"
-longitude = -81.297727
 latitude = 41.010907
+longitude = -81.297727
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44265"
+

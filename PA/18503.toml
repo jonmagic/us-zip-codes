@@ -1,6 +1,8 @@
-zip_code = "18503"
-state = "PA"
 city = "Scranton"
 county = "Lackawanna"
-longitude = -75.666784
 latitude = 41.410079
+longitude = -75.666784
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18503"
+

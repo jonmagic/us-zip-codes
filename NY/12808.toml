@@ -1,6 +1,8 @@
-zip_code = "12808"
-state = "NY"
 city = "Adirondack"
 county = "Warren"
-longitude = -73.794147
 latitude = 43.708338
+longitude = -73.794147
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12808"
+

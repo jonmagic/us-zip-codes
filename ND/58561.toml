@@ -1,6 +1,8 @@
-zip_code = "58561"
-state = "ND"
 city = "Napoleon"
 county = "Logan"
-longitude = -99.65682
 latitude = 46.464858
+longitude = -99.65682
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58561"
+

@@ -1,6 +1,8 @@
-zip_code = "26525"
-state = "WV"
 city = "Bruceton Mills"
 county = "Preston"
-longitude = -79.620241
 latitude = 39.666293
+longitude = -79.620241
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26525"
+

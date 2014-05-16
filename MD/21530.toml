@@ -1,6 +1,8 @@
-zip_code = "21530"
-state = "MD"
 city = "Flintstone"
 county = "Allegany"
-longitude = -78.524164
 latitude = 39.679418
+longitude = -78.524164
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21530"
+

@@ -1,6 +1,8 @@
-zip_code = "83617"
-state = "ID"
 city = "Emmett"
 county = "Gem"
-longitude = -116.492657
 latitude = 43.908876
+longitude = -116.492657
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83617"
+

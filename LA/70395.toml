@@ -1,6 +1,8 @@
-zip_code = "70395"
-state = "LA"
 city = "Schriever"
 county = "Terrebonne"
-longitude = -90.863923
 latitude = 29.691176
+longitude = -90.863923
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70395"
+

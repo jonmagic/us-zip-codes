@@ -1,6 +1,8 @@
-zip_code = "59422"
-state = "MT"
 city = "Choteau"
 county = "Teton"
-longitude = -112.266872
 latitude = 47.824102
+longitude = -112.266872
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59422"
+

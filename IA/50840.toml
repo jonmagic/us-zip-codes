@@ -1,6 +1,8 @@
-zip_code = "50840"
-state = "IA"
 city = "Clearfield"
 county = "Taylor"
-longitude = -94.606348
 latitude = 40.782221
+longitude = -94.606348
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50840"
+

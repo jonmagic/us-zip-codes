@@ -1,6 +1,8 @@
-zip_code = "84325"
-state = "UT"
 city = "Mendon"
 county = "Cache"
-longitude = -111.989806
 latitude = 41.724699
+longitude = -111.989806
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84325"
+

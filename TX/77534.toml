@@ -1,6 +1,8 @@
-zip_code = "77534"
-state = "TX"
 city = "Danbury"
 county = "Brazoria"
-longitude = -95.309176
 latitude = 29.319781
+longitude = -95.309176
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77534"
+

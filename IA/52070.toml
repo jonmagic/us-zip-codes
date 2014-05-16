@@ -1,6 +1,8 @@
-zip_code = "52070"
-state = "IA"
 city = "Sabula"
 county = "Jackson"
-longitude = -90.360035
 latitude = 42.093989
+longitude = -90.360035
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52070"
+

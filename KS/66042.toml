@@ -1,6 +1,8 @@
-zip_code = "66042"
-state = "KS"
 city = "Lane"
 county = "Franklin"
-longitude = -95.263735
 latitude = 38.550993
+longitude = -95.263735
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66042"
+

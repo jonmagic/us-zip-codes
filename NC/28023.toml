@@ -1,6 +1,8 @@
-zip_code = "28023"
-state = "NC"
 city = "China Grove"
 county = "Rowan"
-longitude = -80.596523
 latitude = 35.571468
+longitude = -80.596523
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28023"
+

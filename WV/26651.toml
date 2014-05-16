@@ -1,6 +1,8 @@
-zip_code = "26651"
-state = "WV"
 city = "Summersville"
 county = "Nicholas"
-longitude = -80.854096
 latitude = 38.326251
+longitude = -80.854096
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26651"
+

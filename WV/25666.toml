@@ -1,6 +1,8 @@
-zip_code = "25666"
-state = "WV"
 city = "Breeden"
 county = "Mingo"
-longitude = -82.270292
 latitude = 37.926178
+longitude = -82.270292
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25666"
+

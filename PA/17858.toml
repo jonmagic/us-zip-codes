@@ -1,6 +1,8 @@
-zip_code = "17858"
-state = "PA"
 city = "Numidia"
 county = "Columbia"
-longitude = -76.424297
 latitude = 41.042106
+longitude = -76.424297
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17858"
+

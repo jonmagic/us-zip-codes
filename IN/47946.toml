@@ -1,6 +1,8 @@
-zip_code = "47946"
-state = "IN"
 city = "Francesville"
 county = "Pulaski"
-longitude = -86.83465
 latitude = 40.984442
+longitude = -86.83465
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47946"
+

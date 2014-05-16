@@ -1,6 +1,8 @@
-zip_code = "60966"
-state = "IL"
 city = "Sheldon"
 county = "Iroquois"
-longitude = -87.58941
 latitude = 40.75308
+longitude = -87.58941
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60966"
+

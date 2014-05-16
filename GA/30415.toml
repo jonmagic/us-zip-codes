@@ -1,6 +1,8 @@
-zip_code = "30415"
-state = "GA"
 city = "Brooklet"
 county = "Bulloch"
-longitude = -81.6571
 latitude = 32.352307
+longitude = -81.6571
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30415"
+

@@ -1,6 +1,8 @@
-zip_code = "41621"
-state = "KY"
 city = "Dwale"
 county = "Floyd"
-longitude = -82.722679
 latitude = 37.624553
+longitude = -82.722679
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41621"
+

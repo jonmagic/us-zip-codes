@@ -1,6 +1,8 @@
-zip_code = "24072"
-state = "VA"
 city = "Check"
 county = "Floyd"
-longitude = -80.227981
 latitude = 37.044622
+longitude = -80.227981
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24072"
+

@@ -1,6 +1,8 @@
-zip_code = "87044"
-state = "NM"
 city = "Ponderosa"
 county = "Sandoval"
-longitude = -106.679604
 latitude = 35.711701
+longitude = -106.679604
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87044"
+

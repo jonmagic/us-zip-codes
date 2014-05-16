@@ -1,6 +1,8 @@
-zip_code = "17262"
-state = "PA"
 city = "Spring Run"
 county = "Franklin"
-longitude = -77.709212
 latitude = 40.173439
+longitude = -77.709212
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17262"
+

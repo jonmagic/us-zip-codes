@@ -1,6 +1,8 @@
-zip_code = "67583"
-state = "KS"
 city = "Turon"
 county = "Reno"
-longitude = -98.359075
 latitude = 37.822393
+longitude = -98.359075
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67583"
+

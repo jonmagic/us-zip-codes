@@ -1,6 +1,8 @@
-zip_code = "95254"
-state = "CA"
 city = "Wallace"
 county = "Calaveras"
-longitude = -120.944264
 latitude = 38.161589
+longitude = -120.944264
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95254"
+

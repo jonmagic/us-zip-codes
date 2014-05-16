@@ -1,6 +1,8 @@
-zip_code = "76953"
-state = "TX"
 city = "Tennyson"
 county = "Coke"
-longitude = -100.288365
 latitude = 31.739714
+longitude = -100.288365
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76953"
+

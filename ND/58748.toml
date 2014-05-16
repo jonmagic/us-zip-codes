@@ -1,6 +1,8 @@
-zip_code = "58748"
-state = "ND"
 city = "Kramer"
 county = "Bottineau"
-longitude = -100.634566
 latitude = 48.697742
+longitude = -100.634566
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58748"
+

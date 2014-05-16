@@ -1,6 +1,8 @@
-zip_code = "45771"
-state = "OH"
 city = "Racine"
 county = "Meigs"
-longitude = -81.892503
 latitude = 38.984835
+longitude = -81.892503
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45771"
+

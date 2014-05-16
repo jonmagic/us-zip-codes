@@ -1,6 +1,8 @@
-zip_code = "73942"
-state = "OK"
 city = "Guymon"
 county = "Texas"
-longitude = -101.426147
 latitude = 36.729713
+longitude = -101.426147
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73942"
+

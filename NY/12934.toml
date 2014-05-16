@@ -1,6 +1,8 @@
-zip_code = "12934"
-state = "NY"
 city = "Ellenburg Center"
 county = "Clinton"
-longitude = -73.907936
 latitude = 44.892243
+longitude = -73.907936
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12934"
+

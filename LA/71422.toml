@@ -1,6 +1,8 @@
-zip_code = "71422"
-state = "LA"
 city = "Dodson"
 county = "Winn"
-longitude = -92.565469
 latitude = 32.072883
+longitude = -92.565469
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71422"
+

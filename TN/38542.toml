@@ -1,6 +1,8 @@
-zip_code = "38542"
-state = "TN"
 city = "Allred"
 county = "Overton"
-longitude = -85.203098
 latitude = 36.323952
+longitude = -85.203098
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38542"
+

@@ -1,6 +1,8 @@
-zip_code = "38329"
-state = "TN"
 city = "Decaturville"
 county = "Decatur"
-longitude = -88.114375
 latitude = 35.536264
+longitude = -88.114375
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38329"
+

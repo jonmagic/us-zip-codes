@@ -1,6 +1,8 @@
-zip_code = "75763"
-state = "TX"
 city = "Frankston"
 county = "Anderson"
-longitude = -95.499133
 latitude = 31.992987
+longitude = -95.499133
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75763"
+

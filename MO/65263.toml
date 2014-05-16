@@ -1,6 +1,8 @@
-zip_code = "65263"
-state = "MO"
 city = "Madison"
 county = "Monroe"
-longitude = -92.206875
 latitude = 39.471942
+longitude = -92.206875
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65263"
+

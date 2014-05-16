@@ -1,6 +1,8 @@
-zip_code = "07830"
-state = "NJ"
 city = "Califon"
 county = "Hunterdon"
-longitude = -74.813951
 latitude = 40.717424
+longitude = -74.813951
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07830"
+

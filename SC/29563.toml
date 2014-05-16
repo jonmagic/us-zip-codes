@@ -1,6 +1,8 @@
-zip_code = "29563"
-state = "SC"
 city = "Lake View"
 county = "Dillon"
-longitude = -79.240676
 latitude = 34.350121
+longitude = -79.240676
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29563"
+

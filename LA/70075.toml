@@ -1,6 +1,8 @@
-zip_code = "70075"
-state = "LA"
 city = "Meraux"
 county = "Saint Bernard"
-longitude = -89.923522
 latitude = 29.932133
+longitude = -89.923522
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70075"
+

@@ -1,6 +1,8 @@
-zip_code = "72121"
-state = "AR"
 city = "Pangburn"
 county = "White"
-longitude = -91.652684
 latitude = 35.329969
+longitude = -91.652684
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72121"
+

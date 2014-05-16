@@ -1,6 +1,8 @@
-zip_code = "90712"
-state = "CA"
 city = "Lakewood"
 county = "Los Angeles"
-longitude = -118.14645
 latitude = 33.845624
+longitude = -118.14645
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90712"
+

@@ -1,6 +1,8 @@
-zip_code = "02184"
-state = "MA"
 city = "Braintree"
 county = "Norfolk"
-longitude = -71.005192
 latitude = 42.202216
+longitude = -71.005192
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02184"
+

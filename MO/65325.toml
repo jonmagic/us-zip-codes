@@ -1,6 +1,8 @@
-zip_code = "65325"
-state = "MO"
 city = "Cole Camp"
 county = "Benton"
-longitude = -93.314592
 latitude = 38.337832
+longitude = -93.314592
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65325"
+

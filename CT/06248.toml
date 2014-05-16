@@ -1,6 +1,8 @@
-zip_code = "06248"
-state = "CT"
 city = "Hebron"
 county = "Tolland"
-longitude = -72.398627
 latitude = 41.689249
+longitude = -72.398627
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06248"
+

@@ -1,6 +1,8 @@
-zip_code = "35574"
-state = "AL"
 city = "Kennedy"
 county = "Lamar"
-longitude = -87.99477
 latitude = 33.615308
+longitude = -87.99477
+state = ""
+state_code_alpha2 = ""
+zip_code = "35574"
+

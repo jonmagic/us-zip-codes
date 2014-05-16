@@ -1,6 +1,8 @@
-zip_code = "47224"
-state = "IN"
 city = "Canaan"
 county = "Jefferson"
-longitude = -85.291935
 latitude = 38.873448
+longitude = -85.291935
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47224"
+

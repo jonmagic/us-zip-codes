@@ -1,6 +1,8 @@
-zip_code = "41858"
-state = "KY"
 city = "Whitesburg"
 county = "Letcher"
-longitude = -82.855032
 latitude = 37.13885
+longitude = -82.855032
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41858"
+

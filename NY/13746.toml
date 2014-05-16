@@ -1,6 +1,8 @@
-zip_code = "13746"
-state = "NY"
 city = "Chenango Forks"
 county = "Broome"
-longitude = -75.846246
 latitude = 42.277777
+longitude = -75.846246
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13746"
+

@@ -1,6 +1,8 @@
-zip_code = "17540"
-state = "PA"
 city = "Leola"
 county = "Lancaster"
-longitude = -76.191873
 latitude = 40.100846
+longitude = -76.191873
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17540"
+

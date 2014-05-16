@@ -1,6 +1,8 @@
-zip_code = "02742"
-state = "MA"
 city = "New Bedford"
 county = "Bristol"
-longitude = -70.956346
 latitude = 41.619557
+longitude = -70.956346
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02742"
+

@@ -1,6 +1,8 @@
-zip_code = "63966"
-state = "MO"
 city = "Wappapello"
 county = "Wayne"
-longitude = -90.277511
 latitude = 36.974454
+longitude = -90.277511
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63966"
+

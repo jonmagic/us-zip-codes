@@ -1,6 +1,8 @@
-zip_code = "46164"
-state = "IN"
 city = "Nineveh"
 county = "Johnson"
-longitude = -86.109534
 latitude = 39.391505
+longitude = -86.109534
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46164"
+

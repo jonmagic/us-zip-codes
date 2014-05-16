@@ -1,6 +1,8 @@
-zip_code = "47020"
-state = "IN"
 city = "Florence"
 county = "Switzerland"
-longitude = -84.950119
 latitude = 38.82353
+longitude = -84.950119
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47020"
+

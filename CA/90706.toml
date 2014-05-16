@@ -1,6 +1,8 @@
-zip_code = "90706"
-state = "CA"
 city = "Bellflower"
 county = "Los Angeles"
-longitude = -118.12965
 latitude = 33.888014
+longitude = -118.12965
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90706"
+

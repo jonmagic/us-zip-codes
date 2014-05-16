@@ -1,6 +1,8 @@
-zip_code = "22436"
-state = "VA"
 city = "Caret"
 county = "Essex"
-longitude = -77.037147
 latitude = 38.024704
+longitude = -77.037147
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22436"
+

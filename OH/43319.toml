@@ -1,6 +1,8 @@
-zip_code = "43319"
-state = "OH"
 city = "East Liberty"
 county = "Logan"
-longitude = -83.728511
 latitude = 40.303893
+longitude = -83.728511
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43319"
+

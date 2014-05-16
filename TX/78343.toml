@@ -1,6 +1,8 @@
-zip_code = "78343"
-state = "TX"
 city = "Bishop"
 county = "Nueces"
-longitude = -97.749935
 latitude = 27.623349
+longitude = -97.749935
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78343"
+

@@ -1,6 +1,8 @@
-zip_code = "53140"
-state = "WI"
 city = "Kenosha"
 county = "Kenosha"
-longitude = -87.830375
 latitude = 42.622449
+longitude = -87.830375
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53140"
+

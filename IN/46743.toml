@@ -1,6 +1,8 @@
-zip_code = "46743"
-state = "IN"
 city = "Harlan"
 county = "Allen"
-longitude = -84.987882
 latitude = 41.227324
+longitude = -84.987882
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46743"
+

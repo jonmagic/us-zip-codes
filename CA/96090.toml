@@ -1,6 +1,8 @@
-zip_code = "96090"
-state = "CA"
 city = "Tehama"
 county = "Tehama"
-longitude = -122.118643
 latitude = 40.021383
+longitude = -122.118643
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96090"
+

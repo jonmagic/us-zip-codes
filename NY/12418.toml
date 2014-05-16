@@ -1,6 +1,8 @@
-zip_code = "12418"
-state = "NY"
 city = "Cornwallville"
 county = "Greene"
-longitude = -74.179384
 latitude = 42.368277
+longitude = -74.179384
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12418"
+

@@ -1,6 +1,8 @@
-zip_code = "12540"
-state = "NY"
 city = "Lagrangeville"
 county = "Dutchess"
-longitude = -73.743183
 latitude = 41.633029
+longitude = -73.743183
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12540"
+

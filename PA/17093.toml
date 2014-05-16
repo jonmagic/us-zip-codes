@@ -1,6 +1,8 @@
-zip_code = "17093"
-state = "PA"
 city = "Summerdale"
 county = "Cumberland"
-longitude = -76.926346
 latitude = 40.293538
+longitude = -76.926346
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17093"
+

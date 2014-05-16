@@ -1,6 +1,8 @@
-zip_code = "48476"
-state = "MI"
 city = "Vernon"
 county = "Shiawassee"
-longitude = -84.032828
 latitude = 42.940553
+longitude = -84.032828
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48476"
+

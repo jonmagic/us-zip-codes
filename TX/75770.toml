@@ -1,6 +1,8 @@
-zip_code = "75770"
-state = "TX"
 city = "Larue"
 county = "Henderson"
-longitude = -95.641089
 latitude = 32.127602
+longitude = -95.641089
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75770"
+

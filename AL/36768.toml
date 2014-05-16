@@ -1,6 +1,8 @@
-zip_code = "36768"
-state = "AL"
 city = "Pine Apple"
 county = "Wilcox"
-longitude = -87.044855
 latitude = 31.932526
+longitude = -87.044855
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36768"
+

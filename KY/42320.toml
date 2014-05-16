@@ -1,6 +1,8 @@
-zip_code = "42320"
-state = "KY"
 city = "Beaver Dam"
 county = "Ohio"
-longitude = -86.864676
 latitude = 37.355569
+longitude = -86.864676
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42320"
+

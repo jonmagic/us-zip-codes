@@ -1,6 +1,8 @@
-zip_code = "65787"
-state = "MO"
 city = "Roach"
 county = "Camden"
-longitude = -92.914785
 latitude = 38.102482
+longitude = -92.914785
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65787"
+

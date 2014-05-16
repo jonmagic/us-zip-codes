@@ -1,6 +1,8 @@
-zip_code = "12498"
-state = "NY"
 city = "Woodstock"
 county = "Ulster"
-longitude = -74.169764
 latitude = 41.883076
+longitude = -74.169764
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12498"
+

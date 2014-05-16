@@ -1,6 +1,8 @@
-zip_code = "32164"
-state = "FL"
 city = "Palm Coast"
 county = "Flagler"
-longitude = -81.204491
 latitude = 29.486141
+longitude = -81.204491
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32164"
+

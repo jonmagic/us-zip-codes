@@ -1,6 +1,8 @@
-zip_code = "68034"
-state = "NE"
 city = "Kennard"
 county = "Washington"
-longitude = -96.190348
 latitude = 41.45256
+longitude = -96.190348
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68034"
+

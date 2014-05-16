@@ -1,6 +1,8 @@
-zip_code = "11722"
-state = "NY"
 city = "Central Islip"
 county = "Suffolk"
-longitude = -73.196148
 latitude = 40.78193
+longitude = -73.196148
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11722"
+

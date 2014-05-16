@@ -1,6 +1,8 @@
-zip_code = "55703"
-state = "MN"
 city = "Angora"
 county = "Saint Louis"
-longitude = -92.756769
 latitude = 47.753747
+longitude = -92.756769
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55703"
+

@@ -1,6 +1,8 @@
-zip_code = "36091"
-state = "AL"
 city = "Verbena"
 county = "Chilton"
-longitude = -86.644088
 latitude = 32.776052
+longitude = -86.644088
+state = ""
+state_code_alpha2 = ""
+zip_code = "36091"
+

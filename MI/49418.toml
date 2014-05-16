@@ -1,6 +1,8 @@
-zip_code = "49418"
-state = "MI"
 city = "Grandville"
 county = "Kent"
-longitude = -85.753056
 latitude = 42.882726
+longitude = -85.753056
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49418"
+

@@ -1,6 +1,8 @@
-zip_code = "24825"
-state = "WV"
 city = "Crumpler"
 county = "Mcdowell"
-longitude = -81.653889
 latitude = 37.375246
+longitude = -81.653889
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24825"
+

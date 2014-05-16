@@ -1,6 +1,8 @@
-zip_code = "57325"
-state = "SD"
 city = "Chamberlain"
 county = "Brule"
-longitude = -99.149806
 latitude = 43.772585
+longitude = -99.149806
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57325"
+

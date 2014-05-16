@@ -1,6 +1,8 @@
-zip_code = "37302"
-state = "TN"
 city = "Apison"
 county = "Hamilton"
-longitude = -85.018914
 latitude = 35.017572
+longitude = -85.018914
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37302"
+

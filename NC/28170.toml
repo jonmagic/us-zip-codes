@@ -1,6 +1,8 @@
-zip_code = "28170"
-state = "NC"
 city = "Wadesboro"
 county = "Anson"
-longitude = -80.05003
 latitude = 34.924469
+longitude = -80.05003
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28170"
+

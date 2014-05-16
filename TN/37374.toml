@@ -1,6 +1,8 @@
-zip_code = "37374"
-state = "TN"
 city = "Sequatchie"
 county = "Marion"
-longitude = -85.632114
 latitude = 35.170416
+longitude = -85.632114
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37374"
+

@@ -1,6 +1,8 @@
-zip_code = "30147"
-state = "GA"
 city = "Lindale"
 county = "Floyd"
-longitude = -85.220364
 latitude = 34.152211
+longitude = -85.220364
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30147"
+

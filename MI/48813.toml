@@ -1,6 +1,8 @@
-zip_code = "48813"
-state = "MI"
 city = "Charlotte"
 county = "Eaton"
-longitude = -84.838452
 latitude = 42.574191
+longitude = -84.838452
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48813"
+

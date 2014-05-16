@@ -1,6 +1,8 @@
-zip_code = "56267"
-state = "MN"
 city = "Morris"
 county = "Stevens"
-longitude = -95.923233
 latitude = 45.595739
+longitude = -95.923233
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56267"
+

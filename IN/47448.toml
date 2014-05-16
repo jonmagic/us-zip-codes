@@ -1,6 +1,8 @@
-zip_code = "47448"
-state = "IN"
 city = "Nashville"
 county = "Brown"
-longitude = -86.226228
 latitude = 39.180583
+longitude = -86.226228
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47448"
+

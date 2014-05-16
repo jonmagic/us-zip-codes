@@ -1,6 +1,8 @@
-zip_code = "73716"
-state = "OK"
 city = "Aline"
 county = "Alfalfa"
-longitude = -98.449895
 latitude = 36.51176
+longitude = -98.449895
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73716"
+

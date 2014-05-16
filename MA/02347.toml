@@ -1,6 +1,8 @@
-zip_code = "02347"
-state = "MA"
 city = "Lakeville"
 county = "Plymouth"
-longitude = -70.959981
 latitude = 41.843757
+longitude = -70.959981
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02347"
+

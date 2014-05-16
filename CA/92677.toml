@@ -1,6 +1,8 @@
-zip_code = "92677"
-state = "CA"
 city = "Laguna Niguel"
 county = "Orange"
-longitude = -117.710262
 latitude = 33.532817
+longitude = -117.710262
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92677"
+

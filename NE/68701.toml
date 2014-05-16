@@ -1,6 +1,8 @@
-zip_code = "68701"
-state = "NE"
 city = "Norfolk"
 county = "Madison"
-longitude = -97.601189
 latitude = 41.99641
+longitude = -97.601189
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68701"
+

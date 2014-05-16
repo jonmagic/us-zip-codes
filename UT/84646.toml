@@ -1,6 +1,8 @@
-zip_code = "84646"
-state = "UT"
 city = "Moroni"
 county = "Sanpete"
-longitude = -111.560318
 latitude = 39.510792
+longitude = -111.560318
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84646"
+

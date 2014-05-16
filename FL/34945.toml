@@ -1,6 +1,8 @@
-zip_code = "34945"
-state = "FL"
 city = "Fort Pierce"
 county = "Saint Lucie"
-longitude = -80.534169
 latitude = 27.412128
+longitude = -80.534169
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34945"
+

@@ -1,6 +1,8 @@
-zip_code = "25071"
-state = "WV"
 city = "Elkview"
 county = "Kanawha"
-longitude = -81.450424
 latitude = 38.386942
+longitude = -81.450424
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25071"
+

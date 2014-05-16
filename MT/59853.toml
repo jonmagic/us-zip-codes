@@ -1,6 +1,8 @@
-zip_code = "59853"
-state = "MT"
 city = "Noxon"
 county = "Sanders"
-longitude = -115.858153
 latitude = 48.076781
+longitude = -115.858153
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59853"
+

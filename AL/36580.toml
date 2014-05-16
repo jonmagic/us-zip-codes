@@ -1,6 +1,8 @@
-zip_code = "36580"
-state = "AL"
 city = "Summerdale"
 county = "Baldwin"
-longitude = -87.703035
 latitude = 30.468691
+longitude = -87.703035
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36580"
+

@@ -1,6 +1,8 @@
-zip_code = "74734"
-state = "OK"
 city = "Eagletown"
 county = "Mccurtain"
-longitude = -94.808868
 latitude = 34.061674
+longitude = -94.808868
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74734"
+

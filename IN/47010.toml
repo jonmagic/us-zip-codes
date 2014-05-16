@@ -1,6 +1,8 @@
-zip_code = "47010"
-state = "IN"
 city = "Bath"
 county = "Franklin"
-longitude = -84.853529
 latitude = 39.490701
+longitude = -84.853529
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47010"
+

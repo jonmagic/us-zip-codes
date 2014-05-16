@@ -1,6 +1,8 @@
-zip_code = "04042"
-state = "ME"
 city = "Hollis Center"
 county = "York"
-longitude = -70.624391
 latitude = 43.584232
+longitude = -70.624391
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04042"
+

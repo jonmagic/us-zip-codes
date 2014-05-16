@@ -1,6 +1,8 @@
-zip_code = "82054"
-state = "WY"
 city = "Carpenter"
 county = "Laramie"
-longitude = -104.356347
 latitude = 41.097376
+longitude = -104.356347
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82054"
+

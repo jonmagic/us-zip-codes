@@ -1,6 +1,8 @@
-zip_code = "54023"
-state = "WI"
 city = "Roberts"
 county = "Saint Croix"
-longitude = -92.59762
 latitude = 44.974357
+longitude = -92.59762
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54023"
+

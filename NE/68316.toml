@@ -1,6 +1,8 @@
-zip_code = "68316"
-state = "NE"
 city = "Benedict"
 county = "York"
-longitude = -97.610404
 latitude = 41.003042
+longitude = -97.610404
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68316"
+

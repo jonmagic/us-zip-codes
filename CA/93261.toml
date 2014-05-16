@@ -1,6 +1,8 @@
-zip_code = "93261"
-state = "CA"
 city = "Richgrove"
 county = "Tulare"
-longitude = -119.131527
 latitude = 35.805046
+longitude = -119.131527
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93261"
+

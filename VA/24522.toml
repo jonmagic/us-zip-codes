@@ -1,6 +1,8 @@
-zip_code = "24522"
-state = "VA"
 city = "Appomattox"
 county = "Appomattox"
-longitude = -78.848202
 latitude = 37.356134
+longitude = -78.848202
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24522"
+

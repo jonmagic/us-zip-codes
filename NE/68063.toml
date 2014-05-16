@@ -1,6 +1,8 @@
-zip_code = "68063"
-state = "NE"
 city = "Uehling"
 county = "Dodge"
-longitude = -96.503746
 latitude = 41.736896
+longitude = -96.503746
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68063"
+

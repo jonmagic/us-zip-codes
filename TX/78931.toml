@@ -1,6 +1,8 @@
-zip_code = "78931"
-state = "TX"
 city = "Bleiblerville"
 county = "Austin"
-longitude = -96.313271
 latitude = 29.849283
+longitude = -96.313271
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78931"
+

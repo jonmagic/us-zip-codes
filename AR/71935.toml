@@ -1,6 +1,8 @@
-zip_code = "71935"
-state = "AR"
 city = "Caddo Gap"
 county = "Montgomery"
-longitude = -93.683883
 latitude = 34.392489
+longitude = -93.683883
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71935"
+

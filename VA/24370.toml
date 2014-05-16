@@ -1,6 +1,8 @@
-zip_code = "24370"
-state = "VA"
 city = "Saltville"
 county = "Smyth"
-longitude = -81.645388
 latitude = 36.906696
+longitude = -81.645388
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24370"
+

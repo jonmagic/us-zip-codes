@@ -1,6 +1,8 @@
-zip_code = "37149"
-state = "TN"
 city = "Readyville"
 county = "Cannon"
-longitude = -86.148505
 latitude = 35.80362
+longitude = -86.148505
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37149"
+

@@ -1,6 +1,8 @@
-zip_code = "17577"
-state = "PA"
 city = "Soudersburg"
 county = "Lancaster"
-longitude = -76.297582
 latitude = 40.0185
+longitude = -76.297582
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17577"
+

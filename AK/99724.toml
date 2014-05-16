@@ -1,6 +1,8 @@
-zip_code = "99724"
-state = "AK"
 city = "Beaver"
 county = "Yukon Koyukuk"
-longitude = -149.19301
 latitude = 66.929746
+longitude = -149.19301
+state = ""
+state_code_alpha2 = ""
+zip_code = "99724"
+

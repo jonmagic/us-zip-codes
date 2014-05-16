@@ -1,6 +1,8 @@
-zip_code = "47855"
-state = "IN"
 city = "Hymera"
 county = "Sullivan"
-longitude = -87.299448
 latitude = 39.183335
+longitude = -87.299448
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47855"
+

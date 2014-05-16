@@ -1,6 +1,8 @@
-zip_code = "31090"
-state = "GA"
 city = "Toomsboro"
 county = "Wilkinson"
-longitude = -83.066814
 latitude = 32.806595
+longitude = -83.066814
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31090"
+

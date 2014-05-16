@@ -1,6 +1,8 @@
-zip_code = "38241"
-state = "TN"
 city = "Palmersville"
 county = "Weakley"
-longitude = -88.611055
 latitude = 36.391905
+longitude = -88.611055
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38241"
+

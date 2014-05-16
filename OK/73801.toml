@@ -1,6 +1,8 @@
-zip_code = "73801"
-state = "OK"
 city = "Woodward"
 county = "Woodward"
-longitude = -99.442977
 latitude = 36.438017
+longitude = -99.442977
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73801"
+

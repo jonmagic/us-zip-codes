@@ -1,6 +1,8 @@
-zip_code = "44216"
-state = "OH"
 city = "Clinton"
 county = "Summit"
-longitude = -81.571443
 latitude = 40.948706
+longitude = -81.571443
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44216"
+

@@ -1,6 +1,8 @@
-zip_code = "84057"
-state = "UT"
 city = "Orem"
 county = "Utah"
-longitude = -111.72496
 latitude = 40.311353
+longitude = -111.72496
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84057"
+

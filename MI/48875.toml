@@ -1,6 +1,8 @@
-zip_code = "48875"
-state = "MI"
 city = "Portland"
 county = "Ionia"
-longitude = -84.965969
 latitude = 42.883458
+longitude = -84.965969
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48875"
+

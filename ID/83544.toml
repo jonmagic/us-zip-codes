@@ -1,6 +1,8 @@
-zip_code = "83544"
-state = "ID"
 city = "Orofino"
 county = "Clearwater"
-longitude = -116.184848
 latitude = 46.4976
+longitude = -116.184848
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83544"
+

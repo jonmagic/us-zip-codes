@@ -1,6 +1,8 @@
-zip_code = "97737"
-state = "OR"
 city = "Gilchrist"
 county = "Klamath"
-longitude = -121.658336
 latitude = 43.372529
+longitude = -121.658336
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97737"
+

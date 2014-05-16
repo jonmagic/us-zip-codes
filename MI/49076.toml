@@ -1,6 +1,8 @@
-zip_code = "49076"
-state = "MI"
 city = "Olivet"
 county = "Eaton"
-longitude = -84.922599
 latitude = 42.559717
+longitude = -84.922599
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49076"
+

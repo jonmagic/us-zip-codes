@@ -1,6 +1,8 @@
-zip_code = "27809"
-state = "NC"
 city = "Battleboro"
 county = "Edgecombe"
-longitude = -77.707389
 latitude = 36.006705
+longitude = -77.707389
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27809"
+

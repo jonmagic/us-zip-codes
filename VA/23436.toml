@@ -1,6 +1,8 @@
-zip_code = "23436"
-state = "VA"
 city = "Suffolk"
 county = "Suffolk City"
-longitude = -76.523388
 latitude = 36.886856
+longitude = -76.523388
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23436"
+

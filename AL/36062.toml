@@ -1,6 +1,8 @@
-zip_code = "36062"
-state = "AL"
 city = "Petrey"
 county = "Crenshaw"
-longitude = -86.323949
 latitude = 31.74589
+longitude = -86.323949
+state = ""
+state_code_alpha2 = ""
+zip_code = "36062"
+

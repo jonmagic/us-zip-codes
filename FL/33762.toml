@@ -1,6 +1,8 @@
-zip_code = "33762"
-state = "FL"
 city = "Clearwater"
 county = "Pinellas"
-longitude = -82.674571
 latitude = 27.89417
+longitude = -82.674571
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33762"
+

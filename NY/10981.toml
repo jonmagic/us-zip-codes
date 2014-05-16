@@ -1,6 +1,8 @@
-zip_code = "10981"
-state = "NY"
 city = "Sugar Loaf"
 county = "Orange"
-longitude = -74.288565
 latitude = 41.323172
+longitude = -74.288565
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10981"
+

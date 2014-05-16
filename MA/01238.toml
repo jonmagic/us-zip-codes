@@ -1,6 +1,8 @@
-zip_code = "01238"
-state = "MA"
 city = "Lee"
 county = "Berkshire"
-longitude = -73.267465
 latitude = 42.369856
+longitude = -73.267465
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01238"
+

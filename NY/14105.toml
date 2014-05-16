@@ -1,6 +1,8 @@
-zip_code = "14105"
-state = "NY"
 city = "Middleport"
 county = "Niagara"
-longitude = -78.502849
 latitude = 43.196947
+longitude = -78.502849
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14105"
+

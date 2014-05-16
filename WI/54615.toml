@@ -1,6 +1,8 @@
-zip_code = "54615"
-state = "WI"
 city = "Black River Falls"
 county = "Jackson"
-longitude = -90.83128
 latitude = 44.295394
+longitude = -90.83128
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54615"
+

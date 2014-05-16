@@ -1,6 +1,8 @@
-zip_code = "43739"
-state = "OH"
 city = "Glenford"
 county = "Perry"
-longitude = -82.297706
 latitude = 39.884312
+longitude = -82.297706
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43739"
+

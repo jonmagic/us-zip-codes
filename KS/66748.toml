@@ -1,6 +1,8 @@
-zip_code = "66748"
-state = "KS"
 city = "Humboldt"
 county = "Allen"
-longitude = -95.34549
 latitude = 37.829342
+longitude = -95.34549
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66748"
+

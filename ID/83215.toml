@@ -1,6 +1,8 @@
-zip_code = "83215"
-state = "ID"
 city = "Atomic City"
 county = "Bingham"
-longitude = -112.297912
 latitude = 43.244795
+longitude = -112.297912
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83215"
+

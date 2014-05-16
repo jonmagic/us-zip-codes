@@ -1,6 +1,8 @@
-zip_code = "26767"
-state = "WV"
 city = "Wiley Ford"
 county = "Mineral"
-longitude = -78.763194
 latitude = 39.617003
+longitude = -78.763194
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26767"
+

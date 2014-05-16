@@ -1,6 +1,8 @@
-zip_code = "70080"
-state = "LA"
 city = "Paradis"
 county = "Saint Charles"
-longitude = -90.378697
 latitude = 29.891541
+longitude = -90.378697
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70080"
+

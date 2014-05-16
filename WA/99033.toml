@@ -1,6 +1,8 @@
-zip_code = "99033"
-state = "WA"
 city = "Tekoa"
 county = "Whitman"
-longitude = -117.096157
 latitude = 47.226641
+longitude = -117.096157
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99033"
+

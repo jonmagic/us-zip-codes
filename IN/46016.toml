@@ -1,6 +1,8 @@
-zip_code = "46016"
-state = "IN"
 city = "Anderson"
 county = "Madison"
-longitude = -85.742377
 latitude = 40.144894
+longitude = -85.742377
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46016"
+

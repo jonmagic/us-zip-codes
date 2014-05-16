@@ -1,6 +1,8 @@
-zip_code = "40962"
-state = "KY"
 city = "Manchester"
 county = "Clay"
-longitude = -83.779273
 latitude = 37.151101
+longitude = -83.779273
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40962"
+

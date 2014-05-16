@@ -1,6 +1,8 @@
-zip_code = "17407"
-state = "PA"
 city = "York"
 county = "York"
-longitude = -76.662569
 latitude = 39.897907
+longitude = -76.662569
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17407"
+

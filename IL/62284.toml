@@ -1,6 +1,8 @@
-zip_code = "62284"
-state = "IL"
 city = "Smithboro"
 county = "Bond"
-longitude = -89.314242
 latitude = 38.890378
+longitude = -89.314242
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62284"
+

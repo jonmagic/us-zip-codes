@@ -1,6 +1,8 @@
-zip_code = "68466"
-state = "NE"
 city = "Wymore"
 county = "Gage"
-longitude = -96.666863
 latitude = 40.122407
+longitude = -96.666863
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68466"
+

@@ -1,6 +1,8 @@
-zip_code = "05443"
-state = "VT"
 city = "Bristol"
 county = "Addison"
-longitude = -73.071813
 latitude = 44.157814
+longitude = -73.071813
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05443"
+

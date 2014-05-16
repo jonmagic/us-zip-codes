@@ -1,6 +1,8 @@
-zip_code = "93621"
-state = "CA"
 city = "Dunlap"
 county = "Fresno"
-longitude = -119.051698
 latitude = 36.723654
+longitude = -119.051698
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93621"
+

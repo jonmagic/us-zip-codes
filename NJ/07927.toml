@@ -1,6 +1,8 @@
-zip_code = "07927"
-state = "NJ"
 city = "Cedar Knolls"
 county = "Morris"
-longitude = -74.456198
 latitude = 40.820799
+longitude = -74.456198
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07927"
+

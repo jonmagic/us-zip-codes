@@ -1,6 +1,8 @@
-zip_code = "04924"
-state = "ME"
 city = "Canaan"
 county = "Somerset"
-longitude = -69.585151
 latitude = 44.743659
+longitude = -69.585151
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04924"
+

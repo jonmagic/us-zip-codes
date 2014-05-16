@@ -1,6 +1,8 @@
-zip_code = "29816"
-state = "SC"
 city = "Bath"
 county = "Aiken"
-longitude = -81.850871
 latitude = 33.496998
+longitude = -81.850871
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29816"
+

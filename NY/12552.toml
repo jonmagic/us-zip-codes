@@ -1,6 +1,8 @@
-zip_code = "12552"
-state = "NY"
 city = "Newburgh"
 county = "Orange"
-longitude = -74.354699
 latitude = 41.387822
+longitude = -74.354699
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12552"
+

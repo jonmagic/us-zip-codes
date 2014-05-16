@@ -1,6 +1,8 @@
-zip_code = "72099"
-state = "AR"
 city = "Little Rock Air Force Base"
 county = "Pulaski"
-longitude = -92.217343
 latitude = 34.788014
+longitude = -92.217343
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72099"
+

@@ -1,6 +1,8 @@
-zip_code = "20182"
-state = "VA"
 city = "Nokesville"
 county = "Prince William"
-longitude = -77.585708
 latitude = 38.700866
+longitude = -77.585708
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20182"
+

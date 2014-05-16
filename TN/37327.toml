@@ -1,6 +1,8 @@
-zip_code = "37327"
-state = "TN"
 city = "Dunlap"
 county = "Sequatchie"
-longitude = -85.376504
 latitude = 35.386535
+longitude = -85.376504
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37327"
+

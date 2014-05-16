@@ -1,6 +1,8 @@
-zip_code = "95001"
-state = "CA"
 city = "Aptos"
 county = "Santa Cruz"
-longitude = -121.949418
 latitude = 37.05297
+longitude = -121.949418
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95001"
+

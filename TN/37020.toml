@@ -1,6 +1,8 @@
-zip_code = "37020"
-state = "TN"
 city = "Bell Buckle"
 county = "Bedford"
-longitude = -86.399852
 latitude = 35.580793
+longitude = -86.399852
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37020"
+

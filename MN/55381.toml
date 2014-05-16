@@ -1,6 +1,8 @@
-zip_code = "55381"
-state = "MN"
 city = "Silver Lake"
 county = "Mcleod"
-longitude = -94.195425
 latitude = 44.921134
+longitude = -94.195425
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55381"
+

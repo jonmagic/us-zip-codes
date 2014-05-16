@@ -1,6 +1,8 @@
-zip_code = "43526"
-state = "OH"
 city = "Hicksville"
 county = "Defiance"
-longitude = -84.678021
 latitude = 41.325013
+longitude = -84.678021
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43526"
+

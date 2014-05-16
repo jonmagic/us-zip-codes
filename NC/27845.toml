@@ -1,6 +1,8 @@
-zip_code = "27845"
-state = "NC"
 city = "Jackson"
 county = "Northampton"
-longitude = -77.370513
 latitude = 36.374826
+longitude = -77.370513
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27845"
+

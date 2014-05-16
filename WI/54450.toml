@@ -1,6 +1,8 @@
-zip_code = "54450"
-state = "WI"
 city = "Mattoon"
 county = "Shawano"
-longitude = -89.047379
 latitude = 45.006232
+longitude = -89.047379
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54450"
+

@@ -1,6 +1,8 @@
-zip_code = "22847"
-state = "VA"
 city = "Quicksburg"
 county = "Shenandoah"
-longitude = -78.712058
 latitude = 38.761208
+longitude = -78.712058
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22847"
+

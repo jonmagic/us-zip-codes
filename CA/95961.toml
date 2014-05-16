@@ -1,6 +1,8 @@
-zip_code = "95961"
-state = "CA"
 city = "Olivehurst"
 county = "Yuba"
-longitude = -121.391149
 latitude = 39.214767
+longitude = -121.391149
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95961"
+

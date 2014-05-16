@@ -1,6 +1,8 @@
-zip_code = "52349"
-state = "IA"
 city = "Vinton"
 county = "Benton"
-longitude = -91.987332
 latitude = 42.087347
+longitude = -91.987332
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52349"
+

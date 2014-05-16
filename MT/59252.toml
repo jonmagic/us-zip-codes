@@ -1,6 +1,8 @@
-zip_code = "59252"
-state = "MT"
 city = "Outlook"
 county = "Sheridan"
-longitude = -104.793406
 latitude = 48.899627
+longitude = -104.793406
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59252"
+

@@ -1,6 +1,8 @@
-zip_code = "43106"
-state = "OH"
 city = "Bloomingburg"
 county = "Fayette"
-longitude = -83.419366
 latitude = 39.64064
+longitude = -83.419366
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43106"
+

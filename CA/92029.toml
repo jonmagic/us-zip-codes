@@ -1,6 +1,8 @@
-zip_code = "92029"
-state = "CA"
 city = "Escondido"
 county = "San Diego"
-longitude = -117.158497
 latitude = 33.071941
+longitude = -117.158497
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92029"
+

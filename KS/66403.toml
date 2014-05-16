@@ -1,6 +1,8 @@
-zip_code = "66403"
-state = "KS"
 city = "Axtell"
 county = "Marshall"
-longitude = -96.295457
 latitude = 39.885826
+longitude = -96.295457
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66403"
+

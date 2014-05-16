@@ -1,6 +1,8 @@
-zip_code = "29434"
-state = "SC"
 city = "Cordesville"
 county = "Berkeley"
-longitude = -79.88258
 latitude = 33.136208
+longitude = -79.88258
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29434"
+

@@ -1,6 +1,8 @@
-zip_code = "72626"
-state = "AR"
 city = "Cotter"
 county = "Baxter"
-longitude = -92.542469
 latitude = 36.308162
+longitude = -92.542469
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72626"
+

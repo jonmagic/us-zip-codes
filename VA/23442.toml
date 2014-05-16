@@ -1,6 +1,8 @@
-zip_code = "23442"
-state = "VA"
 city = "Temperanceville"
 county = "Accomack"
-longitude = -75.580102
 latitude = 37.899545
+longitude = -75.580102
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23442"
+

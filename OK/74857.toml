@@ -1,6 +1,8 @@
-zip_code = "74857"
-state = "OK"
 city = "Newalla"
 county = "Oklahoma"
-longitude = -97.354813
 latitude = 35.443973
+longitude = -97.354813
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74857"
+

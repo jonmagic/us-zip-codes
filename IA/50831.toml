@@ -1,6 +1,8 @@
-zip_code = "50831"
-state = "IA"
 city = "Arispe"
 county = "Union"
-longitude = -94.219334
 latitude = 40.931394
+longitude = -94.219334
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50831"
+

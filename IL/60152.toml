@@ -1,6 +1,8 @@
-zip_code = "60152"
-state = "IL"
 city = "Marengo"
 county = "Mchenry"
-longitude = -88.607897
 latitude = 42.255176
+longitude = -88.607897
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60152"
+

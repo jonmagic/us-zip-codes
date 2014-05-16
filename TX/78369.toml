@@ -1,6 +1,8 @@
-zip_code = "78369"
-state = "TX"
 city = "Mirando City"
 county = "Webb"
-longitude = -99.001969
 latitude = 27.43807
+longitude = -99.001969
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78369"
+

@@ -1,6 +1,8 @@
-zip_code = "08108"
-state = "NJ"
 city = "Collingswood"
 county = "Camden"
-longitude = -74.991268
 latitude = 39.834003
+longitude = -74.991268
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08108"
+

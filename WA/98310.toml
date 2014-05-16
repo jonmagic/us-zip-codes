@@ -1,6 +1,8 @@
-zip_code = "98310"
-state = "WA"
 city = "Bremerton"
 county = "Kitsap"
-longitude = -122.634712
 latitude = 47.606478
+longitude = -122.634712
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98310"
+

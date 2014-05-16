@@ -1,6 +1,8 @@
-zip_code = "14034"
-state = "NY"
 city = "Collins"
 county = "Erie"
-longitude = -78.816333
 latitude = 42.668773
+longitude = -78.816333
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14034"
+

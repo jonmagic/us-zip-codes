@@ -1,6 +1,8 @@
-zip_code = "76866"
-state = "TX"
 city = "Paint Rock"
 county = "Concho"
-longitude = -100.014384
 latitude = 31.462315
+longitude = -100.014384
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76866"
+

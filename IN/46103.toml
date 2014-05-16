@@ -1,6 +1,8 @@
-zip_code = "46103"
-state = "IN"
 city = "Amo"
 county = "Hendricks"
-longitude = -86.483474
 latitude = 39.736926
+longitude = -86.483474
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46103"
+

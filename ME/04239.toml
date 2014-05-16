@@ -1,6 +1,8 @@
-zip_code = "04239"
-state = "ME"
 city = "Jay"
 county = "Franklin"
-longitude = -70.208556
 latitude = 44.541508
+longitude = -70.208556
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04239"
+

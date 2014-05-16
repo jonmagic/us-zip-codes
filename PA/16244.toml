@@ -1,6 +1,8 @@
-zip_code = "16244"
-state = "PA"
 city = "Nu Mine"
 county = "Armstrong"
-longitude = -79.451575
 latitude = 40.847829
+longitude = -79.451575
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16244"
+

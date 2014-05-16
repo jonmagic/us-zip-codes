@@ -1,6 +1,8 @@
-zip_code = "28467"
-state = "NC"
 city = "Calabash"
 county = "Brunswick"
-longitude = -78.395641
 latitude = 33.911953
+longitude = -78.395641
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28467"
+

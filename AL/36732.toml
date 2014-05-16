@@ -1,6 +1,8 @@
-zip_code = "36732"
-state = "AL"
 city = "Demopolis"
 county = "Marengo"
-longitude = -87.824556
 latitude = 32.384949
+longitude = -87.824556
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36732"
+

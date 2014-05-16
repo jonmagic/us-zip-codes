@@ -1,6 +1,8 @@
-zip_code = "42211"
-state = "KY"
 city = "Cadiz"
 county = "Trigg"
-longitude = -87.828578
 latitude = 36.80201
+longitude = -87.828578
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42211"
+

@@ -1,6 +1,8 @@
-zip_code = "70447"
-state = "LA"
 city = "Madisonville"
 county = "Saint Tammany"
-longitude = -90.001553
 latitude = 30.389107
+longitude = -90.001553
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70447"
+

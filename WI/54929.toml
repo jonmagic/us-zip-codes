@@ -1,6 +1,8 @@
-zip_code = "54929"
-state = "WI"
 city = "Clintonville"
 county = "Waupaca"
-longitude = -88.868093
 latitude = 44.593386
+longitude = -88.868093
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54929"
+

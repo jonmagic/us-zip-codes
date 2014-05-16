@@ -1,6 +1,8 @@
-zip_code = "63436"
-state = "MO"
 city = "Center"
 county = "Ralls"
-longitude = -91.53793
 latitude = 39.508451
+longitude = -91.53793
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63436"
+

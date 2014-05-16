@@ -1,6 +1,8 @@
-zip_code = "72575"
-state = "AR"
 city = "Salado"
 county = "Independence"
-longitude = -91.598917
 latitude = 35.691868
+longitude = -91.598917
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72575"
+

@@ -1,6 +1,8 @@
-zip_code = "46001"
-state = "IN"
 city = "Alexandria"
 county = "Madison"
-longitude = -85.680698
 latitude = 40.213154
+longitude = -85.680698
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46001"
+

@@ -1,6 +1,8 @@
-zip_code = "38459"
-state = "TN"
 city = "Frankewing"
 county = "Giles"
-longitude = -86.850038
 latitude = 35.183444
+longitude = -86.850038
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38459"
+

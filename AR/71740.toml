@@ -1,6 +1,8 @@
-zip_code = "71740"
-state = "AR"
 city = "Emerson"
 county = "Columbia"
-longitude = -93.203998
 latitude = 33.112106
+longitude = -93.203998
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71740"
+

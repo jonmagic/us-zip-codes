@@ -1,6 +1,8 @@
-zip_code = "08701"
-state = "NJ"
 city = "Lakewood"
 county = "Ocean"
-longitude = -74.149784
 latitude = 39.94517
+longitude = -74.149784
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08701"
+

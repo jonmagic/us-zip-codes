@@ -1,6 +1,8 @@
-zip_code = "89433"
-state = "NV"
 city = "Sun Valley"
 county = "Washoe"
-longitude = -119.804924
 latitude = 39.748304
+longitude = -119.804924
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89433"
+

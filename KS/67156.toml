@@ -1,6 +1,8 @@
-zip_code = "67156"
-state = "KS"
 city = "Winfield"
 county = "Cowley"
-longitude = -96.996334
 latitude = 37.232126
+longitude = -96.996334
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67156"
+

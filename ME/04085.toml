@@ -1,6 +1,8 @@
-zip_code = "04085"
-state = "ME"
 city = "Steep Falls"
 county = "Cumberland"
-longitude = -70.639561
 latitude = 43.771934
+longitude = -70.639561
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04085"
+

@@ -1,6 +1,8 @@
-zip_code = "12450"
-state = "NY"
 city = "Lanesville"
 county = "Greene"
-longitude = -74.163793
 latitude = 42.208809
+longitude = -74.163793
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12450"
+

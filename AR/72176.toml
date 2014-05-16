@@ -1,6 +1,8 @@
-zip_code = "72176"
-state = "AR"
 city = "Ward"
 county = "Lonoke"
-longitude = -91.905266
 latitude = 34.988267
+longitude = -91.905266
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72176"
+

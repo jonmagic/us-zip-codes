@@ -1,6 +1,8 @@
-zip_code = "07934"
-state = "NJ"
 city = "Gladstone"
 county = "Somerset"
-longitude = -74.682767
 latitude = 40.715359
+longitude = -74.682767
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07934"
+

@@ -1,6 +1,8 @@
-zip_code = "56227"
-state = "MN"
 city = "Correll"
 county = "Big Stone"
-longitude = -96.469532
 latitude = 45.381402
+longitude = -96.469532
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56227"
+

@@ -1,6 +1,8 @@
-zip_code = "30134"
-state = "GA"
 city = "Douglasville"
 county = "Douglas"
-longitude = -84.777337
 latitude = 33.759543
+longitude = -84.777337
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30134"
+

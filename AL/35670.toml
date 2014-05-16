@@ -1,6 +1,8 @@
-zip_code = "35670"
-state = "AL"
 city = "Somerville"
 county = "Morgan"
-longitude = -86.729737
 latitude = 34.436256
+longitude = -86.729737
+state = ""
+state_code_alpha2 = ""
+zip_code = "35670"
+

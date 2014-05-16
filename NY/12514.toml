@@ -1,6 +1,8 @@
-zip_code = "12514"
-state = "NY"
 city = "Clinton Corners"
 county = "Dutchess"
-longitude = -73.777256
 latitude = 41.867364
+longitude = -73.777256
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12514"
+

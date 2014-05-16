@@ -1,6 +1,8 @@
-zip_code = "36371"
-state = "AL"
 city = "Pinckard"
 county = "Dale"
-longitude = -85.52633
 latitude = 31.307446
+longitude = -85.52633
+state = ""
+state_code_alpha2 = ""
+zip_code = "36371"
+

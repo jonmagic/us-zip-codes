@@ -1,6 +1,8 @@
-zip_code = "59018"
-state = "MT"
 city = "Clyde Park"
 county = "Park"
-longitude = -110.622234
 latitude = 45.834082
+longitude = -110.622234
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59018"
+

@@ -1,6 +1,8 @@
-zip_code = "13756"
-state = "NY"
 city = "East Branch"
 county = "Delaware"
-longitude = -75.122615
 latitude = 42.003935
+longitude = -75.122615
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13756"
+

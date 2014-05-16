@@ -1,6 +1,8 @@
-zip_code = "19934"
-state = "DE"
 city = "Camden Wyoming"
 county = "Kent"
-longitude = -75.612286
 latitude = 39.086921
+longitude = -75.612286
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19934"
+

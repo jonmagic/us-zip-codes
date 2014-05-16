@@ -1,6 +1,8 @@
-zip_code = "29476"
-state = "SC"
 city = "Russellville"
 county = "Berkeley"
-longitude = -79.904182
 latitude = 33.164201
+longitude = -79.904182
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29476"
+

@@ -1,6 +1,8 @@
-zip_code = "63037"
-state = "MO"
 city = "Gerald"
 county = "Franklin"
-longitude = -91.313644
 latitude = 38.417801
+longitude = -91.313644
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63037"
+

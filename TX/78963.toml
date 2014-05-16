@@ -1,6 +1,8 @@
-zip_code = "78963"
-state = "TX"
 city = "West Point"
 county = "Fayette"
-longitude = -97.053015
 latitude = 29.914207
+longitude = -97.053015
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78963"
+

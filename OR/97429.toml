@@ -1,6 +1,8 @@
-zip_code = "97429"
-state = "OR"
 city = "Days Creek"
 county = "Douglas"
-longitude = -123.088917
 latitude = 42.972697
+longitude = -123.088917
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97429"
+

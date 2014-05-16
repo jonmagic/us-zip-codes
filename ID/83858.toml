@@ -1,6 +1,8 @@
-zip_code = "83858"
-state = "ID"
 city = "Rathdrum"
 county = "Kootenai"
-longitude = -116.839411
 latitude = 47.845814
+longitude = -116.839411
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83858"
+

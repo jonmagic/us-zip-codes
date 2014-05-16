@@ -1,6 +1,8 @@
-zip_code = "73773"
-state = "OK"
 city = "Waukomis"
 county = "Garfield"
-longitude = -97.911828
 latitude = 36.241968
+longitude = -97.911828
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73773"
+

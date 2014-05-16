@@ -1,6 +1,8 @@
-zip_code = "96056"
-state = "CA"
 city = "Mcarthur"
 county = "Shasta"
-longitude = -121.436822
 latitude = 41.096751
+longitude = -121.436822
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96056"
+

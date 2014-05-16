@@ -1,6 +1,8 @@
-zip_code = "55753"
-state = "MN"
 city = "Keewatin"
 county = "Itasca"
-longitude = -93.078443
 latitude = 47.398025
+longitude = -93.078443
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55753"
+

@@ -1,6 +1,8 @@
-zip_code = "01366"
-state = "MA"
 city = "Petersham"
 county = "Worcester"
-longitude = -72.182962
 latitude = 42.459632
+longitude = -72.182962
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01366"
+

@@ -1,6 +1,8 @@
-zip_code = "94956"
-state = "CA"
 city = "Point Reyes Station"
 county = "Marin"
-longitude = -122.853421
 latitude = 38.057934
+longitude = -122.853421
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94956"
+

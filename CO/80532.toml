@@ -1,6 +1,8 @@
-zip_code = "80532"
-state = "CO"
 city = "Glen Haven"
 county = "Larimer"
-longitude = -105.447005
 latitude = 40.457758
+longitude = -105.447005
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80532"
+

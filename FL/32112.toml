@@ -1,6 +1,8 @@
-zip_code = "32112"
-state = "FL"
 city = "Crescent City"
 county = "Putnam"
-longitude = -81.681387
 latitude = 29.511518
+longitude = -81.681387
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32112"
+

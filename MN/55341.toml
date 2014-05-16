@@ -1,6 +1,8 @@
-zip_code = "55341"
-state = "MN"
 city = "Hanover"
 county = "Wright"
-longitude = -93.673418
 latitude = 45.160196
+longitude = -93.673418
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55341"
+

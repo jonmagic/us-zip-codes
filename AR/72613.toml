@@ -1,6 +1,8 @@
-zip_code = "72613"
-state = "AR"
 city = "Beaver"
 county = "Carroll"
-longitude = -93.699392
 latitude = 36.431111
+longitude = -93.699392
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72613"
+

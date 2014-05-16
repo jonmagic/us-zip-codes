@@ -1,6 +1,8 @@
-zip_code = "74948"
-state = "OK"
 city = "Muldrow"
 county = "Sequoyah"
-longitude = -94.539715
 latitude = 35.470128
+longitude = -94.539715
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74948"
+

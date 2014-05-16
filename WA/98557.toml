@@ -1,6 +1,8 @@
-zip_code = "98557"
-state = "WA"
 city = "Mccleary"
 county = "Grays Harbor"
-longitude = -123.272999
 latitude = 47.029716
+longitude = -123.272999
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98557"
+

@@ -1,6 +1,8 @@
-zip_code = "12729"
-state = "NY"
 city = "Cuddebackville"
 county = "Orange"
-longitude = -74.425265
 latitude = 41.403723
+longitude = -74.425265
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12729"
+

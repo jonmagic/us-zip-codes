@@ -1,6 +1,8 @@
-zip_code = "49301"
-state = "MI"
 city = "Ada"
 county = "Kent"
-longitude = -85.482266
 latitude = 42.963833
+longitude = -85.482266
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49301"
+

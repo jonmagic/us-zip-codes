@@ -1,6 +1,8 @@
-zip_code = "22523"
-state = "VA"
 city = "Morattico"
 county = "Lancaster"
-longitude = -76.60933
 latitude = 37.792761
+longitude = -76.60933
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22523"
+

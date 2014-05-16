@@ -1,6 +1,8 @@
-zip_code = "32190"
-state = "FL"
 city = "Seville"
 county = "Volusia"
-longitude = -81.503244
 latitude = 29.28926
+longitude = -81.503244
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32190"
+

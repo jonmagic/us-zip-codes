@@ -1,6 +1,8 @@
-zip_code = "01038"
-state = "MA"
 city = "Hatfield"
 county = "Hampshire"
-longitude = -72.643081
 latitude = 42.387269
+longitude = -72.643081
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01038"
+

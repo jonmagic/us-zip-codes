@@ -1,6 +1,8 @@
-zip_code = "23909"
-state = "VA"
 city = "Farmville"
 county = "Prince Edward"
-longitude = -78.394944
 latitude = 37.301574
+longitude = -78.394944
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23909"
+

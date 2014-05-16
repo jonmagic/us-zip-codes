@@ -1,6 +1,8 @@
-zip_code = "67003"
-state = "KS"
 city = "Anthony"
 county = "Harper"
-longitude = -98.048121
 latitude = 37.111488
+longitude = -98.048121
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67003"
+

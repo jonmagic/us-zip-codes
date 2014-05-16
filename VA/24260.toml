@@ -1,6 +1,8 @@
-zip_code = "24260"
-state = "VA"
 city = "Honaker"
 county = "Russell"
-longitude = -82.01331
 latitude = 36.963056
+longitude = -82.01331
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24260"
+

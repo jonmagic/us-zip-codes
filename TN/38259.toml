@@ -1,6 +1,8 @@
-zip_code = "38259"
-state = "TN"
 city = "Trimble"
 county = "Dyer"
-longitude = -89.198503
 latitude = 36.168626
+longitude = -89.198503
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38259"
+

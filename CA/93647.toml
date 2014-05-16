@@ -1,6 +1,8 @@
-zip_code = "93647"
-state = "CA"
 city = "Orosi"
 county = "Tulare"
-longitude = -119.166499
 latitude = 36.555602
+longitude = -119.166499
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93647"
+

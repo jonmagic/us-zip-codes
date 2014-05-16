@@ -1,6 +1,8 @@
-zip_code = "97371"
-state = "OR"
 city = "Rickreall"
 county = "Polk"
-longitude = -123.209356
 latitude = 44.991024
+longitude = -123.209356
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97371"
+

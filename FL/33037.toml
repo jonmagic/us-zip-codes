@@ -1,6 +1,8 @@
-zip_code = "33037"
-state = "FL"
 city = "Key Largo"
 county = "Monroe"
-longitude = -80.961294
 latitude = 24.963509
+longitude = -80.961294
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33037"
+

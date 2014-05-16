@@ -1,6 +1,8 @@
-zip_code = "62967"
-state = "IL"
 city = "New Burnside"
 county = "Johnson"
-longitude = -88.745405
 latitude = 37.577998
+longitude = -88.745405
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62967"
+

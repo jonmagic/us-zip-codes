@@ -1,6 +1,8 @@
-zip_code = "45831"
-state = "OH"
 city = "Continental"
 county = "Putnam"
-longitude = -84.236754
 latitude = 41.104335
+longitude = -84.236754
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45831"
+

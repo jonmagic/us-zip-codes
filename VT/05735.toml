@@ -1,6 +1,8 @@
-zip_code = "05735"
-state = "VT"
 city = "Castleton"
 county = "Rutland"
-longitude = -73.126638
 latitude = 43.636856
+longitude = -73.126638
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05735"
+

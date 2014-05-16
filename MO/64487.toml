@@ -1,6 +1,8 @@
-zip_code = "64487"
-state = "MO"
 city = "Skidmore"
 county = "Nodaway"
-longitude = -95.078313
 latitude = 40.286914
+longitude = -95.078313
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64487"
+

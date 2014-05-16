@@ -1,6 +1,8 @@
-zip_code = "03225"
-state = "NH"
 city = "Center Barnstead"
 county = "Belknap"
-longitude = -71.292981
 latitude = 43.386652
+longitude = -71.292981
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03225"
+

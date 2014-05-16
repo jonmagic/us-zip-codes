@@ -1,6 +1,8 @@
-zip_code = "23061"
-state = "VA"
 city = "Gloucester"
 county = "Gloucester"
-longitude = -76.546416
 latitude = 37.41259
+longitude = -76.546416
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23061"
+

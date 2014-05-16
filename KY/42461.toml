@@ -1,6 +1,8 @@
-zip_code = "42461"
-state = "KY"
 city = "Uniontown"
 county = "Union"
-longitude = -87.914375
 latitude = 37.717433
+longitude = -87.914375
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42461"
+

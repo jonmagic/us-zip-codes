@@ -1,6 +1,8 @@
-zip_code = "13820"
-state = "NY"
 city = "Oneonta"
 county = "Otsego"
-longitude = -75.096727
 latitude = 42.461688
+longitude = -75.096727
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13820"
+

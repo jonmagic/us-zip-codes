@@ -1,6 +1,8 @@
-zip_code = "72679"
-state = "AR"
 city = "Tilly"
 county = "Pope"
-longitude = -92.843116
 latitude = 35.706942
+longitude = -92.843116
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72679"
+

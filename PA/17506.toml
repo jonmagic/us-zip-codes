@@ -1,6 +1,8 @@
-zip_code = "17506"
-state = "PA"
 city = "Blue Ball"
 county = "Lancaster"
-longitude = -76.052379
 latitude = 40.117326
+longitude = -76.052379
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17506"
+

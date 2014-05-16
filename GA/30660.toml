@@ -1,6 +1,8 @@
-zip_code = "30660"
-state = "GA"
 city = "Rayle"
 county = "Wilkes"
-longitude = -82.899831
 latitude = 33.763817
+longitude = -82.899831
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30660"
+

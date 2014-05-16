@@ -1,6 +1,8 @@
-zip_code = "19938"
-state = "DE"
 city = "Clayton"
 county = "Kent"
-longitude = -75.688873
 latitude = 39.246071
+longitude = -75.688873
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19938"
+

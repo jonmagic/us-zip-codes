@@ -1,6 +1,8 @@
-zip_code = "52644"
-state = "IA"
 city = "Mount Union"
 county = "Henry"
-longitude = -91.43819
 latitude = 41.010776
+longitude = -91.43819
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52644"
+

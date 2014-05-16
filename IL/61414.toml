@@ -1,6 +1,8 @@
-zip_code = "61414"
-state = "IL"
 city = "Altona"
 county = "Knox"
-longitude = -90.138335
 latitude = 41.096307
+longitude = -90.138335
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61414"
+

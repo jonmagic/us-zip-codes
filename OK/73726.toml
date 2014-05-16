@@ -1,6 +1,8 @@
-zip_code = "73726"
-state = "OK"
 city = "Carmen"
 county = "Alfalfa"
-longitude = -98.45608
 latitude = 36.578946
+longitude = -98.45608
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73726"
+

@@ -1,6 +1,8 @@
-zip_code = "74601"
-state = "OK"
 city = "Ponca City"
 county = "Kay"
-longitude = -97.18908
 latitude = 36.736868
+longitude = -97.18908
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74601"
+

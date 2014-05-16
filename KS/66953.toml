@@ -1,6 +1,8 @@
-zip_code = "66953"
-state = "KS"
 city = "Linn"
 county = "Washington"
-longitude = -97.168514
 latitude = 39.784861
+longitude = -97.168514
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66953"
+

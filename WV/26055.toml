@@ -1,6 +1,8 @@
-zip_code = "26055"
-state = "WV"
 city = "Proctor"
 county = "Marshall"
-longitude = -80.694606
 latitude = 39.877162
+longitude = -80.694606
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26055"
+

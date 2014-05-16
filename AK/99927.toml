@@ -1,6 +1,8 @@
-zip_code = "99927"
-state = "AK"
 city = "Point Baker"
 county = "Prince Wales Ketchikan"
-longitude = -132.003244
 latitude = 55.517921
+longitude = -132.003244
+state = ""
+state_code_alpha2 = ""
+zip_code = "99927"
+

@@ -1,6 +1,8 @@
-zip_code = "67349"
-state = "KS"
 city = "Howard"
 county = "Elk"
-longitude = -96.278611
 latitude = 37.419933
+longitude = -96.278611
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67349"
+

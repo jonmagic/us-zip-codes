@@ -1,6 +1,8 @@
-zip_code = "58575"
-state = "ND"
 city = "Turtle Lake"
 county = "Mclean"
-longitude = -100.895863
 latitude = 47.501425
+longitude = -100.895863
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58575"
+

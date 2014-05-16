@@ -1,6 +1,8 @@
-zip_code = "66543"
-state = "KS"
 city = "Vassar"
 county = "Osage"
-longitude = -95.601158
 latitude = 38.641898
+longitude = -95.601158
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66543"
+

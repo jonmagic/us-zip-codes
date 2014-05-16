@@ -1,6 +1,8 @@
-zip_code = "08245"
-state = "NJ"
 city = "South Dennis"
 county = "Cape May"
-longitude = -74.848733
 latitude = 39.09998
+longitude = -74.848733
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08245"
+

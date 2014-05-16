@@ -1,6 +1,8 @@
-zip_code = "01061"
-state = "MA"
 city = "Northampton"
 county = "Hampshire"
-longitude = -72.63599
 latitude = 42.369562
+longitude = -72.63599
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01061"
+

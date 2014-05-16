@@ -1,6 +1,8 @@
-zip_code = "35480"
-state = "AL"
 city = "Ralph"
 county = "Tuscaloosa"
-longitude = -87.762393
 latitude = 33.127407
+longitude = -87.762393
+state = ""
+state_code_alpha2 = ""
+zip_code = "35480"
+

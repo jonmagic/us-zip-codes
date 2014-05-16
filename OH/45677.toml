@@ -1,6 +1,8 @@
-zip_code = "45677"
-state = "OH"
 city = "Scioto Furnace"
 county = "Scioto"
-longitude = -82.755455
 latitude = 38.794115
+longitude = -82.755455
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45677"
+

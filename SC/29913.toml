@@ -1,6 +1,8 @@
-zip_code = "29913"
-state = "SC"
 city = "Crocketville"
 county = "Hampton"
-longitude = -81.184627
 latitude = 32.929902
+longitude = -81.184627
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29913"
+

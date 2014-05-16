@@ -1,6 +1,8 @@
-zip_code = "04122"
-state = "ME"
 city = "Portland"
 county = "Cumberland"
-longitude = -70.470703
 latitude = 44.408078
+longitude = -70.470703
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04122"
+

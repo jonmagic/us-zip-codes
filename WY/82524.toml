@@ -1,6 +1,8 @@
-zip_code = "82524"
-state = "WY"
 city = "Saint Stephens"
 county = "Fremont"
-longitude = -108.57191
 latitude = 42.998588
+longitude = -108.57191
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82524"
+

@@ -1,6 +1,8 @@
-zip_code = "19017"
-state = "PA"
 city = "Chester Heights"
 county = "Delaware"
-longitude = -75.466949
 latitude = 39.883911
+longitude = -75.466949
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19017"
+

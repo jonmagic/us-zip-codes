@@ -1,6 +1,8 @@
-zip_code = "39194"
-state = "MS"
 city = "Yazoo City"
 county = "Yazoo"
-longitude = -90.475849
 latitude = 32.815898
+longitude = -90.475849
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39194"
+

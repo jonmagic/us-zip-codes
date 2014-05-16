@@ -1,6 +1,8 @@
-zip_code = "68324"
-state = "NE"
 city = "Burr"
 county = "Otoe"
-longitude = -96.299662
 latitude = 40.536353
+longitude = -96.299662
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68324"
+

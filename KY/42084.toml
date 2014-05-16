@@ -1,6 +1,8 @@
-zip_code = "42084"
-state = "KY"
 city = "Tolu"
 county = "Crittenden"
-longitude = -88.246148
 latitude = 37.434913
+longitude = -88.246148
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42084"
+

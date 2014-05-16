@@ -1,6 +1,8 @@
-zip_code = "55983"
-state = "MN"
 city = "Wanamingo"
 county = "Goodhue"
-longitude = -92.812034
 latitude = 44.272099
+longitude = -92.812034
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55983"
+

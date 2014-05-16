@@ -1,6 +1,8 @@
-zip_code = "71371"
-state = "LA"
 city = "Trout"
 county = "La Salle"
-longitude = -92.177637
 latitude = 31.697711
+longitude = -92.177637
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71371"
+

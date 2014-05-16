@@ -1,6 +1,8 @@
-zip_code = "12767"
-state = "NY"
 city = "Obernburg"
 county = "Sullivan"
-longitude = -74.755373
 latitude = 41.719016
+longitude = -74.755373
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12767"
+

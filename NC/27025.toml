@@ -1,6 +1,8 @@
-zip_code = "27025"
-state = "NC"
 city = "Madison"
 county = "Rockingham"
-longitude = -79.894851
 latitude = 36.348831
+longitude = -79.894851
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27025"
+

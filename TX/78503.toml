@@ -1,6 +1,8 @@
-zip_code = "78503"
-state = "TX"
 city = "Mcallen"
 county = "Hidalgo"
-longitude = -98.33773
 latitude = 26.182171
+longitude = -98.33773
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78503"
+

@@ -1,6 +1,8 @@
-zip_code = "17068"
-state = "PA"
 city = "New Bloomfield"
 county = "Perry"
-longitude = -77.134043
 latitude = 40.405796
+longitude = -77.134043
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17068"
+

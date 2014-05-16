@@ -1,6 +1,8 @@
-zip_code = "19021"
-state = "PA"
 city = "Croydon"
 county = "Bucks"
-longitude = -74.887554
 latitude = 40.090878
+longitude = -74.887554
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19021"
+

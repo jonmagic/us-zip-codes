@@ -1,6 +1,8 @@
-zip_code = "03304"
-state = "NH"
 city = "Bow"
 county = "Merrimack"
-longitude = -71.544599
 latitude = 43.128256
+longitude = -71.544599
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03304"
+

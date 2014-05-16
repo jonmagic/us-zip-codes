@@ -1,6 +1,8 @@
-zip_code = "50628"
-state = "IA"
 city = "Elma"
 county = "Howard"
-longitude = -92.3868
 latitude = 43.296535
+longitude = -92.3868
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50628"
+

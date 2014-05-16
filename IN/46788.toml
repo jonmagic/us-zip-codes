@@ -1,6 +1,8 @@
-zip_code = "46788"
-state = "IN"
 city = "Spencerville"
 county = "De Kalb"
-longitude = -84.902416
 latitude = 41.302927
+longitude = -84.902416
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46788"
+

@@ -1,6 +1,8 @@
-zip_code = "12804"
-state = "NY"
 city = "Queensbury"
 county = "Warren"
-longitude = -73.789563
 latitude = 43.489472
+longitude = -73.789563
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12804"
+

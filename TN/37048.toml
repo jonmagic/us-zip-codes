@@ -1,6 +1,8 @@
-zip_code = "37048"
-state = "TN"
 city = "Cottontown"
 county = "Sumner"
-longitude = -86.528398
 latitude = 36.485607
+longitude = -86.528398
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37048"
+

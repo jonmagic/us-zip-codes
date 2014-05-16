@@ -1,6 +1,8 @@
-zip_code = "61068"
-state = "IL"
 city = "Rochelle"
 county = "Ogle"
-longitude = -89.100359
 latitude = 42.007405
+longitude = -89.100359
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61068"
+

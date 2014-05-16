@@ -1,6 +1,8 @@
-zip_code = "37766"
-state = "TN"
 city = "La Follette"
 county = "Campbell"
-longitude = -84.090654
 latitude = 36.424766
+longitude = -84.090654
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37766"
+

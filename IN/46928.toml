@@ -1,6 +1,8 @@
-zip_code = "46928"
-state = "IN"
 city = "Fairmount"
 county = "Grant"
-longitude = -85.661196
 latitude = 40.515421
+longitude = -85.661196
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46928"
+

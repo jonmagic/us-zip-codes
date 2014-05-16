@@ -1,6 +1,8 @@
-zip_code = "38015"
-state = "TN"
 city = "Burlison"
 county = "Tipton"
-longitude = -89.738952
 latitude = 35.551009
+longitude = -89.738952
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38015"
+

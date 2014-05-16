@@ -1,6 +1,8 @@
-zip_code = "81038"
-state = "CO"
 city = "Fort Lyon"
 county = "Bent"
-longitude = -103.072469
 latitude = 37.955547
+longitude = -103.072469
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81038"
+

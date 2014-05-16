@@ -1,6 +1,8 @@
-zip_code = "49408"
-state = "MI"
 city = "Fennville"
 county = "Allegan"
-longitude = -86.11849
 latitude = 42.542809
+longitude = -86.11849
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49408"
+

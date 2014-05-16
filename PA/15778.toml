@@ -1,6 +1,8 @@
-zip_code = "15778"
-state = "PA"
 city = "Timblin"
 county = "Jefferson"
-longitude = -79.199017
 latitude = 40.967353
+longitude = -79.199017
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15778"
+

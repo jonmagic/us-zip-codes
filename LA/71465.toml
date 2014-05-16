@@ -1,6 +1,8 @@
-zip_code = "71465"
-state = "LA"
 city = "Olla"
 county = "La Salle"
-longitude = -92.208993
 latitude = 31.805736
+longitude = -92.208993
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71465"
+

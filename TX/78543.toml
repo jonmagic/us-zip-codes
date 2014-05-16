@@ -1,6 +1,8 @@
-zip_code = "78543"
-state = "TX"
 city = "Elsa"
 county = "Hidalgo"
-longitude = -97.98837
 latitude = 26.297428
+longitude = -97.98837
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78543"
+

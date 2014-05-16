@@ -1,6 +1,8 @@
-zip_code = "70780"
-state = "LA"
 city = "Sunshine"
 county = "Iberville"
-longitude = -91.166024
 latitude = 30.295921
+longitude = -91.166024
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70780"
+

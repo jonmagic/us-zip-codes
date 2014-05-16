@@ -1,6 +1,8 @@
-zip_code = "84660"
-state = "UT"
 city = "Spanish Fork"
 county = "Utah"
-longitude = -111.649086
 latitude = 40.069946
+longitude = -111.649086
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84660"
+

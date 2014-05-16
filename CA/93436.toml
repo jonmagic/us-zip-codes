@@ -1,6 +1,8 @@
-zip_code = "93436"
-state = "CA"
 city = "Lompoc"
 county = "Santa Barbara"
-longitude = -120.336594
 latitude = 34.629464
+longitude = -120.336594
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93436"
+

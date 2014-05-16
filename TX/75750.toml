@@ -1,6 +1,8 @@
-zip_code = "75750"
-state = "TX"
 city = "Arp"
 county = "Smith"
-longitude = -95.067302
 latitude = 32.27795
+longitude = -95.067302
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75750"
+

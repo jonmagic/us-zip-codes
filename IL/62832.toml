@@ -1,6 +1,8 @@
-zip_code = "62832"
-state = "IL"
 city = "Du Quoin"
 county = "Perry"
-longitude = -89.253006
 latitude = 38.044645
+longitude = -89.253006
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62832"
+

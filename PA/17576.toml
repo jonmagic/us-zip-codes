@@ -1,6 +1,8 @@
-zip_code = "17576"
-state = "PA"
 city = "Smoketown"
 county = "Lancaster"
-longitude = -76.203069
 latitude = 40.036398
+longitude = -76.203069
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17576"
+

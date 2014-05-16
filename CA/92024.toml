@@ -1,6 +1,8 @@
-zip_code = "92024"
-state = "CA"
 city = "Encinitas"
 county = "San Diego"
-longitude = -117.250253
 latitude = 33.054154
+longitude = -117.250253
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92024"
+

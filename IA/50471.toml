@@ -1,6 +1,8 @@
-zip_code = "50471"
-state = "IA"
 city = "Rudd"
 county = "Floyd"
-longitude = -92.887374
 latitude = 43.128382
+longitude = -92.887374
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50471"
+

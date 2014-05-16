@@ -1,6 +1,8 @@
-zip_code = "27053"
-state = "NC"
 city = "Westfield"
 county = "Surry"
-longitude = -80.463069
 latitude = 36.490659
+longitude = -80.463069
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27053"
+

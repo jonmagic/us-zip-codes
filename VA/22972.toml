@@ -1,6 +1,8 @@
-zip_code = "22972"
-state = "VA"
 city = "Somerset"
 county = "Orange"
-longitude = -78.239378
 latitude = 38.199692
+longitude = -78.239378
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22972"
+

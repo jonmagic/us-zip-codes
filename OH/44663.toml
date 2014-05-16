@@ -1,6 +1,8 @@
-zip_code = "44663"
-state = "OH"
 city = "New Philadelphia"
 county = "Tuscarawas"
-longitude = -81.458777
 latitude = 40.511632
+longitude = -81.458777
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44663"
+

@@ -1,6 +1,8 @@
-zip_code = "16828"
-state = "PA"
 city = "Centre Hall"
 county = "Centre"
-longitude = -77.703942
 latitude = 40.807973
+longitude = -77.703942
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16828"
+

@@ -1,6 +1,8 @@
-zip_code = "69151"
-state = "NE"
 city = "Maxwell"
 county = "Lincoln"
-longitude = -100.583269
 latitude = 41.096752
+longitude = -100.583269
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69151"
+

@@ -1,6 +1,8 @@
-zip_code = "12593"
-state = "NY"
 city = "West Copake"
 county = "Columbia"
-longitude = -73.641076
 latitude = 42.243991
+longitude = -73.641076
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12593"
+

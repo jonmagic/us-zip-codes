@@ -1,6 +1,8 @@
-zip_code = "28019"
-state = "NC"
 city = "Caroleen"
 county = "Rutherford"
-longitude = -81.831944
 latitude = 35.316793
+longitude = -81.831944
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28019"
+

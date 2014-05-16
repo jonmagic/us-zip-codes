@@ -1,6 +1,8 @@
-zip_code = "42451"
-state = "KY"
 city = "Reed"
 county = "Henderson"
-longitude = -87.378292
 latitude = 37.8497
+longitude = -87.378292
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42451"
+

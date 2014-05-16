@@ -1,6 +1,8 @@
-zip_code = "84056"
-state = "UT"
 city = "Hill Afb"
 county = "Davis"
-longitude = -111.989813
 latitude = 41.120219
+longitude = -111.989813
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84056"
+

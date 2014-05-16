@@ -1,6 +1,8 @@
-zip_code = "49255"
-state = "MI"
 city = "Montgomery"
 county = "Branch"
-longitude = -84.900917
 latitude = 41.792652
+longitude = -84.900917
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49255"
+

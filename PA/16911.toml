@@ -1,6 +1,8 @@
-zip_code = "16911"
-state = "PA"
 city = "Arnot"
 county = "Tioga"
-longitude = -77.242228
 latitude = 41.77197
+longitude = -77.242228
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16911"
+

@@ -1,6 +1,8 @@
-zip_code = "35051"
-state = "AL"
 city = "Columbiana"
 county = "Shelby"
-longitude = -86.554849
 latitude = 33.232849
+longitude = -86.554849
+state = ""
+state_code_alpha2 = ""
+zip_code = "35051"
+

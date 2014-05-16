@@ -1,6 +1,8 @@
-zip_code = "04352"
-state = "ME"
 city = "Mount Vernon"
 county = "Kennebec"
-longitude = -69.986762
 latitude = 44.461522
+longitude = -69.986762
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04352"
+

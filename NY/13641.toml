@@ -1,6 +1,8 @@
-zip_code = "13641"
-state = "NY"
 city = "Fishers Landing"
 county = "Jefferson"
-longitude = -75.914556
 latitude = 44.207681
+longitude = -75.914556
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13641"
+

@@ -1,6 +1,8 @@
-zip_code = "54610"
-state = "WI"
 city = "Alma"
 county = "Buffalo"
-longitude = -91.836481
 latitude = 44.346721
+longitude = -91.836481
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54610"
+

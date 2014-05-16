@@ -1,6 +1,8 @@
-zip_code = "83321"
-state = "ID"
 city = "Castleford"
 county = "Twin Falls"
-longitude = -114.784168
 latitude = 42.402884
+longitude = -114.784168
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83321"
+

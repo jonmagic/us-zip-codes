@@ -1,6 +1,8 @@
-zip_code = "54210"
-state = "WI"
 city = "Ellison Bay"
 county = "Door"
-longitude = -87.044698
 latitude = 45.253108
+longitude = -87.044698
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54210"
+

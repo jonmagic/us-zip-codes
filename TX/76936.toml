@@ -1,6 +1,8 @@
-zip_code = "76936"
-state = "TX"
 city = "Eldorado"
 county = "Schleicher"
-longitude = -100.676722
 latitude = 30.912773
+longitude = -100.676722
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76936"
+

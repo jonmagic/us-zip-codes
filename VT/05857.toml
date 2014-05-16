@@ -1,6 +1,8 @@
-zip_code = "05857"
-state = "VT"
 city = "Newport Center"
 county = "Orleans"
-longitude = -72.299191
 latitude = 44.927018
+longitude = -72.299191
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05857"
+

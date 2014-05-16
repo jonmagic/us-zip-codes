@@ -1,6 +1,8 @@
-zip_code = "71439"
-state = "LA"
 city = "Hornbeck"
 county = "Vernon"
-longitude = -93.221228
 latitude = 31.316133
+longitude = -93.221228
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71439"
+

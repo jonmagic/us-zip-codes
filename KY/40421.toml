@@ -1,6 +1,8 @@
-zip_code = "40421"
-state = "KY"
 city = "Dabolt"
 county = "Jackson"
-longitude = -83.993588
 latitude = 37.416008
+longitude = -83.993588
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40421"
+

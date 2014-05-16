@@ -1,6 +1,8 @@
-zip_code = "80612"
-state = "CO"
 city = "Carr"
 county = "Weld"
-longitude = -104.869798
 latitude = 40.597204
+longitude = -104.869798
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80612"
+

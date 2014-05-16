@@ -1,6 +1,8 @@
-zip_code = "01005"
-state = "MA"
 city = "Barre"
 county = "Worcester"
-longitude = -72.139465
 latitude = 42.32916
+longitude = -72.139465
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01005"
+

@@ -1,6 +1,8 @@
-zip_code = "80836"
-state = "CO"
 city = "Stratton"
 county = "Kit Carson"
-longitude = -102.67301
 latitude = 39.304913
+longitude = -102.67301
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80836"
+

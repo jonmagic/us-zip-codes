@@ -1,6 +1,8 @@
-zip_code = "17814"
-state = "PA"
 city = "Benton"
 county = "Columbia"
-longitude = -76.395426
 latitude = 41.218998
+longitude = -76.395426
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17814"
+

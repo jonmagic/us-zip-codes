@@ -1,6 +1,8 @@
-zip_code = "68781"
-state = "NE"
 city = "Tilden"
 county = "Madison"
-longitude = -97.829855
 latitude = 42.042732
+longitude = -97.829855
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68781"
+

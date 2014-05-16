@@ -1,6 +1,8 @@
-zip_code = "62244"
-state = "IL"
 city = "Fults"
 county = "Monroe"
-longitude = -90.194704
 latitude = 38.187143
+longitude = -90.194704
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62244"
+

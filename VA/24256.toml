@@ -1,6 +1,8 @@
-zip_code = "24256"
-state = "VA"
 city = "Haysi"
 county = "Dickenson"
-longitude = -82.323976
 latitude = 37.18399
+longitude = -82.323976
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24256"
+

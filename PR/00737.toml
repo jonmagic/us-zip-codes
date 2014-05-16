@@ -1,6 +1,8 @@
-zip_code = "00737"
-state = "PR"
 city = "Cayey"
 county = "Cayey"
-longitude = -66.139274
 latitude = 18.102967
+longitude = -66.139274
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00737"
+

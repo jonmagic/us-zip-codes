@@ -1,6 +1,8 @@
-zip_code = "98819"
-state = "WA"
 city = "Conconully"
 county = "Okanogan"
-longitude = -119.75262
 latitude = 48.546905
+longitude = -119.75262
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98819"
+

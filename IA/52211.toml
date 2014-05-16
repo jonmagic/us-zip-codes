@@ -1,6 +1,8 @@
-zip_code = "52211"
-state = "IA"
 city = "Brooklyn"
 county = "Poweshiek"
-longitude = -92.436452
 latitude = 41.759702
+longitude = -92.436452
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52211"
+

@@ -1,6 +1,8 @@
-zip_code = "99328"
-state = "WA"
 city = "Dayton"
 county = "Columbia"
-longitude = -117.94953
 latitude = 46.392683
+longitude = -117.94953
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99328"
+

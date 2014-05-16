@@ -1,6 +1,8 @@
-zip_code = "05832"
-state = "VT"
 city = "East Burke"
 county = "Caledonia"
-longitude = -71.910223
 latitude = 44.587962
+longitude = -71.910223
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05832"
+

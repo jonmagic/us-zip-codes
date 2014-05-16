@@ -1,6 +1,8 @@
-zip_code = "62420"
-state = "IL"
 city = "Casey"
 county = "Clark"
-longitude = -87.954456
 latitude = 39.293482
+longitude = -87.954456
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62420"
+

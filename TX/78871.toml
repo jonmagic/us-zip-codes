@@ -1,6 +1,8 @@
-zip_code = "78871"
-state = "TX"
 city = "Langtry"
 county = "Val Verde"
-longitude = -101.230032
 latitude = 29.763171
+longitude = -101.230032
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78871"
+

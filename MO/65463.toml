@@ -1,6 +1,8 @@
-zip_code = "65463"
-state = "MO"
 city = "Eldridge"
 county = "Laclede"
-longitude = -92.74866
 latitude = 37.769908
+longitude = -92.74866
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65463"
+

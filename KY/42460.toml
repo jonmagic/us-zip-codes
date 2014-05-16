@@ -1,6 +1,8 @@
-zip_code = "42460"
-state = "KY"
 city = "Sullivan"
 county = "Union"
-longitude = -87.932773
 latitude = 37.493997
+longitude = -87.932773
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42460"
+

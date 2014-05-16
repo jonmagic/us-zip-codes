@@ -1,6 +1,8 @@
-zip_code = "64776"
-state = "MO"
 city = "Osceola"
 county = "Saint Clair"
-longitude = -93.634122
 latitude = 38.067372
+longitude = -93.634122
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64776"
+

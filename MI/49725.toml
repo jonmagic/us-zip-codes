@@ -1,6 +1,8 @@
-zip_code = "49725"
-state = "MI"
 city = "De Tour Village"
 county = "Chippewa"
-longitude = -83.923941
 latitude = 45.997182
+longitude = -83.923941
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49725"
+

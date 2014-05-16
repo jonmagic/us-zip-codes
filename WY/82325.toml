@@ -1,6 +1,8 @@
-zip_code = "82325"
-state = "WY"
 city = "Encampment"
 county = "Carbon"
-longitude = -106.790506
 latitude = 41.224462
+longitude = -106.790506
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82325"
+

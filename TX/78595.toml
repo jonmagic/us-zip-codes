@@ -1,6 +1,8 @@
-zip_code = "78595"
-state = "TX"
 city = "Sullivan City"
 county = "Hidalgo"
-longitude = -98.56996
 latitude = 26.275293
+longitude = -98.56996
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78595"
+

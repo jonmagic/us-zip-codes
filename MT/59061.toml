@@ -1,6 +1,8 @@
-zip_code = "59061"
-state = "MT"
 city = "Nye"
 county = "Stillwater"
-longitude = -109.595984
 latitude = 45.475459
+longitude = -109.595984
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59061"
+

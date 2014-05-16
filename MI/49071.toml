@@ -1,6 +1,8 @@
-zip_code = "49071"
-state = "MI"
 city = "Mattawan"
 county = "Van Buren"
-longitude = -85.805041
 latitude = 42.244501
+longitude = -85.805041
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49071"
+

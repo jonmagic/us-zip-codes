@@ -1,6 +1,8 @@
-zip_code = "41254"
-state = "KY"
 city = "River"
 county = "Johnson"
-longitude = -82.725052
 latitude = 37.879486
+longitude = -82.725052
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41254"
+

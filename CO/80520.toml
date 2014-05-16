@@ -1,6 +1,8 @@
-zip_code = "80520"
-state = "CO"
 city = "Firestone"
 county = "Weld"
-longitude = -104.935838
 latitude = 40.122477
+longitude = -104.935838
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80520"
+

@@ -1,6 +1,8 @@
-zip_code = "27018"
-state = "NC"
 city = "East Bend"
 county = "Yadkin"
-longitude = -80.575334
 latitude = 36.197851
+longitude = -80.575334
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27018"
+

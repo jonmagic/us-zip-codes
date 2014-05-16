@@ -1,6 +1,8 @@
-zip_code = "15684"
-state = "PA"
 city = "Slickville"
 county = "Westmoreland"
-longitude = -79.515628
 latitude = 40.46037
+longitude = -79.515628
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15684"
+

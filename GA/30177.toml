@@ -1,6 +1,8 @@
-zip_code = "30177"
-state = "GA"
 city = "Tate"
 county = "Pickens"
-longitude = -84.378511
 latitude = 34.402724
+longitude = -84.378511
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30177"
+

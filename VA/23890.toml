@@ -1,6 +1,8 @@
-zip_code = "23890"
-state = "VA"
 city = "Waverly"
 county = "Sussex"
-longitude = -77.12993
 latitude = 36.973687
+longitude = -77.12993
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23890"
+

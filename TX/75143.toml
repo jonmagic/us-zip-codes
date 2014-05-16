@@ -1,6 +1,8 @@
-zip_code = "75143"
-state = "TX"
 city = "Kemp"
 county = "Kaufman"
-longitude = -96.216065
 latitude = 32.24862
+longitude = -96.216065
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75143"
+

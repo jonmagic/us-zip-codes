@@ -1,6 +1,8 @@
-zip_code = "35126"
-state = "AL"
 city = "Pinson"
 county = "Jefferson"
-longitude = -86.645081
 latitude = 33.72988
+longitude = -86.645081
+state = ""
+state_code_alpha2 = ""
+zip_code = "35126"
+

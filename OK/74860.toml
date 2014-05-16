@@ -1,6 +1,8 @@
-zip_code = "74860"
-state = "OK"
 city = "Paden"
 county = "Okfuskee"
-longitude = -96.580729
 latitude = 35.464803
+longitude = -96.580729
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74860"
+

@@ -1,6 +1,8 @@
-zip_code = "76569"
-state = "TX"
 city = "Rogers"
 county = "Bell"
-longitude = -97.225426
 latitude = 30.948804
+longitude = -97.225426
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76569"
+

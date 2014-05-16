@@ -1,6 +1,8 @@
-zip_code = "62617"
-state = "IL"
 city = "Bath"
 county = "Mason"
-longitude = -90.166065
 latitude = 40.153626
+longitude = -90.166065
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62617"
+

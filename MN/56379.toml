@@ -1,6 +1,8 @@
-zip_code = "56379"
-state = "MN"
 city = "Sauk Rapids"
 county = "Benton"
-longitude = -94.073533
 latitude = 45.654829
+longitude = -94.073533
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56379"
+

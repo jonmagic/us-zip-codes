@@ -1,6 +1,8 @@
-zip_code = "29657"
-state = "SC"
 city = "Liberty"
 county = "Pickens"
-longitude = -82.70937
 latitude = 34.783697
+longitude = -82.70937
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29657"
+

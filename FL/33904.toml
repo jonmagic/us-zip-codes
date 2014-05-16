@@ -1,6 +1,8 @@
-zip_code = "33904"
-state = "FL"
 city = "Cape Coral"
 county = "Lee"
-longitude = -81.95016
 latitude = 26.606491
+longitude = -81.95016
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33904"
+

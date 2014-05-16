@@ -1,6 +1,8 @@
-zip_code = "48458"
-state = "MI"
 city = "Mount Morris"
 county = "Genesee"
-longitude = -83.692978
 latitude = 43.120587
+longitude = -83.692978
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48458"
+

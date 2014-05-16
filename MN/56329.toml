@@ -1,6 +1,8 @@
-zip_code = "56329"
-state = "MN"
 city = "Foley"
 county = "Benton"
-longitude = -93.914797
 latitude = 45.691931
+longitude = -93.914797
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56329"
+

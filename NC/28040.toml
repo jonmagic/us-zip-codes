@@ -1,6 +1,8 @@
-zip_code = "28040"
-state = "NC"
 city = "Ellenboro"
 county = "Rutherford"
-longitude = -81.774
 latitude = 35.382054
+longitude = -81.774
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28040"
+

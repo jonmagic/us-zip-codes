@@ -1,6 +1,8 @@
-zip_code = "98376"
-state = "WA"
 city = "Quilcene"
 county = "Jefferson"
-longitude = -122.838769
 latitude = 47.828495
+longitude = -122.838769
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98376"
+

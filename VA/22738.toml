@@ -1,6 +1,8 @@
-zip_code = "22738"
-state = "VA"
 city = "Rochelle"
 county = "Madison"
-longitude = -78.304169
 latitude = 38.3215
+longitude = -78.304169
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22738"
+

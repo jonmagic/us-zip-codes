@@ -1,6 +1,8 @@
-zip_code = "39162"
-state = "MS"
 city = "Satartia"
 county = "Yazoo"
-longitude = -90.595701
 latitude = 32.640397
+longitude = -90.595701
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39162"
+

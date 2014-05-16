@@ -1,6 +1,8 @@
-zip_code = "66528"
-state = "KS"
 city = "Quenemo"
 county = "Osage"
-longitude = -95.55521
 latitude = 38.634939
+longitude = -95.55521
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66528"
+

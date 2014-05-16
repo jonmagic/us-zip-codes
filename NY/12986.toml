@@ -1,6 +1,8 @@
-zip_code = "12986"
-state = "NY"
 city = "Tupper Lake"
 county = "Franklin"
-longitude = -74.294012
 latitude = 44.599971
+longitude = -74.294012
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12986"
+

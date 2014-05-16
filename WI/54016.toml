@@ -1,6 +1,8 @@
-zip_code = "54016"
-state = "WI"
 city = "Hudson"
 county = "Saint Croix"
-longitude = -92.481156
 latitude = 44.971853
+longitude = -92.481156
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54016"
+

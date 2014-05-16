@@ -1,6 +1,8 @@
-zip_code = "27816"
-state = "NC"
 city = "Castalia"
 county = "Nash"
-longitude = -78.03876
 latitude = 36.09786
+longitude = -78.03876
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27816"
+

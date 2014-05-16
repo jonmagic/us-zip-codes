@@ -1,6 +1,8 @@
-zip_code = "22942"
-state = "VA"
 city = "Gordonsville"
 county = "Orange"
-longitude = -78.181467
 latitude = 38.175906
+longitude = -78.181467
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22942"
+

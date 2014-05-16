@@ -1,6 +1,8 @@
-zip_code = "04730"
-state = "ME"
 city = "Houlton"
 county = "Aroostook"
-longitude = -67.833009
 latitude = 46.121345
+longitude = -67.833009
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04730"
+

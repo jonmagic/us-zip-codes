@@ -1,6 +1,8 @@
-zip_code = "16159"
-state = "PA"
 city = "West Middlesex"
 county = "Mercer"
-longitude = -80.300747
 latitude = 41.238352
+longitude = -80.300747
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16159"
+

@@ -1,6 +1,8 @@
-zip_code = "99605"
-state = "AK"
 city = "Hope"
 county = "Kenai Peninsula"
-longitude = -151.655567
 latitude = 60.036583
+longitude = -151.655567
+state = ""
+state_code_alpha2 = ""
+zip_code = "99605"
+

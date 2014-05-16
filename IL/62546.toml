@@ -1,6 +1,8 @@
-zip_code = "62546"
-state = "IL"
 city = "Morrisonville"
 county = "Christian"
-longitude = -89.396732
 latitude = 39.469098
+longitude = -89.396732
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62546"
+

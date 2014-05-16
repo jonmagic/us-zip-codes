@@ -1,6 +1,8 @@
-zip_code = "15367"
-state = "PA"
 city = "Venetia"
 county = "Washington"
-longitude = -80.247797
 latitude = 40.244339
+longitude = -80.247797
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15367"
+

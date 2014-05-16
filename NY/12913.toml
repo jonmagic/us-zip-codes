@@ -1,6 +1,8 @@
-zip_code = "12913"
-state = "NY"
 city = "Bloomingdale"
 county = "Essex"
-longitude = -74.070277
 latitude = 44.401213
+longitude = -74.070277
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12913"
+

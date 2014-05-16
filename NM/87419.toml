@@ -1,6 +1,8 @@
-zip_code = "87419"
-state = "NM"
 city = "Navajo Dam"
 county = "San Juan"
-longitude = -107.652841
 latitude = 36.868927
+longitude = -107.652841
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87419"
+

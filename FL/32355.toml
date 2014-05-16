@@ -1,6 +1,8 @@
-zip_code = "32355"
-state = "FL"
 city = "Saint Marks"
 county = "Wakulla"
-longitude = -84.208346
 latitude = 30.163062
+longitude = -84.208346
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32355"
+

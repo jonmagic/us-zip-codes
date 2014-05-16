@@ -1,6 +1,8 @@
-zip_code = "11379"
-state = "NY"
 city = "Middle Village"
 county = "Queens"
-longitude = -73.892791
 latitude = 40.71924
+longitude = -73.892791
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11379"
+

@@ -1,6 +1,8 @@
-zip_code = "15464"
-state = "PA"
 city = "Mill Run"
 county = "Fayette"
-longitude = -79.432647
 latitude = 39.933738
+longitude = -79.432647
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15464"
+

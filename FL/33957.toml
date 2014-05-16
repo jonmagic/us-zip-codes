@@ -1,6 +1,8 @@
-zip_code = "33957"
-state = "FL"
 city = "Sanibel"
 county = "Lee"
-longitude = -82.100065
 latitude = 26.458308
+longitude = -82.100065
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33957"
+

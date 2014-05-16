@@ -1,6 +1,8 @@
-zip_code = "58382"
-state = "ND"
 city = "Webster"
 county = "Ramsey"
-longitude = -98.800481
 latitude = 48.317012
+longitude = -98.800481
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58382"
+

@@ -1,6 +1,8 @@
-zip_code = "22958"
-state = "VA"
 city = "Nellysford"
 county = "Nelson"
-longitude = -78.893139
 latitude = 37.818439
+longitude = -78.893139
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22958"
+

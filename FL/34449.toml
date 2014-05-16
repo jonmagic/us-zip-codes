@@ -1,6 +1,8 @@
-zip_code = "34449"
-state = "FL"
 city = "Inglis"
 county = "Levy"
-longitude = -82.656099
 latitude = 29.095501
+longitude = -82.656099
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34449"
+

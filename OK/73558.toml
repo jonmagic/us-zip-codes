@@ -1,6 +1,8 @@
-zip_code = "73558"
-state = "OK"
 city = "Meers"
 county = "Comanche"
-longitude = -98.457646
 latitude = 34.630879
+longitude = -98.457646
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73558"
+

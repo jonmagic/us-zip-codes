@@ -1,6 +1,8 @@
-zip_code = "30241"
-state = "GA"
 city = "Lagrange"
 county = "Troup"
-longitude = -84.957664
 latitude = 33.024935
+longitude = -84.957664
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30241"
+

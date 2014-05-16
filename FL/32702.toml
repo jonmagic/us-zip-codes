@@ -1,6 +1,8 @@
-zip_code = "32702"
-state = "FL"
 city = "Altoona"
 county = "Lake"
-longitude = -81.581964
 latitude = 29.059052
+longitude = -81.581964
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32702"
+

@@ -1,6 +1,8 @@
-zip_code = "74940"
-state = "OK"
 city = "Howe"
 county = "Le Flore"
-longitude = -94.637378
 latitude = 34.946433
+longitude = -94.637378
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74940"
+

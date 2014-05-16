@@ -1,6 +1,8 @@
-zip_code = "88231"
-state = "NM"
 city = "Eunice"
 county = "Lea"
-longitude = -103.18336
 latitude = 32.440629
+longitude = -103.18336
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88231"
+

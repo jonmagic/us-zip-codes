@@ -1,6 +1,8 @@
-zip_code = "84532"
-state = "UT"
 city = "Moab"
 county = "Grand"
-longitude = -109.54019
 latitude = 38.5804
+longitude = -109.54019
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84532"
+

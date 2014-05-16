@@ -1,6 +1,8 @@
-zip_code = "34669"
-state = "FL"
 city = "Hudson"
 county = "Pasco"
-longitude = -82.62074
 latitude = 28.360086
+longitude = -82.62074
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34669"
+

@@ -1,6 +1,8 @@
-zip_code = "79516"
-state = "TX"
 city = "Dunn"
 county = "Scurry"
-longitude = -100.9153
 latitude = 32.747707
+longitude = -100.9153
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79516"
+

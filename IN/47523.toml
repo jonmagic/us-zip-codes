@@ -1,6 +1,8 @@
-zip_code = "47523"
-state = "IN"
 city = "Dale"
 county = "Spencer"
-longitude = -86.946217
 latitude = 38.149611
+longitude = -86.946217
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47523"
+

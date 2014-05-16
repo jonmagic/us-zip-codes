@@ -1,6 +1,8 @@
-zip_code = "99021"
-state = "WA"
 city = "Mead"
 county = "Spokane"
-longitude = -117.240392
 latitude = 47.834074
+longitude = -117.240392
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99021"
+

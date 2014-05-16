@@ -1,6 +1,8 @@
-zip_code = "30277"
-state = "GA"
 city = "Sharpsburg"
 county = "Coweta"
-longitude = -84.659393
 latitude = 33.363069
+longitude = -84.659393
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30277"
+

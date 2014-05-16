@@ -1,6 +1,8 @@
-zip_code = "32658"
-state = "FL"
 city = "La Crosse"
 county = "Alachua"
-longitude = -82.416024
 latitude = 29.826139
+longitude = -82.416024
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32658"
+

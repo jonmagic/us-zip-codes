@@ -1,6 +1,8 @@
-zip_code = "79506"
-state = "TX"
 city = "Blackwell"
 county = "Nolan"
-longitude = -100.289569
 latitude = 32.175814
+longitude = -100.289569
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79506"
+

@@ -1,6 +1,8 @@
-zip_code = "54979"
-state = "WI"
 city = "Van Dyne"
 county = "Fond Du Lac"
-longitude = -88.543924
 latitude = 43.839613
+longitude = -88.543924
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54979"
+

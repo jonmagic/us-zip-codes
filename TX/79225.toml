@@ -1,6 +1,8 @@
-zip_code = "79225"
-state = "TX"
 city = "Chillicothe"
 county = "Hardeman"
-longitude = -99.547098
 latitude = 34.195699
+longitude = -99.547098
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79225"
+

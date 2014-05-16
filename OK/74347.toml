@@ -1,6 +1,8 @@
-zip_code = "74347"
-state = "OK"
 city = "Kansas"
 county = "Delaware"
-longitude = -94.759426
 latitude = 36.210142
+longitude = -94.759426
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74347"
+

@@ -1,6 +1,8 @@
-zip_code = "54534"
-state = "WI"
 city = "Hurley"
 county = "Iron"
-longitude = -90.221645
 latitude = 46.371032
+longitude = -90.221645
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54534"
+

@@ -1,6 +1,8 @@
-zip_code = "53939"
-state = "WI"
 city = "Kingston"
 county = "Green Lake"
-longitude = -89.130237
 latitude = 43.6911
+longitude = -89.130237
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53939"
+

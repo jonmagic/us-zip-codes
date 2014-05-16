@@ -1,6 +1,8 @@
-zip_code = "40062"
-state = "KY"
 city = "Saint Francis"
 county = "Marion"
-longitude = -85.425149
 latitude = 37.604695
+longitude = -85.425149
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40062"
+

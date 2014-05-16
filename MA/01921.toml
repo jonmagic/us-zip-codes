@@ -1,6 +1,8 @@
-zip_code = "01921"
-state = "MA"
 city = "Boxford"
 county = "Essex"
-longitude = -71.017403
 latitude = 42.683256
+longitude = -71.017403
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01921"
+

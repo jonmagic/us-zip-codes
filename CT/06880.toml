@@ -1,6 +1,8 @@
-zip_code = "06880"
-state = "CT"
 city = "Westport"
 county = "Fairfield"
-longitude = -73.343261
 latitude = 41.144496
+longitude = -73.343261
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06880"
+

@@ -1,6 +1,8 @@
-zip_code = "68659"
-state = "NE"
 city = "Rogers"
 county = "Colfax"
-longitude = -96.956019
 latitude = 41.593926
+longitude = -96.956019
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68659"
+

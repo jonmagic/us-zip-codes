@@ -1,6 +1,8 @@
-zip_code = "72065"
-state = "AR"
 city = "Hensley"
 county = "Pulaski"
-longitude = -92.205503
 latitude = 34.520167
+longitude = -92.205503
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72065"
+

@@ -1,6 +1,8 @@
-zip_code = "28056"
-state = "NC"
 city = "Gastonia"
 county = "Gaston"
-longitude = -81.169072
 latitude = 35.242038
+longitude = -81.169072
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28056"
+

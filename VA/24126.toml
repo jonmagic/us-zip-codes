@@ -1,6 +1,8 @@
-zip_code = "24126"
-state = "VA"
 city = "Newbern"
 county = "Pulaski"
-longitude = -80.689067
 latitude = 37.069206
+longitude = -80.689067
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24126"
+

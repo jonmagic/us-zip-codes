@@ -1,6 +1,8 @@
-zip_code = "31726"
-state = "GA"
 city = "Bronwood"
 county = "Terrell"
-longitude = -84.343163
 latitude = 31.824017
+longitude = -84.343163
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31726"
+

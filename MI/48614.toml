@@ -1,6 +1,8 @@
-zip_code = "48614"
-state = "MI"
 city = "Brant"
 county = "Saginaw"
-longitude = -84.288736
 latitude = 43.237044
+longitude = -84.288736
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48614"
+

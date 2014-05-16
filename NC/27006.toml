@@ -1,6 +1,8 @@
-zip_code = "27006"
-state = "NC"
 city = "Advance"
 county = "Davie"
-longitude = -80.448686
 latitude = 35.945381
+longitude = -80.448686
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27006"
+

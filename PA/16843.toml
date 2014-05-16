@@ -1,6 +1,8 @@
-zip_code = "16843"
-state = "PA"
 city = "Hyde"
 county = "Clearfield"
-longitude = -78.464189
 latitude = 41.003007
+longitude = -78.464189
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16843"
+

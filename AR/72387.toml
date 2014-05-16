@@ -1,6 +1,8 @@
-zip_code = "72387"
-state = "AR"
 city = "Vanndale"
 county = "Cross"
-longitude = -90.771505
 latitude = 35.3182
+longitude = -90.771505
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72387"
+

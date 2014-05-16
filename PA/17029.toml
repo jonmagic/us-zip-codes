@@ -1,6 +1,8 @@
-zip_code = "17029"
-state = "PA"
 city = "Granville"
 county = "Mifflin"
-longitude = -77.626095
 latitude = 40.550937
+longitude = -77.626095
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17029"
+

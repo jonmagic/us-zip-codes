@@ -1,6 +1,8 @@
-zip_code = "66017"
-state = "KS"
 city = "Denton"
 county = "Doniphan"
-longitude = -95.103098
 latitude = 39.70398
+longitude = -95.103098
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66017"
+

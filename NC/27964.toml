@@ -1,6 +1,8 @@
-zip_code = "27964"
-state = "NC"
 city = "Point Harbor"
 county = "Currituck"
-longitude = -75.804485
 latitude = 36.084092
+longitude = -75.804485
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27964"
+

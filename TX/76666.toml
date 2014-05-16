@@ -1,6 +1,8 @@
-zip_code = "76666"
-state = "TX"
 city = "Mertens"
 county = "Hill"
-longitude = -96.893871
 latitude = 32.058486
+longitude = -96.893871
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76666"
+

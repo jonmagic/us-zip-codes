@@ -1,6 +1,8 @@
-zip_code = "54027"
-state = "WI"
 city = "Wilson"
 county = "Saint Croix"
-longitude = -92.25605
 latitude = 44.945813
+longitude = -92.25605
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54027"
+

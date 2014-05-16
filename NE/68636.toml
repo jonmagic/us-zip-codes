@@ -1,6 +1,8 @@
-zip_code = "68636"
-state = "NE"
 city = "Elgin"
 county = "Antelope"
-longitude = -98.083714
 latitude = 41.982761
+longitude = -98.083714
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68636"
+

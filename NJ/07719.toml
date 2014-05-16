@@ -1,6 +1,8 @@
-zip_code = "07719"
-state = "NJ"
 city = "Belmar"
 county = "Monmouth"
-longitude = -74.112134
 latitude = 40.257461
+longitude = -74.112134
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07719"
+

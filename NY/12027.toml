@@ -1,6 +1,8 @@
-zip_code = "12027"
-state = "NY"
 city = "Burnt Hills"
 county = "Saratoga"
-longitude = -73.911768
 latitude = 42.923676
+longitude = -73.911768
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12027"
+

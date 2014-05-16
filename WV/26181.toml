@@ -1,6 +1,8 @@
-zip_code = "26181"
-state = "WV"
 city = "Washington"
 county = "Wood"
-longitude = -81.65769
 latitude = 39.206816
+longitude = -81.65769
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26181"
+

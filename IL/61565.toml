@@ -1,6 +1,8 @@
-zip_code = "61565"
-state = "IL"
 city = "Sparland"
 county = "Marshall"
-longitude = -89.34804
 latitude = 41.006602
+longitude = -89.34804
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61565"
+

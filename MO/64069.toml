@@ -1,6 +1,8 @@
-zip_code = "64069"
-state = "MO"
 city = "Liberty"
 county = "Clay"
-longitude = -94.408998
 latitude = 39.282869
+longitude = -94.408998
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64069"
+

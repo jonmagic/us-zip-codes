@@ -1,6 +1,8 @@
-zip_code = "45740"
-state = "OH"
 city = "Jacksonville"
 county = "Athens"
-longitude = -82.073188
 latitude = 39.461905
+longitude = -82.073188
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45740"
+

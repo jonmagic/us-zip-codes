@@ -1,6 +1,8 @@
-zip_code = "93623"
-state = "CA"
 city = "Fish Camp"
 county = "Mariposa"
-longitude = -119.652872
 latitude = 37.51165
+longitude = -119.652872
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93623"
+

@@ -1,6 +1,8 @@
-zip_code = "31648"
-state = "GA"
 city = "Statenville"
 county = "Echols"
-longitude = -83.037116
 latitude = 30.768894
+longitude = -83.037116
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31648"
+

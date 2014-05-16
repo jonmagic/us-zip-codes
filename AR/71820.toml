@@ -1,6 +1,8 @@
-zip_code = "71820"
-state = "AR"
 city = "Alleene"
 county = "Little River"
-longitude = -94.270165
 latitude = 33.778125
+longitude = -94.270165
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71820"
+

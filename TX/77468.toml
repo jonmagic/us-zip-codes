@@ -1,6 +1,8 @@
-zip_code = "77468"
-state = "TX"
 city = "Pledger"
 county = "Matagorda"
-longitude = -96.052347
 latitude = 28.949429
+longitude = -96.052347
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77468"
+

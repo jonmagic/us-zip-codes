@@ -1,6 +1,8 @@
-zip_code = "44406"
-state = "OH"
 city = "Canfield"
 county = "Mahoning"
-longitude = -80.822094
 latitude = 41.008621
+longitude = -80.822094
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44406"
+

@@ -1,6 +1,8 @@
-zip_code = "46761"
-state = "IN"
 city = "Lagrange"
 county = "Lagrange"
-longitude = -85.387208
 latitude = 41.655135
+longitude = -85.387208
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46761"
+

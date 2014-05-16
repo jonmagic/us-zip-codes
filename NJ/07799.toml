@@ -1,6 +1,8 @@
-zip_code = "07799"
-state = "NJ"
 city = "Eatontown"
 county = "Monmouth"
-longitude = -74.24928
 latitude = 40.302718
+longitude = -74.24928
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07799"
+

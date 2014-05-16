@@ -1,6 +1,8 @@
-zip_code = "65555"
-state = "MO"
 city = "Raymondville"
 county = "Texas"
-longitude = -91.748856
 latitude = 37.366338
+longitude = -91.748856
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65555"
+

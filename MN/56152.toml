@@ -1,6 +1,8 @@
-zip_code = "56152"
-state = "MN"
 city = "Lamberton"
 county = "Redwood"
-longitude = -95.269338
 latitude = 44.282497
+longitude = -95.269338
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56152"
+

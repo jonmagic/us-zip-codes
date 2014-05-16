@@ -1,6 +1,8 @@
-zip_code = "96777"
-state = "HI"
 city = "Pahala"
 county = "Hawaii"
-longitude = -155.438015
 latitude = 19.593456
+longitude = -155.438015
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96777"
+

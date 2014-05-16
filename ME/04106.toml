@@ -1,6 +1,8 @@
-zip_code = "04106"
-state = "ME"
 city = "South Portland"
 county = "Cumberland"
-longitude = -70.289248
 latitude = 43.627364
+longitude = -70.289248
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04106"
+

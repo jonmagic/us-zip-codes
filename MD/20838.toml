@@ -1,6 +1,8 @@
-zip_code = "20838"
-state = "MD"
 city = "Barnesville"
 county = "Montgomery"
-longitude = -77.37097
 latitude = 39.228424
+longitude = -77.37097
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20838"
+

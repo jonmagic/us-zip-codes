@@ -1,6 +1,8 @@
-zip_code = "46705"
-state = "IN"
 city = "Ashley"
 county = "De Kalb"
-longitude = -85.071275
 latitude = 41.501455
+longitude = -85.071275
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46705"
+

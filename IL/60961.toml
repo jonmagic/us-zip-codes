@@ -1,6 +1,8 @@
-zip_code = "60961"
-state = "IL"
 city = "Reddick"
 county = "Kankakee"
-longitude = -88.198405
 latitude = 41.099001
+longitude = -88.198405
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60961"
+

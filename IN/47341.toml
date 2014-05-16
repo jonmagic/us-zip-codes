@@ -1,6 +1,8 @@
-zip_code = "47341"
-state = "IN"
 city = "Fountain City"
 county = "Wayne"
-longitude = -84.995365
 latitude = 39.864218
+longitude = -84.995365
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47341"
+

@@ -1,6 +1,8 @@
-zip_code = "87047"
-state = "NM"
 city = "Sandia Park"
 county = "Bernalillo"
-longitude = -106.311441
 latitude = 35.152995
+longitude = -106.311441
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87047"
+

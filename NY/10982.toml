@@ -1,6 +1,8 @@
-zip_code = "10982"
-state = "NY"
 city = "Tallman"
 county = "Rockland"
-longitude = -74.060826
 latitude = 41.160945
+longitude = -74.060826
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10982"
+

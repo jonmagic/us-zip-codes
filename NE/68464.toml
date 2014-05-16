@@ -1,6 +1,8 @@
-zip_code = "68464"
-state = "NE"
 city = "Western"
 county = "Saline"
-longitude = -97.265045
 latitude = 40.403717
+longitude = -97.265045
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68464"
+

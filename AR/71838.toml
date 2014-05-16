@@ -1,6 +1,8 @@
-zip_code = "71838"
-state = "AR"
 city = "Fulton"
 county = "Hempstead"
-longitude = -93.79752
 latitude = 33.669917
+longitude = -93.79752
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71838"
+

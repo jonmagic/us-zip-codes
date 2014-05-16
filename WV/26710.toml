@@ -1,6 +1,8 @@
-zip_code = "26710"
-state = "WV"
 city = "Burlington"
 county = "Mineral"
-longitude = -78.964749
 latitude = 39.443055
+longitude = -78.964749
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26710"
+

@@ -1,6 +1,8 @@
-zip_code = "96086"
-state = "CA"
 city = "Seiad Valley"
 county = "Siskiyou"
-longitude = -123.235079
 latitude = 41.833921
+longitude = -123.235079
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96086"
+

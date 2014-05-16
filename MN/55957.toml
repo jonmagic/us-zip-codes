@@ -1,6 +1,8 @@
-zip_code = "55957"
-state = "MN"
 city = "Millville"
 county = "Wabasha"
-longitude = -92.336216
 latitude = 44.234483
+longitude = -92.336216
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55957"
+

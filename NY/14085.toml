@@ -1,6 +1,8 @@
-zip_code = "14085"
-state = "NY"
 city = "Lake View"
 county = "Erie"
-longitude = -78.929357
 latitude = 42.716055
+longitude = -78.929357
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14085"
+

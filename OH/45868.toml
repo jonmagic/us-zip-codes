@@ -1,6 +1,8 @@
-zip_code = "45868"
-state = "OH"
 city = "Mount Cory"
 county = "Hancock"
-longitude = -83.842293
 latitude = 40.970761
+longitude = -83.842293
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45868"
+

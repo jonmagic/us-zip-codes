@@ -1,6 +1,8 @@
-zip_code = "63531"
-state = "MO"
 city = "Baring"
 county = "Knox"
-longitude = -92.303293
 latitude = 40.149624
+longitude = -92.303293
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63531"
+

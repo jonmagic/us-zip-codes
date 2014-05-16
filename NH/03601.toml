@@ -1,6 +1,8 @@
-zip_code = "03601"
-state = "NH"
 city = "Acworth"
 county = "Sullivan"
-longitude = -72.300075
 latitude = 43.195982
+longitude = -72.300075
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03601"
+

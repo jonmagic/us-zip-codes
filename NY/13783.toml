@@ -1,6 +1,8 @@
-zip_code = "13783"
-state = "NY"
 city = "Hancock"
 county = "Delaware"
-longitude = -75.028814
 latitude = 42.115853
+longitude = -75.028814
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13783"
+

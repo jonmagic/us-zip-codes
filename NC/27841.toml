@@ -1,6 +1,8 @@
-zip_code = "27841"
-state = "NC"
 city = "Hassell"
 county = "Martin"
-longitude = -77.273825
 latitude = 35.906104
+longitude = -77.273825
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27841"
+

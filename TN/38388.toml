@@ -1,6 +1,8 @@
-zip_code = "38388"
-state = "TN"
 city = "Wildersville"
 county = "Henderson"
-longitude = -88.348263
 latitude = 35.768119
+longitude = -88.348263
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38388"
+

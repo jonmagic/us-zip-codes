@@ -1,6 +1,8 @@
-zip_code = "74008"
-state = "OK"
 city = "Bixby"
 county = "Tulsa"
-longitude = -95.877617
 latitude = 35.93345
+longitude = -95.877617
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74008"
+

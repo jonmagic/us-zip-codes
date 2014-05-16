@@ -1,6 +1,8 @@
-zip_code = "50219"
-state = "IA"
 city = "Pella"
 county = "Marion"
-longitude = -93.092797
 latitude = 41.341915
+longitude = -93.092797
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50219"
+

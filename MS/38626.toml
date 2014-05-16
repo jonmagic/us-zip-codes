@@ -1,6 +1,8 @@
-zip_code = "38626"
-state = "MS"
 city = "Dundee"
 county = "Tunica"
-longitude = -90.369304
 latitude = 34.535704
+longitude = -90.369304
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38626"
+

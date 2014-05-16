@@ -1,6 +1,8 @@
-zip_code = "56336"
-state = "MN"
 city = "Grey Eagle"
 county = "Todd"
-longitude = -94.77757
 latitude = 45.827791
+longitude = -94.77757
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56336"
+

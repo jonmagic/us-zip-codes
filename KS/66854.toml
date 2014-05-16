@@ -1,6 +1,8 @@
-zip_code = "66854"
-state = "KS"
 city = "Hartford"
 county = "Lyon"
-longitude = -96.103771
 latitude = 38.345691
+longitude = -96.103771
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66854"
+

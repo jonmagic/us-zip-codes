@@ -1,6 +1,8 @@
-zip_code = "71752"
-state = "AR"
 city = "Mc Neil"
 county = "Columbia"
-longitude = -93.18731
 latitude = 33.373136
+longitude = -93.18731
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71752"
+

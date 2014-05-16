@@ -1,6 +1,8 @@
-zip_code = "56663"
-state = "MN"
 city = "Pennington"
 county = "Beltrami"
-longitude = -94.471485
 latitude = 47.448274
+longitude = -94.471485
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56663"
+

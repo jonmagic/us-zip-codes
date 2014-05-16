@@ -1,6 +1,8 @@
-zip_code = "14003"
-state = "NY"
 city = "Alabama"
 county = "Genesee"
-longitude = -78.184813
 latitude = 42.998052
+longitude = -78.184813
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14003"
+

@@ -1,6 +1,8 @@
-zip_code = "47229"
-state = "IN"
 city = "Crothersville"
 county = "Jackson"
-longitude = -85.985182
 latitude = 38.815289
+longitude = -85.985182
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47229"
+

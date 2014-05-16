@@ -1,6 +1,8 @@
-zip_code = "48450"
-state = "MI"
 city = "Lexington"
 county = "Sanilac"
-longitude = -82.78895
 latitude = 43.392172
+longitude = -82.78895
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48450"
+

@@ -1,6 +1,8 @@
-zip_code = "90248"
-state = "CA"
 city = "Gardena"
 county = "Los Angeles"
-longitude = -118.269605
 latitude = 33.877165
+longitude = -118.269605
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90248"
+

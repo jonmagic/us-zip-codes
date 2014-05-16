@@ -1,6 +1,8 @@
-zip_code = "03221"
-state = "NH"
 city = "Bradford"
 county = "Merrimack"
-longitude = -71.792489
 latitude = 43.280961
+longitude = -71.792489
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03221"
+

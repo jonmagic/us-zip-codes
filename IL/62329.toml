@@ -1,6 +1,8 @@
-zip_code = "62329"
-state = "IL"
 city = "Colusa"
 county = "Hancock"
-longitude = -91.168221
 latitude = 40.571353
+longitude = -91.168221
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62329"
+

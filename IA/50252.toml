@@ -1,6 +1,8 @@
-zip_code = "50252"
-state = "IA"
 city = "Swan"
 county = "Marion"
-longitude = -93.219421
 latitude = 41.457722
+longitude = -93.219421
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50252"
+

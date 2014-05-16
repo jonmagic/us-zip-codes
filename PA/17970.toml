@@ -1,6 +1,8 @@
-zip_code = "17970"
-state = "PA"
 city = "Saint Clair"
 county = "Schuylkill"
-longitude = -76.284374
 latitude = 40.707055
+longitude = -76.284374
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17970"
+

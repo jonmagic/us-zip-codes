@@ -1,6 +1,8 @@
-zip_code = "62048"
-state = "IL"
 city = "Hartford"
 county = "Madison"
-longitude = -90.092606
 latitude = 38.827848
+longitude = -90.092606
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62048"
+

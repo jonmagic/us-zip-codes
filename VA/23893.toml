@@ -1,6 +1,8 @@
-zip_code = "23893"
-state = "VA"
 city = "White Plains"
 county = "Brunswick"
-longitude = -77.927891
 latitude = 36.61509
+longitude = -77.927891
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23893"
+

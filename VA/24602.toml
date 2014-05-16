@@ -1,6 +1,8 @@
-zip_code = "24602"
-state = "VA"
 city = "Bandy"
 county = "Tazewell"
-longitude = -81.79514
 latitude = 36.999484
+longitude = -81.79514
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24602"
+

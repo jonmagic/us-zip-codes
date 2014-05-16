@@ -1,6 +1,8 @@
-zip_code = "37343"
-state = "TN"
 city = "Hixson"
 county = "Hamilton"
-longitude = -85.21024
 latitude = 35.166775
+longitude = -85.21024
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37343"
+

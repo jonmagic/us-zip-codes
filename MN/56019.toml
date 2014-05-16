@@ -1,6 +1,8 @@
-zip_code = "56019"
-state = "MN"
 city = "Comfrey"
 county = "Brown"
-longitude = -94.907833
 latitude = 44.111351
+longitude = -94.907833
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56019"
+

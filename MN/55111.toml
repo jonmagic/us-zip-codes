@@ -1,6 +1,8 @@
-zip_code = "55111"
-state = "MN"
 city = "Saint Paul"
 county = "Hennepin"
-longitude = -93.200671
 latitude = 44.882838
+longitude = -93.200671
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55111"
+

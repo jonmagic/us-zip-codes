@@ -1,6 +1,8 @@
-zip_code = "21041"
-state = "MD"
 city = "Ellicott City"
 county = "Howard"
-longitude = -76.941902
 latitude = 39.236405
+longitude = -76.941902
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21041"
+

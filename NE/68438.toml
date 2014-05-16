@@ -1,6 +1,8 @@
-zip_code = "68438"
-state = "NE"
 city = "Sprague"
 county = "Lancaster"
-longitude = -96.745622
 latitude = 40.626661
+longitude = -96.745622
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68438"
+

@@ -1,6 +1,8 @@
-zip_code = "06058"
-state = "CT"
 city = "Norfolk"
 county = "Litchfield"
-longitude = -73.184674
 latitude = 41.886811
+longitude = -73.184674
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06058"
+

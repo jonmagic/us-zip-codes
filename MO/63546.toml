@@ -1,6 +1,8 @@
-zip_code = "63546"
-state = "MO"
 city = "Greentop"
 county = "Adair"
-longitude = -92.438547
 latitude = 40.271035
+longitude = -92.438547
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63546"
+

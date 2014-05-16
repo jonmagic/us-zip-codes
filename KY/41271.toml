@@ -1,6 +1,8 @@
-zip_code = "41271"
-state = "KY"
 city = "Williamsport"
 county = "Johnson"
-longitude = -82.726407
 latitude = 37.831277
+longitude = -82.726407
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41271"
+

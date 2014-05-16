@@ -1,6 +1,8 @@
-zip_code = "48037"
-state = "MI"
 city = "Southfield"
 county = "Oakland"
-longitude = -83.149978
 latitude = 42.567543
+longitude = -83.149978
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48037"
+

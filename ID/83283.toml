@@ -1,6 +1,8 @@
-zip_code = "83283"
-state = "ID"
 city = "Thatcher"
 county = "Franklin"
-longitude = -111.684093
 latitude = 42.379408
+longitude = -111.684093
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83283"
+

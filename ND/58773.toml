@@ -1,6 +1,8 @@
-zip_code = "58773"
-state = "ND"
 city = "Powers Lake"
 county = "Burke"
-longitude = -102.679499
 latitude = 48.655093
+longitude = -102.679499
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58773"
+

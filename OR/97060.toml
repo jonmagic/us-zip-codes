@@ -1,6 +1,8 @@
-zip_code = "97060"
-state = "OR"
 city = "Troutdale"
 county = "Multnomah"
-longitude = -122.390049
 latitude = 45.525007
+longitude = -122.390049
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97060"
+

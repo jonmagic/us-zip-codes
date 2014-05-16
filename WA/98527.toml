@@ -1,6 +1,8 @@
-zip_code = "98527"
-state = "WA"
 city = "Bay Center"
 county = "Pacific"
-longitude = -123.884996
 latitude = 46.637057
+longitude = -123.884996
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98527"
+

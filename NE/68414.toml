@@ -1,6 +1,8 @@
-zip_code = "68414"
-state = "NE"
 city = "Nemaha"
 county = "Nemaha"
-longitude = -95.676576
 latitude = 40.339435
+longitude = -95.676576
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68414"
+

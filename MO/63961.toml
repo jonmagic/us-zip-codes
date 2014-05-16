@@ -1,6 +1,8 @@
-zip_code = "63961"
-state = "MO"
 city = "Qulin"
 county = "Butler"
-longitude = -90.264918
 latitude = 36.588977
+longitude = -90.264918
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63961"
+

@@ -1,6 +1,8 @@
-zip_code = "44824"
-state = "OH"
 city = "Castalia"
 county = "Erie"
-longitude = -82.785818
 latitude = 41.366624
+longitude = -82.785818
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44824"
+

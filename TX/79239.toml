@@ -1,6 +1,8 @@
-zip_code = "79239"
-state = "TX"
 city = "Lakeview"
 county = "Hall"
-longitude = -100.696501
 latitude = 34.672342
+longitude = -100.696501
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79239"
+

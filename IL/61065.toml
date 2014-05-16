@@ -1,6 +1,8 @@
-zip_code = "61065"
-state = "IL"
 city = "Poplar Grove"
 county = "Boone"
-longitude = -88.811894
 latitude = 42.392537
+longitude = -88.811894
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61065"
+

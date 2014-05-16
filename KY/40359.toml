@@ -1,6 +1,8 @@
-zip_code = "40359"
-state = "KY"
 city = "Owenton"
 county = "Owen"
-longitude = -84.843115
 latitude = 38.493552
+longitude = -84.843115
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40359"
+

@@ -1,6 +1,8 @@
-zip_code = "86511"
-state = "AZ"
 city = "Saint Michaels"
 county = "Apache"
-longitude = -109.308746
 latitude = 35.903962
+longitude = -109.308746
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86511"
+

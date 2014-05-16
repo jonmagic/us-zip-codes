@@ -1,6 +1,8 @@
-zip_code = "18966"
-state = "PA"
 city = "Southampton"
 county = "Bucks"
-longitude = -75.007099
 latitude = 40.186758
+longitude = -75.007099
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18966"
+

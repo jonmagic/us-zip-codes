@@ -1,6 +1,8 @@
-zip_code = "36089"
-state = "AL"
 city = "Union Springs"
 county = "Bullock"
-longitude = -85.742406
 latitude = 32.142191
+longitude = -85.742406
+state = ""
+state_code_alpha2 = ""
+zip_code = "36089"
+

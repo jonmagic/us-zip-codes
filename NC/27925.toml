@@ -1,6 +1,8 @@
-zip_code = "27925"
-state = "NC"
 city = "Columbia"
 county = "Tyrrell"
-longitude = -76.203339
 latitude = 35.936934
+longitude = -76.203339
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27925"
+

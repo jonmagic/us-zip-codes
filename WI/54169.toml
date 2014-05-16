@@ -1,6 +1,8 @@
-zip_code = "54169"
-state = "WI"
 city = "Sherwood"
 county = "Calumet"
-longitude = -88.229438
 latitude = 44.167388
+longitude = -88.229438
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54169"
+

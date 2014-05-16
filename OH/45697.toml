@@ -1,6 +1,8 @@
-zip_code = "45697"
-state = "OH"
 city = "Winchester"
 county = "Adams"
-longitude = -83.580733
 latitude = 38.9163
+longitude = -83.580733
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45697"
+

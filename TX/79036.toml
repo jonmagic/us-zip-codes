@@ -1,6 +1,8 @@
-zip_code = "79036"
-state = "TX"
 city = "Fritch"
 county = "Hutchinson"
-longitude = -101.575988
 latitude = 35.663213
+longitude = -101.575988
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79036"
+

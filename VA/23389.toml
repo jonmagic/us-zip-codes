@@ -1,6 +1,8 @@
-zip_code = "23389"
-state = "VA"
 city = "Harborton"
 county = "Accomack"
-longitude = -75.848807
 latitude = 37.656158
+longitude = -75.848807
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23389"
+

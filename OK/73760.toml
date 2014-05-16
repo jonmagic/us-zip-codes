@@ -1,6 +1,8 @@
-zip_code = "73760"
-state = "OK"
 city = "Meno"
 county = "Major"
-longitude = -98.209947
 latitude = 36.384201
+longitude = -98.209947
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73760"
+

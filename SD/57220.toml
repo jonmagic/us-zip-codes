@@ -1,6 +1,8 @@
-zip_code = "57220"
-state = "SD"
 city = "Bruce"
 county = "Brookings"
-longitude = -96.89302
 latitude = 44.456735
+longitude = -96.89302
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57220"
+

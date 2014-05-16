@@ -1,6 +1,8 @@
-zip_code = "07938"
-state = "NJ"
 city = "Liberty Corner"
 county = "Somerset"
-longitude = -74.586151
 latitude = 40.655399
+longitude = -74.586151
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07938"
+

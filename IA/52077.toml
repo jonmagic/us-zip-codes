@@ -1,6 +1,8 @@
-zip_code = "52077"
-state = "IA"
 city = "Volga"
 county = "Clayton"
-longitude = -91.496533
 latitude = 42.844453
+longitude = -91.496533
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52077"
+

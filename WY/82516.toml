@@ -1,6 +1,8 @@
-zip_code = "82516"
-state = "WY"
 city = "Kinnear"
 county = "Fremont"
-longitude = -108.933381
 latitude = 43.267755
+longitude = -108.933381
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82516"
+

@@ -1,6 +1,8 @@
-zip_code = "12851"
-state = "NY"
 city = "Minerva"
 county = "Essex"
-longitude = -73.787317
 latitude = 44.214452
+longitude = -73.787317
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12851"
+

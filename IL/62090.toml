@@ -1,6 +1,8 @@
-zip_code = "62090"
-state = "IL"
 city = "Venice"
 county = "Madison"
-longitude = -90.168859
 latitude = 38.67025
+longitude = -90.168859
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62090"
+

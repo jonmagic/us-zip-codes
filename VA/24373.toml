@@ -1,6 +1,8 @@
-zip_code = "24373"
-state = "VA"
 city = "Seven Mile Ford"
 county = "Smyth"
-longitude = -81.549231
 latitude = 36.826371
+longitude = -81.549231
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24373"
+

@@ -1,6 +1,8 @@
-zip_code = "29554"
-state = "SC"
 city = "Hemingway"
 county = "Williamsburg"
-longitude = -79.430945
 latitude = 33.732071
+longitude = -79.430945
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29554"
+

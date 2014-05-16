@@ -1,6 +1,8 @@
-zip_code = "89430"
-state = "NV"
 city = "Smith"
 county = "Lyon"
-longitude = -119.302929
 latitude = 38.773292
+longitude = -119.302929
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89430"
+

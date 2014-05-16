@@ -1,6 +1,8 @@
-zip_code = "16430"
-state = "PA"
 city = "North Springfield"
 county = "Erie"
-longitude = -80.42585
 latitude = 41.999881
+longitude = -80.42585
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16430"
+

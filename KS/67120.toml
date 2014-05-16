@@ -1,6 +1,8 @@
-zip_code = "67120"
-state = "KS"
 city = "Peck"
 county = "Sedgwick"
-longitude = -97.340797
 latitude = 37.50541
+longitude = -97.340797
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67120"
+

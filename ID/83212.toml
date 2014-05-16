@@ -1,6 +1,8 @@
-zip_code = "83212"
-state = "ID"
 city = "Arbon"
 county = "Power"
-longitude = -112.542643
 latitude = 42.512788
+longitude = -112.542643
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83212"
+

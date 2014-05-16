@@ -1,6 +1,8 @@
-zip_code = "33547"
-state = "FL"
 city = "Lithia"
 county = "Hillsborough"
-longitude = -82.205331
 latitude = 27.893718
+longitude = -82.205331
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33547"
+

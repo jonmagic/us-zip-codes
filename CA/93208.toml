@@ -1,6 +1,8 @@
-zip_code = "93208"
-state = "CA"
 city = "Camp Nelson"
 county = "Tulare"
-longitude = -118.694576
 latitude = 36.139789
+longitude = -118.694576
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93208"
+

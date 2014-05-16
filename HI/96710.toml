@@ -1,6 +1,8 @@
-zip_code = "96710"
-state = "HI"
 city = "Hakalau"
 county = "Hawaii"
-longitude = -155.148483
 latitude = 19.911689
+longitude = -155.148483
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96710"
+

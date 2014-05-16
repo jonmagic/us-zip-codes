@@ -1,6 +1,8 @@
-zip_code = "92735"
-state = "CA"
 city = "Santa Ana"
 county = "Orange"
-longitude = -117.769442
 latitude = 33.640302
+longitude = -117.769442
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92735"
+

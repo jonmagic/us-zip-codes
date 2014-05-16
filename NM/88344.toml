@@ -1,6 +1,8 @@
-zip_code = "88344"
-state = "NM"
 city = "Pinon"
 county = "Otero"
-longitude = -105.437481
 latitude = 32.609109
+longitude = -105.437481
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88344"
+

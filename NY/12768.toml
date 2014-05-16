@@ -1,6 +1,8 @@
-zip_code = "12768"
-state = "NY"
 city = "Parksville"
 county = "Sullivan"
-longitude = -74.857261
 latitude = 41.841414
+longitude = -74.857261
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12768"
+

@@ -1,6 +1,8 @@
-zip_code = "58781"
-state = "ND"
 city = "Sawyer"
 county = "Ward"
-longitude = -101.340912
 latitude = 48.181645
+longitude = -101.340912
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58781"
+

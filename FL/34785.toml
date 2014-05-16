@@ -1,6 +1,8 @@
-zip_code = "34785"
-state = "FL"
 city = "Wildwood"
 county = "Sumter"
-longitude = -82.078342
 latitude = 28.844473
+longitude = -82.078342
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34785"
+

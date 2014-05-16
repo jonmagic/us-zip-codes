@@ -1,6 +1,8 @@
-zip_code = "37726"
-state = "TN"
 city = "Deer Lodge"
 county = "Morgan"
-longitude = -84.79351
 latitude = 36.202427
+longitude = -84.79351
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37726"
+

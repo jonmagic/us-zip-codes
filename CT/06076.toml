@@ -1,6 +1,8 @@
-zip_code = "06076"
-state = "CT"
 city = "Stafford Springs"
 county = "Tolland"
-longitude = -72.27641
 latitude = 41.900495
+longitude = -72.27641
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06076"
+

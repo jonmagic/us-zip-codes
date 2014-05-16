@@ -1,6 +1,8 @@
-zip_code = "13121"
-state = "NY"
 city = "New Haven"
 county = "Oswego"
-longitude = -76.315044
 latitude = 43.483379
+longitude = -76.315044
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13121"
+

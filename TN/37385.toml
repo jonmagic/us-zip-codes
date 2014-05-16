@@ -1,6 +1,8 @@
-zip_code = "37385"
-state = "TN"
 city = "Tellico Plains"
 county = "Monroe"
-longitude = -84.272243
 latitude = 35.376907
+longitude = -84.272243
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37385"
+

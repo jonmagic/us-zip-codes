@@ -1,6 +1,8 @@
-zip_code = "73099"
-state = "OK"
 city = "Yukon"
 county = "Canadian"
-longitude = -97.770532
 latitude = 35.521448
+longitude = -97.770532
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73099"
+

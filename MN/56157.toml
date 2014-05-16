@@ -1,6 +1,8 @@
-zip_code = "56157"
-state = "MN"
 city = "Lynd"
 county = "Lyon"
-longitude = -95.937984
 latitude = 44.399913
+longitude = -95.937984
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56157"
+

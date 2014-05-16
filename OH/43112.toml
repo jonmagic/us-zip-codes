@@ -1,6 +1,8 @@
-zip_code = "43112"
-state = "OH"
 city = "Carroll"
 county = "Fairfield"
-longitude = -82.706291
 latitude = 39.80114
+longitude = -82.706291
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43112"
+

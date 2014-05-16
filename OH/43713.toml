@@ -1,6 +1,8 @@
-zip_code = "43713"
-state = "OH"
 city = "Barnesville"
 county = "Belmont"
-longitude = -81.137495
 latitude = 39.985318
+longitude = -81.137495
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43713"
+

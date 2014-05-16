@@ -1,6 +1,8 @@
-zip_code = "28399"
-state = "NC"
 city = "White Oak"
 county = "Bladen"
-longitude = -78.679332
 latitude = 34.762175
+longitude = -78.679332
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28399"
+

@@ -1,6 +1,8 @@
-zip_code = "73505"
-state = "OK"
 city = "Lawton"
 county = "Comanche"
-longitude = -98.436365
 latitude = 34.678734
+longitude = -98.436365
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73505"
+

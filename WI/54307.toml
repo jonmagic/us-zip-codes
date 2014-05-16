@@ -1,6 +1,8 @@
-zip_code = "54307"
-state = "WI"
 city = "Green Bay"
 county = "Brown"
-longitude = -88.007382
 latitude = 44.460064
+longitude = -88.007382
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54307"
+

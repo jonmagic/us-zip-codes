@@ -1,6 +1,8 @@
-zip_code = "55942"
-state = "MN"
 city = "Homer"
 county = "Winona"
-longitude = -91.68187
 latitude = 44.019989
+longitude = -91.68187
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55942"
+

@@ -1,6 +1,8 @@
-zip_code = "66776"
-state = "KS"
 city = "Thayer"
 county = "Neosho"
-longitude = -95.452585
 latitude = 37.480322
+longitude = -95.452585
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66776"
+

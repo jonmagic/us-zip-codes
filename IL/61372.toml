@@ -1,6 +1,8 @@
-zip_code = "61372"
-state = "IL"
 city = "Troy Grove"
 county = "La Salle"
-longitude = -89.070516
 latitude = 41.451786
+longitude = -89.070516
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61372"
+

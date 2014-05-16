@@ -1,6 +1,8 @@
-zip_code = "78558"
-state = "TX"
 city = "La Blanca"
 county = "Hidalgo"
-longitude = -98.045699
 latitude = 26.294532
+longitude = -98.045699
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78558"
+

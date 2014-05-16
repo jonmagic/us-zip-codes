@@ -1,6 +1,8 @@
-zip_code = "76531"
-state = "TX"
 city = "Hamilton"
 county = "Hamilton"
-longitude = -98.107585
 latitude = 31.671399
+longitude = -98.107585
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76531"
+

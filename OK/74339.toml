@@ -1,6 +1,8 @@
-zip_code = "74339"
-state = "OK"
 city = "Commerce"
 county = "Ottawa"
-longitude = -94.876086
 latitude = 36.829945
+longitude = -94.876086
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74339"
+

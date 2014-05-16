@@ -1,6 +1,8 @@
-zip_code = "34145"
-state = "FL"
 city = "Marco Island"
 county = "Collier"
-longitude = -81.696751
 latitude = 25.938768
+longitude = -81.696751
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34145"
+

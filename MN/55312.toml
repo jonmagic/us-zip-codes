@@ -1,6 +1,8 @@
-zip_code = "55312"
-state = "MN"
 city = "Brownton"
 county = "Mcleod"
-longitude = -94.251718
 latitude = 44.758102
+longitude = -94.251718
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55312"
+

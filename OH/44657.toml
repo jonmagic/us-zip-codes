@@ -1,6 +1,8 @@
-zip_code = "44657"
-state = "OH"
 city = "Minerva"
 county = "Stark"
-longitude = -81.175266
 latitude = 40.749759
+longitude = -81.175266
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44657"
+

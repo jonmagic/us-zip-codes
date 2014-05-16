@@ -1,6 +1,8 @@
-zip_code = "15068"
-state = "PA"
 city = "New Kensington"
 county = "Westmoreland"
-longitude = -79.581506
 latitude = 40.478821
+longitude = -79.581506
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15068"
+

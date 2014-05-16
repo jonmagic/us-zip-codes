@@ -1,6 +1,8 @@
-zip_code = "76065"
-state = "TX"
 city = "Midlothian"
 county = "Ellis"
-longitude = -96.978849
 latitude = 32.431364
+longitude = -96.978849
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76065"
+

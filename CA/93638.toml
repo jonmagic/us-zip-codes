@@ -1,6 +1,8 @@
-zip_code = "93638"
-state = "CA"
 city = "Madera"
 county = "Madera"
-longitude = -119.977376
 latitude = 37.023383
+longitude = -119.977376
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93638"
+

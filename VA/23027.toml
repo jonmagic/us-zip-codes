@@ -1,6 +1,8 @@
-zip_code = "23027"
-state = "VA"
 city = "Cartersville"
 county = "Cumberland"
-longitude = -78.138859
 latitude = 37.64794
+longitude = -78.138859
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23027"
+

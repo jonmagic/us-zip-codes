@@ -1,6 +1,8 @@
-zip_code = "41216"
-state = "KY"
 city = "East Point"
 county = "Johnson"
-longitude = -82.818187
 latitude = 37.757935
+longitude = -82.818187
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41216"
+

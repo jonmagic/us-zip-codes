@@ -1,6 +1,8 @@
-zip_code = "04992"
-state = "ME"
 city = "West Farmington"
 county = "Franklin"
-longitude = -70.153049
 latitude = 44.662822
+longitude = -70.153049
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04992"
+

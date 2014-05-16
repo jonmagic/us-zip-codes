@@ -1,6 +1,8 @@
-zip_code = "21146"
-state = "MD"
 city = "Severna Park"
 county = "Anne Arundel"
-longitude = -76.603722
 latitude = 38.951199
+longitude = -76.603722
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21146"
+

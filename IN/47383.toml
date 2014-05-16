@@ -1,6 +1,8 @@
-zip_code = "47383"
-state = "IN"
 city = "Selma"
 county = "Delaware"
-longitude = -85.265562
 latitude = 40.15178
+longitude = -85.265562
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47383"
+

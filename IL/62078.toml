@@ -1,6 +1,8 @@
-zip_code = "62078"
-state = "IL"
 city = "Patterson"
 county = "Greene"
-longitude = -90.385171
 latitude = 39.319696
+longitude = -90.385171
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62078"
+

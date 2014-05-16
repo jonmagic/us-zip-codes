@@ -1,6 +1,8 @@
-zip_code = "78333"
-state = "TX"
 city = "Alice"
 county = "Jim Wells"
-longitude = -98.012331
 latitude = 27.659473
+longitude = -98.012331
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78333"
+

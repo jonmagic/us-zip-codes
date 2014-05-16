@@ -1,6 +1,8 @@
-zip_code = "80833"
-state = "CO"
 city = "Rush"
 county = "El Paso"
-longitude = -104.117904
 latitude = 38.818756
+longitude = -104.117904
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80833"
+

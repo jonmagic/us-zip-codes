@@ -1,6 +1,8 @@
-zip_code = "65734"
-state = "MO"
 city = "Purdy"
 county = "Barry"
-longitude = -93.917312
 latitude = 36.78885
+longitude = -93.917312
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65734"
+

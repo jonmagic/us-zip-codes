@@ -1,6 +1,8 @@
-zip_code = "60926"
-state = "IL"
 city = "Claytonville"
 county = "Iroquois"
-longitude = -87.804046
 latitude = 40.567574
+longitude = -87.804046
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60926"
+

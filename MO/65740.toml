@@ -1,6 +1,8 @@
-zip_code = "65740"
-state = "MO"
 city = "Rockaway Beach"
 county = "Taney"
-longitude = -93.158501
 latitude = 36.714583
+longitude = -93.158501
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65740"
+

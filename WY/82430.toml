@@ -1,6 +1,8 @@
-zip_code = "82430"
-state = "WY"
 city = "Kirby"
 county = "Hot Springs"
-longitude = -108.180469
 latitude = 43.804189
+longitude = -108.180469
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82430"
+

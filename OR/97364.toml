@@ -1,6 +1,8 @@
-zip_code = "97364"
-state = "OR"
 city = "Neotsu"
 county = "Lincoln"
-longitude = -123.974717
 latitude = 44.99821
+longitude = -123.974717
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97364"
+

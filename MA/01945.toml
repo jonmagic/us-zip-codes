@@ -1,6 +1,8 @@
-zip_code = "01945"
-state = "MA"
 city = "Marblehead"
 county = "Essex"
-longitude = -70.770768
 latitude = 42.56142
+longitude = -70.770768
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01945"
+

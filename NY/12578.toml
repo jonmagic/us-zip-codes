@@ -1,6 +1,8 @@
-zip_code = "12578"
-state = "NY"
 city = "Salt Point"
 county = "Dutchess"
-longitude = -73.786647
 latitude = 41.81246
+longitude = -73.786647
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12578"
+

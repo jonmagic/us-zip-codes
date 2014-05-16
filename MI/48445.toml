@@ -1,6 +1,8 @@
-zip_code = "48445"
-state = "MI"
 city = "Kinde"
 county = "Huron"
-longitude = -82.944266
 latitude = 43.961537
+longitude = -82.944266
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48445"
+

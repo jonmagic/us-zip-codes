@@ -1,6 +1,8 @@
-zip_code = "57221"
-state = "SD"
 city = "Bryant"
 county = "Hamlin"
-longitude = -97.466776
 latitude = 44.590094
+longitude = -97.466776
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57221"
+

@@ -1,6 +1,8 @@
-zip_code = "13080"
-state = "NY"
 city = "Jordan"
 county = "Onondaga"
-longitude = -76.439657
 latitude = 43.067413
+longitude = -76.439657
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13080"
+

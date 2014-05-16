@@ -1,6 +1,8 @@
-zip_code = "75656"
-state = "TX"
 city = "Hughes Springs"
 county = "Cass"
-longitude = -94.599193
 latitude = 32.953226
+longitude = -94.599193
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75656"
+

@@ -1,6 +1,8 @@
-zip_code = "45033"
-state = "OH"
 city = "Hooven"
 county = "Hamilton"
-longitude = -84.762731
 latitude = 39.177259
+longitude = -84.762731
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45033"
+

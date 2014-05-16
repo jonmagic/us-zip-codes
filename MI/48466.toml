@@ -1,6 +1,8 @@
-zip_code = "48466"
-state = "MI"
 city = "Peck"
 county = "Sanilac"
-longitude = -82.807228
 latitude = 43.274949
+longitude = -82.807228
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48466"
+

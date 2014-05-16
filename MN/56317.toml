@@ -1,6 +1,8 @@
-zip_code = "56317"
-state = "MN"
 city = "Buckman"
 county = "Morrison"
-longitude = -94.208731
 latitude = 46.061307
+longitude = -94.208731
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56317"
+

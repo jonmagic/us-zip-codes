@@ -1,6 +1,8 @@
-zip_code = "44260"
-state = "OH"
 city = "Mogadore"
 county = "Summit"
-longitude = -81.404982
 latitude = 41.026954
+longitude = -81.404982
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44260"
+

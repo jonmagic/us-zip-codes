@@ -1,6 +1,8 @@
-zip_code = "45882"
-state = "OH"
 city = "Rockford"
 county = "Mercer"
-longitude = -84.657861
 latitude = 40.669681
+longitude = -84.657861
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45882"
+

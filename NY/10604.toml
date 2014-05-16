@@ -1,6 +1,8 @@
-zip_code = "10604"
-state = "NY"
 city = "West Harrison"
 county = "Westchester"
-longitude = -73.805176
 latitude = 41.156215
+longitude = -73.805176
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10604"
+

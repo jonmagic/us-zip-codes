@@ -1,6 +1,8 @@
-zip_code = "80736"
-state = "CO"
 city = "Iliff"
 county = "Logan"
-longitude = -102.960098
 latitude = 40.784483
+longitude = -102.960098
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80736"
+

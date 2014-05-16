@@ -1,6 +1,8 @@
-zip_code = "38010"
-state = "TN"
 city = "Braden"
 county = "Fayette"
-longitude = -89.48802
 latitude = 35.288624
+longitude = -89.48802
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38010"
+

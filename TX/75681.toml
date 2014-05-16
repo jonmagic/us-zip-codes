@@ -1,6 +1,8 @@
-zip_code = "75681"
-state = "TX"
 city = "Mount Enterprise"
 county = "Rusk"
-longitude = -94.687331
 latitude = 31.966905
+longitude = -94.687331
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75681"
+

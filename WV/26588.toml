@@ -1,6 +1,8 @@
-zip_code = "26588"
-state = "WV"
 city = "Rivesville"
 county = "Marion"
-longitude = -80.127883
 latitude = 39.535089
+longitude = -80.127883
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26588"
+

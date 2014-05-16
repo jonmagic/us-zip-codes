@@ -1,6 +1,8 @@
-zip_code = "27213"
-state = "NC"
 city = "Bonlee"
 county = "Chatham"
-longitude = -79.414859
 latitude = 35.648194
+longitude = -79.414859
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27213"
+

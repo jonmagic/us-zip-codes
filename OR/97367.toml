@@ -1,6 +1,8 @@
-zip_code = "97367"
-state = "OR"
 city = "Lincoln City"
 county = "Lincoln"
-longitude = -123.98885
 latitude = 44.908891
+longitude = -123.98885
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97367"
+

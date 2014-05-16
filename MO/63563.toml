@@ -1,6 +1,8 @@
-zip_code = "63563"
-state = "MO"
 city = "Rutledge"
 county = "Scotland"
-longitude = -92.085363
 latitude = 40.306854
+longitude = -92.085363
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63563"
+

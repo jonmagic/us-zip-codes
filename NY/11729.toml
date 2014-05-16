@@ -1,6 +1,8 @@
-zip_code = "11729"
-state = "NY"
 city = "Deer Park"
 county = "Suffolk"
-longitude = -73.323061
 latitude = 40.762574
+longitude = -73.323061
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11729"
+

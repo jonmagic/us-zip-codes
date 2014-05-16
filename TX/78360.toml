@@ -1,6 +1,8 @@
-zip_code = "78360"
-state = "TX"
 city = "Guerra"
 county = "Jim Hogg"
-longitude = -98.686327
 latitude = 27.071318
+longitude = -98.686327
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78360"
+

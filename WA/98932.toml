@@ -1,6 +1,8 @@
-zip_code = "98932"
-state = "WA"
 city = "Granger"
 county = "Yakima"
-longitude = -120.15493
 latitude = 46.340157
+longitude = -120.15493
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98932"
+

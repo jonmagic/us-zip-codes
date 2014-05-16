@@ -1,6 +1,8 @@
-zip_code = "40868"
-state = "KY"
 city = "Stinnett"
 county = "Leslie"
-longitude = -83.419745
 latitude = 37.08308
+longitude = -83.419745
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40868"
+

@@ -1,6 +1,8 @@
-zip_code = "68418"
-state = "NE"
 city = "Palmyra"
 county = "Otoe"
-longitude = -96.397545
 latitude = 40.705559
+longitude = -96.397545
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68418"
+

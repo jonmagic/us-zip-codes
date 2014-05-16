@@ -1,6 +1,8 @@
-zip_code = "45684"
-state = "OH"
 city = "Stout"
 county = "Scioto"
-longitude = -83.102804
 latitude = 38.783492
+longitude = -83.102804
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45684"
+

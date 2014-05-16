@@ -1,6 +1,8 @@
-zip_code = "31753"
-state = "GA"
 city = "Funston"
 county = "Colquitt"
-longitude = -83.877554
 latitude = 31.205365
+longitude = -83.877554
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31753"
+

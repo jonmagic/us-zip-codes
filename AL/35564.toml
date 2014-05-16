@@ -1,6 +1,8 @@
-zip_code = "35564"
-state = "AL"
 city = "Hackleburg"
 county = "Marion"
-longitude = -87.828236
 latitude = 34.122514
+longitude = -87.828236
+state = ""
+state_code_alpha2 = ""
+zip_code = "35564"
+

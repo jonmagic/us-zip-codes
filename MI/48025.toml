@@ -1,6 +1,8 @@
-zip_code = "48025"
-state = "MI"
 city = "Franklin"
 county = "Oakland"
-longitude = -83.264031
 latitude = 42.520184
+longitude = -83.264031
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48025"
+

@@ -1,6 +1,8 @@
-zip_code = "85614"
-state = "AZ"
 city = "Green Valley"
 county = "Pima"
-longitude = -110.955483
 latitude = 31.838223
+longitude = -110.955483
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85614"
+

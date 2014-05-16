@@ -1,6 +1,8 @@
-zip_code = "97384"
-state = "OR"
 city = "Mehama"
 county = "Marion"
-longitude = -122.618719
 latitude = 44.790267
+longitude = -122.618719
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97384"
+

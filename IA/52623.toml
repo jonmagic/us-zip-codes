@@ -1,6 +1,8 @@
-zip_code = "52623"
-state = "IA"
 city = "Danville"
 county = "Des Moines"
-longitude = -91.307634
 latitude = 40.866863
+longitude = -91.307634
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52623"
+

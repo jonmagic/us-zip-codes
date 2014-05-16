@@ -1,6 +1,8 @@
-zip_code = "44077"
-state = "OH"
 city = "Painesville"
 county = "Lake"
-longitude = -81.19903
 latitude = 41.707918
+longitude = -81.19903
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44077"
+

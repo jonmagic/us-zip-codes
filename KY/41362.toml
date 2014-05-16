@@ -1,6 +1,8 @@
-zip_code = "41362"
-state = "KY"
 city = "Primrose"
 county = "Lee"
-longitude = -83.713974
 latitude = 37.60332
+longitude = -83.713974
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41362"
+

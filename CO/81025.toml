@@ -1,6 +1,8 @@
-zip_code = "81025"
-state = "CO"
 city = "Boone"
 county = "Pueblo"
-longitude = -104.209119
 latitude = 38.319575
+longitude = -104.209119
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81025"
+

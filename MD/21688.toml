@@ -1,6 +1,8 @@
-zip_code = "21688"
-state = "MD"
 city = "Ridgely"
 county = "Caroline"
-longitude = -75.861191
 latitude = 38.88927
+longitude = -75.861191
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21688"
+

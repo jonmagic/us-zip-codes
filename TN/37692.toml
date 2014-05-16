@@ -1,6 +1,8 @@
-zip_code = "37692"
-state = "TN"
 city = "Unicoi"
 county = "Unicoi"
-longitude = -82.316667
 latitude = 36.201952
+longitude = -82.316667
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37692"
+

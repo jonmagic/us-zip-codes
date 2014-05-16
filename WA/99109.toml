@@ -1,6 +1,8 @@
-zip_code = "99109"
-state = "WA"
 city = "Chewelah"
 county = "Stevens"
-longitude = -117.739245
 latitude = 48.293181
+longitude = -117.739245
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99109"
+

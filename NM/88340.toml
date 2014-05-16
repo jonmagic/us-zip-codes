@@ -1,6 +1,8 @@
-zip_code = "88340"
-state = "NM"
 city = "Mescalero"
 county = "Otero"
-longitude = -105.803067
 latitude = 33.154212
+longitude = -105.803067
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88340"
+

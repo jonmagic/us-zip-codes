@@ -1,6 +1,8 @@
-zip_code = "42642"
-state = "KY"
 city = "Russell Springs"
 county = "Russell"
-longitude = -85.069717
 latitude = 37.019307
+longitude = -85.069717
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42642"
+

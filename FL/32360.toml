@@ -1,6 +1,8 @@
-zip_code = "32360"
-state = "FL"
 city = "Telogia"
 county = "Liberty"
-longitude = -84.848444
 latitude = 30.288896
+longitude = -84.848444
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32360"
+

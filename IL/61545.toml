@@ -1,6 +1,8 @@
-zip_code = "61545"
-state = "IL"
 city = "Lowpoint"
 county = "Woodford"
-longitude = -89.370304
 latitude = 40.879257
+longitude = -89.370304
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61545"
+

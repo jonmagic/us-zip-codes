@@ -1,6 +1,8 @@
-zip_code = "52142"
-state = "IA"
 city = "Fayette"
 county = "Fayette"
-longitude = -91.8084
 latitude = 42.885443
+longitude = -91.8084
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52142"
+

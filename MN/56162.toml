@@ -1,6 +1,8 @@
-zip_code = "56162"
-state = "MN"
 city = "Ormsby"
 county = "Martin"
-longitude = -94.663493
 latitude = 43.826503
+longitude = -94.663493
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56162"
+

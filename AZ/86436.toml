@@ -1,6 +1,8 @@
-zip_code = "86436"
-state = "AZ"
 city = "Topock"
 county = "Mohave"
-longitude = -114.482571
 latitude = 34.779071
+longitude = -114.482571
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86436"
+

@@ -1,6 +1,8 @@
-zip_code = "99347"
-state = "WA"
 city = "Pomeroy"
 county = "Garfield"
-longitude = -117.537763
 latitude = 46.475341
+longitude = -117.537763
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99347"
+

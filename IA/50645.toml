@@ -1,6 +1,8 @@
-zip_code = "50645"
-state = "IA"
 city = "Ionia"
 county = "Chickasaw"
-longitude = -92.445706
 latitude = 43.052822
+longitude = -92.445706
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50645"
+

@@ -1,6 +1,8 @@
-zip_code = "44618"
-state = "OH"
 city = "Dalton"
 county = "Wayne"
-longitude = -81.76092
 latitude = 40.757197
+longitude = -81.76092
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44618"
+

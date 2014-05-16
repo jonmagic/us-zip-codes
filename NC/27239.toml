@@ -1,6 +1,8 @@
-zip_code = "27239"
-state = "NC"
 city = "Denton"
 county = "Davidson"
-longitude = -80.144554
 latitude = 35.608108
+longitude = -80.144554
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27239"
+

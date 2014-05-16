@@ -1,6 +1,8 @@
-zip_code = "12850"
-state = "NY"
 city = "Middle Grove"
 county = "Saratoga"
-longitude = -73.983737
 latitude = 43.185956
+longitude = -73.983737
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12850"
+

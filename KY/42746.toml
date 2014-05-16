@@ -1,6 +1,8 @@
-zip_code = "42746"
-state = "KY"
 city = "Hardyville"
 county = "Hart"
-longitude = -85.772032
 latitude = 37.216477
+longitude = -85.772032
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42746"
+

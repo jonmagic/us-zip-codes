@@ -1,6 +1,8 @@
-zip_code = "36702"
-state = "AL"
 city = "Selma"
 county = "Dallas"
-longitude = -87.124708
 latitude = 32.419259
+longitude = -87.124708
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36702"
+

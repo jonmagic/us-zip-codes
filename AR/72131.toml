@@ -1,6 +1,8 @@
-zip_code = "72131"
-state = "AR"
 city = "Quitman"
 county = "Cleburne"
-longitude = -92.151804
 latitude = 35.449492
+longitude = -92.151804
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72131"
+

@@ -1,6 +1,8 @@
-zip_code = "22472"
-state = "VA"
 city = "Haynesville"
 county = "Richmond"
-longitude = -76.636722
 latitude = 37.950511
+longitude = -76.636722
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22472"
+

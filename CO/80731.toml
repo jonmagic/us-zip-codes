@@ -1,6 +1,8 @@
-zip_code = "80731"
-state = "CO"
 city = "Haxtun"
 county = "Phillips"
-longitude = -102.523842
 latitude = 40.601383
+longitude = -102.523842
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80731"
+

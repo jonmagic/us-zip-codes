@@ -1,6 +1,8 @@
-zip_code = "24551"
-state = "VA"
 city = "Forest"
 county = "Bedford"
-longitude = -79.318718
 latitude = 37.372437
+longitude = -79.318718
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24551"
+

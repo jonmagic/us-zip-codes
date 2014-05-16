@@ -1,6 +1,8 @@
-zip_code = "15673"
-state = "PA"
 city = "North Apollo"
 county = "Armstrong"
-longitude = -79.558098
 latitude = 40.593035
+longitude = -79.558098
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15673"
+

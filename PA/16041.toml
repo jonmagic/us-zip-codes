@@ -1,6 +1,8 @@
-zip_code = "16041"
-state = "PA"
 city = "Karns City"
 county = "Butler"
-longitude = -79.766612
 latitude = 41.005368
+longitude = -79.766612
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16041"
+

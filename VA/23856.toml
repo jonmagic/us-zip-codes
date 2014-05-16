@@ -1,6 +1,8 @@
-zip_code = "23856"
-state = "VA"
 city = "Freeman"
 county = "Brunswick"
-longitude = -77.720027
 latitude = 36.808949
+longitude = -77.720027
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23856"
+

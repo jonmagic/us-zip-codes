@@ -1,6 +1,8 @@
-zip_code = "13026"
-state = "NY"
 city = "Aurora"
 county = "Cayuga"
-longitude = -76.646007
 latitude = 42.755979
+longitude = -76.646007
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13026"
+

@@ -1,6 +1,8 @@
-zip_code = "75489"
-state = "TX"
 city = "Tom Bean"
 county = "Grayson"
-longitude = -96.483563
 latitude = 33.529674
+longitude = -96.483563
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75489"
+

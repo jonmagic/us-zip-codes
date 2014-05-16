@@ -1,6 +1,8 @@
-zip_code = "31503"
-state = "GA"
 city = "Waycross"
 county = "Ware"
-longitude = -82.376595
 latitude = 31.193229
+longitude = -82.376595
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31503"
+

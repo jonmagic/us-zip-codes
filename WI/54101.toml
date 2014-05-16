@@ -1,6 +1,8 @@
-zip_code = "54101"
-state = "WI"
 city = "Abrams"
 county = "Oconto"
-longitude = -88.044067
 latitude = 44.792284
+longitude = -88.044067
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54101"
+

@@ -1,6 +1,8 @@
-zip_code = "48430"
-state = "MI"
 city = "Fenton"
 county = "Genesee"
-longitude = -83.763433
 latitude = 42.83333
+longitude = -83.763433
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48430"
+

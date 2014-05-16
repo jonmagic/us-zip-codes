@@ -1,6 +1,8 @@
-zip_code = "42288"
-state = "KY"
 city = "Woodbury"
 county = "Butler"
-longitude = -86.67216
 latitude = 37.197491
+longitude = -86.67216
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42288"
+

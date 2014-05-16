@@ -1,6 +1,8 @@
-zip_code = "02575"
-state = "MA"
 city = "West Tisbury"
 county = "Dukes"
-longitude = -70.642806
 latitude = 41.42125
+longitude = -70.642806
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02575"
+

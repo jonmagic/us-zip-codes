@@ -1,6 +1,8 @@
-zip_code = "77613"
-state = "TX"
 city = "China"
 county = "Jefferson"
-longitude = -94.197989
 latitude = 30.025795
+longitude = -94.197989
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77613"
+

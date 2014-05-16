@@ -1,6 +1,8 @@
-zip_code = "37317"
-state = "TN"
 city = "Copperhill"
 county = "Polk"
-longitude = -84.374828
 latitude = 35.020673
+longitude = -84.374828
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37317"
+

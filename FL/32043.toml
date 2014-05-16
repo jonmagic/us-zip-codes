@@ -1,6 +1,8 @@
-zip_code = "32043"
-state = "FL"
 city = "Green Cove Springs"
 county = "Clay"
-longitude = -81.76468
 latitude = 29.998318
+longitude = -81.76468
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32043"
+

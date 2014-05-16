@@ -1,6 +1,8 @@
-zip_code = "84654"
-state = "UT"
 city = "Salina"
 county = "Sevier"
-longitude = -111.908156
 latitude = 38.921403
+longitude = -111.908156
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84654"
+

@@ -1,6 +1,8 @@
-zip_code = "55360"
-state = "MN"
 city = "Mayer"
 county = "Carver"
-longitude = -93.913561
 latitude = 44.905962
+longitude = -93.913561
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55360"
+

@@ -1,6 +1,8 @@
-zip_code = "38826"
-state = "MS"
 city = "Belden"
 county = "Lee"
-longitude = -88.745933
 latitude = 34.269844
+longitude = -88.745933
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38826"
+

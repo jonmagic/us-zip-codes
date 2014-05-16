@@ -1,6 +1,8 @@
-zip_code = "20188"
-state = "VA"
 city = "Warrenton"
 county = "Fauquier"
-longitude = -77.820293
 latitude = 38.765619
+longitude = -77.820293
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20188"
+

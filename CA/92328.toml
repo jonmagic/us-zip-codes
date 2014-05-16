@@ -1,6 +1,8 @@
-zip_code = "92328"
-state = "CA"
 city = "Death Valley"
 county = "Inyo"
-longitude = -117.144513
 latitude = 36.235817
+longitude = -117.144513
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92328"
+

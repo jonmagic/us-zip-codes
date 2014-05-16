@@ -1,6 +1,8 @@
-zip_code = "84651"
-state = "UT"
 city = "Payson"
 county = "Utah"
-longitude = -111.723974
 latitude = 40.032911
+longitude = -111.723974
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84651"
+

@@ -1,6 +1,8 @@
-zip_code = "75762"
-state = "TX"
 city = "Flint"
 county = "Smith"
-longitude = -95.390166
 latitude = 32.226635
+longitude = -95.390166
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75762"
+

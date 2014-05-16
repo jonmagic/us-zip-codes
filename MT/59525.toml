@@ -1,6 +1,8 @@
-zip_code = "59525"
-state = "MT"
 city = "Gildford"
 county = "Hill"
-longitude = -110.301301
 latitude = 48.571498
+longitude = -110.301301
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59525"
+

@@ -1,6 +1,8 @@
-zip_code = "51601"
-state = "IA"
 city = "Shenandoah"
 county = "Page"
-longitude = -95.16372
 latitude = 40.718258
+longitude = -95.16372
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51601"
+

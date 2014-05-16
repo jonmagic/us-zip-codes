@@ -1,6 +1,8 @@
-zip_code = "35594"
-state = "AL"
 city = "Winfield"
 county = "Marion"
-longitude = -87.814078
 latitude = 34.062
+longitude = -87.814078
+state = ""
+state_code_alpha2 = ""
+zip_code = "35594"
+

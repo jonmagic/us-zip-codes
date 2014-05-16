@@ -1,6 +1,8 @@
-zip_code = "65440"
-state = "MO"
 city = "Boss"
 county = "Dent"
-longitude = -91.652493
 latitude = 37.612779
+longitude = -91.652493
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65440"
+

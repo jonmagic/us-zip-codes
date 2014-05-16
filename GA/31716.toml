@@ -1,6 +1,8 @@
-zip_code = "31716"
-state = "GA"
 city = "Baconton"
 county = "Mitchell"
-longitude = -84.100301
 latitude = 31.358861
+longitude = -84.100301
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31716"
+

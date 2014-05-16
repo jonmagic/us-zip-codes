@@ -1,6 +1,8 @@
-zip_code = "67058"
-state = "KS"
 city = "Harper"
 county = "Harper"
-longitude = -98.038455
 latitude = 37.291318
+longitude = -98.038455
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67058"
+

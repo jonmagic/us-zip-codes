@@ -1,6 +1,8 @@
-zip_code = "12769"
-state = "NY"
 city = "Phillipsport"
 county = "Sullivan"
-longitude = -74.436159
 latitude = 41.651453
+longitude = -74.436159
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12769"
+

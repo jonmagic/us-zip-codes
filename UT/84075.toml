@@ -1,6 +1,8 @@
-zip_code = "84075"
-state = "UT"
 city = "Syracuse"
 county = "Davis"
-longitude = -112.079415
 latitude = 41.096293
+longitude = -112.079415
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84075"
+

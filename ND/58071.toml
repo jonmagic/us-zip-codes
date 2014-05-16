@@ -1,6 +1,8 @@
-zip_code = "58071"
-state = "ND"
 city = "Tower City"
 county = "Cass"
-longitude = -97.626101
 latitude = 46.949236
+longitude = -97.626101
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58071"
+

@@ -1,6 +1,8 @@
-zip_code = "14469"
-state = "NY"
 city = "Bloomfield"
 county = "Ontario"
-longitude = -77.465843
 latitude = 42.869556
+longitude = -77.465843
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14469"
+

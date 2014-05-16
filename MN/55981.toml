@@ -1,6 +1,8 @@
-zip_code = "55981"
-state = "MN"
 city = "Wabasha"
 county = "Wabasha"
-longitude = -92.087925
 latitude = 44.3579
+longitude = -92.087925
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55981"
+

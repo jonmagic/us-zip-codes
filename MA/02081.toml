@@ -1,6 +1,8 @@
-zip_code = "02081"
-state = "MA"
 city = "Walpole"
 county = "Norfolk"
-longitude = -71.255533
 latitude = 42.148624
+longitude = -71.255533
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02081"
+

@@ -1,6 +1,8 @@
-zip_code = "79520"
-state = "TX"
 city = "Hamlin"
 county = "Jones"
-longitude = -99.967329
 latitude = 32.817535
+longitude = -99.967329
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79520"
+

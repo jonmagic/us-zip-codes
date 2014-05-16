@@ -1,6 +1,8 @@
-zip_code = "81141"
-state = "CO"
 city = "Manassa"
 county = "Conejos"
-longitude = -105.927841
 latitude = 37.175463
+longitude = -105.927841
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81141"
+

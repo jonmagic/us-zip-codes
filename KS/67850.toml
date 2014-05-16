@@ -1,6 +1,8 @@
-zip_code = "67850"
-state = "KS"
 city = "Healy"
 county = "Lane"
-longitude = -100.600786
 latitude = 38.578991
+longitude = -100.600786
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67850"
+

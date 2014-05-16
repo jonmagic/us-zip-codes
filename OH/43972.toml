@@ -1,6 +1,8 @@
-zip_code = "43972"
-state = "OH"
 city = "Bannock"
 county = "Belmont"
-longitude = -80.975639
 latitude = 40.103155
+longitude = -80.975639
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43972"
+

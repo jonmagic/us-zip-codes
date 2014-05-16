@@ -1,6 +1,8 @@
-zip_code = "95646"
-state = "CA"
 city = "Kirkwood"
 county = "Alpine"
-longitude = -120.285021
 latitude = 38.575433
+longitude = -120.285021
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95646"
+

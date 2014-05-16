@@ -1,6 +1,8 @@
-zip_code = "47369"
-state = "IN"
 city = "Pennville"
 county = "Jay"
-longitude = -85.133813
 latitude = 40.457413
+longitude = -85.133813
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47369"
+

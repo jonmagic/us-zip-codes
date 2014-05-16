@@ -1,6 +1,8 @@
-zip_code = "56273"
-state = "MN"
 city = "New London"
 county = "Kandiyohi"
-longitude = -95.049378
 latitude = 45.167597
+longitude = -95.049378
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56273"
+

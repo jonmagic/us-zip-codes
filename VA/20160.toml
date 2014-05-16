@@ -1,6 +1,8 @@
-zip_code = "20160"
-state = "VA"
 city = "Lincoln"
 county = "Loudoun"
-longitude = -77.688338
 latitude = 39.098479
+longitude = -77.688338
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20160"
+

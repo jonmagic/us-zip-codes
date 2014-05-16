@@ -1,6 +1,8 @@
-zip_code = "80830"
-state = "CO"
 city = "Matheson"
 county = "Elbert"
-longitude = -103.900144
 latitude = 39.114381
+longitude = -103.900144
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80830"
+

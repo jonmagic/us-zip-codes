@@ -1,6 +1,8 @@
-zip_code = "99344"
-state = "WA"
 city = "Othello"
 county = "Adams"
-longitude = -118.993182
 latitude = 46.852708
+longitude = -118.993182
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99344"
+

@@ -1,6 +1,8 @@
-zip_code = "61037"
-state = "IL"
 city = "Galt"
 county = "Whiteside"
-longitude = -89.761042
 latitude = 41.786534
+longitude = -89.761042
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61037"
+

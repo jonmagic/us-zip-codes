@@ -1,6 +1,8 @@
-zip_code = "72736"
-state = "AR"
 city = "Gravette"
 county = "Benton"
-longitude = -94.471388
 latitude = 36.381245
+longitude = -94.471388
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72736"
+

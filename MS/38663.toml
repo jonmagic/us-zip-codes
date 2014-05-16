@@ -1,6 +1,8 @@
-zip_code = "38663"
-state = "MS"
 city = "Ripley"
 county = "Tippah"
-longitude = -88.903624
 latitude = 34.722961
+longitude = -88.903624
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38663"
+

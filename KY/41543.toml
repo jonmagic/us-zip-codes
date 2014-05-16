@@ -1,6 +1,8 @@
-zip_code = "41543"
-state = "KY"
 city = "Mc Andrews"
 county = "Pike"
-longitude = -82.280348
 latitude = 37.562421
+longitude = -82.280348
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41543"
+

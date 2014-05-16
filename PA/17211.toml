@@ -1,6 +1,8 @@
-zip_code = "17211"
-state = "PA"
 city = "Artemas"
 county = "Bedford"
-longitude = -78.406388
 latitude = 39.755155
+longitude = -78.406388
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17211"
+

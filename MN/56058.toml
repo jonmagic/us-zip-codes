@@ -1,6 +1,8 @@
-zip_code = "56058"
-state = "MN"
 city = "Le Sueur"
 county = "Le Sueur"
-longitude = -93.903348
 latitude = 44.390864
+longitude = -93.903348
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56058"
+

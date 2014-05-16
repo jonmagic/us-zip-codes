@@ -1,6 +1,8 @@
-zip_code = "84652"
-state = "UT"
 city = "Redmond"
 county = "Sevier"
-longitude = -111.975313
 latitude = 38.906498
+longitude = -111.975313
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84652"
+

@@ -1,6 +1,8 @@
-zip_code = "95225"
-state = "CA"
 city = "Burson"
 county = "Calaveras"
-longitude = -120.910251
 latitude = 38.191258
+longitude = -120.910251
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95225"
+

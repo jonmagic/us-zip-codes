@@ -1,6 +1,8 @@
-zip_code = "41616"
-state = "KY"
 city = "David"
 county = "Floyd"
-longitude = -82.870801
 latitude = 37.576668
+longitude = -82.870801
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41616"
+

@@ -1,6 +1,8 @@
-zip_code = "37167"
-state = "TN"
 city = "Smyrna"
 county = "Rutherford"
-longitude = -86.45336
 latitude = 35.856167
+longitude = -86.45336
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37167"
+

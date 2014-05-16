@@ -1,6 +1,8 @@
-zip_code = "52164"
-state = "IA"
 city = "Randalia"
 county = "Fayette"
-longitude = -91.896581
 latitude = 42.846576
+longitude = -91.896581
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52164"
+

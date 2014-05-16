@@ -1,6 +1,8 @@
-zip_code = "04294"
-state = "ME"
 city = "Wilton"
 county = "Franklin"
-longitude = -70.245935
 latitude = 44.618873
+longitude = -70.245935
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04294"
+

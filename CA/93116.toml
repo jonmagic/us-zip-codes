@@ -1,6 +1,8 @@
-zip_code = "93116"
-state = "CA"
 city = "Goleta"
 county = "Santa Barbara"
-longitude = -119.848555
 latitude = 34.262834
+longitude = -119.848555
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93116"
+

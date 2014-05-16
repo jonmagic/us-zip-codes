@@ -1,6 +1,8 @@
-zip_code = "01985"
-state = "MA"
 city = "West Newbury"
 county = "Essex"
-longitude = -70.971068
 latitude = 42.79414
+longitude = -70.971068
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01985"
+

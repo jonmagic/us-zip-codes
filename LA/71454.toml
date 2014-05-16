@@ -1,6 +1,8 @@
-zip_code = "71454"
-state = "LA"
 city = "Montgomery"
 county = "Grant"
-longitude = -92.660865
 latitude = 31.671495
+longitude = -92.660865
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71454"
+

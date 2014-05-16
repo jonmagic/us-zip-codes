@@ -1,6 +1,8 @@
-zip_code = "65791"
-state = "MO"
 city = "Thayer"
 county = "Oregon"
-longitude = -91.548742
 latitude = 36.526267
+longitude = -91.548742
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65791"
+

@@ -1,6 +1,8 @@
-zip_code = "97911"
-state = "OR"
 city = "Juntura"
 county = "Malheur"
-longitude = -118.036522
 latitude = 43.820762
+longitude = -118.036522
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97911"
+

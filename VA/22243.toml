@@ -1,6 +1,8 @@
-zip_code = "22243"
-state = "VA"
 city = "Arlington"
 county = "Arlington"
-longitude = -77.051569
 latitude = 38.86045
+longitude = -77.051569
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22243"
+

@@ -1,6 +1,8 @@
-zip_code = "23079"
-state = "VA"
 city = "Jamaica"
 county = "Middlesex"
-longitude = -76.446001
 latitude = 37.644319
+longitude = -76.446001
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23079"
+

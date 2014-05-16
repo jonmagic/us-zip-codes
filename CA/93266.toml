@@ -1,6 +1,8 @@
-zip_code = "93266"
-state = "CA"
 city = "Stratford"
 county = "Kings"
-longitude = -119.851865
 latitude = 36.189441
+longitude = -119.851865
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93266"
+

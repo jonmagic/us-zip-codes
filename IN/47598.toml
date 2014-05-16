@@ -1,6 +1,8 @@
-zip_code = "47598"
-state = "IN"
 city = "Winslow"
 county = "Pike"
-longitude = -87.211093
 latitude = 38.372926
+longitude = -87.211093
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47598"
+

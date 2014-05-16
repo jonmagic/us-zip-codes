@@ -1,6 +1,8 @@
-zip_code = "20606"
-state = "MD"
 city = "Abell"
 county = "Saint Marys"
-longitude = -76.748088
 latitude = 38.247149
+longitude = -76.748088
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20606"
+

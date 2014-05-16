@@ -1,6 +1,8 @@
-zip_code = "59635"
-state = "MT"
 city = "East Helena"
 county = "Lewis And Clark"
-longitude = -111.852594
 latitude = 46.633769
+longitude = -111.852594
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59635"
+

@@ -1,6 +1,8 @@
-zip_code = "68352"
-state = "NE"
 city = "Fairbury"
 county = "Jefferson"
-longitude = -97.171023
 latitude = 40.175641
+longitude = -97.171023
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68352"
+

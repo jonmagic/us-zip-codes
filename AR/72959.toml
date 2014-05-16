@@ -1,6 +1,8 @@
-zip_code = "72959"
-state = "AR"
 city = "Winslow"
 county = "Washington"
-longitude = -94.106004
 latitude = 35.862402
+longitude = -94.106004
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72959"
+

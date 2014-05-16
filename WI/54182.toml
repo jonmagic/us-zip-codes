@@ -1,6 +1,8 @@
-zip_code = "54182"
-state = "WI"
 city = "Zachow"
 county = "Shawano"
-longitude = -88.369842
 latitude = 44.731453
+longitude = -88.369842
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54182"
+

@@ -1,6 +1,8 @@
-zip_code = "65714"
-state = "MO"
 city = "Nixa"
 county = "Christian"
-longitude = -93.237749
 latitude = 36.961768
+longitude = -93.237749
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65714"
+

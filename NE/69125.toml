@@ -1,6 +1,8 @@
-zip_code = "69125"
-state = "NE"
 city = "Broadwater"
 county = "Morrill"
-longitude = -102.852752
 latitude = 41.598622
+longitude = -102.852752
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69125"
+

@@ -1,6 +1,8 @@
-zip_code = "28779"
-state = "NC"
 city = "Sylva"
 county = "Jackson"
-longitude = -83.187963
 latitude = 35.275674
+longitude = -83.187963
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28779"
+

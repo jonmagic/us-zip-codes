@@ -1,6 +1,8 @@
-zip_code = "78938"
-state = "TX"
 city = "Ellinger"
 county = "Fayette"
-longitude = -96.685111
 latitude = 29.854599
+longitude = -96.685111
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78938"
+

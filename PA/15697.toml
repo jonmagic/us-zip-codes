@@ -1,6 +1,8 @@
-zip_code = "15697"
-state = "PA"
 city = "Youngwood"
 county = "Westmoreland"
-longitude = -79.505889
 latitude = 40.240536
+longitude = -79.505889
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15697"
+

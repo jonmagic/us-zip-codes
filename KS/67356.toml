@@ -1,6 +1,8 @@
-zip_code = "67356"
-state = "KS"
 city = "Oswego"
 county = "Labette"
-longitude = -95.242611
 latitude = 37.18919
+longitude = -95.242611
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67356"
+

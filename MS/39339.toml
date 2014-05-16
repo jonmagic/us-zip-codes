@@ -1,6 +1,8 @@
-zip_code = "39339"
-state = "MS"
 city = "Louisville"
 county = "Winston"
-longitude = -89.068098
 latitude = 33.101687
+longitude = -89.068098
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39339"
+

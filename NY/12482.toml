@@ -1,6 +1,8 @@
-zip_code = "12482"
-state = "NY"
 city = "South Cairo"
 county = "Greene"
-longitude = -73.986354
 latitude = 42.267617
+longitude = -73.986354
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12482"
+

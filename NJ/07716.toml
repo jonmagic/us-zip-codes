@@ -1,6 +1,8 @@
-zip_code = "07716"
-state = "NJ"
 city = "Atlantic Highlands"
 county = "Monmouth"
-longitude = -74.05617
 latitude = 40.404762
+longitude = -74.05617
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07716"
+

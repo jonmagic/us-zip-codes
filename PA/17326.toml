@@ -1,6 +1,8 @@
-zip_code = "17326"
-state = "PA"
 city = "Gettysburg"
 county = "Adams"
-longitude = -77.213493
 latitude = 39.8948
+longitude = -77.213493
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17326"
+

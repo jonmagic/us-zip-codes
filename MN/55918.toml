@@ -1,6 +1,8 @@
-zip_code = "55918"
-state = "MN"
 city = "Brownsdale"
 county = "Mower"
-longitude = -92.866996
 latitude = 43.746834
+longitude = -92.866996
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55918"
+

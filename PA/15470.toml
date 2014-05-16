@@ -1,6 +1,8 @@
-zip_code = "15470"
-state = "PA"
 city = "Ohiopyle"
 county = "Fayette"
-longitude = -79.523004
 latitude = 39.850675
+longitude = -79.523004
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15470"
+

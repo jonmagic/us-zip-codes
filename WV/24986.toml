@@ -1,6 +1,8 @@
-zip_code = "24986"
-state = "WV"
 city = "White Sulphur Springs"
 county = "Greenbrier"
-longitude = -80.312877
 latitude = 37.782726
+longitude = -80.312877
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24986"
+

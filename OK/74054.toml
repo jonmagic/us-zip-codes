@@ -1,6 +1,8 @@
-zip_code = "74054"
-state = "OK"
 city = "Osage"
 county = "Osage"
-longitude = -96.341334
 latitude = 36.265311
+longitude = -96.341334
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74054"
+

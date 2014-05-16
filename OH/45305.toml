@@ -1,6 +1,8 @@
-zip_code = "45305"
-state = "OH"
 city = "Bellbrook"
 county = "Greene"
-longitude = -84.049985
 latitude = 39.632829
+longitude = -84.049985
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45305"
+

@@ -1,6 +1,8 @@
-zip_code = "23467"
-state = "VA"
 city = "Virginia Beach"
 county = "Virginia Beach City"
-longitude = -76.012628
 latitude = 36.795669
+longitude = -76.012628
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23467"
+

@@ -1,6 +1,8 @@
-zip_code = "50135"
-state = "IA"
 city = "Kellogg"
 county = "Jasper"
-longitude = -93.023296
 latitude = 41.706656
+longitude = -93.023296
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50135"
+

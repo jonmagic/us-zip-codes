@@ -1,6 +1,8 @@
-zip_code = "59716"
-state = "MT"
 city = "Big Sky"
 county = "Gallatin"
-longitude = -111.270773
 latitude = 45.27826
+longitude = -111.270773
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59716"
+

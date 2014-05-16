@@ -1,6 +1,8 @@
-zip_code = "96732"
-state = "HI"
 city = "Kahului"
 county = "Maui"
-longitude = -156.259166
 latitude = 20.859244
+longitude = -156.259166
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96732"
+

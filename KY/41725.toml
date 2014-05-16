@@ -1,6 +1,8 @@
-zip_code = "41725"
-state = "KY"
 city = "Carrie"
 county = "Knott"
-longitude = -83.068963
 latitude = 37.318236
+longitude = -83.068963
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41725"
+

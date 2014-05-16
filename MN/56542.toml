@@ -1,6 +1,8 @@
-zip_code = "56542"
-state = "MN"
 city = "Fosston"
 county = "Polk"
-longitude = -96.270444
 latitude = 47.597727
+longitude = -96.270444
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56542"
+

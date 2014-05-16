@@ -1,6 +1,8 @@
-zip_code = "03580"
-state = "NH"
 city = "Franconia"
 county = "Grafton"
-longitude = -71.737162
 latitude = 44.212814
+longitude = -71.737162
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03580"
+

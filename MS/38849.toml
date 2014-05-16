@@ -1,6 +1,8 @@
-zip_code = "38849"
-state = "MS"
 city = "Guntown"
 county = "Lee"
-longitude = -88.665975
 latitude = 34.421084
+longitude = -88.665975
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38849"
+

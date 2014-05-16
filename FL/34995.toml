@@ -1,6 +1,8 @@
-zip_code = "34995"
-state = "FL"
 city = "Stuart"
 county = "Martin"
-longitude = -80.241512
 latitude = 27.17537
+longitude = -80.241512
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34995"
+

@@ -1,6 +1,8 @@
-zip_code = "38570"
-state = "TN"
 city = "Livingston"
 county = "Overton"
-longitude = -85.329392
 latitude = 36.38519
+longitude = -85.329392
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38570"
+

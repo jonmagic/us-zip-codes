@@ -1,6 +1,8 @@
-zip_code = "97140"
-state = "OR"
 city = "Sherwood"
 county = "Washington"
-longitude = -122.874613
 latitude = 45.371478
+longitude = -122.874613
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97140"
+

@@ -1,6 +1,8 @@
-zip_code = "22740"
-state = "VA"
 city = "Sperryville"
 county = "Rappahannock"
-longitude = -78.227578
 latitude = 38.612785
+longitude = -78.227578
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22740"
+

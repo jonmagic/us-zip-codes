@@ -1,6 +1,8 @@
-zip_code = "22622"
-state = "VA"
 city = "Brucetown"
 county = "Frederick"
-longitude = -78.066373
 latitude = 39.2543
+longitude = -78.066373
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22622"
+

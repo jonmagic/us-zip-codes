@@ -1,6 +1,8 @@
-zip_code = "71284"
-state = "LA"
 city = "Tallulah"
 county = "Madison"
-longitude = -91.216458
 latitude = 32.341594
+longitude = -91.216458
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71284"
+

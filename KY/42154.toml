@@ -1,6 +1,8 @@
-zip_code = "42154"
-state = "KY"
 city = "Knob Lick"
 county = "Metcalfe"
-longitude = -85.698474
 latitude = 37.055613
+longitude = -85.698474
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42154"
+

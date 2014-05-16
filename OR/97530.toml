@@ -1,6 +1,8 @@
-zip_code = "97530"
-state = "OR"
 city = "Jacksonville"
 county = "Jackson"
-longitude = -123.0241
 latitude = 42.181333
+longitude = -123.0241
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97530"
+

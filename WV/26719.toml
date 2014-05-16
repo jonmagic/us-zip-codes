@@ -1,6 +1,8 @@
-zip_code = "26719"
-state = "WV"
 city = "Fort Ashby"
 county = "Mineral"
-longitude = -78.744739
 latitude = 39.500536
+longitude = -78.744739
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26719"
+

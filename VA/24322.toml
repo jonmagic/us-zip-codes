@@ -1,6 +1,8 @@
-zip_code = "24322"
-state = "VA"
 city = "Cripple Creek"
 county = "Wythe"
-longitude = -81.111146
 latitude = 36.81781
+longitude = -81.111146
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24322"
+

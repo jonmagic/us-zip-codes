@@ -1,6 +1,8 @@
-zip_code = "38866"
-state = "MS"
 city = "Saltillo"
 county = "Lee"
-longitude = -88.667209
 latitude = 34.304376
+longitude = -88.667209
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38866"
+

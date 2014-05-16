@@ -1,6 +1,8 @@
-zip_code = "56548"
-state = "MN"
 city = "Halstad"
 county = "Norman"
-longitude = -96.82368
 latitude = 47.350668
+longitude = -96.82368
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56548"
+

@@ -1,6 +1,8 @@
-zip_code = "13502"
-state = "NY"
 city = "Utica"
 county = "Oneida"
-longitude = -75.192786
 latitude = 43.150119
+longitude = -75.192786
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13502"
+

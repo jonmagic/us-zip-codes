@@ -1,6 +1,8 @@
-zip_code = "22456"
-state = "VA"
 city = "Edwardsville"
 county = "Northumberland"
-longitude = -76.40511
 latitude = 37.852316
+longitude = -76.40511
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22456"
+

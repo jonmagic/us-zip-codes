@@ -1,6 +1,8 @@
-zip_code = "48858"
-state = "MI"
 city = "Mount Pleasant"
 county = "Isabella"
-longitude = -84.807511
 latitude = 43.636855
+longitude = -84.807511
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48858"
+

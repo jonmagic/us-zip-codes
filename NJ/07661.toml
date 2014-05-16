@@ -1,6 +1,8 @@
-zip_code = "07661"
-state = "NJ"
 city = "River Edge"
 county = "Bergen"
-longitude = -74.038533
 latitude = 40.926248
+longitude = -74.038533
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07661"
+

@@ -1,6 +1,8 @@
-zip_code = "41839"
-state = "KY"
 city = "Mousie"
 county = "Knott"
-longitude = -82.885808
 latitude = 37.419099
+longitude = -82.885808
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41839"
+

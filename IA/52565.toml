@@ -1,6 +1,8 @@
-zip_code = "52565"
-state = "IA"
 city = "Keosauqua"
 county = "Van Buren"
-longitude = -91.853076
 latitude = 40.704158
+longitude = -91.853076
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52565"
+

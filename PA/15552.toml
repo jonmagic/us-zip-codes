@@ -1,6 +1,8 @@
-zip_code = "15552"
-state = "PA"
 city = "Meyersdale"
 county = "Somerset"
-longitude = -79.038599
 latitude = 39.875014
+longitude = -79.038599
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15552"
+

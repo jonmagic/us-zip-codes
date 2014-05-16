@@ -1,6 +1,8 @@
-zip_code = "30544"
-state = "GA"
 city = "Demorest"
 county = "Habersham"
-longitude = -83.562922
 latitude = 34.593092
+longitude = -83.562922
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30544"
+

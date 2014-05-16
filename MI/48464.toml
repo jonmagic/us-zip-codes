@@ -1,6 +1,8 @@
-zip_code = "48464"
-state = "MI"
 city = "Otter Lake"
 county = "Lapeer"
-longitude = -83.405752
 latitude = 43.211722
+longitude = -83.405752
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48464"
+

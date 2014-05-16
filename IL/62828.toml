@@ -1,6 +1,8 @@
-zip_code = "62828"
-state = "IL"
 city = "Dahlgren"
 county = "Hamilton"
-longitude = -88.629728
 latitude = 38.168641
+longitude = -88.629728
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62828"
+

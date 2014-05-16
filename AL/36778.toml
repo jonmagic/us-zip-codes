@@ -1,6 +1,8 @@
-zip_code = "36778"
-state = "AL"
 city = "Snow Hill"
 county = "Wilcox"
-longitude = -87.054284
 latitude = 32.01998
+longitude = -87.054284
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36778"
+

@@ -1,6 +1,8 @@
-zip_code = "12405"
-state = "NY"
 city = "Acra"
 county = "Greene"
-longitude = -74.065515
 latitude = 42.315975
+longitude = -74.065515
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12405"
+

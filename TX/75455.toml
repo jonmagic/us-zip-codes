@@ -1,6 +1,8 @@
-zip_code = "75455"
-state = "TX"
 city = "Mount Pleasant"
 county = "Titus"
-longitude = -94.984645
 latitude = 33.22101
+longitude = -94.984645
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75455"
+

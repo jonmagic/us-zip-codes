@@ -1,6 +1,8 @@
-zip_code = "54002"
-state = "WI"
 city = "Baldwin"
 county = "Saint Croix"
-longitude = -92.441061
 latitude = 44.969171
+longitude = -92.441061
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54002"
+

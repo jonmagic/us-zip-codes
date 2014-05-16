@@ -1,6 +1,8 @@
-zip_code = "62870"
-state = "IL"
 city = "Odin"
 county = "Marion"
-longitude = -88.946253
 latitude = 38.636324
+longitude = -88.946253
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62870"
+

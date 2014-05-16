@@ -1,6 +1,8 @@
-zip_code = "24431"
-state = "VA"
 city = "Crimora"
 county = "Augusta"
-longitude = -78.860085
 latitude = 38.153856
+longitude = -78.860085
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24431"
+

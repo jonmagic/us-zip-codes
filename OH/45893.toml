@@ -1,6 +1,8 @@
-zip_code = "45893"
-state = "OH"
 city = "Vaughnsville"
 county = "Putnam"
-longitude = -84.148028
 latitude = 40.882077
+longitude = -84.148028
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45893"
+

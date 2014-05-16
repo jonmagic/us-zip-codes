@@ -1,6 +1,8 @@
-zip_code = "25309"
-state = "WV"
 city = "Charleston"
 county = "Kanawha"
-longitude = -81.756808
 latitude = 38.310767
+longitude = -81.756808
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25309"
+

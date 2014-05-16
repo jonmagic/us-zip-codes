@@ -1,6 +1,8 @@
-zip_code = "38488"
-state = "TN"
 city = "Taft"
 county = "Lincoln"
-longitude = -86.717885
 latitude = 35.052581
+longitude = -86.717885
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38488"
+

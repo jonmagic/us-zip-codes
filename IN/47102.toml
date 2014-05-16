@@ -1,6 +1,8 @@
-zip_code = "47102"
-state = "IN"
 city = "Austin"
 county = "Scott"
-longitude = -85.750469
 latitude = 38.748455
+longitude = -85.750469
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47102"
+

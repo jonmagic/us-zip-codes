@@ -1,6 +1,8 @@
-zip_code = "78650"
-state = "TX"
 city = "Mc Dade"
 county = "Bastrop"
-longitude = -97.236741
 latitude = 30.272109
+longitude = -97.236741
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78650"
+

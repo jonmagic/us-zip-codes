@@ -1,6 +1,8 @@
-zip_code = "47443"
-state = "IN"
 city = "Lyons"
 county = "Greene"
-longitude = -87.102958
 latitude = 38.988255
+longitude = -87.102958
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47443"
+

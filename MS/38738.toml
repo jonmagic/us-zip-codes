@@ -1,6 +1,8 @@
-zip_code = "38738"
-state = "MS"
 city = "Parchman"
 county = "Sunflower"
-longitude = -90.607457
 latitude = 33.628715
+longitude = -90.607457
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38738"
+

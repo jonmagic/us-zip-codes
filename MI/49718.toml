@@ -1,6 +1,8 @@
-zip_code = "49718"
-state = "MI"
 city = "Carp Lake"
 county = "Emmet"
-longitude = -84.851386
 latitude = 45.59626
+longitude = -84.851386
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49718"
+

@@ -1,6 +1,8 @@
-zip_code = "28802"
-state = "NC"
 city = "Asheville"
 county = "Buncombe"
-longitude = -82.667132
 latitude = 35.623732
+longitude = -82.667132
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28802"
+

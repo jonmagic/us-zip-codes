@@ -1,6 +1,8 @@
-zip_code = "68377"
-state = "NE"
 city = "Jansen"
 county = "Jefferson"
-longitude = -97.028942
 latitude = 40.232006
+longitude = -97.028942
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68377"
+

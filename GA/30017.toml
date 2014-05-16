@@ -1,6 +1,8 @@
-zip_code = "30017"
-state = "GA"
 city = "Grayson"
 county = "Gwinnett"
-longitude = -84.040973
 latitude = 33.916922
+longitude = -84.040973
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30017"
+

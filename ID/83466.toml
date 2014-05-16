@@ -1,6 +1,8 @@
-zip_code = "83466"
-state = "ID"
 city = "North Fork"
 county = "Lemhi"
-longitude = -113.967272
 latitude = 45.612948
+longitude = -113.967272
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83466"
+

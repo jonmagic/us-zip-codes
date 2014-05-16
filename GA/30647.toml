@@ -1,6 +1,8 @@
-zip_code = "30647"
-state = "GA"
 city = "Ila"
 county = "Madison"
-longitude = -83.288117
 latitude = 34.120239
+longitude = -83.288117
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30647"
+

@@ -1,6 +1,8 @@
-zip_code = "40806"
-state = "KY"
 city = "Baxter"
 county = "Harlan"
-longitude = -83.304537
 latitude = 36.879484
+longitude = -83.304537
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40806"
+

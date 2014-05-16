@@ -1,6 +1,8 @@
-zip_code = "28159"
-state = "NC"
 city = "Spencer"
 county = "Rowan"
-longitude = -80.432679
 latitude = 35.691689
+longitude = -80.432679
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28159"
+

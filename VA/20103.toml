@@ -1,6 +1,8 @@
-zip_code = "20103"
-state = "VA"
 city = "Dulles"
 county = "Loudoun"
-longitude = -77.449952
 latitude = 38.996242
+longitude = -77.449952
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20103"
+

@@ -1,6 +1,8 @@
-zip_code = "45646"
-state = "OH"
 city = "Latham"
 county = "Pike"
-longitude = -83.312422
 latitude = 39.081031
+longitude = -83.312422
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45646"
+

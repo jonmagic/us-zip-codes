@@ -1,6 +1,8 @@
-zip_code = "61049"
-state = "IL"
 city = "Lindenwood"
 county = "Ogle"
-longitude = -89.004111
 latitude = 42.024619
+longitude = -89.004111
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61049"
+

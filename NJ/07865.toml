@@ -1,6 +1,8 @@
-zip_code = "07865"
-state = "NJ"
 city = "Port Murray"
 county = "Warren"
-longitude = -74.87427
 latitude = 40.810748
+longitude = -74.87427
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07865"
+

@@ -1,6 +1,8 @@
-zip_code = "75065"
-state = "TX"
 city = "Lake Dallas"
 county = "Denton"
-longitude = -97.008563
 latitude = 33.131089
+longitude = -97.008563
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75065"
+

@@ -1,6 +1,8 @@
-zip_code = "53812"
-state = "WI"
 city = "Kieler"
 county = "Grant"
-longitude = -90.791337
 latitude = 42.859325
+longitude = -90.791337
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53812"
+

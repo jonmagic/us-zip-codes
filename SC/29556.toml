@@ -1,6 +1,8 @@
-zip_code = "29556"
-state = "SC"
 city = "Kingstree"
 county = "Williamsburg"
-longitude = -79.837756
 latitude = 33.663869
+longitude = -79.837756
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29556"
+

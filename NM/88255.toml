@@ -1,6 +1,8 @@
-zip_code = "88255"
-state = "NM"
 city = "Loco Hills"
 county = "Eddy"
-longitude = -104.287257
 latitude = 32.482828
+longitude = -104.287257
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88255"
+

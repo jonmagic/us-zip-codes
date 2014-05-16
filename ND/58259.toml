@@ -1,6 +1,8 @@
-zip_code = "58259"
-state = "ND"
 city = "Michigan"
 county = "Nelson"
-longitude = -98.118574
 latitude = 48.020355
+longitude = -98.118574
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58259"
+

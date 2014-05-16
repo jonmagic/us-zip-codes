@@ -1,6 +1,8 @@
-zip_code = "07465"
-state = "NJ"
 city = "Wanaque"
 county = "Passaic"
-longitude = -74.297393
 latitude = 41.065596
+longitude = -74.297393
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07465"
+

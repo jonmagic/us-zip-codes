@@ -1,6 +1,8 @@
-zip_code = "45107"
-state = "OH"
 city = "Blanchester"
 county = "Clinton"
-longitude = -83.894217
 latitude = 39.40252
+longitude = -83.894217
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45107"
+

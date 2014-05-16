@@ -1,6 +1,8 @@
-zip_code = "26508"
-state = "WV"
 city = "Morgantown"
 county = "Monongalia"
-longitude = -79.922871
 latitude = 39.595329
+longitude = -79.922871
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26508"
+

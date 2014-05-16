@@ -1,6 +1,8 @@
-zip_code = "04011"
-state = "ME"
 city = "Brunswick"
 county = "Cumberland"
-longitude = -70.340652
 latitude = 43.935634
+longitude = -70.340652
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04011"
+

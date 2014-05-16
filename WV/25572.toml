@@ -1,6 +1,8 @@
-zip_code = "25572"
-state = "WV"
 city = "Woodville"
 county = "Lincoln"
-longitude = -81.901236
 latitude = 38.187456
+longitude = -81.901236
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25572"
+

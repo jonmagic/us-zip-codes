@@ -1,6 +1,8 @@
-zip_code = "56583"
-state = "MN"
 city = "Tintah"
 county = "Traverse"
-longitude = -96.359342
 latitude = 46.007415
+longitude = -96.359342
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56583"
+

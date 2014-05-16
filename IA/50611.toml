@@ -1,6 +1,8 @@
-zip_code = "50611"
-state = "IA"
 city = "Bristow"
 county = "Butler"
-longitude = -92.882596
 latitude = 42.811045
+longitude = -92.882596
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50611"
+

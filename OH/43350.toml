@@ -1,6 +1,8 @@
-zip_code = "43350"
-state = "OH"
 city = "Sparta"
 county = "Morrow"
-longitude = -82.82292
 latitude = 40.528862
+longitude = -82.82292
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43350"
+

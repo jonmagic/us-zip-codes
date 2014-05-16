@@ -1,6 +1,8 @@
-zip_code = "54463"
-state = "WI"
 city = "Pelican Lake"
 county = "Oneida"
-longitude = -89.236033
 latitude = 45.525897
+longitude = -89.236033
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54463"
+

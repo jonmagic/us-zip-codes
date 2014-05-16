@@ -1,6 +1,8 @@
-zip_code = "12092"
-state = "NY"
 city = "Howes Cave"
 county = "Schoharie"
-longitude = -74.349066
 latitude = 42.712176
+longitude = -74.349066
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12092"
+

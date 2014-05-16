@@ -1,6 +1,8 @@
-zip_code = "47150"
-state = "IN"
 city = "New Albany"
 county = "Floyd"
-longitude = -85.837911
 latitude = 38.293355
+longitude = -85.837911
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47150"
+

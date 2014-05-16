@@ -1,6 +1,8 @@
-zip_code = "47388"
-state = "IN"
 city = "Sulphur Springs"
 county = "Henry"
-longitude = -85.44341
 latitude = 40.005999
+longitude = -85.44341
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47388"
+

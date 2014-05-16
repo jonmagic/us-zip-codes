@@ -1,6 +1,8 @@
-zip_code = "05260"
-state = "VT"
 city = "North Pownal"
 county = "Bennington"
-longitude = -73.262496
 latitude = 42.829469
+longitude = -73.262496
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05260"
+

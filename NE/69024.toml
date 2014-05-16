@@ -1,6 +1,8 @@
-zip_code = "69024"
-state = "NE"
 city = "Culbertson"
 county = "Hitchcock"
-longitude = -100.835774
 latitude = 40.231495
+longitude = -100.835774
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69024"
+

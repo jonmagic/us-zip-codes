@@ -1,6 +1,8 @@
-zip_code = "58346"
-state = "ND"
 city = "Leeds"
 county = "Benson"
-longitude = -99.432466
 latitude = 48.165312
+longitude = -99.432466
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58346"
+

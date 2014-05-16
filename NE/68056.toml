@@ -1,6 +1,8 @@
-zip_code = "68056"
-state = "NE"
 city = "St Columbans"
 county = "Sarpy"
-longitude = -96.090546
 latitude = 41.092703
+longitude = -96.090546
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68056"
+

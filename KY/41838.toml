@@ -1,6 +1,8 @@
-zip_code = "41838"
-state = "KY"
 city = "Millstone"
 county = "Letcher"
-longitude = -82.751669
 latitude = 37.176559
+longitude = -82.751669
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41838"
+

@@ -1,6 +1,8 @@
-zip_code = "75848"
-state = "TX"
 city = "Kirvin"
 county = "Freestone"
-longitude = -96.280967
 latitude = 31.847652
+longitude = -96.280967
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75848"
+

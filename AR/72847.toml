@@ -1,6 +1,8 @@
-zip_code = "72847"
-state = "AR"
 city = "London"
 county = "Pope"
-longitude = -93.244365
 latitude = 35.368118
+longitude = -93.244365
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72847"
+

@@ -1,6 +1,8 @@
-zip_code = "30229"
-state = "GA"
 city = "Haralson"
 county = "Coweta"
-longitude = -84.56854
 latitude = 33.232156
+longitude = -84.56854
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30229"
+

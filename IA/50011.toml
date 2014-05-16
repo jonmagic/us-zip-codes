@@ -1,6 +1,8 @@
-zip_code = "50011"
-state = "IA"
 city = "Ames"
 county = "Story"
-longitude = -93.465172
 latitude = 42.035998
+longitude = -93.465172
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50011"
+

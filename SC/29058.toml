@@ -1,6 +1,8 @@
-zip_code = "29058"
-state = "SC"
 city = "Heath Springs"
 county = "Lancaster"
-longitude = -80.718482
 latitude = 34.588803
+longitude = -80.718482
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29058"
+

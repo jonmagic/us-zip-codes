@@ -1,6 +1,8 @@
-zip_code = "19507"
-state = "PA"
 city = "Bethel"
 county = "Berks"
-longitude = -76.269231
 latitude = 40.491214
+longitude = -76.269231
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19507"
+

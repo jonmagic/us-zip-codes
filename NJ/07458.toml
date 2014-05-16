@@ -1,6 +1,8 @@
-zip_code = "07458"
-state = "NJ"
 city = "Saddle River"
 county = "Bergen"
-longitude = -74.098093
 latitude = 41.044324
+longitude = -74.098093
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07458"
+

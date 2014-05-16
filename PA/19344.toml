@@ -1,6 +1,8 @@
-zip_code = "19344"
-state = "PA"
 city = "Honey Brook"
 county = "Chester"
-longitude = -75.867533
 latitude = 40.089561
+longitude = -75.867533
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19344"
+

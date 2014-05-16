@@ -1,6 +1,8 @@
-zip_code = "75493"
-state = "TX"
 city = "Winfield"
 county = "Titus"
-longitude = -95.109
 latitude = 33.166579
+longitude = -95.109
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75493"
+

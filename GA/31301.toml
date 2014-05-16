@@ -1,6 +1,8 @@
-zip_code = "31301"
-state = "GA"
 city = "Allenhurst"
 county = "Liberty"
-longitude = -81.60385
 latitude = 31.779116
+longitude = -81.60385
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31301"
+

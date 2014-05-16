@@ -1,6 +1,8 @@
-zip_code = "20685"
-state = "MD"
 city = "Saint Leonard"
 county = "Calvert"
-longitude = -76.51736
 latitude = 38.440484
+longitude = -76.51736
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20685"
+

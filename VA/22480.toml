@@ -1,6 +1,8 @@
-zip_code = "22480"
-state = "VA"
 city = "Irvington"
 county = "Lancaster"
-longitude = -76.404996
 latitude = 37.667319
+longitude = -76.404996
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22480"
+

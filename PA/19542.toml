@@ -1,6 +1,8 @@
-zip_code = "19542"
-state = "PA"
 city = "Monocacy Station"
 county = "Berks"
-longitude = -75.768437
 latitude = 40.260992
+longitude = -75.768437
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19542"
+

@@ -1,6 +1,8 @@
-zip_code = "62568"
-state = "IL"
 city = "Taylorville"
 county = "Christian"
-longitude = -89.34063
 latitude = 39.559092
+longitude = -89.34063
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62568"
+

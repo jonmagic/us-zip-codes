@@ -1,6 +1,8 @@
-zip_code = "78054"
-state = "TX"
 city = "Macdona"
 county = "Bexar"
-longitude = -98.732187
 latitude = 29.325602
+longitude = -98.732187
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78054"
+

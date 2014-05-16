@@ -1,6 +1,8 @@
-zip_code = "75166"
-state = "TX"
 city = "Lavon"
 county = "Collin"
-longitude = -96.437656
 latitude = 33.013879
+longitude = -96.437656
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75166"
+

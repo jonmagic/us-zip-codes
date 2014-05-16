@@ -1,6 +1,8 @@
-zip_code = "95843"
-state = "CA"
 city = "Antelope"
 county = "Sacramento"
-longitude = -121.366613
 latitude = 38.716091
+longitude = -121.366613
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95843"
+

@@ -1,6 +1,8 @@
-zip_code = "06093"
-state = "CT"
 city = "West Suffield"
 county = "Hartford"
-longitude = -72.727337
 latitude = 42.005795
+longitude = -72.727337
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06093"
+

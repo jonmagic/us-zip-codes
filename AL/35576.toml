@@ -1,6 +1,8 @@
-zip_code = "35576"
-state = "AL"
 city = "Millport"
 county = "Lamar"
-longitude = -88.131425
 latitude = 33.606342
+longitude = -88.131425
+state = ""
+state_code_alpha2 = ""
+zip_code = "35576"
+

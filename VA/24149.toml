@@ -1,6 +1,8 @@
-zip_code = "24149"
-state = "VA"
 city = "Riner"
 county = "Montgomery"
-longitude = -80.436385
 latitude = 37.057894
+longitude = -80.436385
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24149"
+

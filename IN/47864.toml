@@ -1,6 +1,8 @@
-zip_code = "47864"
-state = "IN"
 city = "New Lebanon"
 county = "Sullivan"
-longitude = -87.475747
 latitude = 39.041245
+longitude = -87.475747
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47864"
+

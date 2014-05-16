@@ -1,6 +1,8 @@
-zip_code = "60913"
-state = "IL"
 city = "Bonfield"
 county = "Kankakee"
-longitude = -88.053534
 latitude = 41.1388
+longitude = -88.053534
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60913"
+

@@ -1,6 +1,8 @@
-zip_code = "43719"
-state = "OH"
 city = "Bethesda"
 county = "Belmont"
-longitude = -81.065991
 latitude = 39.996312
+longitude = -81.065991
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43719"
+

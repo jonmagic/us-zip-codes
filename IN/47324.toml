@@ -1,6 +1,8 @@
-zip_code = "47324"
-state = "IN"
 city = "Boston"
 county = "Wayne"
-longitude = -84.848442
 latitude = 39.757864
+longitude = -84.848442
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47324"
+

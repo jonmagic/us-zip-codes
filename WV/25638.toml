@@ -1,6 +1,8 @@
-zip_code = "25638"
-state = "WV"
 city = "Omar"
 county = "Logan"
-longitude = -82.003139
 latitude = 37.741593
+longitude = -82.003139
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25638"
+

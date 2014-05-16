@@ -1,6 +1,8 @@
-zip_code = "01519"
-state = "MA"
 city = "Grafton"
 county = "Worcester"
-longitude = -71.682862
 latitude = 42.203944
+longitude = -71.682862
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01519"
+

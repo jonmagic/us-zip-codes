@@ -1,6 +1,8 @@
-zip_code = "13777"
-state = "NY"
 city = "Glen Aubrey"
 county = "Broome"
-longitude = -75.989275
 latitude = 42.244157
+longitude = -75.989275
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13777"
+

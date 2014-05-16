@@ -1,6 +1,8 @@
-zip_code = "25856"
-state = "WV"
 city = "Jonben"
 county = "Raleigh"
-longitude = -81.190628
 latitude = 37.647885
+longitude = -81.190628
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25856"
+

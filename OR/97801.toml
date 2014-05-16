@@ -1,6 +1,8 @@
-zip_code = "97801"
-state = "OR"
 city = "Pendleton"
 county = "Umatilla"
-longitude = -118.637974
 latitude = 45.711814
+longitude = -118.637974
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97801"
+

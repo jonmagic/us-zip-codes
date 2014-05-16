@@ -1,6 +1,8 @@
-zip_code = "74849"
-state = "OK"
 city = "Konawa"
 county = "Seminole"
-longitude = -96.750209
 latitude = 34.957481
+longitude = -96.750209
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74849"
+

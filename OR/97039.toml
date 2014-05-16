@@ -1,6 +1,8 @@
-zip_code = "97039"
-state = "OR"
 city = "Moro"
 county = "Sherman"
-longitude = -120.684499
 latitude = 45.502564
+longitude = -120.684499
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97039"
+

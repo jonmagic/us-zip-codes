@@ -1,6 +1,8 @@
-zip_code = "93443"
-state = "CA"
 city = "Morro Bay"
 county = "San Luis Obispo"
-longitude = -120.455345
 latitude = 35.347065
+longitude = -120.455345
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93443"
+

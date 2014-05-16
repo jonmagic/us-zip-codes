@@ -1,6 +1,8 @@
-zip_code = "70462"
-state = "LA"
 city = "Springfield"
 county = "Livingston"
-longitude = -90.588723
 latitude = 30.387413
+longitude = -90.588723
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70462"
+

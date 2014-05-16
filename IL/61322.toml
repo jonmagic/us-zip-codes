@@ -1,6 +1,8 @@
-zip_code = "61322"
-state = "IL"
 city = "Depue"
 county = "Bureau"
-longitude = -89.325221
 latitude = 41.309194
+longitude = -89.325221
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61322"
+

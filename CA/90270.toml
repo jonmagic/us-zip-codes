@@ -1,6 +1,8 @@
-zip_code = "90270"
-state = "CA"
 city = "Maywood"
 county = "Los Angeles"
-longitude = -118.187376
 latitude = 33.988463
+longitude = -118.187376
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90270"
+

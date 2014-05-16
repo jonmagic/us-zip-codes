@@ -1,6 +1,8 @@
-zip_code = "75771"
-state = "TX"
 city = "Lindale"
 county = "Smith"
-longitude = -95.400598
 latitude = 32.506185
+longitude = -95.400598
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75771"
+

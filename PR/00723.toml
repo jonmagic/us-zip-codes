@@ -1,6 +1,8 @@
-zip_code = "00723"
-state = "PR"
 city = "Patillas"
 county = "Patillas"
-longitude = -66.010572
 latitude = 18.009994
+longitude = -66.010572
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00723"
+

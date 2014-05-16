@@ -1,6 +1,8 @@
-zip_code = "14477"
-state = "NY"
 city = "Kent"
 county = "Orleans"
-longitude = -78.123328
 latitude = 43.330763
+longitude = -78.123328
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14477"
+

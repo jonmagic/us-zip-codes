@@ -1,6 +1,8 @@
-zip_code = "64448"
-state = "MO"
 city = "Faucett"
 county = "Buchanan"
-longitude = -94.854124
 latitude = 39.604946
+longitude = -94.854124
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64448"
+

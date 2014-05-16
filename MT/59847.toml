@@ -1,6 +1,8 @@
-zip_code = "59847"
-state = "MT"
 city = "Lolo"
 county = "Missoula"
-longitude = -114.299241
 latitude = 46.7454
+longitude = -114.299241
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59847"
+

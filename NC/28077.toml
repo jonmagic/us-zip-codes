@@ -1,6 +1,8 @@
-zip_code = "28077"
-state = "NC"
 city = "High Shoals"
 county = "Gaston"
-longitude = -81.194174
 latitude = 35.404157
+longitude = -81.194174
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28077"
+

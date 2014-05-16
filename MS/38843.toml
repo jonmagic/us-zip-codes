@@ -1,6 +1,8 @@
-zip_code = "38843"
-state = "MS"
 city = "Fulton"
 county = "Itawamba"
-longitude = -88.355013
 latitude = 34.276489
+longitude = -88.355013
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38843"
+

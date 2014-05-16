@@ -1,6 +1,8 @@
-zip_code = "17742"
-state = "PA"
 city = "Lairdsville"
 county = "Lycoming"
-longitude = -76.594727
 latitude = 41.229734
+longitude = -76.594727
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17742"
+

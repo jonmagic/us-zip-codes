@@ -1,6 +1,8 @@
-zip_code = "85223"
-state = "AZ"
 city = "Arizona City"
 county = "Pinal"
-longitude = -111.603327
 latitude = 32.745169
+longitude = -111.603327
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85223"
+

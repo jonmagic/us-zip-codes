@@ -1,6 +1,8 @@
-zip_code = "38372"
-state = "TN"
 city = "Savannah"
 county = "Hardin"
-longitude = -88.179203
 latitude = 35.210571
+longitude = -88.179203
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38372"
+

@@ -1,6 +1,8 @@
-zip_code = "96773"
-state = "HI"
 city = "Ninole"
 county = "Hawaii"
-longitude = -155.166821
 latitude = 19.935047
+longitude = -155.166821
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96773"
+

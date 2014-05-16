@@ -1,6 +1,8 @@
-zip_code = "27907"
-state = "NC"
 city = "Elizabeth City"
 county = "Pasquotank"
-longitude = -76.255312
 latitude = 36.285026
+longitude = -76.255312
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27907"
+

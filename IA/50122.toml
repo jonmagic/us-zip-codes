@@ -1,6 +1,8 @@
-zip_code = "50122"
-state = "IA"
 city = "Hubbard"
 county = "Hardin"
-longitude = -93.329584
 latitude = 42.303338
+longitude = -93.329584
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50122"
+

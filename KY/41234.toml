@@ -1,6 +1,8 @@
-zip_code = "41234"
-state = "KY"
 city = "Meally"
 county = "Johnson"
-longitude = -82.741549
 latitude = 37.807776
+longitude = -82.741549
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41234"
+

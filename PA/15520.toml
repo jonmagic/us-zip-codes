@@ -1,6 +1,8 @@
-zip_code = "15520"
-state = "PA"
 city = "Acosta"
 county = "Somerset"
-longitude = -79.070218
 latitude = 40.113021
+longitude = -79.070218
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15520"
+

@@ -1,6 +1,8 @@
-zip_code = "48856"
-state = "MI"
 city = "Middleton"
 county = "Gratiot"
-longitude = -84.730738
 latitude = 43.197902
+longitude = -84.730738
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48856"
+

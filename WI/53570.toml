@@ -1,6 +1,8 @@
-zip_code = "53570"
-state = "WI"
 city = "Monticello"
 county = "Green"
-longitude = -89.621013
 latitude = 42.74305
+longitude = -89.621013
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53570"
+

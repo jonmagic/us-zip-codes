@@ -1,6 +1,8 @@
-zip_code = "60922"
-state = "IL"
 city = "Chebanse"
 county = "Iroquois"
-longitude = -87.951233
 latitude = 40.968795
+longitude = -87.951233
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60922"
+

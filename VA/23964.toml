@@ -1,6 +1,8 @@
-zip_code = "23964"
-state = "VA"
 city = "Red Oak"
 county = "Charlotte"
-longitude = -78.618595
 latitude = 36.783999
+longitude = -78.618595
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23964"
+

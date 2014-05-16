@@ -1,6 +1,8 @@
-zip_code = "97739"
-state = "OR"
 city = "La Pine"
 county = "Deschutes"
-longitude = -121.565187
 latitude = 43.692193
+longitude = -121.565187
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97739"
+

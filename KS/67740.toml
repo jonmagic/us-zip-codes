@@ -1,6 +1,8 @@
-zip_code = "67740"
-state = "KS"
 city = "Hoxie"
 county = "Sheridan"
-longitude = -100.440513
 latitude = 39.355013
+longitude = -100.440513
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67740"
+

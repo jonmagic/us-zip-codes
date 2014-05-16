@@ -1,6 +1,8 @@
-zip_code = "70380"
-state = "LA"
 city = "Morgan City"
 county = "Saint Mary"
-longitude = -91.265374
 latitude = 29.697653
+longitude = -91.265374
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70380"
+

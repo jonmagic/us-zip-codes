@@ -1,6 +1,8 @@
-zip_code = "21503"
-state = "MD"
 city = "Cumberland"
 county = "Allegany"
-longitude = -78.690593
 latitude = 39.580691
+longitude = -78.690593
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21503"
+

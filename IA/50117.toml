@@ -1,6 +1,8 @@
-zip_code = "50117"
-state = "IA"
 city = "Hamlin"
 county = "Audubon"
-longitude = -94.847093
 latitude = 41.746719
+longitude = -94.847093
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50117"
+

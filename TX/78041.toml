@@ -1,6 +1,8 @@
-zip_code = "78041"
-state = "TX"
 city = "Laredo"
 county = "Webb"
-longitude = -99.475079
 latitude = 27.556714
+longitude = -99.475079
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78041"
+

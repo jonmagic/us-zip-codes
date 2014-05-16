@@ -1,6 +1,8 @@
-zip_code = "62650"
-state = "IL"
 city = "Jacksonville"
 county = "Morgan"
-longitude = -90.301388
 latitude = 39.737044
+longitude = -90.301388
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62650"
+

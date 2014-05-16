@@ -1,6 +1,8 @@
-zip_code = "27965"
-state = "NC"
 city = "Poplar Branch"
 county = "Currituck"
-longitude = -75.909652
 latitude = 36.273673
+longitude = -75.909652
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27965"
+

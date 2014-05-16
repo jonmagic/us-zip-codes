@@ -1,6 +1,8 @@
-zip_code = "22015"
-state = "VA"
 city = "Burke"
 county = "Fairfax"
-longitude = -77.286156
 latitude = 38.785864
+longitude = -77.286156
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22015"
+

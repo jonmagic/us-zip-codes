@@ -1,6 +1,8 @@
-zip_code = "87901"
-state = "NM"
 city = "Truth Or Consequences"
 county = "Sierra"
-longitude = -107.266914
 latitude = 33.160602
+longitude = -107.266914
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87901"
+

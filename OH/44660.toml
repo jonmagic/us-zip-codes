@@ -1,6 +1,8 @@
-zip_code = "44660"
-state = "OH"
 city = "Mount Hope"
 county = "Holmes"
-longitude = -81.782532
 latitude = 40.622284
+longitude = -81.782532
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44660"
+

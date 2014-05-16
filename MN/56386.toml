@@ -1,6 +1,8 @@
-zip_code = "56386"
-state = "MN"
 city = "Wahkon"
 county = "Mille Lacs"
-longitude = -93.620235
 latitude = 45.989733
+longitude = -93.620235
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56386"
+

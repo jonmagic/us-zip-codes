@@ -1,6 +1,8 @@
-zip_code = "36879"
-state = "AL"
 city = "Waverly"
 county = "Lee"
-longitude = -85.565954
 latitude = 32.681539
+longitude = -85.565954
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36879"
+

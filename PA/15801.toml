@@ -1,6 +1,8 @@
-zip_code = "15801"
-state = "PA"
 city = "Du Bois"
 county = "Clearfield"
-longitude = -78.720302
 latitude = 41.118045
+longitude = -78.720302
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15801"
+

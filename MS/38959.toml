@@ -1,6 +1,8 @@
-zip_code = "38959"
-state = "MS"
 city = "Swiftown"
 county = "Leflore"
-longitude = -90.349601
 latitude = 33.380913
+longitude = -90.349601
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38959"
+

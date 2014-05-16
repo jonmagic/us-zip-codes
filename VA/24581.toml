@@ -1,6 +1,8 @@
-zip_code = "24581"
-state = "VA"
 city = "Norwood"
 county = "Nelson"
-longitude = -78.803767
 latitude = 37.640813
+longitude = -78.803767
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24581"
+

@@ -1,6 +1,8 @@
-zip_code = "67661"
-state = "KS"
 city = "Phillipsburg"
 county = "Phillips"
-longitude = -99.346302
 latitude = 39.779113
+longitude = -99.346302
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67661"
+

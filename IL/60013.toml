@@ -1,6 +1,8 @@
-zip_code = "60013"
-state = "IL"
 city = "Cary"
 county = "Mchenry"
-longitude = -88.250783
 latitude = 42.204626
+longitude = -88.250783
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60013"
+

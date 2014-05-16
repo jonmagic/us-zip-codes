@@ -1,6 +1,8 @@
-zip_code = "92660"
-state = "CA"
 city = "Newport Beach"
 county = "Orange"
-longitude = -117.875189
 latitude = 33.637771
+longitude = -117.875189
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92660"
+

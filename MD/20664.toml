@@ -1,6 +1,8 @@
-zip_code = "20664"
-state = "MD"
 city = "Newburg"
 county = "Charles"
-longitude = -76.917398
 latitude = 38.364718
+longitude = -76.917398
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20664"
+

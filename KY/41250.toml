@@ -1,6 +1,8 @@
-zip_code = "41250"
-state = "KY"
 city = "Pilgrim"
 county = "Martin"
-longitude = -82.492731
 latitude = 37.815648
+longitude = -82.492731
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41250"
+

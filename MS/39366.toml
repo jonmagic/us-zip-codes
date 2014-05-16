@@ -1,6 +1,8 @@
-zip_code = "39366"
-state = "MS"
 city = "Vossburg"
 county = "Jasper"
-longitude = -88.970738
 latitude = 31.950645
+longitude = -88.970738
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39366"
+

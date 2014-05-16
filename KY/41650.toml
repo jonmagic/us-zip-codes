@@ -1,6 +1,8 @@
-zip_code = "41650"
-state = "KY"
 city = "Melvin"
 county = "Floyd"
-longitude = -82.676257
 latitude = 37.353614
+longitude = -82.676257
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41650"
+

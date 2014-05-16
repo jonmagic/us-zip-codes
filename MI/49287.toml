@@ -1,6 +1,8 @@
-zip_code = "49287"
-state = "MI"
 city = "Tipton"
 county = "Lenawee"
-longitude = -84.064971
 latitude = 42.02172
+longitude = -84.064971
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49287"
+

@@ -1,6 +1,8 @@
-zip_code = "28139"
-state = "NC"
 city = "Rutherfordton"
 county = "Rutherford"
-longitude = -82.004874
 latitude = 35.339729
+longitude = -82.004874
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28139"
+

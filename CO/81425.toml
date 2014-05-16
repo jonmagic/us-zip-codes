@@ -1,6 +1,8 @@
-zip_code = "81425"
-state = "CO"
 city = "Olathe"
 county = "Montrose"
-longitude = -108.078623
 latitude = 38.497566
+longitude = -108.078623
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81425"
+

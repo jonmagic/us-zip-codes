@@ -1,6 +1,8 @@
-zip_code = "57523"
-state = "SD"
 city = "Burke"
 county = "Gregory"
-longitude = -99.293674
 latitude = 43.182547
+longitude = -99.293674
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57523"
+

@@ -1,6 +1,8 @@
-zip_code = "46076"
-state = "IN"
 city = "Windfall"
 county = "Tipton"
-longitude = -85.937642
 latitude = 40.348927
+longitude = -85.937642
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46076"
+

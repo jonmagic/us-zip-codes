@@ -1,6 +1,8 @@
-zip_code = "83435"
-state = "ID"
 city = "Monteview"
 county = "Jefferson"
-longitude = -112.447757
 latitude = 43.871293
+longitude = -112.447757
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83435"
+

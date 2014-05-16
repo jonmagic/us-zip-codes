@@ -1,6 +1,8 @@
-zip_code = "83119"
-state = "WY"
 city = "Fairview"
 county = "Lincoln"
-longitude = -111.014786
 latitude = 42.674643
+longitude = -111.014786
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83119"
+

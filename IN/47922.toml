@@ -1,6 +1,8 @@
-zip_code = "47922"
-state = "IN"
 city = "Brook"
 county = "Newton"
-longitude = -87.394076
 latitude = 40.883043
+longitude = -87.394076
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47922"
+

@@ -1,6 +1,8 @@
-zip_code = "15429"
-state = "PA"
 city = "Denbo"
 county = "Washington"
-longitude = -79.939234
 latitude = 40.008082
+longitude = -79.939234
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15429"
+

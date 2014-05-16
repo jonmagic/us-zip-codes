@@ -1,6 +1,8 @@
-zip_code = "39641"
-state = "MS"
 city = "Jayess"
 county = "Lawrence"
-longitude = -90.142429
 latitude = 31.409296
+longitude = -90.142429
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39641"
+

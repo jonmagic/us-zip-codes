@@ -1,6 +1,8 @@
-zip_code = "13325"
-state = "NY"
 city = "Constableville"
 county = "Lewis"
-longitude = -75.425289
 latitude = 43.56647
+longitude = -75.425289
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13325"
+

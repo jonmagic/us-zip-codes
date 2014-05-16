@@ -1,6 +1,8 @@
-zip_code = "00664"
-state = "PR"
 city = "Jayuya"
 county = "Jayuya"
-longitude = -66.598306
 latitude = 18.217606
+longitude = -66.598306
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00664"
+

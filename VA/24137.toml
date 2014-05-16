@@ -1,6 +1,8 @@
-zip_code = "24137"
-state = "VA"
 city = "Penhook"
 county = "Franklin"
-longitude = -79.682503
 latitude = 36.934169
+longitude = -79.682503
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24137"
+

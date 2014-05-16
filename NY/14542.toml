@@ -1,6 +1,8 @@
-zip_code = "14542"
-state = "NY"
 city = "Rose"
 county = "Wayne"
-longitude = -76.860779
 latitude = 43.144795
+longitude = -76.860779
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14542"
+

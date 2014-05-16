@@ -1,6 +1,8 @@
-zip_code = "43458"
-state = "OH"
 city = "Rocky Ridge"
 county = "Ottawa"
-longitude = -83.21276
 latitude = 41.530157
+longitude = -83.21276
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43458"
+

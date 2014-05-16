@@ -1,6 +1,8 @@
-zip_code = "34761"
-state = "FL"
 city = "Ocoee"
 county = "Orange"
-longitude = -81.530251
 latitude = 28.569438
+longitude = -81.530251
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34761"
+

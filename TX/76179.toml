@@ -1,6 +1,8 @@
-zip_code = "76179"
-state = "TX"
 city = "Fort Worth"
 county = "Tarrant"
-longitude = -97.425681
 latitude = 32.907394
+longitude = -97.425681
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76179"
+

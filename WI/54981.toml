@@ -1,6 +1,8 @@
-zip_code = "54981"
-state = "WI"
 city = "Waupaca"
 county = "Waupaca"
-longitude = -89.04668
 latitude = 44.429163
+longitude = -89.04668
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54981"
+

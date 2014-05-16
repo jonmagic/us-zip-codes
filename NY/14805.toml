@@ -1,6 +1,8 @@
-zip_code = "14805"
-state = "NY"
 city = "Alpine"
 county = "Schuyler"
-longitude = -76.732706
 latitude = 42.375566
+longitude = -76.732706
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14805"
+

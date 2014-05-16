@@ -1,6 +1,8 @@
-zip_code = "02801"
-state = "RI"
 city = "Adamsville"
 county = "Newport"
-longitude = -71.284066
 latitude = 41.530131
+longitude = -71.284066
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02801"
+

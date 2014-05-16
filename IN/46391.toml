@@ -1,6 +1,8 @@
-zip_code = "46391"
-state = "IN"
 city = "Westville"
 county = "La Porte"
-longitude = -86.742979
 latitude = 41.549933
+longitude = -86.742979
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46391"
+

@@ -1,6 +1,8 @@
-zip_code = "24184"
-state = "VA"
 city = "Wirtz"
 county = "Franklin"
-longitude = -79.799315
 latitude = 37.104127
+longitude = -79.799315
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24184"
+

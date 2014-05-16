@@ -1,6 +1,8 @@
-zip_code = "18373"
-state = "PA"
 city = "Unity House"
 county = "Pike"
-longitude = -75.024055
 latitude = 41.340936
+longitude = -75.024055
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18373"
+

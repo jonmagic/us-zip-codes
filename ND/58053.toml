@@ -1,6 +1,8 @@
-zip_code = "58053"
-state = "ND"
 city = "Lidgerwood"
 county = "Richland"
-longitude = -96.994919
 latitude = 46.191782
+longitude = -96.994919
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58053"
+

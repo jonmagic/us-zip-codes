@@ -1,6 +1,8 @@
-zip_code = "37014"
-state = "TN"
 city = "Arrington"
 county = "Williamson"
-longitude = -86.663307
 latitude = 35.856609
+longitude = -86.663307
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37014"
+

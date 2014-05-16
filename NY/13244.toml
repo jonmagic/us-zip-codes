@@ -1,6 +1,8 @@
-zip_code = "13244"
-state = "NY"
 city = "Syracuse"
 county = "Onondaga"
-longitude = -76.139646
 latitude = 43.037716
+longitude = -76.139646
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13244"
+

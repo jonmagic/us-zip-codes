@@ -1,6 +1,8 @@
-zip_code = "54137"
-state = "WI"
 city = "Krakow"
 county = "Shawano"
-longitude = -88.289822
 latitude = 44.755693
+longitude = -88.289822
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54137"
+

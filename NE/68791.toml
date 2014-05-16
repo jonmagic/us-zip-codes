@@ -1,6 +1,8 @@
-zip_code = "68791"
-state = "NE"
 city = "Wisner"
 county = "Cuming"
-longitude = -96.893932
 latitude = 41.960145
+longitude = -96.893932
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68791"
+

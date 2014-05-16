@@ -1,6 +1,8 @@
-zip_code = "41655"
-state = "KY"
 city = "Printer"
 county = "Floyd"
-longitude = -82.762194
 latitude = 37.568892
+longitude = -82.762194
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41655"
+

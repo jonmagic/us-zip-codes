@@ -1,6 +1,8 @@
-zip_code = "78374"
-state = "TX"
 city = "Portland"
 county = "San Patricio"
-longitude = -97.538993
 latitude = 27.979489
+longitude = -97.538993
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78374"
+

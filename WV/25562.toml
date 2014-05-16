@@ -1,6 +1,8 @@
-zip_code = "25562"
-state = "WV"
 city = "Shoals"
 county = "Wayne"
-longitude = -82.490494
 latitude = 38.343176
+longitude = -82.490494
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25562"
+

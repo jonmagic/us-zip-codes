@@ -1,6 +1,8 @@
-zip_code = "56096"
-state = "MN"
 city = "Waterville"
 county = "Le Sueur"
-longitude = -93.569726
 latitude = 44.324235
+longitude = -93.569726
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56096"
+

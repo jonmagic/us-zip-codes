@@ -1,6 +1,8 @@
-zip_code = "17744"
-state = "PA"
 city = "Linden"
 county = "Lycoming"
-longitude = -77.161674
 latitude = 41.251994
+longitude = -77.161674
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17744"
+

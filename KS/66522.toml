@@ -1,6 +1,8 @@
-zip_code = "66522"
-state = "KS"
 city = "Oneida"
 county = "Nemaha"
-longitude = -95.93919
 latitude = 39.865912
+longitude = -95.93919
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66522"
+

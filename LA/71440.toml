@@ -1,6 +1,8 @@
-zip_code = "71440"
-state = "LA"
 city = "Joyce"
 county = "Winn"
-longitude = -92.565884
 latitude = 31.951166
+longitude = -92.565884
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71440"
+

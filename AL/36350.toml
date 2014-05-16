@@ -1,6 +1,8 @@
-zip_code = "36350"
-state = "AL"
 city = "Midland City"
 county = "Dale"
-longitude = -85.511331
 latitude = 31.33494
+longitude = -85.511331
+state = ""
+state_code_alpha2 = ""
+zip_code = "36350"
+

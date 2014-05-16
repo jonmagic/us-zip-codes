@@ -1,6 +1,8 @@
-zip_code = "29426"
-state = "SC"
 city = "Adams Run"
 county = "Charleston"
-longitude = -80.328772
 latitude = 32.779028
+longitude = -80.328772
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29426"
+

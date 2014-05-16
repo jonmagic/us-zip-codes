@@ -1,6 +1,8 @@
-zip_code = "38483"
-state = "TN"
 city = "Summertown"
 county = "Lawrence"
-longitude = -87.399717
 latitude = 35.239335
+longitude = -87.399717
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38483"
+

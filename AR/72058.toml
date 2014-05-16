@@ -1,6 +1,8 @@
-zip_code = "72058"
-state = "AR"
 city = "Greenbrier"
 county = "Faulkner"
-longitude = -92.376242
 latitude = 35.211744
+longitude = -92.376242
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72058"
+

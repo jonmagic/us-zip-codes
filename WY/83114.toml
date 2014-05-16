@@ -1,6 +1,8 @@
-zip_code = "83114"
-state = "WY"
 city = "Cokeville"
 county = "Lincoln"
-longitude = -110.941119
 latitude = 42.247455
+longitude = -110.941119
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83114"
+

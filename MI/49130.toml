@@ -1,6 +1,8 @@
-zip_code = "49130"
-state = "MI"
 city = "Union"
 county = "Cass"
-longitude = -85.866011
 latitude = 41.800617
+longitude = -85.866011
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49130"
+

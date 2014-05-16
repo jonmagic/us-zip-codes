@@ -1,6 +1,8 @@
-zip_code = "12451"
-state = "NY"
 city = "Leeds"
 county = "Greene"
-longitude = -73.930812
 latitude = 42.304064
+longitude = -73.930812
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12451"
+

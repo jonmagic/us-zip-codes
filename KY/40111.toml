@@ -1,6 +1,8 @@
-zip_code = "40111"
-state = "KY"
 city = "Cloverport"
 county = "Breckinridge"
-longitude = -86.463591
 latitude = 37.847839
+longitude = -86.463591
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40111"
+

@@ -1,6 +1,8 @@
-zip_code = "61025"
-state = "IL"
 city = "East Dubuque"
 county = "Jo Daviess"
-longitude = -90.540556
 latitude = 42.46626
+longitude = -90.540556
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61025"
+

@@ -1,6 +1,8 @@
-zip_code = "45362"
-state = "OH"
 city = "Rossburg"
 county = "Darke"
-longitude = -84.637078
 latitude = 40.287621
+longitude = -84.637078
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45362"
+

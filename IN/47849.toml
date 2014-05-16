@@ -1,6 +1,8 @@
-zip_code = "47849"
-state = "IN"
 city = "Fairbanks"
 county = "Sullivan"
-longitude = -87.547036
 latitude = 39.190101
+longitude = -87.547036
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47849"
+

@@ -1,6 +1,8 @@
-zip_code = "72854"
-state = "AR"
 city = "Ozone"
 county = "Johnson"
-longitude = -93.445104
 latitude = 35.634994
+longitude = -93.445104
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72854"
+

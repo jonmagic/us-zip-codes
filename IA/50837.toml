@@ -1,6 +1,8 @@
-zip_code = "50837"
-state = "IA"
 city = "Bridgewater"
 county = "Adair"
-longitude = -94.666868
 latitude = 41.258885
+longitude = -94.666868
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50837"
+

@@ -1,6 +1,8 @@
-zip_code = "46051"
-state = "IN"
 city = "Lapel"
 county = "Madison"
-longitude = -85.834429
 latitude = 40.05956
+longitude = -85.834429
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46051"
+

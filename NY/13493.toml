@@ -1,6 +1,8 @@
-zip_code = "13493"
-state = "NY"
 city = "Williamstown"
 county = "Oswego"
-longitude = -75.880041
 latitude = 43.427301
+longitude = -75.880041
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13493"
+

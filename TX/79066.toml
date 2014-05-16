@@ -1,6 +1,8 @@
-zip_code = "79066"
-state = "TX"
 city = "Pampa"
 county = "Gray"
-longitude = -100.956013
 latitude = 35.533384
+longitude = -100.956013
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79066"
+

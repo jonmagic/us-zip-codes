@@ -1,6 +1,8 @@
-zip_code = "95322"
-state = "CA"
 city = "Gustine"
 county = "Merced"
-longitude = -120.987196
 latitude = 37.150438
+longitude = -120.987196
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95322"
+

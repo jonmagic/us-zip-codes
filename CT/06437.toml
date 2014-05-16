@@ -1,6 +1,8 @@
-zip_code = "06437"
-state = "CT"
 city = "Guilford"
 county = "New Haven"
-longitude = -72.690089
 latitude = 41.338847
+longitude = -72.690089
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06437"
+

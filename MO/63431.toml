@@ -1,6 +1,8 @@
-zip_code = "63431"
-state = "MO"
 city = "Anabel"
 county = "Macon"
-longitude = -92.327977
 latitude = 39.742779
+longitude = -92.327977
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63431"
+

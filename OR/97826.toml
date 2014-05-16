@@ -1,6 +1,8 @@
-zip_code = "97826"
-state = "OR"
 city = "Echo"
 county = "Umatilla"
-longitude = -119.198798
 latitude = 45.692754
+longitude = -119.198798
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97826"
+

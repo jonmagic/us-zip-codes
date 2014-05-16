@@ -1,6 +1,8 @@
-zip_code = "96796"
-state = "HI"
 city = "Waimea"
 county = "Kauai"
-longitude = -159.686193
 latitude = 21.966709
+longitude = -159.686193
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96796"
+

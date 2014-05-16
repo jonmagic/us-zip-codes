@@ -1,6 +1,8 @@
-zip_code = "74027"
-state = "OK"
 city = "Delaware"
 county = "Nowata"
-longitude = -95.641981
 latitude = 36.777208
+longitude = -95.641981
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74027"
+

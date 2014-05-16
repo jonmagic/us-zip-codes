@@ -1,6 +1,8 @@
-zip_code = "46984"
-state = "IN"
 city = "Somerset"
 county = "Wabash"
-longitude = -85.828846
 latitude = 40.671369
+longitude = -85.828846
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46984"
+

@@ -1,6 +1,8 @@
-zip_code = "38761"
-state = "MS"
 city = "Moorhead"
 county = "Sunflower"
-longitude = -90.506817
 latitude = 33.443386
+longitude = -90.506817
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38761"
+

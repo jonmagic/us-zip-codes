@@ -1,6 +1,8 @@
-zip_code = "30619"
-state = "GA"
 city = "Arnoldsville"
 county = "Oglethorpe"
-longitude = -83.222254
 latitude = 33.888662
+longitude = -83.222254
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30619"
+

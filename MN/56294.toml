@@ -1,6 +1,8 @@
-zip_code = "56294"
-state = "MN"
 city = "Wanda"
 county = "Redwood"
-longitude = -95.211785
 latitude = 44.32978
+longitude = -95.211785
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56294"
+

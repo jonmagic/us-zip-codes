@@ -1,6 +1,8 @@
-zip_code = "39069"
-state = "MS"
 city = "Fayette"
 county = "Jefferson"
-longitude = -91.056503
 latitude = 31.731988
+longitude = -91.056503
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39069"
+

@@ -1,6 +1,8 @@
-zip_code = "14462"
-state = "NY"
 city = "Groveland"
 county = "Livingston"
-longitude = -77.754628
 latitude = 42.694819
+longitude = -77.754628
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14462"
+

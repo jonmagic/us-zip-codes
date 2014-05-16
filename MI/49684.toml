@@ -1,6 +1,8 @@
-zip_code = "49684"
-state = "MI"
 city = "Traverse City"
 county = "Grand Traverse"
-longitude = -85.676342
 latitude = 44.693963
+longitude = -85.676342
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49684"
+

@@ -1,6 +1,8 @@
-zip_code = "40385"
-state = "KY"
 city = "Waco"
 county = "Madison"
-longitude = -84.14483
 latitude = 37.717603
+longitude = -84.14483
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40385"
+

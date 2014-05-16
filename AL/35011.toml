@@ -1,6 +1,8 @@
-zip_code = "35011"
-state = "AL"
 city = "Alexander City"
 county = "Tallapoosa"
-longitude = -85.958001
 latitude = 32.990191
+longitude = -85.958001
+state = ""
+state_code_alpha2 = ""
+zip_code = "35011"
+

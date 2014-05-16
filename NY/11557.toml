@@ -1,6 +1,8 @@
-zip_code = "11557"
-state = "NY"
 city = "Hewlett"
 county = "Nassau"
-longitude = -73.693274
 latitude = 40.638803
+longitude = -73.693274
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11557"
+

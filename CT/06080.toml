@@ -1,6 +1,8 @@
-zip_code = "06080"
-state = "CT"
 city = "Suffield"
 county = "Hartford"
-longitude = -72.628802
 latitude = 41.948597
+longitude = -72.628802
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06080"
+

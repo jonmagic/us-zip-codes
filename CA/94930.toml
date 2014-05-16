@@ -1,6 +1,8 @@
-zip_code = "94930"
-state = "CA"
 city = "Fairfax"
 county = "Marin"
-longitude = -122.607791
 latitude = 37.981723
+longitude = -122.607791
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94930"
+

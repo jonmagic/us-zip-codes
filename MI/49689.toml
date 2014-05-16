@@ -1,6 +1,8 @@
-zip_code = "49689"
-state = "MI"
 city = "Wellston"
 county = "Manistee"
-longitude = -86.027194
 latitude = 44.330169
+longitude = -86.027194
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49689"
+

@@ -1,6 +1,8 @@
-zip_code = "65611"
-state = "MO"
 city = "Blue Eye"
 county = "Stone"
-longitude = -93.338838
 latitude = 36.549301
+longitude = -93.338838
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65611"
+

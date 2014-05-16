@@ -1,6 +1,8 @@
-zip_code = "26056"
-state = "WV"
 city = "New Manchester"
 county = "Hancock"
-longitude = -80.592823
 latitude = 40.516234
+longitude = -80.592823
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26056"
+

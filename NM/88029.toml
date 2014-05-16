@@ -1,6 +1,8 @@
-zip_code = "88029"
-state = "NM"
 city = "Columbus"
 county = "Luna"
-longitude = -107.588344
 latitude = 32.221057
+longitude = -107.588344
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88029"
+

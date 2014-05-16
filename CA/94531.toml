@@ -1,6 +1,8 @@
-zip_code = "94531"
-state = "CA"
 city = "Antioch"
 county = "Contra Costa"
-longitude = -121.723919
 latitude = 37.920852
+longitude = -121.723919
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94531"
+

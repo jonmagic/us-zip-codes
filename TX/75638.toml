@@ -1,6 +1,8 @@
-zip_code = "75638"
-state = "TX"
 city = "Daingerfield"
 county = "Morris"
-longitude = -94.739524
 latitude = 33.044611
+longitude = -94.739524
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75638"
+

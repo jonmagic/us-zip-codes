@@ -1,6 +1,8 @@
-zip_code = "50536"
-state = "IA"
 city = "Emmetsburg"
 county = "Palo Alto"
-longitude = -94.690755
 latitude = 43.118345
+longitude = -94.690755
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50536"
+

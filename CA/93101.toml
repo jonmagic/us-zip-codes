@@ -1,6 +1,8 @@
-zip_code = "93101"
-state = "CA"
 city = "Santa Barbara"
 county = "Santa Barbara"
-longitude = -119.707135
 latitude = 34.421897
+longitude = -119.707135
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93101"
+

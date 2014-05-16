@@ -1,6 +1,8 @@
-zip_code = "63801"
-state = "MO"
 city = "Sikeston"
 county = "Scott"
-longitude = -89.563988
 latitude = 37.027479
+longitude = -89.563988
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63801"
+

@@ -1,6 +1,8 @@
-zip_code = "32024"
-state = "FL"
 city = "Lake City"
 county = "Columbia"
-longitude = -82.68778
 latitude = 30.105451
+longitude = -82.68778
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32024"
+

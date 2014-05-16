@@ -1,6 +1,8 @@
-zip_code = "67151"
-state = "KS"
 city = "Walton"
 county = "Harvey"
-longitude = -97.244464
 latitude = 38.123189
+longitude = -97.244464
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67151"
+

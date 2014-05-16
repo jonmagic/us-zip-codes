@@ -1,6 +1,8 @@
-zip_code = "29122"
-state = "SC"
 city = "Peak"
 county = "Newberry"
-longitude = -81.327116
 latitude = 34.23862
+longitude = -81.327116
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29122"
+

@@ -1,6 +1,8 @@
-zip_code = "59261"
-state = "MT"
 city = "Saco"
 county = "Phillips"
-longitude = -107.342553
 latitude = 48.457237
+longitude = -107.342553
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59261"
+

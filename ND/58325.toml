@@ -1,6 +1,8 @@
-zip_code = "58325"
-state = "ND"
 city = "Churchs Ferry"
 county = "Ramsey"
-longitude = -99.070499
 latitude = 48.29
+longitude = -99.070499
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58325"
+

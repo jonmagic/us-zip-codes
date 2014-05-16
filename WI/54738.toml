@@ -1,6 +1,8 @@
-zip_code = "54738"
-state = "WI"
 city = "Eleva"
 county = "Trempealeau"
-longitude = -91.411701
 latitude = 44.394025
+longitude = -91.411701
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54738"
+

@@ -1,6 +1,8 @@
-zip_code = "25507"
-state = "WV"
 city = "Ceredo"
 county = "Wayne"
-longitude = -82.557785
 latitude = 38.384557
+longitude = -82.557785
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25507"
+

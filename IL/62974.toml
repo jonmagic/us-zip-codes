@@ -1,6 +1,8 @@
-zip_code = "62974"
-state = "IL"
 city = "Pittsburg"
 county = "Williamson"
-longitude = -88.808056
 latitude = 37.804734
+longitude = -88.808056
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62974"
+

@@ -1,6 +1,8 @@
-zip_code = "61282"
-state = "IL"
 city = "Silvis"
 county = "Rock Island"
-longitude = -90.51753
 latitude = 41.560381
+longitude = -90.51753
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61282"
+

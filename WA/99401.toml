@@ -1,6 +1,8 @@
-zip_code = "99401"
-state = "WA"
 city = "Anatone"
 county = "Asotin"
-longitude = -117.17858
 latitude = 46.121593
+longitude = -117.17858
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99401"
+

@@ -1,6 +1,8 @@
-zip_code = "67333"
-state = "KS"
 city = "Caney"
 county = "Montgomery"
-longitude = -95.884949
 latitude = 37.048046
+longitude = -95.884949
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67333"
+

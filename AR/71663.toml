@@ -1,6 +1,8 @@
-zip_code = "71663"
-state = "AR"
 city = "Portland"
 county = "Ashley"
-longitude = -91.512163
 latitude = 33.212137
+longitude = -91.512163
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71663"
+

@@ -1,6 +1,8 @@
-zip_code = "03307"
-state = "NH"
 city = "Loudon"
 county = "Merrimack"
-longitude = -71.467006
 latitude = 43.319339
+longitude = -71.467006
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03307"
+

@@ -1,6 +1,8 @@
-zip_code = "36457"
-state = "AL"
 city = "Megargel"
 county = "Monroe"
-longitude = -87.435279
 latitude = 31.361214
+longitude = -87.435279
+state = ""
+state_code_alpha2 = ""
+zip_code = "36457"
+

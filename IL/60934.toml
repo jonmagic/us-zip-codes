@@ -1,6 +1,8 @@
-zip_code = "60934"
-state = "IL"
 city = "Emington"
 county = "Livingston"
-longitude = -88.358928
 latitude = 40.969209
+longitude = -88.358928
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60934"
+

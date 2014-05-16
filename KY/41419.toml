@@ -1,6 +1,8 @@
-zip_code = "41419"
-state = "KY"
 city = "Edna"
 county = "Magoffin"
-longitude = -83.074592
 latitude = 37.690636
+longitude = -83.074592
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41419"
+

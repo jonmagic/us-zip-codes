@@ -1,6 +1,8 @@
-zip_code = "95633"
-state = "CA"
 city = "Garden Valley"
 county = "El Dorado"
-longitude = -120.830282
 latitude = 38.854672
+longitude = -120.830282
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95633"
+

@@ -1,6 +1,8 @@
-zip_code = "97883"
-state = "OR"
 city = "Union"
 county = "Union"
-longitude = -117.848982
 latitude = 45.162055
+longitude = -117.848982
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97883"
+

@@ -1,6 +1,8 @@
-zip_code = "23839"
-state = "VA"
 city = "Dendron"
 county = "Surry"
-longitude = -76.915537
 latitude = 37.065785
+longitude = -76.915537
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23839"
+

@@ -1,6 +1,8 @@
-zip_code = "63820"
-state = "MO"
 city = "Anniston"
 county = "Mississippi"
-longitude = -89.346154
 latitude = 36.822596
+longitude = -89.346154
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63820"
+

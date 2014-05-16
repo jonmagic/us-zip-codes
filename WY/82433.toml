@@ -1,6 +1,8 @@
-zip_code = "82433"
-state = "WY"
 city = "Meeteetse"
 county = "Park"
-longitude = -108.916862
 latitude = 44.165967
+longitude = -108.916862
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82433"
+

@@ -1,6 +1,8 @@
-zip_code = "40380"
-state = "KY"
 city = "Stanton"
 county = "Powell"
-longitude = -83.785309
 latitude = 37.822307
+longitude = -83.785309
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40380"
+

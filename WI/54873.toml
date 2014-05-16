@@ -1,6 +1,8 @@
-zip_code = "54873"
-state = "WI"
 city = "Solon Springs"
 county = "Douglas"
-longitude = -91.810992
 latitude = 46.417261
+longitude = -91.810992
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54873"
+

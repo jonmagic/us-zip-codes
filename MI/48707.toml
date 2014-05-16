@@ -1,6 +1,8 @@
-zip_code = "48707"
-state = "MI"
 city = "Bay City"
 county = "Bay"
-longitude = -83.933337
 latitude = 43.737798
+longitude = -83.933337
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48707"
+

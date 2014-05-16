@@ -1,6 +1,8 @@
-zip_code = "46035"
-state = "IN"
 city = "Colfax"
 county = "Clinton"
-longitude = -86.64787
 latitude = 40.211041
+longitude = -86.64787
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46035"
+

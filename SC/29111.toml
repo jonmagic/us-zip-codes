@@ -1,6 +1,8 @@
-zip_code = "29111"
-state = "SC"
 city = "New Zion"
 county = "Clarendon"
-longitude = -80.208109
 latitude = 33.688373
+longitude = -80.208109
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29111"
+

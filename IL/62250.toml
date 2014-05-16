@@ -1,6 +1,8 @@
-zip_code = "62250"
-state = "IL"
 city = "Hoffman"
 county = "Clinton"
-longitude = -89.436298
 latitude = 38.540877
+longitude = -89.436298
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62250"
+

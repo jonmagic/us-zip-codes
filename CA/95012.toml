@@ -1,6 +1,8 @@
-zip_code = "95012"
-state = "CA"
 city = "Castroville"
 county = "Monterey"
-longitude = -121.735759
 latitude = 36.782556
+longitude = -121.735759
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95012"
+

@@ -1,6 +1,8 @@
-zip_code = "77709"
-state = "TX"
 city = "Voth"
 county = "Jefferson"
-longitude = -94.187683
 latitude = 30.176361
+longitude = -94.187683
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77709"
+

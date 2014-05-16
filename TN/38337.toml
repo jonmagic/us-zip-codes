@@ -1,6 +1,8 @@
-zip_code = "38337"
-state = "TN"
 city = "Gadsden"
 county = "Crockett"
-longitude = -89.026456
 latitude = 35.780292
+longitude = -89.026456
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38337"
+

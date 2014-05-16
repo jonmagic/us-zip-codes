@@ -1,6 +1,8 @@
-zip_code = "19960"
-state = "DE"
 city = "Lincoln"
 county = "Sussex"
-longitude = -75.41087
 latitude = 38.848792
+longitude = -75.41087
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19960"
+

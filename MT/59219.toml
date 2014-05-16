@@ -1,6 +1,8 @@
-zip_code = "59219"
-state = "MT"
 city = "Dagmar"
 county = "Sheridan"
-longitude = -104.294475
 latitude = 48.558851
+longitude = -104.294475
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59219"
+

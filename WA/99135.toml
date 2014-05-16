@@ -1,6 +1,8 @@
-zip_code = "99135"
-state = "WA"
 city = "Hartline"
 county = "Grant"
-longitude = -119.084131
 latitude = 47.611505
+longitude = -119.084131
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99135"
+

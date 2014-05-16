@@ -1,6 +1,8 @@
-zip_code = "36925"
-state = "AL"
 city = "York"
 county = "Sumter"
-longitude = -88.193305
 latitude = 32.444907
+longitude = -88.193305
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36925"
+

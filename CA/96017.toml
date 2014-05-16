@@ -1,6 +1,8 @@
-zip_code = "96017"
-state = "CA"
 city = "Castella"
 county = "Shasta"
-longitude = -122.316052
 latitude = 41.110338
+longitude = -122.316052
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96017"
+

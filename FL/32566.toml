@@ -1,6 +1,8 @@
-zip_code = "32566"
-state = "FL"
 city = "Navarre"
 county = "Santa Rosa"
-longitude = -86.927118
 latitude = 30.427685
+longitude = -86.927118
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32566"
+

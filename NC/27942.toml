@@ -1,6 +1,8 @@
-zip_code = "27942"
-state = "NC"
 city = "Harrellsville"
 county = "Hertford"
-longitude = -76.786498
 latitude = 36.274551
+longitude = -76.786498
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27942"
+

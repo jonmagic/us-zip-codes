@@ -1,6 +1,8 @@
-zip_code = "99346"
-state = "WA"
 city = "Plymouth"
 county = "Benton"
-longitude = -119.402276
 latitude = 45.930067
+longitude = -119.402276
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99346"
+

@@ -1,6 +1,8 @@
-zip_code = "27050"
-state = "NC"
 city = "Tobaccoville"
 county = "Forsyth"
-longitude = -80.395517
 latitude = 36.22358
+longitude = -80.395517
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27050"
+

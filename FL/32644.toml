@@ -1,6 +1,8 @@
-zip_code = "32644"
-state = "FL"
 city = "Chiefland"
 county = "Levy"
-longitude = -82.855334
 latitude = 29.460221
+longitude = -82.855334
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32644"
+

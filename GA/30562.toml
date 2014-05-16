@@ -1,6 +1,8 @@
-zip_code = "30562"
-state = "GA"
 city = "Mountain City"
 county = "Rabun"
-longitude = -83.402766
 latitude = 34.914393
+longitude = -83.402766
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30562"
+

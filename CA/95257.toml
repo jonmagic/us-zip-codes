@@ -1,6 +1,8 @@
-zip_code = "95257"
-state = "CA"
 city = "Wilseyville"
 county = "Calaveras"
-longitude = -120.490831
 latitude = 38.390344
+longitude = -120.490831
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95257"
+

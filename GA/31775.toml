@@ -1,6 +1,8 @@
-zip_code = "31775"
-state = "GA"
 city = "Omega"
 county = "Tift"
-longitude = -83.59029
 latitude = 31.359156
+longitude = -83.59029
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31775"
+

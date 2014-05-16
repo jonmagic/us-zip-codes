@@ -1,6 +1,8 @@
-zip_code = "42054"
-state = "KY"
 city = "Kirksey"
 county = "Calloway"
-longitude = -88.421888
 latitude = 36.699095
+longitude = -88.421888
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42054"
+

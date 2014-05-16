@@ -1,6 +1,8 @@
-zip_code = "23175"
-state = "VA"
 city = "Urbanna"
 county = "Middlesex"
-longitude = -76.591805
 latitude = 37.635564
+longitude = -76.591805
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23175"
+

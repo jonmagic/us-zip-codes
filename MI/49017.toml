@@ -1,6 +1,8 @@
-zip_code = "49017"
-state = "MI"
 city = "Battle Creek"
 county = "Calhoun"
-longitude = -85.194996
 latitude = 42.367389
+longitude = -85.194996
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49017"
+

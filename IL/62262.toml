@@ -1,6 +1,8 @@
-zip_code = "62262"
-state = "IL"
 city = "Mulberry Grove"
 county = "Bond"
-longitude = -89.313739
 latitude = 38.93611
+longitude = -89.313739
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62262"
+

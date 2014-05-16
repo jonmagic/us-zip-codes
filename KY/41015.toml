@@ -1,6 +1,8 @@
-zip_code = "41015"
-state = "KY"
 city = "Latonia"
 county = "Kenton"
-longitude = -84.490048
 latitude = 38.94711
+longitude = -84.490048
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41015"
+

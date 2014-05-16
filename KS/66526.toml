@@ -1,6 +1,8 @@
-zip_code = "66526"
-state = "KS"
 city = "Paxico"
 county = "Wabaunsee"
-longitude = -96.167821
 latitude = 39.069282
+longitude = -96.167821
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66526"
+

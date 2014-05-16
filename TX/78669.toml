@@ -1,6 +1,8 @@
-zip_code = "78669"
-state = "TX"
 city = "Spicewood"
 county = "Travis"
-longitude = -97.82012
 latitude = 30.397227
+longitude = -97.82012
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78669"
+

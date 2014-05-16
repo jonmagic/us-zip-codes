@@ -1,6 +1,8 @@
-zip_code = "19968"
-state = "DE"
 city = "Milton"
 county = "Sussex"
-longitude = -75.322223
 latitude = 38.692714
+longitude = -75.322223
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19968"
+

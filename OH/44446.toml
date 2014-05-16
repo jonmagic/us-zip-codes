@@ -1,6 +1,8 @@
-zip_code = "44446"
-state = "OH"
 city = "Niles"
 county = "Trumbull"
-longitude = -80.742459
 latitude = 41.186106
+longitude = -80.742459
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44446"
+

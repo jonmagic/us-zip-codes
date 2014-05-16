@@ -1,6 +1,8 @@
-zip_code = "17815"
-state = "PA"
 city = "Bloomsburg"
 county = "Columbia"
-longitude = -76.430563
 latitude = 41.005609
+longitude = -76.430563
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17815"
+

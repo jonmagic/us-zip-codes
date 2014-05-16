@@ -1,6 +1,8 @@
-zip_code = "58425"
-state = "ND"
 city = "Cooperstown"
 county = "Griggs"
-longitude = -98.295699
 latitude = 47.366922
+longitude = -98.295699
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58425"
+

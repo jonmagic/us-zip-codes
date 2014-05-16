@@ -1,6 +1,8 @@
-zip_code = "78052"
-state = "TX"
 city = "Lytle"
 county = "Atascosa"
-longitude = -98.755526
 latitude = 29.213865
+longitude = -98.755526
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78052"
+

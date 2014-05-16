@@ -1,6 +1,8 @@
-zip_code = "61536"
-state = "IL"
 city = "Hanna City"
 county = "Peoria"
-longitude = -89.781809
 latitude = 40.685646
+longitude = -89.781809
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61536"
+

@@ -1,6 +1,8 @@
-zip_code = "77963"
-state = "TX"
 city = "Goliad"
 county = "Goliad"
-longitude = -97.460854
 latitude = 28.664092
+longitude = -97.460854
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77963"
+

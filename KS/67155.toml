@@ -1,6 +1,8 @@
-zip_code = "67155"
-state = "KS"
 city = "Wilmore"
 county = "Comanche"
-longitude = -99.272769
 latitude = 37.191758
+longitude = -99.272769
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67155"
+

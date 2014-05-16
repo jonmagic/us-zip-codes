@@ -1,6 +1,8 @@
-zip_code = "28020"
-state = "NC"
 city = "Casar"
 county = "Cleveland"
-longitude = -81.627064
 latitude = 35.519973
+longitude = -81.627064
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28020"
+

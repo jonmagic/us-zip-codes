@@ -1,6 +1,8 @@
-zip_code = "94511"
-state = "CA"
 city = "Bethel Island"
 county = "Contra Costa"
-longitude = -121.642463
 latitude = 38.02662
+longitude = -121.642463
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94511"
+

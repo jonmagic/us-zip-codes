@@ -1,6 +1,8 @@
-zip_code = "45710"
-state = "OH"
 city = "Albany"
 county = "Athens"
-longitude = -82.177096
 latitude = 39.240816
+longitude = -82.177096
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45710"
+

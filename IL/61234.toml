@@ -1,6 +1,8 @@
-zip_code = "61234"
-state = "IL"
 city = "Annawan"
 county = "Henry"
-longitude = -89.924636
 latitude = 41.425519
+longitude = -89.924636
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61234"
+

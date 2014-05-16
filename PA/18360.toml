@@ -1,6 +1,8 @@
-zip_code = "18360"
-state = "PA"
 city = "Stroudsburg"
 county = "Monroe"
-longitude = -75.368964
 latitude = 41.041895
+longitude = -75.368964
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18360"
+

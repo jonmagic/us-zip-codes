@@ -1,6 +1,8 @@
-zip_code = "10511"
-state = "NY"
 city = "Buchanan"
 county = "Westchester"
-longitude = -73.943495
 latitude = 41.259961
+longitude = -73.943495
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10511"
+

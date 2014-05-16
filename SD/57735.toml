@@ -1,6 +1,8 @@
-zip_code = "57735"
-state = "SD"
 city = "Edgemont"
 county = "Fall River"
-longitude = -103.830431
 latitude = 43.294549
+longitude = -103.830431
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57735"
+

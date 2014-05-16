@@ -1,6 +1,8 @@
-zip_code = "93220"
-state = "CA"
 city = "Edison"
 county = "Kern"
-longitude = -118.810069
 latitude = 35.357018
+longitude = -118.810069
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93220"
+

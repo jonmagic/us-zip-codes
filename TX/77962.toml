@@ -1,6 +1,8 @@
-zip_code = "77962"
-state = "TX"
 city = "Ganado"
 county = "Jackson"
-longitude = -96.456421
 latitude = 28.988713
+longitude = -96.456421
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77962"
+

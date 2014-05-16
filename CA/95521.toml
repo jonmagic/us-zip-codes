@@ -1,6 +1,8 @@
-zip_code = "95521"
-state = "CA"
 city = "Arcata"
 county = "Humboldt"
-longitude = -123.935891
 latitude = 40.564495
+longitude = -123.935891
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95521"
+

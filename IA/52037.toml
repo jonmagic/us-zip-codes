@@ -1,6 +1,8 @@
-zip_code = "52037"
-state = "IA"
 city = "Delmar"
 county = "Clinton"
-longitude = -90.636408
 latitude = 41.9604
+longitude = -90.636408
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52037"
+

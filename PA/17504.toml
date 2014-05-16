@@ -1,6 +1,8 @@
-zip_code = "17504"
-state = "PA"
 city = "Bausman"
 county = "Lancaster"
-longitude = -76.328081
 latitude = 40.024047
+longitude = -76.328081
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17504"
+

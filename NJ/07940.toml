@@ -1,6 +1,8 @@
-zip_code = "07940"
-state = "NJ"
 city = "Madison"
 county = "Morris"
-longitude = -74.423019
 latitude = 40.7582
+longitude = -74.423019
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07940"
+

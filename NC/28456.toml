@@ -1,6 +1,8 @@
-zip_code = "28456"
-state = "NC"
 city = "Riegelwood"
 county = "Columbus"
-longitude = -78.24873
 latitude = 34.353063
+longitude = -78.24873
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28456"
+

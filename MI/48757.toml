@@ -1,6 +1,8 @@
-zip_code = "48757"
-state = "MI"
 city = "Reese"
 county = "Tuscola"
-longitude = -83.619435
 latitude = 43.478735
+longitude = -83.619435
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48757"
+

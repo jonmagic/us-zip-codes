@@ -1,6 +1,8 @@
-zip_code = "92273"
-state = "CA"
 city = "Seeley"
 county = "Imperial"
-longitude = -115.694768
 latitude = 32.79413
+longitude = -115.694768
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92273"
+

@@ -1,6 +1,8 @@
-zip_code = "93402"
-state = "CA"
 city = "Los Osos"
 county = "San Luis Obispo"
-longitude = -120.794897
 latitude = 35.301041
+longitude = -120.794897
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93402"
+

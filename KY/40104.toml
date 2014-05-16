@@ -1,6 +1,8 @@
-zip_code = "40104"
-state = "KY"
 city = "Battletown"
 county = "Meade"
-longitude = -86.345301
 latitude = 38.093864
+longitude = -86.345301
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40104"
+

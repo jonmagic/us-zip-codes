@@ -1,6 +1,8 @@
-zip_code = "47967"
-state = "IN"
 city = "New Richmond"
 county = "Montgomery"
-longitude = -86.976237
 latitude = 40.193583
+longitude = -86.976237
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47967"
+

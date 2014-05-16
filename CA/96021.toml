@@ -1,6 +1,8 @@
-zip_code = "96021"
-state = "CA"
 city = "Corning"
 county = "Tehama"
-longitude = -122.135411
 latitude = 40.125399
+longitude = -122.135411
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96021"
+

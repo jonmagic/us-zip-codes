@@ -1,6 +1,8 @@
-zip_code = "77975"
-state = "TX"
 city = "Moulton"
 county = "Lavaca"
-longitude = -97.145989
 latitude = 29.576432
+longitude = -97.145989
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77975"
+

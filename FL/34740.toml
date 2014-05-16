@@ -1,6 +1,8 @@
-zip_code = "34740"
-state = "FL"
 city = "Killarney"
 county = "Orange"
-longitude = -81.650667
 latitude = 28.545385
+longitude = -81.650667
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34740"
+

@@ -1,6 +1,8 @@
-zip_code = "23841"
-state = "VA"
 city = "Dinwiddie"
 county = "Dinwiddie"
-longitude = -77.601563
 latitude = 37.079304
+longitude = -77.601563
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23841"
+

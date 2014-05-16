@@ -1,6 +1,8 @@
-zip_code = "43961"
-state = "OH"
 city = "Stratton"
 county = "Jefferson"
-longitude = -80.628515
 latitude = 40.518479
+longitude = -80.628515
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43961"
+

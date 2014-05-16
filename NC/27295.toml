@@ -1,6 +1,8 @@
-zip_code = "27295"
-state = "NC"
 city = "Lexington"
 county = "Davidson"
-longitude = -80.277877
 latitude = 35.813292
+longitude = -80.277877
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27295"
+

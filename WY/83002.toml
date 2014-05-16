@@ -1,6 +1,8 @@
-zip_code = "83002"
-state = "WY"
 city = "Jackson"
 county = "Teton"
-longitude = -110.786527
 latitude = 43.50537
+longitude = -110.786527
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83002"
+

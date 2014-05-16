@@ -1,6 +1,8 @@
-zip_code = "48471"
-state = "MI"
 city = "Sandusky"
 county = "Sanilac"
-longitude = -82.858995
 latitude = 43.374676
+longitude = -82.858995
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48471"
+

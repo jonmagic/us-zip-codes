@@ -1,6 +1,8 @@
-zip_code = "36033"
-state = "AL"
 city = "Georgiana"
 county = "Butler"
-longitude = -86.634844
 latitude = 31.624666
+longitude = -86.634844
+state = ""
+state_code_alpha2 = ""
+zip_code = "36033"
+

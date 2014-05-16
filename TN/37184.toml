@@ -1,6 +1,8 @@
-zip_code = "37184"
-state = "TN"
 city = "Watertown"
 county = "Wilson"
-longitude = -86.151145
 latitude = 36.087694
+longitude = -86.151145
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37184"
+

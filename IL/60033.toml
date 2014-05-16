@@ -1,6 +1,8 @@
-zip_code = "60033"
-state = "IL"
 city = "Harvard"
 county = "Mchenry"
-longitude = -88.495375
 latitude = 42.362962
+longitude = -88.495375
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60033"
+

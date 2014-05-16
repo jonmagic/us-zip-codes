@@ -1,6 +1,8 @@
-zip_code = "26275"
-state = "WV"
 city = "Junior"
 county = "Barbour"
-longitude = -79.949417
 latitude = 38.978405
+longitude = -79.949417
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26275"
+

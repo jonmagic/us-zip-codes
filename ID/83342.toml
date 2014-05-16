@@ -1,6 +1,8 @@
-zip_code = "83342"
-state = "ID"
 city = "Malta"
 county = "Cassia"
-longitude = -113.392736
 latitude = 42.274076
+longitude = -113.392736
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83342"
+

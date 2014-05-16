@@ -1,6 +1,8 @@
-zip_code = "99572"
-state = "AK"
 city = "Cooper Landing"
 county = "Kenai Peninsula"
-longitude = -149.770159
 latitude = 60.491478
+longitude = -149.770159
+state = ""
+state_code_alpha2 = ""
+zip_code = "99572"
+

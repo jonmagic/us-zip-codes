@@ -1,6 +1,8 @@
-zip_code = "10952"
-state = "NY"
 city = "Monsey"
 county = "Rockland"
-longitude = -74.084536
 latitude = 41.118595
+longitude = -74.084536
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10952"
+

@@ -1,6 +1,8 @@
-zip_code = "65038"
-state = "MO"
 city = "Laurie"
 county = "Morgan"
-longitude = -92.867804
 latitude = 38.196429
+longitude = -92.867804
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65038"
+

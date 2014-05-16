@@ -1,6 +1,8 @@
-zip_code = "89041"
-state = "NV"
 city = "Pahrump"
 county = "Nye"
-longitude = -116.004795
 latitude = 36.655797
+longitude = -116.004795
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89041"
+

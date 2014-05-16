@@ -1,6 +1,8 @@
-zip_code = "22508"
-state = "VA"
 city = "Locust Grove"
 county = "Orange"
-longitude = -77.796156
 latitude = 38.308398
+longitude = -77.796156
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22508"
+

@@ -1,6 +1,8 @@
-zip_code = "34661"
-state = "FL"
 city = "Nobleton"
 county = "Hernando"
-longitude = -82.263836
 latitude = 28.64364
+longitude = -82.263836
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34661"
+

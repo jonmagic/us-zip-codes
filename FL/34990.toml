@@ -1,6 +1,8 @@
-zip_code = "34990"
-state = "FL"
 city = "Palm City"
 county = "Martin"
-longitude = -80.419042
 latitude = 27.111235
+longitude = -80.419042
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34990"
+

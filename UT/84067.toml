@@ -1,6 +1,8 @@
-zip_code = "84067"
-state = "UT"
 city = "Roy"
 county = "Weber"
-longitude = -112.052525
 latitude = 41.178743
+longitude = -112.052525
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84067"
+

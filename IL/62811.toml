@@ -1,6 +1,8 @@
-zip_code = "62811"
-state = "IL"
 city = "Bellmont"
 county = "Wabash"
-longitude = -87.908101
 latitude = 38.384525
+longitude = -87.908101
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62811"
+

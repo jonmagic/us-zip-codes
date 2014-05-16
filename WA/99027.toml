@@ -1,6 +1,8 @@
-zip_code = "99027"
-state = "WA"
 city = "Otis Orchards"
 county = "Spokane"
-longitude = -117.107735
 latitude = 47.734728
+longitude = -117.107735
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99027"
+

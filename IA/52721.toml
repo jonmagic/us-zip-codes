@@ -1,6 +1,8 @@
-zip_code = "52721"
-state = "IA"
 city = "Bennett"
 county = "Cedar"
-longitude = -90.96289
 latitude = 41.749923
+longitude = -90.96289
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52721"
+

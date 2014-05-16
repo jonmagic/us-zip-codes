@@ -1,6 +1,8 @@
-zip_code = "57072"
-state = "SD"
 city = "Volin"
 county = "Yankton"
-longitude = -97.239829
 latitude = 43.002044
+longitude = -97.239829
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57072"
+

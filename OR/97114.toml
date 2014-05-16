@@ -1,6 +1,8 @@
-zip_code = "97114"
-state = "OR"
 city = "Dayton"
 county = "Yamhill"
-longitude = -123.077797
 latitude = 45.187141
+longitude = -123.077797
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97114"
+

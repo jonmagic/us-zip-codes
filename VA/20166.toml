@@ -1,6 +1,8 @@
-zip_code = "20166"
-state = "VA"
 city = "Sterling"
 county = "Loudoun"
-longitude = -77.472333
 latitude = 38.981387
+longitude = -77.472333
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20166"
+

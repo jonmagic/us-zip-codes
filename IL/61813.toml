@@ -1,6 +1,8 @@
-zip_code = "61813"
-state = "IL"
 city = "Bement"
 county = "Piatt"
-longitude = -88.599987
 latitude = 39.908567
+longitude = -88.599987
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61813"
+

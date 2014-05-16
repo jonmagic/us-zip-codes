@@ -1,6 +1,8 @@
-zip_code = "49067"
-state = "MI"
 city = "Marcellus"
 county = "Cass"
-longitude = -85.857579
 latitude = 42.008635
+longitude = -85.857579
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49067"
+

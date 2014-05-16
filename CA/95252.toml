@@ -1,6 +1,8 @@
-zip_code = "95252"
-state = "CA"
 city = "Valley Springs"
 county = "Calaveras"
-longitude = -120.733128
 latitude = 38.190383
+longitude = -120.733128
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95252"
+

@@ -1,6 +1,8 @@
-zip_code = "56345"
-state = "MN"
 city = "Little Falls"
 county = "Morrison"
-longitude = -94.245867
 latitude = 45.980055
+longitude = -94.245867
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56345"
+

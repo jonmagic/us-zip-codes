@@ -1,6 +1,8 @@
-zip_code = "42324"
-state = "KY"
 city = "Belton"
 county = "Muhlenberg"
-longitude = -87.004852
 latitude = 37.137789
+longitude = -87.004852
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42324"
+

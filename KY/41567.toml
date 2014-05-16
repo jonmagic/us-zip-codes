@@ -1,6 +1,8 @@
-zip_code = "41567"
-state = "KY"
 city = "Stone"
 county = "Pike"
-longitude = -82.27437
 latitude = 37.580715
+longitude = -82.27437
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41567"
+

@@ -1,6 +1,8 @@
-zip_code = "10975"
-state = "NY"
 city = "Southfields"
 county = "Orange"
-longitude = -74.113857
 latitude = 41.332379
+longitude = -74.113857
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10975"
+

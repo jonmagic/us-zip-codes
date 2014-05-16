@@ -1,6 +1,8 @@
-zip_code = "11412"
-state = "NY"
 city = "Saint Albans"
 county = "Queens"
-longitude = -73.761747
 latitude = 40.695829
+longitude = -73.761747
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11412"
+

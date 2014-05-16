@@ -1,6 +1,8 @@
-zip_code = "50272"
-state = "IA"
 city = "Williamson"
 county = "Lucas"
-longitude = -93.327475
 latitude = 41.029481
+longitude = -93.327475
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50272"
+

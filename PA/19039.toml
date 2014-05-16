@@ -1,6 +1,8 @@
-zip_code = "19039"
-state = "PA"
 city = "Gradyville"
 county = "Delaware"
-longitude = -75.337234
 latitude = 39.88211
+longitude = -75.337234
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19039"
+

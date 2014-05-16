@@ -1,6 +1,8 @@
-zip_code = "27545"
-state = "NC"
 city = "Knightdale"
 county = "Wake"
-longitude = -78.459605
 latitude = 35.788031
+longitude = -78.459605
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27545"
+

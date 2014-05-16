@@ -1,6 +1,8 @@
-zip_code = "36013"
-state = "AL"
 city = "Cecil"
 county = "Montgomery"
-longitude = -86.186132
 latitude = 32.310624
+longitude = -86.186132
+state = ""
+state_code_alpha2 = ""
+zip_code = "36013"
+

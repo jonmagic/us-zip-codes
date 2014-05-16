@@ -1,6 +1,8 @@
-zip_code = "95045"
-state = "CA"
 city = "San Juan Bautista"
 county = "San Benito"
-longitude = -121.442746
 latitude = 36.831008
+longitude = -121.442746
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95045"
+

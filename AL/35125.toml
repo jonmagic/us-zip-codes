@@ -1,6 +1,8 @@
-zip_code = "35125"
-state = "AL"
 city = "Pell City"
 county = "Saint Clair"
-longitude = -86.325995
 latitude = 33.592484
+longitude = -86.325995
+state = ""
+state_code_alpha2 = ""
+zip_code = "35125"
+

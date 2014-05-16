@@ -1,6 +1,8 @@
-zip_code = "12832"
-state = "NY"
 city = "Granville"
 county = "Washington"
-longitude = -73.331692
 latitude = 43.369373
+longitude = -73.331692
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12832"
+

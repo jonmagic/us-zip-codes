@@ -1,6 +1,8 @@
-zip_code = "87461"
-state = "NM"
 city = "Sanostee"
 county = "San Juan"
-longitude = -108.233548
 latitude = 36.500162
+longitude = -108.233548
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87461"
+

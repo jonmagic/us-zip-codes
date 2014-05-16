@@ -1,6 +1,8 @@
-zip_code = "00646"
-state = "PR"
 city = "Dorado"
 county = "Dorado"
-longitude = -66.281954
 latitude = 18.43606
+longitude = -66.281954
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00646"
+

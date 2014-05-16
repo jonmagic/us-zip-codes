@@ -1,6 +1,8 @@
-zip_code = "15116"
-state = "PA"
 city = "Glenshaw"
 county = "Allegheny"
-longitude = -79.979974
 latitude = 40.357719
+longitude = -79.979974
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15116"
+

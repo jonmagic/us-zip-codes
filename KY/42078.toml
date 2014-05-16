@@ -1,6 +1,8 @@
-zip_code = "42078"
-state = "KY"
 city = "Salem"
 county = "Livingston"
-longitude = -88.329698
 latitude = 37.269417
+longitude = -88.329698
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42078"
+

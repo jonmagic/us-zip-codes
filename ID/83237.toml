@@ -1,6 +1,8 @@
-zip_code = "83237"
-state = "ID"
 city = "Franklin"
 county = "Franklin"
-longitude = -111.787055
 latitude = 42.028792
+longitude = -111.787055
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83237"
+

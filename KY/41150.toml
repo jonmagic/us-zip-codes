@@ -1,6 +1,8 @@
-zip_code = "41150"
-state = "KY"
 city = "Jacobs"
 county = "Carter"
-longitude = -83.242129
 latitude = 38.225087
+longitude = -83.242129
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41150"
+

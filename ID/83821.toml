@@ -1,6 +1,8 @@
-zip_code = "83821"
-state = "ID"
 city = "Coolin"
 county = "Bonner"
-longitude = -116.84866
 latitude = 48.607807
+longitude = -116.84866
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83821"
+

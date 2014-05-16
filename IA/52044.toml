@@ -1,6 +1,8 @@
-zip_code = "52044"
-state = "IA"
 city = "Elkport"
 county = "Clayton"
-longitude = -91.320305
 latitude = 42.762431
+longitude = -91.320305
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52044"
+

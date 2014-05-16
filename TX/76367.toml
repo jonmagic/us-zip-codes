@@ -1,6 +1,8 @@
-zip_code = "76367"
-state = "TX"
 city = "Iowa Park"
 county = "Wichita"
-longitude = -98.717032
 latitude = 33.969067
+longitude = -98.717032
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76367"
+

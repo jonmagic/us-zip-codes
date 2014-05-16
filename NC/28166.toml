@@ -1,6 +1,8 @@
-zip_code = "28166"
-state = "NC"
 city = "Troutman"
 county = "Iredell"
-longitude = -80.898817
 latitude = 35.679407
+longitude = -80.898817
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28166"
+

@@ -1,6 +1,8 @@
-zip_code = "45851"
-state = "OH"
 city = "Haviland"
 county = "Paulding"
-longitude = -84.60076
 latitude = 41.03321
+longitude = -84.60076
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45851"
+

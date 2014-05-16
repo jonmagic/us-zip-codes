@@ -1,6 +1,8 @@
-zip_code = "97824"
-state = "OR"
 city = "Cove"
 county = "Union"
-longitude = -117.872662
 latitude = 45.341881
+longitude = -117.872662
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97824"
+

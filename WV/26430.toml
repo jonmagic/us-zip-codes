@@ -1,6 +1,8 @@
-zip_code = "26430"
-state = "WV"
 city = "Sand Fork"
 county = "Gilmer"
-longitude = -80.831256
 latitude = 38.913649
+longitude = -80.831256
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26430"
+

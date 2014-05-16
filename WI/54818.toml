@@ -1,6 +1,8 @@
-zip_code = "54818"
-state = "WI"
 city = "Brill"
 county = "Barron"
-longitude = -91.848206
 latitude = 45.423409
+longitude = -91.848206
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54818"
+

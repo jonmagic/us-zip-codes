@@ -1,6 +1,8 @@
-zip_code = "30103"
-state = "GA"
 city = "Adairsville"
 county = "Bartow"
-longitude = -84.909216
 latitude = 34.296339
+longitude = -84.909216
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30103"
+

@@ -1,6 +1,8 @@
-zip_code = "79544"
-state = "TX"
 city = "Rochester"
 county = "Haskell"
-longitude = -99.781154
 latitude = 33.331926
+longitude = -99.781154
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79544"
+

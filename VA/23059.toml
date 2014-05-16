@@ -1,6 +1,8 @@
-zip_code = "23059"
-state = "VA"
 city = "Glen Allen"
 county = "Hanover"
-longitude = -77.554393
 latitude = 37.728404
+longitude = -77.554393
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23059"
+

@@ -1,6 +1,8 @@
-zip_code = "49759"
-state = "MI"
 city = "Millersburg"
 county = "Presque Isle"
-longitude = -84.085375
 latitude = 45.430946
+longitude = -84.085375
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49759"
+

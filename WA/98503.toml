@@ -1,6 +1,8 @@
-zip_code = "98503"
-state = "WA"
 city = "Lacey"
 county = "Thurston"
-longitude = -122.796695
 latitude = 47.026418
+longitude = -122.796695
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98503"
+

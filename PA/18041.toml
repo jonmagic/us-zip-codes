@@ -1,6 +1,8 @@
-zip_code = "18041"
-state = "PA"
 city = "East Greenville"
 county = "Montgomery"
-longitude = -75.51541
 latitude = 40.382488
+longitude = -75.51541
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18041"
+

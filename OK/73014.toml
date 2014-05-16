@@ -1,6 +1,8 @@
-zip_code = "73014"
-state = "OK"
 city = "Calumet"
 county = "Canadian"
-longitude = -98.151236
 latitude = 35.547575
+longitude = -98.151236
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73014"
+

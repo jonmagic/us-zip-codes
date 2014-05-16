@@ -1,6 +1,8 @@
-zip_code = "41219"
-state = "KY"
 city = "Flatgap"
 county = "Johnson"
-longitude = -82.922077
 latitude = 37.923134
+longitude = -82.922077
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41219"
+

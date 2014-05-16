@@ -1,6 +1,8 @@
-zip_code = "58572"
-state = "ND"
 city = "Sterling"
 county = "Burleigh"
-longitude = -100.277434
 latitude = 46.876069
+longitude = -100.277434
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58572"
+

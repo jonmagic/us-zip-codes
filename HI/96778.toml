@@ -1,6 +1,8 @@
-zip_code = "96778"
-state = "HI"
 city = "Pahoa"
 county = "Hawaii"
-longitude = -155.152268
 latitude = 19.390023
+longitude = -155.152268
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96778"
+

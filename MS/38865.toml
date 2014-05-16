@@ -1,6 +1,8 @@
-zip_code = "38865"
-state = "MS"
 city = "Rienzi"
 county = "Alcorn"
-longitude = -88.56325
 latitude = 34.818882
+longitude = -88.56325
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38865"
+

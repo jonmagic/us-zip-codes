@@ -1,6 +1,8 @@
-zip_code = "59247"
-state = "MT"
 city = "Medicine Lake"
 county = "Sheridan"
-longitude = -104.418145
 latitude = 48.544896
+longitude = -104.418145
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59247"
+

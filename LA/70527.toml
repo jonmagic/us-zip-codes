@@ -1,6 +1,8 @@
-zip_code = "70527"
-state = "LA"
 city = "Crowley"
 county = "Acadia"
-longitude = -92.301795
 latitude = 30.228409
+longitude = -92.301795
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70527"
+

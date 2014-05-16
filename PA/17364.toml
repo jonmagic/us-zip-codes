@@ -1,6 +1,8 @@
-zip_code = "17364"
-state = "PA"
 city = "Thomasville"
 county = "York"
-longitude = -76.905317
 latitude = 39.933775
+longitude = -76.905317
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17364"
+

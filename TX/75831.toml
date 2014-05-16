@@ -1,6 +1,8 @@
-zip_code = "75831"
-state = "TX"
 city = "Buffalo"
 county = "Leon"
-longitude = -95.990369
 latitude = 31.412142
+longitude = -95.990369
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75831"
+

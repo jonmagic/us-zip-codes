@@ -1,6 +1,8 @@
-zip_code = "74641"
-state = "OK"
 city = "Kaw City"
 county = "Kay"
-longitude = -96.883292
 latitude = 36.838239
+longitude = -96.883292
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74641"
+

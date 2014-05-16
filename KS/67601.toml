@@ -1,6 +1,8 @@
-zip_code = "67601"
-state = "KS"
 city = "Hays"
 county = "Ellis"
-longitude = -99.334803
 latitude = 38.878202
+longitude = -99.334803
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67601"
+

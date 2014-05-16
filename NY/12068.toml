@@ -1,6 +1,8 @@
-zip_code = "12068"
-state = "NY"
 city = "Fonda"
 county = "Montgomery"
-longitude = -74.391459
 latitude = 42.940975
+longitude = -74.391459
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12068"
+

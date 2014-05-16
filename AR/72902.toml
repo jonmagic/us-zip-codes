@@ -1,6 +1,8 @@
-zip_code = "72902"
-state = "AR"
 city = "Fort Smith"
 county = "Sebastian"
-longitude = -94.409114
 latitude = 35.38619
+longitude = -94.409114
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72902"
+

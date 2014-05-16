@@ -1,6 +1,8 @@
-zip_code = "11576"
-state = "NY"
 city = "Roslyn"
 county = "Nassau"
-longitude = -73.622523
 latitude = 40.656802
+longitude = -73.622523
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11576"
+

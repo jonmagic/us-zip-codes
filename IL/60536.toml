@@ -1,6 +1,8 @@
-zip_code = "60536"
-state = "IL"
 city = "Millbrook"
 county = "Kendall"
-longitude = -88.562023
 latitude = 41.590315
+longitude = -88.562023
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60536"
+

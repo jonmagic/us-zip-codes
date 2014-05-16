@@ -1,6 +1,8 @@
-zip_code = "62830"
-state = "IL"
 city = "Dix"
 county = "Jefferson"
-longitude = -88.910561
 latitude = 38.357503
+longitude = -88.910561
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62830"
+

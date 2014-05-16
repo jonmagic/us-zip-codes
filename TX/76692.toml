@@ -1,6 +1,8 @@
-zip_code = "76692"
-state = "TX"
 city = "Whitney"
 county = "Hill"
-longitude = -97.346289
 latitude = 31.971321
+longitude = -97.346289
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76692"
+

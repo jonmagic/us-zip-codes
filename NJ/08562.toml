@@ -1,6 +1,8 @@
-zip_code = "08562"
-state = "NJ"
 city = "Wrightstown"
 county = "Burlington"
-longitude = -74.608402
 latitude = 40.0751
+longitude = -74.608402
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08562"
+

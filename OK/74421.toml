@@ -1,6 +1,8 @@
-zip_code = "74421"
-state = "OK"
 city = "Beggs"
 county = "Okmulgee"
-longitude = -96.026538
 latitude = 35.737125
+longitude = -96.026538
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74421"
+

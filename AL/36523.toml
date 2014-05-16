@@ -1,6 +1,8 @@
-zip_code = "36523"
-state = "AL"
 city = "Coden"
 county = "Mobile"
-longitude = -88.207586
 latitude = 30.390301
+longitude = -88.207586
+state = ""
+state_code_alpha2 = ""
+zip_code = "36523"
+

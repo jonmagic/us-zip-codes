@@ -1,6 +1,8 @@
-zip_code = "57342"
-state = "SD"
 city = "Geddes"
 county = "Charles Mix"
-longitude = -98.736404
 latitude = 43.251263
+longitude = -98.736404
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57342"
+

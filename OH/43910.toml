@@ -1,6 +1,8 @@
-zip_code = "43910"
-state = "OH"
 city = "Bloomingdale"
 county = "Jefferson"
-longitude = -80.774815
 latitude = 40.341244
+longitude = -80.774815
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43910"
+

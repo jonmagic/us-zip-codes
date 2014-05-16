@@ -1,6 +1,8 @@
-zip_code = "65766"
-state = "MO"
 city = "Udall"
 county = "Ozark"
-longitude = -92.442341
 latitude = 36.651607
+longitude = -92.442341
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65766"
+

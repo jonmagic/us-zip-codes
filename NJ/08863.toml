@@ -1,6 +1,8 @@
-zip_code = "08863"
-state = "NJ"
 city = "Fords"
 county = "Middlesex"
-longitude = -74.31525
 latitude = 40.53139
+longitude = -74.31525
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08863"
+

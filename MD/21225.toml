@@ -1,6 +1,8 @@
-zip_code = "21225"
-state = "MD"
 city = "Brooklyn"
 county = "Anne Arundel"
-longitude = -76.616437
 latitude = 39.018973
+longitude = -76.616437
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21225"
+

@@ -1,6 +1,8 @@
-zip_code = "18428"
-state = "PA"
 city = "Hawley"
 county = "Pike"
-longitude = -75.24019
 latitude = 41.482733
+longitude = -75.24019
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18428"
+

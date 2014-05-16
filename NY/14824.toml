@@ -1,6 +1,8 @@
-zip_code = "14824"
-state = "NY"
 city = "Cayuta"
 county = "Schuyler"
-longitude = -76.693628
 latitude = 42.272948
+longitude = -76.693628
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14824"
+

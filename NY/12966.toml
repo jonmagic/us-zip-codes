@@ -1,6 +1,8 @@
-zip_code = "12966"
-state = "NY"
 city = "North Bangor"
 county = "Franklin"
-longitude = -74.419121
 latitude = 44.8532
+longitude = -74.419121
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12966"
+

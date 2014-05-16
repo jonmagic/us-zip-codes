@@ -1,6 +1,8 @@
-zip_code = "27248"
-state = "NC"
 city = "Franklinville"
 county = "Randolph"
-longitude = -79.710068
 latitude = 35.785766
+longitude = -79.710068
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27248"
+

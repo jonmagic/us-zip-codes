@@ -1,6 +1,8 @@
-zip_code = "24439"
-state = "VA"
 city = "Goshen"
 county = "Rockbridge"
-longitude = -79.503429
 latitude = 37.978313
+longitude = -79.503429
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24439"
+

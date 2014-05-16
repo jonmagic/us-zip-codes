@@ -1,6 +1,8 @@
-zip_code = "83324"
-state = "ID"
 city = "Dietrich"
 county = "Lincoln"
-longitude = -114.289216
 latitude = 42.888995
+longitude = -114.289216
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83324"
+

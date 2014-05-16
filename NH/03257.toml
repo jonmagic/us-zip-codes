@@ -1,6 +1,8 @@
-zip_code = "03257"
-state = "NH"
 city = "New London"
 county = "Merrimack"
-longitude = -71.733643
 latitude = 43.301663
+longitude = -71.733643
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03257"
+

@@ -1,6 +1,8 @@
-zip_code = "42060"
-state = "KY"
 city = "Lovelaceville"
 county = "Ballard"
-longitude = -88.836371
 latitude = 36.96365
+longitude = -88.836371
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42060"
+

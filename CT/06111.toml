@@ -1,6 +1,8 @@
-zip_code = "06111"
-state = "CT"
 city = "Newington"
 county = "Hartford"
-longitude = -72.729646
 latitude = 41.685985
+longitude = -72.729646
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06111"
+

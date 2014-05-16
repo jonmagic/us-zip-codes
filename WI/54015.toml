@@ -1,6 +1,8 @@
-zip_code = "54015"
-state = "WI"
 city = "Hammond"
 county = "Saint Croix"
-longitude = -92.456512
 latitude = 44.966939
+longitude = -92.456512
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54015"
+

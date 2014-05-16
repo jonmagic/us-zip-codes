@@ -1,6 +1,8 @@
-zip_code = "02653"
-state = "MA"
 city = "Orleans"
 county = "Barnstable"
-longitude = -70.01539
 latitude = 41.852933
+longitude = -70.01539
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02653"
+

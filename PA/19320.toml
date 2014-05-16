@@ -1,6 +1,8 @@
-zip_code = "19320"
-state = "PA"
 city = "Coatesville"
 county = "Chester"
-longitude = -75.829163
 latitude = 39.968862
+longitude = -75.829163
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19320"
+

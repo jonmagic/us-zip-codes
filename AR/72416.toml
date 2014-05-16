@@ -1,6 +1,8 @@
-zip_code = "72416"
-state = "AR"
 city = "Bono"
 county = "Craighead"
-longitude = -90.627804
 latitude = 35.85642
+longitude = -90.627804
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72416"
+

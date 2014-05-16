@@ -1,6 +1,8 @@
-zip_code = "76053"
-state = "TX"
 city = "Hurst"
 county = "Tarrant"
-longitude = -97.227779
 latitude = 32.882663
+longitude = -97.227779
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76053"
+

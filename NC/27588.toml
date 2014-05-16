@@ -1,6 +1,8 @@
-zip_code = "27588"
-state = "NC"
 city = "Wake Forest"
 county = "Wake"
-longitude = -78.450754
 latitude = 35.973108
+longitude = -78.450754
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27588"
+

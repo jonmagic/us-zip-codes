@@ -1,6 +1,8 @@
-zip_code = "58429"
-state = "ND"
 city = "Dazey"
 county = "Barnes"
-longitude = -98.161621
 latitude = 47.182819
+longitude = -98.161621
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58429"
+

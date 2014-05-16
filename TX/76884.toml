@@ -1,6 +1,8 @@
-zip_code = "76884"
-state = "TX"
 city = "Valera"
 county = "Coleman"
-longitude = -99.458967
 latitude = 31.745879
+longitude = -99.458967
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76884"
+

@@ -1,6 +1,8 @@
-zip_code = "05667"
-state = "VT"
 city = "Plainfield"
 county = "Washington"
-longitude = -72.552243
 latitude = 44.283708
+longitude = -72.552243
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05667"
+

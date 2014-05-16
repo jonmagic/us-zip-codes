@@ -1,6 +1,8 @@
-zip_code = "45782"
-state = "OH"
 city = "Trimble"
 county = "Athens"
-longitude = -82.080528
 latitude = 39.484517
+longitude = -82.080528
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45782"
+

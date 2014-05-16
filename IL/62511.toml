@@ -1,6 +1,8 @@
-zip_code = "62511"
-state = "IL"
 city = "Atwater"
 county = "Macoupin"
-longitude = -89.735704
 latitude = 39.339104
+longitude = -89.735704
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62511"
+

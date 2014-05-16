@@ -1,6 +1,8 @@
-zip_code = "75658"
-state = "TX"
 city = "Joinerville"
 county = "Rusk"
-longitude = -94.906515
 latitude = 32.195927
+longitude = -94.906515
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75658"
+

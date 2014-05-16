@@ -1,6 +1,8 @@
-zip_code = "23915"
-state = "VA"
 city = "Baskerville"
 county = "Mecklenburg"
-longitude = -78.281204
 latitude = 36.70774
+longitude = -78.281204
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23915"
+

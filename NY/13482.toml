@@ -1,6 +1,8 @@
-zip_code = "13482"
-state = "NY"
 city = "West Burlington"
 county = "Otsego"
-longitude = -75.184913
 latitude = 42.704333
+longitude = -75.184913
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13482"
+

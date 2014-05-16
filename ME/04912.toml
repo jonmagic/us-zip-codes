@@ -1,6 +1,8 @@
-zip_code = "04912"
-state = "ME"
 city = "Athens"
 county = "Somerset"
-longitude = -69.67668
 latitude = 44.9227
+longitude = -69.67668
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04912"
+

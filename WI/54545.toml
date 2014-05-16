@@ -1,6 +1,8 @@
-zip_code = "54545"
-state = "WI"
 city = "Manitowish Waters"
 county = "Vilas"
-longitude = -89.845465
 latitude = 46.155097
+longitude = -89.845465
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54545"
+

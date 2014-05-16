@@ -1,6 +1,8 @@
-zip_code = "80729"
-state = "CO"
 city = "Grover"
 county = "Weld"
-longitude = -104.168529
 latitude = 40.820129
+longitude = -104.168529
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80729"
+

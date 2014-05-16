@@ -1,6 +1,8 @@
-zip_code = "20830"
-state = "MD"
 city = "Olney"
 county = "Montgomery"
-longitude = -77.066745
 latitude = 39.15522
+longitude = -77.066745
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20830"
+

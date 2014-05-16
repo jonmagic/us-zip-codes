@@ -1,6 +1,8 @@
-zip_code = "07027"
-state = "NJ"
 city = "Garwood"
 county = "Union"
-longitude = -74.322892
 latitude = 40.651242
+longitude = -74.322892
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07027"
+

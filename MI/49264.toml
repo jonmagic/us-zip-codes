@@ -1,6 +1,8 @@
-zip_code = "49264"
-state = "MI"
 city = "Onondaga"
 county = "Ingham"
-longitude = -84.541672
 latitude = 42.472836
+longitude = -84.541672
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49264"
+

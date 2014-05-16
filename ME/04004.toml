@@ -1,6 +1,8 @@
-zip_code = "04004"
-state = "ME"
 city = "Bar Mills"
 county = "York"
-longitude = -70.604379
 latitude = 43.365658
+longitude = -70.604379
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04004"
+

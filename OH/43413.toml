@@ -1,6 +1,8 @@
-zip_code = "43413"
-state = "OH"
 city = "Cygnet"
 county = "Wood"
-longitude = -83.664525
 latitude = 41.226545
+longitude = -83.664525
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43413"
+

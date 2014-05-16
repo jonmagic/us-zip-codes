@@ -1,6 +1,8 @@
-zip_code = "29052"
-state = "SC"
 city = "Gadsden"
 county = "Richland"
-longitude = -80.733782
 latitude = 33.84642
+longitude = -80.733782
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29052"
+

@@ -1,6 +1,8 @@
-zip_code = "88431"
-state = "NM"
 city = "Newkirk"
 county = "Guadalupe"
-longitude = -104.718891
 latitude = 34.781908
+longitude = -104.718891
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88431"
+

@@ -1,6 +1,8 @@
-zip_code = "51331"
-state = "IA"
 city = "Arnolds Park"
 county = "Dickinson"
-longitude = -95.24015
 latitude = 43.377945
+longitude = -95.24015
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51331"
+

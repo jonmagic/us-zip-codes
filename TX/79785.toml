@@ -1,6 +1,8 @@
-zip_code = "79785"
-state = "TX"
 city = "Toyah"
 county = "Reeves"
-longitude = -103.556598
 latitude = 31.383297
+longitude = -103.556598
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79785"
+

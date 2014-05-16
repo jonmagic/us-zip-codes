@@ -1,6 +1,8 @@
-zip_code = "72651"
-state = "AR"
 city = "Midway"
 county = "Baxter"
-longitude = -92.474246
 latitude = 36.37792
+longitude = -92.474246
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72651"
+

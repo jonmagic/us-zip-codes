@@ -1,6 +1,8 @@
-zip_code = "49871"
-state = "MI"
 city = "Palmer"
 county = "Marquette"
-longitude = -87.576355
 latitude = 46.441565
+longitude = -87.576355
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49871"
+

@@ -1,6 +1,8 @@
-zip_code = "28348"
-state = "NC"
 city = "Hope Mills"
 county = "Cumberland"
-longitude = -78.93292
 latitude = 34.921277
+longitude = -78.93292
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28348"
+

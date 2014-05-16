@@ -1,6 +1,8 @@
-zip_code = "15207"
-state = "PA"
 city = "Pittsburgh"
 county = "Allegheny"
-longitude = -79.982123
 latitude = 40.356169
+longitude = -79.982123
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15207"
+

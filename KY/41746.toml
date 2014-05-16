@@ -1,6 +1,8 @@
-zip_code = "41746"
-state = "KY"
 city = "Happy"
 county = "Perry"
-longitude = -83.091716
 latitude = 37.210078
+longitude = -83.091716
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41746"
+

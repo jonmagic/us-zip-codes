@@ -1,6 +1,8 @@
-zip_code = "96822"
-state = "HI"
 city = "Honolulu"
 county = "Honolulu"
-longitude = -157.94085
 latitude = 21.67115
+longitude = -157.94085
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96822"
+

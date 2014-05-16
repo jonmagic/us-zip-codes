@@ -1,6 +1,8 @@
-zip_code = "73075"
-state = "OK"
 city = "Pauls Valley"
 county = "Garvin"
-longitude = -97.308819
 latitude = 34.759696
+longitude = -97.308819
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73075"
+

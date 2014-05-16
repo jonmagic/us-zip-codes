@@ -1,6 +1,8 @@
-zip_code = "73944"
-state = "OK"
 city = "Hardesty"
 county = "Texas"
-longitude = -101.198155
 latitude = 36.615367
+longitude = -101.198155
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73944"
+

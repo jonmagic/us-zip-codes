@@ -1,6 +1,8 @@
-zip_code = "02360"
-state = "MA"
 city = "Plymouth"
 county = "Plymouth"
-longitude = -70.638717
 latitude = 41.886207
+longitude = -70.638717
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02360"
+

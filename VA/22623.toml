@@ -1,6 +1,8 @@
-zip_code = "22623"
-state = "VA"
 city = "Chester Gap"
 county = "Rappahannock"
-longitude = -78.141239
 latitude = 38.853733
+longitude = -78.141239
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22623"
+

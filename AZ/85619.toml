@@ -1,6 +1,8 @@
-zip_code = "85619"
-state = "AZ"
 city = "Mount Lemmon"
 county = "Pima"
-longitude = -110.760458
 latitude = 32.376306
+longitude = -110.760458
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85619"
+

@@ -1,6 +1,8 @@
-zip_code = "94999"
-state = "CA"
 city = "Petaluma"
 county = "Sonoma"
-longitude = -122.658097
 latitude = 38.267466
+longitude = -122.658097
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94999"
+

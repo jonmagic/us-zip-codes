@@ -1,6 +1,8 @@
-zip_code = "84745"
-state = "UT"
 city = "La Verkin"
 county = "Washington"
-longitude = -113.316429
 latitude = 37.222917
+longitude = -113.316429
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84745"
+

@@ -1,6 +1,8 @@
-zip_code = "37350"
-state = "TN"
 city = "Lookout Mountain"
 county = "Hamilton"
-longitude = -85.301627
 latitude = 35.130697
+longitude = -85.301627
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37350"
+

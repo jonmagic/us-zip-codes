@@ -1,6 +1,8 @@
-zip_code = "45812"
-state = "OH"
 city = "Alger"
 county = "Hardin"
-longitude = -83.795649
 latitude = 40.679192
+longitude = -83.795649
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45812"
+

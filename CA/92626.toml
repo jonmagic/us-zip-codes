@@ -1,6 +1,8 @@
-zip_code = "92626"
-state = "CA"
 city = "Costa Mesa"
 county = "Orange"
-longitude = -117.778398
 latitude = 33.6829
+longitude = -117.778398
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92626"
+

@@ -1,6 +1,8 @@
-zip_code = "17507"
-state = "PA"
 city = "Bowmansville"
 county = "Lancaster"
-longitude = -76.016047
 latitude = 40.196641
+longitude = -76.016047
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17507"
+

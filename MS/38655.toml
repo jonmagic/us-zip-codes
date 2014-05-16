@@ -1,6 +1,8 @@
-zip_code = "38655"
-state = "MS"
 city = "Oxford"
 county = "Lafayette"
-longitude = -89.483519
 latitude = 34.330814
+longitude = -89.483519
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38655"
+

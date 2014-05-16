@@ -1,6 +1,8 @@
-zip_code = "52333"
-state = "IA"
 city = "Solon"
 county = "Johnson"
-longitude = -91.506086
 latitude = 41.792851
+longitude = -91.506086
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52333"
+

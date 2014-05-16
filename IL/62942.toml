@@ -1,6 +1,8 @@
-zip_code = "62942"
-state = "IL"
 city = "Grand Tower"
 county = "Jackson"
-longitude = -89.479836
 latitude = 37.634633
+longitude = -89.479836
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62942"
+

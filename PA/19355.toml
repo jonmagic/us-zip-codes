@@ -1,6 +1,8 @@
-zip_code = "19355"
-state = "PA"
 city = "Malvern"
 county = "Chester"
-longitude = -75.713599
 latitude = 40.02951
+longitude = -75.713599
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19355"
+

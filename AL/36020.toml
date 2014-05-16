@@ -1,6 +1,8 @@
-zip_code = "36020"
-state = "AL"
 city = "Coosada"
 county = "Elmore"
-longitude = -86.332245
 latitude = 32.505625
+longitude = -86.332245
+state = ""
+state_code_alpha2 = ""
+zip_code = "36020"
+

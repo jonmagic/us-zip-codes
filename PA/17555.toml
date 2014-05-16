@@ -1,6 +1,8 @@
-zip_code = "17555"
-state = "PA"
 city = "Narvon"
 county = "Lancaster"
-longitude = -75.961183
 latitude = 40.120279
+longitude = -75.961183
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17555"
+

@@ -1,6 +1,8 @@
-zip_code = "06001"
-state = "CT"
 city = "Avon"
 county = "Hartford"
-longitude = -72.728272
 latitude = 41.757944
+longitude = -72.728272
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06001"
+

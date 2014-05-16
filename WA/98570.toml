@@ -1,6 +1,8 @@
-zip_code = "98570"
-state = "WA"
 city = "Onalaska"
 county = "Lewis"
-longitude = -122.690491
 latitude = 46.563491
+longitude = -122.690491
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98570"
+

@@ -1,6 +1,8 @@
-zip_code = "28527"
-state = "NC"
 city = "Ernul"
 county = "Craven"
-longitude = -77.020149
 latitude = 35.226396
+longitude = -77.020149
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28527"
+

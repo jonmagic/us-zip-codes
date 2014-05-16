@@ -1,6 +1,8 @@
-zip_code = "13849"
-state = "NY"
 city = "Unadilla"
 county = "Otsego"
-longitude = -75.292321
 latitude = 42.382962
+longitude = -75.292321
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13849"
+

@@ -1,6 +1,8 @@
-zip_code = "29688"
-state = "SC"
 city = "Tigerville"
 county = "Greenville"
-longitude = -82.353038
 latitude = 35.047684
+longitude = -82.353038
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29688"
+

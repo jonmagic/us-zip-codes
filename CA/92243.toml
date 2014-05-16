@@ -1,6 +1,8 @@
-zip_code = "92243"
-state = "CA"
 city = "El Centro"
 county = "Imperial"
-longitude = -115.503842
 latitude = 32.900509
+longitude = -115.503842
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92243"
+

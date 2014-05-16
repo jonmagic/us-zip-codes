@@ -1,6 +1,8 @@
-zip_code = "06354"
-state = "CT"
 city = "Moosup"
 county = "Windham"
-longitude = -71.849772
 latitude = 41.704931
+longitude = -71.849772
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06354"
+

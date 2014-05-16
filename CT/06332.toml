@@ -1,6 +1,8 @@
-zip_code = "06332"
-state = "CT"
 city = "Central Village"
 county = "Windham"
-longitude = -71.909019
 latitude = 41.725694
+longitude = -71.909019
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06332"
+

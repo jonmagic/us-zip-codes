@@ -1,6 +1,8 @@
-zip_code = "56478"
-state = "MN"
 city = "Nimrod"
 county = "Wadena"
-longitude = -94.900729
 latitude = 46.605266
+longitude = -94.900729
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56478"
+

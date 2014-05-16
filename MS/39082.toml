@@ -1,6 +1,8 @@
-zip_code = "39082"
-state = "MS"
 city = "Harrisville"
 county = "Simpson"
-longitude = -90.133459
 latitude = 31.94173
+longitude = -90.133459
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39082"
+

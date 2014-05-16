@@ -1,6 +1,8 @@
-zip_code = "61424"
-state = "IL"
 city = "Camp Grove"
 county = "Marshall"
-longitude = -89.633233
 latitude = 41.077977
+longitude = -89.633233
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61424"
+

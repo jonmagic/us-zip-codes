@@ -1,6 +1,8 @@
-zip_code = "70374"
-state = "LA"
 city = "Lockport"
 county = "Lafourche"
-longitude = -90.409864
 latitude = 29.533839
+longitude = -90.409864
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70374"
+

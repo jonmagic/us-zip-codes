@@ -1,6 +1,8 @@
-zip_code = "08873"
-state = "NJ"
 city = "Somerset"
 county = "Somerset"
-longitude = -74.523648
 latitude = 40.491002
+longitude = -74.523648
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08873"
+

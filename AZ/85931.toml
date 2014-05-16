@@ -1,6 +1,8 @@
-zip_code = "85931"
-state = "AZ"
 city = "Forest Lakes"
 county = "Coconino"
-longitude = -111.27586
 latitude = 35.537441
+longitude = -111.27586
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85931"
+

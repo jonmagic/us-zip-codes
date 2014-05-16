@@ -1,6 +1,8 @@
-zip_code = "58040"
-state = "ND"
 city = "Gwinner"
 county = "Sargent"
-longitude = -97.767735
 latitude = 46.152725
+longitude = -97.767735
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58040"
+

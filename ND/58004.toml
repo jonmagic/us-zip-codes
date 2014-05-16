@@ -1,6 +1,8 @@
-zip_code = "58004"
-state = "ND"
 city = "Amenia"
 county = "Cass"
-longitude = -97.271545
 latitude = 47.021032
+longitude = -97.271545
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58004"
+

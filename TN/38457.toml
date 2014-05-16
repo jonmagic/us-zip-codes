@@ -1,6 +1,8 @@
-zip_code = "38457"
-state = "TN"
 city = "Five Points"
 county = "Lawrence"
-longitude = -87.291424
 latitude = 35.035472
+longitude = -87.291424
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38457"
+

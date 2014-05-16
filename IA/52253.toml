@@ -1,6 +1,8 @@
-zip_code = "52253"
-state = "IA"
 city = "Lisbon"
 county = "Linn"
-longitude = -91.385445
 latitude = 41.914581
+longitude = -91.385445
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52253"
+

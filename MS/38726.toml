@@ -1,6 +1,8 @@
-zip_code = "38726"
-state = "MS"
 city = "Beulah"
 county = "Bolivar"
-longitude = -90.958277
 latitude = 33.75291
+longitude = -90.958277
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38726"
+

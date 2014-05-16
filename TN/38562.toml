@@ -1,6 +1,8 @@
-zip_code = "38562"
-state = "TN"
 city = "Gainesboro"
 county = "Jackson"
-longitude = -85.681124
 latitude = 36.369292
+longitude = -85.681124
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38562"
+

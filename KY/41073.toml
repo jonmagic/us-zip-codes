@@ -1,6 +1,8 @@
-zip_code = "41073"
-state = "KY"
 city = "Bellevue"
 county = "Campbell"
-longitude = -84.473642
 latitude = 39.10441
+longitude = -84.473642
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41073"
+

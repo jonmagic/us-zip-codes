@@ -1,6 +1,8 @@
-zip_code = "92258"
-state = "CA"
 city = "North Palm Springs"
 county = "Riverside"
-longitude = -116.549645
 latitude = 33.924967
+longitude = -116.549645
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92258"
+

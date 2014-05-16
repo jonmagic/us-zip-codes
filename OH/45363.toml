@@ -1,6 +1,8 @@
-zip_code = "45363"
-state = "OH"
 city = "Russia"
 county = "Shelby"
-longitude = -84.263227
 latitude = 40.263253
+longitude = -84.263227
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45363"
+

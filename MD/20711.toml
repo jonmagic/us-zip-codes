@@ -1,6 +1,8 @@
-zip_code = "20711"
-state = "MD"
 city = "Lothian"
 county = "Anne Arundel"
-longitude = -76.645735
 latitude = 38.802263
+longitude = -76.645735
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20711"
+

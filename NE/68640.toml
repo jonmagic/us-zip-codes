@@ -1,6 +1,8 @@
-zip_code = "68640"
-state = "NE"
 city = "Genoa"
 county = "Nance"
-longitude = -97.732584
 latitude = 41.445863
+longitude = -97.732584
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68640"
+

@@ -1,6 +1,8 @@
-zip_code = "81419"
-state = "CO"
 city = "Hotchkiss"
 county = "Delta"
-longitude = -107.752349
 latitude = 38.859973
+longitude = -107.752349
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81419"
+

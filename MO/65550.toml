@@ -1,6 +1,8 @@
-zip_code = "65550"
-state = "MO"
 city = "Newburg"
 county = "Phelps"
-longitude = -91.91236
 latitude = 37.839291
+longitude = -91.91236
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65550"
+

@@ -1,6 +1,8 @@
-zip_code = "14817"
-state = "NY"
 city = "Brooktondale"
 county = "Tompkins"
-longitude = -76.349154
 latitude = 42.359694
+longitude = -76.349154
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14817"
+

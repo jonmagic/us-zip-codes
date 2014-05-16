@@ -1,6 +1,8 @@
-zip_code = "84333"
-state = "UT"
 city = "Richmond"
 county = "Cache"
-longitude = -111.798034
 latitude = 41.883064
+longitude = -111.798034
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84333"
+

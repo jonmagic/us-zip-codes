@@ -1,6 +1,8 @@
-zip_code = "95910"
-state = "CA"
 city = "Alleghany"
 county = "Sierra"
-longitude = -120.829633
 latitude = 39.466324
+longitude = -120.829633
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95910"
+

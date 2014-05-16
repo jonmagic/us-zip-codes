@@ -1,6 +1,8 @@
-zip_code = "16652"
-state = "PA"
 city = "Huntingdon"
 county = "Huntingdon"
-longitude = -77.975879
 latitude = 40.515371
+longitude = -77.975879
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16652"
+

@@ -1,6 +1,8 @@
-zip_code = "69168"
-state = "NE"
 city = "Venango"
 county = "Perkins"
-longitude = -101.649075
 latitude = 40.850739
+longitude = -101.649075
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69168"
+

@@ -1,6 +1,8 @@
-zip_code = "27960"
-state = "NC"
 city = "Ocracoke"
 county = "Hyde"
-longitude = -76.187429
 latitude = 35.355633
+longitude = -76.187429
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27960"
+

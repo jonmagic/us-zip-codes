@@ -1,6 +1,8 @@
-zip_code = "02642"
-state = "MA"
 city = "Eastham"
 county = "Barnstable"
-longitude = -70.020648
 latitude = 41.850612
+longitude = -70.020648
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02642"
+

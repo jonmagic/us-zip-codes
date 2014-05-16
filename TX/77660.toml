@@ -1,6 +1,8 @@
-zip_code = "77660"
-state = "TX"
 city = "Spurger"
 county = "Tyler"
-longitude = -94.354476
 latitude = 30.792674
+longitude = -94.354476
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77660"
+

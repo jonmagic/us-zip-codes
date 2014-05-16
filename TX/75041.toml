@@ -1,6 +1,8 @@
-zip_code = "75041"
-state = "TX"
 city = "Garland"
 county = "Dallas"
-longitude = -96.690775
 latitude = 32.856976
+longitude = -96.690775
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75041"
+

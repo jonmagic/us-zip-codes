@@ -1,6 +1,8 @@
-zip_code = "29712"
-state = "SC"
 city = "Edgemoor"
 county = "Chester"
-longitude = -80.996122
 latitude = 34.778195
+longitude = -80.996122
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29712"
+

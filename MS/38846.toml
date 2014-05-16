@@ -1,6 +1,8 @@
-zip_code = "38846"
-state = "MS"
 city = "Glen"
 county = "Alcorn"
-longitude = -88.41982
 latitude = 34.868523
+longitude = -88.41982
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38846"
+

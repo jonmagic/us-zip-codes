@@ -1,6 +1,8 @@
-zip_code = "21710"
-state = "MD"
 city = "Adamstown"
 county = "Frederick"
-longitude = -77.455243
 latitude = 39.291049
+longitude = -77.455243
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21710"
+

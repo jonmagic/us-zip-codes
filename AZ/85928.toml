@@ -1,6 +1,8 @@
-zip_code = "85928"
-state = "AZ"
 city = "Heber"
 county = "Navajo"
-longitude = -110.588287
 latitude = 34.40998
+longitude = -110.588287
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85928"
+

@@ -1,6 +1,8 @@
-zip_code = "79057"
-state = "TX"
 city = "Mclean"
 county = "Gray"
-longitude = -100.60084
 latitude = 35.231235
+longitude = -100.60084
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79057"
+

@@ -1,6 +1,8 @@
-zip_code = "28771"
-state = "NC"
 city = "Robbinsville"
 county = "Graham"
-longitude = -83.773869
 latitude = 35.343758
+longitude = -83.773869
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28771"
+

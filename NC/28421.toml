@@ -1,6 +1,8 @@
-zip_code = "28421"
-state = "NC"
 city = "Atkinson"
 county = "Pender"
-longitude = -78.094517
 latitude = 34.510936
+longitude = -78.094517
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28421"
+

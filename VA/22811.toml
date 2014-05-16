@@ -1,6 +1,8 @@
-zip_code = "22811"
-state = "VA"
 city = "Bergton"
 county = "Rockingham"
-longitude = -78.948643
 latitude = 38.781688
+longitude = -78.948643
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22811"
+

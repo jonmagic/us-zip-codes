@@ -1,6 +1,8 @@
-zip_code = "63732"
-state = "MO"
 city = "Altenburg"
 county = "Perry"
-longitude = -89.574503
 latitude = 37.627908
+longitude = -89.574503
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63732"
+

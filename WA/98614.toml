@@ -1,6 +1,8 @@
-zip_code = "98614"
-state = "WA"
 city = "Chinook"
 county = "Pacific"
-longitude = -123.933161
 latitude = 46.263023
+longitude = -123.933161
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98614"
+

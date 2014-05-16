@@ -1,6 +1,8 @@
-zip_code = "16912"
-state = "PA"
 city = "Blossburg"
 county = "Tioga"
-longitude = -77.200274
 latitude = 41.822885
+longitude = -77.200274
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16912"
+

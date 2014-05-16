@@ -1,6 +1,8 @@
-zip_code = "24327"
-state = "VA"
 city = "Emory"
 county = "Washington"
-longitude = -81.817064
 latitude = 36.779961
+longitude = -81.817064
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24327"
+

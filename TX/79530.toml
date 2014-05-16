@@ -1,6 +1,8 @@
-zip_code = "79530"
-state = "TX"
 city = "Lawn"
 county = "Taylor"
-longitude = -99.823884
 latitude = 32.128322
+longitude = -99.823884
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79530"
+

@@ -1,6 +1,8 @@
-zip_code = "18470"
-state = "PA"
 city = "Union Dale"
 county = "Susquehanna"
-longitude = -75.529304
 latitude = 41.698964
+longitude = -75.529304
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18470"
+

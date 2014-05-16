@@ -1,6 +1,8 @@
-zip_code = "13348"
-state = "NY"
 city = "Hartwick"
 county = "Otsego"
-longitude = -75.063513
 latitude = 42.690531
+longitude = -75.063513
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13348"
+

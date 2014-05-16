@@ -1,6 +1,8 @@
-zip_code = "23359"
-state = "VA"
 city = "Hallwood"
 county = "Accomack"
-longitude = -75.604063
 latitude = 37.883709
+longitude = -75.604063
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23359"
+

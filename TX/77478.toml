@@ -1,6 +1,8 @@
-zip_code = "77478"
-state = "TX"
 city = "Sugar Land"
 county = "Fort Bend"
-longitude = -95.756462
 latitude = 29.525461
+longitude = -95.756462
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77478"
+

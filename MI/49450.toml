@@ -1,6 +1,8 @@
-zip_code = "49450"
-state = "MI"
 city = "Pullman"
 county = "Allegan"
-longitude = -86.06653
 latitude = 42.483692
+longitude = -86.06653
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49450"
+

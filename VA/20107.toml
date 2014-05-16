@@ -1,6 +1,8 @@
-zip_code = "20107"
-state = "VA"
 city = "Arcola"
 county = "Loudoun"
-longitude = -77.533263
 latitude = 38.968321
+longitude = -77.533263
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20107"
+

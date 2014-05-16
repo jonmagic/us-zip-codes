@@ -1,6 +1,8 @@
-zip_code = "56450"
-state = "MN"
 city = "Garrison"
 county = "Crow Wing"
-longitude = -93.866016
 latitude = 46.312962
+longitude = -93.866016
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56450"
+

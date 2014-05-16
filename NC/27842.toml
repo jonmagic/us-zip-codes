@@ -1,6 +1,8 @@
-zip_code = "27842"
-state = "NC"
 city = "Henrico"
 county = "Northampton"
-longitude = -77.8555
 latitude = 36.525838
+longitude = -77.8555
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27842"
+

@@ -1,6 +1,8 @@
-zip_code = "27910"
-state = "NC"
 city = "Ahoskie"
 county = "Hertford"
-longitude = -76.990498
 latitude = 36.339311
+longitude = -76.990498
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27910"
+

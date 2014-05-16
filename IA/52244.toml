@@ -1,6 +1,8 @@
-zip_code = "52244"
-state = "IA"
 city = "Iowa City"
 county = "Johnson"
-longitude = -91.661901
 latitude = 41.572682
+longitude = -91.661901
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52244"
+

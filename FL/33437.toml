@@ -1,6 +1,8 @@
-zip_code = "33437"
-state = "FL"
 city = "Boynton Beach"
 county = "Palm Beach"
-longitude = -80.174297
 latitude = 26.513629
+longitude = -80.174297
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33437"
+

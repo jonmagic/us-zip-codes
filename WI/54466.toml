@@ -1,6 +1,8 @@
-zip_code = "54466"
-state = "WI"
 city = "Pittsville"
 county = "Wood"
-longitude = -90.190911
 latitude = 44.408897
+longitude = -90.190911
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54466"
+

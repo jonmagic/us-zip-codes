@@ -1,6 +1,8 @@
-zip_code = "61865"
-state = "IL"
 city = "Potomac"
 county = "Vermilion"
-longitude = -87.785617
 latitude = 40.211734
+longitude = -87.785617
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61865"
+

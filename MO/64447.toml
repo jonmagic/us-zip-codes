@@ -1,6 +1,8 @@
-zip_code = "64447"
-state = "MO"
 city = "Fairport"
 county = "Dekalb"
-longitude = -94.404415
 latitude = 39.892645
+longitude = -94.404415
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64447"
+

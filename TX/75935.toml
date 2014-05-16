@@ -1,6 +1,8 @@
-zip_code = "75935"
-state = "TX"
 city = "Center"
 county = "Shelby"
-longitude = -94.235334
 latitude = 31.780781
+longitude = -94.235334
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75935"
+

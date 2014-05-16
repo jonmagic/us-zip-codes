@@ -1,6 +1,8 @@
-zip_code = "80470"
-state = "CO"
 city = "Pine"
 county = "Jefferson"
-longitude = -105.3136
 latitude = 39.356599
+longitude = -105.3136
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80470"
+

@@ -1,6 +1,8 @@
-zip_code = "21659"
-state = "MD"
 city = "Rhodesdale"
 county = "Dorchester"
-longitude = -75.80465
 latitude = 38.561727
+longitude = -75.80465
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21659"
+

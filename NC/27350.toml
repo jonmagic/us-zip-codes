@@ -1,6 +1,8 @@
-zip_code = "27350"
-state = "NC"
 city = "Sophia"
 county = "Randolph"
-longitude = -79.908483
 latitude = 35.817452
+longitude = -79.908483
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27350"
+

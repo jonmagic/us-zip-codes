@@ -1,6 +1,8 @@
-zip_code = "41512"
-state = "KY"
 city = "Ashcamp"
 county = "Pike"
-longitude = -82.448017
 latitude = 37.462655
+longitude = -82.448017
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41512"
+

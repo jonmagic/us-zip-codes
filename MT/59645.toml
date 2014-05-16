@@ -1,6 +1,8 @@
-zip_code = "59645"
-state = "MT"
 city = "White Sulphur Springs"
 county = "Meagher"
-longitude = -111.050627
 latitude = 46.63316
+longitude = -111.050627
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59645"
+

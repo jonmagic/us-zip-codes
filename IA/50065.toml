@@ -1,6 +1,8 @@
-zip_code = "50065"
-state = "IA"
 city = "Davis City"
 county = "Decatur"
-longitude = -93.8105
 latitude = 40.634604
+longitude = -93.8105
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50065"
+

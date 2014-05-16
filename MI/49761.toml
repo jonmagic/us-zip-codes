@@ -1,6 +1,8 @@
-zip_code = "49761"
-state = "MI"
 city = "Mullett Lake"
 county = "Cheboygan"
-longitude = -84.522098
 latitude = 45.559536
+longitude = -84.522098
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49761"
+

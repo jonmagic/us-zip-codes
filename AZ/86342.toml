@@ -1,6 +1,8 @@
-zip_code = "86342"
-state = "AZ"
 city = "Lake Montezuma"
 county = "Yavapai"
-longitude = -111.787154
 latitude = 34.641736
+longitude = -111.787154
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86342"
+

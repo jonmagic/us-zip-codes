@@ -1,6 +1,8 @@
-zip_code = "85357"
-state = "AZ"
 city = "Wenden"
 county = "La Paz"
-longitude = -113.458002
 latitude = 34.042203
+longitude = -113.458002
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85357"
+

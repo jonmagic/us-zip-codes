@@ -1,6 +1,8 @@
-zip_code = "53818"
-state = "WI"
 city = "Platteville"
 county = "Grant"
-longitude = -90.644975
 latitude = 42.795971
+longitude = -90.644975
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53818"
+

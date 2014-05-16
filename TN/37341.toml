@@ -1,6 +1,8 @@
-zip_code = "37341"
-state = "TN"
 city = "Harrison"
 county = "Hamilton"
-longitude = -85.091744
 latitude = 35.214176
+longitude = -85.091744
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37341"
+

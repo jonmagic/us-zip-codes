@@ -1,6 +1,8 @@
-zip_code = "68058"
-state = "NE"
 city = "South Bend"
 county = "Cass"
-longitude = -96.246207
 latitude = 41.006712
+longitude = -96.246207
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68058"
+

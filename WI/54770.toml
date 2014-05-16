@@ -1,6 +1,8 @@
-zip_code = "54770"
-state = "WI"
 city = "Strum"
 county = "Trempealeau"
-longitude = -91.394415
 latitude = 44.387425
+longitude = -91.394415
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54770"
+

@@ -1,6 +1,8 @@
-zip_code = "03862"
-state = "NH"
 city = "North Hampton"
 county = "Rockingham"
-longitude = -70.913947
 latitude = 43.00027
+longitude = -70.913947
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03862"
+

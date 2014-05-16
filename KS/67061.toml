@@ -1,6 +1,8 @@
-zip_code = "67061"
-state = "KS"
 city = "Hazelton"
 county = "Barber"
-longitude = -98.410166
 latitude = 37.114569
+longitude = -98.410166
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67061"
+

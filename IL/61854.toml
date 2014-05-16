@@ -1,6 +1,8 @@
-zip_code = "61854"
-state = "IL"
 city = "Mansfield"
 county = "Piatt"
-longitude = -88.545144
 latitude = 40.193243
+longitude = -88.545144
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61854"
+

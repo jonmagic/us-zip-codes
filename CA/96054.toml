@@ -1,6 +1,8 @@
-zip_code = "96054"
-state = "CA"
 city = "Lookout"
 county = "Modoc"
-longitude = -121.215582
 latitude = 41.234693
+longitude = -121.215582
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96054"
+

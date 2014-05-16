@@ -1,6 +1,8 @@
-zip_code = "44654"
-state = "OH"
 city = "Millersburg"
 county = "Holmes"
-longitude = -81.878772
 latitude = 40.544738
+longitude = -81.878772
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44654"
+

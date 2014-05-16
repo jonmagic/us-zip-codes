@@ -1,6 +1,8 @@
-zip_code = "08879"
-state = "NJ"
 city = "South Amboy"
 county = "Middlesex"
-longitude = -74.274168
 latitude = 40.46397
+longitude = -74.274168
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08879"
+

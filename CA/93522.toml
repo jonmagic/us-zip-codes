@@ -1,6 +1,8 @@
-zip_code = "93522"
-state = "CA"
 city = "Darwin"
 county = "Inyo"
-longitude = -117.218616
 latitude = 36.626033
+longitude = -117.218616
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93522"
+

@@ -1,6 +1,8 @@
-zip_code = "44651"
-state = "OH"
 city = "Mechanicstown"
 county = "Carroll"
-longitude = -80.959514
 latitude = 40.629918
+longitude = -80.959514
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44651"
+

@@ -1,6 +1,8 @@
-zip_code = "33839"
-state = "FL"
 city = "Eagle Lake"
 county = "Polk"
-longitude = -81.702448
 latitude = 28.005662
+longitude = -81.702448
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33839"
+

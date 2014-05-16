@@ -1,6 +1,8 @@
-zip_code = "62261"
-state = "IL"
 city = "Modoc"
 county = "Randolph"
-longitude = -90.00377
 latitude = 38.01529
+longitude = -90.00377
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62261"
+

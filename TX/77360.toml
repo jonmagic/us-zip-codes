@@ -1,6 +1,8 @@
-zip_code = "77360"
-state = "TX"
 city = "Onalaska"
 county = "Polk"
-longitude = -95.105581
 latitude = 30.822525
+longitude = -95.105581
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77360"
+

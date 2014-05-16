@@ -1,6 +1,8 @@
-zip_code = "65066"
-state = "MO"
 city = "Owensville"
 county = "Gasconade"
-longitude = -91.477511
 latitude = 38.360691
+longitude = -91.477511
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65066"
+

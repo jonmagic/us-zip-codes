@@ -1,6 +1,8 @@
-zip_code = "62373"
-state = "IL"
 city = "Sutter"
 county = "Hancock"
-longitude = -91.372569
 latitude = 40.286511
+longitude = -91.372569
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62373"
+

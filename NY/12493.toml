@@ -1,6 +1,8 @@
-zip_code = "12493"
-state = "NY"
 city = "West Park"
 county = "Ulster"
-longitude = -73.980908
 latitude = 41.795276
+longitude = -73.980908
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12493"
+

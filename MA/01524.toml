@@ -1,6 +1,8 @@
-zip_code = "01524"
-state = "MA"
 city = "Leicester"
 county = "Worcester"
-longitude = -72.012379
 latitude = 42.238192
+longitude = -72.012379
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01524"
+

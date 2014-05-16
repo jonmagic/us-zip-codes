@@ -1,6 +1,8 @@
-zip_code = "17749"
-state = "PA"
 city = "Mc Ewensville"
 county = "Northumberland"
-longitude = -76.818381
 latitude = 41.071982
+longitude = -76.818381
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17749"
+

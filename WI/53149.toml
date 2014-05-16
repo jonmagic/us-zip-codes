@@ -1,6 +1,8 @@
-zip_code = "53149"
-state = "WI"
 city = "Mukwonago"
 county = "Waukesha"
-longitude = -88.329731
 latitude = 42.97594
+longitude = -88.329731
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53149"
+

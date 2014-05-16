@@ -1,6 +1,8 @@
-zip_code = "29138"
-state = "SC"
 city = "Saluda"
 county = "Saluda"
-longitude = -81.77374
 latitude = 34.031353
+longitude = -81.77374
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29138"
+

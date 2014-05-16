@@ -1,6 +1,8 @@
-zip_code = "30822"
-state = "GA"
 city = "Perkins"
 county = "Jenkins"
-longitude = -81.875482
 latitude = 32.873466
+longitude = -81.875482
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30822"
+

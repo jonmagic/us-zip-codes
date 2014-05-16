@@ -1,6 +1,8 @@
-zip_code = "22810"
-state = "VA"
 city = "Basye"
 county = "Shenandoah"
-longitude = -78.777598
 latitude = 38.808869
+longitude = -78.777598
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22810"
+

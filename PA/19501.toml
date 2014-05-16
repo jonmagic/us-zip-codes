@@ -1,6 +1,8 @@
-zip_code = "19501"
-state = "PA"
 city = "Adamstown"
 county = "Lancaster"
-longitude = -76.057696
 latitude = 40.242327
+longitude = -76.057696
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19501"
+

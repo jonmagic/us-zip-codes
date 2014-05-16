@@ -1,6 +1,8 @@
-zip_code = "62366"
-state = "IL"
 city = "Pleasant Hill"
 county = "Pike"
-longitude = -90.87168
 latitude = 39.447008
+longitude = -90.87168
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62366"
+

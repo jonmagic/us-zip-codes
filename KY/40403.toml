@@ -1,6 +1,8 @@
-zip_code = "40403"
-state = "KY"
 city = "Berea"
 county = "Madison"
-longitude = -84.235247
 latitude = 37.592589
+longitude = -84.235247
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40403"
+

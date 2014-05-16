@@ -1,6 +1,8 @@
-zip_code = "99801"
-state = "AK"
 city = "Juneau"
 county = "Juneau"
-longitude = -134.523946
 latitude = 58.373561
+longitude = -134.523946
+state = ""
+state_code_alpha2 = ""
+zip_code = "99801"
+

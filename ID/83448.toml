@@ -1,6 +1,8 @@
-zip_code = "83448"
-state = "ID"
 city = "Sugar City"
 county = "Madison"
-longitude = -111.693201
 latitude = 43.847662
+longitude = -111.693201
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83448"
+

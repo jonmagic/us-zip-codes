@@ -1,6 +1,8 @@
-zip_code = "46779"
-state = "IN"
 city = "Pleasant Lake"
 county = "Steuben"
-longitude = -85.031873
 latitude = 41.577443
+longitude = -85.031873
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46779"
+

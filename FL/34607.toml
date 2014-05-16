@@ -1,6 +1,8 @@
-zip_code = "34607"
-state = "FL"
 city = "Spring Hill"
 county = "Hernando"
-longitude = -82.625672
 latitude = 28.504888
+longitude = -82.625672
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34607"
+

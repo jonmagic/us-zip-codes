@@ -1,6 +1,8 @@
-zip_code = "43345"
-state = "OH"
 city = "Ridgeway"
 county = "Hardin"
-longitude = -83.58265
 latitude = 40.532668
+longitude = -83.58265
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43345"
+

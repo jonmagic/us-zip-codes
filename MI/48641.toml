@@ -1,6 +1,8 @@
-zip_code = "48641"
-state = "MI"
 city = "Midland"
 county = "Midland"
-longitude = -84.387753
 latitude = 43.538252
+longitude = -84.387753
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48641"
+

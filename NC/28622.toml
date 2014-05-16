@@ -1,6 +1,8 @@
-zip_code = "28622"
-state = "NC"
 city = "Elk Park"
 county = "Avery"
-longitude = -81.919892
 latitude = 36.185475
+longitude = -81.919892
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28622"
+

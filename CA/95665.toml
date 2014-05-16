@@ -1,6 +1,8 @@
-zip_code = "95665"
-state = "CA"
 city = "Pine Grove"
 county = "Amador"
-longitude = -120.668334
 latitude = 38.4038
+longitude = -120.668334
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95665"
+

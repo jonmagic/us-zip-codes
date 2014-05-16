@@ -1,6 +1,8 @@
-zip_code = "16412"
-state = "PA"
 city = "Edinboro"
 county = "Erie"
-longitude = -80.157715
 latitude = 41.90425
+longitude = -80.157715
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16412"
+

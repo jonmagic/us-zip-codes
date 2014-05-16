@@ -1,6 +1,8 @@
-zip_code = "54427"
-state = "WI"
 city = "Eland"
 county = "Marathon"
-longitude = -89.301349
 latitude = 44.808419
+longitude = -89.301349
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54427"
+

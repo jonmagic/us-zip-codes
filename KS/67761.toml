@@ -1,6 +1,8 @@
-zip_code = "67761"
-state = "KS"
 city = "Wallace"
 county = "Wallace"
-longitude = -101.762678
 latitude = 38.916183
+longitude = -101.762678
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67761"
+

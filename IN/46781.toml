@@ -1,6 +1,8 @@
-zip_code = "46781"
-state = "IN"
 city = "Poneto"
 county = "Wells"
-longitude = -85.259163
 latitude = 40.639684
+longitude = -85.259163
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46781"
+

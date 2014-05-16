@@ -1,6 +1,8 @@
-zip_code = "84628"
-state = "UT"
 city = "Eureka"
 county = "Juab"
-longitude = -112.174424
 latitude = 39.941737
+longitude = -112.174424
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84628"
+

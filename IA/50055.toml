@@ -1,6 +1,8 @@
-zip_code = "50055"
-state = "IA"
 city = "Collins"
 county = "Story"
-longitude = -93.294572
 latitude = 41.906479
+longitude = -93.294572
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50055"
+

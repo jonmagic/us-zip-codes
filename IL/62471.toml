@@ -1,6 +1,8 @@
-zip_code = "62471"
-state = "IL"
 city = "Vandalia"
 county = "Fayette"
-longitude = -89.051628
 latitude = 38.982404
+longitude = -89.051628
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62471"
+

@@ -1,6 +1,8 @@
-zip_code = "65663"
-state = "MO"
 city = "Half Way"
 county = "Polk"
-longitude = -93.258038
 latitude = 37.630967
+longitude = -93.258038
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65663"
+

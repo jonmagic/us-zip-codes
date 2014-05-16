@@ -1,6 +1,8 @@
-zip_code = "25920"
-state = "WV"
 city = "Slab Fork"
 county = "Raleigh"
-longitude = -81.37157
 latitude = 37.717933
+longitude = -81.37157
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25920"
+

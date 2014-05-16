@@ -1,6 +1,8 @@
-zip_code = "55724"
-state = "MN"
 city = "Cotton"
 county = "Saint Louis"
-longitude = -92.435223
 latitude = 47.152067
+longitude = -92.435223
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55724"
+

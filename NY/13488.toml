@@ -1,6 +1,8 @@
-zip_code = "13488"
-state = "NY"
 city = "Westford"
 county = "Otsego"
-longitude = -74.76529
 latitude = 42.680906
+longitude = -74.76529
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13488"
+

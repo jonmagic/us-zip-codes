@@ -1,6 +1,8 @@
-zip_code = "51250"
-state = "IA"
 city = "Sioux Center"
 county = "Sioux"
-longitude = -96.269648
 latitude = 43.084013
+longitude = -96.269648
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51250"
+

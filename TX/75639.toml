@@ -1,6 +1,8 @@
-zip_code = "75639"
-state = "TX"
 city = "De Berry"
 county = "Panola"
-longitude = -94.21128
 latitude = 32.259146
+longitude = -94.21128
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75639"
+

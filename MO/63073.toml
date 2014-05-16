@@ -1,6 +1,8 @@
-zip_code = "63073"
-state = "MO"
 city = "Saint Albans"
 county = "Franklin"
-longitude = -91.017274
 latitude = 38.527729
+longitude = -91.017274
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63073"
+

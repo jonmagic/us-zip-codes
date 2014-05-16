@@ -1,6 +1,8 @@
-zip_code = "80653"
-state = "CO"
 city = "Weldona"
 county = "Morgan"
-longitude = -103.974159
 latitude = 40.382218
+longitude = -103.974159
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80653"
+

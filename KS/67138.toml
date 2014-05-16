@@ -1,6 +1,8 @@
-zip_code = "67138"
-state = "KS"
 city = "Sharon"
 county = "Barber"
-longitude = -98.42233
 latitude = 37.224446
+longitude = -98.42233
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67138"
+

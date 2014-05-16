@@ -1,6 +1,8 @@
-zip_code = "75782"
-state = "TX"
 city = "Poynor"
 county = "Henderson"
-longitude = -95.548056
 latitude = 32.194199
+longitude = -95.548056
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75782"
+

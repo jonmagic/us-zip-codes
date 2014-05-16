@@ -1,6 +1,8 @@
-zip_code = "15564"
-state = "PA"
 city = "Wellersburg"
 county = "Somerset"
-longitude = -78.844105
 latitude = 39.729896
+longitude = -78.844105
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15564"
+

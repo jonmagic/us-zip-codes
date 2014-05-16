@@ -1,6 +1,8 @@
-zip_code = "42330"
-state = "KY"
 city = "Central City"
 county = "Muhlenberg"
-longitude = -87.111579
 latitude = 37.243098
+longitude = -87.111579
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42330"
+

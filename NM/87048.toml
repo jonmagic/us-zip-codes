@@ -1,6 +1,8 @@
-zip_code = "87048"
-state = "NM"
 city = "Corrales"
 county = "Sandoval"
-longitude = -106.707978
 latitude = 35.659583
+longitude = -106.707978
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87048"
+

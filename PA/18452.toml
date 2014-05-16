@@ -1,6 +1,8 @@
-zip_code = "18452"
-state = "PA"
 city = "Peckville"
 county = "Lackawanna"
-longitude = -75.552502
 latitude = 41.350663
+longitude = -75.552502
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18452"
+

@@ -1,6 +1,8 @@
-zip_code = "00830"
-state = "VI"
 city = "St John"
 county = "Saint John"
-longitude = -64.740737
 latitude = 18.32816
+longitude = -64.740737
+state = "Virgin Island"
+state_code_alpha2 = "VI"
+zip_code = "00830"
+

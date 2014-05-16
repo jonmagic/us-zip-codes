@@ -1,6 +1,8 @@
-zip_code = "44695"
-state = "OH"
 city = "Bowerston"
 county = "Harrison"
-longitude = -81.175864
 latitude = 40.398846
+longitude = -81.175864
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44695"
+

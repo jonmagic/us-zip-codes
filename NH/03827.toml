@@ -1,6 +1,8 @@
-zip_code = "03827"
-state = "NH"
 city = "East Kingston"
 county = "Rockingham"
-longitude = -71.054245
 latitude = 42.912071
+longitude = -71.054245
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03827"
+

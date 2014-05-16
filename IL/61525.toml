@@ -1,6 +1,8 @@
-zip_code = "61525"
-state = "IL"
 city = "Dunlap"
 county = "Peoria"
-longitude = -89.678884
 latitude = 40.84674
+longitude = -89.678884
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61525"
+

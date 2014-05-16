@@ -1,6 +1,8 @@
-zip_code = "93933"
-state = "CA"
 city = "Marina"
 county = "Monterey"
-longitude = -121.812711
 latitude = 36.643259
+longitude = -121.812711
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93933"
+

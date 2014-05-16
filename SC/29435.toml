@@ -1,6 +1,8 @@
-zip_code = "29435"
-state = "SC"
 city = "Cottageville"
 county = "Colleton"
-longitude = -80.42646
 latitude = 32.778856
+longitude = -80.42646
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29435"
+

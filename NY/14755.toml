@@ -1,6 +1,8 @@
-zip_code = "14755"
-state = "NY"
 city = "Little Valley"
 county = "Cattaraugus"
-longitude = -78.823628
 latitude = 42.254567
+longitude = -78.823628
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14755"
+

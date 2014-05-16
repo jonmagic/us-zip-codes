@@ -1,6 +1,8 @@
-zip_code = "02355"
-state = "MA"
 city = "North Carver"
 county = "Plymouth"
-longitude = -70.801331
 latitude = 41.916918
+longitude = -70.801331
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02355"
+

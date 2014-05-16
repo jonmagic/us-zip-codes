@@ -1,6 +1,8 @@
-zip_code = "43323"
-state = "OH"
 city = "Harpster"
 county = "Wyandot"
-longitude = -83.253668
 latitude = 40.7346
+longitude = -83.253668
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43323"
+

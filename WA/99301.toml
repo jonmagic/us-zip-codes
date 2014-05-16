@@ -1,6 +1,8 @@
-zip_code = "99301"
-state = "WA"
 city = "Pasco"
 county = "Franklin"
-longitude = -118.899447
 latitude = 46.42066
+longitude = -118.899447
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99301"
+

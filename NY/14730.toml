@@ -1,6 +1,8 @@
-zip_code = "14730"
-state = "NY"
 city = "East Randolph"
 county = "Cattaraugus"
-longitude = -78.94734
 latitude = 42.174736
+longitude = -78.94734
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14730"
+

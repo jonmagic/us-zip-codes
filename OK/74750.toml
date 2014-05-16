@@ -1,6 +1,8 @@
-zip_code = "74750"
-state = "OK"
 city = "Millerton"
 county = "Mccurtain"
-longitude = -95.002496
 latitude = 33.980066
+longitude = -95.002496
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74750"
+

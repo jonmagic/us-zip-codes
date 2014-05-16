@@ -1,6 +1,8 @@
-zip_code = "57042"
-state = "SD"
 city = "Madison"
 county = "Lake"
-longitude = -97.091339
 latitude = 44.054223
+longitude = -97.091339
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57042"
+

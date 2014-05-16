@@ -1,6 +1,8 @@
-zip_code = "40740"
-state = "KY"
 city = "Lily"
 county = "Laurel"
-longitude = -84.028217
 latitude = 37.025647
+longitude = -84.028217
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40740"
+

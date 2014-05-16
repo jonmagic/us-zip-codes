@@ -1,6 +1,8 @@
-zip_code = "84313"
-state = "UT"
 city = "Grouse Creek"
 county = "Box Elder"
-longitude = -112.957875
 latitude = 41.500586
+longitude = -112.957875
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84313"
+

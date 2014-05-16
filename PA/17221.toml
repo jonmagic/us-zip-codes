@@ -1,6 +1,8 @@
-zip_code = "17221"
-state = "PA"
 city = "Fannettsburg"
 county = "Franklin"
-longitude = -77.832158
 latitude = 40.073155
+longitude = -77.832158
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17221"
+

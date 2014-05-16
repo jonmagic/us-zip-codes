@@ -1,6 +1,8 @@
-zip_code = "28449"
-state = "NC"
 city = "Kure Beach"
 county = "New Hanover"
-longitude = -77.920117
 latitude = 33.986817
+longitude = -77.920117
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28449"
+

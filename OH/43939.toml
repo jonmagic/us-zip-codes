@@ -1,6 +1,8 @@
-zip_code = "43939"
-state = "OH"
 city = "Mount Pleasant"
 county = "Jefferson"
-longitude = -80.782734
 latitude = 40.17699
+longitude = -80.782734
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43939"
+

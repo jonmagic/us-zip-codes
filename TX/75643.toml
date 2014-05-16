@@ -1,6 +1,8 @@
-zip_code = "75643"
-state = "TX"
 city = "Gary"
 county = "Panola"
-longitude = -94.380023
 latitude = 32.033446
+longitude = -94.380023
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75643"
+

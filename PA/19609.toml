@@ -1,6 +1,8 @@
-zip_code = "19609"
-state = "PA"
 city = "Reading"
 county = "Berks"
-longitude = -75.990807
 latitude = 40.327992
+longitude = -75.990807
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19609"
+

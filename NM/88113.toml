@@ -1,6 +1,8 @@
-zip_code = "88113"
-state = "NM"
 city = "Causey"
 county = "Roosevelt"
-longitude = -103.274249
 latitude = 33.928379
+longitude = -103.274249
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88113"
+

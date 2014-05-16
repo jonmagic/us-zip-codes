@@ -1,6 +1,8 @@
-zip_code = "41365"
-state = "KY"
 city = "Rogers"
 county = "Wolfe"
-longitude = -83.636349
 latitude = 37.715699
+longitude = -83.636349
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41365"
+

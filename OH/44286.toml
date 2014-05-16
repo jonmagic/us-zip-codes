@@ -1,6 +1,8 @@
-zip_code = "44286"
-state = "OH"
 city = "Richfield"
 county = "Summit"
-longitude = -81.621093
 latitude = 41.235492
+longitude = -81.621093
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44286"
+

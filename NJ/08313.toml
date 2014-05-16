@@ -1,6 +1,8 @@
-zip_code = "08313"
-state = "NJ"
 city = "Deerfield Street"
 county = "Cumberland"
-longitude = -75.224865
 latitude = 39.529261
+longitude = -75.224865
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08313"
+

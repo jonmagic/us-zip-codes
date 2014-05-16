@@ -1,6 +1,8 @@
-zip_code = "43556"
-state = "OH"
 city = "Sherwood"
 county = "Defiance"
-longitude = -84.569545
 latitude = 41.318045
+longitude = -84.569545
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43556"
+

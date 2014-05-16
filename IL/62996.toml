@@ -1,6 +1,8 @@
-zip_code = "62996"
-state = "IL"
 city = "Villa Ridge"
 county = "Pulaski"
-longitude = -89.170924
 latitude = 37.164229
+longitude = -89.170924
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62996"
+

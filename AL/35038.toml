@@ -1,6 +1,8 @@
-zip_code = "35038"
-state = "AL"
 city = "Burnwell"
 county = "Walker"
-longitude = -87.202136
 latitude = 33.804411
+longitude = -87.202136
+state = ""
+state_code_alpha2 = ""
+zip_code = "35038"
+

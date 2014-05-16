@@ -1,6 +1,8 @@
-zip_code = "47262"
-state = "IN"
 city = "Nebraska"
 county = "Jennings"
-longitude = -85.619906
 latitude = 39.001301
+longitude = -85.619906
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47262"
+

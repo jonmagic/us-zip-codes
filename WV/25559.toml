@@ -1,6 +1,8 @@
-zip_code = "25559"
-state = "WV"
 city = "Salt Rock"
 county = "Cabell"
-longitude = -82.22918
 latitude = 38.317827
+longitude = -82.22918
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25559"
+

@@ -1,6 +1,8 @@
-zip_code = "02835"
-state = "RI"
 city = "Jamestown"
 county = "Newport"
-longitude = -71.377247
 latitude = 41.51412
+longitude = -71.377247
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02835"
+

@@ -1,6 +1,8 @@
-zip_code = "54751"
-state = "WI"
 city = "Menomonie"
 county = "Dunn"
-longitude = -91.943198
 latitude = 44.867809
+longitude = -91.943198
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54751"
+

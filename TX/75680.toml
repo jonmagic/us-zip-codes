@@ -1,6 +1,8 @@
-zip_code = "75680"
-state = "TX"
 city = "Minden"
 county = "Rusk"
-longitude = -94.719095
 latitude = 32.125654
+longitude = -94.719095
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75680"
+

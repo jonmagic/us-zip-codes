@@ -1,6 +1,8 @@
-zip_code = "29442"
-state = "SC"
 city = "Georgetown"
 county = "Georgetown"
-longitude = -79.226361
 latitude = 33.403693
+longitude = -79.226361
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29442"
+

@@ -1,6 +1,8 @@
-zip_code = "14731"
-state = "NY"
 city = "Ellicottville"
 county = "Cattaraugus"
-longitude = -78.649654
 latitude = 42.297229
+longitude = -78.649654
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14731"
+

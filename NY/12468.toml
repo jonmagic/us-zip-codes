@@ -1,6 +1,8 @@
-zip_code = "12468"
-state = "NY"
 city = "Prattsville"
 county = "Greene"
-longitude = -74.385762
 latitude = 42.286917
+longitude = -74.385762
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12468"
+

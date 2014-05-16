@@ -1,6 +1,8 @@
-zip_code = "28741"
-state = "NC"
 city = "Highlands"
 county = "Macon"
-longitude = -83.419534
 latitude = 35.123767
+longitude = -83.419534
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28741"
+

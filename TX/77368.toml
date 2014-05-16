@@ -1,6 +1,8 @@
-zip_code = "77368"
-state = "TX"
 city = "Romayor"
 county = "Liberty"
-longitude = -94.804065
 latitude = 30.188885
+longitude = -94.804065
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77368"
+

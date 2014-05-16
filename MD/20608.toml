@@ -1,6 +1,8 @@
-zip_code = "20608"
-state = "MD"
 city = "Aquasco"
 county = "Prince Georges"
-longitude = -76.712639
 latitude = 38.588843
+longitude = -76.712639
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20608"
+

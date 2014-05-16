@@ -1,6 +1,8 @@
-zip_code = "50038"
-state = "IA"
 city = "Booneville"
 county = "Dallas"
-longitude = -93.946297
 latitude = 41.630419
+longitude = -93.946297
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50038"
+

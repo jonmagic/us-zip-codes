@@ -1,6 +1,8 @@
-zip_code = "32533"
-state = "FL"
 city = "Cantonment"
 county = "Escambia"
-longitude = -87.350295
 latitude = 30.665519
+longitude = -87.350295
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32533"
+

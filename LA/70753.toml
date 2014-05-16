@@ -1,6 +1,8 @@
-zip_code = "70753"
-state = "LA"
 city = "Lettsworth"
 county = "Pointe Coupee"
-longitude = -91.73539
 latitude = 30.936504
+longitude = -91.73539
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70753"
+

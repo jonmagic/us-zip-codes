@@ -1,6 +1,8 @@
-zip_code = "23934"
-state = "VA"
 city = "Cullen"
 county = "Charlotte"
-longitude = -78.661108
 latitude = 37.153846
+longitude = -78.661108
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23934"
+

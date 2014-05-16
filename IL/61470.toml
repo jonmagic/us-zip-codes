@@ -1,6 +1,8 @@
-zip_code = "61470"
-state = "IL"
 city = "Prairie City"
 county = "Mcdonough"
-longitude = -90.512266
 latitude = 40.591144
+longitude = -90.512266
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61470"
+

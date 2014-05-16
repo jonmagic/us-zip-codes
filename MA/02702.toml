@@ -1,6 +1,8 @@
-zip_code = "02702"
-state = "MA"
 city = "Assonet"
 county = "Bristol"
-longitude = -71.017328
 latitude = 41.782993
+longitude = -71.017328
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02702"
+

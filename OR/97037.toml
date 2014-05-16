@@ -1,6 +1,8 @@
-zip_code = "97037"
-state = "OR"
 city = "Maupin"
 county = "Wasco"
-longitude = -121.338132
 latitude = 45.155868
+longitude = -121.338132
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97037"
+

@@ -1,6 +1,8 @@
-zip_code = "58463"
-state = "ND"
 city = "Mcclusky"
 county = "Sheridan"
-longitude = -100.41715
 latitude = 47.506755
+longitude = -100.41715
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58463"
+

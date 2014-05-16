@@ -1,6 +1,8 @@
-zip_code = "45150"
-state = "OH"
 city = "Milford"
 county = "Clermont"
-longitude = -84.197778
 latitude = 39.016349
+longitude = -84.197778
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45150"
+

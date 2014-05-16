@@ -1,6 +1,8 @@
-zip_code = "11716"
-state = "NY"
 city = "Bohemia"
 county = "Suffolk"
-longitude = -73.113366
 latitude = 40.76902
+longitude = -73.113366
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11716"
+

@@ -1,6 +1,8 @@
-zip_code = "71831"
-state = "AR"
 city = "Columbus"
 county = "Hempstead"
-longitude = -93.807007
 latitude = 33.793524
+longitude = -93.807007
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71831"
+

@@ -1,6 +1,8 @@
-zip_code = "36578"
-state = "AL"
 city = "Stapleton"
 county = "Baldwin"
-longitude = -87.728987
 latitude = 30.85852
+longitude = -87.728987
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36578"
+

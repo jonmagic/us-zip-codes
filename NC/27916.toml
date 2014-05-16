@@ -1,6 +1,8 @@
-zip_code = "27916"
-state = "NC"
 city = "Aydlett"
 county = "Currituck"
-longitude = -75.918814
 latitude = 36.307995
+longitude = -75.918814
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27916"
+

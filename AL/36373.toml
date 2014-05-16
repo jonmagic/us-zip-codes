@@ -1,6 +1,8 @@
-zip_code = "36373"
-state = "AL"
 city = "Shorterville"
 county = "Henry"
-longitude = -85.113506
 latitude = 31.501042
+longitude = -85.113506
+state = ""
+state_code_alpha2 = ""
+zip_code = "36373"
+

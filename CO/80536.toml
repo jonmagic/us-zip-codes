@@ -1,6 +1,8 @@
-zip_code = "80536"
-state = "CO"
 city = "Livermore"
 county = "Larimer"
-longitude = -105.441688
 latitude = 40.693564
+longitude = -105.441688
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80536"
+

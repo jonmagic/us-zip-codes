@@ -1,6 +1,8 @@
-zip_code = "58218"
-state = "ND"
 city = "Buxton"
 county = "Traill"
-longitude = -97.099519
 latitude = 47.602249
+longitude = -97.099519
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58218"
+

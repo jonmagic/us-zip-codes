@@ -1,6 +1,8 @@
-zip_code = "72461"
-state = "AR"
 city = "Rector"
 county = "Clay"
-longitude = -90.329565
 latitude = 36.310788
+longitude = -90.329565
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72461"
+

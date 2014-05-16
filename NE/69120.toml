@@ -1,6 +1,8 @@
-zip_code = "69120"
-state = "NE"
 city = "Arnold"
 county = "Custer"
-longitude = -100.194253
 latitude = 41.423996
+longitude = -100.194253
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69120"
+

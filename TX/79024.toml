@@ -1,6 +1,8 @@
-zip_code = "79024"
-state = "TX"
 city = "Darrouzett"
 county = "Lipscomb"
-longitude = -100.325415
 latitude = 36.445302
+longitude = -100.325415
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79024"
+

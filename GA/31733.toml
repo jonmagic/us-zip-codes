@@ -1,6 +1,8 @@
-zip_code = "31733"
-state = "GA"
 city = "Chula"
 county = "Tift"
-longitude = -83.509385
 latitude = 31.557454
+longitude = -83.509385
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31733"
+

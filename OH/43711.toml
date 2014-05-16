@@ -1,6 +1,8 @@
-zip_code = "43711"
-state = "OH"
 city = "Ava"
 county = "Noble"
-longitude = -81.554854
 latitude = 39.827556
+longitude = -81.554854
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43711"
+

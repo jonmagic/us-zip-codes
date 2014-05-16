@@ -1,6 +1,8 @@
-zip_code = "29319"
-state = "SC"
 city = "Spartanburg"
 county = "Spartanburg"
-longitude = -81.96902
 latitude = 34.888237
+longitude = -81.96902
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29319"
+

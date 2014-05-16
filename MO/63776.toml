@@ -1,6 +1,8 @@
-zip_code = "63776"
-state = "MO"
 city = "Mc Bride"
 county = "Perry"
-longitude = -89.811616
 latitude = 37.734776
+longitude = -89.811616
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63776"
+

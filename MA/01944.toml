@@ -1,6 +1,8 @@
-zip_code = "01944"
-state = "MA"
 city = "Manchester"
 county = "Essex"
-longitude = -70.755062
 latitude = 42.579503
+longitude = -70.755062
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01944"
+

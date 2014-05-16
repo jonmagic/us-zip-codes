@@ -1,6 +1,8 @@
-zip_code = "71859"
-state = "AR"
 city = "Saratoga"
 county = "Howard"
-longitude = -93.884355
 latitude = 33.78127
+longitude = -93.884355
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71859"
+

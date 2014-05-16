@@ -1,6 +1,8 @@
-zip_code = "16423"
-state = "PA"
 city = "Lake City"
 county = "Erie"
-longitude = -80.346492
 latitude = 42.015789
+longitude = -80.346492
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16423"
+

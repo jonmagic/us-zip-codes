@@ -1,6 +1,8 @@
-zip_code = "65739"
-state = "MO"
 city = "Ridgedale"
 county = "Taney"
-longitude = -93.230334
 latitude = 36.610226
+longitude = -93.230334
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65739"
+

@@ -1,6 +1,8 @@
-zip_code = "74944"
-state = "OK"
 city = "Mccurtain"
 county = "Haskell"
-longitude = -94.966276
 latitude = 35.15159
+longitude = -94.966276
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74944"
+

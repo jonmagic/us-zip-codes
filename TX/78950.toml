@@ -1,6 +1,8 @@
-zip_code = "78950"
-state = "TX"
 city = "New Ulm"
 county = "Austin"
-longitude = -96.496067
 latitude = 29.913413
+longitude = -96.496067
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78950"
+

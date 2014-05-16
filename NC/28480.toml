@@ -1,6 +1,8 @@
-zip_code = "28480"
-state = "NC"
 city = "Wrightsville Beach"
 county = "New Hanover"
-longitude = -77.859467
 latitude = 34.214489
+longitude = -77.859467
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28480"
+

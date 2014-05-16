@@ -1,6 +1,8 @@
-zip_code = "43349"
-state = "OH"
 city = "Shauck"
 county = "Morrow"
-longitude = -82.661938
 latitude = 40.614239
+longitude = -82.661938
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43349"
+

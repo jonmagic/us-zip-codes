@@ -1,6 +1,8 @@
-zip_code = "66732"
-state = "KS"
 city = "Elsmore"
 county = "Allen"
-longitude = -95.215073
 latitude = 37.838456
+longitude = -95.215073
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66732"
+

@@ -1,6 +1,8 @@
-zip_code = "50401"
-state = "IA"
 city = "Mason City"
 county = "Cerro Gordo"
-longitude = -93.270559
 latitude = 43.116477
+longitude = -93.270559
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50401"
+

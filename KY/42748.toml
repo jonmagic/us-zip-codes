@@ -1,6 +1,8 @@
-zip_code = "42748"
-state = "KY"
 city = "Hodgenville"
 county = "Larue"
-longitude = -85.707267
 latitude = 37.559321
+longitude = -85.707267
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42748"
+

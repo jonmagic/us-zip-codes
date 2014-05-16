@@ -1,6 +1,8 @@
-zip_code = "62253"
-state = "IL"
 city = "Keyesport"
 county = "Clinton"
-longitude = -89.472555
 latitude = 38.588112
+longitude = -89.472555
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62253"
+

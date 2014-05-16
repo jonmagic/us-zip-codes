@@ -1,6 +1,8 @@
-zip_code = "18960"
-state = "PA"
 city = "Sellersville"
 county = "Bucks"
-longitude = -75.317521
 latitude = 40.360473
+longitude = -75.317521
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18960"
+

@@ -1,6 +1,8 @@
-zip_code = "43040"
-state = "OH"
 city = "Marysville"
 county = "Union"
-longitude = -83.376632
 latitude = 40.267651
+longitude = -83.376632
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43040"
+

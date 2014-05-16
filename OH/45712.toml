@@ -1,6 +1,8 @@
-zip_code = "45712"
-state = "OH"
 city = "Barlow"
 county = "Washington"
-longitude = -81.395219
 latitude = 39.386825
+longitude = -81.395219
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45712"
+

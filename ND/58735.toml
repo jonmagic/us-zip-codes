@@ -1,6 +1,8 @@
-zip_code = "58735"
-state = "ND"
 city = "Douglas"
 county = "Ward"
-longitude = -101.464689
 latitude = 47.952635
+longitude = -101.464689
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58735"
+

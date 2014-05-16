@@ -1,6 +1,8 @@
-zip_code = "68742"
-state = "NE"
 city = "Inman"
 county = "Holt"
-longitude = -98.530866
 latitude = 42.380604
+longitude = -98.530866
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68742"
+

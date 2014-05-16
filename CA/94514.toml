@@ -1,6 +1,8 @@
-zip_code = "94514"
-state = "CA"
 city = "Byron"
 county = "Contra Costa"
-longitude = -121.617002
 latitude = 37.858925
+longitude = -121.617002
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94514"
+

@@ -1,6 +1,8 @@
-zip_code = "01950"
-state = "MA"
 city = "Newburyport"
 county = "Essex"
-longitude = -70.873196
 latitude = 42.80965
+longitude = -70.873196
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01950"
+

@@ -1,6 +1,8 @@
-zip_code = "41713"
-state = "KY"
 city = "Avawam"
 county = "Perry"
-longitude = -83.273609
 latitude = 37.22539
+longitude = -83.273609
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41713"
+

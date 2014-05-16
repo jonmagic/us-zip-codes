@@ -1,6 +1,8 @@
-zip_code = "37369"
-state = "TN"
 city = "Reliance"
 county = "Polk"
-longitude = -84.502303
 latitude = 35.171646
+longitude = -84.502303
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37369"
+

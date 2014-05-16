@@ -1,6 +1,8 @@
-zip_code = "04092"
-state = "ME"
 city = "Westbrook"
 county = "Cumberland"
-longitude = -70.568534
 latitude = 43.855116
+longitude = -70.568534
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04092"
+

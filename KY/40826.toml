@@ -1,6 +1,8 @@
-zip_code = "40826"
-state = "KY"
 city = "Eolia"
 county = "Letcher"
-longitude = -82.809267
 latitude = 37.043638
+longitude = -82.809267
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40826"
+

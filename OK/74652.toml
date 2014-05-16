@@ -1,6 +1,8 @@
-zip_code = "74652"
-state = "OK"
 city = "Shidler"
 county = "Osage"
-longitude = -96.6607
 latitude = 36.781943
+longitude = -96.6607
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74652"
+

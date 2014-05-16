@@ -1,6 +1,8 @@
-zip_code = "96114"
-state = "CA"
 city = "Janesville"
 county = "Lassen"
-longitude = -120.506184
 latitude = 40.298255
+longitude = -120.506184
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96114"
+

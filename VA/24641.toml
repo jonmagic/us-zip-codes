@@ -1,6 +1,8 @@
-zip_code = "24641"
-state = "VA"
 city = "Richlands"
 county = "Tazewell"
-longitude = -81.554668
 latitude = 37.186196
+longitude = -81.554668
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24641"
+

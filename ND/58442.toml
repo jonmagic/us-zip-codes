@@ -1,6 +1,8 @@
-zip_code = "58442"
-state = "ND"
 city = "Gackle"
 county = "Logan"
-longitude = -99.173063
 latitude = 46.522452
+longitude = -99.173063
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58442"
+

@@ -1,6 +1,8 @@
-zip_code = "10306"
-state = "NY"
 city = "Staten Island"
 county = "Richmond"
-longitude = -74.12241
 latitude = 40.559668
+longitude = -74.12241
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10306"
+

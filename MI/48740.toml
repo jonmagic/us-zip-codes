@@ -1,6 +1,8 @@
-zip_code = "48740"
-state = "MI"
 city = "Harrisville"
 county = "Alcona"
-longitude = -83.41973
 latitude = 44.656694
+longitude = -83.41973
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48740"
+

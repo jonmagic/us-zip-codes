@@ -1,6 +1,8 @@
-zip_code = "54730"
-state = "WI"
 city = "Colfax"
 county = "Dunn"
-longitude = -91.888046
 latitude = 45.037889
+longitude = -91.888046
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54730"
+

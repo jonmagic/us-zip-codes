@@ -1,6 +1,8 @@
-zip_code = "72111"
-state = "AR"
 city = "Mount Vernon"
 county = "Faulkner"
-longitude = -92.168875
 latitude = 35.23159
+longitude = -92.168875
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72111"
+

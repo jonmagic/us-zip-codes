@@ -1,6 +1,8 @@
-zip_code = "45732"
-state = "OH"
 city = "Glouster"
 county = "Athens"
-longitude = -82.063319
 latitude = 39.475277
+longitude = -82.063319
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45732"
+

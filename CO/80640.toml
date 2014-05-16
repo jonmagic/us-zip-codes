@@ -1,6 +1,8 @@
-zip_code = "80640"
-state = "CO"
 city = "Henderson"
 county = "Adams"
-longitude = -104.883581
 latitude = 39.879235
+longitude = -104.883581
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80640"
+

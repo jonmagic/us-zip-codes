@@ -1,6 +1,8 @@
-zip_code = "52030"
-state = "IA"
 city = "Andrew"
 county = "Jackson"
-longitude = -90.61074
 latitude = 42.164053
+longitude = -90.61074
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52030"
+

@@ -1,6 +1,8 @@
-zip_code = "15831"
-state = "PA"
 city = "Dagus Mines"
 county = "Elk"
-longitude = -78.621286
 latitude = 41.304782
+longitude = -78.621286
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15831"
+

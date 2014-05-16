@@ -1,6 +1,8 @@
-zip_code = "13142"
-state = "NY"
 city = "Pulaski"
 county = "Oswego"
-longitude = -76.15532
 latitude = 43.560497
+longitude = -76.15532
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13142"
+

@@ -1,6 +1,8 @@
-zip_code = "58361"
-state = "ND"
 city = "Pekin"
 county = "Nelson"
-longitude = -98.364994
 latitude = 47.798489
+longitude = -98.364994
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58361"
+

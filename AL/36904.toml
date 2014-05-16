@@ -1,6 +1,8 @@
-zip_code = "36904"
-state = "AL"
 city = "Butler"
 county = "Choctaw"
-longitude = -88.273598
 latitude = 32.115939
+longitude = -88.273598
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36904"
+

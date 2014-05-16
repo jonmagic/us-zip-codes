@@ -1,6 +1,8 @@
-zip_code = "72421"
-state = "AR"
 city = "Cash"
 county = "Craighead"
-longitude = -90.963448
 latitude = 35.795933
+longitude = -90.963448
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72421"
+

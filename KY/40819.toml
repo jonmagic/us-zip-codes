@@ -1,6 +1,8 @@
-zip_code = "40819"
-state = "KY"
 city = "Coldiron"
 county = "Harlan"
-longitude = -83.470712
 latitude = 36.820072
+longitude = -83.470712
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40819"
+

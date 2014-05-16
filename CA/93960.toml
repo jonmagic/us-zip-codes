@@ -1,6 +1,8 @@
-zip_code = "93960"
-state = "CA"
 city = "Soledad"
 county = "Monterey"
-longitude = -121.368127
 latitude = 36.449485
+longitude = -121.368127
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93960"
+

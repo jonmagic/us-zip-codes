@@ -1,6 +1,8 @@
-zip_code = "12072"
-state = "NY"
 city = "Fultonville"
 county = "Montgomery"
-longitude = -74.404477
 latitude = 42.877533
+longitude = -74.404477
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12072"
+

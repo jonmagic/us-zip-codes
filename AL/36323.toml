@@ -1,6 +1,8 @@
-zip_code = "36323"
-state = "AL"
 city = "Elba"
 county = "Coffee"
-longitude = -86.083517
 latitude = 31.407434
+longitude = -86.083517
+state = ""
+state_code_alpha2 = ""
+zip_code = "36323"
+

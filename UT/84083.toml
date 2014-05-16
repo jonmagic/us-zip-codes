@@ -1,6 +1,8 @@
-zip_code = "84083"
-state = "UT"
 city = "Wendover"
 county = "Tooele"
-longitude = -113.991849
 latitude = 40.7329
+longitude = -113.991849
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84083"
+

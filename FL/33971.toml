@@ -1,6 +1,8 @@
-zip_code = "33971"
-state = "FL"
 city = "Lehigh Acres"
 county = "Lee"
-longitude = -81.670757
 latitude = 26.589408
+longitude = -81.670757
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33971"
+

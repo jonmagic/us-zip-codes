@@ -1,6 +1,8 @@
-zip_code = "55929"
-state = "MN"
 city = "Dover"
 county = "Olmsted"
-longitude = -92.138889
 latitude = 43.989637
+longitude = -92.138889
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55929"
+

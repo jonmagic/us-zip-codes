@@ -1,6 +1,8 @@
-zip_code = "30152"
-state = "GA"
 city = "Kennesaw"
 county = "Cobb"
-longitude = -84.654385
 latitude = 33.995132
+longitude = -84.654385
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30152"
+

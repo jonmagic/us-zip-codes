@@ -1,6 +1,8 @@
-zip_code = "98259"
-state = "WA"
 city = "North Lakewood"
 county = "Snohomish"
-longitude = -121.682271
 latitude = 48.037258
+longitude = -121.682271
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98259"
+

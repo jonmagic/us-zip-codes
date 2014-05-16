@@ -1,6 +1,8 @@
-zip_code = "67744"
-state = "KS"
 city = "Ludell"
 county = "Rawlins"
-longitude = -101.076282
 latitude = 39.785211
+longitude = -101.076282
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67744"
+

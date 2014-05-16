@@ -1,6 +1,8 @@
-zip_code = "25438"
-state = "WV"
 city = "Ranson"
 county = "Jefferson"
-longitude = -77.831031
 latitude = 39.26006
+longitude = -77.831031
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25438"
+

@@ -1,6 +1,8 @@
-zip_code = "27830"
-state = "NC"
 city = "Fremont"
 county = "Wayne"
-longitude = -77.979026
 latitude = 35.469355
+longitude = -77.979026
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27830"
+

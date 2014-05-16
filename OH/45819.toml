@@ -1,6 +1,8 @@
-zip_code = "45819"
-state = "OH"
 city = "Buckland"
 county = "Auglaize"
-longitude = -84.260275
 latitude = 40.62408
+longitude = -84.260275
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45819"
+

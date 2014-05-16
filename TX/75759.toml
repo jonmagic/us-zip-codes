@@ -1,6 +1,8 @@
-zip_code = "75759"
-state = "TX"
 city = "Cuney"
 county = "Cherokee"
-longitude = -95.228829
 latitude = 31.873255
+longitude = -95.228829
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75759"
+

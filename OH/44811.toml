@@ -1,6 +1,8 @@
-zip_code = "44811"
-state = "OH"
 city = "Bellevue"
 county = "Huron"
-longitude = -82.793687
 latitude = 41.216488
+longitude = -82.793687
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44811"
+

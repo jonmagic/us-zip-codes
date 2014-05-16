@@ -1,6 +1,8 @@
-zip_code = "02461"
-state = "MA"
 city = "Newton Highlands"
 county = "Middlesex"
-longitude = -71.205349
 latitude = 42.361196
+longitude = -71.205349
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02461"
+

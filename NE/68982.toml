@@ -1,6 +1,8 @@
-zip_code = "68982"
-state = "NE"
 city = "Wilcox"
 county = "Kearney"
-longitude = -99.152181
 latitude = 40.378795
+longitude = -99.152181
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68982"
+

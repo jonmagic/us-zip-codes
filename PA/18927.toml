@@ -1,6 +1,8 @@
-zip_code = "18927"
-state = "PA"
 city = "Hilltown"
 county = "Bucks"
-longitude = -75.254829
 latitude = 40.323533
+longitude = -75.254829
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18927"
+

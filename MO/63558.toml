@@ -1,6 +1,8 @@
-zip_code = "63558"
-state = "MO"
 city = "New Cambria"
 county = "Macon"
-longitude = -92.757639
 latitude = 39.779466
+longitude = -92.757639
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63558"
+

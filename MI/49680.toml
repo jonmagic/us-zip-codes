@@ -1,6 +1,8 @@
-zip_code = "49680"
-state = "MI"
 city = "South Boardman"
 county = "Kalkaska"
-longitude = -85.252891
 latitude = 44.634438
+longitude = -85.252891
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49680"
+

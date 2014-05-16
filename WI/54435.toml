@@ -1,6 +1,8 @@
-zip_code = "54435"
-state = "WI"
 city = "Gleason"
 county = "Lincoln"
-longitude = -89.607232
 latitude = 45.38097
+longitude = -89.607232
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54435"
+

@@ -1,6 +1,8 @@
-zip_code = "15934"
-state = "PA"
 city = "Elton"
 county = "Cambria"
-longitude = -78.803247
 latitude = 40.279925
+longitude = -78.803247
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15934"
+

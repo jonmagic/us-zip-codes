@@ -1,6 +1,8 @@
-zip_code = "72057"
-state = "AR"
 city = "Grapevine"
 county = "Grant"
-longitude = -92.304314
 latitude = 34.152591
+longitude = -92.304314
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72057"
+

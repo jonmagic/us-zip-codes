@@ -1,6 +1,8 @@
-zip_code = "28615"
-state = "NC"
 city = "Creston"
 county = "Ashe"
-longitude = -81.596886
 latitude = 36.464673
+longitude = -81.596886
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28615"
+

@@ -1,6 +1,8 @@
-zip_code = "68855"
-state = "NE"
 city = "Mason City"
 county = "Custer"
-longitude = -99.37871
 latitude = 41.283369
+longitude = -99.37871
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68855"
+

@@ -1,6 +1,8 @@
-zip_code = "96771"
-state = "HI"
 city = "Mountain View"
 county = "Hawaii"
-longitude = -155.125657
 latitude = 19.534945
+longitude = -155.125657
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96771"
+

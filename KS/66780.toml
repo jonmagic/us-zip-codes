@@ -1,6 +1,8 @@
-zip_code = "66780"
-state = "KS"
 city = "Walnut"
 county = "Crawford"
-longitude = -94.856834
 latitude = 37.57292
+longitude = -94.856834
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66780"
+

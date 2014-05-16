@@ -1,6 +1,8 @@
-zip_code = "27023"
-state = "NC"
 city = "Lewisville"
 county = "Forsyth"
-longitude = -80.441566
 latitude = 36.15511
+longitude = -80.441566
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27023"
+

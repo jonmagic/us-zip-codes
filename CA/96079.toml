@@ -1,6 +1,8 @@
-zip_code = "96079"
-state = "CA"
 city = "Shasta Lake"
 county = "Shasta"
-longitude = -122.334778
 latitude = 40.686639
+longitude = -122.334778
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96079"
+

@@ -1,6 +1,8 @@
-zip_code = "49128"
-state = "MI"
 city = "Three Oaks"
 county = "Berrien"
-longitude = -86.600498
 latitude = 41.827553
+longitude = -86.600498
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49128"
+

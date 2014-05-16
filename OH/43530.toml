@@ -1,6 +1,8 @@
-zip_code = "43530"
-state = "OH"
 city = "Jewell"
 county = "Defiance"
-longitude = -84.279306
 latitude = 41.325764
+longitude = -84.279306
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43530"
+

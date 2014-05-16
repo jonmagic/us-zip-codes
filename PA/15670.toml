@@ -1,6 +1,8 @@
-zip_code = "15670"
-state = "PA"
 city = "New Alexandria"
 county = "Westmoreland"
-longitude = -79.444008
 latitude = 40.396655
+longitude = -79.444008
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15670"
+

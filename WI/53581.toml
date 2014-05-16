@@ -1,6 +1,8 @@
-zip_code = "53581"
-state = "WI"
 city = "Richland Center"
 county = "Richland"
-longitude = -90.430225
 latitude = 43.366148
+longitude = -90.430225
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53581"
+

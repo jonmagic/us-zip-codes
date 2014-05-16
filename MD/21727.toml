@@ -1,6 +1,8 @@
-zip_code = "21727"
-state = "MD"
 city = "Emmitsburg"
 county = "Frederick"
-longitude = -77.336732
 latitude = 39.675397
+longitude = -77.336732
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21727"
+

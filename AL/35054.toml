@@ -1,6 +1,8 @@
-zip_code = "35054"
-state = "AL"
 city = "Cropwell"
 county = "Saint Clair"
-longitude = -86.300691
 latitude = 33.529643
+longitude = -86.300691
+state = ""
+state_code_alpha2 = ""
+zip_code = "35054"
+

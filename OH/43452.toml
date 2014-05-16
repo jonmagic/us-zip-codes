@@ -1,6 +1,8 @@
-zip_code = "43452"
-state = "OH"
 city = "Port Clinton"
 county = "Ottawa"
-longitude = -83.050219
 latitude = 41.558318
+longitude = -83.050219
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43452"
+

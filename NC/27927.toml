@@ -1,6 +1,8 @@
-zip_code = "27927"
-state = "NC"
 city = "Corolla"
 county = "Currituck"
-longitude = -75.825512
 latitude = 36.391941
+longitude = -75.825512
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27927"
+

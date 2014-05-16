@@ -1,6 +1,8 @@
-zip_code = "48880"
-state = "MI"
 city = "Saint Louis"
 county = "Gratiot"
-longitude = -84.603002
 latitude = 43.324772
+longitude = -84.603002
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48880"
+

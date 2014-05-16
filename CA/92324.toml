@@ -1,6 +1,8 @@
-zip_code = "92324"
-state = "CA"
 city = "Colton"
 county = "San Bernardino"
-longitude = -116.900557
 latitude = 34.151161
+longitude = -116.900557
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92324"
+

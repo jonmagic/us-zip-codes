@@ -1,6 +1,8 @@
-zip_code = "87516"
-state = "NM"
 city = "Canones"
 county = "Rio Arriba"
-longitude = -106.437649
 latitude = 36.181443
+longitude = -106.437649
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87516"
+

@@ -1,6 +1,8 @@
-zip_code = "70778"
-state = "LA"
 city = "Sorrento"
 county = "Ascension"
-longitude = -90.880484
 latitude = 30.186506
+longitude = -90.880484
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70778"
+

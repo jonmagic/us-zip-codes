@@ -1,6 +1,8 @@
-zip_code = "28448"
-state = "NC"
 city = "Kelly"
 county = "Bladen"
-longitude = -78.322339
 latitude = 34.497157
+longitude = -78.322339
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28448"
+

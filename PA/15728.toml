@@ -1,6 +1,8 @@
-zip_code = "15728"
-state = "PA"
 city = "Clymer"
 county = "Indiana"
-longitude = -78.997726
 latitude = 40.748901
+longitude = -78.997726
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15728"
+

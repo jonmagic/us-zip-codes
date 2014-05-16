@@ -1,6 +1,8 @@
-zip_code = "95317"
-state = "CA"
 city = "El Nido"
 county = "Merced"
-longitude = -120.504934
 latitude = 37.125735
+longitude = -120.504934
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95317"
+

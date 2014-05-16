@@ -1,6 +1,8 @@
-zip_code = "08103"
-state = "NJ"
 city = "Camden"
 county = "Camden"
-longitude = -75.108519
 latitude = 39.933174
+longitude = -75.108519
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08103"
+

@@ -1,6 +1,8 @@
-zip_code = "37171"
-state = "TN"
 city = "Southside"
 county = "Montgomery"
-longitude = -87.316272
 latitude = 36.361093
+longitude = -87.316272
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37171"
+

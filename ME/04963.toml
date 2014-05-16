@@ -1,6 +1,8 @@
-zip_code = "04963"
-state = "ME"
 city = "Oakland"
 county = "Kennebec"
-longitude = -69.826495
 latitude = 44.557111
+longitude = -69.826495
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04963"
+

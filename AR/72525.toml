@@ -1,6 +1,8 @@
-zip_code = "72525"
-state = "AR"
 city = "Cherokee Village"
 county = "Sharp"
-longitude = -91.488845
 latitude = 36.295879
+longitude = -91.488845
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72525"
+

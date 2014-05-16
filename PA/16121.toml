@@ -1,6 +1,8 @@
-zip_code = "16121"
-state = "PA"
 city = "Farrell"
 county = "Mercer"
-longitude = -80.487821
 latitude = 41.210606
+longitude = -80.487821
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16121"
+

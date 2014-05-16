@@ -1,6 +1,8 @@
-zip_code = "51039"
-state = "IA"
 city = "Moville"
 county = "Woodbury"
-longitude = -96.069377
 latitude = 42.444948
+longitude = -96.069377
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51039"
+

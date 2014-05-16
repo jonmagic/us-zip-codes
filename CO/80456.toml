@@ -1,6 +1,8 @@
-zip_code = "80456"
-state = "CO"
 city = "Jefferson"
 county = "Park"
-longitude = -105.686535
 latitude = 39.27593
+longitude = -105.686535
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80456"
+

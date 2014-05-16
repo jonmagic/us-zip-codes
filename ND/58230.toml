@@ -1,6 +1,8 @@
-zip_code = "58230"
-state = "ND"
 city = "Finley"
 county = "Steele"
-longitude = -97.83707
 latitude = 47.51207
+longitude = -97.83707
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58230"
+

@@ -1,6 +1,8 @@
-zip_code = "25547"
-state = "WV"
 city = "Pecks Mill"
 county = "Logan"
-longitude = -82.005372
 latitude = 37.955852
+longitude = -82.005372
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25547"
+

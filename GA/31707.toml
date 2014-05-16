@@ -1,6 +1,8 @@
-zip_code = "31707"
-state = "GA"
 city = "Albany"
 county = "Dougherty"
-longitude = -84.293109
 latitude = 31.529269
+longitude = -84.293109
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31707"
+

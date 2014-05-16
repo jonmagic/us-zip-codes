@@ -1,6 +1,8 @@
-zip_code = "31516"
-state = "GA"
 city = "Blackshear"
 county = "Pierce"
-longitude = -82.271206
 latitude = 31.326324
+longitude = -82.271206
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31516"
+

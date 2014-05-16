@@ -1,6 +1,8 @@
-zip_code = "25902"
-state = "WV"
 city = "Odd"
 county = "Raleigh"
-longitude = -81.190678
 latitude = 37.596319
+longitude = -81.190678
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25902"
+

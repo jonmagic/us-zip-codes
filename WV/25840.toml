@@ -1,6 +1,8 @@
-zip_code = "25840"
-state = "WV"
 city = "Fayetteville"
 county = "Fayette"
-longitude = -81.094259
 latitude = 38.063982
+longitude = -81.094259
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25840"
+

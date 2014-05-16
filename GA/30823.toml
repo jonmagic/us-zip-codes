@@ -1,6 +1,8 @@
-zip_code = "30823"
-state = "GA"
 city = "Stapleton"
 county = "Jefferson"
-longitude = -82.438568
 latitude = 33.181447
+longitude = -82.438568
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30823"
+

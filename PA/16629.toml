@@ -1,6 +1,8 @@
-zip_code = "16629"
-state = "PA"
 city = "Coupon"
 county = "Cambria"
-longitude = -78.526274
 latitude = 40.521778
+longitude = -78.526274
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16629"
+

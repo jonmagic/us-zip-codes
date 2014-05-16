@@ -1,6 +1,8 @@
-zip_code = "51461"
-state = "IA"
 city = "Schleswig"
 county = "Crawford"
-longitude = -95.388295
 latitude = 42.137253
+longitude = -95.388295
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51461"
+

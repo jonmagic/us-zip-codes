@@ -1,6 +1,8 @@
-zip_code = "57079"
-state = "SD"
 city = "Yankton"
 county = "Yankton"
-longitude = -97.390268
 latitude = 42.867556
+longitude = -97.390268
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57079"
+

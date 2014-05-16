@@ -1,6 +1,8 @@
-zip_code = "37824"
-state = "TN"
 city = "New Tazewell"
 county = "Claiborne"
-longitude = -83.591129
 latitude = 36.449963
+longitude = -83.591129
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37824"
+

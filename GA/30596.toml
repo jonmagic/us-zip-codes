@@ -1,6 +1,8 @@
-zip_code = "30596"
-state = "GA"
 city = "Alto"
 county = "Habersham"
-longitude = -83.509934
 latitude = 34.629391
+longitude = -83.509934
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30596"
+

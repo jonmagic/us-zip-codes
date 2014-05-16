@@ -1,6 +1,8 @@
-zip_code = "95482"
-state = "CA"
 city = "Ukiah"
 county = "Mendocino"
-longitude = -123.321202
 latitude = 39.403699
+longitude = -123.321202
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95482"
+

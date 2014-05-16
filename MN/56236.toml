@@ -1,6 +1,8 @@
-zip_code = "56236"
-state = "MN"
 city = "Dumont"
 county = "Traverse"
-longitude = -96.422981
 latitude = 45.718556
+longitude = -96.422981
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56236"
+

@@ -1,6 +1,8 @@
-zip_code = "76577"
-state = "TX"
 city = "Thorndale"
 county = "Milam"
-longitude = -97.205788
 latitude = 30.613774
+longitude = -97.205788
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76577"
+

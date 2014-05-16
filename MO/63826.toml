@@ -1,6 +1,8 @@
-zip_code = "63826"
-state = "MO"
 city = "Braggadocio"
 county = "Pemiscot"
-longitude = -89.671646
 latitude = 36.178122
+longitude = -89.671646
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63826"
+

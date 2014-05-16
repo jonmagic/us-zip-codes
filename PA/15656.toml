@@ -1,6 +1,8 @@
-zip_code = "15656"
-state = "PA"
 city = "Leechburg"
 county = "Armstrong"
-longitude = -79.610962
 latitude = 40.63896
+longitude = -79.610962
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15656"
+

@@ -1,6 +1,8 @@
-zip_code = "13341"
-state = "NY"
 city = "Franklin Springs"
 county = "Oneida"
-longitude = -75.396214
 latitude = 43.036069
+longitude = -75.396214
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13341"
+

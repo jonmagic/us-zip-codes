@@ -1,6 +1,8 @@
-zip_code = "61428"
-state = "IL"
 city = "Dahinda"
 county = "Knox"
-longitude = -90.102455
 latitude = 41.007962
+longitude = -90.102455
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61428"
+

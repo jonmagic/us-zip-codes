@@ -1,6 +1,8 @@
-zip_code = "06430"
-state = "CT"
 city = "Fairfield"
 county = "Fairfield"
-longitude = -73.282408
 latitude = 41.175173
+longitude = -73.282408
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06430"
+

@@ -1,6 +1,8 @@
-zip_code = "56307"
-state = "MN"
 city = "Albany"
 county = "Stearns"
-longitude = -94.494229
 latitude = 45.614724
+longitude = -94.494229
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56307"
+

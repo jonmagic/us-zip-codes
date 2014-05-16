@@ -1,6 +1,8 @@
-zip_code = "05731"
-state = "VT"
 city = "Benson"
 county = "Rutland"
-longitude = -73.291868
 latitude = 43.687677
+longitude = -73.291868
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05731"
+

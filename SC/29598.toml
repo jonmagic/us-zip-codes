@@ -1,6 +1,8 @@
-zip_code = "29598"
-state = "SC"
 city = "North Myrtle Beach"
 county = "Horry"
-longitude = -78.919205
 latitude = 33.935814
+longitude = -78.919205
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29598"
+

@@ -1,6 +1,8 @@
-zip_code = "43942"
-state = "OH"
 city = "Powhatan Point"
 county = "Belmont"
-longitude = -80.960745
 latitude = 40.006175
+longitude = -80.960745
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43942"
+

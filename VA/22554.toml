@@ -1,6 +1,8 @@
-zip_code = "22554"
-state = "VA"
 city = "Stafford"
 county = "Stafford"
-longitude = -77.4354
 latitude = 38.438958
+longitude = -77.4354
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22554"
+

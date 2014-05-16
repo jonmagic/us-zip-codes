@@ -1,6 +1,8 @@
-zip_code = "17213"
-state = "PA"
 city = "Blairs Mills"
 county = "Huntingdon"
-longitude = -77.865942
 latitude = 40.17973
+longitude = -77.865942
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17213"
+

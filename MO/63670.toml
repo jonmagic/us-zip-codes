@@ -1,6 +1,8 @@
-zip_code = "63670"
-state = "MO"
 city = "Sainte Genevieve"
 county = "Sainte Genevieve"
-longitude = -90.175244
 latitude = 37.865528
+longitude = -90.175244
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63670"
+

@@ -1,6 +1,8 @@
-zip_code = "54493"
-state = "WI"
 city = "Willard"
 county = "Clark"
-longitude = -90.769733
 latitude = 44.715341
+longitude = -90.769733
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54493"
+

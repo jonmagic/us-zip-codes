@@ -1,6 +1,8 @@
-zip_code = "84635"
-state = "UT"
 city = "Hinckley"
 county = "Millard"
-longitude = -113.130306
 latitude = 39.114202
+longitude = -113.130306
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84635"
+

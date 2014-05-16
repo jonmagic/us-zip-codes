@@ -1,6 +1,8 @@
-zip_code = "60136"
-state = "IL"
 city = "Gilberts"
 county = "Kane"
-longitude = -88.379932
 latitude = 42.102524
+longitude = -88.379932
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60136"
+

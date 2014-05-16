@@ -1,6 +1,8 @@
-zip_code = "01036"
-state = "MA"
 city = "Hampden"
 county = "Hampden"
-longitude = -72.417507
 latitude = 42.067614
+longitude = -72.417507
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01036"
+

@@ -1,6 +1,8 @@
-zip_code = "84087"
-state = "UT"
 city = "Woods Cross"
 county = "Davis"
-longitude = -111.926646
 latitude = 40.889027
+longitude = -111.926646
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84087"
+

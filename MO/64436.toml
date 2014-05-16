@@ -1,6 +1,8 @@
-zip_code = "64436"
-state = "MO"
 city = "Cosby"
 county = "Andrew"
-longitude = -94.68387
 latitude = 39.864915
+longitude = -94.68387
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64436"
+

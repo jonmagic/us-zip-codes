@@ -1,6 +1,8 @@
-zip_code = "40927"
-state = "KY"
 city = "Closplint"
 county = "Harlan"
-longitude = -83.030287
 latitude = 36.88452
+longitude = -83.030287
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40927"
+

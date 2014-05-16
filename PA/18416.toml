@@ -1,6 +1,8 @@
-zip_code = "18416"
-state = "PA"
 city = "Elmhurst"
 county = "Lackawanna"
-longitude = -75.547966
 latitude = 41.375602
+longitude = -75.547966
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18416"
+

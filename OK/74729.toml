@@ -1,6 +1,8 @@
-zip_code = "74729"
-state = "OK"
 city = "Caddo"
 county = "Bryan"
-longitude = -96.301579
 latitude = 34.092082
+longitude = -96.301579
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74729"
+

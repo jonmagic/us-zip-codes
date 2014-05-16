@@ -1,6 +1,8 @@
-zip_code = "34679"
-state = "FL"
 city = "Aripeka"
 county = "Pasco"
-longitude = -82.661555
 latitude = 28.430213
+longitude = -82.661555
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34679"
+

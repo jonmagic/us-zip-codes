@@ -1,6 +1,8 @@
-zip_code = "43540"
-state = "OH"
 city = "Metamora"
 county = "Fulton"
-longitude = -84.104541
 latitude = 41.688656
+longitude = -84.104541
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43540"
+

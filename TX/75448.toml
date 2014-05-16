@@ -1,6 +1,8 @@
-zip_code = "75448"
-state = "TX"
 city = "Klondike"
 county = "Delta"
-longitude = -95.584162
 latitude = 33.356865
+longitude = -95.584162
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75448"
+

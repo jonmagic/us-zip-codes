@@ -1,6 +1,8 @@
-zip_code = "12570"
-state = "NY"
 city = "Poughquag"
 county = "Dutchess"
-longitude = -73.650107
 latitude = 41.646389
+longitude = -73.650107
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12570"
+

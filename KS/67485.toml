@@ -1,6 +1,8 @@
-zip_code = "67485"
-state = "KS"
 city = "Tipton"
 county = "Mitchell"
-longitude = -98.470261
 latitude = 39.339425
+longitude = -98.470261
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67485"
+

@@ -1,6 +1,8 @@
-zip_code = "44883"
-state = "OH"
 city = "Tiffin"
 county = "Seneca"
-longitude = -83.144773
 latitude = 41.12453
+longitude = -83.144773
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44883"
+

@@ -1,6 +1,8 @@
-zip_code = "48162"
-state = "MI"
 city = "Monroe"
 county = "Monroe"
-longitude = -83.444773
 latitude = 41.929341
+longitude = -83.444773
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48162"
+

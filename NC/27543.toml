@@ -1,6 +1,8 @@
-zip_code = "27543"
-state = "NC"
 city = "Kipling"
 county = "Harnett"
-longitude = -78.882395
 latitude = 35.429849
+longitude = -78.882395
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27543"
+

@@ -1,6 +1,8 @@
-zip_code = "07083"
-state = "NJ"
 city = "Union"
 county = "Union"
-longitude = -74.269841
 latitude = 40.692651
+longitude = -74.269841
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07083"
+

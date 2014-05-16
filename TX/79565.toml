@@ -1,6 +1,8 @@
-zip_code = "79565"
-state = "TX"
 city = "Westbrook"
 county = "Mitchell"
-longitude = -101.043022
 latitude = 32.362705
+longitude = -101.043022
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79565"
+

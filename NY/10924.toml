@@ -1,6 +1,8 @@
-zip_code = "10924"
-state = "NY"
 city = "Goshen"
 county = "Orange"
-longitude = -74.210608
 latitude = 41.357428
+longitude = -74.210608
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10924"
+

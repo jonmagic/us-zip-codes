@@ -1,6 +1,8 @@
-zip_code = "49679"
-state = "MI"
 city = "Sears"
 county = "Osceola"
-longitude = -85.187258
 latitude = 43.963767
+longitude = -85.187258
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49679"
+

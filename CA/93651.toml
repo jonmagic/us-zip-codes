@@ -1,6 +1,8 @@
-zip_code = "93651"
-state = "CA"
 city = "Prather"
 county = "Fresno"
-longitude = -119.512686
 latitude = 37.008796
+longitude = -119.512686
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93651"
+

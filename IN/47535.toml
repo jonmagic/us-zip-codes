@@ -1,6 +1,8 @@
-zip_code = "47535"
-state = "IN"
 city = "Freelandville"
 county = "Knox"
-longitude = -87.312678
 latitude = 38.862735
+longitude = -87.312678
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47535"
+

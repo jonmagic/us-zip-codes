@@ -1,6 +1,8 @@
-zip_code = "49779"
-state = "MI"
 city = "Rogers City"
 county = "Presque Isle"
-longitude = -83.74985
 latitude = 45.384168
+longitude = -83.74985
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49779"
+

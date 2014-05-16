@@ -1,6 +1,8 @@
-zip_code = "25932"
-state = "WV"
 city = "Surveyor"
 county = "Raleigh"
-longitude = -81.221724
 latitude = 37.764228
+longitude = -81.221724
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25932"
+

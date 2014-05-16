@@ -1,6 +1,8 @@
-zip_code = "01510"
-state = "MA"
 city = "Clinton"
 county = "Worcester"
-longitude = -71.687523
 latitude = 42.413972
+longitude = -71.687523
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01510"
+

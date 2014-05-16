@@ -1,6 +1,8 @@
-zip_code = "98304"
-state = "WA"
 city = "Ashford"
 county = "Pierce"
-longitude = -122.05517
 latitude = 46.752611
+longitude = -122.05517
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98304"
+

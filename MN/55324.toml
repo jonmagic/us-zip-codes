@@ -1,6 +1,8 @@
-zip_code = "55324"
-state = "MN"
 city = "Darwin"
 county = "Meeker"
-longitude = -94.420292
 latitude = 45.070558
+longitude = -94.420292
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55324"
+

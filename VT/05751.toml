@@ -1,6 +1,8 @@
-zip_code = "05751"
-state = "VT"
 city = "Killington"
 county = "Rutland"
-longitude = -72.782713
 latitude = 43.656951
+longitude = -72.782713
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05751"
+

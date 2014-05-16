@@ -1,6 +1,8 @@
-zip_code = "50146"
-state = "IA"
 city = "Linden"
 county = "Dallas"
-longitude = -94.203105
 latitude = 41.674068
+longitude = -94.203105
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50146"
+

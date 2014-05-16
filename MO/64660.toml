@@ -1,6 +1,8 @@
-zip_code = "64660"
-state = "MO"
 city = "Mendon"
 county = "Chariton"
-longitude = -93.133852
 latitude = 39.590245
+longitude = -93.133852
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64660"
+

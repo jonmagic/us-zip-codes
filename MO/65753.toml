@@ -1,6 +1,8 @@
-zip_code = "65753"
-state = "MO"
 city = "Sparta"
 county = "Christian"
-longitude = -93.039554
 latitude = 36.993376
+longitude = -93.039554
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65753"
+

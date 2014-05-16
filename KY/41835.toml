@@ -1,6 +1,8 @@
-zip_code = "41835"
-state = "KY"
 city = "Mc Roberts"
 county = "Letcher"
-longitude = -82.673426
 latitude = 37.213652
+longitude = -82.673426
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41835"
+

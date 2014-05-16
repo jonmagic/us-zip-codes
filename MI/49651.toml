@@ -1,6 +1,8 @@
-zip_code = "49651"
-state = "MI"
 city = "Lake City"
 county = "Missaukee"
-longitude = -85.0946
 latitude = 44.376692
+longitude = -85.0946
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49651"
+

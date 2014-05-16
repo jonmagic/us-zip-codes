@@ -1,6 +1,8 @@
-zip_code = "63751"
-state = "MO"
 city = "Glenallen"
 county = "Bollinger"
-longitude = -90.04218
 latitude = 37.319652
+longitude = -90.04218
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63751"
+

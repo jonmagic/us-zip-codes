@@ -1,6 +1,8 @@
-zip_code = "11746"
-state = "NY"
 city = "Huntington Station"
 county = "Suffolk"
-longitude = -73.363363
 latitude = 40.814348
+longitude = -73.363363
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11746"
+

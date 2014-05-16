@@ -1,6 +1,8 @@
-zip_code = "55756"
-state = "MN"
 city = "Kerrick"
 county = "Pine"
-longitude = -92.662237
 latitude = 46.331356
+longitude = -92.662237
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55756"
+

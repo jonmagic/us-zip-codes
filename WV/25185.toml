@@ -1,6 +1,8 @@
-zip_code = "25185"
-state = "WV"
 city = "Mount Olive"
 county = "Fayette"
-longitude = -81.064784
 latitude = 38.041293
+longitude = -81.064784
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25185"
+

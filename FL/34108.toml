@@ -1,6 +1,8 @@
-zip_code = "34108"
-state = "FL"
 city = "Naples"
 county = "Collier"
-longitude = -81.807056
 latitude = 26.241595
+longitude = -81.807056
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34108"
+

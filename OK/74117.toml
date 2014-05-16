@@ -1,6 +1,8 @@
-zip_code = "74117"
-state = "OK"
 city = "Tulsa"
 county = "Tulsa"
-longitude = -95.947122
 latitude = 36.218091
+longitude = -95.947122
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74117"
+

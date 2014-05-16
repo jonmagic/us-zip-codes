@@ -1,6 +1,8 @@
-zip_code = "83205"
-state = "ID"
 city = "Pocatello"
 county = "Bannock"
-longitude = -112.410283
 latitude = 42.80616
+longitude = -112.410283
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83205"
+

@@ -1,6 +1,8 @@
-zip_code = "62255"
-state = "IL"
 city = "Lenzburg"
 county = "Saint Clair"
-longitude = -89.782156
 latitude = 38.30606
+longitude = -89.782156
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62255"
+

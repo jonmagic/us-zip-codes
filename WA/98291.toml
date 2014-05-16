@@ -1,6 +1,8 @@
-zip_code = "98291"
-state = "WA"
 city = "Snohomish"
 county = "Snohomish"
-longitude = -122.050108
 latitude = 47.909511
+longitude = -122.050108
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98291"
+

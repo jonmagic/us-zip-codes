@@ -1,6 +1,8 @@
-zip_code = "16669"
-state = "PA"
 city = "Petersburg"
 county = "Huntingdon"
-longitude = -78.073445
 latitude = 40.583226
+longitude = -78.073445
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16669"
+

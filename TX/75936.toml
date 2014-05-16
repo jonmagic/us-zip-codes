@@ -1,6 +1,8 @@
-zip_code = "75936"
-state = "TX"
 city = "Chester"
 county = "Tyler"
-longitude = -94.463387
 latitude = 30.766328
+longitude = -94.463387
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75936"
+

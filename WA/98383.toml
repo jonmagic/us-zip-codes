@@ -1,6 +1,8 @@
-zip_code = "98383"
-state = "WA"
 city = "Silverdale"
 county = "Kitsap"
-longitude = -122.707982
 latitude = 47.672498
+longitude = -122.707982
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98383"
+

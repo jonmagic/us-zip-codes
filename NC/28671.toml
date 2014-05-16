@@ -1,6 +1,8 @@
-zip_code = "28671"
-state = "NC"
 city = "Rutherford College"
 county = "Burke"
-longitude = -81.563674
 latitude = 35.74858
+longitude = -81.563674
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28671"
+

@@ -1,6 +1,8 @@
-zip_code = "73063"
-state = "OK"
 city = "Mulhall"
 county = "Logan"
-longitude = -97.404562
 latitude = 36.062875
+longitude = -97.404562
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73063"
+

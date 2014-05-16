@@ -1,6 +1,8 @@
-zip_code = "56060"
-state = "MN"
 city = "Lewisville"
 county = "Watonwan"
-longitude = -94.434135
 latitude = 43.923423
+longitude = -94.434135
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56060"
+

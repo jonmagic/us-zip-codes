@@ -1,6 +1,8 @@
-zip_code = "43044"
-state = "OH"
 city = "Mechanicsburg"
 county = "Champaign"
-longitude = -83.587808
 latitude = 40.117805
+longitude = -83.587808
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43044"
+

@@ -1,6 +1,8 @@
-zip_code = "38673"
-state = "MS"
 city = "Taylor"
 county = "Lafayette"
-longitude = -89.611016
 latitude = 34.291869
+longitude = -89.611016
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38673"
+

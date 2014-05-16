@@ -1,6 +1,8 @@
-zip_code = "42256"
-state = "KY"
 city = "Lewisburg"
 county = "Logan"
-longitude = -86.918045
 latitude = 36.907058
+longitude = -86.918045
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42256"
+

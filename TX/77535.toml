@@ -1,6 +1,8 @@
-zip_code = "77535"
-state = "TX"
 city = "Dayton"
 county = "Liberty"
-longitude = -94.80927
 latitude = 30.064742
+longitude = -94.80927
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77535"
+

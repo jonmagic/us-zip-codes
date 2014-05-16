@@ -1,6 +1,8 @@
-zip_code = "66533"
-state = "KS"
 city = "Rossville"
 county = "Shawnee"
-longitude = -95.959031
 latitude = 39.158392
+longitude = -95.959031
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66533"
+

@@ -1,6 +1,8 @@
-zip_code = "79772"
-state = "TX"
 city = "Pecos"
 county = "Reeves"
-longitude = -103.57906
 latitude = 31.446678
+longitude = -103.57906
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79772"
+

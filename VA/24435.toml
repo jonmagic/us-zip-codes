@@ -1,6 +1,8 @@
-zip_code = "24435"
-state = "VA"
 city = "Fairfield"
 county = "Rockbridge"
-longitude = -79.298708
 latitude = 37.875396
+longitude = -79.298708
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24435"
+

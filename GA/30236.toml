@@ -1,6 +1,8 @@
-zip_code = "30236"
-state = "GA"
 city = "Jonesboro"
 county = "Clayton"
-longitude = -84.337523
 latitude = 33.518505
+longitude = -84.337523
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30236"
+

@@ -1,6 +1,8 @@
-zip_code = "05359"
-state = "VT"
 city = "West Townshend"
 county = "Windham"
-longitude = -72.714573
 latitude = 43.133864
+longitude = -72.714573
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05359"
+

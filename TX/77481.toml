@@ -1,6 +1,8 @@
-zip_code = "77481"
-state = "TX"
 city = "Thompsons"
 county = "Fort Bend"
-longitude = -95.594174
 latitude = 29.489921
+longitude = -95.594174
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77481"
+

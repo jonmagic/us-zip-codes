@@ -1,6 +1,8 @@
-zip_code = "97876"
-state = "OR"
 city = "Summerville"
 county = "Union"
-longitude = -118.000258
 latitude = 45.295599
+longitude = -118.000258
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97876"
+

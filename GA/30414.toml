@@ -1,6 +1,8 @@
-zip_code = "30414"
-state = "GA"
 city = "Bellville"
 county = "Evans"
-longitude = -81.87191
 latitude = 32.163392
+longitude = -81.87191
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30414"
+

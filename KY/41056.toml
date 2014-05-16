@@ -1,6 +1,8 @@
-zip_code = "41056"
-state = "KY"
 city = "Maysville"
 county = "Mason"
-longitude = -83.806657
 latitude = 38.620653
+longitude = -83.806657
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41056"
+

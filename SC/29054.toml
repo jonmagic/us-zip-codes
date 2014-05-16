@@ -1,6 +1,8 @@
-zip_code = "29054"
-state = "SC"
 city = "Gilbert"
 county = "Lexington"
-longitude = -81.410107
 latitude = 33.925422
+longitude = -81.410107
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29054"
+

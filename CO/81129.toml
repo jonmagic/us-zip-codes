@@ -1,6 +1,8 @@
-zip_code = "81129"
-state = "CO"
 city = "Conejos"
 county = "Conejos"
-longitude = -106.02648
 latitude = 37.101134
+longitude = -106.02648
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81129"
+

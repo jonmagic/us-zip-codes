@@ -1,6 +1,8 @@
-zip_code = "68637"
-state = "NE"
 city = "Ericson"
 county = "Wheeler"
-longitude = -98.679988
 latitude = 41.779992
+longitude = -98.679988
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68637"
+

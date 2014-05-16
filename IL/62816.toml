@@ -1,6 +1,8 @@
-zip_code = "62816"
-state = "IL"
 city = "Bonnie"
 county = "Jefferson"
-longitude = -88.936697
 latitude = 38.20359
+longitude = -88.936697
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62816"
+

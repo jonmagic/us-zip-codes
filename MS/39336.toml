@@ -1,6 +1,8 @@
-zip_code = "39336"
-state = "MS"
 city = "Lawrence"
 county = "Newton"
-longitude = -89.258254
 latitude = 32.319198
+longitude = -89.258254
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39336"
+

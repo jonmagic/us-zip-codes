@@ -1,6 +1,8 @@
-zip_code = "49257"
-state = "MI"
 city = "Moscow"
 county = "Hillsdale"
-longitude = -84.503905
 latitude = 42.054795
+longitude = -84.503905
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49257"
+

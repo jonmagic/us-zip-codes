@@ -1,6 +1,8 @@
-zip_code = "38425"
-state = "TN"
 city = "Clifton"
 county = "Wayne"
-longitude = -87.930163
 latitude = 35.388038
+longitude = -87.930163
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38425"
+

@@ -1,6 +1,8 @@
-zip_code = "93205"
-state = "CA"
 city = "Bodfish"
 county = "Kern"
-longitude = -118.487681
 latitude = 35.569608
+longitude = -118.487681
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93205"
+

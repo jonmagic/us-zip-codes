@@ -1,6 +1,8 @@
-zip_code = "53127"
-state = "WI"
 city = "Genesee Depot"
 county = "Waukesha"
-longitude = -88.374455
 latitude = 42.960098
+longitude = -88.374455
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53127"
+

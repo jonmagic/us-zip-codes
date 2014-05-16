@@ -1,6 +1,8 @@
-zip_code = "61016"
-state = "IL"
 city = "Cherry Valley"
 county = "Winnebago"
-longitude = -88.983748
 latitude = 42.240704
+longitude = -88.983748
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61016"
+

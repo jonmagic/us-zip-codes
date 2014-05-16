@@ -1,6 +1,8 @@
-zip_code = "48635"
-state = "MI"
 city = "Lupton"
 county = "Ogemaw"
-longitude = -84.072974
 latitude = 44.377795
+longitude = -84.072974
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48635"
+

@@ -1,6 +1,8 @@
-zip_code = "73840"
-state = "OK"
 city = "Fargo"
 county = "Ellis"
-longitude = -99.622067
 latitude = 36.373497
+longitude = -99.622067
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73840"
+

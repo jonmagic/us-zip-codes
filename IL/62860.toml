@@ -1,6 +1,8 @@
-zip_code = "62860"
-state = "IL"
 city = "Macedonia"
 county = "Hamilton"
-longitude = -88.538609
 latitude = 38.081592
+longitude = -88.538609
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62860"
+

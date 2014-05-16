@@ -1,6 +1,8 @@
-zip_code = "63539"
-state = "MO"
 city = "Ethel"
 county = "Macon"
-longitude = -92.768069
 latitude = 39.934265
+longitude = -92.768069
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63539"
+

@@ -1,6 +1,8 @@
-zip_code = "24920"
-state = "WV"
 city = "Bartow"
 county = "Pocahontas"
-longitude = -79.990585
 latitude = 38.387966
+longitude = -79.990585
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24920"
+

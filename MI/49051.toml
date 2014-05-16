@@ -1,6 +1,8 @@
-zip_code = "49051"
-state = "MI"
 city = "East Leroy"
 county = "Calhoun"
-longitude = -85.234287
 latitude = 42.1779
+longitude = -85.234287
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49051"
+

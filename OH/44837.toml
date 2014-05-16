@@ -1,6 +1,8 @@
-zip_code = "44837"
-state = "OH"
 city = "Greenwich"
 county = "Huron"
-longitude = -82.564392
 latitude = 41.119451
+longitude = -82.564392
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44837"
+

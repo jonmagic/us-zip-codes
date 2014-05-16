@@ -1,6 +1,8 @@
-zip_code = "43346"
-state = "OH"
 city = "Roundhead"
 county = "Hardin"
-longitude = -83.846199
 latitude = 40.573227
+longitude = -83.846199
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43346"
+

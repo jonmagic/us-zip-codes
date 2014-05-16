@@ -1,6 +1,8 @@
-zip_code = "20722"
-state = "MD"
 city = "Brentwood"
 county = "Prince Georges"
-longitude = -76.865764
 latitude = 38.886849
+longitude = -76.865764
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20722"
+

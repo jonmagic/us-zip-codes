@@ -1,6 +1,8 @@
-zip_code = "80438"
-state = "CO"
 city = "Empire"
 county = "Clear Creek"
-longitude = -105.665451
 latitude = 39.76193
+longitude = -105.665451
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80438"
+

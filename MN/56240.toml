@@ -1,6 +1,8 @@
-zip_code = "56240"
-state = "MN"
 city = "Graceville"
 county = "Big Stone"
-longitude = -96.440429
 latitude = 45.521519
+longitude = -96.440429
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56240"
+

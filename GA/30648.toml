@@ -1,6 +1,8 @@
-zip_code = "30648"
-state = "GA"
 city = "Lexington"
 county = "Oglethorpe"
-longitude = -83.020293
 latitude = 33.85281
+longitude = -83.020293
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30648"
+

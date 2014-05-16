@@ -1,6 +1,8 @@
-zip_code = "49947"
-state = "MI"
 city = "Marenisco"
 county = "Gogebic"
-longitude = -89.612621
 latitude = 46.379315
+longitude = -89.612621
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49947"
+

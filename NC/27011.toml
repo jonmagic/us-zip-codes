@@ -1,6 +1,8 @@
-zip_code = "27011"
-state = "NC"
 city = "Boonville"
 county = "Yadkin"
-longitude = -80.690386
 latitude = 36.21397
+longitude = -80.690386
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27011"
+

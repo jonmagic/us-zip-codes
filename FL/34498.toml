@@ -1,6 +1,8 @@
-zip_code = "34498"
-state = "FL"
 city = "Yankeetown"
 county = "Levy"
-longitude = -82.719003
 latitude = 29.030531
+longitude = -82.719003
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34498"
+

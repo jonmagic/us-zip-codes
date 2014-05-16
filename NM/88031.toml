@@ -1,6 +1,8 @@
-zip_code = "88031"
-state = "NM"
 city = "Deming"
 county = "Luna"
-longitude = -107.74042
 latitude = 32.239815
+longitude = -107.74042
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88031"
+

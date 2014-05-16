@@ -1,6 +1,8 @@
-zip_code = "58359"
-state = "ND"
 city = "Orrin"
 county = "Pierce"
-longitude = -100.164357
 latitude = 48.089537
+longitude = -100.164357
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58359"
+

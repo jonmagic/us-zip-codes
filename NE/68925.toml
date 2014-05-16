@@ -1,6 +1,8 @@
-zip_code = "68925"
-state = "NE"
 city = "Ayr"
 county = "Adams"
-longitude = -98.463055
 latitude = 40.429989
+longitude = -98.463055
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68925"
+

@@ -1,6 +1,8 @@
-zip_code = "62363"
-state = "IL"
 city = "Pittsfield"
 county = "Pike"
-longitude = -90.798482
 latitude = 39.615433
+longitude = -90.798482
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62363"
+

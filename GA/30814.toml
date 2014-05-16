@@ -1,6 +1,8 @@
-zip_code = "30814"
-state = "GA"
 city = "Harlem"
 county = "Columbia"
-longitude = -82.307337
 latitude = 33.456131
+longitude = -82.307337
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30814"
+

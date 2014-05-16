@@ -1,6 +1,8 @@
-zip_code = "62948"
-state = "IL"
 city = "Herrin"
 county = "Williamson"
-longitude = -88.992312
 latitude = 37.740444
+longitude = -88.992312
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62948"
+

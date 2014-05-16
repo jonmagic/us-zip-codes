@@ -1,6 +1,8 @@
-zip_code = "28723"
-state = "NC"
 city = "Cullowhee"
 county = "Jackson"
-longitude = -83.132409
 latitude = 35.249256
+longitude = -83.132409
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28723"
+

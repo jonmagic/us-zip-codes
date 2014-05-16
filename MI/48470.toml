@@ -1,6 +1,8 @@
-zip_code = "48470"
-state = "MI"
 city = "Ruth"
 county = "Huron"
-longitude = -82.740132
 latitude = 43.743805
+longitude = -82.740132
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48470"
+

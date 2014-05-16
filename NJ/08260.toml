@@ -1,6 +1,8 @@
-zip_code = "08260"
-state = "NJ"
 city = "Wildwood"
 county = "Cape May"
-longitude = -74.77674
 latitude = 39.067777
+longitude = -74.77674
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08260"
+

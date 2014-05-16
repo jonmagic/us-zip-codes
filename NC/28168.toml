@@ -1,6 +1,8 @@
-zip_code = "28168"
-state = "NC"
 city = "Vale"
 county = "Lincoln"
-longitude = -81.418729
 latitude = 35.521229
+longitude = -81.418729
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28168"
+

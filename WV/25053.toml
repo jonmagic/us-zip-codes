@@ -1,6 +1,8 @@
-zip_code = "25053"
-state = "WV"
 city = "Danville"
 county = "Boone"
-longitude = -81.885268
 latitude = 38.01946
+longitude = -81.885268
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25053"
+

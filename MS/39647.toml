@@ -1,6 +1,8 @@
-zip_code = "39647"
-state = "MS"
 city = "Mc Call Creek"
 county = "Franklin"
-longitude = -90.895386
 latitude = 31.465718
+longitude = -90.895386
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39647"
+

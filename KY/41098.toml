@@ -1,6 +1,8 @@
-zip_code = "41098"
-state = "KY"
 city = "Worthville"
 county = "Carroll"
-longitude = -85.047765
 latitude = 38.637181
+longitude = -85.047765
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41098"
+

@@ -1,6 +1,8 @@
-zip_code = "52748"
-state = "IA"
 city = "Eldridge"
 county = "Scott"
-longitude = -90.564348
 latitude = 41.59972
+longitude = -90.564348
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52748"
+

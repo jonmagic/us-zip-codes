@@ -1,6 +1,8 @@
-zip_code = "44826"
-state = "OH"
 city = "Collins"
 county = "Huron"
-longitude = -82.489
 latitude = 41.166039
+longitude = -82.489
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44826"
+

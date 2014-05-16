@@ -1,6 +1,8 @@
-zip_code = "52722"
-state = "IA"
 city = "Bettendorf"
 county = "Scott"
-longitude = -90.529138
 latitude = 41.57048
+longitude = -90.529138
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52722"
+

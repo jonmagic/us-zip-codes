@@ -1,6 +1,8 @@
-zip_code = "13138"
-state = "NY"
 city = "Pompey"
 county = "Onondaga"
-longitude = -76.026459
 latitude = 42.89274
+longitude = -76.026459
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13138"
+

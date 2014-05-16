@@ -1,6 +1,8 @@
-zip_code = "08332"
-state = "NJ"
 city = "Millville"
 county = "Cumberland"
-longitude = -75.04282
 latitude = 39.370401
+longitude = -75.04282
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08332"
+

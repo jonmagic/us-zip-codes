@@ -1,6 +1,8 @@
-zip_code = "11360"
-state = "NY"
 city = "Bayside"
 county = "Queens"
-longitude = -73.803301
 latitude = 40.756745
+longitude = -73.803301
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11360"
+

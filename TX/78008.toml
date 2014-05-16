@@ -1,6 +1,8 @@
-zip_code = "78008"
-state = "TX"
 city = "Campbellton"
 county = "Atascosa"
-longitude = -98.139626
 latitude = 28.788589
+longitude = -98.139626
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78008"
+

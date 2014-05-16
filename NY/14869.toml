@@ -1,6 +1,8 @@
-zip_code = "14869"
-state = "NY"
 city = "Odessa"
 county = "Schuyler"
-longitude = -76.77621
 latitude = 42.377454
+longitude = -76.77621
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14869"
+

@@ -1,6 +1,8 @@
-zip_code = "44621"
-state = "OH"
 city = "Dennison"
 county = "Tuscarawas"
-longitude = -81.352297
 latitude = 40.416656
+longitude = -81.352297
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44621"
+

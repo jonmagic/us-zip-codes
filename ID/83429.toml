@@ -1,6 +1,8 @@
-zip_code = "83429"
-state = "ID"
 city = "Island Park"
 county = "Fremont"
-longitude = -111.427555
 latitude = 44.408347
+longitude = -111.427555
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83429"
+

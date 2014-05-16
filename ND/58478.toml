@@ -1,6 +1,8 @@
-zip_code = "58478"
-state = "ND"
 city = "Robinson"
 county = "Kidder"
-longitude = -99.689234
 latitude = 46.979659
+longitude = -99.689234
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58478"
+

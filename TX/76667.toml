@@ -1,6 +1,8 @@
-zip_code = "76667"
-state = "TX"
 city = "Mexia"
 county = "Limestone"
-longitude = -96.52153
 latitude = 31.674789
+longitude = -96.52153
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76667"
+

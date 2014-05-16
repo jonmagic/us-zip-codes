@@ -1,6 +1,8 @@
-zip_code = "84712"
-state = "UT"
 city = "Antimony"
 county = "Garfield"
-longitude = -110.543374
 latitude = 37.729535
+longitude = -110.543374
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84712"
+

@@ -1,6 +1,8 @@
-zip_code = "95560"
-state = "CA"
 city = "Redway"
 county = "Humboldt"
-longitude = -123.812063
 latitude = 40.505478
+longitude = -123.812063
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95560"
+

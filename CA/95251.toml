@@ -1,6 +1,8 @@
-zip_code = "95251"
-state = "CA"
 city = "Vallecito"
 county = "Calaveras"
-longitude = -120.471841
 latitude = 38.085205
+longitude = -120.471841
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95251"
+

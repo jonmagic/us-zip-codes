@@ -1,6 +1,8 @@
-zip_code = "56308"
-state = "MN"
 city = "Alexandria"
 county = "Douglas"
-longitude = -95.420589
 latitude = 45.902017
+longitude = -95.420589
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56308"
+

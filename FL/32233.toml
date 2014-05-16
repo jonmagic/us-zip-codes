@@ -1,6 +1,8 @@
-zip_code = "32233"
-state = "FL"
 city = "Atlantic Beach"
 county = "Duval"
-longitude = -81.517761
 latitude = 30.35239
+longitude = -81.517761
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32233"
+

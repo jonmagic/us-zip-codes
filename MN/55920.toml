@@ -1,6 +1,8 @@
-zip_code = "55920"
-state = "MN"
 city = "Byron"
 county = "Olmsted"
-longitude = -92.599372
 latitude = 43.988227
+longitude = -92.599372
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55920"
+

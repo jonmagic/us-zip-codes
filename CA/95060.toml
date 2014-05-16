@@ -1,6 +1,8 @@
-zip_code = "95060"
-state = "CA"
 city = "Santa Cruz"
 county = "Santa Cruz"
-longitude = -122.111126
 latitude = 37.052748
+longitude = -122.111126
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95060"
+

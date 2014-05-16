@@ -1,6 +1,8 @@
-zip_code = "08248"
-state = "NJ"
 city = "Strathmere"
 county = "Cape May"
-longitude = -74.661977
 latitude = 39.192018
+longitude = -74.661977
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08248"
+

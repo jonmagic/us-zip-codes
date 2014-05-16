@@ -1,6 +1,8 @@
-zip_code = "21540"
-state = "MD"
 city = "Luke"
 county = "Allegany"
-longitude = -79.058451
 latitude = 39.475381
+longitude = -79.058451
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21540"
+

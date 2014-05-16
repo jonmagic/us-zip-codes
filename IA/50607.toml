@@ -1,6 +1,8 @@
-zip_code = "50607"
-state = "IA"
 city = "Aurora"
 county = "Buchanan"
-longitude = -91.748063
 latitude = 42.570346
+longitude = -91.748063
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50607"
+

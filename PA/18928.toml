@@ -1,6 +1,8 @@
-zip_code = "18928"
-state = "PA"
 city = "Holicong"
 county = "Bucks"
-longitude = -75.04288
 latitude = 40.335974
+longitude = -75.04288
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18928"
+

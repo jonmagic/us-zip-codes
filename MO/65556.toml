@@ -1,6 +1,8 @@
-zip_code = "65556"
-state = "MO"
 city = "Richland"
 county = "Pulaski"
-longitude = -92.328289
 latitude = 37.85021
+longitude = -92.328289
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65556"
+

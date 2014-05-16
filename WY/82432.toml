@@ -1,6 +1,8 @@
-zip_code = "82432"
-state = "WY"
 city = "Manderson"
 county = "Big Horn"
-longitude = -107.85976
 latitude = 44.303336
+longitude = -107.85976
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82432"
+

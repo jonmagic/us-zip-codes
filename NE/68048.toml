@@ -1,6 +1,8 @@
-zip_code = "68048"
-state = "NE"
 city = "Plattsmouth"
 county = "Cass"
-longitude = -96.001244
 latitude = 40.971961
+longitude = -96.001244
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68048"
+

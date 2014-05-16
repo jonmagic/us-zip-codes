@@ -1,6 +1,8 @@
-zip_code = "14770"
-state = "NY"
 city = "Portville"
 county = "Cattaraugus"
-longitude = -78.342341
 latitude = 42.092944
+longitude = -78.342341
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14770"
+

@@ -1,6 +1,8 @@
-zip_code = "63350"
-state = "MO"
 city = "High Hill"
 county = "Montgomery"
-longitude = -91.372292
 latitude = 38.909013
+longitude = -91.372292
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63350"
+

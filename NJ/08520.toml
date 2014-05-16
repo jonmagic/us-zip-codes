@@ -1,6 +1,8 @@
-zip_code = "08520"
-state = "NJ"
 city = "Hightstown"
 county = "Mercer"
-longitude = -74.572449
 latitude = 40.281558
+longitude = -74.572449
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08520"
+

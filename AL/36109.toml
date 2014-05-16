@@ -1,6 +1,8 @@
-zip_code = "36109"
-state = "AL"
 city = "Montgomery"
 county = "Montgomery"
-longitude = -86.239667
 latitude = 32.390547
+longitude = -86.239667
+state = ""
+state_code_alpha2 = ""
+zip_code = "36109"
+

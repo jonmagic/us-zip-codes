@@ -1,6 +1,8 @@
-zip_code = "27022"
-state = "NC"
 city = "Lawsonville"
 county = "Stokes"
-longitude = -80.216866
 latitude = 36.503292
+longitude = -80.216866
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27022"
+

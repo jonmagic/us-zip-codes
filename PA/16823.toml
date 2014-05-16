@@ -1,6 +1,8 @@
-zip_code = "16823"
-state = "PA"
 city = "Bellefonte"
 county = "Centre"
-longitude = -77.773188
 latitude = 40.897823
+longitude = -77.773188
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16823"
+

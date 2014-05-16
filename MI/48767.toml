@@ -1,6 +1,8 @@
-zip_code = "48767"
-state = "MI"
 city = "Unionville"
 county = "Tuscola"
-longitude = -83.452826
 latitude = 43.649504
+longitude = -83.452826
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48767"
+

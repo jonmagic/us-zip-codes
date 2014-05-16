@@ -1,6 +1,8 @@
-zip_code = "49322"
-state = "MI"
 city = "Coral"
 county = "Montcalm"
-longitude = -85.353161
 latitude = 43.359517
+longitude = -85.353161
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49322"
+

@@ -1,6 +1,8 @@
-zip_code = "85912"
-state = "AZ"
 city = "White Mountain Lake"
 county = "Navajo"
-longitude = -110.203073
 latitude = 34.266588
+longitude = -110.203073
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85912"
+

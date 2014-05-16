@@ -1,6 +1,8 @@
-zip_code = "04460"
-state = "ME"
 city = "Medway"
 county = "Penobscot"
-longitude = -68.543602
 latitude = 45.618608
+longitude = -68.543602
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04460"
+

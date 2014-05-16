@@ -1,6 +1,8 @@
-zip_code = "79059"
-state = "TX"
 city = "Miami"
 county = "Roberts"
-longitude = -100.676817
 latitude = 35.71814
+longitude = -100.676817
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79059"
+

@@ -1,6 +1,8 @@
-zip_code = "60538"
-state = "IL"
 city = "Montgomery"
 county = "Kendall"
-longitude = -88.457951
 latitude = 41.643752
+longitude = -88.457951
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60538"
+

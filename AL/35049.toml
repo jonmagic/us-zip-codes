@@ -1,6 +1,8 @@
-zip_code = "35049"
-state = "AL"
 city = "Cleveland"
 county = "Blount"
-longitude = -86.55985
 latitude = 33.977816
+longitude = -86.55985
+state = ""
+state_code_alpha2 = ""
+zip_code = "35049"
+

@@ -1,6 +1,8 @@
-zip_code = "24963"
-state = "WV"
 city = "Peterstown"
 county = "Monroe"
-longitude = -80.797806
 latitude = 37.399956
+longitude = -80.797806
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24963"
+

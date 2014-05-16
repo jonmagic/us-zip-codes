@@ -1,6 +1,8 @@
-zip_code = "59258"
-state = "MT"
 city = "Reserve"
 county = "Sheridan"
-longitude = -104.570289
 latitude = 48.569892
+longitude = -104.570289
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59258"
+

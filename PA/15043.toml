@@ -1,6 +1,8 @@
-zip_code = "15043"
-state = "PA"
 city = "Georgetown"
 county = "Beaver"
-longitude = -80.339953
 latitude = 40.639461
+longitude = -80.339953
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15043"
+

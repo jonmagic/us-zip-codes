@@ -1,6 +1,8 @@
-zip_code = "52747"
-state = "IA"
 city = "Durant"
 county = "Cedar"
-longitude = -91.132045
 latitude = 41.772184
+longitude = -91.132045
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52747"
+

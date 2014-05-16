@@ -1,6 +1,8 @@
-zip_code = "52806"
-state = "IA"
 city = "Davenport"
 county = "Scott"
-longitude = -90.633688
 latitude = 41.545731
+longitude = -90.633688
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52806"
+

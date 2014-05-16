@@ -1,6 +1,8 @@
-zip_code = "46996"
-state = "IN"
 city = "Winamac"
 county = "Pulaski"
-longitude = -86.622156
 latitude = 41.035862
+longitude = -86.622156
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46996"
+

@@ -1,6 +1,8 @@
-zip_code = "80642"
-state = "CO"
 city = "Hudson"
 county = "Weld"
-longitude = -104.672306
 latitude = 40.109353
+longitude = -104.672306
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80642"
+

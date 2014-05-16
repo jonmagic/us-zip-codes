@@ -1,6 +1,8 @@
-zip_code = "49766"
-state = "MI"
 city = "Ossineke"
 county = "Alpena"
-longitude = -83.53661
 latitude = 45.028249
+longitude = -83.53661
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49766"
+

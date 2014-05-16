@@ -1,6 +1,8 @@
-zip_code = "98007"
-state = "WA"
 city = "Bellevue"
 county = "King"
-longitude = -122.142282
 latitude = 47.620152
+longitude = -122.142282
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98007"
+

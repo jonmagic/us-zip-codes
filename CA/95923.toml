@@ -1,6 +1,8 @@
-zip_code = "95923"
-state = "CA"
 city = "Canyondam"
 county = "Plumas"
-longitude = -121.120635
 latitude = 40.211176
+longitude = -121.120635
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95923"
+

@@ -1,6 +1,8 @@
-zip_code = "21766"
-state = "MD"
 city = "Little Orleans"
 county = "Allegany"
-longitude = -78.408891
 latitude = 39.641946
+longitude = -78.408891
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21766"
+

@@ -1,6 +1,8 @@
-zip_code = "68939"
-state = "NE"
 city = "Franklin"
 county = "Franklin"
-longitude = -98.995406
 latitude = 40.096305
+longitude = -98.995406
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68939"
+

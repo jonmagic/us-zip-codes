@@ -1,6 +1,8 @@
-zip_code = "49409"
-state = "MI"
 city = "Ferrysburg"
 county = "Ottawa"
-longitude = -86.215413
 latitude = 43.080865
+longitude = -86.215413
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49409"
+

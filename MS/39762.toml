@@ -1,6 +1,8 @@
-zip_code = "39762"
-state = "MS"
 city = "Mississippi State"
 county = "Oktibbeha"
-longitude = -88.743329
 latitude = 33.415601
+longitude = -88.743329
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39762"
+

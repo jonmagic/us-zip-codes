@@ -1,6 +1,8 @@
-zip_code = "14884"
-state = "NY"
 city = "Swain"
 county = "Allegany"
-longitude = -77.889425
 latitude = 42.455859
+longitude = -77.889425
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14884"
+

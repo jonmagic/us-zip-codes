@@ -1,6 +1,8 @@
-zip_code = "05759"
-state = "VT"
 city = "North Clarendon"
 county = "Rutland"
-longitude = -72.970114
 latitude = 43.535739
+longitude = -72.970114
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05759"
+

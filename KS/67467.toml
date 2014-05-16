@@ -1,6 +1,8 @@
-zip_code = "67467"
-state = "KS"
 city = "Minneapolis"
 county = "Ottawa"
-longitude = -97.650674
 latitude = 39.141097
+longitude = -97.650674
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67467"
+

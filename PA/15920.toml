@@ -1,6 +1,8 @@
-zip_code = "15920"
-state = "PA"
 city = "Armagh"
 county = "Indiana"
-longitude = -79.009721
 latitude = 40.460262
+longitude = -79.009721
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15920"
+

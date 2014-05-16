@@ -1,6 +1,8 @@
-zip_code = "73737"
-state = "OK"
 city = "Fairview"
 county = "Major"
-longitude = -98.337597
 latitude = 36.323942
+longitude = -98.337597
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73737"
+

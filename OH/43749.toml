@@ -1,6 +1,8 @@
-zip_code = "43749"
-state = "OH"
 city = "Kimbolton"
 county = "Guernsey"
-longitude = -81.548992
 latitude = 40.158911
+longitude = -81.548992
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43749"
+

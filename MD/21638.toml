@@ -1,6 +1,8 @@
-zip_code = "21638"
-state = "MD"
 city = "Grasonville"
 county = "Queen Annes"
-longitude = -76.115897
 latitude = 39.019049
+longitude = -76.115897
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21638"
+

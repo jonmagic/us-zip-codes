@@ -1,6 +1,8 @@
-zip_code = "05650"
-state = "VT"
 city = "East Calais"
 county = "Washington"
-longitude = -72.498572
 latitude = 44.407044
+longitude = -72.498572
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05650"
+

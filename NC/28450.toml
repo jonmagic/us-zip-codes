@@ -1,6 +1,8 @@
-zip_code = "28450"
-state = "NC"
 city = "Lake Waccamaw"
 county = "Columbus"
-longitude = -78.751361
 latitude = 34.345825
+longitude = -78.751361
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28450"
+

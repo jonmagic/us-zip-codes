@@ -1,6 +1,8 @@
-zip_code = "49676"
-state = "MI"
 city = "Rapid City"
 county = "Kalkaska"
-longitude = -85.250629
 latitude = 44.80389
+longitude = -85.250629
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49676"
+

@@ -1,6 +1,8 @@
-zip_code = "68661"
-state = "NE"
 city = "Schuyler"
 county = "Colfax"
-longitude = -97.079635
 latitude = 41.559744
+longitude = -97.079635
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68661"
+

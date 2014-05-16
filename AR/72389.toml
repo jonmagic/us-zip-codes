@@ -1,6 +1,8 @@
-zip_code = "72389"
-state = "AR"
 city = "Wabash"
 county = "Phillips"
-longitude = -90.886949
 latitude = 34.346621
+longitude = -90.886949
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72389"
+

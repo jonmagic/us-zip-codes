@@ -1,6 +1,8 @@
-zip_code = "41736"
-state = "KY"
 city = "Dice"
 county = "Perry"
-longitude = -83.241868
 latitude = 37.375823
+longitude = -83.241868
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41736"
+

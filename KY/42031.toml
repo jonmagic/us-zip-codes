@@ -1,6 +1,8 @@
-zip_code = "42031"
-state = "KY"
 city = "Clinton"
 county = "Hickman"
-longitude = -88.979474
 latitude = 36.680798
+longitude = -88.979474
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42031"
+

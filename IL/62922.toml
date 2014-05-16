@@ -1,6 +1,8 @@
-zip_code = "62922"
-state = "IL"
 city = "Creal Springs"
 county = "Williamson"
-longitude = -88.817787
 latitude = 37.682
+longitude = -88.817787
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62922"
+

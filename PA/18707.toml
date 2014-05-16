@@ -1,6 +1,8 @@
-zip_code = "18707"
-state = "PA"
 city = "Mountain Top"
 county = "Luzerne"
-longitude = -75.961432
 latitude = 41.166401
+longitude = -75.961432
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18707"
+

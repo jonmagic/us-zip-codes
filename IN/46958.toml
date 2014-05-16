@@ -1,6 +1,8 @@
-zip_code = "46958"
-state = "IN"
 city = "Mexico"
 county = "Miami"
-longitude = -86.116189
 latitude = 40.822384
+longitude = -86.116189
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46958"
+

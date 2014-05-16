@@ -1,6 +1,8 @@
-zip_code = "17974"
-state = "PA"
 city = "Seltzer"
 county = "Schuylkill"
-longitude = -76.227294
 latitude = 40.690632
+longitude = -76.227294
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17974"
+

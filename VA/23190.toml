@@ -1,6 +1,8 @@
-zip_code = "23190"
-state = "VA"
 city = "Woods Cross Roads"
 county = "Gloucester"
-longitude = -76.636154
 latitude = 37.482039
+longitude = -76.636154
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23190"
+

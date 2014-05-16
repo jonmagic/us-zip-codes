@@ -1,6 +1,8 @@
-zip_code = "85545"
-state = "AZ"
 city = "Roosevelt"
 county = "Gila"
-longitude = -111.005928
 latitude = 33.614316
+longitude = -111.005928
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85545"
+

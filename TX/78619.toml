@@ -1,6 +1,8 @@
-zip_code = "78619"
-state = "TX"
 city = "Driftwood"
 county = "Hays"
-longitude = -98.000454
 latitude = 30.09393
+longitude = -98.000454
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78619"
+

@@ -1,6 +1,8 @@
-zip_code = "58730"
-state = "ND"
 city = "Crosby"
 county = "Divide"
-longitude = -103.296728
 latitude = 48.928166
+longitude = -103.296728
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58730"
+

@@ -1,6 +1,8 @@
-zip_code = "13468"
-state = "NY"
 city = "Springfield Center"
 county = "Otsego"
-longitude = -74.85897
 latitude = 42.83883
+longitude = -74.85897
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13468"
+

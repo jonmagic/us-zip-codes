@@ -1,6 +1,8 @@
-zip_code = "61840"
-state = "IL"
 city = "Dewey"
 county = "Champaign"
-longitude = -88.301259
 latitude = 40.307054
+longitude = -88.301259
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61840"
+

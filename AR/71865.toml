@@ -1,6 +1,8 @@
-zip_code = "71865"
-state = "AR"
 city = "Wilton"
 county = "Little River"
-longitude = -94.147399
 latitude = 33.733218
+longitude = -94.147399
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71865"
+

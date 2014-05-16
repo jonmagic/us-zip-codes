@@ -1,6 +1,8 @@
-zip_code = "83256"
-state = "ID"
 city = "Moreland"
 county = "Bingham"
-longitude = -112.442253
 latitude = 43.222648
+longitude = -112.442253
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83256"
+

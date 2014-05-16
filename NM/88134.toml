@@ -1,6 +1,8 @@
-zip_code = "88134"
-state = "NM"
 city = "Taiban"
 county = "De Baca"
-longitude = -104.419381
 latitude = 34.387466
+longitude = -104.419381
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88134"
+

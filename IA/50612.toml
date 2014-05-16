@@ -1,6 +1,8 @@
-zip_code = "50612"
-state = "IA"
 city = "Buckingham"
 county = "Tama"
-longitude = -92.388908
 latitude = 42.271906
+longitude = -92.388908
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50612"
+

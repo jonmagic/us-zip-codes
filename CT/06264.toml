@@ -1,6 +1,8 @@
-zip_code = "06264"
-state = "CT"
 city = "Scotland"
 county = "Windham"
-longitude = -72.087045
 latitude = 41.695803
+longitude = -72.087045
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06264"
+

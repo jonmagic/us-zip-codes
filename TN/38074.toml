@@ -1,6 +1,8 @@
-zip_code = "38074"
-state = "TN"
 city = "Bolivar"
 county = "Hardeman"
-longitude = -88.990028
 latitude = 35.213371
+longitude = -88.990028
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38074"
+

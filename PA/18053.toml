@@ -1,6 +1,8 @@
-zip_code = "18053"
-state = "PA"
 city = "Germansville"
 county = "Lehigh"
-longitude = -75.700739
 latitude = 40.718662
+longitude = -75.700739
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18053"
+

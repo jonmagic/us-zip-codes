@@ -1,6 +1,8 @@
-zip_code = "67020"
-state = "KS"
 city = "Burrton"
 county = "Harvey"
-longitude = -97.537188
 latitude = 38.021434
+longitude = -97.537188
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67020"
+

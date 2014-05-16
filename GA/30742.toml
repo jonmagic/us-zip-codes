@@ -1,6 +1,8 @@
-zip_code = "30742"
-state = "GA"
 city = "Fort Oglethorpe"
 county = "Catoosa"
-longitude = -85.175034
 latitude = 34.931497
+longitude = -85.175034
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30742"
+

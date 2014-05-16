@@ -1,6 +1,8 @@
-zip_code = "72011"
-state = "AR"
 city = "Bauxite"
 county = "Saline"
-longitude = -92.482828
 latitude = 34.509071
+longitude = -92.482828
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72011"
+

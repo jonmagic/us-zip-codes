@@ -1,6 +1,8 @@
-zip_code = "20733"
-state = "MD"
 city = "Churchton"
 county = "Anne Arundel"
-longitude = -76.532569
 latitude = 38.921313
+longitude = -76.532569
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20733"
+

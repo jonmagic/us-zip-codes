@@ -1,6 +1,8 @@
-zip_code = "45303"
-state = "OH"
 city = "Ansonia"
 county = "Darke"
-longitude = -84.653188
 latitude = 40.214675
+longitude = -84.653188
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45303"
+

@@ -1,6 +1,8 @@
-zip_code = "76543"
-state = "TX"
 city = "Killeen"
 county = "Bell"
-longitude = -97.585946
 latitude = 31.010681
+longitude = -97.585946
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76543"
+

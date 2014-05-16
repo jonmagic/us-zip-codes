@@ -1,6 +1,8 @@
-zip_code = "62613"
-state = "IL"
 city = "Athens"
 county = "Menard"
-longitude = -89.683294
 latitude = 39.950205
+longitude = -89.683294
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62613"
+

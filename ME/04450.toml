@@ -1,6 +1,8 @@
-zip_code = "04450"
-state = "ME"
 city = "Kenduskeag"
 county = "Penobscot"
-longitude = -68.965803
 latitude = 44.918877
+longitude = -68.965803
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04450"
+

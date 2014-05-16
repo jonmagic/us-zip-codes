@@ -1,6 +1,8 @@
-zip_code = "77430"
-state = "TX"
 city = "Damon"
 county = "Brazoria"
-longitude = -95.677475
 latitude = 29.235317
+longitude = -95.677475
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77430"
+

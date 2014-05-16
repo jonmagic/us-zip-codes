@@ -1,6 +1,8 @@
-zip_code = "59624"
-state = "MT"
 city = "Helena"
 county = "Lewis And Clark"
-longitude = -112.062393
 latitude = 46.610002
+longitude = -112.062393
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59624"
+

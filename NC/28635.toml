@@ -1,6 +1,8 @@
-zip_code = "28635"
-state = "NC"
 city = "Hays"
 county = "Wilkes"
-longitude = -81.116941
 latitude = 36.308091
+longitude = -81.116941
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28635"
+

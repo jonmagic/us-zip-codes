@@ -1,6 +1,8 @@
-zip_code = "43446"
-state = "OH"
 city = "Middle Bass"
 county = "Ottawa"
-longitude = -82.804677
 latitude = 41.683477
+longitude = -82.804677
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43446"
+

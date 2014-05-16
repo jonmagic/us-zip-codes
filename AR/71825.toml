@@ -1,6 +1,8 @@
-zip_code = "71825"
-state = "AR"
 city = "Blevins"
 county = "Hempstead"
-longitude = -93.621434
 latitude = 33.882525
+longitude = -93.621434
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71825"
+

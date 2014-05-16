@@ -1,6 +1,8 @@
-zip_code = "68441"
-state = "NE"
 city = "Steinauer"
 county = "Pawnee"
-longitude = -96.231879
 latitude = 40.207313
+longitude = -96.231879
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68441"
+

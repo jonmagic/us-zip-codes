@@ -1,6 +1,8 @@
-zip_code = "27872"
-state = "NC"
 city = "Roxobel"
 county = "Bertie"
-longitude = -77.222348
 latitude = 36.216644
+longitude = -77.222348
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27872"
+

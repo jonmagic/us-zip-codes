@@ -1,6 +1,8 @@
-zip_code = "12841"
-state = "NY"
 city = "Huletts Landing"
 county = "Washington"
-longitude = -73.508308
 latitude = 43.646953
+longitude = -73.508308
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12841"
+

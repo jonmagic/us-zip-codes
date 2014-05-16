@@ -1,6 +1,8 @@
-zip_code = "68756"
-state = "NE"
 city = "Neligh"
 county = "Antelope"
-longitude = -98.13176
 latitude = 42.216925
+longitude = -98.13176
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68756"
+

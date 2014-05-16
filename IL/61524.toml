@@ -1,6 +1,8 @@
-zip_code = "61524"
-state = "IL"
 city = "Dunfermline"
 county = "Fulton"
-longitude = -90.041936
 latitude = 40.491606
+longitude = -90.041936
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61524"
+

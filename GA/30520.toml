@@ -1,6 +1,8 @@
-zip_code = "30520"
-state = "GA"
 city = "Canon"
 county = "Franklin"
-longitude = -83.152947
 latitude = 34.355933
+longitude = -83.152947
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30520"
+

@@ -1,6 +1,8 @@
-zip_code = "12914"
-state = "NY"
 city = "Bombay"
 county = "Franklin"
-longitude = -74.444789
 latitude = 44.674942
+longitude = -74.444789
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12914"
+

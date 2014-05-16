@@ -1,6 +1,8 @@
-zip_code = "47392"
-state = "IN"
 city = "Webster"
 county = "Wayne"
-longitude = -84.935057
 latitude = 39.911895
+longitude = -84.935057
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47392"
+

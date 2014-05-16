@@ -1,6 +1,8 @@
-zip_code = "47850"
-state = "IN"
 city = "Farmersburg"
 county = "Sullivan"
-longitude = -87.425279
 latitude = 39.222063
+longitude = -87.425279
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47850"
+

@@ -1,6 +1,8 @@
-zip_code = "31724"
-state = "GA"
 city = "Bluffton"
 county = "Clay"
-longitude = -84.854212
 latitude = 31.557533
+longitude = -84.854212
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31724"
+

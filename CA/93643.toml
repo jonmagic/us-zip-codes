@@ -1,6 +1,8 @@
-zip_code = "93643"
-state = "CA"
 city = "North Fork"
 county = "Madera"
-longitude = -119.496955
 latitude = 37.2141
+longitude = -119.496955
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93643"
+

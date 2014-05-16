@@ -1,6 +1,8 @@
-zip_code = "11510"
-state = "NY"
 city = "Baldwin"
 county = "Nassau"
-longitude = -73.608972
 latitude = 40.654626
+longitude = -73.608972
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11510"
+

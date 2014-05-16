@@ -1,6 +1,8 @@
-zip_code = "57048"
-state = "SD"
 city = "Montrose"
 county = "Mccook"
-longitude = -97.18593
 latitude = 43.696853
+longitude = -97.18593
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57048"
+

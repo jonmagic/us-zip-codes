@@ -1,6 +1,8 @@
-zip_code = "58441"
-state = "ND"
 city = "Fullerton"
 county = "Dickey"
-longitude = -98.379846
 latitude = 46.175992
+longitude = -98.379846
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58441"
+

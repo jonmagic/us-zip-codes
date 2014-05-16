@@ -1,6 +1,8 @@
-zip_code = "55014"
-state = "MN"
 city = "Circle Pines"
 county = "Anoka"
-longitude = -93.129272
 latitude = 45.185565
+longitude = -93.129272
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55014"
+

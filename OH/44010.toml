@@ -1,6 +1,8 @@
-zip_code = "44010"
-state = "OH"
 city = "Austinburg"
 county = "Ashtabula"
-longitude = -80.856463
 latitude = 41.772459
+longitude = -80.856463
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44010"
+

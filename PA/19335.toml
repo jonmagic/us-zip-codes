@@ -1,6 +1,8 @@
-zip_code = "19335"
-state = "PA"
 city = "Downingtown"
 county = "Chester"
-longitude = -75.722614
 latitude = 40.031265
+longitude = -75.722614
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19335"
+

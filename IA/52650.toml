@@ -1,6 +1,8 @@
-zip_code = "52650"
-state = "IA"
 city = "Sperry"
 county = "Des Moines"
-longitude = -91.208938
 latitude = 40.920383
+longitude = -91.208938
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52650"
+

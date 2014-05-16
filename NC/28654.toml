@@ -1,6 +1,8 @@
-zip_code = "28654"
-state = "NC"
 city = "Moravian Falls"
 county = "Wilkes"
-longitude = -81.165221
 latitude = 36.100492
+longitude = -81.165221
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28654"
+

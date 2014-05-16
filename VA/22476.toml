@@ -1,6 +1,8 @@
-zip_code = "22476"
-state = "VA"
 city = "Hustle"
 county = "Essex"
-longitude = -77.06328
 latitude = 38.032905
+longitude = -77.06328
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22476"
+

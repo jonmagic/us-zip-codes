@@ -1,6 +1,8 @@
-zip_code = "53139"
-state = "WI"
 city = "Kansasville"
 county = "Racine"
-longitude = -88.120616
 latitude = 42.720022
+longitude = -88.120616
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53139"
+

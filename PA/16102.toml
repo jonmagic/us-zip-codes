@@ -1,6 +1,8 @@
-zip_code = "16102"
-state = "PA"
 city = "New Castle"
 county = "Lawrence"
-longitude = -80.408502
 latitude = 40.9613
+longitude = -80.408502
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16102"
+

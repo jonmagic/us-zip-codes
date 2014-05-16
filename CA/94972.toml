@@ -1,6 +1,8 @@
-zip_code = "94972"
-state = "CA"
 city = "Valley Ford"
 county = "Sonoma"
-longitude = -122.855757
 latitude = 38.307224
+longitude = -122.855757
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94972"
+

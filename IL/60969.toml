@@ -1,6 +1,8 @@
-zip_code = "60969"
-state = "IL"
 city = "Union Hill"
 county = "Kankakee"
-longitude = -88.146523
 latitude = 41.108802
+longitude = -88.146523
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60969"
+

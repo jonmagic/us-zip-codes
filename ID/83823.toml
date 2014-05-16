@@ -1,6 +1,8 @@
-zip_code = "83823"
-state = "ID"
 city = "Deary"
 county = "Latah"
-longitude = -116.525556
 latitude = 46.777036
+longitude = -116.525556
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83823"
+

@@ -1,6 +1,8 @@
-zip_code = "85541"
-state = "AZ"
 city = "Payson"
 county = "Gila"
-longitude = -111.075088
 latitude = 33.864471
+longitude = -111.075088
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85541"
+

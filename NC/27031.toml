@@ -1,6 +1,8 @@
-zip_code = "27031"
-state = "NC"
 city = "White Plains"
 county = "Surry"
-longitude = -80.70809
 latitude = 36.399366
+longitude = -80.70809
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27031"
+

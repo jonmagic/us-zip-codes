@@ -1,6 +1,8 @@
-zip_code = "15957"
-state = "PA"
 city = "Strongstown"
 county = "Indiana"
-longitude = -78.900034
 latitude = 40.572746
+longitude = -78.900034
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15957"
+

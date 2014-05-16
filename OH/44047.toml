@@ -1,6 +1,8 @@
-zip_code = "44047"
-state = "OH"
 city = "Jefferson"
 county = "Ashtabula"
-longitude = -80.693315
 latitude = 41.700536
+longitude = -80.693315
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44047"
+

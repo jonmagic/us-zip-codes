@@ -1,6 +1,8 @@
-zip_code = "57025"
-state = "SD"
 city = "Elk Point"
 county = "Union"
-longitude = -96.676742
 latitude = 42.76399
+longitude = -96.676742
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57025"
+

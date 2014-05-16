@@ -1,6 +1,8 @@
-zip_code = "50103"
-state = "IA"
 city = "Garden Grove"
 county = "Decatur"
-longitude = -93.785839
 latitude = 40.736644
+longitude = -93.785839
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50103"
+

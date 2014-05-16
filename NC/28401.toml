@@ -1,6 +1,8 @@
-zip_code = "28401"
-state = "NC"
 city = "Wilmington"
 county = "New Hanover"
-longitude = -77.95481
 latitude = 34.163503
+longitude = -77.95481
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28401"
+

@@ -1,6 +1,8 @@
-zip_code = "38482"
-state = "TN"
 city = "Santa Fe"
 county = "Maury"
-longitude = -87.146428
 latitude = 35.772652
+longitude = -87.146428
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38482"
+

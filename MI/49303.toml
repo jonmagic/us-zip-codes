@@ -1,6 +1,8 @@
-zip_code = "49303"
-state = "MI"
 city = "Bailey"
 county = "Muskegon"
-longitude = -85.854471
 latitude = 43.272182
+longitude = -85.854471
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49303"
+

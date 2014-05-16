@@ -1,6 +1,8 @@
-zip_code = "38240"
-state = "TN"
 city = "Obion"
 county = "Obion"
-longitude = -89.292228
 latitude = 36.271215
+longitude = -89.292228
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38240"
+

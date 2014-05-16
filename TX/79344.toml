@@ -1,6 +1,8 @@
-zip_code = "79344"
-state = "TX"
 city = "Maple"
 county = "Bailey"
-longitude = -102.955355
 latitude = 33.863254
+longitude = -102.955355
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79344"
+

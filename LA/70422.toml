@@ -1,6 +1,8 @@
-zip_code = "70422"
-state = "LA"
 city = "Amite"
 county = "Tangipahoa"
-longitude = -90.41058
 latitude = 30.74483
+longitude = -90.41058
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70422"
+

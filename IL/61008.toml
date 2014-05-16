@@ -1,6 +1,8 @@
-zip_code = "61008"
-state = "IL"
 city = "Belvidere"
 county = "Boone"
-longitude = -88.823215
 latitude = 42.276381
+longitude = -88.823215
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61008"
+

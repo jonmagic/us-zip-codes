@@ -1,6 +1,8 @@
-zip_code = "72830"
-state = "AR"
 city = "Clarksville"
 county = "Johnson"
-longitude = -93.516564
 latitude = 35.473886
+longitude = -93.516564
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72830"
+

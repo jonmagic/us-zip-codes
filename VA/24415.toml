@@ -1,6 +1,8 @@
-zip_code = "24415"
-state = "VA"
 city = "Brownsburg"
 county = "Rockbridge"
-longitude = -79.329162
 latitude = 37.926477
+longitude = -79.329162
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24415"
+

@@ -1,6 +1,8 @@
-zip_code = "17831"
-state = "PA"
 city = "Hummels Wharf"
 county = "Snyder"
-longitude = -76.835439
 latitude = 40.834408
+longitude = -76.835439
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17831"
+

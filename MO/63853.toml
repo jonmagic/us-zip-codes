@@ -1,6 +1,8 @@
-zip_code = "63853"
-state = "MO"
 city = "Holland"
 county = "Pemiscot"
-longitude = -89.831121
 latitude = 36.092984
+longitude = -89.831121
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63853"
+

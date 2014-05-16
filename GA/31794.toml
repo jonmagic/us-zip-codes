@@ -1,6 +1,8 @@
-zip_code = "31794"
-state = "GA"
 city = "Tifton"
 county = "Tift"
-longitude = -83.499944
 latitude = 31.463918
+longitude = -83.499944
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31794"
+

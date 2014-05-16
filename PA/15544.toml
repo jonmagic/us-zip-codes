@@ -1,6 +1,8 @@
-zip_code = "15544"
-state = "PA"
 city = "Gray"
 county = "Somerset"
-longitude = -79.092551
 latitude = 40.137749
+longitude = -79.092551
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15544"
+

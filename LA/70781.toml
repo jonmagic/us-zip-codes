@@ -1,6 +1,8 @@
-zip_code = "70781"
-state = "LA"
 city = "Torbert"
 county = "Pointe Coupee"
-longitude = -91.487668
 latitude = 30.561711
+longitude = -91.487668
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70781"
+

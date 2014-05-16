@@ -1,6 +1,8 @@
-zip_code = "30572"
-state = "GA"
 city = "Suches"
 county = "Union"
-longitude = -84.027629
 latitude = 34.712091
+longitude = -84.027629
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30572"
+

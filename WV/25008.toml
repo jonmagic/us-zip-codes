@@ -1,6 +1,8 @@
-zip_code = "25008"
-state = "WV"
 city = "Artie"
 county = "Raleigh"
-longitude = -81.354496
 latitude = 37.940013
+longitude = -81.354496
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25008"
+

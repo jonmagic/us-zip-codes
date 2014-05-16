@@ -1,6 +1,8 @@
-zip_code = "56540"
-state = "MN"
 city = "Fertile"
 county = "Polk"
-longitude = -96.285663
 latitude = 47.534788
+longitude = -96.285663
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56540"
+

@@ -1,6 +1,8 @@
-zip_code = "87321"
-state = "NM"
 city = "Ramah"
 county = "Mckinley"
-longitude = -108.502673
 latitude = 35.128655
+longitude = -108.502673
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87321"
+

@@ -1,6 +1,8 @@
-zip_code = "41642"
-state = "KY"
 city = "Ivel"
 county = "Floyd"
-longitude = -82.677517
 latitude = 37.469203
+longitude = -82.677517
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41642"
+

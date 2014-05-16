@@ -1,6 +1,8 @@
-zip_code = "67644"
-state = "KS"
 city = "Kirwin"
 county = "Phillips"
-longitude = -99.342534
 latitude = 39.668671
+longitude = -99.342534
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67644"
+

@@ -1,6 +1,8 @@
-zip_code = "24243"
-state = "VA"
 city = "Dryden"
 county = "Lee"
-longitude = -82.927728
 latitude = 36.771579
+longitude = -82.927728
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24243"
+

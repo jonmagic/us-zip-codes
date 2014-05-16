@@ -1,6 +1,8 @@
-zip_code = "32362"
-state = "FL"
 city = "Woodville"
 county = "Leon"
-longitude = -84.267397
 latitude = 30.319263
+longitude = -84.267397
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32362"
+

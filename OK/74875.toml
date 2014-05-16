@@ -1,6 +1,8 @@
-zip_code = "74875"
-state = "OK"
 city = "Tryon"
 county = "Lincoln"
-longitude = -96.962261
 latitude = 35.875943
+longitude = -96.962261
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74875"
+

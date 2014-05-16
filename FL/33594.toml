@@ -1,6 +1,8 @@
-zip_code = "33594"
-state = "FL"
 city = "Valrico"
 county = "Hillsborough"
-longitude = -82.347371
 latitude = 27.937779
+longitude = -82.347371
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33594"
+

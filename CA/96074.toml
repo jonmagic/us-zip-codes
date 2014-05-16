@@ -1,6 +1,8 @@
-zip_code = "96074"
-state = "CA"
 city = "Paskenta"
 county = "Tehama"
-longitude = -122.581386
 latitude = 39.877198
+longitude = -122.581386
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96074"
+

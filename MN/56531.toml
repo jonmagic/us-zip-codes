@@ -1,6 +1,8 @@
-zip_code = "56531"
-state = "MN"
 city = "Elbow Lake"
 county = "Grant"
-longitude = -95.963007
 latitude = 45.997662
+longitude = -95.963007
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56531"
+

@@ -1,6 +1,8 @@
-zip_code = "35460"
-state = "AL"
 city = "Epes"
 county = "Sumter"
-longitude = -88.120605
 latitude = 32.672049
+longitude = -88.120605
+state = ""
+state_code_alpha2 = ""
+zip_code = "35460"
+

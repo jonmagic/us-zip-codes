@@ -1,6 +1,8 @@
-zip_code = "00978"
-state = "PR"
 city = "Saint Just Contract"
 county = "Trujillo Alto"
-longitude = -65.990099
 latitude = 18.337004
+longitude = -65.990099
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00978"
+

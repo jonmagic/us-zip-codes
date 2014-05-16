@@ -1,6 +1,8 @@
-zip_code = "49968"
-state = "MI"
 city = "Wakefield"
 county = "Gogebic"
-longitude = -89.875182
 latitude = 46.490844
+longitude = -89.875182
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49968"
+

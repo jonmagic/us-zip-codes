@@ -1,6 +1,8 @@
-zip_code = "65543"
-state = "MO"
 city = "Lynchburg"
 county = "Laclede"
-longitude = -92.30882
 latitude = 37.522073
+longitude = -92.30882
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65543"
+

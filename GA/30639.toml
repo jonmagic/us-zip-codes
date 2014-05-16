@@ -1,6 +1,8 @@
-zip_code = "30639"
-state = "GA"
 city = "Franklin Springs"
 county = "Franklin"
-longitude = -83.147024
 latitude = 34.274306
+longitude = -83.147024
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30639"
+

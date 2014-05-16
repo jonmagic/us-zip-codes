@@ -1,6 +1,8 @@
-zip_code = "62069"
-state = "IL"
 city = "Mount Olive"
 county = "Macoupin"
-longitude = -89.922605
 latitude = 39.265646
+longitude = -89.922605
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62069"
+

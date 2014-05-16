@@ -1,6 +1,8 @@
-zip_code = "15923"
-state = "PA"
 city = "Bolivar"
 county = "Westmoreland"
-longitude = -79.15321
 latitude = 40.348279
+longitude = -79.15321
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15923"
+

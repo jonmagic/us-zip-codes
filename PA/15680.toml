@@ -1,6 +1,8 @@
-zip_code = "15680"
-state = "PA"
 city = "Salina"
 county = "Westmoreland"
-longitude = -79.495871
 latitude = 40.518905
+longitude = -79.495871
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15680"
+

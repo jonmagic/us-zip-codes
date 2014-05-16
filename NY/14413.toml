@@ -1,6 +1,8 @@
-zip_code = "14413"
-state = "NY"
 city = "Alton"
 county = "Wayne"
-longitude = -76.982149
 latitude = 43.222735
+longitude = -76.982149
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14413"
+

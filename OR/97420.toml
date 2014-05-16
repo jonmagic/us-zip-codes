@@ -1,6 +1,8 @@
-zip_code = "97420"
-state = "OR"
 city = "Coos Bay"
 county = "Coos"
-longitude = -124.198358
 latitude = 43.215143
+longitude = -124.198358
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97420"
+

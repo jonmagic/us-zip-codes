@@ -1,6 +1,8 @@
-zip_code = "56078"
-state = "MN"
 city = "Pemberton"
 county = "Blue Earth"
-longitude = -93.783274
 latitude = 44.007674
+longitude = -93.783274
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56078"
+

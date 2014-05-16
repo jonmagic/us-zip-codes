@@ -1,6 +1,8 @@
-zip_code = "73521"
-state = "OK"
 city = "Altus"
 county = "Jackson"
-longitude = -99.280343
 latitude = 34.663039
+longitude = -99.280343
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73521"
+

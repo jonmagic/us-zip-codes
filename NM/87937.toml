@@ -1,6 +1,8 @@
-zip_code = "87937"
-state = "NM"
 city = "Hatch"
 county = "Dona Ana"
-longitude = -107.123524
 latitude = 32.661331
+longitude = -107.123524
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87937"
+

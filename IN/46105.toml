@@ -1,6 +1,8 @@
-zip_code = "46105"
-state = "IN"
 city = "Bainbridge"
 county = "Putnam"
-longitude = -86.812416
 latitude = 39.752428
+longitude = -86.812416
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46105"
+

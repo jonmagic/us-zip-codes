@@ -1,6 +1,8 @@
-zip_code = "37179"
-state = "TN"
 city = "Thompsons Station"
 county = "Williamson"
-longitude = -86.891286
 latitude = 35.809026
+longitude = -86.891286
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37179"
+

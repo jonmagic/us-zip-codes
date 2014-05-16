@@ -1,6 +1,8 @@
-zip_code = "43974"
-state = "OH"
 city = "Harrisville"
 county = "Harrison"
-longitude = -80.888159
 latitude = 40.181476
+longitude = -80.888159
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43974"
+

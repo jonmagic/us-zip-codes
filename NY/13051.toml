@@ -1,6 +1,8 @@
-zip_code = "13051"
-state = "NY"
 city = "Delphi Falls"
 county = "Onondaga"
-longitude = -75.91128
 latitude = 42.870698
+longitude = -75.91128
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13051"
+

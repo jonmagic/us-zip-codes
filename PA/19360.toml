@@ -1,6 +1,8 @@
-zip_code = "19360"
-state = "PA"
 city = "New London"
 county = "Chester"
-longitude = -75.7857
 latitude = 39.726143
+longitude = -75.7857
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19360"
+

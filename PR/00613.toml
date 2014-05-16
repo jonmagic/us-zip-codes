@@ -1,6 +1,8 @@
-zip_code = "00613"
-state = "PR"
 city = "Arecibo"
 county = "Arecibo"
-longitude = -66.732732
 latitude = 18.458093
+longitude = -66.732732
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00613"
+

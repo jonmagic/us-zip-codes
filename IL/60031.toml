@@ -1,6 +1,8 @@
-zip_code = "60031"
-state = "IL"
 city = "Gurnee"
 county = "Lake"
-longitude = -87.939683
 latitude = 42.375121
+longitude = -87.939683
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60031"
+

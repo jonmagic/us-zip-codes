@@ -1,6 +1,8 @@
-zip_code = "54490"
-state = "WI"
 city = "Westboro"
 county = "Taylor"
-longitude = -90.401519
 latitude = 45.330939
+longitude = -90.401519
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54490"
+

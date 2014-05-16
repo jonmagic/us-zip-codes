@@ -1,6 +1,8 @@
-zip_code = "95347"
-state = "CA"
 city = "Moccasin"
 county = "Tuolumne"
-longitude = -120.375945
 latitude = 37.805371
+longitude = -120.375945
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95347"
+

@@ -1,6 +1,8 @@
-zip_code = "97033"
-state = "OR"
 city = "Kent"
 county = "Sherman"
-longitude = -120.626298
 latitude = 45.237277
+longitude = -120.626298
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97033"
+

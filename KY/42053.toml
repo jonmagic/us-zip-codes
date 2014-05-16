@@ -1,6 +1,8 @@
-zip_code = "42053"
-state = "KY"
 city = "Kevil"
 county = "Ballard"
-longitude = -88.851344
 latitude = 37.098119
+longitude = -88.851344
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42053"
+

@@ -1,6 +1,8 @@
-zip_code = "53579"
-state = "WI"
 city = "Reeseville"
 county = "Dodge"
-longitude = -88.887444
 latitude = 43.287987
+longitude = -88.887444
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53579"
+

@@ -1,6 +1,8 @@
-zip_code = "58013"
-state = "ND"
 city = "Cayuga"
 county = "Sargent"
-longitude = -97.529438
 latitude = 46.062144
+longitude = -97.529438
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58013"
+

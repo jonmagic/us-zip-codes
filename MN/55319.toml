@@ -1,6 +1,8 @@
-zip_code = "55319"
-state = "MN"
 city = "Clear Lake"
 county = "Sherburne"
-longitude = -93.952504
 latitude = 45.466197
+longitude = -93.952504
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55319"
+

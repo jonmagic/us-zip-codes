@@ -1,6 +1,8 @@
-zip_code = "60939"
-state = "IL"
 city = "Goodwine"
 county = "Iroquois"
-longitude = -87.82876
 latitude = 40.748087
+longitude = -87.82876
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60939"
+

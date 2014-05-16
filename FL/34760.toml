@@ -1,6 +1,8 @@
-zip_code = "34760"
-state = "FL"
 city = "Oakland"
 county = "Orange"
-longitude = -81.621546
 latitude = 28.550978
+longitude = -81.621546
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34760"
+

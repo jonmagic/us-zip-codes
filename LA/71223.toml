@@ -1,6 +1,8 @@
-zip_code = "71223"
-state = "LA"
 city = "Bonita"
 county = "Morehouse"
-longitude = -91.653002
 latitude = 32.906387
+longitude = -91.653002
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71223"
+

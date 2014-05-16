@@ -1,6 +1,8 @@
-zip_code = "43542"
-state = "OH"
 city = "Monclova"
 county = "Lucas"
-longitude = -83.772378
 latitude = 41.577251
+longitude = -83.772378
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43542"
+

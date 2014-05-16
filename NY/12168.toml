@@ -1,6 +1,8 @@
-zip_code = "12168"
-state = "NY"
 city = "Stephentown"
 county = "Rensselaer"
-longitude = -73.408789
 latitude = 42.63593
+longitude = -73.408789
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12168"
+

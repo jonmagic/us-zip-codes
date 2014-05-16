@@ -1,6 +1,8 @@
-zip_code = "55768"
-state = "MN"
 city = "Mountain Iron"
 county = "Saint Louis"
-longitude = -92.686192
 latitude = 47.454993
+longitude = -92.686192
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55768"
+

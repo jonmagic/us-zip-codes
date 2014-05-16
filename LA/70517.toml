@@ -1,6 +1,8 @@
-zip_code = "70517"
-state = "LA"
 city = "Breaux Bridge"
 county = "Saint Martin"
-longitude = -91.828827
 latitude = 30.240316
+longitude = -91.828827
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70517"
+

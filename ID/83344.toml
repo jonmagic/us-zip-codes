@@ -1,6 +1,8 @@
-zip_code = "83344"
-state = "ID"
 city = "Murtaugh"
 county = "Twin Falls"
-longitude = -114.120513
 latitude = 42.476903
+longitude = -114.120513
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83344"
+

@@ -1,6 +1,8 @@
-zip_code = "98575"
-state = "WA"
 city = "Quinault"
 county = "Grays Harbor"
-longitude = -123.830676
 latitude = 47.46028
+longitude = -123.830676
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98575"
+

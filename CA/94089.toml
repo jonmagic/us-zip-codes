@@ -1,6 +1,8 @@
-zip_code = "94089"
-state = "CA"
 city = "Sunnyvale"
 county = "Santa Clara"
-longitude = -121.705327
 latitude = 37.189396
+longitude = -121.705327
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94089"
+

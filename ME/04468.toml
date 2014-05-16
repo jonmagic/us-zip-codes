@@ -1,6 +1,8 @@
-zip_code = "04468"
-state = "ME"
 city = "Old Town"
 county = "Penobscot"
-longitude = -68.722962
 latitude = 45.040655
+longitude = -68.722962
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04468"
+

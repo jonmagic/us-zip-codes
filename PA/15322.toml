@@ -1,6 +1,8 @@
-zip_code = "15322"
-state = "PA"
 city = "Clarksville"
 county = "Greene"
-longitude = -80.045233
 latitude = 39.966702
+longitude = -80.045233
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15322"
+

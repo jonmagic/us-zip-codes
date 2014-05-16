@@ -1,6 +1,8 @@
-zip_code = "24486"
-state = "VA"
 city = "Weyers Cave"
 county = "Augusta"
-longitude = -78.946136
 latitude = 38.282326
+longitude = -78.946136
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24486"
+

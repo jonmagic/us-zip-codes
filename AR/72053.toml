@@ -1,6 +1,8 @@
-zip_code = "72053"
-state = "AR"
 city = "College Station"
 county = "Pulaski"
-longitude = -92.228271
 latitude = 34.709342
+longitude = -92.228271
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72053"
+

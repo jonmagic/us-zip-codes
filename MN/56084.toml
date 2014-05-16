@@ -1,6 +1,8 @@
-zip_code = "56084"
-state = "MN"
 city = "Searles"
 county = "Brown"
-longitude = -94.738827
 latitude = 44.302893
+longitude = -94.738827
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56084"
+

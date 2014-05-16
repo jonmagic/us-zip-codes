@@ -1,6 +1,8 @@
-zip_code = "28664"
-state = "NC"
 city = "Plumtree"
 county = "Avery"
-longitude = -82.003691
 latitude = 36.044098
+longitude = -82.003691
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28664"
+

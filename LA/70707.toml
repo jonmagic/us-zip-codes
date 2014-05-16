@@ -1,6 +1,8 @@
-zip_code = "70707"
-state = "LA"
 city = "Gonzales"
 county = "Ascension"
-longitude = -90.869481
 latitude = 30.204707
+longitude = -90.869481
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70707"
+

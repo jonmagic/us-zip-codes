@@ -1,6 +1,8 @@
-zip_code = "38378"
-state = "TN"
 city = "Spring Creek"
 county = "Madison"
-longitude = -88.683882
 latitude = 35.766822
+longitude = -88.683882
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38378"
+

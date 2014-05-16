@@ -1,6 +1,8 @@
-zip_code = "08807"
-state = "NJ"
 city = "Bridgewater"
 county = "Somerset"
-longitude = -74.607518
 latitude = 40.598702
+longitude = -74.607518
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08807"
+

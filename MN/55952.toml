@@ -1,6 +1,8 @@
-zip_code = "55952"
-state = "MN"
 city = "Lewiston"
 county = "Winona"
-longitude = -91.880535
 latitude = 43.944412
+longitude = -91.880535
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55952"
+

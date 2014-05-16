@@ -1,6 +1,8 @@
-zip_code = "36860"
-state = "AL"
 city = "Hurtsboro"
 county = "Russell"
-longitude = -85.36233
 latitude = 32.238147
+longitude = -85.36233
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36860"
+

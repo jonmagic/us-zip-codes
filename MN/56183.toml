@@ -1,6 +1,8 @@
-zip_code = "56183"
-state = "MN"
 city = "Westbrook"
 county = "Cottonwood"
-longitude = -95.196562
 latitude = 44.007813
+longitude = -95.196562
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56183"
+

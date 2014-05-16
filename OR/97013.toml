@@ -1,6 +1,8 @@
-zip_code = "97013"
-state = "OR"
 city = "Canby"
 county = "Clackamas"
-longitude = -122.661593
 latitude = 45.214288
+longitude = -122.661593
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97013"
+

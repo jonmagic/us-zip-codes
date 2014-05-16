@@ -1,6 +1,8 @@
-zip_code = "28465"
-state = "NC"
 city = "Oak Island"
 county = "Brunswick"
-longitude = -78.127035
 latitude = 34.090202
+longitude = -78.127035
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28465"
+

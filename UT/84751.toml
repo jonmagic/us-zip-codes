@@ -1,6 +1,8 @@
-zip_code = "84751"
-state = "UT"
 city = "Milford"
 county = "Beaver"
-longitude = -113.250981
 latitude = 38.305873
+longitude = -113.250981
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84751"
+

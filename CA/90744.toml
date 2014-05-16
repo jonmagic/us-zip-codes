@@ -1,6 +1,8 @@
-zip_code = "90744"
-state = "CA"
 city = "Wilmington"
 county = "Los Angeles"
-longitude = -118.253853
 latitude = 33.779417
+longitude = -118.253853
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90744"
+

@@ -1,6 +1,8 @@
-zip_code = "72139"
-state = "AR"
 city = "Russell"
 county = "White"
-longitude = -91.495392
 latitude = 35.356592
+longitude = -91.495392
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72139"
+

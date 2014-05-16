@@ -1,6 +1,8 @@
-zip_code = "04001"
-state = "ME"
 city = "Acton"
 county = "York"
-longitude = -70.804588
 latitude = 43.520752
+longitude = -70.804588
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04001"
+

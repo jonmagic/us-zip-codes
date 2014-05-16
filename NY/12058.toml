@@ -1,6 +1,8 @@
-zip_code = "12058"
-state = "NY"
 city = "Earlton"
 county = "Greene"
-longitude = -73.905306
 latitude = 42.352969
+longitude = -73.905306
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12058"
+

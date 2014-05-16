@@ -1,6 +1,8 @@
-zip_code = "81521"
-state = "CO"
 city = "Fruita"
 county = "Mesa"
-longitude = -108.685164
 latitude = 39.149614
+longitude = -108.685164
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81521"
+

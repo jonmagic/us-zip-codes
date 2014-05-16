@@ -1,6 +1,8 @@
-zip_code = "01521"
-state = "MA"
 city = "Holland"
 county = "Hampden"
-longitude = -72.163991
 latitude = 42.061063
+longitude = -72.163991
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01521"
+

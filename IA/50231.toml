@@ -1,6 +1,8 @@
-zip_code = "50231"
-state = "IA"
 city = "Randall"
 county = "Hamilton"
-longitude = -93.628266
 latitude = 42.240121
+longitude = -93.628266
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50231"
+

@@ -1,6 +1,8 @@
-zip_code = "76460"
-state = "TX"
 city = "Loving"
 county = "Young"
-longitude = -98.496902
 latitude = 33.290955
+longitude = -98.496902
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76460"
+

@@ -1,6 +1,8 @@
-zip_code = "58277"
-state = "ND"
 city = "Sharon"
 county = "Steele"
-longitude = -97.718955
 latitude = 47.45565
+longitude = -97.718955
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58277"
+

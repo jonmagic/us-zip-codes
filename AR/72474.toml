@@ -1,6 +1,8 @@
-zip_code = "72474"
-state = "AR"
 city = "Walcott"
 county = "Greene"
-longitude = -90.671802
 latitude = 36.041332
+longitude = -90.671802
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72474"
+

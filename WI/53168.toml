@@ -1,6 +1,8 @@
-zip_code = "53168"
-state = "WI"
 city = "Salem"
 county = "Kenosha"
-longitude = -88.137535
 latitude = 42.574598
+longitude = -88.137535
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53168"
+

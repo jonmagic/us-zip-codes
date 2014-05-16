@@ -1,6 +1,8 @@
-zip_code = "55717"
-state = "MN"
 city = "Canyon"
 county = "Saint Louis"
-longitude = -92.442794
 latitude = 47.0686
+longitude = -92.442794
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55717"
+

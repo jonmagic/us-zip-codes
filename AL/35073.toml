@@ -1,6 +1,8 @@
-zip_code = "35073"
-state = "AL"
 city = "Graysville"
 county = "Jefferson"
-longitude = -86.801693
 latitude = 33.659545
+longitude = -86.801693
+state = ""
+state_code_alpha2 = ""
+zip_code = "35073"
+

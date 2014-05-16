@@ -1,6 +1,8 @@
-zip_code = "70650"
-state = "LA"
 city = "Lacassine"
 county = "Jefferson Davis"
-longitude = -92.877409
 latitude = 30.261021
+longitude = -92.877409
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70650"
+

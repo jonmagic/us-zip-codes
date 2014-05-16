@@ -1,6 +1,8 @@
-zip_code = "62939"
-state = "IL"
 city = "Goreville"
 county = "Johnson"
-longitude = -88.971292
 latitude = 37.534099
+longitude = -88.971292
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62939"
+

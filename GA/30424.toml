@@ -1,6 +1,8 @@
-zip_code = "30424"
-state = "GA"
 city = "Dover"
 county = "Screven"
-longitude = -81.629062
 latitude = 32.767634
+longitude = -81.629062
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30424"
+

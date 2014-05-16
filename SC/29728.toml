@@ -1,6 +1,8 @@
-zip_code = "29728"
-state = "SC"
 city = "Pageland"
 county = "Chesterfield"
-longitude = -80.3751
 latitude = 34.768882
+longitude = -80.3751
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29728"
+

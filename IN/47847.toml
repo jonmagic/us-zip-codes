@@ -1,6 +1,8 @@
-zip_code = "47847"
-state = "IN"
 city = "Dana"
 county = "Vermillion"
-longitude = -87.471163
 latitude = 39.838952
+longitude = -87.471163
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47847"
+

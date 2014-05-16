@@ -1,6 +1,8 @@
-zip_code = "45002"
-state = "OH"
 city = "Cleves"
 county = "Hamilton"
-longitude = -84.742376
 latitude = 39.191546
+longitude = -84.742376
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45002"
+

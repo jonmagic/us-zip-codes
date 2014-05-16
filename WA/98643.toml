@@ -1,6 +1,8 @@
-zip_code = "98643"
-state = "WA"
 city = "Rosburg"
 county = "Wahkiakum"
-longitude = -123.614319
 latitude = 46.310011
+longitude = -123.614319
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98643"
+

@@ -1,6 +1,8 @@
-zip_code = "21801"
-state = "MD"
 city = "Salisbury"
 county = "Wicomico"
-longitude = -75.633621
 latitude = 38.382445
+longitude = -75.633621
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21801"
+

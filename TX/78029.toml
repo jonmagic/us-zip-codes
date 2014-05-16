@@ -1,6 +1,8 @@
-zip_code = "78029"
-state = "TX"
 city = "Kerrville"
 county = "Kerr"
-longitude = -99.140974
 latitude = 30.033226
+longitude = -99.140974
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78029"
+

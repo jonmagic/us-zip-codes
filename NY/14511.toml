@@ -1,6 +1,8 @@
-zip_code = "14511"
-state = "NY"
 city = "Mumford"
 county = "Monroe"
-longitude = -77.86458
 latitude = 43.002612
+longitude = -77.86458
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14511"
+

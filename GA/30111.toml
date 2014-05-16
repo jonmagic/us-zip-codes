@@ -1,6 +1,8 @@
-zip_code = "30111"
-state = "GA"
 city = "Clarkdale"
 county = "Cobb"
-longitude = -84.557181
 latitude = 33.912473
+longitude = -84.557181
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30111"
+

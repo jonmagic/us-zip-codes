@@ -1,6 +1,8 @@
-zip_code = "30206"
-state = "GA"
 city = "Concord"
 county = "Pike"
-longitude = -84.456917
 latitude = 33.104729
+longitude = -84.456917
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30206"
+

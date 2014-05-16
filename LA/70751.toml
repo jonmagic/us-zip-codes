@@ -1,6 +1,8 @@
-zip_code = "70751"
-state = "LA"
 city = "Labarre"
 county = "Pointe Coupee"
-longitude = -91.566273
 latitude = 30.7513
+longitude = -91.566273
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70751"
+

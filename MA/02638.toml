@@ -1,6 +1,8 @@
-zip_code = "02638"
-state = "MA"
 city = "Dennis"
 county = "Barnstable"
-longitude = -70.089142
 latitude = 41.725716
+longitude = -70.089142
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02638"
+

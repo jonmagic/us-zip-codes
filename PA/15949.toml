@@ -1,6 +1,8 @@
-zip_code = "15949"
-state = "PA"
 city = "Robinson"
 county = "Indiana"
-longitude = -79.12204
 latitude = 40.403698
+longitude = -79.12204
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15949"
+

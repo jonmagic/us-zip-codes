@@ -1,6 +1,8 @@
-zip_code = "77870"
-state = "TX"
 city = "New Baden"
 county = "Robertson"
-longitude = -96.533031
 latitude = 31.026276
+longitude = -96.533031
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77870"
+

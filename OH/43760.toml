@@ -1,6 +1,8 @@
-zip_code = "43760"
-state = "OH"
 city = "Mount Perry"
 county = "Perry"
-longitude = -82.20775
 latitude = 39.760789
+longitude = -82.20775
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43760"
+

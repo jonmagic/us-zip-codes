@@ -1,6 +1,8 @@
-zip_code = "86336"
-state = "AZ"
 city = "Sedona"
 county = "Coconino"
-longitude = -111.279927
 latitude = 34.756885
+longitude = -111.279927
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86336"
+

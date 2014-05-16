@@ -1,6 +1,8 @@
-zip_code = "75442"
-state = "TX"
 city = "Farmersville"
 county = "Collin"
-longitude = -96.379009
 latitude = 33.218463
+longitude = -96.379009
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75442"
+

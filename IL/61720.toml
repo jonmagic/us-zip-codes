@@ -1,6 +1,8 @@
-zip_code = "61720"
-state = "IL"
 city = "Anchor"
 county = "Mclean"
-longitude = -88.722113
 latitude = 40.568549
+longitude = -88.722113
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61720"
+

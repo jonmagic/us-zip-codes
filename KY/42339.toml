@@ -1,6 +1,8 @@
-zip_code = "42339"
-state = "KY"
 city = "Dunmor"
 county = "Muhlenberg"
-longitude = -87.018401
 latitude = 37.194268
+longitude = -87.018401
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42339"
+

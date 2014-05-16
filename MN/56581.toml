@@ -1,6 +1,8 @@
-zip_code = "56581"
-state = "MN"
 city = "Shelly"
 county = "Norman"
-longitude = -96.54441
 latitude = 47.320042
+longitude = -96.54441
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56581"
+

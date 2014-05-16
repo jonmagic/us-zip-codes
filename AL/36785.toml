@@ -1,6 +1,8 @@
-zip_code = "36785"
-state = "AL"
 city = "Tyler"
 county = "Dallas"
-longitude = -86.86458
 latitude = 32.323895
+longitude = -86.86458
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36785"
+

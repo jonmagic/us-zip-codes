@@ -1,6 +1,8 @@
-zip_code = "46986"
-state = "IN"
 city = "Swayzee"
 county = "Grant"
-longitude = -85.815617
 latitude = 40.505141
+longitude = -85.815617
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46986"
+

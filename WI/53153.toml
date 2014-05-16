@@ -1,6 +1,8 @@
-zip_code = "53153"
-state = "WI"
 city = "North Prairie"
 county = "Waukesha"
-longitude = -88.401712
 latitude = 42.940971
+longitude = -88.401712
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53153"
+

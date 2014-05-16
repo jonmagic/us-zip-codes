@@ -1,6 +1,8 @@
-zip_code = "45865"
-state = "OH"
 city = "Minster"
 county = "Auglaize"
-longitude = -84.39708
 latitude = 40.410299
+longitude = -84.39708
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45865"
+

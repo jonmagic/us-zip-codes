@@ -1,6 +1,8 @@
-zip_code = "37656"
-state = "TN"
 city = "Fall Branch"
 county = "Washington"
-longitude = -82.558738
 latitude = 36.307671
+longitude = -82.558738
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37656"
+

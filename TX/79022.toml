@@ -1,6 +1,8 @@
-zip_code = "79022"
-state = "TX"
 city = "Dalhart"
 county = "Dallam"
-longitude = -102.602022
 latitude = 36.277826
+longitude = -102.602022
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79022"
+

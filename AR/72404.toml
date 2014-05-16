@@ -1,6 +1,8 @@
-zip_code = "72404"
-state = "AR"
 city = "Jonesboro"
 county = "Craighead"
-longitude = -90.766012
 latitude = 35.779183
+longitude = -90.766012
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72404"
+

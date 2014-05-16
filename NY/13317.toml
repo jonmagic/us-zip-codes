@@ -1,6 +1,8 @@
-zip_code = "13317"
-state = "NY"
 city = "Canajoharie"
 county = "Montgomery"
-longitude = -74.595636
 latitude = 42.867146
+longitude = -74.595636
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13317"
+

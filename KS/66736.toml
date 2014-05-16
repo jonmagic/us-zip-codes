@@ -1,6 +1,8 @@
-zip_code = "66736"
-state = "KS"
 city = "Fredonia"
 county = "Wilson"
-longitude = -95.748418
 latitude = 37.571672
+longitude = -95.748418
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66736"
+

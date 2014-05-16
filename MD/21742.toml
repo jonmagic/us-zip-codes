@@ -1,6 +1,8 @@
-zip_code = "21742"
-state = "MD"
 city = "Hagerstown"
 county = "Washington"
-longitude = -77.652779
 latitude = 39.642995
+longitude = -77.652779
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21742"
+

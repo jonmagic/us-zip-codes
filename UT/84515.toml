@@ -1,6 +1,8 @@
-zip_code = "84515"
-state = "UT"
 city = "Cisco"
 county = "Grand"
-longitude = -109.615008
 latitude = 38.999877
+longitude = -109.615008
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84515"
+

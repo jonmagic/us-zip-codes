@@ -1,6 +1,8 @@
-zip_code = "23102"
-state = "VA"
 city = "Maidens"
 county = "Goochland"
-longitude = -77.796603
 latitude = 37.694226
+longitude = -77.796603
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23102"
+

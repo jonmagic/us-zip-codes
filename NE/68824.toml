@@ -1,6 +1,8 @@
-zip_code = "68824"
-state = "NE"
 city = "Cairo"
 county = "Hall"
-longitude = -98.568185
 latitude = 40.908706
+longitude = -98.568185
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68824"
+

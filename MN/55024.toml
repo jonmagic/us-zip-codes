@@ -1,6 +1,8 @@
-zip_code = "55024"
-state = "MN"
 city = "Farmington"
 county = "Dakota"
-longitude = -93.14196
 latitude = 44.640515
+longitude = -93.14196
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55024"
+

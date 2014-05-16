@@ -1,6 +1,8 @@
-zip_code = "93287"
-state = "CA"
 city = "Woody"
 county = "Kern"
-longitude = -118.79575
 latitude = 35.608372
+longitude = -118.79575
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93287"
+

@@ -1,6 +1,8 @@
-zip_code = "23192"
-state = "VA"
 city = "Montpelier"
 county = "Hanover"
-longitude = -77.651831
 latitude = 37.820707
+longitude = -77.651831
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23192"
+

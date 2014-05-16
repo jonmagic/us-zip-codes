@@ -1,6 +1,8 @@
-zip_code = "13450"
-state = "NY"
 city = "Roseboom"
 county = "Otsego"
-longitude = -74.802488
 latitude = 42.70804
+longitude = -74.802488
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13450"
+

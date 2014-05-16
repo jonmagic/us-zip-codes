@@ -1,6 +1,8 @@
-zip_code = "72319"
-state = "AR"
 city = "Gosnell"
 county = "Mississippi"
-longitude = -89.966819
 latitude = 35.694942
+longitude = -89.966819
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72319"
+

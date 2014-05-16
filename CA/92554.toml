@@ -1,6 +1,8 @@
-zip_code = "92554"
-state = "CA"
 city = "Moreno Valley"
 county = "Riverside"
-longitude = -115.915905
 latitude = 33.521993
+longitude = -115.915905
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92554"
+

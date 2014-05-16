@@ -1,6 +1,8 @@
-zip_code = "25169"
-state = "WV"
 city = "Ridgeview"
 county = "Boone"
-longitude = -81.71704
 latitude = 37.997105
+longitude = -81.71704
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25169"
+

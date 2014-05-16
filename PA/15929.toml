@@ -1,6 +1,8 @@
-zip_code = "15929"
-state = "PA"
 city = "Dilltown"
 county = "Indiana"
-longitude = -79.012834
 latitude = 40.462521
+longitude = -79.012834
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15929"
+

@@ -1,6 +1,8 @@
-zip_code = "04668"
-state = "ME"
 city = "Princeton"
 county = "Washington"
-longitude = -67.575432
 latitude = 45.209229
+longitude = -67.575432
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04668"
+

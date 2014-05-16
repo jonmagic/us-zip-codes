@@ -1,6 +1,8 @@
-zip_code = "53059"
-state = "WI"
 city = "Neosho"
 county = "Dodge"
-longitude = -88.533958
 latitude = 43.289809
+longitude = -88.533958
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53059"
+

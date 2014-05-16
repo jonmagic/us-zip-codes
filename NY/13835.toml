@@ -1,6 +1,8 @@
-zip_code = "13835"
-state = "NY"
 city = "Richford"
 county = "Tioga"
-longitude = -76.197488
 latitude = 42.371552
+longitude = -76.197488
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13835"
+

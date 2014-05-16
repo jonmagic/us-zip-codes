@@ -1,6 +1,8 @@
-zip_code = "30118"
-state = "GA"
 city = "Carrollton"
 county = "Carroll"
-longitude = -85.09612
 latitude = 33.571176
+longitude = -85.09612
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30118"
+

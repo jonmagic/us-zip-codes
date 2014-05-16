@@ -1,6 +1,8 @@
-zip_code = "30268"
-state = "GA"
 city = "Palmetto"
 county = "Fulton"
-longitude = -84.710082
 latitude = 33.559191
+longitude = -84.710082
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30268"
+

@@ -1,6 +1,8 @@
-zip_code = "58330"
-state = "ND"
 city = "Edmore"
 county = "Ramsey"
-longitude = -98.49963
 latitude = 48.422614
+longitude = -98.49963
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58330"
+

@@ -1,6 +1,8 @@
-zip_code = "37363"
-state = "TN"
 city = "Ooltewah"
 county = "Hamilton"
-longitude = -85.060369
 latitude = 35.120227
+longitude = -85.060369
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37363"
+

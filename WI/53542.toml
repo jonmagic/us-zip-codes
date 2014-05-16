@@ -1,6 +1,8 @@
-zip_code = "53542"
-state = "WI"
 city = "Hanover"
 county = "Rock"
-longitude = -89.15942
 latitude = 42.632325
+longitude = -89.15942
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53542"
+

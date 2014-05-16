@@ -1,6 +1,8 @@
-zip_code = "67451"
-state = "KS"
 city = "Hope"
 county = "Dickinson"
-longitude = -97.121874
 latitude = 38.826292
+longitude = -97.121874
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67451"
+

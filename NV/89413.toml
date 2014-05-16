@@ -1,6 +1,8 @@
-zip_code = "89413"
-state = "NV"
 city = "Glenbrook"
 county = "Douglas"
-longitude = -119.942771
 latitude = 39.050936
+longitude = -119.942771
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89413"
+

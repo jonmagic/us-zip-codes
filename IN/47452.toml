@@ -1,6 +1,8 @@
-zip_code = "47452"
-state = "IN"
 city = "Orleans"
 county = "Orange"
-longitude = -86.451946
 latitude = 38.586595
+longitude = -86.451946
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47452"
+

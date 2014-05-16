@@ -1,6 +1,8 @@
-zip_code = "95620"
-state = "CA"
 city = "Dixon"
 county = "Solano"
-longitude = -121.761419
 latitude = 38.397372
+longitude = -121.761419
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95620"
+

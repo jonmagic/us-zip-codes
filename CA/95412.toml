@@ -1,6 +1,8 @@
-zip_code = "95412"
-state = "CA"
 city = "Annapolis"
 county = "Sonoma"
-longitude = -123.386924
 latitude = 38.710387
+longitude = -123.386924
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95412"
+

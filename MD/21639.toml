@@ -1,6 +1,8 @@
-zip_code = "21639"
-state = "MD"
 city = "Greensboro"
 county = "Caroline"
-longitude = -75.790732
 latitude = 38.968592
+longitude = -75.790732
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21639"
+

@@ -1,6 +1,8 @@
-zip_code = "07946"
-state = "NJ"
 city = "Millington"
 county = "Morris"
-longitude = -74.505399
 latitude = 40.678701
+longitude = -74.505399
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07946"
+

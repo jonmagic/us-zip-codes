@@ -1,6 +1,8 @@
-zip_code = "30751"
-state = "GA"
 city = "Tennga"
 county = "Murray"
-longitude = -84.735233
 latitude = 34.981449
+longitude = -84.735233
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30751"
+

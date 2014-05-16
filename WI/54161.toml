@@ -1,6 +1,8 @@
-zip_code = "54161"
-state = "WI"
 city = "Pound"
 county = "Marinette"
-longitude = -87.977136
 latitude = 45.117544
+longitude = -87.977136
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54161"
+

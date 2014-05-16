@@ -1,6 +1,8 @@
-zip_code = "04364"
-state = "ME"
 city = "Winthrop"
 county = "Kennebec"
-longitude = -69.957627
 latitude = 44.322865
+longitude = -69.957627
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04364"
+

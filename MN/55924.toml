@@ -1,6 +1,8 @@
-zip_code = "55924"
-state = "MN"
 city = "Claremont"
 county = "Dodge"
-longitude = -92.975313
 latitude = 44.046168
+longitude = -92.975313
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55924"
+

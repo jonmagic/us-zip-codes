@@ -1,6 +1,8 @@
-zip_code = "48754"
-state = "MI"
 city = "Owendale"
 county = "Huron"
-longitude = -83.228252
 latitude = 43.768927
+longitude = -83.228252
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48754"
+

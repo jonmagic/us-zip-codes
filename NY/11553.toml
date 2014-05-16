@@ -1,6 +1,8 @@
-zip_code = "11553"
-state = "NY"
 city = "Uniondale"
 county = "Nassau"
-longitude = -73.591421
 latitude = 40.705868
+longitude = -73.591421
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11553"
+

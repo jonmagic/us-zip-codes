@@ -1,6 +1,8 @@
-zip_code = "07460"
-state = "NJ"
 city = "Stockholm"
 county = "Sussex"
-longitude = -74.561915
 latitude = 41.138101
+longitude = -74.561915
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07460"
+

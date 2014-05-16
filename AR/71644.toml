@@ -1,6 +1,8 @@
-zip_code = "71644"
-state = "AR"
 city = "Grady"
 county = "Lincoln"
-longitude = -91.705699
 latitude = 34.103233
+longitude = -91.705699
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71644"
+

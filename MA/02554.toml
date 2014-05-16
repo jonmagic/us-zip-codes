@@ -1,6 +1,8 @@
-zip_code = "02554"
-state = "MA"
 city = "Nantucket"
 county = "Nantucket"
-longitude = -70.08665
 latitude = 41.287647
+longitude = -70.08665
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02554"
+

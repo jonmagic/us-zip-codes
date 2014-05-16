@@ -1,6 +1,8 @@
-zip_code = "39218"
-state = "MS"
 city = "Richland"
 county = "Rankin"
-longitude = -90.126353
 latitude = 32.215304
+longitude = -90.126353
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39218"
+

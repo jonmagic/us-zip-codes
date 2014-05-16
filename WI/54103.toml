@@ -1,6 +1,8 @@
-zip_code = "54103"
-state = "WI"
 city = "Armstrong Creek"
 county = "Forest"
-longitude = -88.530545
 latitude = 45.672311
+longitude = -88.530545
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54103"
+

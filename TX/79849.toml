@@ -1,6 +1,8 @@
-zip_code = "79849"
-state = "TX"
 city = "San Elizario"
 county = "El Paso"
-longitude = -106.250732
 latitude = 31.550844
+longitude = -106.250732
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79849"
+

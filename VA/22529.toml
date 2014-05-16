@@ -1,6 +1,8 @@
-zip_code = "22529"
-state = "VA"
 city = "Oldhams"
 county = "Westmoreland"
-longitude = -76.68611
 latitude = 38.018054
+longitude = -76.68611
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22529"
+

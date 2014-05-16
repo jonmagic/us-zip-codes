@@ -1,6 +1,8 @@
-zip_code = "97304"
-state = "OR"
 city = "Salem"
 county = "Polk"
-longitude = -123.107442
 latitude = 44.99351
+longitude = -123.107442
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97304"
+

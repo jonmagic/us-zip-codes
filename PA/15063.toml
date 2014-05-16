@@ -1,6 +1,8 @@
-zip_code = "15063"
-state = "PA"
 city = "Monongahela"
 county = "Washington"
-longitude = -80.124442
 latitude = 40.260001
+longitude = -80.124442
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15063"
+

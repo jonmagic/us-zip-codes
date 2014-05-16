@@ -1,6 +1,8 @@
-zip_code = "47249"
-state = "IN"
 city = "Kurtz"
 county = "Jackson"
-longitude = -86.056681
 latitude = 38.897974
+longitude = -86.056681
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47249"
+

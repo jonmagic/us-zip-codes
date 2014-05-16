@@ -1,6 +1,8 @@
-zip_code = "74554"
-state = "OK"
 city = "Krebs"
 county = "Pittsburg"
-longitude = -95.761561
 latitude = 34.894194
+longitude = -95.761561
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74554"
+

@@ -1,6 +1,8 @@
-zip_code = "98944"
-state = "WA"
 city = "Sunnyside"
 county = "Yakima"
-longitude = -120.01059
 latitude = 46.373611
+longitude = -120.01059
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98944"
+

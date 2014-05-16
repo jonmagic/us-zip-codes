@@ -1,6 +1,8 @@
-zip_code = "98261"
-state = "WA"
 city = "Lopez Island"
 county = "San Juan"
-longitude = -122.874334
 latitude = 48.498773
+longitude = -122.874334
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98261"
+

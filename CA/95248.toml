@@ -1,6 +1,8 @@
-zip_code = "95248"
-state = "CA"
 city = "Rail Road Flat"
 county = "Calaveras"
-longitude = -120.485154
 latitude = 38.325626
+longitude = -120.485154
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95248"
+

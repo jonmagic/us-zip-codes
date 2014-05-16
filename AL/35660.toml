@@ -1,6 +1,8 @@
-zip_code = "35660"
-state = "AL"
 city = "Sheffield"
 county = "Colbert"
-longitude = -87.710054
 latitude = 34.691165
+longitude = -87.710054
+state = ""
+state_code_alpha2 = ""
+zip_code = "35660"
+

@@ -1,6 +1,8 @@
-zip_code = "60968"
-state = "IL"
 city = "Thawville"
 county = "Iroquois"
-longitude = -88.099724
 latitude = 40.673257
+longitude = -88.099724
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60968"
+

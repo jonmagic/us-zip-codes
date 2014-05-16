@@ -1,6 +1,8 @@
-zip_code = "52158"
-state = "IA"
 city = "Marquette"
 county = "Clayton"
-longitude = -91.193057
 latitude = 43.036006
+longitude = -91.193057
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52158"
+

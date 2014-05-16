@@ -1,6 +1,8 @@
-zip_code = "43435"
-state = "OH"
 city = "Helena"
 county = "Sandusky"
-longitude = -83.318648
 latitude = 41.325996
+longitude = -83.318648
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43435"
+

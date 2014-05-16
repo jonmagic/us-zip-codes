@@ -1,6 +1,8 @@
-zip_code = "44039"
-state = "OH"
 city = "North Ridgeville"
 county = "Lorain"
-longitude = -82.019365
 latitude = 41.377776
+longitude = -82.019365
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44039"
+

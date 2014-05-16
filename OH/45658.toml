@@ -1,6 +1,8 @@
-zip_code = "45658"
-state = "OH"
 city = "Patriot"
 county = "Gallia"
-longitude = -82.390542
 latitude = 38.765791
+longitude = -82.390542
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45658"
+

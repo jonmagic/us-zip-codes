@@ -1,6 +1,8 @@
-zip_code = "35951"
-state = "AL"
 city = "Albertville"
 county = "Marshall"
-longitude = -86.193529
 latitude = 34.322334
+longitude = -86.193529
+state = ""
+state_code_alpha2 = ""
+zip_code = "35951"
+

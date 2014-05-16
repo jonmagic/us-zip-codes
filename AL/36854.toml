@@ -1,6 +1,8 @@
-zip_code = "36854"
-state = "AL"
 city = "Valley"
 county = "Chambers"
-longitude = -85.264695
 latitude = 32.885631
+longitude = -85.264695
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36854"
+

@@ -1,6 +1,8 @@
-zip_code = "68745"
-state = "NE"
 city = "Laurel"
 county = "Cedar"
-longitude = -97.142457
 latitude = 42.475072
+longitude = -97.142457
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68745"
+

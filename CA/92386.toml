@@ -1,6 +1,8 @@
-zip_code = "92386"
-state = "CA"
 city = "Sugarloaf"
 county = "San Bernardino"
-longitude = -116.818764
 latitude = 34.247205
+longitude = -116.818764
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92386"
+

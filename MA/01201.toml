@@ -1,6 +1,8 @@
-zip_code = "01201"
-state = "MA"
 city = "Pittsfield"
 county = "Berkshire"
-longitude = -73.24807
 latitude = 42.479475
+longitude = -73.24807
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01201"
+

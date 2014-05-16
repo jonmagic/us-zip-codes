@@ -1,6 +1,8 @@
-zip_code = "17037"
-state = "PA"
 city = "Ickesburg"
 county = "Perry"
-longitude = -77.397013
 latitude = 40.436276
+longitude = -77.397013
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17037"
+

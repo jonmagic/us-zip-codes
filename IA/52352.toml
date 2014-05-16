@@ -1,6 +1,8 @@
-zip_code = "52352"
-state = "IA"
 city = "Walker"
 county = "Linn"
-longitude = -91.726637
 latitude = 42.255159
+longitude = -91.726637
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52352"
+

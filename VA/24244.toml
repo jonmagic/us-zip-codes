@@ -1,6 +1,8 @@
-zip_code = "24244"
-state = "VA"
 city = "Duffield"
 county = "Scott"
-longitude = -82.833676
 latitude = 36.711382
+longitude = -82.833676
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24244"
+

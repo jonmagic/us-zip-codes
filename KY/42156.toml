@@ -1,6 +1,8 @@
-zip_code = "42156"
-state = "KY"
 city = "Lucas"
 county = "Barren"
-longitude = -85.995572
 latitude = 36.840503
+longitude = -85.995572
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42156"
+

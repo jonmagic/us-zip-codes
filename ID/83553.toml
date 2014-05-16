@@ -1,6 +1,8 @@
-zip_code = "83553"
-state = "ID"
 city = "Weippe"
 county = "Clearwater"
-longitude = -115.918826
 latitude = 46.381159
+longitude = -115.918826
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83553"
+

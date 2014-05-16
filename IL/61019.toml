@@ -1,6 +1,8 @@
-zip_code = "61019"
-state = "IL"
 city = "Davis"
 county = "Stephenson"
-longitude = -89.611026
 latitude = 42.398148
+longitude = -89.611026
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61019"
+

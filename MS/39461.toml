@@ -1,6 +1,8 @@
-zip_code = "39461"
-state = "MS"
 city = "Neely"
 county = "Greene"
-longitude = -88.754841
 latitude = 31.210172
+longitude = -88.754841
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39461"
+

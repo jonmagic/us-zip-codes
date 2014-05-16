@@ -1,6 +1,8 @@
-zip_code = "55750"
-state = "MN"
 city = "Hoyt Lakes"
 county = "Saint Louis"
-longitude = -92.112844
 latitude = 47.507262
+longitude = -92.112844
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55750"
+

@@ -1,6 +1,8 @@
-zip_code = "50031"
-state = "IA"
 city = "Beaver"
 county = "Boone"
-longitude = -94.143566
 latitude = 42.038746
+longitude = -94.143566
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50031"
+

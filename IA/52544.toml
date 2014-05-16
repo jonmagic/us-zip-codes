@@ -1,6 +1,8 @@
-zip_code = "52544"
-state = "IA"
 city = "Centerville"
 county = "Appanoose"
-longitude = -92.881614
 latitude = 40.686447
+longitude = -92.881614
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52544"
+

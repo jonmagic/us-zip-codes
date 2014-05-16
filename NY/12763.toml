@@ -1,6 +1,8 @@
-zip_code = "12763"
-state = "NY"
 city = "Mountain Dale"
 county = "Sullivan"
-longitude = -74.696318
 latitude = 41.80469
+longitude = -74.696318
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12763"
+

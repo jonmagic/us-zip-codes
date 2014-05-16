@@ -1,6 +1,8 @@
-zip_code = "54735"
-state = "WI"
 city = "Downsville"
 county = "Dunn"
-longitude = -91.90344
 latitude = 44.946496
+longitude = -91.90344
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54735"
+

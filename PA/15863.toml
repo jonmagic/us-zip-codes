@@ -1,6 +1,8 @@
-zip_code = "15863"
-state = "PA"
 city = "Stump Creek"
 county = "Jefferson"
-longitude = -78.962877
 latitude = 41.141079
+longitude = -78.962877
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15863"
+

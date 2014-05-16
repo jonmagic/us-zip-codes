@@ -1,6 +1,8 @@
-zip_code = "68755"
-state = "NE"
 city = "Naper"
 county = "Boyd"
-longitude = -98.781334
 latitude = 42.879903
+longitude = -98.781334
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68755"
+

@@ -1,6 +1,8 @@
-zip_code = "59846"
-state = "MT"
 city = "Huson"
 county = "Missoula"
-longitude = -114.398643
 latitude = 47.067886
+longitude = -114.398643
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59846"
+

@@ -1,6 +1,8 @@
-zip_code = "64867"
-state = "MO"
 city = "Stella"
 county = "Newton"
-longitude = -94.379315
 latitude = 36.814525
+longitude = -94.379315
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64867"
+

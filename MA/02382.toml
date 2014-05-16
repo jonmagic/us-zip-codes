@@ -1,6 +1,8 @@
-zip_code = "02382"
-state = "MA"
 city = "Whitman"
 county = "Plymouth"
-longitude = -70.940837
 latitude = 42.0785
+longitude = -70.940837
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02382"
+

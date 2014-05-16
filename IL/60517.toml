@@ -1,6 +1,8 @@
-zip_code = "60517"
-state = "IL"
 city = "Woodridge"
 county = "Du Page"
-longitude = -88.041731
 latitude = 41.736788
+longitude = -88.041731
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60517"
+

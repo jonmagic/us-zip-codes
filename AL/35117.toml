@@ -1,6 +1,8 @@
-zip_code = "35117"
-state = "AL"
 city = "Mount Olive"
 county = "Jefferson"
-longitude = -86.875181
 latitude = 33.637322
+longitude = -86.875181
+state = ""
+state_code_alpha2 = ""
+zip_code = "35117"
+

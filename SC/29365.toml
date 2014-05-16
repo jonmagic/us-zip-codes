@@ -1,6 +1,8 @@
-zip_code = "29365"
-state = "SC"
 city = "Lyman"
 county = "Spartanburg"
-longitude = -81.985214
 latitude = 35.006816
+longitude = -81.985214
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29365"
+

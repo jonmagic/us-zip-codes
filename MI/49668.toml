@@ -1,6 +1,8 @@
-zip_code = "49668"
-state = "MI"
 city = "Mesick"
 county = "Wexford"
-longitude = -85.629669
 latitude = 44.39912
+longitude = -85.629669
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49668"
+

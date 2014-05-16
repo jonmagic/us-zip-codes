@@ -1,6 +1,8 @@
-zip_code = "59447"
-state = "MT"
 city = "Geyser"
 county = "Judith Basin"
-longitude = -110.494703
 latitude = 47.258941
+longitude = -110.494703
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59447"
+

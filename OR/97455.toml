@@ -1,6 +1,8 @@
-zip_code = "97455"
-state = "OR"
 city = "Pleasant Hill"
 county = "Lane"
-longitude = -122.915417
 latitude = 43.967356
+longitude = -122.915417
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97455"
+

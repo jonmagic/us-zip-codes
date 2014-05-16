@@ -1,6 +1,8 @@
-zip_code = "06716"
-state = "CT"
 city = "Wolcott"
 county = "New Haven"
-longitude = -72.980578
 latitude = 41.598347
+longitude = -72.980578
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06716"
+

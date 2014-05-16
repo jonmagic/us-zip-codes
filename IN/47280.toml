@@ -1,6 +1,8 @@
-zip_code = "47280"
-state = "IN"
 city = "Taylorsville"
 county = "Bartholomew"
-longitude = -85.949844
 latitude = 39.295266
+longitude = -85.949844
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47280"
+

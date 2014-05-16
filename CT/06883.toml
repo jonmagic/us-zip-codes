@@ -1,6 +1,8 @@
-zip_code = "06883"
-state = "CT"
 city = "Weston"
 county = "Fairfield"
-longitude = -73.376263
 latitude = 41.222945
+longitude = -73.376263
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06883"
+

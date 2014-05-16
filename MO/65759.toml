@@ -1,6 +1,8 @@
-zip_code = "65759"
-state = "MO"
 city = "Taneyville"
 county = "Taney"
-longitude = -93.016322
 latitude = 36.750537
+longitude = -93.016322
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65759"
+

@@ -1,6 +1,8 @@
-zip_code = "37035"
-state = "TN"
 city = "Chapmansboro"
 county = "Cheatham"
-longitude = -87.112668
 latitude = 36.376837
+longitude = -87.112668
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37035"
+

@@ -1,6 +1,8 @@
-zip_code = "11005"
-state = "NY"
 city = "Floral Park"
 county = "Queens"
-longitude = -73.7182
 latitude = 40.757057
+longitude = -73.7182
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11005"
+

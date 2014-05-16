@@ -1,6 +1,8 @@
-zip_code = "04962"
-state = "ME"
 city = "North Vassalboro"
 county = "Kennebec"
-longitude = -69.622006
 latitude = 44.479288
+longitude = -69.622006
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04962"
+

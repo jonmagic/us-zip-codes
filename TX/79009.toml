@@ -1,6 +1,8 @@
-zip_code = "79009"
-state = "TX"
 city = "Bovina"
 county = "Parmer"
-longitude = -102.784639
 latitude = 34.519042
+longitude = -102.784639
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79009"
+

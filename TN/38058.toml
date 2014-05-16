@@ -1,6 +1,8 @@
-zip_code = "38058"
-state = "TN"
 city = "Munford"
 county = "Tipton"
-longitude = -89.711843
 latitude = 35.463075
+longitude = -89.711843
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38058"
+

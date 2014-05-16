@@ -1,6 +1,8 @@
-zip_code = "79538"
-state = "TX"
 city = "Novice"
 county = "Coleman"
-longitude = -99.605724
 latitude = 31.953707
+longitude = -99.605724
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79538"
+

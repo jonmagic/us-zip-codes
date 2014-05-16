@@ -1,6 +1,8 @@
-zip_code = "23604"
-state = "VA"
 city = "Fort Eustis"
 county = "Newport News City"
-longitude = -76.584469
 latitude = 37.157438
+longitude = -76.584469
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23604"
+

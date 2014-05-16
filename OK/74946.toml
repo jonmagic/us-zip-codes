@@ -1,6 +1,8 @@
-zip_code = "74946"
-state = "OK"
 city = "Moffett"
 county = "Sequoyah"
-longitude = -94.446215
 latitude = 35.389791
+longitude = -94.446215
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74946"
+

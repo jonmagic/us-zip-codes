@@ -1,6 +1,8 @@
-zip_code = "24131"
-state = "VA"
 city = "Paint Bank"
 county = "Craig"
-longitude = -80.222319
 latitude = 37.488235
+longitude = -80.222319
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24131"
+

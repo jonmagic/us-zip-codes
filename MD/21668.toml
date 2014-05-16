@@ -1,6 +1,8 @@
-zip_code = "21668"
-state = "MD"
 city = "Sudlersville"
 county = "Queen Annes"
-longitude = -76.031257
 latitude = 39.119123
+longitude = -76.031257
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21668"
+

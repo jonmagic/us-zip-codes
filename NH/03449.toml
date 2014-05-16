@@ -1,6 +1,8 @@
-zip_code = "03449"
-state = "NH"
 city = "Hancock"
 county = "Hillsborough"
-longitude = -71.983797
 latitude = 42.93924
+longitude = -71.983797
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03449"
+

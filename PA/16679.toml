@@ -1,6 +1,8 @@
-zip_code = "16679"
-state = "PA"
 city = "Six Mile Run"
 county = "Bedford"
-longitude = -78.212185
 latitude = 40.169799
+longitude = -78.212185
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16679"
+

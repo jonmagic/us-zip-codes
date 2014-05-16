@@ -1,6 +1,8 @@
-zip_code = "63460"
-state = "MO"
 city = "Novelty"
 county = "Knox"
-longitude = -92.147994
 latitude = 40.126767
+longitude = -92.147994
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63460"
+

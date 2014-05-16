@@ -1,6 +1,8 @@
-zip_code = "03871"
-state = "NH"
 city = "Rye Beach"
 county = "Rockingham"
-longitude = -70.771896
 latitude = 42.980639
+longitude = -70.771896
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03871"
+

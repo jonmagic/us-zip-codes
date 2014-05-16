@@ -1,6 +1,8 @@
-zip_code = "71909"
-state = "AR"
 city = "Hot Springs Village"
 county = "Garland"
-longitude = -92.989435
 latitude = 34.576246
+longitude = -92.989435
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71909"
+

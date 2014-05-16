@@ -1,6 +1,8 @@
-zip_code = "67567"
-state = "KS"
 city = "Pawnee Rock"
 county = "Barton"
-longitude = -98.959346
 latitude = 38.451554
+longitude = -98.959346
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67567"
+

@@ -1,6 +1,8 @@
-zip_code = "18460"
-state = "PA"
 city = "South Sterling"
 county = "Wayne"
-longitude = -75.373122
 latitude = 41.259242
+longitude = -75.373122
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18460"
+

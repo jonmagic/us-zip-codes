@@ -1,6 +1,8 @@
-zip_code = "44619"
-state = "OH"
 city = "Damascus"
 county = "Mahoning"
-longitude = -80.962843
 latitude = 40.902146
+longitude = -80.962843
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44619"
+

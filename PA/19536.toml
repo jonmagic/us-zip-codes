@@ -1,6 +1,8 @@
-zip_code = "19536"
-state = "PA"
 city = "Lyon Station"
 county = "Berks"
-longitude = -75.741859
 latitude = 40.521756
+longitude = -75.741859
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19536"
+

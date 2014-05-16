@@ -1,6 +1,8 @@
-zip_code = "45174"
-state = "OH"
 city = "Terrace Park"
 county = "Hamilton"
-longitude = -84.329171
 latitude = 39.153831
+longitude = -84.329171
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45174"
+

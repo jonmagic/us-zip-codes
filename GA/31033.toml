@@ -1,6 +1,8 @@
-zip_code = "31033"
-state = "GA"
 city = "Haddock"
 county = "Jones"
-longitude = -83.424672
 latitude = 33.056543
+longitude = -83.424672
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31033"
+

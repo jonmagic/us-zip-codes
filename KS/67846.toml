@@ -1,6 +1,8 @@
-zip_code = "67846"
-state = "KS"
 city = "Garden City"
 county = "Finney"
-longitude = -100.664407
 latitude = 38.000771
+longitude = -100.664407
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67846"
+

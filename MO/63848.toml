@@ -1,6 +1,8 @@
-zip_code = "63848"
-state = "MO"
 city = "Gideon"
 county = "New Madrid"
-longitude = -89.774875
 latitude = 36.489808
+longitude = -89.774875
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63848"
+

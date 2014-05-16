@@ -1,6 +1,8 @@
-zip_code = "12565"
-state = "NY"
 city = "Philmont"
 county = "Columbia"
-longitude = -73.659054
 latitude = 42.250141
+longitude = -73.659054
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12565"
+

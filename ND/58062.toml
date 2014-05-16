@@ -1,6 +1,8 @@
-zip_code = "58062"
-state = "ND"
 city = "Nome"
 county = "Barnes"
-longitude = -97.786984
 latitude = 46.680795
+longitude = -97.786984
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58062"
+

@@ -1,6 +1,8 @@
-zip_code = "64802"
-state = "MO"
 city = "Joplin"
 county = "Jasper"
-longitude = -94.335453
 latitude = 37.206219
+longitude = -94.335453
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64802"
+

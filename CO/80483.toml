@@ -1,6 +1,8 @@
-zip_code = "80483"
-state = "CO"
 city = "Yampa"
 county = "Routt"
-longitude = -106.911567
 latitude = 40.130445
+longitude = -106.911567
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80483"
+

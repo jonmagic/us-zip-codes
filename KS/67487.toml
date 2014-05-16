@@ -1,6 +1,8 @@
-zip_code = "67487"
-state = "KS"
 city = "Wakefield"
 county = "Clay"
-longitude = -97.075406
 latitude = 39.190937
+longitude = -97.075406
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67487"
+

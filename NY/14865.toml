@@ -1,6 +1,8 @@
-zip_code = "14865"
-state = "NY"
 city = "Montour Falls"
 county = "Schuyler"
-longitude = -76.841852
 latitude = 42.358866
+longitude = -76.841852
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14865"
+

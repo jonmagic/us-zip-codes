@@ -1,6 +1,8 @@
-zip_code = "08015"
-state = "NJ"
 city = "Browns Mills"
 county = "Burlington"
-longitude = -74.670408
 latitude = 39.924179
+longitude = -74.670408
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08015"
+

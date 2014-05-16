@@ -1,6 +1,8 @@
-zip_code = "48170"
-state = "MI"
 city = "Plymouth"
 county = "Wayne"
-longitude = -83.489679
 latitude = 42.366737
+longitude = -83.489679
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48170"
+

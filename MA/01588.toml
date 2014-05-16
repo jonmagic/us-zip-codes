@@ -1,6 +1,8 @@
-zip_code = "01588"
-state = "MA"
 city = "Whitinsville"
 county = "Worcester"
-longitude = -71.899484
 latitude = 42.166554
+longitude = -71.899484
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01588"
+

@@ -1,6 +1,8 @@
-zip_code = "72331"
-state = "AR"
 city = "Earle"
 county = "Crittenden"
-longitude = -90.355335
 latitude = 35.270213
+longitude = -90.355335
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72331"
+

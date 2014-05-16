@@ -1,6 +1,8 @@
-zip_code = "47521"
-state = "IN"
 city = "Celestine"
 county = "Dubois"
-longitude = -86.742618
 latitude = 38.406745
+longitude = -86.742618
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47521"
+

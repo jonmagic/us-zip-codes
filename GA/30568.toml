@@ -1,6 +1,8 @@
-zip_code = "30568"
-state = "GA"
 city = "Rabun Gap"
 county = "Rabun"
-longitude = -83.381415
 latitude = 34.944609
+longitude = -83.381415
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30568"
+

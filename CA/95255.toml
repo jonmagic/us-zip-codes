@@ -1,6 +1,8 @@
-zip_code = "95255"
-state = "CA"
 city = "West Point"
 county = "Calaveras"
-longitude = -120.477467
 latitude = 38.403007
+longitude = -120.477467
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95255"
+

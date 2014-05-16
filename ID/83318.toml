@@ -1,6 +1,8 @@
-zip_code = "83318"
-state = "ID"
 city = "Burley"
 county = "Cassia"
-longitude = -113.848558
 latitude = 42.399472
+longitude = -113.848558
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83318"
+

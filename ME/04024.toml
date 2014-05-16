@@ -1,6 +1,8 @@
-zip_code = "04024"
-state = "ME"
 city = "East Baldwin"
 county = "Cumberland"
-longitude = -70.688656
 latitude = 43.844826
+longitude = -70.688656
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04024"
+

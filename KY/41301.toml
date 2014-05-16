@@ -1,6 +1,8 @@
-zip_code = "41301"
-state = "KY"
 city = "Campton"
 county = "Wolfe"
-longitude = -83.494029
 latitude = 37.728737
+longitude = -83.494029
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41301"
+

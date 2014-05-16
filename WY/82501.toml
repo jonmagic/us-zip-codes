@@ -1,6 +1,8 @@
-zip_code = "82501"
-state = "WY"
 city = "Riverton"
 county = "Fremont"
-longitude = -108.925734
 latitude = 43.180647
+longitude = -108.925734
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82501"
+

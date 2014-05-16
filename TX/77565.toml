@@ -1,6 +1,8 @@
-zip_code = "77565"
-state = "TX"
 city = "Kemah"
 county = "Galveston"
-longitude = -95.053246
 latitude = 29.465064
+longitude = -95.053246
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77565"
+

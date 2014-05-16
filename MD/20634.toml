@@ -1,6 +1,8 @@
-zip_code = "20634"
-state = "MD"
 city = "Great Mills"
 county = "Saint Marys"
-longitude = -76.501513
 latitude = 38.242387
+longitude = -76.501513
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20634"
+

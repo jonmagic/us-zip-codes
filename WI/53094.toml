@@ -1,6 +1,8 @@
-zip_code = "53094"
-state = "WI"
 city = "Watertown"
 county = "Jefferson"
-longitude = -88.743595
 latitude = 43.132599
+longitude = -88.743595
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53094"
+

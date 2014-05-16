@@ -1,6 +1,8 @@
-zip_code = "56031"
-state = "MN"
 city = "Fairmont"
 county = "Martin"
-longitude = -94.51078
 latitude = 43.674049
+longitude = -94.51078
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56031"
+

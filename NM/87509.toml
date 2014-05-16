@@ -1,6 +1,8 @@
-zip_code = "87509"
-state = "NM"
 city = "Santa Fe"
 county = "Santa Fe"
-longitude = -105.981847
 latitude = 35.521181
+longitude = -105.981847
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87509"
+

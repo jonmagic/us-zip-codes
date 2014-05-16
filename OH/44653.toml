@@ -1,6 +1,8 @@
-zip_code = "44653"
-state = "OH"
 city = "Midvale"
 county = "Tuscarawas"
-longitude = -81.372875
 latitude = 40.437981
+longitude = -81.372875
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44653"
+

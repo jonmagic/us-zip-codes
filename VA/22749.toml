@@ -1,6 +1,8 @@
-zip_code = "22749"
-state = "VA"
 city = "Woodville"
 county = "Rappahannock"
-longitude = -78.191528
 latitude = 38.620549
+longitude = -78.191528
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22749"
+

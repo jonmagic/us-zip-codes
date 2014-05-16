@@ -1,6 +1,8 @@
-zip_code = "24605"
-state = "VA"
 city = "Bluefield"
 county = "Tazewell"
-longitude = -81.507054
 latitude = 37.172408
+longitude = -81.507054
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24605"
+

@@ -1,6 +1,8 @@
-zip_code = "57312"
-state = "SD"
 city = "Alpena"
 county = "Jerauld"
-longitude = -98.412198
 latitude = 44.122811
+longitude = -98.412198
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57312"
+

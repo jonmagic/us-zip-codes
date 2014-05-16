@@ -1,6 +1,8 @@
-zip_code = "77972"
-state = "TX"
 city = "Long Mott"
 county = "Calhoun"
-longitude = -96.694818
 latitude = 28.525453
+longitude = -96.694818
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77972"
+

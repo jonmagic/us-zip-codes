@@ -1,6 +1,8 @@
-zip_code = "17247"
-state = "PA"
 city = "Quincy"
 county = "Franklin"
-longitude = -77.581092
 latitude = 39.799481
+longitude = -77.581092
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17247"
+

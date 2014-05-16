@@ -1,6 +1,8 @@
-zip_code = "22726"
-state = "VA"
 city = "Lignum"
 county = "Culpeper"
-longitude = -77.770885
 latitude = 38.404605
+longitude = -77.770885
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22726"
+

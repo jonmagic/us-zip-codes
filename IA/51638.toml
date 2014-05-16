@@ -1,6 +1,8 @@
-zip_code = "51638"
-state = "IA"
 city = "Essex"
 county = "Page"
-longitude = -95.261263
 latitude = 40.77046
+longitude = -95.261263
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51638"
+

@@ -1,6 +1,8 @@
-zip_code = "39772"
-state = "MS"
 city = "Weir"
 county = "Choctaw"
-longitude = -89.271149
 latitude = 33.321036
+longitude = -89.271149
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39772"
+

@@ -1,6 +1,8 @@
-zip_code = "06512"
-state = "CT"
 city = "East Haven"
 county = "New Haven"
-longitude = -72.865894
 latitude = 41.290997
+longitude = -72.865894
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06512"
+

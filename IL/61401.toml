@@ -1,6 +1,8 @@
-zip_code = "61401"
-state = "IL"
 city = "Galesburg"
 county = "Knox"
-longitude = -90.213654
 latitude = 40.964613
+longitude = -90.213654
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61401"
+

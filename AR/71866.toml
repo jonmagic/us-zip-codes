@@ -1,6 +1,8 @@
-zip_code = "71866"
-state = "AR"
 city = "Winthrop"
 county = "Little River"
-longitude = -94.3748
 latitude = 33.857142
+longitude = -94.3748
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71866"
+

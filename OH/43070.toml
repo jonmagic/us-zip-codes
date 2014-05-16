@@ -1,6 +1,8 @@
-zip_code = "43070"
-state = "OH"
 city = "Rosewood"
 county = "Champaign"
-longitude = -83.962411
 latitude = 40.172288
+longitude = -83.962411
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43070"
+

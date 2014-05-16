@@ -1,6 +1,8 @@
-zip_code = "53405"
-state = "WI"
 city = "Racine"
 county = "Racine"
-longitude = -87.820925
 latitude = 42.731827
+longitude = -87.820925
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53405"
+

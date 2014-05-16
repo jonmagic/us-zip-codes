@@ -1,6 +1,8 @@
-zip_code = "30024"
-state = "GA"
 city = "Suwanee"
 county = "Gwinnett"
-longitude = -84.026171
 latitude = 34.042479
+longitude = -84.026171
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30024"
+

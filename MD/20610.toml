@@ -1,6 +1,8 @@
-zip_code = "20610"
-state = "MD"
 city = "Barstow"
 county = "Calvert"
-longitude = -76.533026
 latitude = 38.444727
+longitude = -76.533026
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20610"
+

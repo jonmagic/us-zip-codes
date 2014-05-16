@@ -1,6 +1,8 @@
-zip_code = "58794"
-state = "ND"
 city = "White Earth"
 county = "Mountrail"
-longitude = -102.770085
 latitude = 48.299352
+longitude = -102.770085
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58794"
+

@@ -1,6 +1,8 @@
-zip_code = "73438"
-state = "OK"
 city = "Healdton"
 county = "Carter"
-longitude = -97.402923
 latitude = 34.217164
+longitude = -97.402923
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73438"
+

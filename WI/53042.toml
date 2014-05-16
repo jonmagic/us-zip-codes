@@ -1,6 +1,8 @@
-zip_code = "53042"
-state = "WI"
 city = "Kiel"
 county = "Manitowoc"
-longitude = -87.955059
 latitude = 43.96317
+longitude = -87.955059
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53042"
+

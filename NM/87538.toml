@@ -1,6 +1,8 @@
-zip_code = "87538"
-state = "NM"
 city = "Ilfeld"
 county = "San Miguel"
-longitude = -104.679611
 latitude = 35.456288
+longitude = -104.679611
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87538"
+

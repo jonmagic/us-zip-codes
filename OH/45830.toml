@@ -1,6 +1,8 @@
-zip_code = "45830"
-state = "OH"
 city = "Columbus Grove"
 county = "Putnam"
-longitude = -84.15053
 latitude = 40.97793
+longitude = -84.15053
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45830"
+

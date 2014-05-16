@@ -1,6 +1,8 @@
-zip_code = "54441"
-state = "WI"
 city = "Hewitt"
 county = "Wood"
-longitude = -90.105056
 latitude = 44.645875
+longitude = -90.105056
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54441"
+

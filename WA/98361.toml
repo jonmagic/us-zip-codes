@@ -1,6 +1,8 @@
-zip_code = "98361"
-state = "WA"
 city = "Packwood"
 county = "Lewis"
-longitude = -121.652807
 latitude = 46.621697
+longitude = -121.652807
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98361"
+

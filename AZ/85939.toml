@@ -1,6 +1,8 @@
-zip_code = "85939"
-state = "AZ"
 city = "Taylor"
 county = "Navajo"
-longitude = -110.002763
 latitude = 34.314937
+longitude = -110.002763
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85939"
+

@@ -1,6 +1,8 @@
-zip_code = "47852"
-state = "IN"
 city = "Graysville"
 county = "Sullivan"
-longitude = -87.449558
 latitude = 39.080474
+longitude = -87.449558
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47852"
+

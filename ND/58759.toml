@@ -1,6 +1,8 @@
-zip_code = "58759"
-state = "ND"
 city = "Max"
 county = "Mclean"
-longitude = -101.164109
 latitude = 47.567805
+longitude = -101.164109
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58759"
+

@@ -1,6 +1,8 @@
-zip_code = "15921"
-state = "PA"
 city = "Beaverdale"
 county = "Cambria"
-longitude = -78.694043
 latitude = 40.319561
+longitude = -78.694043
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15921"
+

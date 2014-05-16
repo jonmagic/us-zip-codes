@@ -1,6 +1,8 @@
-zip_code = "26582"
-state = "WV"
 city = "Mannington"
 county = "Marion"
-longitude = -80.23996
 latitude = 39.536663
+longitude = -80.23996
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26582"
+

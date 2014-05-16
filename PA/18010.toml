@@ -1,6 +1,8 @@
-zip_code = "18010"
-state = "PA"
 city = "Ackermanville"
 county = "Northampton"
-longitude = -75.471156
 latitude = 40.693376
+longitude = -75.471156
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18010"
+

@@ -1,6 +1,8 @@
-zip_code = "45326"
-state = "OH"
 city = "Fletcher"
 county = "Miami"
-longitude = -84.100988
 latitude = 40.144491
+longitude = -84.100988
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45326"
+

@@ -1,6 +1,8 @@
-zip_code = "42326"
-state = "KY"
 city = "Browder"
 county = "Muhlenberg"
-longitude = -87.00006
 latitude = 37.199946
+longitude = -87.00006
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42326"
+

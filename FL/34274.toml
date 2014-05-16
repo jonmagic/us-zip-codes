@@ -1,6 +1,8 @@
-zip_code = "34274"
-state = "FL"
 city = "Nokomis"
 county = "Sarasota"
-longitude = -82.464468
 latitude = 27.144031
+longitude = -82.464468
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34274"
+

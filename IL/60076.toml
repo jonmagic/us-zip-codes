@@ -1,6 +1,8 @@
-zip_code = "60076"
-state = "IL"
 city = "Skokie"
 county = "Cook"
-longitude = -87.883566
 latitude = 42.057878
+longitude = -87.883566
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60076"
+

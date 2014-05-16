@@ -1,6 +1,8 @@
-zip_code = "62052"
-state = "IL"
 city = "Jerseyville"
 county = "Jersey"
-longitude = -90.304917
 latitude = 39.101894
+longitude = -90.304917
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62052"
+

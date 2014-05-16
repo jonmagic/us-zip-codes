@@ -1,6 +1,8 @@
-zip_code = "46704"
-state = "IN"
 city = "Arcola"
 county = "Allen"
-longitude = -85.292474
 latitude = 41.103797
+longitude = -85.292474
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46704"
+

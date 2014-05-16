@@ -1,6 +1,8 @@
-zip_code = "19057"
-state = "PA"
 city = "Levittown"
 county = "Bucks"
-longitude = -74.846373
 latitude = 40.143309
+longitude = -74.846373
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19057"
+

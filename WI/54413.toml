@@ -1,6 +1,8 @@
-zip_code = "54413"
-state = "WI"
 city = "Babcock"
 county = "Wood"
-longitude = -90.140404
 latitude = 44.298272
+longitude = -90.140404
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54413"
+

@@ -1,6 +1,8 @@
-zip_code = "50210"
-state = "IA"
 city = "New Virginia"
 county = "Warren"
-longitude = -93.672017
 latitude = 41.319061
+longitude = -93.672017
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50210"
+

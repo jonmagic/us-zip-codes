@@ -1,6 +1,8 @@
-zip_code = "96128"
-state = "CA"
 city = "Standish"
 county = "Lassen"
-longitude = -120.423118
 latitude = 40.341664
+longitude = -120.423118
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96128"
+

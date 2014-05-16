@@ -1,6 +1,8 @@
-zip_code = "40820"
-state = "KY"
 city = "Cranks"
 county = "Harlan"
-longitude = -83.170137
 latitude = 36.847188
+longitude = -83.170137
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40820"
+

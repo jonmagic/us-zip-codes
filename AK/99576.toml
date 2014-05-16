@@ -1,6 +1,8 @@
-zip_code = "99576"
-state = "AK"
 city = "Dillingham"
 county = "Dillingham"
-longitude = -158.523138
 latitude = 59.040181
+longitude = -158.523138
+state = ""
+state_code_alpha2 = ""
+zip_code = "99576"
+

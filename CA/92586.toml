@@ -1,6 +1,8 @@
-zip_code = "92586"
-state = "CA"
 city = "Sun City"
 county = "Riverside"
-longitude = -116.784521
 latitude = 33.48777
+longitude = -116.784521
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92586"
+

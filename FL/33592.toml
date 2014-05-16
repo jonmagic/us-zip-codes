@@ -1,6 +1,8 @@
-zip_code = "33592"
-state = "FL"
 city = "Thonotosassa"
 county = "Hillsborough"
-longitude = -82.278977
 latitude = 28.092775
+longitude = -82.278977
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33592"
+

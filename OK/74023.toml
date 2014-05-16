@@ -1,6 +1,8 @@
-zip_code = "74023"
-state = "OK"
 city = "Cushing"
 county = "Payne"
-longitude = -96.855949
 latitude = 36.029294
+longitude = -96.855949
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74023"
+

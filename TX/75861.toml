@@ -1,6 +1,8 @@
-zip_code = "75861"
-state = "TX"
 city = "Tennessee Colony"
 county = "Anderson"
-longitude = -95.84481
 latitude = 31.802787
+longitude = -95.84481
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75861"
+

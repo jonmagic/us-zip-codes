@@ -1,6 +1,8 @@
-zip_code = "39051"
-state = "MS"
 city = "Carthage"
 county = "Leake"
-longitude = -89.524057
 latitude = 32.785217
+longitude = -89.524057
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39051"
+

@@ -1,6 +1,8 @@
-zip_code = "99506"
-state = "AK"
 city = "Elmendorf Afb"
 county = "Anchorage"
-longitude = -149.804165
 latitude = 61.257409
+longitude = -149.804165
+state = ""
+state_code_alpha2 = ""
+zip_code = "99506"
+

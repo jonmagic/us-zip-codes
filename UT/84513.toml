@@ -1,6 +1,8 @@
-zip_code = "84513"
-state = "UT"
 city = "Castle Dale"
 county = "Emery"
-longitude = -111.052868
 latitude = 39.196393
+longitude = -111.052868
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84513"
+

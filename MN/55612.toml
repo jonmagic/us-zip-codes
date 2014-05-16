@@ -1,6 +1,8 @@
-zip_code = "55612"
-state = "MN"
 city = "Lutsen"
 county = "Cook"
-longitude = -90.682372
 latitude = 47.7059
+longitude = -90.682372
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55612"
+

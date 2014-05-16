@@ -1,6 +1,8 @@
-zip_code = "48817"
-state = "MI"
 city = "Corunna"
 county = "Shiawassee"
-longitude = -84.140012
 latitude = 42.995625
+longitude = -84.140012
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48817"
+

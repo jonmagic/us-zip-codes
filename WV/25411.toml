@@ -1,6 +1,8 @@
-zip_code = "25411"
-state = "WV"
 city = "Berkeley Springs"
 county = "Morgan"
-longitude = -78.18773
 latitude = 39.552557
+longitude = -78.18773
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25411"
+

@@ -1,6 +1,8 @@
-zip_code = "43342"
-state = "OH"
 city = "Prospect"
 county = "Marion"
-longitude = -83.178414
 latitude = 40.492106
+longitude = -83.178414
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43342"
+

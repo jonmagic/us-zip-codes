@@ -1,6 +1,8 @@
-zip_code = "93545"
-state = "CA"
 city = "Lone Pine"
 county = "Inyo"
-longitude = -117.984465
 latitude = 36.553842
+longitude = -117.984465
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93545"
+

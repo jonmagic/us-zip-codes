@@ -1,6 +1,8 @@
-zip_code = "79719"
-state = "TX"
 city = "Barstow"
 county = "Ward"
-longitude = -103.420615
 latitude = 31.453665
+longitude = -103.420615
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79719"
+

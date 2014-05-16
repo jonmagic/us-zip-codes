@@ -1,6 +1,8 @@
-zip_code = "83520"
-state = "ID"
 city = "Ahsahka"
 county = "Clearwater"
-longitude = -116.296141
 latitude = 46.507385
+longitude = -116.296141
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83520"
+

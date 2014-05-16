@@ -1,6 +1,8 @@
-zip_code = "46410"
-state = "IN"
 city = "Merrillville"
 county = "Lake"
-longitude = -87.338656
 latitude = 41.497212
+longitude = -87.338656
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46410"
+

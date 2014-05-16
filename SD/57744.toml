@@ -1,6 +1,8 @@
-zip_code = "57744"
-state = "SD"
 city = "Hermosa"
 county = "Custer"
-longitude = -103.19146
 latitude = 43.838528
+longitude = -103.19146
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57744"
+

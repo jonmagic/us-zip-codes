@@ -1,6 +1,8 @@
-zip_code = "21562"
-state = "MD"
 city = "Westernport"
 county = "Allegany"
-longitude = -79.013989
 latitude = 39.490547
+longitude = -79.013989
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21562"
+

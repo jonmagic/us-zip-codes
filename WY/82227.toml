@@ -1,6 +1,8 @@
-zip_code = "82227"
-state = "WY"
 city = "Manville"
 county = "Niobrara"
-longitude = -104.702397
 latitude = 42.73001
+longitude = -104.702397
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82227"
+

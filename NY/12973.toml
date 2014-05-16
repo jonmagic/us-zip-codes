@@ -1,6 +1,8 @@
-zip_code = "12973"
-state = "NY"
 city = "Piercefield"
 county = "Saint Lawrence"
-longitude = -74.555957
 latitude = 44.234289
+longitude = -74.555957
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12973"
+

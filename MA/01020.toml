@@ -1,6 +1,8 @@
-zip_code = "01020"
-state = "MA"
 city = "Chicopee"
 county = "Hampden"
-longitude = -72.562563
 latitude = 42.177492
+longitude = -72.562563
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01020"
+

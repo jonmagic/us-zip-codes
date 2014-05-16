@@ -1,6 +1,8 @@
-zip_code = "43331"
-state = "OH"
 city = "Lakeview"
 county = "Logan"
-longitude = -83.92023
 latitude = 40.501851
+longitude = -83.92023
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43331"
+

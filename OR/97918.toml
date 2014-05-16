@@ -1,6 +1,8 @@
-zip_code = "97918"
-state = "OR"
 city = "Vale"
 county = "Malheur"
-longitude = -117.283258
 latitude = 44.052329
+longitude = -117.283258
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97918"
+

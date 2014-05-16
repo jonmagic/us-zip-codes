@@ -1,6 +1,8 @@
-zip_code = "12967"
-state = "NY"
 city = "North Lawrence"
 county = "Saint Lawrence"
-longitude = -74.680488
 latitude = 44.761862
+longitude = -74.680488
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12967"
+

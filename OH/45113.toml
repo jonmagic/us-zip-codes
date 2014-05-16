@@ -1,6 +1,8 @@
-zip_code = "45113"
-state = "OH"
 city = "Clarksville"
 county = "Clinton"
-longitude = -83.932644
 latitude = 39.398125
+longitude = -83.932644
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45113"
+

@@ -1,6 +1,8 @@
-zip_code = "34135"
-state = "FL"
 city = "Bonita Springs"
 county = "Lee"
-longitude = -81.733377
 latitude = 26.377129
+longitude = -81.733377
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34135"
+

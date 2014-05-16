@@ -1,6 +1,8 @@
-zip_code = "83314"
-state = "ID"
 city = "Bliss"
 county = "Gooding"
-longitude = -114.887601
 latitude = 42.918993
+longitude = -114.887601
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83314"
+

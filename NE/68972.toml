@@ -1,6 +1,8 @@
-zip_code = "68972"
-state = "NE"
 city = "Riverton"
 county = "Franklin"
-longitude = -98.952642
 latitude = 40.176335
+longitude = -98.952642
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68972"
+

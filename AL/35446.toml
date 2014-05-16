@@ -1,6 +1,8 @@
-zip_code = "35446"
-state = "AL"
 city = "Buhl"
 county = "Tuscaloosa"
-longitude = -87.754733
 latitude = 33.230568
+longitude = -87.754733
+state = ""
+state_code_alpha2 = ""
+zip_code = "35446"
+

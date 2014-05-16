@@ -1,6 +1,8 @@
-zip_code = "42041"
-state = "KY"
 city = "Fulton"
 county = "Fulton"
-longitude = -89.081143
 latitude = 36.546939
+longitude = -89.081143
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42041"
+

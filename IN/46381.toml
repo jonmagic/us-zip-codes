@@ -1,6 +1,8 @@
-zip_code = "46381"
-state = "IN"
 city = "Thayer"
 county = "Newton"
-longitude = -87.331323
 latitude = 41.17115
+longitude = -87.331323
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46381"
+

@@ -1,6 +1,8 @@
-zip_code = "65084"
-state = "MO"
 city = "Versailles"
 county = "Morgan"
-longitude = -92.835322
 latitude = 38.420142
+longitude = -92.835322
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65084"
+

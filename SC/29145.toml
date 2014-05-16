@@ -1,6 +1,8 @@
-zip_code = "29145"
-state = "SC"
 city = "Silverstreet"
 county = "Newberry"
-longitude = -81.624583
 latitude = 34.28357
+longitude = -81.624583
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29145"
+

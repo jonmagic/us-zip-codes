@@ -1,6 +1,8 @@
-zip_code = "50206"
-state = "IA"
 city = "New Providence"
 county = "Hardin"
-longitude = -93.256399
 latitude = 42.272076
+longitude = -93.256399
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50206"
+

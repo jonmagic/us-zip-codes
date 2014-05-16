@@ -1,6 +1,8 @@
-zip_code = "30281"
-state = "GA"
 city = "Stockbridge"
 county = "Henry"
-longitude = -84.207969
 latitude = 33.549947
+longitude = -84.207969
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30281"
+

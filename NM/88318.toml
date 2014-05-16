@@ -1,6 +1,8 @@
-zip_code = "88318"
-state = "NM"
 city = "Corona"
 county = "Lincoln"
-longitude = -105.596655
 latitude = 34.249031
+longitude = -105.596655
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88318"
+

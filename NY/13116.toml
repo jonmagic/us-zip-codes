@@ -1,6 +1,8 @@
-zip_code = "13116"
-state = "NY"
 city = "Minoa"
 county = "Onondaga"
-longitude = -76.006001
 latitude = 43.076828
+longitude = -76.006001
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13116"
+

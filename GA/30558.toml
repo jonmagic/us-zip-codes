@@ -1,6 +1,8 @@
-zip_code = "30558"
-state = "GA"
 city = "Maysville"
 county = "Banks"
-longitude = -83.543357
 latitude = 34.329372
+longitude = -83.543357
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30558"
+

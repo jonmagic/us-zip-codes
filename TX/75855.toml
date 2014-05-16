@@ -1,6 +1,8 @@
-zip_code = "75855"
-state = "TX"
 city = "Oakwood"
 county = "Leon"
-longitude = -95.866174
 latitude = 31.478777
+longitude = -95.866174
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75855"
+

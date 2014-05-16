@@ -1,6 +1,8 @@
-zip_code = "57648"
-state = "SD"
 city = "Pollock"
 county = "Campbell"
-longitude = -100.283026
 latitude = 45.844431
+longitude = -100.283026
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57648"
+

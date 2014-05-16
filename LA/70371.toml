@@ -1,6 +1,8 @@
-zip_code = "70371"
-state = "LA"
 city = "Kraemer"
 county = "Lafourche"
-longitude = -90.596159
 latitude = 29.865202
+longitude = -90.596159
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70371"
+

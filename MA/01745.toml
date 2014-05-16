@@ -1,6 +1,8 @@
-zip_code = "01745"
-state = "MA"
 city = "Fayville"
 county = "Worcester"
-longitude = -71.502762
 latitude = 42.293442
+longitude = -71.502762
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01745"
+

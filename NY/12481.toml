@@ -1,6 +1,8 @@
-zip_code = "12481"
-state = "NY"
 city = "Shokan"
 county = "Ulster"
-longitude = -74.218443
 latitude = 41.970903
+longitude = -74.218443
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12481"
+

@@ -1,6 +1,8 @@
-zip_code = "60421"
-state = "IL"
 city = "Elwood"
 county = "Will"
-longitude = -88.090588
 latitude = 41.44288
+longitude = -88.090588
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60421"
+

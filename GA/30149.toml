@@ -1,6 +1,8 @@
-zip_code = "30149"
-state = "GA"
 city = "Mount Berry"
 county = "Floyd"
-longitude = -85.182085
 latitude = 34.280355
+longitude = -85.182085
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30149"
+

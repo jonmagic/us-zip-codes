@@ -1,6 +1,8 @@
-zip_code = "53120"
-state = "WI"
 city = "East Troy"
 county = "Walworth"
-longitude = -88.507327
 latitude = 42.756533
+longitude = -88.507327
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53120"
+

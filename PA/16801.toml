@@ -1,6 +1,8 @@
-zip_code = "16801"
-state = "PA"
 city = "State College"
 county = "Centre"
-longitude = -77.867822
 latitude = 40.881935
+longitude = -77.867822
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16801"
+

@@ -1,6 +1,8 @@
-zip_code = "88116"
-state = "NM"
 city = "Elida"
 county = "Roosevelt"
-longitude = -103.494855
 latitude = 33.985296
+longitude = -103.494855
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88116"
+

@@ -1,6 +1,8 @@
-zip_code = "69220"
-state = "NE"
 city = "Sparks"
 county = "Cherry"
-longitude = -101.126167
 latitude = 42.542631
+longitude = -101.126167
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69220"
+

@@ -1,6 +1,8 @@
-zip_code = "02026"
-state = "MA"
 city = "Dedham"
 county = "Norfolk"
-longitude = -71.181141
 latitude = 42.244733
+longitude = -71.181141
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02026"
+

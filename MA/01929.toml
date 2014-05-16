@@ -1,6 +1,8 @@
-zip_code = "01929"
-state = "MA"
 city = "Essex"
 county = "Essex"
-longitude = -70.780576
 latitude = 42.62781
+longitude = -70.780576
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01929"
+

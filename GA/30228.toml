@@ -1,6 +1,8 @@
-zip_code = "30228"
-state = "GA"
 city = "Hampton"
 county = "Henry"
-longitude = -84.273764
 latitude = 33.408112
+longitude = -84.273764
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30228"
+

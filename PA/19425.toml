@@ -1,6 +1,8 @@
-zip_code = "19425"
-state = "PA"
 city = "Chester Springs"
 county = "Chester"
-longitude = -75.639994
 latitude = 40.103858
+longitude = -75.639994
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19425"
+

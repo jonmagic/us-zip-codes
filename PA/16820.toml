@@ -1,6 +1,8 @@
-zip_code = "16820"
-state = "PA"
 city = "Aaronsburg"
 county = "Centre"
-longitude = -77.456184
 latitude = 40.89869
+longitude = -77.456184
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16820"
+

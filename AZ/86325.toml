@@ -1,6 +1,8 @@
-zip_code = "86325"
-state = "AZ"
 city = "Cornville"
 county = "Yavapai"
-longitude = -111.927746
 latitude = 34.735388
+longitude = -111.927746
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86325"
+

@@ -1,6 +1,8 @@
-zip_code = "47981"
-state = "IN"
 city = "Romney"
 county = "Tippecanoe"
-longitude = -86.920786
 latitude = 40.258026
+longitude = -86.920786
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47981"
+

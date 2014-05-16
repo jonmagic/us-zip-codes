@@ -1,6 +1,8 @@
-zip_code = "49107"
-state = "MI"
 city = "Buchanan"
 county = "Berrien"
-longitude = -86.429249
 latitude = 41.841369
+longitude = -86.429249
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49107"
+

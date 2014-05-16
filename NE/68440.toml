@@ -1,6 +1,8 @@
-zip_code = "68440"
-state = "NE"
 city = "Steele City"
 county = "Jefferson"
-longitude = -97.126435
 latitude = 40.152861
+longitude = -97.126435
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68440"
+

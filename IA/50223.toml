@@ -1,6 +1,8 @@
-zip_code = "50223"
-state = "IA"
 city = "Pilot Mound"
 county = "Boone"
-longitude = -94.040876
 latitude = 42.059677
+longitude = -94.040876
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50223"
+

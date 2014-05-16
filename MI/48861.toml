@@ -1,6 +1,8 @@
-zip_code = "48861"
-state = "MI"
 city = "Mulliken"
 county = "Eaton"
-longitude = -84.916222
 latitude = 42.724229
+longitude = -84.916222
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48861"
+

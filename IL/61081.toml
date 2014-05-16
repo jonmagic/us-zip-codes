@@ -1,6 +1,8 @@
-zip_code = "61081"
-state = "IL"
 city = "Sterling"
 county = "Whiteside"
-longitude = -89.745941
 latitude = 41.835669
+longitude = -89.745941
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61081"
+

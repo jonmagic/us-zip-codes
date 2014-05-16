@@ -1,6 +1,8 @@
-zip_code = "07758"
-state = "NJ"
 city = "Port Monmouth"
 county = "Monmouth"
-longitude = -74.106535
 latitude = 40.429731
+longitude = -74.106535
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07758"
+

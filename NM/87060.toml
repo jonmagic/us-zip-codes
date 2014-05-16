@@ -1,6 +1,8 @@
-zip_code = "87060"
-state = "NM"
 city = "Tome"
 county = "Valencia"
-longitude = -106.732774
 latitude = 34.742622
+longitude = -106.732774
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87060"
+

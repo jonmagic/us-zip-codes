@@ -1,6 +1,8 @@
-zip_code = "57361"
-state = "SD"
 city = "Marty"
 county = "Charles Mix"
-longitude = -98.446929
 latitude = 43.01957
+longitude = -98.446929
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57361"
+

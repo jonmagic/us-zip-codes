@@ -1,6 +1,8 @@
-zip_code = "99918"
-state = "AK"
 city = "Coffman Cove"
 county = "Prince Wales Ketchikan"
-longitude = -132.003244
 latitude = 55.517921
+longitude = -132.003244
+state = ""
+state_code_alpha2 = ""
+zip_code = "99918"
+

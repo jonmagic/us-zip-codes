@@ -1,6 +1,8 @@
-zip_code = "62367"
-state = "IL"
 city = "Plymouth"
 county = "Hancock"
-longitude = -90.967177
 latitude = 40.323553
+longitude = -90.967177
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62367"
+

@@ -1,6 +1,8 @@
-zip_code = "29453"
-state = "SC"
 city = "Jamestown"
 county = "Berkeley"
-longitude = -79.714992
 latitude = 33.183389
+longitude = -79.714992
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29453"
+

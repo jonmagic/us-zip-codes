@@ -1,6 +1,8 @@
-zip_code = "97062"
-state = "OR"
 city = "Tualatin"
 county = "Washington"
-longitude = -122.783887
 latitude = 45.366608
+longitude = -122.783887
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97062"
+

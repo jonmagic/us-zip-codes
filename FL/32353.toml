@@ -1,6 +1,8 @@
-zip_code = "32353"
-state = "FL"
 city = "Quincy"
 county = "Gadsden"
-longitude = -84.606864
 latitude = 30.549676
+longitude = -84.606864
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32353"
+

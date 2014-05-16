@@ -1,6 +1,8 @@
-zip_code = "22976"
-state = "VA"
 city = "Tyro"
 county = "Nelson"
-longitude = -79.069321
 latitude = 37.839132
+longitude = -79.069321
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22976"
+

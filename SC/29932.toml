@@ -1,6 +1,8 @@
-zip_code = "29932"
-state = "SC"
 city = "Luray"
 county = "Hampton"
-longitude = -81.126913
 latitude = 32.788773
+longitude = -81.126913
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29932"
+

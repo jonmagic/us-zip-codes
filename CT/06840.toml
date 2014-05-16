@@ -1,6 +1,8 @@
-zip_code = "06840"
-state = "CT"
 city = "New Canaan"
 county = "Fairfield"
-longitude = -73.501267
 latitude = 41.162209
+longitude = -73.501267
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06840"
+

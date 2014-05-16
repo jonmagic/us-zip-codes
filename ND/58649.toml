@@ -1,6 +1,8 @@
-zip_code = "58649"
-state = "ND"
 city = "Reeder"
 county = "Adams"
-longitude = -102.496805
 latitude = 46.113891
+longitude = -102.496805
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58649"
+

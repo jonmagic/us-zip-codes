@@ -1,6 +1,8 @@
-zip_code = "50255"
-state = "IA"
 city = "Thornburg"
 county = "Keokuk"
-longitude = -92.178366
 latitude = 41.336267
+longitude = -92.178366
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50255"
+

@@ -1,6 +1,8 @@
-zip_code = "29039"
-state = "SC"
 city = "Cordova"
 county = "Orangeburg"
-longitude = -80.91752
 latitude = 33.417322
+longitude = -80.91752
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29039"
+

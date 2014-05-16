@@ -1,6 +1,8 @@
-zip_code = "63401"
-state = "MO"
 city = "Hannibal"
 county = "Marion"
-longitude = -91.45683
 latitude = 39.736986
+longitude = -91.45683
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63401"
+

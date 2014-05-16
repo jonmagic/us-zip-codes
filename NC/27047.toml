@@ -1,6 +1,8 @@
-zip_code = "27047"
-state = "NC"
 city = "Siloam"
 county = "Surry"
-longitude = -80.56777
 latitude = 36.329166
+longitude = -80.56777
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27047"
+

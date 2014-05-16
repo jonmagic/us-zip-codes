@@ -1,6 +1,8 @@
-zip_code = "75007"
-state = "TX"
 city = "Carrollton"
 county = "Denton"
-longitude = -96.895893
 latitude = 33.007436
+longitude = -96.895893
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75007"
+

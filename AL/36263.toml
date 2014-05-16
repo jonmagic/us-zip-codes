@@ -1,6 +1,8 @@
-zip_code = "36263"
-state = "AL"
 city = "Graham"
 county = "Randolph"
-longitude = -85.369167
 latitude = 33.456308
+longitude = -85.369167
+state = ""
+state_code_alpha2 = ""
+zip_code = "36263"
+

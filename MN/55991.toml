@@ -1,6 +1,8 @@
-zip_code = "55991"
-state = "MN"
 city = "Zumbro Falls"
 county = "Wabasha"
-longitude = -92.425643
 latitude = 44.242705
+longitude = -92.425643
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55991"
+

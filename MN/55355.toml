@@ -1,6 +1,8 @@
-zip_code = "55355"
-state = "MN"
 city = "Litchfield"
 county = "Meeker"
-longitude = -94.529861
 latitude = 45.122737
+longitude = -94.529861
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55355"
+

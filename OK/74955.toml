@@ -1,6 +1,8 @@
-zip_code = "74955"
-state = "OK"
 city = "Sallisaw"
 county = "Sequoyah"
-longitude = -94.706796
 latitude = 35.450662
+longitude = -94.706796
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74955"
+

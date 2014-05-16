@@ -1,6 +1,8 @@
-zip_code = "14525"
-state = "NY"
 city = "Pavilion"
 county = "Genesee"
-longitude = -78.026899
 latitude = 42.910203
+longitude = -78.026899
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14525"
+

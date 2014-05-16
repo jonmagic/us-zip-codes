@@ -1,6 +1,8 @@
-zip_code = "37331"
-state = "TN"
 city = "Etowah"
 county = "Mcminn"
-longitude = -84.534548
 latitude = 35.347928
+longitude = -84.534548
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37331"
+

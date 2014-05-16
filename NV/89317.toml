@@ -1,6 +1,8 @@
-zip_code = "89317"
-state = "NV"
 city = "Lund"
 county = "White Pine"
-longitude = -115.006865
 latitude = 38.864122
+longitude = -115.006865
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89317"
+

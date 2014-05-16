@@ -1,6 +1,8 @@
-zip_code = "04672"
-state = "ME"
 city = "Salsbury Cove"
 county = "Hancock"
-longitude = -68.251778
 latitude = 44.413523
+longitude = -68.251778
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04672"
+

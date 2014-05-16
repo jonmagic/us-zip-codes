@@ -1,6 +1,8 @@
-zip_code = "61258"
-state = "IL"
 city = "Hooppole"
 county = "Henry"
-longitude = -89.91216
 latitude = 41.522044
+longitude = -89.91216
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61258"
+

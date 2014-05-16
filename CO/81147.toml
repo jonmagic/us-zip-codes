@@ -1,6 +1,8 @@
-zip_code = "81147"
-state = "CO"
 city = "Pagosa Springs"
 county = "Archuleta"
-longitude = -107.12619
 latitude = 37.202251
+longitude = -107.12619
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81147"
+

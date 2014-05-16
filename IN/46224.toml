@@ -1,6 +1,8 @@
-zip_code = "46224"
-state = "IN"
 city = "Indianapolis"
 county = "Marion"
-longitude = -86.27074
 latitude = 39.794042
+longitude = -86.27074
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46224"
+

@@ -1,6 +1,8 @@
-zip_code = "49329"
-state = "MI"
 city = "Howard City"
 county = "Montcalm"
-longitude = -85.442836
 latitude = 43.382007
+longitude = -85.442836
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49329"
+

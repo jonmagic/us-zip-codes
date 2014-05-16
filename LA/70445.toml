@@ -1,6 +1,8 @@
-zip_code = "70445"
-state = "LA"
 city = "Lacombe"
 county = "Saint Tammany"
-longitude = -89.900397
 latitude = 30.386606
+longitude = -89.900397
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70445"
+

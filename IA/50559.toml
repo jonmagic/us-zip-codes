@@ -1,6 +1,8 @@
-zip_code = "50559"
-state = "IA"
 city = "Lone Rock"
 county = "Kossuth"
-longitude = -94.309997
 latitude = 43.219959
+longitude = -94.309997
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50559"
+

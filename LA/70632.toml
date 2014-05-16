@@ -1,6 +1,8 @@
-zip_code = "70632"
-state = "LA"
 city = "Creole"
 county = "Cameron"
-longitude = -93.051554
 latitude = 29.807493
+longitude = -93.051554
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70632"
+

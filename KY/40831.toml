@@ -1,6 +1,8 @@
-zip_code = "40831"
-state = "KY"
 city = "Harlan"
 county = "Harlan"
-longitude = -83.203025
 latitude = 36.861519
+longitude = -83.203025
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40831"
+

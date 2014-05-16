@@ -1,6 +1,8 @@
-zip_code = "84331"
-state = "UT"
 city = "Portage"
 county = "Box Elder"
-longitude = -112.180605
 latitude = 41.906183
+longitude = -112.180605
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84331"
+

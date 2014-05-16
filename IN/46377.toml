@@ -1,6 +1,8 @@
-zip_code = "46377"
-state = "IN"
 city = "Shelby"
 county = "Lake"
-longitude = -87.339778
 latitude = 41.191734
+longitude = -87.339778
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46377"
+

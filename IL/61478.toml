@@ -1,6 +1,8 @@
-zip_code = "61478"
-state = "IL"
 city = "Smithshire"
 county = "Warren"
-longitude = -90.750256
 latitude = 40.749815
+longitude = -90.750256
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61478"
+

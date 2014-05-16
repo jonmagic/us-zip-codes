@@ -1,6 +1,8 @@
-zip_code = "12547"
-state = "NY"
 city = "Milton"
 county = "Ulster"
-longitude = -74.068056
 latitude = 41.644832
+longitude = -74.068056
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12547"
+

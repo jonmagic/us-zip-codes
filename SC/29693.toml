@@ -1,6 +1,8 @@
-zip_code = "29693"
-state = "SC"
 city = "Westminster"
 county = "Oconee"
-longitude = -83.153509
 latitude = 34.696493
+longitude = -83.153509
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29693"
+

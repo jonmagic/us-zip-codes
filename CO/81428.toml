@@ -1,6 +1,8 @@
-zip_code = "81428"
-state = "CO"
 city = "Paonia"
 county = "Delta"
-longitude = -107.609167
 latitude = 38.877198
+longitude = -107.609167
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81428"
+

@@ -1,6 +1,8 @@
-zip_code = "43334"
-state = "OH"
 city = "Marengo"
 county = "Morrow"
-longitude = -82.782091
 latitude = 40.406317
+longitude = -82.782091
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43334"
+

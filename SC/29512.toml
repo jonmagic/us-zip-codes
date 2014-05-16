@@ -1,6 +1,8 @@
-zip_code = "29512"
-state = "SC"
 city = "Bennettsville"
 county = "Marlboro"
-longitude = -79.707693
 latitude = 34.598755
+longitude = -79.707693
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29512"
+

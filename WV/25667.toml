@@ -1,6 +1,8 @@
-zip_code = "25667"
-state = "WV"
 city = "Chattaroy"
 county = "Mingo"
-longitude = -82.273892
 latitude = 37.704739
+longitude = -82.273892
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25667"
+

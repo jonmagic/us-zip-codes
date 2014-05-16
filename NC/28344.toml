@@ -1,6 +1,8 @@
-zip_code = "28344"
-state = "NC"
 city = "Godwin"
 county = "Cumberland"
-longitude = -78.678821
 latitude = 35.194383
+longitude = -78.678821
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28344"
+

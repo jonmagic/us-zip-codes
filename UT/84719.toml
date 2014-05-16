@@ -1,6 +1,8 @@
-zip_code = "84719"
-state = "UT"
 city = "Brian Head"
 county = "Iron"
-longitude = -112.839145
 latitude = 37.735522
+longitude = -112.839145
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84719"
+

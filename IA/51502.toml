@@ -1,6 +1,8 @@
-zip_code = "51502"
-state = "IA"
 city = "Council Bluffs"
 county = "Pottawattamie"
-longitude = -95.587197
 latitude = 41.332943
+longitude = -95.587197
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51502"
+

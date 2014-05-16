@@ -1,6 +1,8 @@
-zip_code = "93516"
-state = "CA"
 city = "Boron"
 county = "Kern"
-longitude = -118.056018
 latitude = 35.215513
+longitude = -118.056018
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93516"
+

@@ -1,6 +1,8 @@
-zip_code = "86426"
-state = "AZ"
 city = "Fort Mohave"
 county = "Mohave"
-longitude = -114.567333
 latitude = 35.066454
+longitude = -114.567333
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86426"
+

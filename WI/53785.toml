@@ -1,6 +1,8 @@
-zip_code = "53785"
-state = "WI"
 city = "Madison"
 county = "Dane"
-longitude = -89.423861
 latitude = 43.06956
+longitude = -89.423861
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53785"
+

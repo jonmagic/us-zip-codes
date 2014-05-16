@@ -1,6 +1,8 @@
-zip_code = "57335"
-state = "SD"
 city = "Fairfax"
 county = "Gregory"
-longitude = -99.016376
 latitude = 43.248832
+longitude = -99.016376
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57335"
+

@@ -1,6 +1,8 @@
-zip_code = "31643"
-state = "GA"
 city = "Quitman"
 county = "Brooks"
-longitude = -83.587777
 latitude = 30.78944
+longitude = -83.587777
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31643"
+

@@ -1,6 +1,8 @@
-zip_code = "42131"
-state = "KY"
 city = "Etoile"
 county = "Barren"
-longitude = -85.91168
 latitude = 36.819311
+longitude = -85.91168
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42131"
+

@@ -1,6 +1,8 @@
-zip_code = "14538"
-state = "NY"
 city = "Pultneyville"
 county = "Wayne"
-longitude = -77.142027
 latitude = 43.283582
+longitude = -77.142027
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14538"
+

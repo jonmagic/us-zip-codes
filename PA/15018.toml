@@ -1,6 +1,8 @@
-zip_code = "15018"
-state = "PA"
 city = "Buena Vista"
 county = "Allegheny"
-longitude = -80.208374
 latitude = 40.457657
+longitude = -80.208374
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15018"
+

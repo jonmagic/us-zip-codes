@@ -1,6 +1,8 @@
-zip_code = "38920"
-state = "MS"
 city = "Cascilla"
 county = "Tallahatchie"
-longitude = -90.188462
 latitude = 33.929206
+longitude = -90.188462
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38920"
+

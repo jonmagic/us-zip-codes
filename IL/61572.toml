@@ -1,6 +1,8 @@
-zip_code = "61572"
-state = "IL"
 city = "Yates City"
 county = "Knox"
-longitude = -90.042993
 latitude = 40.785753
+longitude = -90.042993
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61572"
+

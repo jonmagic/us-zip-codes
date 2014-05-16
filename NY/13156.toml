@@ -1,6 +1,8 @@
-zip_code = "13156"
-state = "NY"
 city = "Sterling"
 county = "Cayuga"
-longitude = -76.665228
 latitude = 43.341948
+longitude = -76.665228
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13156"
+

@@ -1,6 +1,8 @@
-zip_code = "80723"
-state = "CO"
 city = "Brush"
 county = "Morgan"
-longitude = -103.613248
 latitude = 40.218547
+longitude = -103.613248
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80723"
+

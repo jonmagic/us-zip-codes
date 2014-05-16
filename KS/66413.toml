@@ -1,6 +1,8 @@
-zip_code = "66413"
-state = "KS"
 city = "Burlingame"
 county = "Osage"
-longitude = -95.815754
 latitude = 38.73799
+longitude = -95.815754
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66413"
+

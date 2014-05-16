@@ -1,6 +1,8 @@
-zip_code = "19083"
-state = "PA"
 city = "Havertown"
 county = "Delaware"
-longitude = -75.312081
 latitude = 39.974861
+longitude = -75.312081
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19083"
+

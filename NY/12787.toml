@@ -1,6 +1,8 @@
-zip_code = "12787"
-state = "NY"
 city = "White Sulphur Springs"
 county = "Sullivan"
-longitude = -74.828611
 latitude = 41.800193
+longitude = -74.828611
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12787"
+

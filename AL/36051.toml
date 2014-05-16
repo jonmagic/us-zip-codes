@@ -1,6 +1,8 @@
-zip_code = "36051"
-state = "AL"
 city = "Marbury"
 county = "Autauga"
-longitude = -86.516424
 latitude = 32.601807
+longitude = -86.516424
+state = ""
+state_code_alpha2 = ""
+zip_code = "36051"
+

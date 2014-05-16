@@ -1,6 +1,8 @@
-zip_code = "80861"
-state = "CO"
 city = "Vona"
 county = "Kit Carson"
-longitude = -102.74229
 latitude = 39.311151
+longitude = -102.74229
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80861"
+

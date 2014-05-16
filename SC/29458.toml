@@ -1,6 +1,8 @@
-zip_code = "29458"
-state = "SC"
 city = "Mc Clellanville"
 county = "Charleston"
-longitude = -79.507388
 latitude = 33.119382
+longitude = -79.507388
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29458"
+

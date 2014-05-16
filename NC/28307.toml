@@ -1,6 +1,8 @@
-zip_code = "28307"
-state = "NC"
 city = "Fort Bragg"
 county = "Cumberland"
-longitude = -78.987942
 latitude = 35.140193
+longitude = -78.987942
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28307"
+

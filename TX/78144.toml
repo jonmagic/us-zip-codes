@@ -1,6 +1,8 @@
-zip_code = "78144"
-state = "TX"
 city = "Panna Maria"
 county = "Karnes"
-longitude = -97.898179
 latitude = 28.956228
+longitude = -97.898179
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78144"
+

@@ -1,6 +1,8 @@
-zip_code = "71419"
-state = "LA"
 city = "Converse"
 county = "Sabine"
-longitude = -93.690163
 latitude = 31.733858
+longitude = -93.690163
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71419"
+

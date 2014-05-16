@@ -1,6 +1,8 @@
-zip_code = "84639"
-state = "UT"
 city = "Levan"
 county = "Juab"
-longitude = -111.943753
 latitude = 39.521515
+longitude = -111.943753
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84639"
+

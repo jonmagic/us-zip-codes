@@ -1,6 +1,8 @@
-zip_code = "68842"
-state = "NE"
 city = "Greeley"
 county = "Greeley"
-longitude = -98.530685
 latitude = 41.563806
+longitude = -98.530685
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68842"
+

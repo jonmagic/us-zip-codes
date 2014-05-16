@@ -1,6 +1,8 @@
-zip_code = "87544"
-state = "NM"
 city = "Los Alamos"
 county = "Los Alamos"
-longitude = -106.288482
 latitude = 35.849514
+longitude = -106.288482
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87544"
+

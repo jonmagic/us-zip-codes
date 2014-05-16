@@ -1,6 +1,8 @@
-zip_code = "63303"
-state = "MO"
 city = "Saint Charles"
 county = "Saint Charles"
-longitude = -90.595151
 latitude = 38.759034
+longitude = -90.595151
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63303"
+

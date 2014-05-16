@@ -1,6 +1,8 @@
-zip_code = "04406"
-state = "ME"
 city = "Abbot"
 county = "Piscataquis"
-longitude = -69.233382
 latitude = 45.184103
+longitude = -69.233382
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04406"
+

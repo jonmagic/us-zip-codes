@@ -1,6 +1,8 @@
-zip_code = "23236"
-state = "VA"
 city = "Richmond"
 county = "Chesterfield"
-longitude = -77.590818
 latitude = 37.466359
+longitude = -77.590818
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23236"
+

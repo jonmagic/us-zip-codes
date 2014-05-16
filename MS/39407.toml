@@ -1,6 +1,8 @@
-zip_code = "39407"
-state = "MS"
 city = "Hattiesburg"
 county = "Forrest"
-longitude = -89.294772
 latitude = 31.172142
+longitude = -89.294772
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39407"
+

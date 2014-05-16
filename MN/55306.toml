@@ -1,6 +1,8 @@
-zip_code = "55306"
-state = "MN"
 city = "Burnsville"
 county = "Dakota"
-longitude = -93.221535
 latitude = 44.762208
+longitude = -93.221535
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55306"
+

@@ -1,6 +1,8 @@
-zip_code = "67423"
-state = "KS"
 city = "Beverly"
 county = "Lincoln"
-longitude = -98.209248
 latitude = 39.045239
+longitude = -98.209248
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67423"
+

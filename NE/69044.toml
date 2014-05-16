@@ -1,6 +1,8 @@
-zip_code = "69044"
-state = "NE"
 city = "Trenton"
 county = "Hitchcock"
-longitude = -101.010823
 latitude = 40.176356
+longitude = -101.010823
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69044"
+

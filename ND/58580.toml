@@ -1,6 +1,8 @@
-zip_code = "58580"
-state = "ND"
 city = "Zap"
 county = "Mercer"
-longitude = -101.929416
 latitude = 47.263087
+longitude = -101.929416
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58580"
+

@@ -1,6 +1,8 @@
-zip_code = "48453"
-state = "MI"
 city = "Marlette"
 county = "Sanilac"
-longitude = -83.002816
 latitude = 43.357539
+longitude = -83.002816
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48453"
+

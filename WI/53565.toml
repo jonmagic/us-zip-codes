@@ -1,6 +1,8 @@
-zip_code = "53565"
-state = "WI"
 city = "Mineral Point"
 county = "Iowa"
-longitude = -90.152558
 latitude = 42.989701
+longitude = -90.152558
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53565"
+

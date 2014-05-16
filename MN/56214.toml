@@ -1,6 +1,8 @@
-zip_code = "56214"
-state = "MN"
 city = "Belview"
 county = "Redwood"
-longitude = -95.324839
 latitude = 44.553001
+longitude = -95.324839
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56214"
+

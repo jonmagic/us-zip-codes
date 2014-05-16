@@ -1,6 +1,8 @@
-zip_code = "71667"
-state = "AR"
 city = "Star City"
 county = "Lincoln"
-longitude = -91.709308
 latitude = 33.999462
+longitude = -91.709308
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71667"
+

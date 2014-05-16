@@ -1,6 +1,8 @@
-zip_code = "14818"
-state = "NY"
 city = "Burdett"
 county = "Schuyler"
-longitude = -76.798018
 latitude = 42.464152
+longitude = -76.798018
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14818"
+

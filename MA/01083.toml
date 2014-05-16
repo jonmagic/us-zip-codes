@@ -1,6 +1,8 @@
-zip_code = "01083"
-state = "MA"
 city = "Warren"
 county = "Worcester"
-longitude = -72.199439
 latitude = 42.204027
+longitude = -72.199439
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01083"
+

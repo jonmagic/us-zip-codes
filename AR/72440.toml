@@ -1,6 +1,8 @@
-zip_code = "72440"
-state = "AR"
 city = "Lynn"
 county = "Lawrence"
-longitude = -91.229356
 latitude = 36.015239
+longitude = -91.229356
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72440"
+

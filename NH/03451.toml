@@ -1,6 +1,8 @@
-zip_code = "03451"
-state = "NH"
 city = "Hinsdale"
 county = "Cheshire"
-longitude = -72.280099
 latitude = 42.894151
+longitude = -72.280099
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03451"
+

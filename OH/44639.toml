@@ -1,6 +1,8 @@
-zip_code = "44639"
-state = "OH"
 city = "Leesville"
 county = "Carroll"
-longitude = -81.243498
 latitude = 40.547688
+longitude = -81.243498
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44639"
+

@@ -1,6 +1,8 @@
-zip_code = "61484"
-state = "IL"
 city = "Vermont"
 county = "Fulton"
-longitude = -90.393432
 latitude = 40.285383
+longitude = -90.393432
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61484"
+

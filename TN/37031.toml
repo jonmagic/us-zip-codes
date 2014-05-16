@@ -1,6 +1,8 @@
-zip_code = "37031"
-state = "TN"
 city = "Castalian Springs"
 county = "Sumner"
-longitude = -86.310674
 latitude = 36.380555
+longitude = -86.310674
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37031"
+

@@ -1,6 +1,8 @@
-zip_code = "06472"
-state = "CT"
 city = "Northford"
 county = "New Haven"
-longitude = -72.772991
 latitude = 41.379797
+longitude = -72.772991
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06472"
+

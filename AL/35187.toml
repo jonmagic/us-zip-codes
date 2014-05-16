@@ -1,6 +1,8 @@
-zip_code = "35187"
-state = "AL"
 city = "Wilton"
 county = "Shelby"
-longitude = -86.879328
 latitude = 33.08104
+longitude = -86.879328
+state = ""
+state_code_alpha2 = ""
+zip_code = "35187"
+

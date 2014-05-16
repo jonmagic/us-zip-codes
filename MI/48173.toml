@@ -1,6 +1,8 @@
-zip_code = "48173"
-state = "MI"
 city = "Rockwood"
 county = "Wayne"
-longitude = -83.272588
 latitude = 42.112182
+longitude = -83.272588
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48173"
+

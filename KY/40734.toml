@@ -1,6 +1,8 @@
-zip_code = "40734"
-state = "KY"
 city = "Gray"
 county = "Knox"
-longitude = -83.933848
 latitude = 36.936999
+longitude = -83.933848
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40734"
+

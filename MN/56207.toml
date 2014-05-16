@@ -1,6 +1,8 @@
-zip_code = "56207"
-state = "MN"
 city = "Alberta"
 county = "Stevens"
-longitude = -96.000761
 latitude = 45.585961
+longitude = -96.000761
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56207"
+

@@ -1,6 +1,8 @@
-zip_code = "14411"
-state = "NY"
 city = "Albion"
 county = "Orleans"
-longitude = -78.194251
 latitude = 43.235143
+longitude = -78.194251
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14411"
+

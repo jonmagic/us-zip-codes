@@ -1,6 +1,8 @@
-zip_code = "24068"
-state = "VA"
 city = "Christiansburg"
 county = "Montgomery"
-longitude = -80.418396
 latitude = 37.154804
+longitude = -80.418396
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24068"
+

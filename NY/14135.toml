@@ -1,6 +1,8 @@
-zip_code = "14135"
-state = "NY"
 city = "Sheridan"
 county = "Chautauqua"
-longitude = -79.238997
 latitude = 42.488983
+longitude = -79.238997
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14135"
+

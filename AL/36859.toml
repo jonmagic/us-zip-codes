@@ -1,6 +1,8 @@
-zip_code = "36859"
-state = "AL"
 city = "Holy Trinity"
 county = "Russell"
-longitude = -85.008178
 latitude = 32.229846
+longitude = -85.008178
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36859"
+

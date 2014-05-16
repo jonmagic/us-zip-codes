@@ -1,6 +1,8 @@
-zip_code = "99767"
-state = "AK"
 city = "Rampart"
 county = "Yukon Koyukuk"
-longitude = -150.161868
 latitude = 65.509038
+longitude = -150.161868
+state = ""
+state_code_alpha2 = ""
+zip_code = "99767"
+

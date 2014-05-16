@@ -1,6 +1,8 @@
-zip_code = "65010"
-state = "MO"
 city = "Ashland"
 county = "Boone"
-longitude = -92.265908
 latitude = 38.781337
+longitude = -92.265908
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65010"
+

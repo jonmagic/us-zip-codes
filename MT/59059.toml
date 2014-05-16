@@ -1,6 +1,8 @@
-zip_code = "59059"
-state = "MT"
 city = "Musselshell"
 county = "Musselshell"
-longitude = -108.089742
 latitude = 46.515315
+longitude = -108.089742
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59059"
+

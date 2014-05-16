@@ -1,6 +1,8 @@
-zip_code = "95226"
-state = "CA"
 city = "Campo Seco"
 county = "Calaveras"
-longitude = -120.849106
 latitude = 38.211495
+longitude = -120.849106
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95226"
+

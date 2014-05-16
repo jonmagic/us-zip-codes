@@ -1,6 +1,8 @@
-zip_code = "52536"
-state = "IA"
 city = "Blakesburg"
 county = "Wapello"
-longitude = -92.570024
 latitude = 40.981083
+longitude = -92.570024
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52536"
+

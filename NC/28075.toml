@@ -1,6 +1,8 @@
-zip_code = "28075"
-state = "NC"
 city = "Harrisburg"
 county = "Cabarrus"
-longitude = -80.672368
 latitude = 35.353672
+longitude = -80.672368
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28075"
+

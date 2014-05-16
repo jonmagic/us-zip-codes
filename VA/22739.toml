@@ -1,6 +1,8 @@
-zip_code = "22739"
-state = "VA"
 city = "Somerville"
 county = "Fauquier"
-longitude = -77.59557
 latitude = 38.505945
+longitude = -77.59557
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22739"
+

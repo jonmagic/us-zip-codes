@@ -1,6 +1,8 @@
-zip_code = "29325"
-state = "SC"
 city = "Clinton"
 county = "Laurens"
-longitude = -81.893558
 latitude = 34.43492
+longitude = -81.893558
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29325"
+

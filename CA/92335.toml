@@ -1,6 +1,8 @@
-zip_code = "92335"
-state = "CA"
 city = "Fontana"
 county = "San Bernardino"
-longitude = -114.301225
 latitude = 34.159844
+longitude = -114.301225
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92335"
+

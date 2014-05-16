@@ -1,6 +1,8 @@
-zip_code = "67459"
-state = "KS"
 city = "Lorraine"
 county = "Ellsworth"
-longitude = -98.273284
 latitude = 38.601673
+longitude = -98.273284
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67459"
+

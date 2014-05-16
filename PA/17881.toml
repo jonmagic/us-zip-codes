@@ -1,6 +1,8 @@
-zip_code = "17881"
-state = "PA"
 city = "Trevorton"
 county = "Northumberland"
-longitude = -76.672737
 latitude = 40.782155
+longitude = -76.672737
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17881"
+

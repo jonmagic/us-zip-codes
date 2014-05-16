@@ -1,6 +1,8 @@
-zip_code = "64428"
-state = "MO"
 city = "Burlington Junction"
 county = "Nodaway"
-longitude = -95.063022
 latitude = 40.447528
+longitude = -95.063022
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64428"
+

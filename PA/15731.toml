@@ -1,6 +1,8 @@
-zip_code = "15731"
-state = "PA"
 city = "Coral"
 county = "Indiana"
-longitude = -79.173892
 latitude = 40.498602
+longitude = -79.173892
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15731"
+

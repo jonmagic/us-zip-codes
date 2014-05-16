@@ -1,6 +1,8 @@
-zip_code = "45815"
-state = "OH"
 city = "Belmore"
 county = "Putnam"
-longitude = -83.941281
 latitude = 41.153855
+longitude = -83.941281
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45815"
+

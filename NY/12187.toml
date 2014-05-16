@@ -1,6 +1,8 @@
-zip_code = "12187"
-state = "NY"
 city = "Warnerville"
 county = "Schoharie"
-longitude = -74.438129
 latitude = 42.592287
+longitude = -74.438129
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12187"
+

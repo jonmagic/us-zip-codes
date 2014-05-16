@@ -1,6 +1,8 @@
-zip_code = "38820"
-state = "MS"
 city = "Algoma"
 county = "Pontotoc"
-longitude = -89.032791
 latitude = 34.171543
+longitude = -89.032791
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38820"
+

@@ -1,6 +1,8 @@
-zip_code = "33569"
-state = "FL"
 city = "Riverview"
 county = "Hillsborough"
-longitude = -82.301249
 latitude = 27.846419
+longitude = -82.301249
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33569"
+

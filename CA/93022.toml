@@ -1,6 +1,8 @@
-zip_code = "93022"
-state = "CA"
 city = "Oak View"
 county = "Ventura"
-longitude = -119.292335
 latitude = 34.412169
+longitude = -119.292335
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93022"
+

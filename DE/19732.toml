@@ -1,6 +1,8 @@
-zip_code = "19732"
-state = "DE"
 city = "Rockland"
 county = "New Castle"
-longitude = -75.57375
 latitude = 39.793864
+longitude = -75.57375
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19732"
+

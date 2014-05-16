@@ -1,6 +1,8 @@
-zip_code = "86403"
-state = "AZ"
 city = "Lake Havasu City"
 county = "Mohave"
-longitude = -114.310294
 latitude = 34.500556
+longitude = -114.310294
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86403"
+

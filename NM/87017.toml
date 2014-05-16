@@ -1,6 +1,8 @@
-zip_code = "87017"
-state = "NM"
 city = "Gallina"
 county = "Rio Arriba"
-longitude = -106.594795
 latitude = 36.707545
+longitude = -106.594795
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87017"
+

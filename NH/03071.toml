@@ -1,6 +1,8 @@
-zip_code = "03071"
-state = "NH"
 city = "New Ipswich"
 county = "Hillsborough"
-longitude = -71.845164
 latitude = 42.762946
+longitude = -71.845164
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03071"
+

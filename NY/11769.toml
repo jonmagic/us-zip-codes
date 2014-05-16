@@ -1,6 +1,8 @@
-zip_code = "11769"
-state = "NY"
 city = "Oakdale"
 county = "Suffolk"
-longitude = -73.131797
 latitude = 40.738322
+longitude = -73.131797
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11769"
+

@@ -1,6 +1,8 @@
-zip_code = "48807"
-state = "MI"
 city = "Bannister"
 county = "Gratiot"
-longitude = -84.433708
 latitude = 43.161282
+longitude = -84.433708
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48807"
+

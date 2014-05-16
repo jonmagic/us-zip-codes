@@ -1,6 +1,8 @@
-zip_code = "72701"
-state = "AR"
 city = "Fayetteville"
 county = "Washington"
-longitude = -94.190997
 latitude = 35.974602
+longitude = -94.190997
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72701"
+

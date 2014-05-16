@@ -1,6 +1,8 @@
-zip_code = "22542"
-state = "VA"
 city = "Rhoadesville"
 county = "Orange"
-longitude = -77.897386
 latitude = 38.292189
+longitude = -77.897386
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22542"
+

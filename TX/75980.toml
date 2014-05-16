@@ -1,6 +1,8 @@
-zip_code = "75980"
-state = "TX"
 city = "Zavalla"
 county = "Angelina"
-longitude = -94.401293
 latitude = 31.174421
+longitude = -94.401293
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75980"
+

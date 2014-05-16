@@ -1,6 +1,8 @@
-zip_code = "16401"
-state = "PA"
 city = "Albion"
 county = "Erie"
-longitude = -80.311081
 latitude = 41.894652
+longitude = -80.311081
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16401"
+

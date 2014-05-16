@@ -1,6 +1,8 @@
-zip_code = "87731"
-state = "NM"
 city = "Montezuma"
 county = "San Miguel"
-longitude = -105.253167
 latitude = 35.649907
+longitude = -105.253167
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87731"
+

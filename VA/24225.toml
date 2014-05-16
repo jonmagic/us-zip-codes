@@ -1,6 +1,8 @@
-zip_code = "24225"
-state = "VA"
 city = "Cleveland"
 county = "Russell"
-longitude = -82.093586
 latitude = 36.925928
+longitude = -82.093586
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24225"
+

@@ -1,6 +1,8 @@
-zip_code = "01226"
-state = "MA"
 city = "Dalton"
 county = "Berkshire"
-longitude = -73.08895
 latitude = 42.470296
+longitude = -73.08895
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01226"
+

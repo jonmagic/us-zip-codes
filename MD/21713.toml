@@ -1,6 +1,8 @@
-zip_code = "21713"
-state = "MD"
 city = "Boonsboro"
 county = "Washington"
-longitude = -77.695721
 latitude = 39.551986
+longitude = -77.695721
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21713"
+

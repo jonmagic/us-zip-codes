@@ -1,6 +1,8 @@
-zip_code = "25251"
-state = "WV"
 city = "Left Hand"
 county = "Roane"
-longitude = -81.314633
 latitude = 38.731737
+longitude = -81.314633
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25251"
+

@@ -1,6 +1,8 @@
-zip_code = "37818"
-state = "TN"
 city = "Mosheim"
 county = "Greene"
-longitude = -82.976161
 latitude = 36.173296
+longitude = -82.976161
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37818"
+

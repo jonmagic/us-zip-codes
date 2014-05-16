@@ -1,6 +1,8 @@
-zip_code = "25239"
-state = "WV"
 city = "Cottageville"
 county = "Jackson"
-longitude = -81.847298
 latitude = 38.848369
+longitude = -81.847298
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25239"
+

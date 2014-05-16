@@ -1,6 +1,8 @@
-zip_code = "60505"
-state = "IL"
 city = "Aurora"
 county = "Kane"
-longitude = -88.405446
 latitude = 41.765478
+longitude = -88.405446
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60505"
+

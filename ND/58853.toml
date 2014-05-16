@@ -1,6 +1,8 @@
-zip_code = "58853"
-state = "ND"
 city = "Trenton"
 county = "Williams"
-longitude = -103.438083
 latitude = 48.295057
+longitude = -103.438083
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58853"
+

@@ -1,6 +1,8 @@
-zip_code = "24578"
-state = "VA"
 city = "Natural Bridge"
 county = "Rockbridge"
-longitude = -79.550792
 latitude = 37.677211
+longitude = -79.550792
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24578"
+

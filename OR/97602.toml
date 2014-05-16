@@ -1,6 +1,8 @@
-zip_code = "97602"
-state = "OR"
 city = "Klamath Falls"
 county = "Klamath"
-longitude = -121.584833
 latitude = 42.804981
+longitude = -121.584833
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97602"
+

@@ -1,6 +1,8 @@
-zip_code = "72921"
-state = "AR"
 city = "Alma"
 county = "Crawford"
-longitude = -94.193334
 latitude = 35.479157
+longitude = -94.193334
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72921"
+

@@ -1,6 +1,8 @@
-zip_code = "78951"
-state = "TX"
 city = "Oakland"
 county = "Colorado"
-longitude = -96.524899
 latitude = 29.60466
+longitude = -96.524899
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78951"
+

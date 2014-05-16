@@ -1,6 +1,8 @@
-zip_code = "95650"
-state = "CA"
 city = "Loomis"
 county = "Placer"
-longitude = -121.176622
 latitude = 38.814428
+longitude = -121.176622
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95650"
+

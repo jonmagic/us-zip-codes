@@ -1,6 +1,8 @@
-zip_code = "02895"
-state = "RI"
 city = "Woonsocket"
 county = "Providence"
-longitude = -71.51939
 latitude = 41.984598
+longitude = -71.51939
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02895"
+

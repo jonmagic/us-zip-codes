@@ -1,6 +1,8 @@
-zip_code = "03227"
-state = "NH"
 city = "Center Sandwich"
 county = "Carroll"
-longitude = -71.323953
 latitude = 43.694809
+longitude = -71.323953
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03227"
+

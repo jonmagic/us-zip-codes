@@ -1,6 +1,8 @@
-zip_code = "68660"
-state = "NE"
 city = "Saint Edward"
 county = "Boone"
-longitude = -97.863484
 latitude = 41.570444
+longitude = -97.863484
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68660"
+

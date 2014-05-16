@@ -1,6 +1,8 @@
-zip_code = "53949"
-state = "WI"
 city = "Montello"
 county = "Marquette"
-longitude = -89.372011
 latitude = 43.812581
+longitude = -89.372011
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53949"
+

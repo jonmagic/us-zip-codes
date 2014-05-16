@@ -1,6 +1,8 @@
-zip_code = "64132"
-state = "MO"
 city = "Kansas City"
 county = "Jackson"
-longitude = -94.546556
 latitude = 38.984205
+longitude = -94.546556
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64132"
+

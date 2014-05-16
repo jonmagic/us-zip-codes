@@ -1,6 +1,8 @@
-zip_code = "32040"
-state = "FL"
 city = "Glen Saint Mary"
 county = "Baker"
-longitude = -82.190828
 latitude = 30.302616
+longitude = -82.190828
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32040"
+

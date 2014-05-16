@@ -1,6 +1,8 @@
-zip_code = "73548"
-state = "OK"
 city = "Hastings"
 county = "Jefferson"
-longitude = -97.838026
 latitude = 34.069661
+longitude = -97.838026
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73548"
+

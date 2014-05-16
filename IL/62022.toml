@@ -1,6 +1,8 @@
-zip_code = "62022"
-state = "IL"
 city = "Dow"
 county = "Jersey"
-longitude = -90.316504
 latitude = 38.992751
+longitude = -90.316504
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62022"
+

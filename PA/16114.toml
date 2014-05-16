@@ -1,6 +1,8 @@
-zip_code = "16114"
-state = "PA"
 city = "Clarks Mills"
 county = "Mercer"
-longitude = -80.184099
 latitude = 41.405788
+longitude = -80.184099
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16114"
+

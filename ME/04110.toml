@@ -1,6 +1,8 @@
-zip_code = "04110"
-state = "ME"
 city = "Cumberland Foreside"
 county = "Cumberland"
-longitude = -70.199307
 latitude = 43.759021
+longitude = -70.199307
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04110"
+

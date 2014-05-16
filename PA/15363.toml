@@ -1,6 +1,8 @@
-zip_code = "15363"
-state = "PA"
 city = "Strabane"
 county = "Washington"
-longitude = -80.198354
 latitude = 40.250454
+longitude = -80.198354
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15363"
+

@@ -1,6 +1,8 @@
-zip_code = "56626"
-state = "MN"
 city = "Bena"
 county = "Cass"
-longitude = -94.251376
 latitude = 47.370372
+longitude = -94.251376
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56626"
+

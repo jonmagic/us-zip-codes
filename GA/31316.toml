@@ -1,6 +1,8 @@
-zip_code = "31316"
-state = "GA"
 city = "Ludowici"
 county = "Long"
-longitude = -81.773916
 latitude = 31.780996
+longitude = -81.773916
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31316"
+

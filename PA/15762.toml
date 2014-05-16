@@ -1,6 +1,8 @@
-zip_code = "15762"
-state = "PA"
 city = "Nicktown"
 county = "Cambria"
-longitude = -78.82209
 latitude = 40.600962
+longitude = -78.82209
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15762"
+

@@ -1,6 +1,8 @@
-zip_code = "96025"
-state = "CA"
 city = "Dunsmuir"
 county = "Siskiyou"
-longitude = -122.390196
 latitude = 41.45574
+longitude = -122.390196
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96025"
+

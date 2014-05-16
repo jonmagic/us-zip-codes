@@ -1,6 +1,8 @@
-zip_code = "20119"
-state = "VA"
 city = "Catlett"
 county = "Fauquier"
-longitude = -77.638287
 latitude = 38.636964
+longitude = -77.638287
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20119"
+

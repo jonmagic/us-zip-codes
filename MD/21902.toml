@@ -1,6 +1,8 @@
-zip_code = "21902"
-state = "MD"
 city = "Perry Point"
 county = "Cecil"
-longitude = -76.072471
 latitude = 39.552962
+longitude = -76.072471
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21902"
+

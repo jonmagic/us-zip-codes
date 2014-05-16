@@ -1,6 +1,8 @@
-zip_code = "22602"
-state = "VA"
 city = "Winchester"
 county = "Frederick"
-longitude = -78.268988
 latitude = 39.150074
+longitude = -78.268988
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22602"
+

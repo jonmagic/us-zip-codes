@@ -1,6 +1,8 @@
-zip_code = "30146"
-state = "GA"
 city = "Lebanon"
 county = "Cherokee"
-longitude = -84.458326
 latitude = 34.242944
+longitude = -84.458326
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30146"
+

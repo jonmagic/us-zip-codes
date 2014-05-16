@@ -1,6 +1,8 @@
-zip_code = "32767"
-state = "FL"
 city = "Paisley"
 county = "Lake"
-longitude = -81.482049
 latitude = 28.981525
+longitude = -81.482049
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32767"
+

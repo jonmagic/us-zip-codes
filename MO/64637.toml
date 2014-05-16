@@ -1,6 +1,8 @@
-zip_code = "64637"
-state = "MO"
 city = "Cowgill"
 county = "Caldwell"
-longitude = -93.941327
 latitude = 39.590145
+longitude = -93.941327
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64637"
+

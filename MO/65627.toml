@@ -1,6 +1,8 @@
-zip_code = "65627"
-state = "MO"
 city = "Cedarcreek"
 county = "Taney"
-longitude = -93.014906
 latitude = 36.560345
+longitude = -93.014906
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65627"
+

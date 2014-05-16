@@ -1,6 +1,8 @@
-zip_code = "06798"
-state = "CT"
 city = "Woodbury"
 county = "Litchfield"
-longitude = -73.135499
 latitude = 41.733106
+longitude = -73.135499
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06798"
+

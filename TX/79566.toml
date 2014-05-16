@@ -1,6 +1,8 @@
-zip_code = "79566"
-state = "TX"
 city = "Wingate"
 county = "Runnels"
-longitude = -100.131927
 latitude = 32.031119
+longitude = -100.131927
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79566"
+

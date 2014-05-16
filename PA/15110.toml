@@ -1,6 +1,8 @@
-zip_code = "15110"
-state = "PA"
 city = "Duquesne"
 county = "Allegheny"
-longitude = -79.85382
 latitude = 40.372069
+longitude = -79.85382
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15110"
+

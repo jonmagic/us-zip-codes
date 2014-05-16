@@ -1,6 +1,8 @@
-zip_code = "72066"
-state = "AR"
 city = "Hickory Plains"
 county = "Prairie"
-longitude = -91.573785
 latitude = 34.785525
+longitude = -91.573785
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72066"
+

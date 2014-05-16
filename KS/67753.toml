@@ -1,6 +1,8 @@
-zip_code = "67753"
-state = "KS"
 city = "Rexford"
 county = "Thomas"
-longitude = -101.049033
 latitude = 39.390715
+longitude = -101.049033
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67753"
+

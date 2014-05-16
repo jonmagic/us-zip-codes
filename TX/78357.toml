@@ -1,6 +1,8 @@
-zip_code = "78357"
-state = "TX"
 city = "Freer"
 county = "Duval"
-longitude = -98.614928
 latitude = 27.899181
+longitude = -98.614928
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78357"
+

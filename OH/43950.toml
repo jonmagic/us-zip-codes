@@ -1,6 +1,8 @@
-zip_code = "43950"
-state = "OH"
 city = "Saint Clairsville"
 county = "Belmont"
-longitude = -80.978797
 latitude = 40.077792
+longitude = -80.978797
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43950"
+

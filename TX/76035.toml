@@ -1,6 +1,8 @@
-zip_code = "76035"
-state = "TX"
 city = "Cresson"
 county = "Hood"
-longitude = -97.67747
 latitude = 32.473973
+longitude = -97.67747
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76035"
+

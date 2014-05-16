@@ -1,6 +1,8 @@
-zip_code = "62320"
-state = "IL"
 city = "Camp Point"
 county = "Adams"
-longitude = -91.060449
 latitude = 40.018202
+longitude = -91.060449
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62320"
+

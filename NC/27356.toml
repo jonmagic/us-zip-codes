@@ -1,6 +1,8 @@
-zip_code = "27356"
-state = "NC"
 city = "Star"
 county = "Montgomery"
-longitude = -79.825137
 latitude = 35.439894
+longitude = -79.825137
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27356"
+

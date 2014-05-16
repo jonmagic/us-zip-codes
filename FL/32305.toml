@@ -1,6 +1,8 @@
-zip_code = "32305"
-state = "FL"
 city = "Tallahassee"
 county = "Wakulla"
-longitude = -84.406629
 latitude = 30.130775
+longitude = -84.406629
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32305"
+

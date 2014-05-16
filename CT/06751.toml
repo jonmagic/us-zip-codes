@@ -1,6 +1,8 @@
-zip_code = "06751"
-state = "CT"
 city = "Bethlehem"
 county = "Litchfield"
-longitude = -73.209685
 latitude = 41.6409
+longitude = -73.209685
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06751"
+

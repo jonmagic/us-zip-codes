@@ -1,6 +1,8 @@
-zip_code = "53098"
-state = "WI"
 city = "Watertown"
 county = "Dodge"
-longitude = -88.715408
 latitude = 43.276444
+longitude = -88.715408
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53098"
+

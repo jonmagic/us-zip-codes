@@ -1,6 +1,8 @@
-zip_code = "21853"
-state = "MD"
 city = "Princess Anne"
 county = "Somerset"
-longitude = -75.75292
 latitude = 38.200553
+longitude = -75.75292
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21853"
+

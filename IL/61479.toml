@@ -1,6 +1,8 @@
-zip_code = "61479"
-state = "IL"
 city = "Speer"
 county = "Stark"
-longitude = -89.651961
 latitude = 40.987171
+longitude = -89.651961
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61479"
+

@@ -1,6 +1,8 @@
-zip_code = "54639"
-state = "WI"
 city = "La Farge"
 county = "Vernon"
-longitude = -90.636482
 latitude = 43.600044
+longitude = -90.636482
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54639"
+

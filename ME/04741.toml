@@ -1,6 +1,8 @@
-zip_code = "04741"
-state = "ME"
 city = "Estcourt Station"
 county = "Aroostook"
-longitude = -68.886826
 latitude = 46.516166
+longitude = -68.886826
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04741"
+

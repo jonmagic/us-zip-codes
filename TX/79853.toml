@@ -1,6 +1,8 @@
-zip_code = "79853"
-state = "TX"
 city = "Tornillo"
 county = "El Paso"
-longitude = -106.076524
 latitude = 31.440685
+longitude = -106.076524
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79853"
+

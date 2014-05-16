@@ -1,6 +1,8 @@
-zip_code = "49338"
-state = "MI"
 city = "Paris"
 county = "Mecosta"
-longitude = -85.365385
 latitude = 43.72777
+longitude = -85.365385
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49338"
+

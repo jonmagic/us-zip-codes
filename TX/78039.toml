@@ -1,6 +1,8 @@
-zip_code = "78039"
-state = "TX"
 city = "La Coste"
 county = "Medina"
-longitude = -98.839256
 latitude = 29.311728
+longitude = -98.839256
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78039"
+

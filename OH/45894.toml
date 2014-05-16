@@ -1,6 +1,8 @@
-zip_code = "45894"
-state = "OH"
 city = "Venedocia"
 county = "Van Wert"
-longitude = -84.47458
 latitude = 40.771925
+longitude = -84.47458
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45894"
+

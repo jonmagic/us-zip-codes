@@ -1,6 +1,8 @@
-zip_code = "65619"
-state = "MO"
 city = "Brookline Station"
 county = "Greene"
-longitude = -93.384921
 latitude = 37.139291
+longitude = -93.384921
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65619"
+

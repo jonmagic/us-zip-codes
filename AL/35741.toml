@@ -1,6 +1,8 @@
-zip_code = "35741"
-state = "AL"
 city = "Brownsboro"
 county = "Madison"
-longitude = -86.475425
 latitude = 34.719303
+longitude = -86.475425
+state = ""
+state_code_alpha2 = ""
+zip_code = "35741"
+

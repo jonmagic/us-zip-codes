@@ -1,6 +1,8 @@
-zip_code = "73476"
-state = "OK"
 city = "Pernell"
 county = "Garvin"
-longitude = -97.300429
 latitude = 34.680871
+longitude = -97.300429
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73476"
+

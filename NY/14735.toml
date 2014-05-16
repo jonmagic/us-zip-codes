@@ -1,6 +1,8 @@
-zip_code = "14735"
-state = "NY"
 city = "Fillmore"
 county = "Allegany"
-longitude = -78.104285
 latitude = 42.45079
+longitude = -78.104285
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14735"
+

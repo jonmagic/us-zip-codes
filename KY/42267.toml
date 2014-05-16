@@ -1,6 +1,8 @@
-zip_code = "42267"
-state = "KY"
 city = "Provo"
 county = "Butler"
-longitude = -86.804803
 latitude = 37.229645
+longitude = -86.804803
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42267"
+

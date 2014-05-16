@@ -1,6 +1,8 @@
-zip_code = "81066"
-state = "CO"
 city = "Walsenburg"
 county = "Huerfano"
-longitude = -105.344931
 latitude = 37.712093
+longitude = -105.344931
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81066"
+

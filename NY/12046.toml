@@ -1,6 +1,8 @@
-zip_code = "12046"
-state = "NY"
 city = "Coeymans Hollow"
 county = "Albany"
-longitude = -73.928403
 latitude = 42.492791
+longitude = -73.928403
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12046"
+

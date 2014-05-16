@@ -1,6 +1,8 @@
-zip_code = "15636"
-state = "PA"
 city = "Harrison City"
 county = "Westmoreland"
-longitude = -79.656525
 latitude = 40.36602
+longitude = -79.656525
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15636"
+

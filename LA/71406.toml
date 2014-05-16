@@ -1,6 +1,8 @@
-zip_code = "71406"
-state = "LA"
 city = "Belmont"
 county = "Sabine"
-longitude = -93.493958
 latitude = 31.730633
+longitude = -93.493958
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71406"
+

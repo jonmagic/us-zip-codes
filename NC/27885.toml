@@ -1,6 +1,8 @@
-zip_code = "27885"
-state = "NC"
 city = "Swanquarter"
 county = "Hyde"
-longitude = -76.271685
 latitude = 35.465559
+longitude = -76.271685
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27885"
+

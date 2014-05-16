@@ -1,6 +1,8 @@
-zip_code = "50481"
-state = "IA"
 city = "Toeterville"
 county = "Mitchell"
-longitude = -92.788967
 latitude = 43.356439
+longitude = -92.788967
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50481"
+

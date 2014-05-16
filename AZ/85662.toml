@@ -1,6 +1,8 @@
-zip_code = "85662"
-state = "AZ"
 city = "Nogales"
 county = "Santa Cruz"
-longitude = -110.909305
 latitude = 31.531998
+longitude = -110.909305
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85662"
+

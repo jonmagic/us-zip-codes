@@ -1,6 +1,8 @@
-zip_code = "60086"
-state = "IL"
 city = "North Chicago"
 county = "Lake"
-longitude = -87.776595
 latitude = 42.43335
+longitude = -87.776595
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60086"
+

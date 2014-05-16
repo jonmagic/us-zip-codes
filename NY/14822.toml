@@ -1,6 +1,8 @@
-zip_code = "14822"
-state = "NY"
 city = "Canaseraga"
 county = "Allegany"
-longitude = -77.835626
 latitude = 42.422577
+longitude = -77.835626
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14822"
+

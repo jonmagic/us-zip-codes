@@ -1,6 +1,8 @@
-zip_code = "47120"
-state = "IN"
 city = "Fredericksburg"
 county = "Washington"
-longitude = -86.185333
 latitude = 38.46772
+longitude = -86.185333
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47120"
+

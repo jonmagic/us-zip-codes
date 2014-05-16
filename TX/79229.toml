@@ -1,6 +1,8 @@
-zip_code = "79229"
-state = "TX"
 city = "Dickens"
 county = "Dickens"
-longitude = -100.841745
 latitude = 33.62196
+longitude = -100.841745
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79229"
+

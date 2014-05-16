@@ -1,6 +1,8 @@
-zip_code = "08751"
-state = "NJ"
 city = "Seaside Heights"
 county = "Ocean"
-longitude = -74.181649
 latitude = 39.945991
+longitude = -74.181649
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08751"
+

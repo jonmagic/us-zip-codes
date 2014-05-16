@@ -1,6 +1,8 @@
-zip_code = "49310"
-state = "MI"
 city = "Blanchard"
 county = "Isabella"
-longitude = -84.966988
 latitude = 43.552836
+longitude = -84.966988
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49310"
+

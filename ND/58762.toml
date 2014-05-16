@@ -1,6 +1,8 @@
-zip_code = "58762"
-state = "ND"
 city = "Newburg"
 county = "Bottineau"
-longitude = -101.067192
 latitude = 48.770759
+longitude = -101.067192
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58762"
+

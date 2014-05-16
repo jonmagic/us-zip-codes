@@ -1,6 +1,8 @@
-zip_code = "47882"
-state = "IN"
 city = "Sullivan"
 county = "Sullivan"
-longitude = -87.419003
 latitude = 39.084199
+longitude = -87.419003
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47882"
+

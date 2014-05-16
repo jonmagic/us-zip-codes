@@ -1,6 +1,8 @@
-zip_code = "79320"
-state = "TX"
 city = "Bula"
 county = "Bailey"
-longitude = -102.688297
 latitude = 33.929317
+longitude = -102.688297
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79320"
+

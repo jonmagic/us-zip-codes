@@ -1,6 +1,8 @@
-zip_code = "30290"
-state = "GA"
 city = "Tyrone"
 county = "Fayette"
-longitude = -84.585773
 latitude = 33.460036
+longitude = -84.585773
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30290"
+

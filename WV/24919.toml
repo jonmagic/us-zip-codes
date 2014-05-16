@@ -1,6 +1,8 @@
-zip_code = "24919"
-state = "WV"
 city = "Ballengee"
 county = "Summers"
-longitude = -80.890043
 latitude = 37.674782
+longitude = -80.890043
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24919"
+

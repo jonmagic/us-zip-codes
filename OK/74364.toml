@@ -1,6 +1,8 @@
-zip_code = "74364"
-state = "OK"
 city = "Rose"
 county = "Mayes"
-longitude = -95.222792
 latitude = 36.292495
+longitude = -95.222792
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74364"
+

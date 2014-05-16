@@ -1,6 +1,8 @@
-zip_code = "50021"
-state = "IA"
 city = "Ankeny"
 county = "Polk"
-longitude = -93.601467
 latitude = 41.756321
+longitude = -93.601467
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50021"
+

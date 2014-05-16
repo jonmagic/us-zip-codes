@@ -1,6 +1,8 @@
-zip_code = "00794"
-state = "PR"
 city = "Barranquitas"
 county = "Barranquitas"
-longitude = -66.307236
 latitude = 18.200898
+longitude = -66.307236
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00794"
+

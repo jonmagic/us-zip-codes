@@ -1,6 +1,8 @@
-zip_code = "14051"
-state = "NY"
 city = "East Amherst"
 county = "Erie"
-longitude = -78.698796
 latitude = 43.042907
+longitude = -78.698796
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14051"
+

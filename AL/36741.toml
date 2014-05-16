@@ -1,6 +1,8 @@
-zip_code = "36741"
-state = "AL"
 city = "Furman"
 county = "Wilcox"
-longitude = -86.981703
 latitude = 32.006129
+longitude = -86.981703
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36741"
+

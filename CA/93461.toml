@@ -1,6 +1,8 @@
-zip_code = "93461"
-state = "CA"
 city = "Shandon"
 county = "San Luis Obispo"
-longitude = -120.291994
 latitude = 35.610073
+longitude = -120.291994
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93461"
+

@@ -1,6 +1,8 @@
-zip_code = "65771"
-state = "MO"
 city = "Walnut Shade"
 county = "Taney"
-longitude = -93.222445
 latitude = 36.772257
+longitude = -93.222445
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65771"
+

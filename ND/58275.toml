@@ -1,6 +1,8 @@
-zip_code = "58275"
-state = "ND"
 city = "Reynolds"
 county = "Grand Forks"
-longitude = -97.236128
 latitude = 47.872332
+longitude = -97.236128
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58275"
+

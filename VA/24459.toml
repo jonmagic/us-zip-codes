@@ -1,6 +1,8 @@
-zip_code = "24459"
-state = "VA"
 city = "Middlebrook"
 county = "Augusta"
-longitude = -79.242427
 latitude = 38.042838
+longitude = -79.242427
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24459"
+

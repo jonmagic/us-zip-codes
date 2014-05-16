@@ -1,6 +1,8 @@
-zip_code = "58760"
-state = "ND"
 city = "Maxbass"
 county = "Bottineau"
-longitude = -101.197701
 latitude = 48.736656
+longitude = -101.197701
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58760"
+

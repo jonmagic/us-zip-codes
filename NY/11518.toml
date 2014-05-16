@@ -1,6 +1,8 @@
-zip_code = "11518"
-state = "NY"
 city = "East Rockaway"
 county = "Nassau"
-longitude = -73.668224
 latitude = 40.640387
+longitude = -73.668224
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11518"
+

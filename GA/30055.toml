@@ -1,6 +1,8 @@
-zip_code = "30055"
-state = "GA"
 city = "Mansfield"
 county = "Jasper"
-longitude = -83.790756
 latitude = 33.431362
+longitude = -83.790756
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30055"
+

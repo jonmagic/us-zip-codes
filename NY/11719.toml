@@ -1,6 +1,8 @@
-zip_code = "11719"
-state = "NY"
 city = "Brookhaven"
 county = "Suffolk"
-longitude = -72.637078
 latitude = 40.922326
+longitude = -72.637078
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11719"
+

@@ -1,6 +1,8 @@
-zip_code = "27359"
-state = "NC"
 city = "Swepsonville"
 county = "Alamance"
-longitude = -79.357399
 latitude = 36.021389
+longitude = -79.357399
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27359"
+

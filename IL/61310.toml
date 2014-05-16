@@ -1,6 +1,8 @@
-zip_code = "61310"
-state = "IL"
 city = "Amboy"
 county = "Lee"
-longitude = -89.299671
 latitude = 41.721016
+longitude = -89.299671
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61310"
+

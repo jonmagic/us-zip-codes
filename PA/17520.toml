@@ -1,6 +1,8 @@
-zip_code = "17520"
-state = "PA"
 city = "East Petersburg"
 county = "Lancaster"
-longitude = -76.356832
 latitude = 40.097468
+longitude = -76.356832
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17520"
+

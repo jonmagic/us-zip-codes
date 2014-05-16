@@ -1,6 +1,8 @@
-zip_code = "64402"
-state = "MO"
 city = "Albany"
 county = "Gentry"
-longitude = -94.330949
 latitude = 40.256596
+longitude = -94.330949
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64402"
+

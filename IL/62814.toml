@@ -1,6 +1,8 @@
-zip_code = "62814"
-state = "IL"
 city = "Bluford"
 county = "Jefferson"
-longitude = -88.746322
 latitude = 38.384549
+longitude = -88.746322
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62814"
+

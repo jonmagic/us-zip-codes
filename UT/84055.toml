@@ -1,6 +1,8 @@
-zip_code = "84055"
-state = "UT"
 city = "Oakley"
 county = "Summit"
-longitude = -111.24561
 latitude = 40.724311
+longitude = -111.24561
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84055"
+

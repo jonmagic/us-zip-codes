@@ -1,6 +1,8 @@
-zip_code = "56252"
-state = "MN"
 city = "Kerkhoven"
 county = "Swift"
-longitude = -95.317927
 latitude = 45.231737
+longitude = -95.317927
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56252"
+

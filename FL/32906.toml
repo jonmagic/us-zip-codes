@@ -1,6 +1,8 @@
-zip_code = "32906"
-state = "FL"
 city = "Palm Bay"
 county = "Brevard"
-longitude = -80.650341
 latitude = 28.067128
+longitude = -80.650341
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32906"
+

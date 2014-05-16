@@ -1,6 +1,8 @@
-zip_code = "97479"
-state = "OR"
 city = "Sutherlin"
 county = "Douglas"
-longitude = -123.208273
 latitude = 43.345559
+longitude = -123.208273
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97479"
+

@@ -1,6 +1,8 @@
-zip_code = "39702"
-state = "MS"
 city = "Columbus"
 county = "Lowndes"
-longitude = -88.460218
 latitude = 33.429569
+longitude = -88.460218
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39702"
+

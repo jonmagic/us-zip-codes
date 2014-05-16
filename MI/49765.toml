@@ -1,6 +1,8 @@
-zip_code = "49765"
-state = "MI"
 city = "Onaway"
 county = "Presque Isle"
-longitude = -83.871571
 latitude = 45.363283
+longitude = -83.871571
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49765"
+

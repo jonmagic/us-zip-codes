@@ -1,6 +1,8 @@
-zip_code = "14464"
-state = "NY"
 city = "Hamlin"
 county = "Monroe"
-longitude = -77.925097
 latitude = 43.321659
+longitude = -77.925097
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14464"
+

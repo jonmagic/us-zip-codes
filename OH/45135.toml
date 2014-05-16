@@ -1,6 +1,8 @@
-zip_code = "45135"
-state = "OH"
 city = "Leesburg"
 county = "Highland"
-longitude = -83.595228
 latitude = 39.270862
+longitude = -83.595228
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45135"
+

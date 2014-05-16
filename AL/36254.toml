@@ -1,6 +1,8 @@
-zip_code = "36254"
-state = "AL"
 city = "Choccolocco"
 county = "Calhoun"
-longitude = -85.699116
 latitude = 33.657349
+longitude = -85.699116
+state = ""
+state_code_alpha2 = ""
+zip_code = "36254"
+

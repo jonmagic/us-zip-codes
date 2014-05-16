@@ -1,6 +1,8 @@
-zip_code = "00693"
-state = "PR"
 city = "Vega Baja"
 county = "Vega Baja"
-longitude = -66.398302
 latitude = 18.443109
+longitude = -66.398302
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00693"
+

@@ -1,6 +1,8 @@
-zip_code = "96127"
-state = "CA"
 city = "Susanville"
 county = "Lassen"
-longitude = -120.664132
 latitude = 40.446063
+longitude = -120.664132
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96127"
+

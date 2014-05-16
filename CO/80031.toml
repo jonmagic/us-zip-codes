@@ -1,6 +1,8 @@
-zip_code = "80031"
-state = "CO"
 city = "Westminster"
 county = "Adams"
-longitude = -105.034487
 latitude = 39.87529
+longitude = -105.034487
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80031"
+

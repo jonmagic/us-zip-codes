@@ -1,6 +1,8 @@
-zip_code = "34705"
-state = "FL"
 city = "Astatula"
 county = "Lake"
-longitude = -81.718455
 latitude = 28.706723
+longitude = -81.718455
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34705"
+

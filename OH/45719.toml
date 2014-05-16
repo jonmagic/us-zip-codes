@@ -1,6 +1,8 @@
-zip_code = "45719"
-state = "OH"
 city = "Chauncey"
 county = "Athens"
-longitude = -82.130241
 latitude = 39.400154
+longitude = -82.130241
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45719"
+

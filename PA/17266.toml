@@ -1,6 +1,8 @@
-zip_code = "17266"
-state = "PA"
 city = "Walnut Bottom"
 county = "Cumberland"
-longitude = -77.472794
 latitude = 40.104094
+longitude = -77.472794
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17266"
+

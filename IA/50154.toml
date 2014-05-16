@@ -1,6 +1,8 @@
-zip_code = "50154"
-state = "IA"
 city = "Mc Callsburg"
 county = "Story"
-longitude = -93.395647
 latitude = 42.158029
+longitude = -93.395647
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50154"
+

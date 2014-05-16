@@ -1,6 +1,8 @@
-zip_code = "12922"
-state = "NY"
 city = "Childwold"
 county = "Saint Lawrence"
-longitude = -74.702338
 latitude = 44.287829
+longitude = -74.702338
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12922"
+

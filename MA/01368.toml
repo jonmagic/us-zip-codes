@@ -1,6 +1,8 @@
-zip_code = "01368"
-state = "MA"
 city = "Royalston"
 county = "Worcester"
-longitude = -72.196376
 latitude = 42.672182
+longitude = -72.196376
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01368"
+

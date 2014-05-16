@@ -1,6 +1,8 @@
-zip_code = "58260"
-state = "ND"
 city = "Milton"
 county = "Cavalier"
-longitude = -98.042871
 latitude = 48.624861
+longitude = -98.042871
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58260"
+

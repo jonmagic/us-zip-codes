@@ -1,6 +1,8 @@
-zip_code = "05468"
-state = "VT"
 city = "Milton"
 county = "Chittenden"
-longitude = -73.121685
 latitude = 44.643418
+longitude = -73.121685
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05468"
+

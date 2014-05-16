@@ -1,6 +1,8 @@
-zip_code = "29546"
-state = "SC"
 city = "Gresham"
 county = "Marion"
-longitude = -79.360418
 latitude = 33.952411
+longitude = -79.360418
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29546"
+

@@ -1,6 +1,8 @@
-zip_code = "71006"
-state = "LA"
 city = "Benton"
 county = "Bossier"
-longitude = -93.63759
 latitude = 32.725032
+longitude = -93.63759
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71006"
+

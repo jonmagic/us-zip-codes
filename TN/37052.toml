@@ -1,6 +1,8 @@
-zip_code = "37052"
-state = "TN"
 city = "Cunningham"
 county = "Montgomery"
-longitude = -87.376496
 latitude = 36.398614
+longitude = -87.376496
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37052"
+

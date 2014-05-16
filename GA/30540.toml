@@ -1,6 +1,8 @@
-zip_code = "30540"
-state = "GA"
 city = "Ellijay"
 county = "Gilmer"
-longitude = -84.449007
 latitude = 34.70129
+longitude = -84.449007
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30540"
+

@@ -1,6 +1,8 @@
-zip_code = "07030"
-state = "NJ"
 city = "Hoboken"
 county = "Hudson"
-longitude = -74.033934
 latitude = 40.746851
+longitude = -74.033934
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07030"
+

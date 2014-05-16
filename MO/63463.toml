@@ -1,6 +1,8 @@
-zip_code = "63463"
-state = "MO"
 city = "Philadelphia"
 county = "Marion"
-longitude = -91.738022
 latitude = 39.82473
+longitude = -91.738022
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63463"
+

@@ -1,6 +1,8 @@
-zip_code = "67361"
-state = "KS"
 city = "Sedan"
 county = "Chautauqua"
-longitude = -96.219212
 latitude = 37.134351
+longitude = -96.219212
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67361"
+

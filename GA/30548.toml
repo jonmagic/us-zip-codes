@@ -1,6 +1,8 @@
-zip_code = "30548"
-state = "GA"
 city = "Hoschton"
 county = "Jackson"
-longitude = -83.71817
 latitude = 34.099031
+longitude = -83.71817
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30548"
+

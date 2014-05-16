@@ -1,6 +1,8 @@
-zip_code = "37917"
-state = "TN"
 city = "Knoxville"
 county = "Knox"
-longitude = -83.910527
 latitude = 35.998447
+longitude = -83.910527
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37917"
+

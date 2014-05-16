@@ -1,6 +1,8 @@
-zip_code = "96145"
-state = "CA"
 city = "Tahoe City"
 county = "Placer"
-longitude = -120.131614
 latitude = 39.163631
+longitude = -120.131614
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96145"
+

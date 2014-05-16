@@ -1,6 +1,8 @@
-zip_code = "41260"
-state = "KY"
 city = "Thelma"
 county = "Johnson"
-longitude = -82.766705
 latitude = 37.810703
+longitude = -82.766705
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41260"
+

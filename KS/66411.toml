@@ -1,6 +1,8 @@
-zip_code = "66411"
-state = "KS"
 city = "Blue Rapids"
 county = "Marshall"
-longitude = -96.563601
 latitude = 39.713306
+longitude = -96.563601
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66411"
+

@@ -1,6 +1,8 @@
-zip_code = "46508"
-state = "IN"
 city = "Burket"
 county = "Kosciusko"
-longitude = -85.969282
 latitude = 41.154726
+longitude = -85.969282
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46508"
+

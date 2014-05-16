@@ -1,6 +1,8 @@
-zip_code = "55604"
-state = "MN"
 city = "Grand Marais"
 county = "Cook"
-longitude = -90.42294
 latitude = 47.872285
+longitude = -90.42294
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55604"
+

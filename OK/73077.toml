@@ -1,6 +1,8 @@
-zip_code = "73077"
-state = "OK"
 city = "Perry"
 county = "Noble"
-longitude = -97.285561
 latitude = 36.318709
+longitude = -97.285561
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73077"
+

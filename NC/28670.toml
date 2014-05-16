@@ -1,6 +1,8 @@
-zip_code = "28670"
-state = "NC"
 city = "Ronda"
 county = "Wilkes"
-longitude = -80.929782
 latitude = 36.20083
+longitude = -80.929782
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28670"
+

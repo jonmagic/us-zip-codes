@@ -1,6 +1,8 @@
-zip_code = "55330"
-state = "MN"
 city = "Elk River"
 county = "Sherburne"
-longitude = -93.644522
 latitude = 45.403289
+longitude = -93.644522
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55330"
+

@@ -1,6 +1,8 @@
-zip_code = "32348"
-state = "FL"
 city = "Perry"
 county = "Taylor"
-longitude = -83.659371
 latitude = 29.966454
+longitude = -83.659371
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32348"
+

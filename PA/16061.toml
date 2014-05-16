@@ -1,6 +1,8 @@
-zip_code = "16061"
-state = "PA"
 city = "West Sunbury"
 county = "Butler"
-longitude = -79.884312
 latitude = 41.021754
+longitude = -79.884312
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16061"
+

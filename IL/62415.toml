@@ -1,6 +1,8 @@
-zip_code = "62415"
-state = "IL"
 city = "Birds"
 county = "Lawrence"
-longitude = -87.703639
 latitude = 38.710336
+longitude = -87.703639
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62415"
+

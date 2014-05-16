@@ -1,6 +1,8 @@
-zip_code = "48725"
-state = "MI"
 city = "Caseville"
 county = "Huron"
-longitude = -83.232873
 latitude = 43.84953
+longitude = -83.232873
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48725"
+

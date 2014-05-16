@@ -1,6 +1,8 @@
-zip_code = "39465"
-state = "MS"
 city = "Petal"
 county = "Forrest"
-longitude = -89.215061
 latitude = 31.331528
+longitude = -89.215061
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39465"
+

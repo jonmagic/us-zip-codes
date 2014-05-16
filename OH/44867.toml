@@ -1,6 +1,8 @@
-zip_code = "44867"
-state = "OH"
 city = "Republic"
 county = "Seneca"
-longitude = -82.970007
 latitude = 41.146881
+longitude = -82.970007
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44867"
+

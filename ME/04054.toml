@@ -1,6 +1,8 @@
-zip_code = "04054"
-state = "ME"
 city = "Moody"
 county = "York"
-longitude = -70.597752
 latitude = 43.276341
+longitude = -70.597752
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04054"
+

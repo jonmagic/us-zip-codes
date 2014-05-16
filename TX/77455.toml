@@ -1,6 +1,8 @@
-zip_code = "77455"
-state = "TX"
 city = "Louise"
 county = "Wharton"
-longitude = -96.408664
 latitude = 29.113458
+longitude = -96.408664
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77455"
+

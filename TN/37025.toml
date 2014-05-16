@@ -1,6 +1,8 @@
-zip_code = "37025"
-state = "TN"
 city = "Bon Aqua"
 county = "Hickman"
-longitude = -87.348964
 latitude = 35.92171
+longitude = -87.348964
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37025"
+

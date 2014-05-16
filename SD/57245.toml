@@ -1,6 +1,8 @@
-zip_code = "57245"
-state = "SD"
 city = "Kranzburg"
 county = "Codington"
-longitude = -96.917412
 latitude = 44.892254
+longitude = -96.917412
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57245"
+

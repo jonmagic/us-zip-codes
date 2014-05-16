@@ -1,6 +1,8 @@
-zip_code = "83808"
-state = "ID"
 city = "Calder"
 county = "Shoshone"
-longitude = -115.644501
 latitude = 47.501205
+longitude = -115.644501
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83808"
+

@@ -1,6 +1,8 @@
-zip_code = "66840"
-state = "KS"
 city = "Burns"
 county = "Marion"
-longitude = -96.888518
 latitude = 38.089221
+longitude = -96.888518
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66840"
+

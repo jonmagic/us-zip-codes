@@ -1,6 +1,8 @@
-zip_code = "70117"
-state = "LA"
 city = "New Orleans"
 county = "Orleans"
-longitude = -90.02845
 latitude = 29.968553
+longitude = -90.02845
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70117"
+

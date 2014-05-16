@@ -1,6 +1,8 @@
-zip_code = "56634"
-state = "MN"
 city = "Clearbrook"
 county = "Clearwater"
-longitude = -95.421104
 latitude = 47.610498
+longitude = -95.421104
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56634"
+

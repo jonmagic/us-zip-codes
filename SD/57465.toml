@@ -1,6 +1,8 @@
-zip_code = "57465"
-state = "SD"
 city = "Northville"
 county = "Spink"
-longitude = -98.625836
 latitude = 45.125985
+longitude = -98.625836
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57465"
+

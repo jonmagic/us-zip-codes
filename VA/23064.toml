@@ -1,6 +1,8 @@
-zip_code = "23064"
-state = "VA"
 city = "Grimstead"
 county = "Mathews"
-longitude = -76.294103
 latitude = 37.410286
+longitude = -76.294103
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23064"
+

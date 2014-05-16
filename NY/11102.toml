@@ -1,6 +1,8 @@
-zip_code = "11102"
-state = "NY"
 city = "Astoria"
 county = "Queens"
-longitude = -73.92516
 latitude = 40.770808
+longitude = -73.92516
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11102"
+

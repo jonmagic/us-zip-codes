@@ -1,6 +1,8 @@
-zip_code = "47647"
-state = "IN"
 city = "Buckskin"
 county = "Gibson"
-longitude = -87.651777
 latitude = 38.34949
+longitude = -87.651777
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47647"
+

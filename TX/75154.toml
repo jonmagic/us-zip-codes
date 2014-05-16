@@ -1,6 +1,8 @@
-zip_code = "75154"
-state = "TX"
 city = "Red Oak"
 county = "Ellis"
-longitude = -96.795429
 latitude = 32.484383
+longitude = -96.795429
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75154"
+

@@ -1,6 +1,8 @@
-zip_code = "53001"
-state = "WI"
 city = "Adell"
 county = "Sheboygan"
-longitude = -87.973717
 latitude = 43.658488
+longitude = -87.973717
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53001"
+

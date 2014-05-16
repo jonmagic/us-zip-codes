@@ -1,6 +1,8 @@
-zip_code = "18917"
-state = "PA"
 city = "Dublin"
 county = "Bucks"
-longitude = -75.204464
 latitude = 40.375008
+longitude = -75.204464
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18917"
+

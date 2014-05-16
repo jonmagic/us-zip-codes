@@ -1,6 +1,8 @@
-zip_code = "17721"
-state = "PA"
 city = "Avis"
 county = "Clinton"
-longitude = -77.316191
 latitude = 41.186028
+longitude = -77.316191
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17721"
+

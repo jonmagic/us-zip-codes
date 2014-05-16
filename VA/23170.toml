@@ -1,6 +1,8 @@
-zip_code = "23170"
-state = "VA"
 city = "Trevilians"
 county = "Louisa"
-longitude = -77.996956
 latitude = 37.940788
+longitude = -77.996956
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23170"
+

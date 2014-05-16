@@ -1,6 +1,8 @@
-zip_code = "77950"
-state = "TX"
 city = "Austwell"
 county = "Refugio"
-longitude = -97.152097
 latitude = 28.308115
+longitude = -97.152097
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77950"
+

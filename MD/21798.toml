@@ -1,6 +1,8 @@
-zip_code = "21798"
-state = "MD"
 city = "Woodsboro"
 county = "Frederick"
-longitude = -77.292314
 latitude = 39.542724
+longitude = -77.292314
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21798"
+

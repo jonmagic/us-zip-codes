@@ -1,6 +1,8 @@
-zip_code = "93670"
-state = "CA"
 city = "Yettem"
 county = "Tulare"
-longitude = -119.259352
 latitude = 36.471833
+longitude = -119.259352
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93670"
+

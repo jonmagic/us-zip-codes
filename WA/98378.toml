@@ -1,6 +1,8 @@
-zip_code = "98378"
-state = "WA"
 city = "Retsil"
 county = "Kitsap"
-longitude = -122.729304
 latitude = 47.687971
+longitude = -122.729304
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98378"
+

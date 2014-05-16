@@ -1,6 +1,8 @@
-zip_code = "08322"
-state = "NJ"
 city = "Franklinville"
 county = "Gloucester"
-longitude = -75.035749
 latitude = 39.59823
+longitude = -75.035749
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08322"
+

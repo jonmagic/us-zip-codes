@@ -1,6 +1,8 @@
-zip_code = "32042"
-state = "FL"
 city = "Graham"
 county = "Bradford"
-longitude = -82.122553
 latitude = 29.968926
+longitude = -82.122553
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32042"
+

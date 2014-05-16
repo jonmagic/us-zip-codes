@@ -1,6 +1,8 @@
-zip_code = "28904"
-state = "NC"
 city = "Hayesville"
 county = "Clay"
-longitude = -83.778309
 latitude = 35.071416
+longitude = -83.778309
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28904"
+

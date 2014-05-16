@@ -1,6 +1,8 @@
-zip_code = "27342"
-state = "NC"
 city = "Sedalia"
 county = "Guilford"
-longitude = -79.620641
 latitude = 36.075623
+longitude = -79.620641
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27342"
+

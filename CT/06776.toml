@@ -1,6 +1,8 @@
-zip_code = "06776"
-state = "CT"
 city = "New Milford"
 county = "Litchfield"
-longitude = -73.366017
 latitude = 41.658619
+longitude = -73.366017
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06776"
+

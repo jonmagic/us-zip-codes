@@ -1,6 +1,8 @@
-zip_code = "38565"
-state = "TN"
 city = "Grimsley"
 county = "Fentress"
-longitude = -85.00154
 latitude = 36.259849
+longitude = -85.00154
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38565"
+

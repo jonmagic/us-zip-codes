@@ -1,6 +1,8 @@
-zip_code = "49032"
-state = "MI"
 city = "Centreville"
 county = "Saint Joseph"
-longitude = -85.479907
 latitude = 41.904488
+longitude = -85.479907
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49032"
+

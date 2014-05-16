@@ -1,6 +1,8 @@
-zip_code = "27322"
-state = "NC"
 city = "Reidsville"
 county = "Rockingham"
-longitude = -79.773094
 latitude = 36.392135
+longitude = -79.773094
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27322"
+

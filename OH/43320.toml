@@ -1,6 +1,8 @@
-zip_code = "43320"
-state = "OH"
 city = "Edison"
 county = "Morrow"
-longitude = -82.890436
 latitude = 40.588234
+longitude = -82.890436
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43320"
+

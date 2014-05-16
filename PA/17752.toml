@@ -1,6 +1,8 @@
-zip_code = "17752"
-state = "PA"
 city = "Montgomery"
 county = "Lycoming"
-longitude = -76.856502
 latitude = 41.214561
+longitude = -76.856502
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17752"
+

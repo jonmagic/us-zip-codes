@@ -1,6 +1,8 @@
-zip_code = "99639"
-state = "AK"
 city = "Ninilchik"
 county = "Kenai Peninsula"
-longitude = -151.517286
 latitude = 60.04914
+longitude = -151.517286
+state = ""
+state_code_alpha2 = ""
+zip_code = "99639"
+

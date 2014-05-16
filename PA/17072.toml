@@ -1,6 +1,8 @@
-zip_code = "17072"
-state = "PA"
 city = "New Kingstown"
 county = "Cumberland"
-longitude = -77.079425
 latitude = 40.230601
+longitude = -77.079425
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17072"
+

@@ -1,6 +1,8 @@
-zip_code = "39330"
-state = "MS"
 city = "Enterprise"
 county = "Clarke"
-longitude = -88.819543
 latitude = 32.14342
+longitude = -88.819543
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39330"
+

@@ -1,6 +1,8 @@
-zip_code = "62422"
-state = "IL"
 city = "Cowden"
 county = "Shelby"
-longitude = -88.862961
 latitude = 39.250015
+longitude = -88.862961
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62422"
+

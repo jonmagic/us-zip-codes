@@ -1,6 +1,8 @@
-zip_code = "16929"
-state = "PA"
 city = "Lawrenceville"
 county = "Tioga"
-longitude = -77.181189
 latitude = 41.984078
+longitude = -77.181189
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16929"
+

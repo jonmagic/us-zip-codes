@@ -1,6 +1,8 @@
-zip_code = "46982"
-state = "IN"
 city = "Silver Lake"
 county = "Kosciusko"
-longitude = -85.856589
 latitude = 41.130963
+longitude = -85.856589
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46982"
+

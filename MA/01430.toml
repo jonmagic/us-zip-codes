@@ -1,6 +1,8 @@
-zip_code = "01430"
-state = "MA"
 city = "Ashburnham"
 county = "Worcester"
-longitude = -71.920942
 latitude = 42.654906
+longitude = -71.920942
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01430"
+

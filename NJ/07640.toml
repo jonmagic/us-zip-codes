@@ -1,6 +1,8 @@
-zip_code = "07640"
-state = "NJ"
 city = "Harrington Park"
 county = "Bergen"
-longitude = -73.98486
 latitude = 40.991696
+longitude = -73.98486
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07640"
+

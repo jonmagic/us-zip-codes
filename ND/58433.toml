@@ -1,6 +1,8 @@
-zip_code = "58433"
-state = "ND"
 city = "Edgeley"
 county = "Lamoure"
-longitude = -98.713086
 latitude = 46.41198
+longitude = -98.713086
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58433"
+

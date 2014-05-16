@@ -1,6 +1,8 @@
-zip_code = "04341"
-state = "ME"
 city = "Coopers Mills"
 county = "Lincoln"
-longitude = -69.551024
 latitude = 44.258771
+longitude = -69.551024
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04341"
+

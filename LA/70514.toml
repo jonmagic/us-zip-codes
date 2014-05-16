@@ -1,6 +1,8 @@
-zip_code = "70514"
-state = "LA"
 city = "Baldwin"
 county = "Saint Mary"
-longitude = -91.545263
 latitude = 29.846077
+longitude = -91.545263
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70514"
+

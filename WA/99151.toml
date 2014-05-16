@@ -1,6 +1,8 @@
-zip_code = "99151"
-state = "WA"
 city = "Marcus"
 county = "Stevens"
-longitude = -117.924021
 latitude = 48.786802
+longitude = -117.924021
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99151"
+

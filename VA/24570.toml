@@ -1,6 +1,8 @@
-zip_code = "24570"
-state = "VA"
 city = "Lowry"
 county = "Bedford"
-longitude = -79.406303
 latitude = 37.333936
+longitude = -79.406303
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24570"
+

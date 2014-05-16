@@ -1,6 +1,8 @@
-zip_code = "75685"
-state = "TX"
 city = "Panola"
 county = "Panola"
-longitude = -94.308713
 latitude = 32.183774
+longitude = -94.308713
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75685"
+

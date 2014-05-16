@@ -1,6 +1,8 @@
-zip_code = "54139"
-state = "WI"
 city = "Lena"
 county = "Oconto"
-longitude = -88.214802
 latitude = 45.063468
+longitude = -88.214802
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54139"
+

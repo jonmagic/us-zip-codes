@@ -1,6 +1,8 @@
-zip_code = "38880"
-state = "MS"
 city = "Wheeler"
 county = "Prentiss"
-longitude = -88.582231
 latitude = 34.612636
+longitude = -88.582231
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38880"
+

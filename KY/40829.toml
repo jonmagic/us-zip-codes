@@ -1,6 +1,8 @@
-zip_code = "40829"
-state = "KY"
 city = "Grays Knob"
 county = "Harlan"
-longitude = -83.264497
 latitude = 36.797447
+longitude = -83.264497
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40829"
+

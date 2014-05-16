@@ -1,6 +1,8 @@
-zip_code = "60949"
-state = "IL"
 city = "Ludlow"
 county = "Champaign"
-longitude = -88.152546
 latitude = 40.370897
+longitude = -88.152546
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60949"
+

@@ -1,6 +1,8 @@
-zip_code = "59761"
-state = "MT"
 city = "Wisdom"
 county = "Beaverhead"
-longitude = -113.473541
 latitude = 45.542434
+longitude = -113.473541
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59761"
+

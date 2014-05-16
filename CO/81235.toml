@@ -1,6 +1,8 @@
-zip_code = "81235"
-state = "CO"
 city = "Lake City"
 county = "Hinsdale"
-longitude = -107.276581
 latitude = 38.026256
+longitude = -107.276581
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81235"
+

@@ -1,6 +1,8 @@
-zip_code = "30622"
-state = "GA"
 city = "Bogart"
 county = "Oconee"
-longitude = -83.518452
 latitude = 33.901988
+longitude = -83.518452
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30622"
+

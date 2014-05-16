@@ -1,6 +1,8 @@
-zip_code = "68651"
-state = "NE"
 city = "Osceola"
 county = "Polk"
-longitude = -97.57
 latitude = 41.170633
+longitude = -97.57
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68651"
+

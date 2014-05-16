@@ -1,6 +1,8 @@
-zip_code = "93036"
-state = "CA"
 city = "Oxnard"
 county = "Ventura"
-longitude = -119.202365
 latitude = 34.221157
+longitude = -119.202365
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93036"
+

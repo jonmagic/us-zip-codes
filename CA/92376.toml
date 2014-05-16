@@ -1,6 +1,8 @@
-zip_code = "92376"
-state = "CA"
 city = "Rialto"
 county = "San Bernardino"
-longitude = -115.567483
 latitude = 34.202339
+longitude = -115.567483
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92376"
+

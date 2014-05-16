@@ -1,6 +1,8 @@
-zip_code = "65565"
-state = "MO"
 city = "Steelville"
 county = "Crawford"
-longitude = -91.303229
 latitude = 37.890403
+longitude = -91.303229
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65565"
+

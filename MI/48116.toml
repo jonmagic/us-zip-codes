@@ -1,6 +1,8 @@
-zip_code = "48116"
-state = "MI"
 city = "Brighton"
 county = "Livingston"
-longitude = -83.776055
 latitude = 42.529541
+longitude = -83.776055
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48116"
+

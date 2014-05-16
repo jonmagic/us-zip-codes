@@ -1,6 +1,8 @@
-zip_code = "01247"
-state = "MA"
 city = "North Adams"
 county = "Berkshire"
-longitude = -73.18632
 latitude = 42.426974
+longitude = -73.18632
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01247"
+

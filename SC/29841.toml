@@ -1,6 +1,8 @@
-zip_code = "29841"
-state = "SC"
 city = "North Augusta"
 county = "Aiken"
-longitude = -81.739059
 latitude = 33.466705
+longitude = -81.739059
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29841"
+

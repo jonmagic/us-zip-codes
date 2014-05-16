@@ -1,6 +1,8 @@
-zip_code = "72350"
-state = "AR"
 city = "Joiner"
 county = "Mississippi"
-longitude = -90.145752
 latitude = 35.501635
+longitude = -90.145752
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72350"
+

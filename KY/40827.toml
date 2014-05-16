@@ -1,6 +1,8 @@
-zip_code = "40827"
-state = "KY"
 city = "Essie"
 county = "Leslie"
-longitude = -83.456094
 latitude = 37.054676
+longitude = -83.456094
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40827"
+

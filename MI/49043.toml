@@ -1,6 +1,8 @@
-zip_code = "49043"
-state = "MI"
 city = "Covert"
 county = "Van Buren"
-longitude = -86.266608
 latitude = 42.28054
+longitude = -86.266608
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49043"
+

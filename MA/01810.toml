@@ -1,6 +1,8 @@
-zip_code = "01810"
-state = "MA"
 city = "Andover"
 county = "Essex"
-longitude = -71.165685
 latitude = 42.647991
+longitude = -71.165685
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01810"
+

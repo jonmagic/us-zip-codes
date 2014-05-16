@@ -1,6 +1,8 @@
-zip_code = "29101"
-state = "SC"
 city = "Mc Bee"
 county = "Chesterfield"
-longitude = -80.256814
 latitude = 34.470238
+longitude = -80.256814
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29101"
+

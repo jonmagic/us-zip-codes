@@ -1,6 +1,8 @@
-zip_code = "55992"
-state = "MN"
 city = "Zumbrota"
 county = "Goodhue"
-longitude = -92.693235
 latitude = 44.287597
+longitude = -92.693235
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55992"
+

@@ -1,6 +1,8 @@
-zip_code = "97416"
-state = "OR"
 city = "Camas Valley"
 county = "Douglas"
-longitude = -123.653799
 latitude = 43.040527
+longitude = -123.653799
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97416"
+

@@ -1,6 +1,8 @@
-zip_code = "68323"
-state = "NE"
 city = "Burchard"
 county = "Pawnee"
-longitude = -96.348151
 latitude = 40.146335
+longitude = -96.348151
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68323"
+

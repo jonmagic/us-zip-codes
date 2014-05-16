@@ -1,6 +1,8 @@
-zip_code = "22109"
-state = "VA"
 city = "Mc Lean"
 county = "Fairfax"
-longitude = -77.229043
 latitude = 38.920165
+longitude = -77.229043
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22109"
+

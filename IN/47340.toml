@@ -1,6 +1,8 @@
-zip_code = "47340"
-state = "IN"
 city = "Farmland"
 county = "Randolph"
-longitude = -85.14558
 latitude = 40.187565
+longitude = -85.14558
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47340"
+

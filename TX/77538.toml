@@ -1,6 +1,8 @@
-zip_code = "77538"
-state = "TX"
 city = "Devers"
 county = "Liberty"
-longitude = -94.723055
 latitude = 29.990724
+longitude = -94.723055
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77538"
+

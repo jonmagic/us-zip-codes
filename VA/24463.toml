@@ -1,6 +1,8 @@
-zip_code = "24463"
-state = "VA"
 city = "Mint Spring"
 county = "Augusta"
-longitude = -79.141332
 latitude = 38.179715
+longitude = -79.141332
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24463"
+

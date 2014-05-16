@@ -1,6 +1,8 @@
-zip_code = "65276"
-state = "MO"
 city = "Pilot Grove"
 county = "Cooper"
-longitude = -92.926931
 latitude = 38.849273
+longitude = -92.926931
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65276"
+

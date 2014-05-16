@@ -1,6 +1,8 @@
-zip_code = "56271"
-state = "MN"
 city = "Murdock"
 county = "Swift"
-longitude = -95.512817
 latitude = 45.281997
+longitude = -95.512817
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56271"
+

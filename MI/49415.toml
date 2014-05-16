@@ -1,6 +1,8 @@
-zip_code = "49415"
-state = "MI"
 city = "Fruitport"
 county = "Muskegon"
-longitude = -86.07655
 latitude = 43.275502
+longitude = -86.07655
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49415"
+

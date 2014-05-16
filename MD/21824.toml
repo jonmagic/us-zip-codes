@@ -1,6 +1,8 @@
-zip_code = "21824"
-state = "MD"
 city = "Ewell"
 county = "Somerset"
-longitude = -76.035623
 latitude = 37.983912
+longitude = -76.035623
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21824"
+

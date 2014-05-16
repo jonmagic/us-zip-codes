@@ -1,6 +1,8 @@
-zip_code = "42354"
-state = "KY"
 city = "Mc Henry"
 county = "Ohio"
-longitude = -86.924358
 latitude = 37.363601
+longitude = -86.924358
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42354"
+

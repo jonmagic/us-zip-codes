@@ -1,6 +1,8 @@
-zip_code = "44625"
-state = "OH"
 city = "East Rochester"
 county = "Columbiana"
-longitude = -80.981107
 latitude = 40.770542
+longitude = -80.981107
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44625"
+

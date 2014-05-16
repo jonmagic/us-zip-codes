@@ -1,6 +1,8 @@
-zip_code = "62869"
-state = "IL"
 city = "Norris City"
 county = "White"
-longitude = -88.211579
 latitude = 38.076688
+longitude = -88.211579
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62869"
+

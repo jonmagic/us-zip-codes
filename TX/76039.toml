@@ -1,6 +1,8 @@
-zip_code = "76039"
-state = "TX"
 city = "Euless"
 county = "Tarrant"
-longitude = -97.075688
 latitude = 32.859305
+longitude = -97.075688
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76039"
+

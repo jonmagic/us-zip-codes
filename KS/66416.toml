@@ -1,6 +1,8 @@
-zip_code = "66416"
-state = "KS"
 city = "Circleville"
 county = "Jackson"
-longitude = -95.848729
 latitude = 39.528134
+longitude = -95.848729
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66416"
+

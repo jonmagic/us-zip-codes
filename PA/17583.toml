@@ -1,6 +1,8 @@
-zip_code = "17583"
-state = "PA"
 city = "West Willow"
 county = "Lancaster"
-longitude = -76.28733
 latitude = 39.972349
+longitude = -76.28733
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17583"
+

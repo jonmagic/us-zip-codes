@@ -1,6 +1,8 @@
-zip_code = "66524"
-state = "KS"
 city = "Overbrook"
 county = "Osage"
-longitude = -95.574894
 latitude = 38.724549
+longitude = -95.574894
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66524"
+

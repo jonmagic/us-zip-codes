@@ -1,6 +1,8 @@
-zip_code = "54654"
-state = "WI"
 city = "Seneca"
 county = "Crawford"
-longitude = -90.940479
 latitude = 43.206361
+longitude = -90.940479
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54654"
+

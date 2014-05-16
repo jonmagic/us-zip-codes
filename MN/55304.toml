@@ -1,6 +1,8 @@
-zip_code = "55304"
-state = "MN"
 city = "Andover"
 county = "Anoka"
-longitude = -93.272428
 latitude = 45.237661
+longitude = -93.272428
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55304"
+

@@ -1,6 +1,8 @@
-zip_code = "19980"
-state = "DE"
 city = "Woodside"
 county = "Kent"
-longitude = -75.571073
 latitude = 39.07239
+longitude = -75.571073
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19980"
+

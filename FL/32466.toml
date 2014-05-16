@@ -1,6 +1,8 @@
-zip_code = "32466"
-state = "FL"
 city = "Youngstown"
 county = "Bay"
-longitude = -85.51506
 latitude = 30.383156
+longitude = -85.51506
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32466"
+

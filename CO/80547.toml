@@ -1,6 +1,8 @@
-zip_code = "80547"
-state = "CO"
 city = "Timnath"
 county = "Larimer"
-longitude = -105.017539
 latitude = 40.708692
+longitude = -105.017539
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80547"
+

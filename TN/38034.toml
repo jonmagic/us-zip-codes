@@ -1,6 +1,8 @@
-zip_code = "38034"
-state = "TN"
 city = "Friendship"
 county = "Crockett"
-longitude = -89.207168
 latitude = 35.843638
+longitude = -89.207168
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38034"
+

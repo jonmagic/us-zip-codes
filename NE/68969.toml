@@ -1,6 +1,8 @@
-zip_code = "68969"
-state = "NE"
 city = "Ragan"
 county = "Harlan"
-longitude = -99.404864
 latitude = 40.176513
+longitude = -99.404864
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68969"
+

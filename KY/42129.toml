@@ -1,6 +1,8 @@
-zip_code = "42129"
-state = "KY"
 city = "Edmonton"
 county = "Metcalfe"
-longitude = -85.609522
 latitude = 37.000783
+longitude = -85.609522
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42129"
+

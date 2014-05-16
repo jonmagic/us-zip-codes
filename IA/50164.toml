@@ -1,6 +1,8 @@
-zip_code = "50164"
-state = "IA"
 city = "Menlo"
 county = "Guthrie"
-longitude = -94.395245
 latitude = 41.553004
+longitude = -94.395245
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50164"
+

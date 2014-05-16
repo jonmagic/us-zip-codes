@@ -1,6 +1,8 @@
-zip_code = "63646"
-state = "MO"
 city = "Glover"
 county = "Iron"
-longitude = -90.845047
 latitude = 37.505462
+longitude = -90.845047
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63646"
+

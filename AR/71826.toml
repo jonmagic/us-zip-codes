@@ -1,6 +1,8 @@
-zip_code = "71826"
-state = "AR"
 city = "Bradley"
 county = "Lafayette"
-longitude = -93.556966
 latitude = 33.202695
+longitude = -93.556966
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71826"
+

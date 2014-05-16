@@ -1,6 +1,8 @@
-zip_code = "77531"
-state = "TX"
 city = "Clute"
 county = "Brazoria"
-longitude = -95.3908
 latitude = 29.031236
+longitude = -95.3908
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77531"
+

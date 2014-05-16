@@ -1,6 +1,8 @@
-zip_code = "78630"
-state = "TX"
 city = "Cedar Park"
 county = "Williamson"
-longitude = -97.602552
 latitude = 30.656817
+longitude = -97.602552
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78630"
+

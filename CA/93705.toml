@@ -1,6 +1,8 @@
-zip_code = "93705"
-state = "CA"
 city = "Fresno"
 county = "Fresno"
-longitude = -119.847234
 latitude = 36.795503
+longitude = -119.847234
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93705"
+

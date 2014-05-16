@@ -1,6 +1,8 @@
-zip_code = "36037"
-state = "AL"
 city = "Greenville"
 county = "Butler"
-longitude = -86.596233
 latitude = 31.796729
+longitude = -86.596233
+state = ""
+state_code_alpha2 = ""
+zip_code = "36037"
+

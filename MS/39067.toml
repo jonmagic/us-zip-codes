@@ -1,6 +1,8 @@
-zip_code = "39067"
-state = "MS"
 city = "Ethel"
 county = "Attala"
-longitude = -89.541348
 latitude = 33.08167
+longitude = -89.541348
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39067"
+

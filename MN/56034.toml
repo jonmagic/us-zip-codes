@@ -1,6 +1,8 @@
-zip_code = "56034"
-state = "MN"
 city = "Garden City"
 county = "Blue Earth"
-longitude = -94.165036
 latitude = 44.052118
+longitude = -94.165036
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56034"
+

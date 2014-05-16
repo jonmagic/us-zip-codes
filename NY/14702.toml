@@ -1,6 +1,8 @@
-zip_code = "14702"
-state = "NY"
 city = "Jamestown"
 county = "Chautauqua"
-longitude = -79.294921
 latitude = 42.081657
+longitude = -79.294921
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14702"
+

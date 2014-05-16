@@ -1,6 +1,8 @@
-zip_code = "99131"
-state = "WA"
 city = "Gifford"
 county = "Stevens"
-longitude = -118.113552
 latitude = 48.268511
+longitude = -118.113552
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99131"
+

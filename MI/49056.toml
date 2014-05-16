@@ -1,6 +1,8 @@
-zip_code = "49056"
-state = "MI"
 city = "Grand Junction"
 county = "Van Buren"
-longitude = -86.07133
 latitude = 42.367516
+longitude = -86.07133
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49056"
+

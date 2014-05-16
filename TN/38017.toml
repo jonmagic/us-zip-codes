@@ -1,6 +1,8 @@
-zip_code = "38017"
-state = "TN"
 city = "Collierville"
 county = "Shelby"
-longitude = -89.699083
 latitude = 35.080992
+longitude = -89.699083
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38017"
+

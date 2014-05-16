@@ -1,6 +1,8 @@
-zip_code = "16680"
-state = "PA"
 city = "Smithmill"
 county = "Clearfield"
-longitude = -78.450043
 latitude = 40.760116
+longitude = -78.450043
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16680"
+

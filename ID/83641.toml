@@ -1,6 +1,8 @@
-zip_code = "83641"
-state = "ID"
 city = "Melba"
 county = "Canyon"
-longitude = -116.583102
 latitude = 43.389331
+longitude = -116.583102
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83641"
+

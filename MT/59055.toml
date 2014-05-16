@@ -1,6 +1,8 @@
-zip_code = "59055"
-state = "MT"
 city = "Melville"
 county = "Sweet Grass"
-longitude = -109.855062
 latitude = 45.696301
+longitude = -109.855062
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59055"
+

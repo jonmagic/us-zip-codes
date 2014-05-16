@@ -1,6 +1,8 @@
-zip_code = "96122"
-state = "CA"
 city = "Portola"
 county = "Plumas"
-longitude = -120.542224
 latitude = 39.800456
+longitude = -120.542224
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96122"
+

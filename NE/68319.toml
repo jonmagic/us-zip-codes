@@ -1,6 +1,8 @@
-zip_code = "68319"
-state = "NE"
 city = "Bradshaw"
 county = "York"
-longitude = -97.750193
 latitude = 40.930567
+longitude = -97.750193
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68319"
+

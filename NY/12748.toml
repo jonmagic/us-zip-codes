@@ -1,6 +1,8 @@
-zip_code = "12748"
-state = "NY"
 city = "Jeffersonville"
 county = "Sullivan"
-longitude = -74.905417
 latitude = 41.782874
+longitude = -74.905417
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12748"
+

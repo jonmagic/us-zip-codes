@@ -1,6 +1,8 @@
-zip_code = "19025"
-state = "PA"
 city = "Dresher"
 county = "Montgomery"
-longitude = -75.409776
 latitude = 40.162403
+longitude = -75.409776
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19025"
+

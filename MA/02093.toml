@@ -1,6 +1,8 @@
-zip_code = "02093"
-state = "MA"
 city = "Wrentham"
 county = "Norfolk"
-longitude = -71.371169
 latitude = 42.054311
+longitude = -71.371169
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02093"
+

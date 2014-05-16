@@ -1,6 +1,8 @@
-zip_code = "15736"
-state = "PA"
 city = "Elderton"
 county = "Armstrong"
-longitude = -79.34218
 latitude = 40.692153
+longitude = -79.34218
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15736"
+

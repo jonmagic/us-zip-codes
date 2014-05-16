@@ -1,6 +1,8 @@
-zip_code = "72020"
-state = "AR"
 city = "Bradford"
 county = "White"
-longitude = -91.525309
 latitude = 35.380014
+longitude = -91.525309
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72020"
+

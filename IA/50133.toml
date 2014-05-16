@@ -1,6 +1,8 @@
-zip_code = "50133"
-state = "IA"
 city = "Kellerton"
 county = "Ringgold"
-longitude = -94.049307
 latitude = 40.709922
+longitude = -94.049307
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50133"
+

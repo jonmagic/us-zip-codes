@@ -1,6 +1,8 @@
-zip_code = "61883"
-state = "IL"
 city = "Westville"
 county = "Vermilion"
-longitude = -87.744819
 latitude = 40.103625
+longitude = -87.744819
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61883"
+

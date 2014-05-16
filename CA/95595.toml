@@ -1,6 +1,8 @@
-zip_code = "95595"
-state = "CA"
 city = "Zenia"
 county = "Trinity"
-longitude = -123.034604
 latitude = 40.672576
+longitude = -123.034604
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95595"
+

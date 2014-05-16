@@ -1,6 +1,8 @@
-zip_code = "41561"
-state = "KY"
 city = "Rockhouse"
 county = "Pike"
-longitude = -82.462574
 latitude = 37.33162
+longitude = -82.462574
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41561"
+

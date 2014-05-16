@@ -1,6 +1,8 @@
-zip_code = "07978"
-state = "NJ"
 city = "Pluckemin"
 county = "Somerset"
-longitude = -74.639597
 latitude = 40.642491
+longitude = -74.639597
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07978"
+

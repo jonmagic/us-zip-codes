@@ -1,6 +1,8 @@
-zip_code = "76673"
-state = "TX"
 city = "Mount Calm"
 county = "Hill"
-longitude = -96.882676
 latitude = 31.755973
+longitude = -96.882676
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76673"
+

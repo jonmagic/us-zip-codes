@@ -1,6 +1,8 @@
-zip_code = "53512"
-state = "WI"
 city = "Beloit"
 county = "Rock"
-longitude = -89.072779
 latitude = 42.669779
+longitude = -89.072779
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53512"
+

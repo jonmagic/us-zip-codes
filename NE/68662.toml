@@ -1,6 +1,8 @@
-zip_code = "68662"
-state = "NE"
 city = "Shelby"
 county = "Polk"
-longitude = -97.519253
 latitude = 41.154703
+longitude = -97.519253
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68662"
+

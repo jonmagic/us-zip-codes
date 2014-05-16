@@ -1,6 +1,8 @@
-zip_code = "55955"
-state = "MN"
 city = "Mantorville"
 county = "Dodge"
-longitude = -92.760046
 latitude = 44.065741
+longitude = -92.760046
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55955"
+

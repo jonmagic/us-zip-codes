@@ -1,6 +1,8 @@
-zip_code = "63019"
-state = "MO"
 city = "Crystal City"
 county = "Jefferson"
-longitude = -90.384036
 latitude = 38.225684
+longitude = -90.384036
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63019"
+

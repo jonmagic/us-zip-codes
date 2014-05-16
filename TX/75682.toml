@@ -1,6 +1,8 @@
-zip_code = "75682"
-state = "TX"
 city = "New London"
 county = "Rusk"
-longitude = -94.932215
 latitude = 32.25416
+longitude = -94.932215
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75682"
+

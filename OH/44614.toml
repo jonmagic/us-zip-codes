@@ -1,6 +1,8 @@
-zip_code = "44614"
-state = "OH"
 city = "Canal Fulton"
 county = "Stark"
-longitude = -81.488163
 latitude = 40.808555
+longitude = -81.488163
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44614"
+

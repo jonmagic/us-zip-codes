@@ -1,6 +1,8 @@
-zip_code = "53510"
-state = "WI"
 city = "Belmont"
 county = "Lafayette"
-longitude = -90.263828
 latitude = 42.685375
+longitude = -90.263828
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53510"
+

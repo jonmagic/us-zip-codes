@@ -1,6 +1,8 @@
-zip_code = "94513"
-state = "CA"
 city = "Brentwood"
 county = "Contra Costa"
-longitude = -121.843071
 latitude = 37.912274
+longitude = -121.843071
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94513"
+

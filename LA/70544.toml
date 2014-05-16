@@ -1,6 +1,8 @@
-zip_code = "70544"
-state = "LA"
 city = "Jeanerette"
 county = "Iberia"
-longitude = -91.724248
 latitude = 29.936497
+longitude = -91.724248
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70544"
+

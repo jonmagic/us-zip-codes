@@ -1,6 +1,8 @@
-zip_code = "73722"
-state = "OK"
 city = "Burlington"
 county = "Alfalfa"
-longitude = -98.324548
 latitude = 36.730959
+longitude = -98.324548
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73722"
+

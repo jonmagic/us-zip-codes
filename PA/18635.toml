@@ -1,6 +1,8 @@
-zip_code = "18635"
-state = "PA"
 city = "Nescopeck"
 county = "Luzerne"
-longitude = -76.189182
 latitude = 41.049051
+longitude = -76.189182
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18635"
+

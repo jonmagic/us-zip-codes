@@ -1,6 +1,8 @@
-zip_code = "76939"
-state = "TX"
 city = "Knickerbocker"
 county = "Tom Green"
-longitude = -100.592015
 latitude = 31.250101
+longitude = -100.592015
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76939"
+

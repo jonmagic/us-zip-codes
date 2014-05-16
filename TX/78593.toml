@@ -1,6 +1,8 @@
-zip_code = "78593"
-state = "TX"
 city = "Santa Rosa"
 county = "Cameron"
-longitude = -97.803023
 latitude = 26.229551
+longitude = -97.803023
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78593"
+

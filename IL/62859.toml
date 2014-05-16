@@ -1,6 +1,8 @@
-zip_code = "62859"
-state = "IL"
 city = "Mc Leansboro"
 county = "Hamilton"
-longitude = -88.53653
 latitude = 38.08963
+longitude = -88.53653
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62859"
+

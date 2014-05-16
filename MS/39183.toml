@@ -1,6 +1,8 @@
-zip_code = "39183"
-state = "MS"
 city = "Vicksburg"
 county = "Warren"
-longitude = -90.840021
 latitude = 32.386006
+longitude = -90.840021
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39183"
+

@@ -1,6 +1,8 @@
-zip_code = "67460"
-state = "KS"
 city = "Mcpherson"
 county = "Mcpherson"
-longitude = -97.670184
 latitude = 38.376302
+longitude = -97.670184
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67460"
+

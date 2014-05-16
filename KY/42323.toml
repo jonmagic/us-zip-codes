@@ -1,6 +1,8 @@
-zip_code = "42323"
-state = "KY"
 city = "Beechmont"
 county = "Muhlenberg"
-longitude = -87.076198
 latitude = 37.233477
+longitude = -87.076198
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42323"
+

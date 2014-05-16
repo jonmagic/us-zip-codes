@@ -1,6 +1,8 @@
-zip_code = "56334"
-state = "MN"
 city = "Glenwood"
 county = "Pope"
-longitude = -95.357347
 latitude = 45.589131
+longitude = -95.357347
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56334"
+

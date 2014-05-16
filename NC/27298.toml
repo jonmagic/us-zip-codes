@@ -1,6 +1,8 @@
-zip_code = "27298"
-state = "NC"
 city = "Liberty"
 county = "Randolph"
-longitude = -79.674436
 latitude = 35.838293
+longitude = -79.674436
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27298"
+

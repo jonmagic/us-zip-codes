@@ -1,6 +1,8 @@
-zip_code = "54667"
-state = "WI"
 city = "Westby"
 county = "Vernon"
-longitude = -90.841723
 latitude = 43.653701
+longitude = -90.841723
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54667"
+

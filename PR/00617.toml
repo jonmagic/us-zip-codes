@@ -1,6 +1,8 @@
-zip_code = "00617"
-state = "PR"
 city = "Barceloneta"
 county = "Barceloneta"
-longitude = -66.544255
 latitude = 18.447092
+longitude = -66.544255
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00617"
+

@@ -1,6 +1,8 @@
-zip_code = "67478"
-state = "KS"
 city = "Simpson"
 county = "Mitchell"
-longitude = -97.932764
 latitude = 39.385112
+longitude = -97.932764
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67478"
+

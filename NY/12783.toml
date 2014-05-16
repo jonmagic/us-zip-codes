@@ -1,6 +1,8 @@
-zip_code = "12783"
-state = "NY"
 city = "Swan Lake"
 county = "Sullivan"
-longitude = -74.840778
 latitude = 41.657319
+longitude = -74.840778
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12783"
+

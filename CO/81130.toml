@@ -1,6 +1,8 @@
-zip_code = "81130"
-state = "CO"
 city = "Creede"
 county = "Mineral"
-longitude = -106.981852
 latitude = 37.761293
+longitude = -106.981852
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81130"
+

@@ -1,6 +1,8 @@
-zip_code = "40070"
-state = "KY"
 city = "Sulphur"
 county = "Henry"
-longitude = -85.248914
 latitude = 38.476096
+longitude = -85.248914
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40070"
+

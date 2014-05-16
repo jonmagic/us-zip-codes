@@ -1,6 +1,8 @@
-zip_code = "64034"
-state = "MO"
 city = "Greenwood"
 county = "Jackson"
-longitude = -94.281453
 latitude = 38.86436
+longitude = -94.281453
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64034"
+

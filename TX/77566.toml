@@ -1,6 +1,8 @@
-zip_code = "77566"
-state = "TX"
 city = "Lake Jackson"
 county = "Brazoria"
-longitude = -95.425232
 latitude = 29.09609
+longitude = -95.425232
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77566"
+

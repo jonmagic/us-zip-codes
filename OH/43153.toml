@@ -1,6 +1,8 @@
-zip_code = "43153"
-state = "OH"
 city = "South Solon"
 county = "Madison"
-longitude = -83.531355
 latitude = 39.748496
+longitude = -83.531355
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43153"
+

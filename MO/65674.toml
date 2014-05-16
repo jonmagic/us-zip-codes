@@ -1,6 +1,8 @@
-zip_code = "65674"
-state = "MO"
 city = "Humansville"
 county = "Polk"
-longitude = -93.554646
 latitude = 37.729288
+longitude = -93.554646
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65674"
+

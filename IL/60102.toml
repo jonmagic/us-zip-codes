@@ -1,6 +1,8 @@
-zip_code = "60102"
-state = "IL"
 city = "Algonquin"
 county = "Mchenry"
-longitude = -88.461937
 latitude = 42.280715
+longitude = -88.461937
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60102"
+

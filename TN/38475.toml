@@ -1,6 +1,8 @@
-zip_code = "38475"
-state = "TN"
 city = "Olivehill"
 county = "Hardin"
-longitude = -88.053366
 latitude = 35.264369
+longitude = -88.053366
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38475"
+

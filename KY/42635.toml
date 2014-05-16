@@ -1,6 +1,8 @@
-zip_code = "42635"
-state = "KY"
 city = "Pine Knot"
 county = "Mccreary"
-longitude = -84.502512
 latitude = 36.777331
+longitude = -84.502512
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42635"
+

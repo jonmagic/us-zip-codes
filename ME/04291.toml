@@ -1,6 +1,8 @@
-zip_code = "04291"
-state = "ME"
 city = "West Poland"
 county = "Androscoggin"
-longitude = -70.453006
 latitude = 44.040857
+longitude = -70.453006
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04291"
+

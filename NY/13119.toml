@@ -1,6 +1,8 @@
-zip_code = "13119"
-state = "NY"
 city = "Mottville"
 county = "Onondaga"
-longitude = -76.440833
 latitude = 42.97446
+longitude = -76.440833
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13119"
+

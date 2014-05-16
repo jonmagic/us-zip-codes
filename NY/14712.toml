@@ -1,6 +1,8 @@
-zip_code = "14712"
-state = "NY"
 city = "Bemus Point"
 county = "Chautauqua"
-longitude = -79.445292
 latitude = 42.164572
+longitude = -79.445292
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14712"
+

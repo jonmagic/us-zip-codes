@@ -1,6 +1,8 @@
-zip_code = "37777"
-state = "TN"
 city = "Louisville"
 county = "Blount"
-longitude = -84.04546
 latitude = 35.827859
+longitude = -84.04546
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37777"
+

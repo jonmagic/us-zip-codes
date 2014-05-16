@@ -1,6 +1,8 @@
-zip_code = "26330"
-state = "WV"
 city = "Bridgeport"
 county = "Harrison"
-longitude = -80.282306
 latitude = 39.309303
+longitude = -80.282306
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26330"
+

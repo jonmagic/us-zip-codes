@@ -1,6 +1,8 @@
-zip_code = "53553"
-state = "WI"
 city = "Linden"
 county = "Iowa"
-longitude = -90.320561
 latitude = 42.963106
+longitude = -90.320561
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53553"
+

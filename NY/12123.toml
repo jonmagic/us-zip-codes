@@ -1,6 +1,8 @@
-zip_code = "12123"
-state = "NY"
 city = "Nassau"
 county = "Rensselaer"
-longitude = -73.629023
 latitude = 42.565736
+longitude = -73.629023
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12123"
+

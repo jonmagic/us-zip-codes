@@ -1,6 +1,8 @@
-zip_code = "32079"
-state = "FL"
 city = "Penney Farms"
 county = "Clay"
-longitude = -81.802221
 latitude = 29.984882
+longitude = -81.802221
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32079"
+

@@ -1,6 +1,8 @@
-zip_code = "48756"
-state = "MI"
 city = "Prescott"
 county = "Ogemaw"
-longitude = -83.985725
 latitude = 44.291742
+longitude = -83.985725
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48756"
+

@@ -1,6 +1,8 @@
-zip_code = "54456"
-state = "WI"
 city = "Neillsville"
 county = "Clark"
-longitude = -90.669407
 latitude = 44.688149
+longitude = -90.669407
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54456"
+

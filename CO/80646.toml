@@ -1,6 +1,8 @@
-zip_code = "80646"
-state = "CO"
 city = "Lucerne"
 county = "Weld"
-longitude = -104.70542
 latitude = 40.48243
+longitude = -104.70542
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80646"
+

@@ -1,6 +1,8 @@
-zip_code = "82721"
-state = "WY"
 city = "Moorcroft"
 county = "Crook"
-longitude = -104.838916
 latitude = 44.415431
+longitude = -104.838916
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82721"
+

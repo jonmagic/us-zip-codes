@@ -1,6 +1,8 @@
-zip_code = "36750"
-state = "AL"
 city = "Maplesville"
 county = "Chilton"
-longitude = -86.843808
 latitude = 32.83217
+longitude = -86.843808
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36750"
+

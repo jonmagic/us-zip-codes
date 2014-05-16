@@ -1,6 +1,8 @@
-zip_code = "20724"
-state = "MD"
 city = "Laurel"
 county = "Anne Arundel"
-longitude = -76.804443
 latitude = 39.098008
+longitude = -76.804443
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20724"
+

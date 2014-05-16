@@ -1,6 +1,8 @@
-zip_code = "30216"
-state = "GA"
 city = "Flovilla"
 county = "Butts"
-longitude = -83.898277
 latitude = 33.237156
+longitude = -83.898277
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30216"
+

@@ -1,6 +1,8 @@
-zip_code = "84781"
-state = "UT"
 city = "Pine Valley"
 county = "Washington"
-longitude = -113.384806
 latitude = 37.37104
+longitude = -113.384806
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84781"
+

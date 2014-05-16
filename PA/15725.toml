@@ -1,6 +1,8 @@
-zip_code = "15725"
-state = "PA"
 city = "Clarksburg"
 county = "Indiana"
-longitude = -79.132551
 latitude = 40.632813
+longitude = -79.132551
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15725"
+

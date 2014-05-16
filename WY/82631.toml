@@ -1,6 +1,8 @@
-zip_code = "82631"
-state = "WY"
 city = "Bill"
 county = "Converse"
-longitude = -105.485243
 latitude = 42.894249
+longitude = -105.485243
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82631"
+

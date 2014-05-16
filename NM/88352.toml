@@ -1,6 +1,8 @@
-zip_code = "88352"
-state = "NM"
 city = "Tularosa"
 county = "Otero"
-longitude = -105.960356
 latitude = 33.172467
+longitude = -105.960356
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88352"
+

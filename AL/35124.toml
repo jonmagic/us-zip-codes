@@ -1,6 +1,8 @@
-zip_code = "35124"
-state = "AL"
 city = "Pelham"
 county = "Shelby"
-longitude = -86.767961
 latitude = 33.293157
+longitude = -86.767961
+state = ""
+state_code_alpha2 = ""
+zip_code = "35124"
+

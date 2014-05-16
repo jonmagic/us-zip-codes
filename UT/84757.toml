@@ -1,6 +1,8 @@
-zip_code = "84757"
-state = "UT"
 city = "New Harmony"
 county = "Washington"
-longitude = -113.268012
 latitude = 37.455047
+longitude = -113.268012
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84757"
+

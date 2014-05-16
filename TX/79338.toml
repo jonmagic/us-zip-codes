@@ -1,6 +1,8 @@
-zip_code = "79338"
-state = "TX"
 city = "Levelland"
 county = "Hockley"
-longitude = -102.362709
 latitude = 33.593213
+longitude = -102.362709
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79338"
+

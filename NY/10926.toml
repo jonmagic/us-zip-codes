@@ -1,6 +1,8 @@
-zip_code = "10926"
-state = "NY"
 city = "Harriman"
 county = "Orange"
-longitude = -74.124934
 latitude = 41.300486
+longitude = -74.124934
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10926"
+

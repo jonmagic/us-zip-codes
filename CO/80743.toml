@@ -1,6 +1,8 @@
-zip_code = "80743"
-state = "CO"
 city = "Otis"
 county = "Washington"
-longitude = -103.042516
 latitude = 40.163025
+longitude = -103.042516
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80743"
+

@@ -1,6 +1,8 @@
-zip_code = "02672"
-state = "MA"
 city = "West Hyannisport"
 county = "Barnstable"
-longitude = -70.323307
 latitude = 41.635635
+longitude = -70.323307
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02672"
+

@@ -1,6 +1,8 @@
-zip_code = "26142"
-state = "WV"
 city = "Davisville"
 county = "Wood"
-longitude = -81.48079
 latitude = 39.216011
+longitude = -81.48079
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26142"
+

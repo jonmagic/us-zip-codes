@@ -1,6 +1,8 @@
-zip_code = "67831"
-state = "KS"
 city = "Ashland"
 county = "Clark"
-longitude = -99.769576
 latitude = 37.171946
+longitude = -99.769576
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67831"
+

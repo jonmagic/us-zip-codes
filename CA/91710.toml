@@ -1,6 +1,8 @@
-zip_code = "91710"
-state = "CA"
 city = "Chino"
 county = "San Bernardino"
-longitude = -114.30117
 latitude = 34.159844
+longitude = -114.30117
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91710"
+

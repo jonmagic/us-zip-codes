@@ -1,6 +1,8 @@
-zip_code = "58650"
-state = "ND"
 city = "Regent"
 county = "Hettinger"
-longitude = -102.56228
 latitude = 46.418659
+longitude = -102.56228
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58650"
+

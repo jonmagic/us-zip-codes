@@ -1,6 +1,8 @@
-zip_code = "15320"
-state = "PA"
 city = "Carmichaels"
 county = "Greene"
-longitude = -79.98532
 latitude = 39.918913
+longitude = -79.98532
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15320"
+

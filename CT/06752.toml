@@ -1,6 +1,8 @@
-zip_code = "06752"
-state = "CT"
 city = "Bridgewater"
 county = "Litchfield"
-longitude = -73.363875
 latitude = 41.520312
+longitude = -73.363875
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06752"
+

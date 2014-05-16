@@ -1,6 +1,8 @@
-zip_code = "78363"
-state = "TX"
 city = "Kingsville"
 county = "Kleberg"
-longitude = -97.84068
 latitude = 27.422876
+longitude = -97.84068
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78363"
+

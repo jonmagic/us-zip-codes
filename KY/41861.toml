@@ -1,6 +1,8 @@
-zip_code = "41861"
-state = "KY"
 city = "Raven"
 county = "Knott"
-longitude = -82.836144
 latitude = 37.387621
+longitude = -82.836144
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41861"
+

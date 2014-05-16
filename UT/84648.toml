@@ -1,6 +1,8 @@
-zip_code = "84648"
-state = "UT"
 city = "Nephi"
 county = "Juab"
-longitude = -111.841787
 latitude = 39.757861
+longitude = -111.841787
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84648"
+

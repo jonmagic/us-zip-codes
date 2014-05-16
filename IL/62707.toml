@@ -1,6 +1,8 @@
-zip_code = "62707"
-state = "IL"
 city = "Springfield"
 county = "Sangamon"
-longitude = -89.632205
 latitude = 39.785116
+longitude = -89.632205
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62707"
+

@@ -1,6 +1,8 @@
-zip_code = "26629"
-state = "WV"
 city = "Little Birch"
 county = "Braxton"
-longitude = -80.693054
 latitude = 38.580977
+longitude = -80.693054
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26629"
+

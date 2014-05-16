@@ -1,6 +1,8 @@
-zip_code = "55374"
-state = "MN"
 city = "Rogers"
 county = "Hennepin"
-longitude = -93.574586
 latitude = 45.168896
+longitude = -93.574586
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55374"
+

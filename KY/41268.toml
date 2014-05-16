@@ -1,6 +1,8 @@
-zip_code = "41268"
-state = "KY"
 city = "West Van Lear"
 county = "Johnson"
-longitude = -82.791012
 latitude = 37.797057
+longitude = -82.791012
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41268"
+

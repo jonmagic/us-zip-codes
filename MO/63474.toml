@@ -1,6 +1,8 @@
-zip_code = "63474"
-state = "MO"
 city = "Wyaconda"
 county = "Clark"
-longitude = -91.925945
 latitude = 40.392193
+longitude = -91.925945
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63474"
+

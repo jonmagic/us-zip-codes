@@ -1,6 +1,8 @@
-zip_code = "31765"
-state = "GA"
 city = "Meigs"
 county = "Thomas"
-longitude = -84.061389
 latitude = 31.021859
+longitude = -84.061389
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31765"
+

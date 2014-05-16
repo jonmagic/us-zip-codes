@@ -1,6 +1,8 @@
-zip_code = "62560"
-state = "IL"
 city = "Raymond"
 county = "Montgomery"
-longitude = -89.580236
 latitude = 39.311814
+longitude = -89.580236
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62560"
+

@@ -1,6 +1,8 @@
-zip_code = "83287"
-state = "ID"
 city = "Fish Haven"
 county = "Bear Lake"
-longitude = -111.441977
 latitude = 42.039684
+longitude = -111.441977
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83287"
+

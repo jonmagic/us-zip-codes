@@ -1,6 +1,8 @@
-zip_code = "60532"
-state = "IL"
 city = "Lisle"
 county = "Du Page"
-longitude = -88.037714
 latitude = 41.79818
+longitude = -88.037714
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60532"
+

@@ -1,6 +1,8 @@
-zip_code = "32130"
-state = "FL"
 city = "De Leon Springs"
 county = "Volusia"
-longitude = -81.329387
 latitude = 29.183646
+longitude = -81.329387
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32130"
+

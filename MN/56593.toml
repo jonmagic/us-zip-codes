@@ -1,6 +1,8 @@
-zip_code = "56593"
-state = "MN"
 city = "Wolf Lake"
 county = "Becker"
-longitude = -95.391968
 latitude = 46.821648
+longitude = -95.391968
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56593"
+

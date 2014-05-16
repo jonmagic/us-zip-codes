@@ -1,6 +1,8 @@
-zip_code = "56755"
-state = "MN"
 city = "Saint Vincent"
 county = "Kittson"
-longitude = -97.092442
 latitude = 48.871994
+longitude = -97.092442
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56755"
+

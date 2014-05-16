@@ -1,6 +1,8 @@
-zip_code = "46038"
-state = "IN"
 city = "Fishers"
 county = "Hamilton"
-longitude = -85.964894
 latitude = 39.967406
+longitude = -85.964894
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46038"
+

@@ -1,6 +1,8 @@
-zip_code = "72532"
-state = "AR"
 city = "Evening Shade"
 county = "Sharp"
-longitude = -91.607603
 latitude = 36.061757
+longitude = -91.607603
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72532"
+

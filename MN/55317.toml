@@ -1,6 +1,8 @@
-zip_code = "55317"
-state = "MN"
 city = "Chanhassen"
 county = "Carver"
-longitude = -93.572584
 latitude = 44.853364
+longitude = -93.572584
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55317"
+

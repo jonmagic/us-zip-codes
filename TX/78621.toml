@@ -1,6 +1,8 @@
-zip_code = "78621"
-state = "TX"
 city = "Elgin"
 county = "Bastrop"
-longitude = -97.36044
 latitude = 30.308019
+longitude = -97.36044
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78621"
+

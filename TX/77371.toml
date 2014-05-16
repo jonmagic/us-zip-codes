@@ -1,6 +1,8 @@
-zip_code = "77371"
-state = "TX"
 city = "Shepherd"
 county = "San Jacinto"
-longitude = -95.085922
 latitude = 30.632802
+longitude = -95.085922
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77371"
+

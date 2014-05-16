@@ -1,6 +1,8 @@
-zip_code = "44836"
-state = "OH"
 city = "Green Springs"
 county = "Seneca"
-longitude = -83.042327
 latitude = 41.186418
+longitude = -83.042327
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44836"
+

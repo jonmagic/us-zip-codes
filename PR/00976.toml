@@ -1,6 +1,8 @@
-zip_code = "00976"
-state = "PR"
 city = "Trujillo Alto"
 county = "Trujillo Alto"
-longitude = -65.989229
 latitude = 18.338133
+longitude = -65.989229
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00976"
+

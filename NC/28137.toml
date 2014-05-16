@@ -1,6 +1,8 @@
-zip_code = "28137"
-state = "NC"
 city = "Richfield"
 county = "Stanly"
-longitude = -80.283764
 latitude = 35.454142
+longitude = -80.283764
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28137"
+

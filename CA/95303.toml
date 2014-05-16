@@ -1,6 +1,8 @@
-zip_code = "95303"
-state = "CA"
 city = "Ballico"
 county = "Merced"
-longitude = -120.624564
 latitude = 37.470114
+longitude = -120.624564
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95303"
+

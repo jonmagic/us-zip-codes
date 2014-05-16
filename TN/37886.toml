@@ -1,6 +1,8 @@
-zip_code = "37886"
-state = "TN"
 city = "Walland"
 county = "Blount"
-longitude = -83.804833
 latitude = 35.754464
+longitude = -83.804833
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37886"
+

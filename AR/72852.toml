@@ -1,6 +1,8 @@
-zip_code = "72852"
-state = "AR"
 city = "Oark"
 county = "Johnson"
-longitude = -93.437264
 latitude = 35.547714
+longitude = -93.437264
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72852"
+

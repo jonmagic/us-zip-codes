@@ -1,6 +1,8 @@
-zip_code = "23039"
-state = "VA"
 city = "Crozier"
 county = "Goochland"
-longitude = -77.794731
 latitude = 37.657031
+longitude = -77.794731
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23039"
+

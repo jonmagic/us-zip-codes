@@ -1,6 +1,8 @@
-zip_code = "04922"
-state = "ME"
 city = "Burnham"
 county = "Waldo"
-longitude = -69.378829
 latitude = 44.677388
+longitude = -69.378829
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04922"
+

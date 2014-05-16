@@ -1,6 +1,8 @@
-zip_code = "08012"
-state = "NJ"
 city = "Blackwood"
 county = "Camden"
-longitude = -75.036652
 latitude = 39.790131
+longitude = -75.036652
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08012"
+

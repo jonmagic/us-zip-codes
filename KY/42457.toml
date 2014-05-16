@@ -1,6 +1,8 @@
-zip_code = "42457"
-state = "KY"
 city = "Smith Mills"
 county = "Henderson"
-longitude = -87.788906
 latitude = 37.83233
+longitude = -87.788906
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42457"
+

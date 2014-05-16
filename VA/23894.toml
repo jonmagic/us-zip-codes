@@ -1,6 +1,8 @@
-zip_code = "23894"
-state = "VA"
 city = "Wilsons"
 county = "Dinwiddie"
-longitude = -77.703648
 latitude = 37.125964
+longitude = -77.703648
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23894"
+

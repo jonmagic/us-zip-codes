@@ -1,6 +1,8 @@
-zip_code = "97467"
-state = "OR"
 city = "Reedsport"
 county = "Douglas"
-longitude = -123.745579
 latitude = 43.449523
+longitude = -123.745579
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97467"
+

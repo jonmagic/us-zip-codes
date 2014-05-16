@@ -1,6 +1,8 @@
-zip_code = "14878"
-state = "NY"
 city = "Rock Stream"
 county = "Yates"
-longitude = -76.946931
 latitude = 42.48015
+longitude = -76.946931
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14878"
+

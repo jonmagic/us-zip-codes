@@ -1,6 +1,8 @@
-zip_code = "63737"
-state = "MO"
 city = "Brazeau"
 county = "Perry"
-longitude = -89.652912
 latitude = 37.663253
+longitude = -89.652912
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63737"
+

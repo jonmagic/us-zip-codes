@@ -1,6 +1,8 @@
-zip_code = "24440"
-state = "VA"
 city = "Greenville"
 county = "Augusta"
-longitude = -79.175646
 latitude = 37.983435
+longitude = -79.175646
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24440"
+

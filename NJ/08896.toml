@@ -1,6 +1,8 @@
-zip_code = "08896"
-state = "NJ"
 city = "Raritan"
 county = "Somerset"
-longitude = -74.599801
 latitude = 40.566553
+longitude = -74.599801
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08896"
+

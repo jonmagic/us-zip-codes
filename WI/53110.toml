@@ -1,6 +1,8 @@
-zip_code = "53110"
-state = "WI"
 city = "Cudahy"
 county = "Milwaukee"
-longitude = -87.866831
 latitude = 42.948015
+longitude = -87.866831
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53110"
+

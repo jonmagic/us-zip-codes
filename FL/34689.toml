@@ -1,6 +1,8 @@
-zip_code = "34689"
-state = "FL"
 city = "Tarpon Springs"
 county = "Pinellas"
-longitude = -82.732165
 latitude = 28.092104
+longitude = -82.732165
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34689"
+

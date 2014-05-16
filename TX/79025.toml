@@ -1,6 +1,8 @@
-zip_code = "79025"
-state = "TX"
 city = "Dawn"
 county = "Deaf Smith"
-longitude = -102.200173
 latitude = 34.910608
+longitude = -102.200173
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79025"
+

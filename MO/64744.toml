@@ -1,6 +1,8 @@
-zip_code = "64744"
-state = "MO"
 city = "El Dorado Springs"
 county = "Cedar"
-longitude = -94.012373
 latitude = 37.865205
+longitude = -94.012373
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64744"
+

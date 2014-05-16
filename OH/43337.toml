@@ -1,6 +1,8 @@
-zip_code = "43337"
-state = "OH"
 city = "Morral"
 county = "Marion"
-longitude = -83.26335
 latitude = 40.667978
+longitude = -83.26335
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43337"
+

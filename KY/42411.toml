@@ -1,6 +1,8 @@
-zip_code = "42411"
-state = "KY"
 city = "Fredonia"
 county = "Caldwell"
-longitude = -87.988003
 latitude = 37.201173
+longitude = -87.988003
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42411"
+

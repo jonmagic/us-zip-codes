@@ -1,6 +1,8 @@
-zip_code = "88133"
-state = "NM"
 city = "Saint Vrain"
 county = "Curry"
-longitude = -103.46686
 latitude = 34.475607
+longitude = -103.46686
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88133"
+

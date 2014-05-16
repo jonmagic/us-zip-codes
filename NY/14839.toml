@@ -1,6 +1,8 @@
-zip_code = "14839"
-state = "NY"
 city = "Greenwood"
 county = "Steuben"
-longitude = -77.562991
 latitude = 42.143242
+longitude = -77.562991
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14839"
+

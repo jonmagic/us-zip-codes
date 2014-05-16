@@ -1,6 +1,8 @@
-zip_code = "66701"
-state = "KS"
 city = "Fort Scott"
 county = "Bourbon"
-longitude = -94.714793
 latitude = 37.821629
+longitude = -94.714793
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66701"
+

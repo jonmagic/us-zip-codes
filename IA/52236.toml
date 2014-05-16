@@ -1,6 +1,8 @@
-zip_code = "52236"
-state = "IA"
 city = "Homestead"
 county = "Iowa"
-longitude = -91.881072
 latitude = 41.730806
+longitude = -91.881072
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52236"
+

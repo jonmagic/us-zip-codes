@@ -1,6 +1,8 @@
-zip_code = "35544"
-state = "AL"
 city = "Beaverton"
 county = "Lamar"
-longitude = -88.018981
 latitude = 33.950211
+longitude = -88.018981
+state = ""
+state_code_alpha2 = ""
+zip_code = "35544"
+

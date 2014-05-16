@@ -1,6 +1,8 @@
-zip_code = "28573"
-state = "NC"
 city = "Pollocksville"
 county = "Jones"
-longitude = -77.240202
 latitude = 35.009751
+longitude = -77.240202
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28573"
+

@@ -1,6 +1,8 @@
-zip_code = "76459"
-state = "TX"
 city = "Jermyn"
 county = "Jack"
-longitude = -98.172371
 latitude = 33.234207
+longitude = -98.172371
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76459"
+

@@ -1,6 +1,8 @@
-zip_code = "16432"
-state = "PA"
 city = "Riceville"
 county = "Crawford"
-longitude = -80.065793
 latitude = 41.666057
+longitude = -80.065793
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16432"
+

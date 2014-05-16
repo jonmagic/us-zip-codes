@@ -1,6 +1,8 @@
-zip_code = "57537"
-state = "SD"
 city = "Hayes"
 county = "Stanley"
-longitude = -101.014052
 latitude = 44.531281
+longitude = -101.014052
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57537"
+

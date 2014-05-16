@@ -1,6 +1,8 @@
-zip_code = "10576"
-state = "NY"
 city = "Pound Ridge"
 county = "Westchester"
-longitude = -73.568126
 latitude = 41.208519
+longitude = -73.568126
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10576"
+

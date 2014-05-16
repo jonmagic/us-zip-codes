@@ -1,6 +1,8 @@
-zip_code = "29160"
-state = "SC"
 city = "Swansea"
 county = "Lexington"
-longitude = -81.102992
 latitude = 33.729014
+longitude = -81.102992
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29160"
+

@@ -1,6 +1,8 @@
-zip_code = "78562"
-state = "TX"
 city = "La Villa"
 county = "Hidalgo"
-longitude = -97.924718
 latitude = 26.299892
+longitude = -97.924718
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78562"
+

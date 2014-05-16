@@ -1,6 +1,8 @@
-zip_code = "84764"
-state = "UT"
 city = "Bryce"
 county = "Garfield"
-longitude = -111.308206
 latitude = 37.844777
+longitude = -111.308206
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84764"
+

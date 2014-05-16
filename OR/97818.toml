@@ -1,6 +1,8 @@
-zip_code = "97818"
-state = "OR"
 city = "Boardman"
 county = "Morrow"
-longitude = -119.6575
 latitude = 45.419841
+longitude = -119.6575
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97818"
+

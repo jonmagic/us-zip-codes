@@ -1,6 +1,8 @@
-zip_code = "45741"
-state = "OH"
 city = "Langsville"
 county = "Meigs"
-longitude = -82.24991
 latitude = 39.069673
+longitude = -82.24991
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45741"
+

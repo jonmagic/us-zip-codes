@@ -1,6 +1,8 @@
-zip_code = "12182"
-state = "NY"
 city = "Troy"
 county = "Rensselaer"
-longitude = -73.652374
 latitude = 42.685792
+longitude = -73.652374
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12182"
+

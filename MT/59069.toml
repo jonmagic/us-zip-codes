@@ -1,6 +1,8 @@
-zip_code = "59069"
-state = "MT"
 city = "Reed Point"
 county = "Stillwater"
-longitude = -109.522372
 latitude = 45.743871
+longitude = -109.522372
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59069"
+

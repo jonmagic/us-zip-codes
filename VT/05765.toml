@@ -1,6 +1,8 @@
-zip_code = "05765"
-state = "VT"
 city = "Proctor"
 county = "Rutland"
-longitude = -73.09589
 latitude = 43.601975
+longitude = -73.09589
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05765"
+

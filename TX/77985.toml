@@ -1,6 +1,8 @@
-zip_code = "77985"
-state = "TX"
 city = "Speaks"
 county = "Lavaca"
-longitude = -96.900331
 latitude = 29.347975
+longitude = -96.900331
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77985"
+

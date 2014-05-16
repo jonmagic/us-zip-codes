@@ -1,6 +1,8 @@
-zip_code = "44080"
-state = "OH"
 city = "Parkman"
 county = "Geauga"
-longitude = -81.053411
 latitude = 41.364495
+longitude = -81.053411
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44080"
+

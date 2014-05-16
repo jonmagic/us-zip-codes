@@ -1,6 +1,8 @@
-zip_code = "50529"
-state = "IA"
 city = "Dakota City"
 county = "Humboldt"
-longitude = -94.243675
 latitude = 42.73695
+longitude = -94.243675
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50529"
+

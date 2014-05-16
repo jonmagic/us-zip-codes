@@ -1,6 +1,8 @@
-zip_code = "10977"
-state = "NY"
 city = "Spring Valley"
 county = "Rockland"
-longitude = -74.047384
 latitude = 41.115833
+longitude = -74.047384
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10977"
+

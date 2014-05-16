@@ -1,6 +1,8 @@
-zip_code = "23845"
-state = "VA"
 city = "Ebony"
 county = "Brunswick"
-longitude = -78.001206
 latitude = 36.598591
+longitude = -78.001206
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23845"
+

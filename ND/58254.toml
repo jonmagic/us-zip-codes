@@ -1,6 +1,8 @@
-zip_code = "58254"
-state = "ND"
 city = "Mcville"
 county = "Nelson"
-longitude = -98.134365
 latitude = 47.856367
+longitude = -98.134365
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58254"
+

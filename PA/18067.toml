@@ -1,6 +1,8 @@
-zip_code = "18067"
-state = "PA"
 city = "Northampton"
 county = "Northampton"
-longitude = -75.365412
 latitude = 40.724479
+longitude = -75.365412
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18067"
+

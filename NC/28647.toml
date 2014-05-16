@@ -1,6 +1,8 @@
-zip_code = "28647"
-state = "NC"
 city = "Linville Falls"
 county = "Burke"
-longitude = -81.675545
 latitude = 35.779182
+longitude = -81.675545
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28647"
+

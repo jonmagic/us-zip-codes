@@ -1,6 +1,8 @@
-zip_code = "07722"
-state = "NJ"
 city = "Colts Neck"
 county = "Monmouth"
-longitude = -74.160911
 latitude = 40.302848
+longitude = -74.160911
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07722"
+

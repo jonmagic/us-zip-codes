@@ -1,6 +1,8 @@
-zip_code = "83450"
-state = "ID"
 city = "Terreton"
 county = "Jefferson"
-longitude = -112.439084
 latitude = 43.85886
+longitude = -112.439084
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83450"
+

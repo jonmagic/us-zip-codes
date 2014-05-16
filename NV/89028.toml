@@ -1,6 +1,8 @@
-zip_code = "89028"
-state = "NV"
 city = "Laughlin"
 county = "Clark"
-longitude = -114.746447
 latitude = 35.160398
+longitude = -114.746447
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89028"
+

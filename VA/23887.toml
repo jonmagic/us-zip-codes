@@ -1,6 +1,8 @@
-zip_code = "23887"
-state = "VA"
 city = "Valentines"
 county = "Brunswick"
-longitude = -77.820567
 latitude = 36.6608
+longitude = -77.820567
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23887"
+

@@ -1,6 +1,8 @@
-zip_code = "29455"
-state = "SC"
 city = "Johns Island"
 county = "Charleston"
-longitude = -79.821702
 latitude = 32.835713
+longitude = -79.821702
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29455"
+

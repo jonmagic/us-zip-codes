@@ -1,6 +1,8 @@
-zip_code = "97132"
-state = "OR"
 city = "Newberg"
 county = "Yamhill"
-longitude = -122.981045
 latitude = 45.329475
+longitude = -122.981045
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97132"
+

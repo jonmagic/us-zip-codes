@@ -1,6 +1,8 @@
-zip_code = "05155"
-state = "VT"
 city = "South Londonderry"
 county = "Windham"
-longitude = -72.851525
 latitude = 43.169854
+longitude = -72.851525
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05155"
+

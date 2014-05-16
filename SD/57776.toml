@@ -1,6 +1,8 @@
-zip_code = "57776"
-state = "SD"
 city = "Redig"
 county = "Harding"
-longitude = -103.493668
 latitude = 45.578941
+longitude = -103.493668
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57776"
+

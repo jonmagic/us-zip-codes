@@ -1,6 +1,8 @@
-zip_code = "88349"
-state = "NM"
 city = "Sunspot"
 county = "Otero"
-longitude = -105.781129
 latitude = 32.8672
+longitude = -105.781129
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88349"
+

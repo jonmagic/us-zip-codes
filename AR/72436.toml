@@ -1,6 +1,8 @@
-zip_code = "72436"
-state = "AR"
 city = "Lafe"
 county = "Greene"
-longitude = -90.469652
 latitude = 36.202584
+longitude = -90.469652
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72436"
+

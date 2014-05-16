@@ -1,6 +1,8 @@
-zip_code = "50008"
-state = "IA"
 city = "Allerton"
 county = "Wayne"
-longitude = -93.405589
 latitude = 40.672872
+longitude = -93.405589
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50008"
+

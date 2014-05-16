@@ -1,6 +1,8 @@
-zip_code = "14816"
-state = "NY"
 city = "Breesport"
 county = "Chemung"
-longitude = -76.7312
 latitude = 42.199631
+longitude = -76.7312
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14816"
+

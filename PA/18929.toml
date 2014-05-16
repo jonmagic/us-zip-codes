@@ -1,6 +1,8 @@
-zip_code = "18929"
-state = "PA"
 city = "Jamison"
 county = "Bucks"
-longitude = -75.08854
 latitude = 40.254157
+longitude = -75.08854
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18929"
+

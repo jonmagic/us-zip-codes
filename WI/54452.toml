@@ -1,6 +1,8 @@
-zip_code = "54452"
-state = "WI"
 city = "Merrill"
 county = "Lincoln"
-longitude = -89.713291
 latitude = 45.217518
+longitude = -89.713291
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54452"
+

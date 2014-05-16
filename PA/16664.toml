@@ -1,6 +1,8 @@
-zip_code = "16664"
-state = "PA"
 city = "New Enterprise"
 county = "Bedford"
-longitude = -78.426719
 latitude = 40.193882
+longitude = -78.426719
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16664"
+

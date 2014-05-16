@@ -1,6 +1,8 @@
-zip_code = "69360"
-state = "NE"
 city = "Rushville"
 county = "Sheridan"
-longitude = -102.46359
 latitude = 42.71634
+longitude = -102.46359
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69360"
+

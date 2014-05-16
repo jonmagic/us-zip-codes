@@ -1,6 +1,8 @@
-zip_code = "22151"
-state = "VA"
 city = "Springfield"
 county = "Fairfax"
-longitude = -77.211556
 latitude = 38.802858
+longitude = -77.211556
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22151"
+

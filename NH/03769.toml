@@ -1,6 +1,8 @@
-zip_code = "03769"
-state = "NH"
 city = "Lyme Center"
 county = "Grafton"
-longitude = -72.120468
 latitude = 43.786267
+longitude = -72.120468
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03769"
+

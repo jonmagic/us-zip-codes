@@ -1,6 +1,8 @@
-zip_code = "87514"
-state = "NM"
 city = "Arroyo Seco"
 county = "Taos"
-longitude = -105.534027
 latitude = 36.520002
+longitude = -105.534027
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87514"
+

@@ -1,6 +1,8 @@
-zip_code = "32903"
-state = "FL"
 city = "Indialantic"
 county = "Brevard"
-longitude = -80.579625
 latitude = 28.107943
+longitude = -80.579625
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32903"
+

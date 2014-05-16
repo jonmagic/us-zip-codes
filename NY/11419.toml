@@ -1,6 +1,8 @@
-zip_code = "11419"
-state = "NY"
 city = "South Richmond Hill"
 county = "Queens"
-longitude = -73.822979
 latitude = 40.686769
+longitude = -73.822979
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11419"
+

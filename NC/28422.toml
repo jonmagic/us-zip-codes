@@ -1,6 +1,8 @@
-zip_code = "28422"
-state = "NC"
 city = "Bolivia"
 county = "Brunswick"
-longitude = -78.172242
 latitude = 34.017181
+longitude = -78.172242
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28422"
+

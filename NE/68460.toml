@@ -1,6 +1,8 @@
-zip_code = "68460"
-state = "NE"
 city = "Waco"
 county = "York"
-longitude = -97.437812
 latitude = 40.886702
+longitude = -97.437812
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68460"
+

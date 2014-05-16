@@ -1,6 +1,8 @@
-zip_code = "77561"
-state = "TX"
 city = "Hardin"
 county = "Liberty"
-longitude = -94.733789
 latitude = 30.150955
+longitude = -94.733789
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77561"
+

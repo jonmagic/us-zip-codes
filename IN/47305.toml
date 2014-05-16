@@ -1,6 +1,8 @@
-zip_code = "47305"
-state = "IN"
 city = "Muncie"
 county = "Delaware"
-longitude = -85.433223
 latitude = 40.247979
+longitude = -85.433223
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47305"
+

@@ -1,6 +1,8 @@
-zip_code = "27944"
-state = "NC"
 city = "Hertford"
 county = "Perquimans"
-longitude = -76.373128
 latitude = 36.168529
+longitude = -76.373128
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27944"
+

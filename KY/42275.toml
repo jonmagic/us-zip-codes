@@ -1,6 +1,8 @@
-zip_code = "42275"
-state = "KY"
 city = "Roundhill"
 county = "Edmonson"
-longitude = -86.411435
 latitude = 37.242474
+longitude = -86.411435
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42275"
+

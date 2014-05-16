@@ -1,6 +1,8 @@
-zip_code = "42462"
-state = "KY"
 city = "Waverly"
 county = "Union"
-longitude = -87.866487
 latitude = 37.631341
+longitude = -87.866487
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42462"
+

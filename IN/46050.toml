@@ -1,6 +1,8 @@
-zip_code = "46050"
-state = "IN"
 city = "Kirklin"
 county = "Clinton"
-longitude = -86.45201
 latitude = 40.259929
+longitude = -86.45201
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46050"
+

@@ -1,6 +1,8 @@
-zip_code = "22649"
-state = "VA"
 city = "Middletown"
 county = "Warren"
-longitude = -78.247806
 latitude = 39.004774
+longitude = -78.247806
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22649"
+

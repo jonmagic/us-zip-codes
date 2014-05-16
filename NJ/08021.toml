@@ -1,6 +1,8 @@
-zip_code = "08021"
-state = "NJ"
 city = "Clementon"
 county = "Camden"
-longitude = -75.005762
 latitude = 39.80364
+longitude = -75.005762
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08021"
+

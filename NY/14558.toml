@@ -1,6 +1,8 @@
-zip_code = "14558"
-state = "NY"
 city = "South Lima"
 county = "Livingston"
-longitude = -77.687643
 latitude = 42.855409
+longitude = -77.687643
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14558"
+

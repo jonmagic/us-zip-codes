@@ -1,6 +1,8 @@
-zip_code = "08530"
-state = "NJ"
 city = "Lambertville"
 county = "Hunterdon"
-longitude = -74.901535
 latitude = 40.37936
+longitude = -74.901535
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08530"
+

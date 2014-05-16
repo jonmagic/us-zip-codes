@@ -1,6 +1,8 @@
-zip_code = "74871"
-state = "OK"
 city = "Stonewall"
 county = "Pontotoc"
-longitude = -96.52735
 latitude = 34.651102
+longitude = -96.52735
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74871"
+

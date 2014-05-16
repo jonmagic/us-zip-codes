@@ -1,6 +1,8 @@
-zip_code = "38070"
-state = "TN"
 city = "Tigrett"
 county = "Dyer"
-longitude = -89.243405
 latitude = 35.942019
+longitude = -89.243405
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38070"
+

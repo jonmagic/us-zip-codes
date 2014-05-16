@@ -1,6 +1,8 @@
-zip_code = "94510"
-state = "CA"
 city = "Benicia"
 county = "Solano"
-longitude = -122.032061
 latitude = 38.1012
+longitude = -122.032061
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94510"
+

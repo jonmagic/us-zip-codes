@@ -1,6 +1,8 @@
-zip_code = "71956"
-state = "AR"
 city = "Mountain Pine"
 county = "Garland"
-longitude = -93.233142
 latitude = 34.637603
+longitude = -93.233142
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71956"
+

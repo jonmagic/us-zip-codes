@@ -1,6 +1,8 @@
-zip_code = "43230"
-state = "OH"
 city = "Columbus"
 county = "Franklin"
-longitude = -82.872611
 latitude = 40.034713
+longitude = -82.872611
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43230"
+

@@ -1,6 +1,8 @@
-zip_code = "70657"
-state = "LA"
 city = "Ragley"
 county = "Beauregard"
-longitude = -93.148903
 latitude = 30.528185
+longitude = -93.148903
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70657"
+

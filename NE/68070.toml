@@ -1,6 +1,8 @@
-zip_code = "68070"
-state = "NE"
 city = "Weston"
 county = "Saunders"
-longitude = -96.758162
 latitude = 41.20724
+longitude = -96.758162
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68070"
+

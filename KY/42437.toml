@@ -1,6 +1,8 @@
-zip_code = "42437"
-state = "KY"
 city = "Morganfield"
 county = "Union"
-longitude = -87.943938
 latitude = 37.686939
+longitude = -87.943938
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42437"
+

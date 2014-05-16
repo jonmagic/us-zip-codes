@@ -1,6 +1,8 @@
-zip_code = "30828"
-state = "GA"
 city = "Warrenton"
 county = "Warren"
-longitude = -82.641067
 latitude = 33.406118
+longitude = -82.641067
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30828"
+

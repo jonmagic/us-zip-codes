@@ -1,6 +1,8 @@
-zip_code = "45407"
-state = "OH"
 city = "Dayton"
 county = "Montgomery"
-longitude = -84.226041
 latitude = 39.758658
+longitude = -84.226041
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45407"
+

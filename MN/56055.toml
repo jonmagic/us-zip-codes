@@ -1,6 +1,8 @@
-zip_code = "56055"
-state = "MN"
 city = "Lake Crystal"
 county = "Blue Earth"
-longitude = -94.212574
 latitude = 44.147701
+longitude = -94.212574
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56055"
+

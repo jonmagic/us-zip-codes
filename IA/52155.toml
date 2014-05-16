@@ -1,6 +1,8 @@
-zip_code = "52155"
-state = "IA"
 city = "Lime Springs"
 county = "Howard"
-longitude = -92.276168
 latitude = 43.410582
+longitude = -92.276168
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52155"
+

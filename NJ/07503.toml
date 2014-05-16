@@ -1,6 +1,8 @@
-zip_code = "07503"
-state = "NJ"
 city = "Paterson"
 county = "Passaic"
-longitude = -74.151837
 latitude = 40.898098
+longitude = -74.151837
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07503"
+

@@ -1,6 +1,8 @@
-zip_code = "47527"
-state = "IN"
 city = "Dubois"
 county = "Dubois"
-longitude = -86.777335
 latitude = 38.439461
+longitude = -86.777335
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47527"
+

@@ -1,6 +1,8 @@
-zip_code = "72943"
-state = "AR"
 city = "Magazine"
 county = "Logan"
-longitude = -93.812592
 latitude = 35.182673
+longitude = -93.812592
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72943"
+

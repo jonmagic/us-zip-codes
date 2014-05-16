@@ -1,6 +1,8 @@
-zip_code = "63016"
-state = "MO"
 city = "Cedar Hill"
 county = "Jefferson"
-longitude = -90.62569
 latitude = 38.352262
+longitude = -90.62569
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63016"
+

@@ -1,6 +1,8 @@
-zip_code = "68050"
-state = "NE"
 city = "Prague"
 county = "Saunders"
-longitude = -96.823281
 latitude = 41.314461
+longitude = -96.823281
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68050"
+

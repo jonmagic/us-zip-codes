@@ -1,6 +1,8 @@
-zip_code = "98846"
-state = "WA"
 city = "Pateros"
 county = "Okanogan"
-longitude = -119.742154
 latitude = 48.411234
+longitude = -119.742154
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98846"
+

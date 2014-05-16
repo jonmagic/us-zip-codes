@@ -1,6 +1,8 @@
-zip_code = "95969"
-state = "CA"
 city = "Paradise"
 county = "Butte"
-longitude = -121.707265
 latitude = 39.654279
+longitude = -121.707265
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95969"
+

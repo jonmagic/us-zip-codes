@@ -1,6 +1,8 @@
-zip_code = "55070"
-state = "MN"
 city = "Saint Francis"
 county = "Anoka"
-longitude = -93.357614
 latitude = 45.393554
+longitude = -93.357614
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55070"
+

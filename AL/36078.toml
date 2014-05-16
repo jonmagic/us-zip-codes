@@ -1,6 +1,8 @@
-zip_code = "36078"
-state = "AL"
 city = "Tallassee"
 county = "Elmore"
-longitude = -85.985078
 latitude = 32.594995
+longitude = -85.985078
+state = ""
+state_code_alpha2 = ""
+zip_code = "36078"
+

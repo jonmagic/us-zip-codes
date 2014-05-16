@@ -1,6 +1,8 @@
-zip_code = "67055"
-state = "KS"
 city = "Greenwich"
 county = "Sedgwick"
-longitude = -97.205419
 latitude = 37.78335
+longitude = -97.205419
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67055"
+

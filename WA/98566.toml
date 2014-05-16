@@ -1,6 +1,8 @@
-zip_code = "98566"
-state = "WA"
 city = "Neilton"
 county = "Grays Harbor"
-longitude = -123.890317
 latitude = 47.387674
+longitude = -123.890317
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98566"
+

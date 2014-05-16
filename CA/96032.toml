@@ -1,6 +1,8 @@
-zip_code = "96032"
-state = "CA"
 city = "Fort Jones"
 county = "Siskiyou"
-longitude = -122.824847
 latitude = 41.581383
+longitude = -122.824847
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96032"
+

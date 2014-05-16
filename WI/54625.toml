@@ -1,6 +1,8 @@
-zip_code = "54625"
-state = "WI"
 city = "Dodge"
 county = "Trempealeau"
-longitude = -91.520432
 latitude = 44.14309
+longitude = -91.520432
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54625"
+

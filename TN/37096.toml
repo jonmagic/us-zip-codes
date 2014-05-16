@@ -1,6 +1,8 @@
-zip_code = "37096"
-state = "TN"
 city = "Linden"
 county = "Perry"
-longitude = -87.856665
 latitude = 35.594367
+longitude = -87.856665
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37096"
+

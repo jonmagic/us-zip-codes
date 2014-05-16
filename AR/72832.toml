@@ -1,6 +1,8 @@
-zip_code = "72832"
-state = "AR"
 city = "Coal Hill"
 county = "Johnson"
-longitude = -93.672986
 latitude = 35.430098
+longitude = -93.672986
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72832"
+

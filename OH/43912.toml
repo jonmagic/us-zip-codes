@@ -1,6 +1,8 @@
-zip_code = "43912"
-state = "OH"
 city = "Bridgeport"
 county = "Belmont"
-longitude = -80.788948
 latitude = 40.092799
+longitude = -80.788948
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43912"
+

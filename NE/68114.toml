@@ -1,6 +1,8 @@
-zip_code = "68114"
-state = "NE"
 city = "Omaha"
 county = "Douglas"
-longitude = -96.053634
 latitude = 41.263262
+longitude = -96.053634
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68114"
+

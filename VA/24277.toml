@@ -1,6 +1,8 @@
-zip_code = "24277"
-state = "VA"
 city = "Pennington Gap"
 county = "Lee"
-longitude = -83.032536
 latitude = 36.75823
+longitude = -83.032536
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24277"
+

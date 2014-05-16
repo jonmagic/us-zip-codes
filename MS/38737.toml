@@ -1,6 +1,8 @@
-zip_code = "38737"
-state = "MS"
 city = "Drew"
 county = "Sunflower"
-longitude = -90.607299
 latitude = 33.685766
+longitude = -90.607299
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38737"
+

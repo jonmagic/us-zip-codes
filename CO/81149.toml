@@ -1,6 +1,8 @@
-zip_code = "81149"
-state = "CO"
 city = "Saguache"
 county = "Saguache"
-longitude = -106.351826
 latitude = 38.181206
+longitude = -106.351826
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81149"
+

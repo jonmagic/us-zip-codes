@@ -1,6 +1,8 @@
-zip_code = "12024"
-state = "NY"
 city = "Brainard"
 county = "Rensselaer"
-longitude = -73.510676
 latitude = 42.494981
+longitude = -73.510676
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12024"
+

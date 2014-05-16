@@ -1,6 +1,8 @@
-zip_code = "52591"
-state = "IA"
 city = "Sigourney"
 county = "Keokuk"
-longitude = -92.159246
 latitude = 41.310884
+longitude = -92.159246
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52591"
+

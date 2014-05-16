@@ -1,6 +1,8 @@
-zip_code = "66717"
-state = "KS"
 city = "Buffalo"
 county = "Wilson"
-longitude = -95.703647
 latitude = 37.614292
+longitude = -95.703647
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66717"
+

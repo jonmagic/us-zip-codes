@@ -1,6 +1,8 @@
-zip_code = "59274"
-state = "MT"
 city = "Vida"
 county = "Mccone"
-longitude = -105.535752
 latitude = 47.874088
+longitude = -105.535752
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59274"
+

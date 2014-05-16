@@ -1,6 +1,8 @@
-zip_code = "31007"
-state = "GA"
 city = "Byromville"
 county = "Dooly"
-longitude = -83.901376
 latitude = 32.185828
+longitude = -83.901376
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31007"
+

@@ -1,6 +1,8 @@
-zip_code = "46968"
-state = "IN"
 city = "Ora"
 county = "Starke"
-longitude = -86.554326
 latitude = 41.175557
+longitude = -86.554326
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46968"
+

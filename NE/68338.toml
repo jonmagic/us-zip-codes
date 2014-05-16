@@ -1,6 +1,8 @@
-zip_code = "68338"
-state = "NE"
 city = "Daykin"
 county = "Jefferson"
-longitude = -97.14239
 latitude = 40.306449
+longitude = -97.14239
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68338"
+

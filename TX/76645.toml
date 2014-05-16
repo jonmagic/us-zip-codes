@@ -1,6 +1,8 @@
-zip_code = "76645"
-state = "TX"
 city = "Hillsboro"
 county = "Hill"
-longitude = -97.057661
 latitude = 31.937903
+longitude = -97.057661
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76645"
+

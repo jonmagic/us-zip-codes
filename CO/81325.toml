@@ -1,6 +1,8 @@
-zip_code = "81325"
-state = "CO"
 city = "Egnar"
 county = "San Miguel"
-longitude = -108.846067
 latitude = 37.929371
+longitude = -108.846067
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81325"
+

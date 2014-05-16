@@ -1,6 +1,8 @@
-zip_code = "46930"
-state = "IN"
 city = "Fowlerton"
 county = "Grant"
-longitude = -85.571035
 latitude = 40.40993
+longitude = -85.571035
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46930"
+

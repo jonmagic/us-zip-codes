@@ -1,6 +1,8 @@
-zip_code = "33771"
-state = "FL"
 city = "Largo"
 county = "Pinellas"
-longitude = -82.756823
 latitude = 27.908479
+longitude = -82.756823
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33771"
+

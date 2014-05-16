@@ -1,6 +1,8 @@
-zip_code = "34038"
-state = "AA"
 city = "Apo"
 county = ""
-longitude = 0.0
 latitude = 0.0
+longitude = 0.0
+state = ""
+state_code_alpha2 = ""
+zip_code = "34038"
+

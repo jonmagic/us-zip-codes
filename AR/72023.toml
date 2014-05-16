@@ -1,6 +1,8 @@
-zip_code = "72023"
-state = "AR"
 city = "Cabot"
 county = "Lonoke"
-longitude = -91.931526
 latitude = 34.826103
+longitude = -91.931526
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72023"
+

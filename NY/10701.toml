@@ -1,6 +1,8 @@
-zip_code = "10701"
-state = "NY"
 city = "Yonkers"
 county = "Westchester"
-longitude = -73.866926
 latitude = 40.946107
+longitude = -73.866926
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10701"
+

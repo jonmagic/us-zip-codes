@@ -1,6 +1,8 @@
-zip_code = "98590"
-state = "WA"
 city = "Tokeland"
 county = "Pacific"
-longitude = -124.027885
 latitude = 46.730891
+longitude = -124.027885
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98590"
+

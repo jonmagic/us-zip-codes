@@ -1,6 +1,8 @@
-zip_code = "75687"
-state = "TX"
 city = "Price"
 county = "Rusk"
-longitude = -94.955432
 latitude = 32.151755
+longitude = -94.955432
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75687"
+

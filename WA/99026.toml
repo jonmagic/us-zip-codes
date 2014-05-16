@@ -1,6 +1,8 @@
-zip_code = "99026"
-state = "WA"
 city = "Nine Mile Falls"
 county = "Spokane"
-longitude = -117.619375
 latitude = 47.799507
+longitude = -117.619375
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99026"
+

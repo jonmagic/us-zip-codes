@@ -1,6 +1,8 @@
-zip_code = "21774"
-state = "MD"
 city = "New Market"
 county = "Frederick"
-longitude = -77.220932
 latitude = 39.432571
+longitude = -77.220932
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21774"
+

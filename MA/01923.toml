@@ -1,6 +1,8 @@
-zip_code = "01923"
-state = "MA"
 city = "Danvers"
 county = "Essex"
-longitude = -70.949245
 latitude = 42.577188
+longitude = -70.949245
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01923"
+

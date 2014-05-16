@@ -1,6 +1,8 @@
-zip_code = "70524"
-state = "LA"
 city = "Chataignier"
 county = "Evangeline"
-longitude = -92.287372
 latitude = 30.575361
+longitude = -92.287372
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70524"
+

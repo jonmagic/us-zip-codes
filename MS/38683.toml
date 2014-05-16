@@ -1,6 +1,8 @@
-zip_code = "38683"
-state = "MS"
 city = "Walnut"
 county = "Tippah"
-longitude = -88.885227
 latitude = 34.89462
+longitude = -88.885227
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38683"
+

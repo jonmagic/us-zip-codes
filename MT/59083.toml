@@ -1,6 +1,8 @@
-zip_code = "59083"
-state = "MT"
 city = "Sumatra"
 county = "Rosebud"
-longitude = -106.99199
 latitude = 46.017965
+longitude = -106.99199
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59083"
+

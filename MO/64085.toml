@@ -1,6 +1,8 @@
-zip_code = "64085"
-state = "MO"
 city = "Richmond"
 county = "Ray"
-longitude = -93.984387
 latitude = 39.341906
+longitude = -93.984387
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64085"
+

@@ -1,6 +1,8 @@
-zip_code = "84540"
-state = "UT"
 city = "Thompson"
 county = "Grand"
-longitude = -109.615008
 latitude = 38.999877
+longitude = -109.615008
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84540"
+

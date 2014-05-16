@@ -1,6 +1,8 @@
-zip_code = "55764"
-state = "MN"
 city = "Marble"
 county = "Itasca"
-longitude = -93.29388
 latitude = 47.321916
+longitude = -93.29388
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55764"
+

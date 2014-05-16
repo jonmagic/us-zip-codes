@@ -1,6 +1,8 @@
-zip_code = "50622"
-state = "IA"
 city = "Denver"
 county = "Bremer"
-longitude = -92.387102
 latitude = 42.686195
+longitude = -92.387102
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50622"
+

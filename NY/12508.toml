@@ -1,6 +1,8 @@
-zip_code = "12508"
-state = "NY"
 city = "Beacon"
 county = "Dutchess"
-longitude = -73.773082
 latitude = 41.712677
+longitude = -73.773082
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12508"
+

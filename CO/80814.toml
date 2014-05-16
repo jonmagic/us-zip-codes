@@ -1,6 +1,8 @@
-zip_code = "80814"
-state = "CO"
 city = "Divide"
 county = "Teller"
-longitude = -105.185653
 latitude = 38.923901
+longitude = -105.185653
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80814"
+

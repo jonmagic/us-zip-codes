@@ -1,6 +1,8 @@
-zip_code = "48144"
-state = "MI"
 city = "Lambertville"
 county = "Monroe"
-longitude = -83.618485
 latitude = 41.759998
+longitude = -83.618485
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48144"
+

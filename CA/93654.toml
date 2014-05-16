@@ -1,6 +1,8 @@
-zip_code = "93654"
-state = "CA"
 city = "Reedley"
 county = "Fresno"
-longitude = -119.398857
 latitude = 36.669807
+longitude = -119.398857
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93654"
+

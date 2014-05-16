@@ -1,6 +1,8 @@
-zip_code = "30531"
-state = "GA"
 city = "Cornelia"
 county = "Habersham"
-longitude = -83.574032
 latitude = 34.535213
+longitude = -83.574032
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30531"
+

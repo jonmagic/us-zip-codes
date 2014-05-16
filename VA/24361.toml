@@ -1,6 +1,8 @@
-zip_code = "24361"
-state = "VA"
 city = "Meadowview"
 county = "Washington"
-longitude = -81.848288
 latitude = 36.752637
+longitude = -81.848288
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24361"
+

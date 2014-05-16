@@ -1,6 +1,8 @@
-zip_code = "46987"
-state = "IN"
 city = "Sweetser"
 county = "Grant"
-longitude = -85.765569
 latitude = 40.564673
+longitude = -85.765569
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46987"
+

@@ -1,6 +1,8 @@
-zip_code = "55777"
-state = "MN"
 city = "Virginia"
 county = "Saint Louis"
-longitude = -92.442797
 latitude = 47.640367
+longitude = -92.442797
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55777"
+

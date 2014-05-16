@@ -1,6 +1,8 @@
-zip_code = "47396"
-state = "IN"
 city = "Yorktown"
 county = "Delaware"
-longitude = -85.509272
 latitude = 40.19855
+longitude = -85.509272
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47396"
+

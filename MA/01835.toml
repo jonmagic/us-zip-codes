@@ -1,6 +1,8 @@
-zip_code = "01835"
-state = "MA"
 city = "Haverhill"
 county = "Essex"
-longitude = -71.084301
 latitude = 42.752844
+longitude = -71.084301
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01835"
+

@@ -1,6 +1,8 @@
-zip_code = "29047"
-state = "SC"
 city = "Elloree"
 county = "Orangeburg"
-longitude = -80.582264
 latitude = 33.496664
+longitude = -80.582264
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29047"
+

@@ -1,6 +1,8 @@
-zip_code = "42402"
-state = "KY"
 city = "Baskett"
 county = "Henderson"
-longitude = -87.60124
 latitude = 37.778911
+longitude = -87.60124
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42402"
+

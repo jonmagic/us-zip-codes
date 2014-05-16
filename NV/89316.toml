@@ -1,6 +1,8 @@
-zip_code = "89316"
-state = "NV"
 city = "Eureka"
 county = "Eureka"
-longitude = -115.993806
 latitude = 39.547797
+longitude = -115.993806
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89316"
+

@@ -1,6 +1,8 @@
-zip_code = "80722"
-state = "CO"
 city = "Atwood"
 county = "Logan"
-longitude = -103.197305
 latitude = 40.525066
+longitude = -103.197305
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80722"
+

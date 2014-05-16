@@ -1,6 +1,8 @@
-zip_code = "72826"
-state = "AR"
 city = "Blue Mountain"
 county = "Logan"
-longitude = -93.749342
 latitude = 35.130561
+longitude = -93.749342
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72826"
+

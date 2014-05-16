@@ -1,6 +1,8 @@
-zip_code = "95451"
-state = "CA"
 city = "Kelseyville"
 county = "Lake"
-longitude = -122.793699
 latitude = 38.930811
+longitude = -122.793699
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95451"
+

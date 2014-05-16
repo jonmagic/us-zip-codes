@@ -1,6 +1,8 @@
-zip_code = "80524"
-state = "CO"
 city = "Fort Collins"
 county = "Larimer"
-longitude = -105.252751
 latitude = 40.59889
+longitude = -105.252751
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80524"
+

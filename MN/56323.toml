@@ -1,6 +1,8 @@
-zip_code = "56323"
-state = "MN"
 city = "Cyrus"
 county = "Pope"
-longitude = -95.709642
 latitude = 45.641425
+longitude = -95.709642
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56323"
+

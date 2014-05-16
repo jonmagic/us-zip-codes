@@ -1,6 +1,8 @@
-zip_code = "76878"
-state = "TX"
 city = "Santa Anna"
 county = "Coleman"
-longitude = -99.326291
 latitude = 31.737608
+longitude = -99.326291
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76878"
+

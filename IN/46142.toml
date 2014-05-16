@@ -1,6 +1,8 @@
-zip_code = "46142"
-state = "IN"
 city = "Greenwood"
 county = "Johnson"
-longitude = -86.100454
 latitude = 39.491246
+longitude = -86.100454
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46142"
+

@@ -1,6 +1,8 @@
-zip_code = "67512"
-state = "KS"
 city = "Alden"
 county = "Rice"
-longitude = -98.316515
 latitude = 38.233295
+longitude = -98.316515
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67512"
+

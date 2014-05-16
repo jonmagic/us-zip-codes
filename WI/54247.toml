@@ -1,6 +1,8 @@
-zip_code = "54247"
-state = "WI"
 city = "Whitelaw"
 county = "Manitowoc"
-longitude = -87.781594
 latitude = 44.189293
+longitude = -87.781594
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54247"
+

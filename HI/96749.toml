@@ -1,6 +1,8 @@
-zip_code = "96749"
-state = "HI"
 city = "Keaau"
 county = "Hawaii"
-longitude = -155.032104
 latitude = 19.581873
+longitude = -155.032104
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96749"
+

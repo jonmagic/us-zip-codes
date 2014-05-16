@@ -1,6 +1,8 @@
-zip_code = "26836"
-state = "WV"
 city = "Moorefield"
 county = "Hardy"
-longitude = -78.820561
 latitude = 39.018679
+longitude = -78.820561
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26836"
+

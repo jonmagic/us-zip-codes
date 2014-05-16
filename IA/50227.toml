@@ -1,6 +1,8 @@
-zip_code = "50227"
-state = "IA"
 city = "Popejoy"
 county = "Franklin"
-longitude = -93.450081
 latitude = 42.644276
+longitude = -93.450081
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50227"
+

@@ -1,6 +1,8 @@
-zip_code = "69350"
-state = "NE"
 city = "Hyannis"
 county = "Grant"
-longitude = -101.751854
 latitude = 41.959181
+longitude = -101.751854
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69350"
+

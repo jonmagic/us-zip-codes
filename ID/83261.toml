@@ -1,6 +1,8 @@
-zip_code = "83261"
-state = "ID"
 city = "Paris"
 county = "Bear Lake"
-longitude = -111.420825
 latitude = 42.224249
+longitude = -111.420825
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83261"
+

@@ -1,6 +1,8 @@
-zip_code = "96055"
-state = "CA"
 city = "Los Molinos"
 county = "Tehama"
-longitude = -122.13374
 latitude = 40.039203
+longitude = -122.13374
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96055"
+

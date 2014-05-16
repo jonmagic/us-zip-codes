@@ -1,6 +1,8 @@
-zip_code = "28469"
-state = "NC"
 city = "Ocean Isle Beach"
 county = "Brunswick"
-longitude = -78.271319
 latitude = 33.936658
+longitude = -78.271319
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28469"
+

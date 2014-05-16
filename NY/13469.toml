@@ -1,6 +1,8 @@
-zip_code = "13469"
-state = "NY"
 city = "Stittville"
 county = "Oneida"
-longitude = -75.299112
 latitude = 43.219369
+longitude = -75.299112
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13469"
+

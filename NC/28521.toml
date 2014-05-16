@@ -1,6 +1,8 @@
-zip_code = "28521"
-state = "NC"
 city = "Chinquapin"
 county = "Duplin"
-longitude = -77.77497
 latitude = 34.897753
+longitude = -77.77497
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28521"
+

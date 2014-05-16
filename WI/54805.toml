@@ -1,6 +1,8 @@
-zip_code = "54805"
-state = "WI"
 city = "Almena"
 county = "Barron"
-longitude = -91.965942
 latitude = 45.434373
+longitude = -91.965942
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54805"
+

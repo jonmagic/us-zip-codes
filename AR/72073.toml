@@ -1,6 +1,8 @@
-zip_code = "72073"
-state = "AR"
 city = "Humphrey"
 county = "Jefferson"
-longitude = -91.638613
 latitude = 34.374078
+longitude = -91.638613
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72073"
+

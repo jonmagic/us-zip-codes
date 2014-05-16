@@ -1,6 +1,8 @@
-zip_code = "54017"
-state = "WI"
 city = "New Richmond"
 county = "Saint Croix"
-longitude = -92.496993
 latitude = 45.090925
+longitude = -92.496993
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54017"
+

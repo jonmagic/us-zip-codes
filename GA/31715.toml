@@ -1,6 +1,8 @@
-zip_code = "31715"
-state = "GA"
 city = "Attapulgus"
 county = "Decatur"
-longitude = -84.511949
 latitude = 30.835331
+longitude = -84.511949
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31715"
+

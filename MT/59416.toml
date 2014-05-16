@@ -1,6 +1,8 @@
-zip_code = "59416"
-state = "MT"
 city = "Brady"
 county = "Pondera"
-longitude = -111.715365
 latitude = 48.065733
+longitude = -111.715365
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59416"
+

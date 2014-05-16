@@ -1,6 +1,8 @@
-zip_code = "25243"
-state = "WV"
 city = "Gandeeville"
 county = "Roane"
-longitude = -81.453016
 latitude = 38.683119
+longitude = -81.453016
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25243"
+

@@ -1,6 +1,8 @@
-zip_code = "56566"
-state = "MN"
 city = "Naytahwaush"
 county = "Mahnomen"
-longitude = -95.80918
 latitude = 47.325198
+longitude = -95.80918
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56566"
+

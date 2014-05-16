@@ -1,6 +1,8 @@
-zip_code = "20628"
-state = "MD"
 city = "Dameron"
 county = "Saint Marys"
-longitude = -76.359651
 latitude = 38.148114
+longitude = -76.359651
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20628"
+

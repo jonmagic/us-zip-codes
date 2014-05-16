@@ -1,6 +1,8 @@
-zip_code = "40011"
-state = "KY"
 city = "Campbellsburg"
 county = "Henry"
-longitude = -85.132315
 latitude = 38.45807
+longitude = -85.132315
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40011"
+

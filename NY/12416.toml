@@ -1,6 +1,8 @@
-zip_code = "12416"
-state = "NY"
 city = "Chichester"
 county = "Ulster"
-longitude = -74.271661
 latitude = 42.095023
+longitude = -74.271661
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12416"
+

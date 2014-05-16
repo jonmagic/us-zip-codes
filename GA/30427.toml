@@ -1,6 +1,8 @@
-zip_code = "30427"
-state = "GA"
 city = "Glennville"
 county = "Tattnall"
-longitude = -82.012344
 latitude = 32.066649
+longitude = -82.012344
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30427"
+

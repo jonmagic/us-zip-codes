@@ -1,6 +1,8 @@
-zip_code = "16617"
-state = "PA"
 city = "Bellwood"
 county = "Blair"
-longitude = -78.363835
 latitude = 40.562667
+longitude = -78.363835
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16617"
+

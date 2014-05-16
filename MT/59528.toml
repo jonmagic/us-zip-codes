@@ -1,6 +1,8 @@
-zip_code = "59528"
-state = "MT"
 city = "Hingham"
 county = "Hill"
-longitude = -110.301301
 latitude = 48.571498
+longitude = -110.301301
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59528"
+

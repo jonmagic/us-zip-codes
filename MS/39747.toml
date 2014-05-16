@@ -1,6 +1,8 @@
-zip_code = "39747"
-state = "MS"
 city = "Kilmichael"
 county = "Montgomery"
-longitude = -89.585663
 latitude = 33.4346
+longitude = -89.585663
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39747"
+

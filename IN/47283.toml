@@ -1,6 +1,8 @@
-zip_code = "47283"
-state = "IN"
 city = "Westport"
 county = "Decatur"
-longitude = -85.564278
 latitude = 39.241181
+longitude = -85.564278
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47283"
+

@@ -1,6 +1,8 @@
-zip_code = "32539"
-state = "FL"
 city = "Crestview"
 county = "Okaloosa"
-longitude = -86.483154
 latitude = 30.777294
+longitude = -86.483154
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32539"
+

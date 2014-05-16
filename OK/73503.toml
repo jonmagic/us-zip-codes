@@ -1,6 +1,8 @@
-zip_code = "73503"
-state = "OK"
 city = "Fort Sill"
 county = "Comanche"
-longitude = -98.437482
 latitude = 34.663978
+longitude = -98.437482
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73503"
+

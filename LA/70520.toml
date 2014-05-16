@@ -1,6 +1,8 @@
-zip_code = "70520"
-state = "LA"
 city = "Carencro"
 county = "Lafayette"
-longitude = -92.047919
 latitude = 30.238176
+longitude = -92.047919
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70520"
+

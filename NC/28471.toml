@@ -1,6 +1,8 @@
-zip_code = "28471"
-state = "NC"
 city = "Watha"
 county = "Pender"
-longitude = -78.03154
 latitude = 34.613953
+longitude = -78.03154
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28471"
+

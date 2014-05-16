@@ -1,6 +1,8 @@
-zip_code = "29320"
-state = "SC"
 city = "Arcadia"
 county = "Spartanburg"
-longitude = -81.991626
 latitude = 34.95717
+longitude = -81.991626
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29320"
+

@@ -1,6 +1,8 @@
-zip_code = "53170"
-state = "WI"
 city = "Silver Lake"
 county = "Kenosha"
-longitude = -88.160836
 latitude = 42.552018
+longitude = -88.160836
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53170"
+

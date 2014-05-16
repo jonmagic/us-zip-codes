@@ -1,6 +1,8 @@
-zip_code = "12472"
-state = "NY"
 city = "Rosendale"
 county = "Ulster"
-longitude = -74.074621
 latitude = 41.873367
+longitude = -74.074621
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12472"
+

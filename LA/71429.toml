@@ -1,6 +1,8 @@
-zip_code = "71429"
-state = "LA"
 city = "Florien"
 county = "Sabine"
-longitude = -93.430975
 latitude = 31.343315
+longitude = -93.430975
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71429"
+

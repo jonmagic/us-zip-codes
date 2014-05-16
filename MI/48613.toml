@@ -1,6 +1,8 @@
-zip_code = "48613"
-state = "MI"
 city = "Bentley"
 county = "Bay"
-longitude = -84.105306
 latitude = 43.92673
+longitude = -84.105306
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48613"
+

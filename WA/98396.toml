@@ -1,6 +1,8 @@
-zip_code = "98396"
-state = "WA"
 city = "Wilkeson"
 county = "Pierce"
-longitude = -122.037015
 latitude = 47.109524
+longitude = -122.037015
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98396"
+

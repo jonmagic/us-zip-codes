@@ -1,6 +1,8 @@
-zip_code = "98237"
-state = "WA"
 city = "Concrete"
 county = "Skagit"
-longitude = -121.697178
 latitude = 48.508868
+longitude = -121.697178
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98237"
+

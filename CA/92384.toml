@@ -1,6 +1,8 @@
-zip_code = "92384"
-state = "CA"
 city = "Shoshone"
 county = "Inyo"
-longitude = -116.270561
 latitude = 35.977703
+longitude = -116.270561
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92384"
+

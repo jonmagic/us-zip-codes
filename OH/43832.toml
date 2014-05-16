@@ -1,6 +1,8 @@
-zip_code = "43832"
-state = "OH"
 city = "Newcomerstown"
 county = "Tuscarawas"
-longitude = -81.571033
 latitude = 40.33031
+longitude = -81.571033
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43832"
+

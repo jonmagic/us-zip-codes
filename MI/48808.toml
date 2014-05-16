@@ -1,6 +1,8 @@
-zip_code = "48808"
-state = "MI"
 city = "Bath"
 county = "Clinton"
-longitude = -84.483853
 latitude = 42.819509
+longitude = -84.483853
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48808"
+

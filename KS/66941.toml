@@ -1,6 +1,8 @@
-zip_code = "66941"
-state = "KS"
 city = "Esbon"
 county = "Jewell"
-longitude = -98.433369
 latitude = 39.820964
+longitude = -98.433369
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66941"
+

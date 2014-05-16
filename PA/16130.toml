@@ -1,6 +1,8 @@
-zip_code = "16130"
-state = "PA"
 city = "Hadley"
 county = "Mercer"
-longitude = -80.292168
 latitude = 41.32821
+longitude = -80.292168
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16130"
+

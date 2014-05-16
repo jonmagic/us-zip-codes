@@ -1,6 +1,8 @@
-zip_code = "27357"
-state = "NC"
 city = "Stokesdale"
 county = "Guilford"
-longitude = -79.974028
 latitude = 36.225751
+longitude = -79.974028
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27357"
+

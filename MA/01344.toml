@@ -1,6 +1,8 @@
-zip_code = "01344"
-state = "MA"
 city = "Erving"
 county = "Franklin"
-longitude = -72.553654
 latitude = 42.627072
+longitude = -72.553654
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01344"
+

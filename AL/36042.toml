@@ -1,6 +1,8 @@
-zip_code = "36042"
-state = "AL"
 city = "Honoraville"
 county = "Crenshaw"
-longitude = -86.405406
 latitude = 31.871334
+longitude = -86.405406
+state = ""
+state_code_alpha2 = ""
+zip_code = "36042"
+

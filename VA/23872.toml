@@ -1,6 +1,8 @@
-zip_code = "23872"
-state = "VA"
 city = "Mc Kenney"
 county = "Dinwiddie"
-longitude = -77.736044
 latitude = 37.010322
+longitude = -77.736044
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23872"
+

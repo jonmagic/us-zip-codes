@@ -1,6 +1,8 @@
-zip_code = "43341"
-state = "OH"
 city = "New Bloomington"
 county = "Marion"
-longitude = -83.308663
 latitude = 40.599228
+longitude = -83.308663
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43341"
+

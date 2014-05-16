@@ -1,6 +1,8 @@
-zip_code = "08558"
-state = "NJ"
 city = "Skillman"
 county = "Somerset"
-longitude = -74.708525
 latitude = 40.434255
+longitude = -74.708525
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08558"
+

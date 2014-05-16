@@ -1,6 +1,8 @@
-zip_code = "25186"
-state = "WV"
 city = "Smithers"
 county = "Fayette"
-longitude = -81.278012
 latitude = 38.154338
+longitude = -81.278012
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25186"
+

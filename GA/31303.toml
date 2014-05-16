@@ -1,6 +1,8 @@
-zip_code = "31303"
-state = "GA"
 city = "Clyo"
 county = "Effingham"
-longitude = -81.322392
 latitude = 32.488015
+longitude = -81.322392
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31303"
+

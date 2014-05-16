@@ -1,6 +1,8 @@
-zip_code = "12815"
-state = "NY"
 city = "Brant Lake"
 county = "Warren"
-longitude = -73.773434
 latitude = 43.677503
+longitude = -73.773434
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12815"
+

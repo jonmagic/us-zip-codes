@@ -1,6 +1,8 @@
-zip_code = "44453"
-state = "OH"
 city = "Orangeville"
 county = "Trumbull"
-longitude = -80.533572
 latitude = 41.32519
+longitude = -80.533572
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44453"
+

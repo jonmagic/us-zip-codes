@@ -1,6 +1,8 @@
-zip_code = "57434"
-state = "SD"
 city = "Conde"
 county = "Spink"
-longitude = -98.15339
 latitude = 45.139317
+longitude = -98.15339
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57434"
+

@@ -1,6 +1,8 @@
-zip_code = "16049"
-state = "PA"
 city = "Parker"
 county = "Armstrong"
-longitude = -79.682532
 latitude = 41.093079
+longitude = -79.682532
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16049"
+

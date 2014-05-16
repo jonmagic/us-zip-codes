@@ -1,6 +1,8 @@
-zip_code = "83669"
-state = "ID"
 city = "Star"
 county = "Ada"
-longitude = -116.485429
 latitude = 43.713037
+longitude = -116.485429
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83669"
+

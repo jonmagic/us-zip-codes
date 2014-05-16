@@ -1,6 +1,8 @@
-zip_code = "62882"
-state = "IL"
 city = "Sandoval"
 county = "Marion"
-longitude = -88.968203
 latitude = 38.597
+longitude = -88.968203
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62882"
+

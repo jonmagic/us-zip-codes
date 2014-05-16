@@ -1,6 +1,8 @@
-zip_code = "61284"
-state = "IL"
 city = "Taylor Ridge"
 county = "Rock Island"
-longitude = -90.714746
 latitude = 41.391078
+longitude = -90.714746
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61284"
+

@@ -1,6 +1,8 @@
-zip_code = "71259"
-state = "LA"
 city = "Mangham"
 county = "Richland"
-longitude = -91.741639
 latitude = 32.343608
+longitude = -91.741639
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71259"
+

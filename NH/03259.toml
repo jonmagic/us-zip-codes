@@ -1,6 +1,8 @@
-zip_code = "03259"
-state = "NH"
 city = "North Sandwich"
 county = "Carroll"
-longitude = -71.37719
 latitude = 43.85971
+longitude = -71.37719
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03259"
+

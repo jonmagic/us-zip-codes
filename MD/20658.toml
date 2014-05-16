@@ -1,6 +1,8 @@
-zip_code = "20658"
-state = "MD"
 city = "Marbury"
 county = "Charles"
-longitude = -77.159621
 latitude = 38.563331
+longitude = -77.159621
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20658"
+

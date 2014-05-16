@@ -1,6 +1,8 @@
-zip_code = "66509"
-state = "KS"
 city = "Mayetta"
 county = "Jackson"
-longitude = -95.760939
 latitude = 39.312432
+longitude = -95.760939
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66509"
+

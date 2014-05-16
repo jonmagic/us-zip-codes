@@ -1,6 +1,8 @@
-zip_code = "03890"
-state = "NH"
 city = "West Ossipee"
 county = "Carroll"
-longitude = -71.194586
 latitude = 43.811782
+longitude = -71.194586
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03890"
+

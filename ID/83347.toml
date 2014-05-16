@@ -1,6 +1,8 @@
-zip_code = "83347"
-state = "ID"
 city = "Paul"
 county = "Minidoka"
-longitude = -113.790133
 latitude = 42.684923
+longitude = -113.790133
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83347"
+

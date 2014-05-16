@@ -1,6 +1,8 @@
-zip_code = "13148"
-state = "NY"
 city = "Seneca Falls"
 county = "Seneca"
-longitude = -76.794921
 latitude = 42.905264
+longitude = -76.794921
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13148"
+

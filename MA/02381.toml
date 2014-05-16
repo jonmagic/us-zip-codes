@@ -1,6 +1,8 @@
-zip_code = "02381"
-state = "MA"
 city = "White Horse Beach"
 county = "Plymouth"
-longitude = -70.561051
 latitude = 41.931602
+longitude = -70.561051
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02381"
+

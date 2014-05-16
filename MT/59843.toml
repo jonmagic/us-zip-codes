@@ -1,6 +1,8 @@
-zip_code = "59843"
-state = "MT"
 city = "Helmville"
 county = "Powell"
-longitude = -112.931166
 latitude = 46.863363
+longitude = -112.931166
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59843"
+

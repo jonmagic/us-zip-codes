@@ -1,6 +1,8 @@
-zip_code = "33051"
-state = "FL"
 city = "Key Colony Beach"
 county = "Monroe"
-longitude = -81.020281
 latitude = 24.72339
+longitude = -81.020281
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33051"
+

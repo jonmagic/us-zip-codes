@@ -1,6 +1,8 @@
-zip_code = "59467"
-state = "MT"
 city = "Pendroy"
 county = "Teton"
-longitude = -112.316655
 latitude = 48.042871
+longitude = -112.316655
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59467"
+

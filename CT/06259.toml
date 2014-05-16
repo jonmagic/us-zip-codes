@@ -1,6 +1,8 @@
-zip_code = "06259"
-state = "CT"
 city = "Pomfret Center"
 county = "Windham"
-longitude = -72.00259
 latitude = 41.863133
+longitude = -72.00259
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06259"
+

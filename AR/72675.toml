@@ -1,6 +1,8 @@
-zip_code = "72675"
-state = "AR"
 city = "Saint Joe"
 county = "Searcy"
-longitude = -92.699416
 latitude = 35.908381
+longitude = -92.699416
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72675"
+

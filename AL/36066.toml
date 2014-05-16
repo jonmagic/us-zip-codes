@@ -1,6 +1,8 @@
-zip_code = "36066"
-state = "AL"
 city = "Prattville"
 county = "Autauga"
-longitude = -86.440879
 latitude = 32.50919
+longitude = -86.440879
+state = ""
+state_code_alpha2 = ""
+zip_code = "36066"
+

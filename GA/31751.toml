@@ -1,6 +1,8 @@
-zip_code = "31751"
-state = "GA"
 city = "Fort Gaines"
 county = "Clay"
-longitude = -85.054942
 latitude = 31.63618
+longitude = -85.054942
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31751"
+

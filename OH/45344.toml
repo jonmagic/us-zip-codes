@@ -1,6 +1,8 @@
-zip_code = "45344"
-state = "OH"
 city = "New Carlisle"
 county = "Clark"
-longitude = -83.986855
 latitude = 39.959249
+longitude = -83.986855
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45344"
+

@@ -1,6 +1,8 @@
-zip_code = "39071"
-state = "MS"
 city = "Flora"
 county = "Madison"
-longitude = -90.326653
 latitude = 32.553269
+longitude = -90.326653
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39071"
+

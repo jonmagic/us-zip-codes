@@ -1,6 +1,8 @@
-zip_code = "02664"
-state = "MA"
 city = "South Yarmouth"
 county = "Barnstable"
-longitude = -70.084259
 latitude = 41.82412
+longitude = -70.084259
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02664"
+

@@ -1,6 +1,8 @@
-zip_code = "50076"
-state = "IA"
 city = "Exira"
 county = "Audubon"
-longitude = -94.870749
 latitude = 41.589212
+longitude = -94.870749
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50076"
+

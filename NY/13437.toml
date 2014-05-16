@@ -1,6 +1,8 @@
-zip_code = "13437"
-state = "NY"
 city = "Redfield"
 county = "Oswego"
-longitude = -75.829419
 latitude = 43.577131
+longitude = -75.829419
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13437"
+

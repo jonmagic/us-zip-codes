@@ -1,6 +1,8 @@
-zip_code = "70647"
-state = "LA"
 city = "Iowa"
 county = "Calcasieu"
-longitude = -93.033305
 latitude = 30.239624
+longitude = -93.033305
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70647"
+

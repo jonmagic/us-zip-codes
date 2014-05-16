@@ -1,6 +1,8 @@
-zip_code = "32346"
-state = "FL"
 city = "Panacea"
 county = "Wakulla"
-longitude = -84.386837
 latitude = 30.021079
+longitude = -84.386837
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32346"
+

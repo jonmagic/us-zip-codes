@@ -1,6 +1,8 @@
-zip_code = "99950"
-state = "AK"
 city = "Ketchikan"
 county = "Ketchikan Gateway"
-longitude = -131.432682
 latitude = 55.542007
+longitude = -131.432682
+state = ""
+state_code_alpha2 = ""
+zip_code = "99950"
+

@@ -1,6 +1,8 @@
-zip_code = "02205"
-state = "MA"
 city = "Boston"
 county = "Suffolk"
-longitude = -71.053877
 latitude = 42.350334
+longitude = -71.053877
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02205"
+

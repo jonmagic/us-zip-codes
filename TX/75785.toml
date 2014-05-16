@@ -1,6 +1,8 @@
-zip_code = "75785"
-state = "TX"
 city = "Rusk"
 county = "Cherokee"
-longitude = -95.0965
 latitude = 31.813578
+longitude = -95.0965
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75785"
+

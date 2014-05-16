@@ -1,6 +1,8 @@
-zip_code = "36461"
-state = "AL"
 city = "Monroeville"
 county = "Monroe"
-longitude = -87.341108
 latitude = 31.522093
+longitude = -87.341108
+state = ""
+state_code_alpha2 = ""
+zip_code = "36461"
+

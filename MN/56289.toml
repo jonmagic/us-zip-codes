@@ -1,6 +1,8 @@
-zip_code = "56289"
-state = "MN"
 city = "Sunburg"
 county = "Kandiyohi"
-longitude = -95.141945
 latitude = 45.258882
+longitude = -95.141945
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56289"
+

@@ -1,6 +1,8 @@
-zip_code = "30298"
-state = "GA"
 city = "Forest Park"
 county = "Clayton"
-longitude = -84.351273
 latitude = 33.500697
+longitude = -84.351273
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30298"
+

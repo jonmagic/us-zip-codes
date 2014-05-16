@@ -1,6 +1,8 @@
-zip_code = "49455"
-state = "MI"
 city = "Shelby"
 county = "Oceana"
-longitude = -86.349283
 latitude = 43.638343
+longitude = -86.349283
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49455"
+

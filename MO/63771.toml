@@ -1,6 +1,8 @@
-zip_code = "63771"
-state = "MO"
 city = "Oran"
 county = "Scott"
-longitude = -89.670685
 latitude = 37.056528
+longitude = -89.670685
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63771"
+

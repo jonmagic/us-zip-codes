@@ -1,6 +1,8 @@
-zip_code = "36375"
-state = "AL"
 city = "Slocomb"
 county = "Geneva"
-longitude = -85.564508
 latitude = 31.137138
+longitude = -85.564508
+state = ""
+state_code_alpha2 = ""
+zip_code = "36375"
+

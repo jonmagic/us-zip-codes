@@ -1,6 +1,8 @@
-zip_code = "65542"
-state = "MO"
 city = "Licking"
 county = "Texas"
-longitude = -91.867049
 latitude = 37.390505
+longitude = -91.867049
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65542"
+

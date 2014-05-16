@@ -1,6 +1,8 @@
-zip_code = "10927"
-state = "NY"
 city = "Haverstraw"
 county = "Rockland"
-longitude = -73.964933
 latitude = 41.191694
+longitude = -73.964933
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10927"
+

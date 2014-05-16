@@ -1,6 +1,8 @@
-zip_code = "58031"
-state = "ND"
 city = "Fingal"
 county = "Barnes"
-longitude = -97.797553
 latitude = 46.775099
+longitude = -97.797553
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58031"
+

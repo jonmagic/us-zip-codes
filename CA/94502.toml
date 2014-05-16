@@ -1,6 +1,8 @@
-zip_code = "94502"
-state = "CA"
 city = "Alameda"
 county = "Alameda"
-longitude = -122.243067
 latitude = 37.735088
+longitude = -122.243067
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94502"
+

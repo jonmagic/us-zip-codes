@@ -1,6 +1,8 @@
-zip_code = "87316"
-state = "NM"
 city = "Fort Wingate"
 county = "Mckinley"
-longitude = -108.486407
 latitude = 35.519129
+longitude = -108.486407
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87316"
+

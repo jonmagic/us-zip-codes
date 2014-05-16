@@ -1,6 +1,8 @@
-zip_code = "56714"
-state = "MN"
 city = "Badger"
 county = "Roseau"
-longitude = -96.020334
 latitude = 48.774428
+longitude = -96.020334
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56714"
+

@@ -1,6 +1,8 @@
-zip_code = "62670"
-state = "IL"
 city = "New Berlin"
 county = "Sangamon"
-longitude = -89.854952
 latitude = 39.768067
+longitude = -89.854952
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62670"
+

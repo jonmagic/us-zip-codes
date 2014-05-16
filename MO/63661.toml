@@ -1,6 +1,8 @@
-zip_code = "63661"
-state = "MO"
 city = "New Offenburg"
 county = "Sainte Genevieve"
-longitude = -90.191972
 latitude = 37.89872
+longitude = -90.191972
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63661"
+

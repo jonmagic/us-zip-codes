@@ -1,6 +1,8 @@
-zip_code = "15948"
-state = "PA"
 city = "Revloc"
 county = "Cambria"
-longitude = -78.685365
 latitude = 40.464069
+longitude = -78.685365
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15948"
+

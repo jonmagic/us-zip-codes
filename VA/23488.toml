@@ -1,6 +1,8 @@
-zip_code = "23488"
-state = "VA"
 city = "Withams"
 county = "Accomack"
-longitude = -75.601856
 latitude = 37.948229
+longitude = -75.601856
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23488"
+

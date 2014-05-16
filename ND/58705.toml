@@ -1,6 +1,8 @@
-zip_code = "58705"
-state = "ND"
 city = "Minot Afb"
 county = "Ward"
-longitude = -101.297161
 latitude = 48.234184
+longitude = -101.297161
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58705"
+

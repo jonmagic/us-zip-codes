@@ -1,6 +1,8 @@
-zip_code = "63880"
-state = "MO"
 city = "Whiteoak"
 county = "Dunklin"
-longitude = -90.165758
 latitude = 36.313319
+longitude = -90.165758
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63880"
+

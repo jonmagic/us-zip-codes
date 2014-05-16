@@ -1,6 +1,8 @@
-zip_code = "84601"
-state = "UT"
 city = "Provo"
 county = "Utah"
-longitude = -111.695558
 latitude = 40.235053
+longitude = -111.695558
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84601"
+

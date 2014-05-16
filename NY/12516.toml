@@ -1,6 +1,8 @@
-zip_code = "12516"
-state = "NY"
 city = "Copake"
 county = "Columbia"
-longitude = -73.576102
 latitude = 42.099322
+longitude = -73.576102
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12516"
+

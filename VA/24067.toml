@@ -1,6 +1,8 @@
-zip_code = "24067"
-state = "VA"
 city = "Callaway"
 county = "Franklin"
-longitude = -80.056685
 latitude = 37.024849
+longitude = -80.056685
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24067"
+

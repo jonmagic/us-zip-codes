@@ -1,6 +1,8 @@
-zip_code = "28341"
-state = "NC"
 city = "Faison"
 county = "Duplin"
-longitude = -78.102083
 latitude = 35.105419
+longitude = -78.102083
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28341"
+

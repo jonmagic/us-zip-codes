@@ -1,6 +1,8 @@
-zip_code = "17070"
-state = "PA"
 city = "New Cumberland"
 county = "Cumberland"
-longitude = -76.898096
 latitude = 40.263875
+longitude = -76.898096
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17070"
+

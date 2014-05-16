@@ -1,6 +1,8 @@
-zip_code = "16415"
-state = "PA"
 city = "Fairview"
 county = "Erie"
-longitude = -80.335032
 latitude = 42.011544
+longitude = -80.335032
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16415"
+

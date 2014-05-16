@@ -1,6 +1,8 @@
-zip_code = "21613"
-state = "MD"
 city = "Cambridge"
 county = "Dorchester"
-longitude = -76.079864
 latitude = 38.479813
+longitude = -76.079864
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21613"
+

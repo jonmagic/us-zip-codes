@@ -1,6 +1,8 @@
-zip_code = "53002"
-state = "WI"
 city = "Allenton"
 county = "Washington"
-longitude = -88.26219
 latitude = 43.382128
+longitude = -88.26219
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53002"
+

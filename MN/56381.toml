@@ -1,6 +1,8 @@
-zip_code = "56381"
-state = "MN"
 city = "Starbuck"
 county = "Pope"
-longitude = -95.573436
 latitude = 45.572758
+longitude = -95.573436
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56381"
+

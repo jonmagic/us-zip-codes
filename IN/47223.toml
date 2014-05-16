@@ -1,6 +1,8 @@
-zip_code = "47223"
-state = "IN"
 city = "Butlerville"
 county = "Jennings"
-longitude = -85.486831
 latitude = 39.046146
+longitude = -85.486831
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47223"
+

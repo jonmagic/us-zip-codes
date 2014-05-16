@@ -1,6 +1,8 @@
-zip_code = "29639"
-state = "SC"
 city = "Due West"
 county = "Abbeville"
-longitude = -82.430787
 latitude = 34.326755
+longitude = -82.430787
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29639"
+

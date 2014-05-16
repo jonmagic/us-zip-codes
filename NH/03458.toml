@@ -1,6 +1,8 @@
-zip_code = "03458"
-state = "NH"
 city = "Peterborough"
 county = "Hillsborough"
-longitude = -71.9372
 latitude = 42.956433
+longitude = -71.9372
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03458"
+

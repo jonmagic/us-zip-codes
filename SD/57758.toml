@@ -1,6 +1,8 @@
-zip_code = "57758"
-state = "SD"
 city = "Mud Butte"
 county = "Meade"
-longitude = -102.787188
 latitude = 44.589806
+longitude = -102.787188
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57758"
+

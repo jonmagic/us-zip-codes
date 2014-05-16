@@ -1,6 +1,8 @@
-zip_code = "55349"
-state = "MN"
 city = "Howard Lake"
 county = "Wright"
-longitude = -94.047497
 latitude = 45.101679
+longitude = -94.047497
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55349"
+

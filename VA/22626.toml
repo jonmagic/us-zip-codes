@@ -1,6 +1,8 @@
-zip_code = "22626"
-state = "VA"
 city = "Fishers Hill"
 county = "Shenandoah"
-longitude = -78.403766
 latitude = 38.983383
+longitude = -78.403766
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22626"
+

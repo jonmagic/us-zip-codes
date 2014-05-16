@@ -1,6 +1,8 @@
-zip_code = "01561"
-state = "MA"
 city = "South Lancaster"
 county = "Worcester"
-longitude = -71.686137
 latitude = 42.443539
+longitude = -71.686137
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01561"
+

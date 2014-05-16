@@ -1,6 +1,8 @@
-zip_code = "43333"
-state = "OH"
 city = "Lewistown"
 county = "Logan"
-longitude = -83.926452
 latitude = 40.436912
+longitude = -83.926452
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43333"
+

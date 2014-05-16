@@ -1,6 +1,8 @@
-zip_code = "06439"
-state = "CT"
 city = "Hadlyme"
 county = "New London"
-longitude = -72.414095
 latitude = 41.421198
+longitude = -72.414095
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06439"
+

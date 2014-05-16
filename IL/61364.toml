@@ -1,6 +1,8 @@
-zip_code = "61364"
-state = "IL"
 city = "Streator"
 county = "La Salle"
-longitude = -88.85632
 latitude = 41.164177
+longitude = -88.85632
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61364"
+

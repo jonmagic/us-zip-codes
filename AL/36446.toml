@@ -1,6 +1,8 @@
-zip_code = "36446"
-state = "AL"
 city = "Fulton"
 county = "Clarke"
-longitude = -87.741085
 latitude = 31.782639
+longitude = -87.741085
+state = ""
+state_code_alpha2 = ""
+zip_code = "36446"
+

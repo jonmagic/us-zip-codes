@@ -1,6 +1,8 @@
-zip_code = "95131"
-state = "CA"
 city = "San Jose"
 county = "Santa Clara"
-longitude = -121.886316
 latitude = 37.388389
+longitude = -121.886316
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95131"
+

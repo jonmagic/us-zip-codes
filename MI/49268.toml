@@ -1,6 +1,8 @@
-zip_code = "49268"
-state = "MI"
 city = "Palmyra"
 county = "Lenawee"
-longitude = -83.920024
 latitude = 41.86957
+longitude = -83.920024
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49268"
+

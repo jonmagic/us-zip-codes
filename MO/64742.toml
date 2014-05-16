@@ -1,6 +1,8 @@
-zip_code = "64742"
-state = "MO"
 city = "Drexel"
 county = "Bates"
-longitude = -94.580083
 latitude = 38.476542
+longitude = -94.580083
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64742"
+

@@ -1,6 +1,8 @@
-zip_code = "32464"
-state = "FL"
 city = "Westville"
 county = "Holmes"
-longitude = -85.929742
 latitude = 30.872298
+longitude = -85.929742
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32464"
+

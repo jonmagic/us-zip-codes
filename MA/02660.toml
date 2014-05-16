@@ -1,6 +1,8 @@
-zip_code = "02660"
-state = "MA"
 city = "South Dennis"
 county = "Barnstable"
-longitude = -70.089244
 latitude = 41.80038
+longitude = -70.089244
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02660"
+

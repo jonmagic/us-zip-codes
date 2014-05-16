@@ -1,6 +1,8 @@
-zip_code = "82711"
-state = "WY"
 city = "Alva"
 county = "Crook"
-longitude = -104.441353
 latitude = 44.68734
+longitude = -104.441353
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82711"
+

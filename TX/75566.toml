@@ -1,6 +1,8 @@
-zip_code = "75566"
-state = "TX"
 city = "Marietta"
 county = "Cass"
-longitude = -94.348359
 latitude = 33.095778
+longitude = -94.348359
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75566"
+

@@ -1,6 +1,8 @@
-zip_code = "14860"
-state = "NY"
 city = "Lodi"
 county = "Seneca"
-longitude = -76.801671
 latitude = 42.586029
+longitude = -76.801671
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14860"
+

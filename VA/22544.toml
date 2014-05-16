@@ -1,6 +1,8 @@
-zip_code = "22544"
-state = "VA"
 city = "Rollins Fork"
 county = "King George"
-longitude = -77.17261
 latitude = 38.271077
+longitude = -77.17261
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22544"
+

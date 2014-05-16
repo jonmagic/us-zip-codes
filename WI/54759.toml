@@ -1,6 +1,8 @@
-zip_code = "54759"
-state = "WI"
 city = "Pepin"
 county = "Pepin"
-longitude = -92.131821
 latitude = 44.509108
+longitude = -92.131821
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54759"
+

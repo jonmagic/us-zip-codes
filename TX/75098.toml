@@ -1,6 +1,8 @@
-zip_code = "75098"
-state = "TX"
 city = "Wylie"
 county = "Dallas"
-longitude = -96.552397
 latitude = 32.970309
+longitude = -96.552397
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75098"
+

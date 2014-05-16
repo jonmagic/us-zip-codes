@@ -1,6 +1,8 @@
-zip_code = "59718"
-state = "MT"
 city = "Bozeman"
 county = "Gallatin"
-longitude = -111.240393
 latitude = 45.66812
+longitude = -111.240393
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59718"
+

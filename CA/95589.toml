@@ -1,6 +1,8 @@
-zip_code = "95589"
-state = "CA"
 city = "Whitethorn"
 county = "Humboldt"
-longitude = -123.847878
 latitude = 40.47949
+longitude = -123.847878
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95589"
+

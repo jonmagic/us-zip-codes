@@ -1,6 +1,8 @@
-zip_code = "83677"
-state = "ID"
 city = "Yellow Pine"
 county = "Valley"
-longitude = -115.453583
 latitude = 44.68367
+longitude = -115.453583
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83677"
+

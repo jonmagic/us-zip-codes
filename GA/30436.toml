@@ -1,6 +1,8 @@
-zip_code = "30436"
-state = "GA"
 city = "Lyons"
 county = "Toombs"
-longitude = -82.330546
 latitude = 32.129147
+longitude = -82.330546
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30436"
+

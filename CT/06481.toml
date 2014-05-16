@@ -1,6 +1,8 @@
-zip_code = "06481"
-state = "CT"
 city = "Rockfall"
 county = "Middlesex"
-longitude = -72.666583
 latitude = 41.542105
+longitude = -72.666583
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06481"
+

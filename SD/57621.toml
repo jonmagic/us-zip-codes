@@ -1,6 +1,8 @@
-zip_code = "57621"
-state = "SD"
 city = "Bullhead"
 county = "Corson"
-longitude = -101.09974
 latitude = 45.847567
+longitude = -101.09974
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57621"
+

@@ -1,6 +1,8 @@
-zip_code = "54742"
-state = "WI"
 city = "Fall Creek"
 county = "Eau Claire"
-longitude = -91.306304
 latitude = 44.762892
+longitude = -91.306304
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54742"
+

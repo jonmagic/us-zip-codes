@@ -1,6 +1,8 @@
-zip_code = "36862"
-state = "AL"
 city = "Lafayette"
 county = "Chambers"
-longitude = -85.388079
 latitude = 32.912315
+longitude = -85.388079
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36862"
+

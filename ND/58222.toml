@@ -1,6 +1,8 @@
-zip_code = "58222"
-state = "ND"
 city = "Crystal"
 county = "Pembina"
-longitude = -97.633342
 latitude = 48.6449
+longitude = -97.633342
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58222"
+

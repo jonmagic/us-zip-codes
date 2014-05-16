@@ -1,6 +1,8 @@
-zip_code = "30002"
-state = "GA"
 city = "Avondale Estates"
 county = "Dekalb"
-longitude = -84.23937
 latitude = 33.771704
+longitude = -84.23937
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30002"
+

@@ -1,6 +1,8 @@
-zip_code = "62514"
-state = "IL"
 city = "Boody"
 county = "Macon"
-longitude = -89.039766
 latitude = 39.764726
+longitude = -89.039766
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62514"
+

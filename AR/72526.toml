@@ -1,6 +1,8 @@
-zip_code = "72526"
-state = "AR"
 city = "Cushman"
 county = "Independence"
-longitude = -91.758171
 latitude = 35.872871
+longitude = -91.758171
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72526"
+

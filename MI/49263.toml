@@ -1,6 +1,8 @@
-zip_code = "49263"
-state = "MI"
 city = "Norvell"
 county = "Jackson"
-longitude = -84.183828
 latitude = 42.158189
+longitude = -84.183828
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49263"
+

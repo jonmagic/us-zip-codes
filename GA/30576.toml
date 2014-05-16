@@ -1,6 +1,8 @@
-zip_code = "30576"
-state = "GA"
 city = "Tiger"
 county = "Rabun"
-longitude = -83.457267
 latitude = 34.856395
+longitude = -83.457267
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30576"
+

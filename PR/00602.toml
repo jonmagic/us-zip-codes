@@ -1,6 +1,8 @@
-zip_code = "00602"
-state = "PR"
 city = "Aguada"
 county = "Aguada"
-longitude = -67.180953
 latitude = 18.393103
+longitude = -67.180953
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00602"
+

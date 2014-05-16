@@ -1,6 +1,8 @@
-zip_code = "95328"
-state = "CA"
 city = "Keyes"
 county = "Stanislaus"
-longitude = -120.913846
 latitude = 37.55928
+longitude = -120.913846
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95328"
+

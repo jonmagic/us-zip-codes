@@ -1,6 +1,8 @@
-zip_code = "36261"
-state = "AL"
 city = "Edwardsville"
 county = "Cleburne"
-longitude = -85.509902
 latitude = 33.706595
+longitude = -85.509902
+state = ""
+state_code_alpha2 = ""
+zip_code = "36261"
+

@@ -1,6 +1,8 @@
-zip_code = "49724"
-state = "MI"
 city = "Dafter"
 county = "Chippewa"
-longitude = -84.617131
 latitude = 46.311604
+longitude = -84.617131
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49724"
+

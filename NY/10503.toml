@@ -1,6 +1,8 @@
-zip_code = "10503"
-state = "NY"
 city = "Ardsley On Hudson"
 county = "Westchester"
-longitude = -73.87185
 latitude = 41.025947
+longitude = -73.87185
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10503"
+

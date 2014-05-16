@@ -1,6 +1,8 @@
-zip_code = "55798"
-state = "MN"
 city = "Wright"
 county = "Carlton"
-longitude = -92.735406
 latitude = 46.614151
+longitude = -92.735406
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55798"
+

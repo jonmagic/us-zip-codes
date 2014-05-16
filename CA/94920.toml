@@ -1,6 +1,8 @@
-zip_code = "94920"
-state = "CA"
 city = "Belvedere Tiburon"
 county = "Marin"
-longitude = -122.564439
 latitude = 37.935324
+longitude = -122.564439
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94920"
+

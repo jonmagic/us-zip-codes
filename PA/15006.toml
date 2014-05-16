@@ -1,6 +1,8 @@
-zip_code = "15006"
-state = "PA"
 city = "Bairdford"
 county = "Allegheny"
-longitude = -79.903121
 latitude = 40.493128
+longitude = -79.903121
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15006"
+

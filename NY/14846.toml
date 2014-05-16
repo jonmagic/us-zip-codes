@@ -1,6 +1,8 @@
-zip_code = "14846"
-state = "NY"
 city = "Hunt"
 county = "Livingston"
-longitude = -77.999451
 latitude = 42.555834
+longitude = -77.999451
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14846"
+

@@ -1,6 +1,8 @@
-zip_code = "85553"
-state = "AZ"
 city = "Tonto Basin"
 county = "Gila"
-longitude = -110.860653
 latitude = 33.741518
+longitude = -110.860653
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85553"
+

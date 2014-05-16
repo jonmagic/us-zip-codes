@@ -1,6 +1,8 @@
-zip_code = "00949"
-state = "PR"
 city = "Toa Baja"
 county = "Toa Baja"
-longitude = -66.199692
 latitude = 18.431911
+longitude = -66.199692
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00949"
+

@@ -1,6 +1,8 @@
-zip_code = "56560"
-state = "MN"
 city = "Moorhead"
 county = "Clay"
-longitude = -96.557389
 latitude = 46.803546
+longitude = -96.557389
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56560"
+

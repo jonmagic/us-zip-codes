@@ -1,6 +1,8 @@
-zip_code = "41001"
-state = "KY"
 city = "Alexandria"
 county = "Campbell"
-longitude = -84.374584
 latitude = 38.921584
+longitude = -84.374584
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41001"
+

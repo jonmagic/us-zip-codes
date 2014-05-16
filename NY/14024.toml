@@ -1,6 +1,8 @@
-zip_code = "14024"
-state = "NY"
 city = "Bliss"
 county = "Wyoming"
-longitude = -78.246616
 latitude = 42.590046
+longitude = -78.246616
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14024"
+

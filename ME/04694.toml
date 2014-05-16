@@ -1,6 +1,8 @@
-zip_code = "04694"
-state = "ME"
 city = "Baileyville"
 county = "Washington"
-longitude = -67.37741
 latitude = 45.152637
+longitude = -67.37741
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04694"
+

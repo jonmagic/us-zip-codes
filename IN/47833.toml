@@ -1,6 +1,8 @@
-zip_code = "47833"
-state = "IN"
 city = "Bowling Green"
 county = "Clay"
-longitude = -87.065524
 latitude = 39.415414
+longitude = -87.065524
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47833"
+

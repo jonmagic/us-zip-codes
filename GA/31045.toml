@@ -1,6 +1,8 @@
-zip_code = "31045"
-state = "GA"
 city = "Jewell"
 county = "Warren"
-longitude = -82.755599
 latitude = 33.296633
+longitude = -82.755599
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31045"
+

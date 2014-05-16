@@ -1,6 +1,8 @@
-zip_code = "06335"
-state = "CT"
 city = "Gales Ferry"
 county = "New London"
-longitude = -72.021165
 latitude = 41.523377
+longitude = -72.021165
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06335"
+

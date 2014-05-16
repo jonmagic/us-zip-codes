@@ -1,6 +1,8 @@
-zip_code = "78592"
-state = "TX"
 city = "Santa Maria"
 county = "Cameron"
-longitude = -97.475663
 latitude = 26.125242
+longitude = -97.475663
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78592"
+

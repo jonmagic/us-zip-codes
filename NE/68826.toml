@@ -1,6 +1,8 @@
-zip_code = "68826"
-state = "NE"
 city = "Central City"
 county = "Merrick"
-longitude = -98.010548
 latitude = 41.162876
+longitude = -98.010548
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68826"
+

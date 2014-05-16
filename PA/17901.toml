@@ -1,6 +1,8 @@
-zip_code = "17901"
-state = "PA"
 city = "Pottsville"
 county = "Schuylkill"
-longitude = -76.282986
 latitude = 40.708751
+longitude = -76.282986
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17901"
+

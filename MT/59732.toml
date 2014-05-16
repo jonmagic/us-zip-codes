@@ -1,6 +1,8 @@
-zip_code = "59732"
-state = "MT"
 city = "Glen"
 county = "Beaverhead"
-longitude = -112.70073
 latitude = 45.149805
+longitude = -112.70073
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59732"
+

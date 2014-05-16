@@ -1,6 +1,8 @@
-zip_code = "05867"
-state = "VT"
 city = "Sutton"
 county = "Caledonia"
-longitude = -72.042415
 latitude = 44.664521
+longitude = -72.042415
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05867"
+

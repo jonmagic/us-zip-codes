@@ -1,6 +1,8 @@
-zip_code = "50630"
-state = "IA"
 city = "Fredericksburg"
 county = "Chickasaw"
-longitude = -92.205513
 latitude = 43.052855
+longitude = -92.205513
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50630"
+

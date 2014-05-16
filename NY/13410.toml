@@ -1,6 +1,8 @@
-zip_code = "13410"
-state = "NY"
 city = "Nelliston"
 county = "Montgomery"
-longitude = -74.611711
 latitude = 42.937863
+longitude = -74.611711
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13410"
+

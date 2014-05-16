@@ -1,6 +1,8 @@
-zip_code = "14112"
-state = "NY"
 city = "North Evans"
 county = "Erie"
-longitude = -78.992658
 latitude = 42.691742
+longitude = -78.992658
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14112"
+

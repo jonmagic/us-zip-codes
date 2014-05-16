@@ -1,6 +1,8 @@
-zip_code = "64062"
-state = "MO"
 city = "Lawson"
 county = "Ray"
-longitude = -94.142768
 latitude = 39.443208
+longitude = -94.142768
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64062"
+

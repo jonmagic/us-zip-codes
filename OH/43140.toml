@@ -1,6 +1,8 @@
-zip_code = "43140"
-state = "OH"
 city = "London"
 county = "Madison"
-longitude = -83.407733
 latitude = 39.886277
+longitude = -83.407733
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43140"
+

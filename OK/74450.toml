@@ -1,6 +1,8 @@
-zip_code = "74450"
-state = "OK"
 city = "Oktaha"
 county = "Muskogee"
-longitude = -95.463621
 latitude = 35.604611
+longitude = -95.463621
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74450"
+

@@ -1,6 +1,8 @@
-zip_code = "13758"
-state = "NY"
 city = "East Pharsalia"
 county = "Chenango"
-longitude = -75.721931
 latitude = 42.583518
+longitude = -75.721931
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13758"
+

@@ -1,6 +1,8 @@
-zip_code = "79056"
-state = "TX"
 city = "Lipscomb"
 county = "Lipscomb"
-longitude = -100.273561
 latitude = 36.277602
+longitude = -100.273561
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79056"
+

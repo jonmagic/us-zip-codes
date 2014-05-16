@@ -1,6 +1,8 @@
-zip_code = "11756"
-state = "NY"
 city = "Levittown"
 county = "Nassau"
-longitude = -73.515819
 latitude = 40.7228
+longitude = -73.515819
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11756"
+

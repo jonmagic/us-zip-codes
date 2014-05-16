@@ -1,6 +1,8 @@
-zip_code = "97476"
-state = "OR"
 city = "Sixes"
 county = "Curry"
-longitude = -124.433374
 latitude = 42.800135
+longitude = -124.433374
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97476"
+

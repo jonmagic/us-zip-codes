@@ -1,6 +1,8 @@
-zip_code = "39730"
-state = "MS"
 city = "Aberdeen"
 county = "Monroe"
-longitude = -88.514694
 latitude = 33.847638
+longitude = -88.514694
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39730"
+

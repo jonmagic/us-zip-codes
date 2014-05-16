@@ -1,6 +1,8 @@
-zip_code = "96701"
-state = "HI"
 city = "Aiea"
 county = "Honolulu"
-longitude = -157.927829
 latitude = 21.39065
+longitude = -157.927829
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96701"
+

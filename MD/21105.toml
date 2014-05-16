@@ -1,6 +1,8 @@
-zip_code = "21105"
-state = "MD"
 city = "Maryland Line"
 county = "Baltimore"
-longitude = -76.659492
 latitude = 39.711379
+longitude = -76.659492
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21105"
+

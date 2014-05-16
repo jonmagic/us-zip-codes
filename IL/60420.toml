@@ -1,6 +1,8 @@
-zip_code = "60420"
-state = "IL"
 city = "Dwight"
 county = "Livingston"
-longitude = -88.417086
 latitude = 41.059551
+longitude = -88.417086
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60420"
+

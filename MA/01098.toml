@@ -1,6 +1,8 @@
-zip_code = "01098"
-state = "MA"
 city = "Worthington"
 county = "Hampshire"
-longitude = -72.896133
 latitude = 42.40494
+longitude = -72.896133
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01098"
+

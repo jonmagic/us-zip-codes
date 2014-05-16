@@ -1,6 +1,8 @@
-zip_code = "43030"
-state = "OH"
 city = "Jacksontown"
 county = "Licking"
-longitude = -82.430017
 latitude = 39.968846
+longitude = -82.430017
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43030"
+

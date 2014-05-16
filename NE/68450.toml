@@ -1,6 +1,8 @@
-zip_code = "68450"
-state = "NE"
 city = "Tecumseh"
 county = "Johnson"
-longitude = -96.280341
 latitude = 40.410949
+longitude = -96.280341
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68450"
+

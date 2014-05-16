@@ -1,6 +1,8 @@
-zip_code = "16217"
-state = "PA"
 city = "Cooksburg"
 county = "Forest"
-longitude = -79.239101
 latitude = 41.475887
+longitude = -79.239101
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16217"
+

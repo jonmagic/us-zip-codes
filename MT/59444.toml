@@ -1,6 +1,8 @@
-zip_code = "59444"
-state = "MT"
 city = "Galata"
 county = "Toole"
-longitude = -111.470386
 latitude = 48.811061
+longitude = -111.470386
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59444"
+

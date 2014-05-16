@@ -1,6 +1,8 @@
-zip_code = "83272"
-state = "ID"
 city = "Saint Charles"
 county = "Bear Lake"
-longitude = -111.329873
 latitude = 42.095512
+longitude = -111.329873
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83272"
+

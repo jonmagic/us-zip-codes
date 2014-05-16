@@ -1,6 +1,8 @@
-zip_code = "47613"
-state = "IN"
 city = "Elberfeld"
 county = "Warrick"
-longitude = -87.416104
 latitude = 38.128931
+longitude = -87.416104
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47613"
+

@@ -1,6 +1,8 @@
-zip_code = "48177"
-state = "MI"
 city = "Samaria"
 county = "Monroe"
-longitude = -83.579334
 latitude = 41.807647
+longitude = -83.579334
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48177"
+

@@ -1,6 +1,8 @@
-zip_code = "64679"
-state = "MO"
 city = "Spickard"
 county = "Grundy"
-longitude = -93.589114
 latitude = 40.21786
+longitude = -93.589114
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64679"
+

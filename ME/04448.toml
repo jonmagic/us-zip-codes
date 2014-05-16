@@ -1,6 +1,8 @@
-zip_code = "04448"
-state = "ME"
 city = "Howland"
 county = "Penobscot"
-longitude = -68.666632
 latitude = 45.245635
+longitude = -68.666632
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04448"
+

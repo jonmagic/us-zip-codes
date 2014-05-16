@@ -1,6 +1,8 @@
-zip_code = "57246"
-state = "SD"
 city = "Labolt"
 county = "Grant"
-longitude = -96.670622
 latitude = 45.115408
+longitude = -96.670622
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57246"
+

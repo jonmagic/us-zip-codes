@@ -1,6 +1,8 @@
-zip_code = "81123"
-state = "CO"
 city = "Blanca"
 county = "Costilla"
-longitude = -105.57348
 latitude = 37.435812
+longitude = -105.57348
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81123"
+

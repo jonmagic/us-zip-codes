@@ -1,6 +1,8 @@
-zip_code = "87527"
-state = "NM"
 city = "Dixon"
 county = "Rio Arriba"
-longitude = -105.862272
 latitude = 36.200125
+longitude = -105.862272
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87527"
+

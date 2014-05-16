@@ -1,6 +1,8 @@
-zip_code = "45859"
-state = "OH"
 city = "Mc Guffey"
 county = "Hardin"
-longitude = -83.811072
 latitude = 40.689897
+longitude = -83.811072
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45859"
+

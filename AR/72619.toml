@@ -1,6 +1,8 @@
-zip_code = "72619"
-state = "AR"
 city = "Bull Shoals"
 county = "Marion"
-longitude = -92.629141
 latitude = 36.318875
+longitude = -92.629141
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72619"
+

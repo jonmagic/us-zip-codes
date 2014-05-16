@@ -1,6 +1,8 @@
-zip_code = "56021"
-state = "MN"
 city = "Courtland"
 county = "Nicollet"
-longitude = -94.272911
 latitude = 44.265888
+longitude = -94.272911
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56021"
+

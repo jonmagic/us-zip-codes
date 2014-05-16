@@ -1,6 +1,8 @@
-zip_code = "42287"
-state = "KY"
 city = "Welchs Creek"
 county = "Butler"
-longitude = -86.522996
 latitude = 37.318319
+longitude = -86.522996
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42287"
+

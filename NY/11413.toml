@@ -1,6 +1,8 @@
-zip_code = "11413"
-state = "NY"
 city = "Springfield Gardens"
 county = "Queens"
-longitude = -73.755926
 latitude = 40.664542
+longitude = -73.755926
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11413"
+

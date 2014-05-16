@@ -1,6 +1,8 @@
-zip_code = "28729"
-state = "NC"
 city = "Etowah"
 county = "Henderson"
-longitude = -82.587192
 latitude = 35.31252
+longitude = -82.587192
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28729"
+

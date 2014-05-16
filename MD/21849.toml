@@ -1,6 +1,8 @@
-zip_code = "21849"
-state = "MD"
 city = "Parsonsburg"
 county = "Wicomico"
-longitude = -75.462009
 latitude = 38.376894
+longitude = -75.462009
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21849"
+

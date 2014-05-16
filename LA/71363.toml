@@ -1,6 +1,8 @@
-zip_code = "71363"
-state = "LA"
 city = "Rhinehart"
 county = "Catahoula"
-longitude = -91.77941
 latitude = 31.596272
+longitude = -91.77941
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71363"
+

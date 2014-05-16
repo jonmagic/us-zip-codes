@@ -1,6 +1,8 @@
-zip_code = "78163"
-state = "TX"
 city = "Bulverde"
 county = "Comal"
-longitude = -98.46263
 latitude = 29.776691
+longitude = -98.46263
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78163"
+

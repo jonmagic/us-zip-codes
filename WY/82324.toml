@@ -1,6 +1,8 @@
-zip_code = "82324"
-state = "WY"
 city = "Elk Mountain"
 county = "Carbon"
-longitude = -106.414629
 latitude = 41.687359
+longitude = -106.414629
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82324"
+

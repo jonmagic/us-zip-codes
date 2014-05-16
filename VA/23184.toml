@@ -1,6 +1,8 @@
-zip_code = "23184"
-state = "VA"
 city = "Wicomico"
 county = "Gloucester"
-longitude = -76.53185
 latitude = 37.322121
+longitude = -76.53185
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23184"
+

@@ -1,6 +1,8 @@
-zip_code = "07428"
-state = "NJ"
 city = "Mc Afee"
 county = "Sussex"
-longitude = -74.538144
 latitude = 41.206509
+longitude = -74.538144
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07428"
+

@@ -1,6 +1,8 @@
-zip_code = "49269"
-state = "MI"
 city = "Parma"
 county = "Jackson"
-longitude = -84.580681
 latitude = 42.257902
+longitude = -84.580681
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49269"
+

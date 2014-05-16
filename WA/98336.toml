@@ -1,6 +1,8 @@
-zip_code = "98336"
-state = "WA"
 city = "Glenoma"
 county = "Lewis"
-longitude = -122.100372
 latitude = 46.53912
+longitude = -122.100372
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98336"
+

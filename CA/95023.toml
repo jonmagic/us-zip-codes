@@ -1,6 +1,8 @@
-zip_code = "95023"
-state = "CA"
 city = "Hollister"
 county = "San Benito"
-longitude = -121.3924
 latitude = 36.828078
+longitude = -121.3924
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95023"
+

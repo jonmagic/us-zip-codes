@@ -1,6 +1,8 @@
-zip_code = "12019"
-state = "NY"
 city = "Ballston Lake"
 county = "Saratoga"
-longitude = -73.848971
 latitude = 42.934416
+longitude = -73.848971
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12019"
+

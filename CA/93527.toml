@@ -1,6 +1,8 @@
-zip_code = "93527"
-state = "CA"
 city = "Inyokern"
 county = "Kern"
-longitude = -117.857026
 latitude = 35.639715
+longitude = -117.857026
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93527"
+

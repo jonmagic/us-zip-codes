@@ -1,6 +1,8 @@
-zip_code = "43510"
-state = "OH"
 city = "Colton"
 county = "Henry"
-longitude = -84.013674
 latitude = 41.419878
+longitude = -84.013674
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43510"
+

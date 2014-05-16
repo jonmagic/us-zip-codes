@@ -1,6 +1,8 @@
-zip_code = "67031"
-state = "KS"
 city = "Conway Springs"
 county = "Sumner"
-longitude = -97.658248
 latitude = 37.394301
+longitude = -97.658248
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67031"
+

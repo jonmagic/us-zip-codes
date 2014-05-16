@@ -1,6 +1,8 @@
-zip_code = "29031"
-state = "SC"
 city = "Carlisle"
 county = "Union"
-longitude = -81.481439
 latitude = 34.567049
+longitude = -81.481439
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29031"
+

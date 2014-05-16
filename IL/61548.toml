@@ -1,6 +1,8 @@
-zip_code = "61548"
-state = "IL"
 city = "Metamora"
 county = "Woodford"
-longitude = -89.358019
 latitude = 40.833004
+longitude = -89.358019
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61548"
+

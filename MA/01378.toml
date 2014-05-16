@@ -1,6 +1,8 @@
-zip_code = "01378"
-state = "MA"
 city = "Warwick"
 county = "Franklin"
-longitude = -72.339655
 latitude = 42.667059
+longitude = -72.339655
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01378"
+

@@ -1,6 +1,8 @@
-zip_code = "84720"
-state = "UT"
 city = "Cedar City"
 county = "Iron"
-longitude = -113.192619
 latitude = 37.694059
+longitude = -113.192619
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84720"
+

@@ -1,6 +1,8 @@
-zip_code = "76051"
-state = "TX"
 city = "Grapevine"
 county = "Tarrant"
-longitude = -97.080802
 latitude = 32.932843
+longitude = -97.080802
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76051"
+

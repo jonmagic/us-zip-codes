@@ -1,6 +1,8 @@
-zip_code = "67473"
-state = "KS"
 city = "Osborne"
 county = "Osborne"
-longitude = -98.795417
 latitude = 39.385738
+longitude = -98.795417
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67473"
+

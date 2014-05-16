@@ -1,6 +1,8 @@
-zip_code = "39564"
-state = "MS"
 city = "Ocean Springs"
 county = "Jackson"
-longitude = -88.655024
 latitude = 30.50028
+longitude = -88.655024
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39564"
+

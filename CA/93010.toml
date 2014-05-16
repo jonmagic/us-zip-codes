@@ -1,6 +1,8 @@
-zip_code = "93010"
-state = "CA"
 city = "Camarillo"
 county = "Ventura"
-longitude = -119.084253
 latitude = 34.307783
+longitude = -119.084253
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93010"
+

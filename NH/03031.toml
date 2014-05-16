@@ -1,6 +1,8 @@
-zip_code = "03031"
-state = "NH"
 city = "Amherst"
 county = "Hillsborough"
-longitude = -71.629365
 latitude = 42.87474
+longitude = -71.629365
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03031"
+

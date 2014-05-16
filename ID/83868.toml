@@ -1,6 +1,8 @@
-zip_code = "83868"
-state = "ID"
 city = "Smelterville"
 county = "Shoshone"
-longitude = -116.206234
 latitude = 47.536163
+longitude = -116.206234
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83868"
+

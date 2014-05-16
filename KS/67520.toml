@@ -1,6 +1,8 @@
-zip_code = "67520"
-state = "KS"
 city = "Bison"
 county = "Rush"
-longitude = -99.195772
 latitude = 38.563156
+longitude = -99.195772
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67520"
+

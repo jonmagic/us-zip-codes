@@ -1,6 +1,8 @@
-zip_code = "81226"
-state = "CO"
 city = "Florence"
 county = "Fremont"
-longitude = -105.254782
 latitude = 38.355202
+longitude = -105.254782
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81226"
+

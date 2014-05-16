@@ -1,6 +1,8 @@
-zip_code = "81639"
-state = "CO"
 city = "Hayden"
 county = "Routt"
-longitude = -107.277181
 latitude = 40.438195
+longitude = -107.277181
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81639"
+

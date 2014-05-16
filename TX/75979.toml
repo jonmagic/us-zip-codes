@@ -1,6 +1,8 @@
-zip_code = "75979"
-state = "TX"
 city = "Woodville"
 county = "Tyler"
-longitude = -94.366929
 latitude = 30.758494
+longitude = -94.366929
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75979"
+

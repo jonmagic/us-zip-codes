@@ -1,6 +1,8 @@
-zip_code = "22469"
-state = "VA"
 city = "Hague"
 county = "Westmoreland"
-longitude = -76.676452
 latitude = 38.059488
+longitude = -76.676452
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22469"
+

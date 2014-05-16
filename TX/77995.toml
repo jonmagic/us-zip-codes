@@ -1,6 +1,8 @@
-zip_code = "77995"
-state = "TX"
 city = "Yoakum"
 county = "Lavaca"
-longitude = -97.047148
 latitude = 29.297302
+longitude = -97.047148
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77995"
+

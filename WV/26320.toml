@@ -1,6 +1,8 @@
-zip_code = "26320"
-state = "WV"
 city = "Alma"
 county = "Tyler"
-longitude = -80.870081
 latitude = 39.450612
+longitude = -80.870081
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26320"
+

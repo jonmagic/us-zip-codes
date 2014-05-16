@@ -1,6 +1,8 @@
-zip_code = "46041"
-state = "IN"
 city = "Frankfort"
 county = "Clinton"
-longitude = -86.468915
 latitude = 40.304355
+longitude = -86.468915
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46041"
+

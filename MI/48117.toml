@@ -1,6 +1,8 @@
-zip_code = "48117"
-state = "MI"
 city = "Carleton"
 county = "Monroe"
-longitude = -83.428904
 latitude = 42.0413
+longitude = -83.428904
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48117"
+

@@ -1,6 +1,8 @@
-zip_code = "55752"
-state = "MN"
 city = "Jacobson"
 county = "Aitkin"
-longitude = -93.433078
 latitude = 46.592204
+longitude = -93.433078
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55752"
+

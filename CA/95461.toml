@@ -1,6 +1,8 @@
-zip_code = "95461"
-state = "CA"
 city = "Middletown"
 county = "Lake"
-longitude = -122.719276
 latitude = 39.040188
+longitude = -122.719276
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95461"
+

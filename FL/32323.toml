@@ -1,6 +1,8 @@
-zip_code = "32323"
-state = "FL"
 city = "Lanark Village"
 county = "Franklin"
-longitude = -84.596417
 latitude = 29.882567
+longitude = -84.596417
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32323"
+

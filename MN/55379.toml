@@ -1,6 +1,8 @@
-zip_code = "55379"
-state = "MN"
 city = "Shakopee"
 county = "Scott"
-longitude = -93.474144
 latitude = 44.731113
+longitude = -93.474144
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55379"
+

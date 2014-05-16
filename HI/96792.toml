@@ -1,6 +1,8 @@
-zip_code = "96792"
-state = "HI"
 city = "Waianae"
 county = "Honolulu"
-longitude = -158.181356
 latitude = 21.437389
+longitude = -158.181356
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96792"
+

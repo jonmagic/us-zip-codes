@@ -1,6 +1,8 @@
-zip_code = "54402"
-state = "WI"
 city = "Wausau"
 county = "Marathon"
-longitude = -89.7701
 latitude = 44.900936
+longitude = -89.7701
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54402"
+

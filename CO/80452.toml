@@ -1,6 +1,8 @@
-zip_code = "80452"
-state = "CO"
 city = "Idaho Springs"
 county = "Clear Creek"
-longitude = -105.541583
 latitude = 39.706574
+longitude = -105.541583
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80452"
+

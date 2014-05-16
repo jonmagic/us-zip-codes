@@ -1,6 +1,8 @@
-zip_code = "75968"
-state = "TX"
 city = "Pineland"
 county = "Sabine"
-longitude = -93.973106
 latitude = 31.24817
+longitude = -93.973106
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75968"
+

@@ -1,6 +1,8 @@
-zip_code = "16124"
-state = "PA"
 city = "Fredonia"
 county = "Mercer"
-longitude = -80.262473
 latitude = 41.334133
+longitude = -80.262473
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16124"
+

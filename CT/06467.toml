@@ -1,6 +1,8 @@
-zip_code = "06467"
-state = "CT"
 city = "Milldale"
 county = "Hartford"
-longitude = -72.903746
 latitude = 41.565697
+longitude = -72.903746
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06467"
+

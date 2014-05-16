@@ -1,6 +1,8 @@
-zip_code = "06235"
-state = "CT"
 city = "Chaplin"
 county = "Windham"
-longitude = -72.126036
 latitude = 41.80294
+longitude = -72.126036
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06235"
+

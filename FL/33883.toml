@@ -1,6 +1,8 @@
-zip_code = "33883"
-state = "FL"
 city = "Winter Haven"
 county = "Polk"
-longitude = -81.61864
 latitude = 28.002553
+longitude = -81.61864
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33883"
+

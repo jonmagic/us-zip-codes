@@ -1,6 +1,8 @@
-zip_code = "33076"
-state = "FL"
 city = "Pompano Beach"
 county = "Broward"
-longitude = -80.313415
 latitude = 26.221054
+longitude = -80.313415
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33076"
+

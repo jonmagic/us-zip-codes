@@ -1,6 +1,8 @@
-zip_code = "64788"
-state = "MO"
 city = "Urich"
 county = "Henry"
-longitude = -93.989228
 latitude = 38.403809
+longitude = -93.989228
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64788"
+

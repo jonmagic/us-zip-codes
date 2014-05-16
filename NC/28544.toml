@@ -1,6 +1,8 @@
-zip_code = "28544"
-state = "NC"
 city = "Midway Park"
 county = "Onslow"
-longitude = -77.417426
 latitude = 34.622795
+longitude = -77.417426
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28544"
+

@@ -1,6 +1,8 @@
-zip_code = "73542"
-state = "OK"
 city = "Frederick"
 county = "Tillman"
-longitude = -99.001688
 latitude = 34.386281
+longitude = -99.001688
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73542"
+

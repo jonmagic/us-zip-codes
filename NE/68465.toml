@@ -1,6 +1,8 @@
-zip_code = "68465"
-state = "NE"
 city = "Wilber"
 county = "Saline"
-longitude = -96.96829
 latitude = 40.484136
+longitude = -96.96829
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68465"
+

@@ -1,6 +1,8 @@
-zip_code = "35457"
-state = "AL"
 city = "Echola"
 county = "Tuscaloosa"
-longitude = -87.776584
 latitude = 33.294004
+longitude = -87.776584
+state = ""
+state_code_alpha2 = ""
+zip_code = "35457"
+

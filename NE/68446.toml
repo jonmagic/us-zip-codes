@@ -1,6 +1,8 @@
-zip_code = "68446"
-state = "NE"
 city = "Syracuse"
 county = "Otoe"
-longitude = -96.169603
 latitude = 40.645896
+longitude = -96.169603
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68446"
+

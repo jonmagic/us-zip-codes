@@ -1,6 +1,8 @@
-zip_code = "63742"
-state = "MO"
 city = "Commerce"
 county = "Scott"
-longitude = -89.448389
 latitude = 37.156982
+longitude = -89.448389
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63742"
+

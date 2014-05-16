@@ -1,6 +1,8 @@
-zip_code = "49305"
-state = "MI"
 city = "Barryton"
 county = "Mecosta"
-longitude = -85.166327
 latitude = 43.737488
+longitude = -85.166327
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49305"
+

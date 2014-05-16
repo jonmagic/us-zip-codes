@@ -1,6 +1,8 @@
-zip_code = "42232"
-state = "KY"
 city = "Gracey"
 county = "Christian"
-longitude = -87.580011
 latitude = 36.918213
+longitude = -87.580011
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42232"
+

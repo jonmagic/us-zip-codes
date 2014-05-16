@@ -1,6 +1,8 @@
-zip_code = "03215"
-state = "NH"
 city = "Waterville Valley"
 county = "Grafton"
-longitude = -71.534068
 latitude = 43.930221
+longitude = -71.534068
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03215"
+

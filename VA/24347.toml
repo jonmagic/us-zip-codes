@@ -1,6 +1,8 @@
-zip_code = "24347"
-state = "VA"
 city = "Hiwassee"
 county = "Pulaski"
-longitude = -80.669513
 latitude = 36.975578
+longitude = -80.669513
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24347"
+

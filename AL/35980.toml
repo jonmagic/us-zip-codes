@@ -1,6 +1,8 @@
-zip_code = "35980"
-state = "AL"
 city = "Horton"
 county = "Marshall"
-longitude = -86.343937
 latitude = 34.209898
+longitude = -86.343937
+state = ""
+state_code_alpha2 = ""
+zip_code = "35980"
+

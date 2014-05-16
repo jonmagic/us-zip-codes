@@ -1,6 +1,8 @@
-zip_code = "08232"
-state = "NJ"
 city = "Pleasantville"
 county = "Atlantic"
-longitude = -74.686004
 latitude = 39.470869
+longitude = -74.686004
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08232"
+

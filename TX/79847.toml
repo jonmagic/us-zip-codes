@@ -1,6 +1,8 @@
-zip_code = "79847"
-state = "TX"
 city = "Salt Flat"
 county = "Hudspeth"
-longitude = -105.452562
 latitude = 31.315723
+longitude = -105.452562
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79847"
+

@@ -1,6 +1,8 @@
-zip_code = "27982"
-state = "NC"
 city = "Waves"
 county = "Dare"
-longitude = -75.465858
 latitude = 35.559564
+longitude = -75.465858
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27982"
+

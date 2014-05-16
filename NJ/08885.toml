@@ -1,6 +1,8 @@
-zip_code = "08885"
-state = "NJ"
 city = "Stanton"
 county = "Hunterdon"
-longitude = -74.831105
 latitude = 40.576372
+longitude = -74.831105
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08885"
+

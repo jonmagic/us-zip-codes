@@ -1,6 +1,8 @@
-zip_code = "31712"
-state = "GA"
 city = "Arabi"
 county = "Crisp"
-longitude = -83.7277
 latitude = 31.849613
+longitude = -83.7277
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31712"
+

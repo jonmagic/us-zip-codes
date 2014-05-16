@@ -1,6 +1,8 @@
-zip_code = "16375"
-state = "PA"
 city = "Lamartine"
 county = "Clarion"
-longitude = -79.453751
 latitude = 41.202325
+longitude = -79.453751
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16375"
+

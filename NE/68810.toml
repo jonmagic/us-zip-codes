@@ -1,6 +1,8 @@
-zip_code = "68810"
-state = "NE"
 city = "Alda"
 county = "Hall"
-longitude = -98.504787
 latitude = 40.860721
+longitude = -98.504787
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68810"
+

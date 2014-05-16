@@ -1,6 +1,8 @@
-zip_code = "33843"
-state = "FL"
 city = "Frostproof"
 county = "Polk"
-longitude = -81.55934
 latitude = 27.72938
+longitude = -81.55934
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33843"
+

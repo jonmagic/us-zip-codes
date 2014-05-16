@@ -1,6 +1,8 @@
-zip_code = "48455"
-state = "MI"
 city = "Metamora"
 county = "Lapeer"
-longitude = -83.29607
 latitude = 42.942128
+longitude = -83.29607
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48455"
+

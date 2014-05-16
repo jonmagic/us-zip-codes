@@ -1,6 +1,8 @@
-zip_code = "06478"
-state = "CT"
 city = "Oxford"
 county = "New Haven"
-longitude = -73.138379
 latitude = 41.432583
+longitude = -73.138379
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06478"
+

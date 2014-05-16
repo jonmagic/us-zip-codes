@@ -1,6 +1,8 @@
-zip_code = "29448"
-state = "SC"
 city = "Harleyville"
 county = "Dorchester"
-longitude = -80.453386
 latitude = 33.239304
+longitude = -80.453386
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29448"
+

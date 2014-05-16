@@ -1,6 +1,8 @@
-zip_code = "71357"
-state = "LA"
 city = "Newellton"
 county = "Tensas"
-longitude = -91.242511
 latitude = 32.038254
+longitude = -91.242511
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71357"
+

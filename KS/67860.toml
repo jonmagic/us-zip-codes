@@ -1,6 +1,8 @@
-zip_code = "67860"
-state = "KS"
 city = "Lakin"
 county = "Kearny"
-longitude = -101.264981
 latitude = 37.938907
+longitude = -101.264981
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67860"
+

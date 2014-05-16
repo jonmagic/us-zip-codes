@@ -1,6 +1,8 @@
-zip_code = "04742"
-state = "ME"
 city = "Fort Fairfield"
 county = "Aroostook"
-longitude = -67.841507
 latitude = 46.746453
+longitude = -67.841507
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04742"
+

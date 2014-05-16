@@ -1,6 +1,8 @@
-zip_code = "07921"
-state = "NJ"
 city = "Bedminster"
 county = "Somerset"
-longitude = -74.676788
 latitude = 40.659151
+longitude = -74.676788
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07921"
+

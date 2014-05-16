@@ -1,6 +1,8 @@
-zip_code = "25514"
-state = "WV"
 city = "Fort Gay"
 county = "Wayne"
-longitude = -82.539781
 latitude = 38.072978
+longitude = -82.539781
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25514"
+

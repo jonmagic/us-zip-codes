@@ -1,6 +1,8 @@
-zip_code = "17952"
-state = "PA"
 city = "Mary D"
 county = "Schuylkill"
-longitude = -76.062825
 latitude = 40.747301
+longitude = -76.062825
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17952"
+

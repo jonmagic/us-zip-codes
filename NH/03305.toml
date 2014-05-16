@@ -1,6 +1,8 @@
-zip_code = "03305"
-state = "NH"
 city = "Concord"
 county = "Merrimack"
-longitude = -71.517151
 latitude = 43.2134
+longitude = -71.517151
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03305"
+

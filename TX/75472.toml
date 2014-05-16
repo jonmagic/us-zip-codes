@@ -1,6 +1,8 @@
-zip_code = "75472"
-state = "TX"
 city = "Point"
 county = "Rains"
-longitude = -95.898171
 latitude = 32.917861
+longitude = -95.898171
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75472"
+

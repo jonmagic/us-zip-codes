@@ -1,6 +1,8 @@
-zip_code = "70451"
-state = "LA"
 city = "Natalbany"
 county = "Tangipahoa"
-longitude = -90.475981
 latitude = 30.531157
+longitude = -90.475981
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70451"
+

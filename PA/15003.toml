@@ -1,6 +1,8 @@
-zip_code = "15003"
-state = "PA"
 city = "Ambridge"
 county = "Beaver"
-longitude = -80.210521
 latitude = 40.600494
+longitude = -80.210521
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15003"
+

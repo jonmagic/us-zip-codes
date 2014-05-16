@@ -1,6 +1,8 @@
-zip_code = "07481"
-state = "NJ"
 city = "Wyckoff"
 county = "Bergen"
-longitude = -74.165733
 latitude = 40.998387
+longitude = -74.165733
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07481"
+

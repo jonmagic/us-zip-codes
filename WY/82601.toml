@@ -1,6 +1,8 @@
-zip_code = "82601"
-state = "WY"
 city = "Casper"
 county = "Natrona"
-longitude = -106.312561
 latitude = 42.859875
+longitude = -106.312561
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82601"
+

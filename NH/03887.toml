@@ -1,6 +1,8 @@
-zip_code = "03887"
-state = "NH"
 city = "Union"
 county = "Carroll"
-longitude = -71.040842
 latitude = 43.459999
+longitude = -71.040842
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03887"
+

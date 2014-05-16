@@ -1,6 +1,8 @@
-zip_code = "96096"
-state = "CA"
 city = "Whitmore"
 county = "Shasta"
-longitude = -121.86265
 latitude = 40.575131
+longitude = -121.86265
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96096"
+

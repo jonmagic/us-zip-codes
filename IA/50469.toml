@@ -1,6 +1,8 @@
-zip_code = "50469"
-state = "IA"
 city = "Rockwell"
 county = "Cerro Gordo"
-longitude = -93.181709
 latitude = 43.00211
+longitude = -93.181709
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50469"
+

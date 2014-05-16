@@ -1,6 +1,8 @@
-zip_code = "54748"
-state = "WI"
 city = "Jim Falls"
 county = "Chippewa"
-longitude = -91.256794
 latitude = 45.088875
+longitude = -91.256794
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54748"
+

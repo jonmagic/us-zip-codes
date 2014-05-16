@@ -1,6 +1,8 @@
-zip_code = "13367"
-state = "NY"
 city = "Lowville"
 county = "Lewis"
-longitude = -75.415599
 latitude = 43.789296
+longitude = -75.415599
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13367"
+

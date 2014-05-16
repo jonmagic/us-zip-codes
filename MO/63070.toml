@@ -1,6 +1,8 @@
-zip_code = "63070"
-state = "MO"
 city = "Pevely"
 county = "Jefferson"
-longitude = -90.429283
 latitude = 38.293157
+longitude = -90.429283
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63070"
+

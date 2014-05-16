@@ -1,6 +1,8 @@
-zip_code = "20676"
-state = "MD"
 city = "Port Republic"
 county = "Calvert"
-longitude = -76.531761
 latitude = 38.560231
+longitude = -76.531761
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20676"
+

@@ -1,6 +1,8 @@
-zip_code = "68601"
-state = "NE"
 city = "Columbus"
 county = "Platte"
-longitude = -97.376314
 latitude = 41.542962
+longitude = -97.376314
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68601"
+

@@ -1,6 +1,8 @@
-zip_code = "57049"
-state = "SD"
 city = "North Sioux City"
 county = "Union"
-longitude = -96.585026
 latitude = 42.587483
+longitude = -96.585026
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57049"
+

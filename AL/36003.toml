@@ -1,6 +1,8 @@
-zip_code = "36003"
-state = "AL"
 city = "Autaugaville"
 county = "Autauga"
-longitude = -86.721712
 latitude = 32.450328
+longitude = -86.721712
+state = ""
+state_code_alpha2 = ""
+zip_code = "36003"
+

@@ -1,6 +1,8 @@
-zip_code = "66079"
-state = "KS"
 city = "Rantoul"
 county = "Franklin"
-longitude = -95.138748
 latitude = 38.550188
+longitude = -95.138748
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66079"
+

@@ -1,6 +1,8 @@
-zip_code = "97134"
-state = "OR"
 city = "Oceanside"
 county = "Tillamook"
-longitude = -123.965029
 latitude = 45.454855
+longitude = -123.965029
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97134"
+

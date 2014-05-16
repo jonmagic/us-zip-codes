@@ -1,6 +1,8 @@
-zip_code = "08010"
-state = "NJ"
 city = "Beverly"
 county = "Burlington"
-longitude = -74.917061
 latitude = 40.049948
+longitude = -74.917061
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08010"
+

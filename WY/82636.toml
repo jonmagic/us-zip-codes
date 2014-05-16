@@ -1,6 +1,8 @@
-zip_code = "82636"
-state = "WY"
 city = "Evansville"
 county = "Natrona"
-longitude = -106.175375
 latitude = 42.899153
+longitude = -106.175375
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82636"
+

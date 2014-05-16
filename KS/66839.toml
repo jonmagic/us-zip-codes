@@ -1,6 +1,8 @@
-zip_code = "66839"
-state = "KS"
 city = "Burlington"
 county = "Coffey"
-longitude = -95.733598
 latitude = 38.236316
+longitude = -95.733598
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66839"
+

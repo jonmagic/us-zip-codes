@@ -1,6 +1,8 @@
-zip_code = "14736"
-state = "NY"
 city = "Findley Lake"
 county = "Chautauqua"
-longitude = -79.737701
 latitude = 42.133206
+longitude = -79.737701
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14736"
+

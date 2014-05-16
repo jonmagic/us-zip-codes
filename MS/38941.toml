@@ -1,6 +1,8 @@
-zip_code = "38941"
-state = "MS"
 city = "Itta Bena"
 county = "Leflore"
-longitude = -90.294639
 latitude = 33.467852
+longitude = -90.294639
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38941"
+

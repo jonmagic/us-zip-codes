@@ -1,6 +1,8 @@
-zip_code = "22969"
-state = "VA"
 city = "Schuyler"
 county = "Nelson"
-longitude = -78.819906
 latitude = 37.818031
+longitude = -78.819906
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22969"
+

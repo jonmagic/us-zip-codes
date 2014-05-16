@@ -1,6 +1,8 @@
-zip_code = "99703"
-state = "AK"
 city = "Fort Wainwright"
 county = "Fairbanks North Star"
-longitude = -147.64418
 latitude = 64.832821
+longitude = -147.64418
+state = ""
+state_code_alpha2 = ""
+zip_code = "99703"
+

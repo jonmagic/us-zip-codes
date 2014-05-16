@@ -1,6 +1,8 @@
-zip_code = "02150"
-state = "MA"
 city = "Chelsea"
 county = "Suffolk"
-longitude = -71.038894
 latitude = 42.378197
+longitude = -71.038894
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02150"
+

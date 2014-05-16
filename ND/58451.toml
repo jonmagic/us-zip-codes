@@ -1,6 +1,8 @@
-zip_code = "58451"
-state = "ND"
 city = "Hurdsfield"
 county = "Wells"
-longitude = -99.937233
 latitude = 47.472804
+longitude = -99.937233
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58451"
+

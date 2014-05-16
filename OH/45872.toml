@@ -1,6 +1,8 @@
-zip_code = "45872"
-state = "OH"
 city = "North Baltimore"
 county = "Wood"
-longitude = -83.6837
 latitude = 41.204236
+longitude = -83.6837
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45872"
+

@@ -1,6 +1,8 @@
-zip_code = "41849"
-state = "KY"
 city = "Seco"
 county = "Letcher"
-longitude = -82.716166
 latitude = 37.173926
+longitude = -82.716166
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41849"
+

@@ -1,6 +1,8 @@
-zip_code = "84078"
-state = "UT"
 city = "Vernal"
 county = "Uintah"
-longitude = -109.556103
 latitude = 40.368246
+longitude = -109.556103
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84078"
+

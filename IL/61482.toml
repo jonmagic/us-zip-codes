@@ -1,6 +1,8 @@
-zip_code = "61482"
-state = "IL"
 city = "Table Grove"
 county = "Fulton"
-longitude = -90.408961
 latitude = 40.376602
+longitude = -90.408961
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61482"
+

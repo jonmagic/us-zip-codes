@@ -1,6 +1,8 @@
-zip_code = "55074"
-state = "MN"
 city = "Shafer"
 county = "Chisago"
-longitude = -92.726135
 latitude = 45.382835
+longitude = -92.726135
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55074"
+

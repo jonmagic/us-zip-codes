@@ -1,6 +1,8 @@
-zip_code = "97056"
-state = "OR"
 city = "Scappoose"
 county = "Columbia"
-longitude = -122.974184
 latitude = 45.811578
+longitude = -122.974184
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97056"
+

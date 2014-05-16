@@ -1,6 +1,8 @@
-zip_code = "76360"
-state = "TX"
 city = "Electra"
 county = "Wichita"
-longitude = -98.743552
 latitude = 33.999472
+longitude = -98.743552
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76360"
+

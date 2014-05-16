@@ -1,6 +1,8 @@
-zip_code = "70397"
-state = "LA"
 city = "Theriot"
 county = "Terrebonne"
-longitude = -90.78627
 latitude = 29.396246
+longitude = -90.78627
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70397"
+

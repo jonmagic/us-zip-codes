@@ -1,6 +1,8 @@
-zip_code = "68901"
-state = "NE"
 city = "Hastings"
 county = "Adams"
-longitude = -98.389035
 latitude = 40.582425
+longitude = -98.389035
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68901"
+

@@ -1,6 +1,8 @@
-zip_code = "69166"
-state = "NE"
 city = "Thedford"
 county = "Thomas"
-longitude = -100.557354
 latitude = 41.979407
+longitude = -100.557354
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69166"
+

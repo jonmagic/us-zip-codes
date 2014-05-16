@@ -1,6 +1,8 @@
-zip_code = "55746"
-state = "MN"
 city = "Hibbing"
 county = "Saint Louis"
-longitude = -92.87621
 latitude = 47.413263
+longitude = -92.87621
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55746"
+

@@ -1,6 +1,8 @@
-zip_code = "04485"
-state = "ME"
 city = "Shirley Mills"
 county = "Piscataquis"
-longitude = -69.30463
 latitude = 45.792364
+longitude = -69.30463
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04485"
+

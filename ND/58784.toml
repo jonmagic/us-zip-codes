@@ -1,6 +1,8 @@
-zip_code = "58784"
-state = "ND"
 city = "Stanley"
 county = "Mountrail"
-longitude = -102.418466
 latitude = 48.345765
+longitude = -102.418466
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58784"
+

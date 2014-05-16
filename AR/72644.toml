@@ -1,6 +1,8 @@
-zip_code = "72644"
-state = "AR"
 city = "Lead Hill"
 county = "Boone"
-longitude = -93.003892
 latitude = 36.384844
+longitude = -93.003892
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72644"
+

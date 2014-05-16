@@ -1,6 +1,8 @@
-zip_code = "82242"
-state = "WY"
 city = "Van Tassell"
 county = "Niobrara"
-longitude = -104.140785
 latitude = 42.703263
+longitude = -104.140785
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82242"
+

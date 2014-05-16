@@ -1,6 +1,8 @@
-zip_code = "25126"
-state = "WV"
 city = "London"
 county = "Kanawha"
-longitude = -81.371367
 latitude = 38.195983
+longitude = -81.371367
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25126"
+

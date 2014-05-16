@@ -1,6 +1,8 @@
-zip_code = "44074"
-state = "OH"
 city = "Oberlin"
 county = "Lorain"
-longitude = -82.227628
 latitude = 41.294649
+longitude = -82.227628
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44074"
+

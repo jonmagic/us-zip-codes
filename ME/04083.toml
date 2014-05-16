@@ -1,6 +1,8 @@
-zip_code = "04083"
-state = "ME"
 city = "Springvale"
 county = "York"
-longitude = -70.748295
 latitude = 43.465941
+longitude = -70.748295
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04083"
+

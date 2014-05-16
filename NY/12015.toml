@@ -1,6 +1,8 @@
-zip_code = "12015"
-state = "NY"
 city = "Athens"
 county = "Greene"
-longitude = -73.837035
 latitude = 42.28004
+longitude = -73.837035
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12015"
+

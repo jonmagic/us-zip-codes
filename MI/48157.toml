@@ -1,6 +1,8 @@
-zip_code = "48157"
-state = "MI"
 city = "Luna Pier"
 county = "Monroe"
-longitude = -83.436032
 latitude = 41.813365
+longitude = -83.436032
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48157"
+

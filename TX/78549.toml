@@ -1,6 +1,8 @@
-zip_code = "78549"
-state = "TX"
 city = "Hargill"
 county = "Hidalgo"
-longitude = -98.224206
 latitude = 26.409709
+longitude = -98.224206
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78549"
+

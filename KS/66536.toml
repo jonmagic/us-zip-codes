@@ -1,6 +1,8 @@
-zip_code = "66536"
-state = "KS"
 city = "Saint Marys"
 county = "Pottawatomie"
-longitude = -96.128154
 latitude = 39.256719
+longitude = -96.128154
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66536"
+

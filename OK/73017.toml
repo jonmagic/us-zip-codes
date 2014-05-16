@@ -1,6 +1,8 @@
-zip_code = "73017"
-state = "OK"
 city = "Cement"
 county = "Caddo"
-longitude = -98.163436
 latitude = 34.924452
+longitude = -98.163436
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73017"
+

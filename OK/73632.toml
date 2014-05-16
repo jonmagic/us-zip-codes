@@ -1,6 +1,8 @@
-zip_code = "73632"
-state = "OK"
 city = "Cordell"
 county = "Washita"
-longitude = -99.05841
 latitude = 35.232961
+longitude = -99.05841
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73632"
+

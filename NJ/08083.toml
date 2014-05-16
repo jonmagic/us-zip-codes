@@ -1,6 +1,8 @@
-zip_code = "08083"
-state = "NJ"
 city = "Somerdale"
 county = "Camden"
-longitude = -75.022163
 latitude = 39.844063
+longitude = -75.022163
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08083"
+

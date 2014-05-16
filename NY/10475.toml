@@ -1,6 +1,8 @@
-zip_code = "10475"
-state = "NY"
 city = "Bronx"
 county = "Bronx"
-longitude = -73.827653
 latitude = 40.874878
+longitude = -73.827653
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10475"
+

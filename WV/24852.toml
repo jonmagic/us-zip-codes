@@ -1,6 +1,8 @@
-zip_code = "24852"
-state = "WV"
 city = "Keystone"
 county = "Mcdowell"
-longitude = -81.431783
 latitude = 37.414357
+longitude = -81.431783
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24852"
+

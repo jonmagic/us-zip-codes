@@ -1,6 +1,8 @@
-zip_code = "27043"
-state = "NC"
 city = "Pinnacle"
 county = "Stokes"
-longitude = -80.404421
 latitude = 36.346198
+longitude = -80.404421
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27043"
+

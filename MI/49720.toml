@@ -1,6 +1,8 @@
-zip_code = "49720"
-state = "MI"
 city = "Charlevoix"
 county = "Charlevoix"
-longitude = -85.229723
 latitude = 45.26536
+longitude = -85.229723
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49720"
+

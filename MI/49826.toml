@@ -1,6 +1,8 @@
-zip_code = "49826"
-state = "MI"
 city = "Rumely"
 county = "Alger"
-longitude = -87.043622
 latitude = 46.348071
+longitude = -87.043622
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49826"
+

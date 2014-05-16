@@ -1,6 +1,8 @@
-zip_code = "08889"
-state = "NJ"
 city = "Whitehouse Station"
 county = "Hunterdon"
-longitude = -74.772376
 latitude = 40.615577
+longitude = -74.772376
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08889"
+

@@ -1,6 +1,8 @@
-zip_code = "59915"
-state = "MT"
 city = "Elmo"
 county = "Lake"
-longitude = -114.214962
 latitude = 47.696598
+longitude = -114.214962
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59915"
+

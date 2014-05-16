@@ -1,6 +1,8 @@
-zip_code = "02136"
-state = "MA"
 city = "Hyde Park"
 county = "Suffolk"
-longitude = -71.129321
 latitude = 42.254248
+longitude = -71.129321
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02136"
+

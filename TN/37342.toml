@@ -1,6 +1,8 @@
-zip_code = "37342"
-state = "TN"
 city = "Hillsboro"
 county = "Coffee"
-longitude = -85.965585
 latitude = 35.380586
+longitude = -85.965585
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37342"
+

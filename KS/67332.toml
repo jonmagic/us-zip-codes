@@ -1,6 +1,8 @@
-zip_code = "67332"
-state = "KS"
 city = "Bartlett"
 county = "Labette"
-longitude = -95.229916
 latitude = 37.045463
+longitude = -95.229916
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67332"
+

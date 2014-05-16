@@ -1,6 +1,8 @@
-zip_code = "00954"
-state = "PR"
 city = "Toa Alta"
 county = "Toa Alta"
-longitude = -66.258108
 latitude = 18.358939
+longitude = -66.258108
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00954"
+

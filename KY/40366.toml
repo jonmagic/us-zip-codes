@@ -1,6 +1,8 @@
-zip_code = "40366"
-state = "KY"
 city = "Preston"
 county = "Bath"
-longitude = -83.757123
 latitude = 38.086673
+longitude = -83.757123
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40366"
+

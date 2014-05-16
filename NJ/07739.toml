@@ -1,6 +1,8 @@
-zip_code = "07739"
-state = "NJ"
 city = "Little Silver"
 county = "Monmouth"
-longitude = -74.168941
 latitude = 40.382028
+longitude = -74.168941
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07739"
+

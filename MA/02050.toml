@@ -1,6 +1,8 @@
-zip_code = "02050"
-state = "MA"
 city = "Marshfield"
 county = "Plymouth"
-longitude = -70.710744
 latitude = 42.111805
+longitude = -70.710744
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02050"
+

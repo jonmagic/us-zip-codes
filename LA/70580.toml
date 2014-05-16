@@ -1,6 +1,8 @@
-zip_code = "70580"
-state = "LA"
 city = "Reddell"
 county = "Evangeline"
-longitude = -92.421915
 latitude = 30.700768
+longitude = -92.421915
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70580"
+

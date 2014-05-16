@@ -1,6 +1,8 @@
-zip_code = "33917"
-state = "FL"
 city = "North Fort Myers"
 county = "Lee"
-longitude = -81.844716
 latitude = 26.648211
+longitude = -81.844716
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33917"
+

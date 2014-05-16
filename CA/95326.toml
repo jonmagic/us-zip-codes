@@ -1,6 +1,8 @@
-zip_code = "95326"
-state = "CA"
 city = "Hughson"
 county = "Stanislaus"
-longitude = -120.966091
 latitude = 37.545683
+longitude = -120.966091
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95326"
+

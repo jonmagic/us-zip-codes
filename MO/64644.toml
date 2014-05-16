@@ -1,6 +1,8 @@
-zip_code = "64644"
-state = "MO"
 city = "Hamilton"
 county = "Caldwell"
-longitude = -94.002251
 latitude = 39.719176
+longitude = -94.002251
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64644"
+

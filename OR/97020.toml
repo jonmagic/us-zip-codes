@@ -1,6 +1,8 @@
-zip_code = "97020"
-state = "OR"
 city = "Donald"
 county = "Marion"
-longitude = -122.840536
 latitude = 45.219924
+longitude = -122.840536
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97020"
+

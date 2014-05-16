@@ -1,6 +1,8 @@
-zip_code = "06791"
-state = "CT"
 city = "Harwinton"
 county = "Litchfield"
-longitude = -73.176163
 latitude = 41.649639
+longitude = -73.176163
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06791"
+

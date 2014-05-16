@@ -1,6 +1,8 @@
-zip_code = "73024"
-state = "OK"
 city = "Corn"
 county = "Washita"
-longitude = -98.781794
 latitude = 35.378409
+longitude = -98.781794
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73024"
+

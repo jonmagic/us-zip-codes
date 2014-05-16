@@ -1,6 +1,8 @@
-zip_code = "49129"
-state = "MI"
 city = "Union Pier"
 county = "Berrien"
-longitude = -86.684816
 latitude = 41.825532
+longitude = -86.684816
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49129"
+

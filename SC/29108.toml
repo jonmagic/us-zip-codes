@@ -1,6 +1,8 @@
-zip_code = "29108"
-state = "SC"
 city = "Newberry"
 county = "Newberry"
-longitude = -81.608611
 latitude = 34.310027
+longitude = -81.608611
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29108"
+

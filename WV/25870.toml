@@ -1,6 +1,8 @@
-zip_code = "25870"
-state = "WV"
 city = "Maben"
 county = "Wyoming"
-longitude = -81.505936
 latitude = 37.610803
+longitude = -81.505936
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25870"
+

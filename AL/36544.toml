@@ -1,6 +1,8 @@
-zip_code = "36544"
-state = "AL"
 city = "Irvington"
 county = "Mobile"
-longitude = -88.232843
 latitude = 30.479141
+longitude = -88.232843
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36544"
+

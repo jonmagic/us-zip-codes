@@ -1,6 +1,8 @@
-zip_code = "04424"
-state = "ME"
 city = "Danforth"
 county = "Washington"
-longitude = -67.866054
 latitude = 45.658831
+longitude = -67.866054
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04424"
+

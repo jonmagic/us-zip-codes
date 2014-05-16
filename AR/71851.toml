@@ -1,6 +1,8 @@
-zip_code = "71851"
-state = "AR"
 city = "Mineral Springs"
 county = "Howard"
-longitude = -93.925108
 latitude = 33.895583
+longitude = -93.925108
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71851"
+

@@ -1,6 +1,8 @@
-zip_code = "06084"
-state = "CT"
 city = "Tolland"
 county = "Tolland"
-longitude = -72.361039
 latitude = 41.882553
+longitude = -72.361039
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06084"
+

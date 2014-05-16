@@ -1,6 +1,8 @@
-zip_code = "45346"
-state = "OH"
 city = "New Madison"
 county = "Darke"
-longitude = -84.705736
 latitude = 39.982103
+longitude = -84.705736
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45346"
+

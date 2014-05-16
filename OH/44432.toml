@@ -1,6 +1,8 @@
-zip_code = "44432"
-state = "OH"
 city = "Lisbon"
 county = "Columbiana"
-longitude = -80.745313
 latitude = 40.743051
+longitude = -80.745313
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44432"
+

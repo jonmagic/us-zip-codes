@@ -1,6 +1,8 @@
-zip_code = "29210"
-state = "SC"
 city = "Columbia"
 county = "Richland"
-longitude = -80.993483
 latitude = 33.981468
+longitude = -80.993483
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29210"
+

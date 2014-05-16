@@ -1,6 +1,8 @@
-zip_code = "37087"
-state = "TN"
 city = "Lebanon"
 county = "Wilson"
-longitude = -86.291167
 latitude = 36.267266
+longitude = -86.291167
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37087"
+

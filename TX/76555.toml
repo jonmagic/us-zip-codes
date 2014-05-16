@@ -1,6 +1,8 @@
-zip_code = "76555"
-state = "TX"
 city = "Maysfield"
 county = "Milam"
-longitude = -96.96376
 latitude = 30.784169
+longitude = -96.96376
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76555"
+

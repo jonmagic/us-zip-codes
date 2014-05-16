@@ -1,6 +1,8 @@
-zip_code = "52042"
-state = "IA"
 city = "Edgewood"
 county = "Clayton"
-longitude = -91.34453
 latitude = 42.756961
+longitude = -91.34453
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52042"
+

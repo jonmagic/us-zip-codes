@@ -1,6 +1,8 @@
-zip_code = "56545"
-state = "MN"
 city = "Gary"
 county = "Norman"
-longitude = -96.264276
 latitude = 47.372863
+longitude = -96.264276
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56545"
+

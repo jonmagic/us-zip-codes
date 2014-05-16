@@ -1,6 +1,8 @@
-zip_code = "48128"
-state = "MI"
 city = "Dearborn"
 county = "Wayne"
-longitude = -83.251428
 latitude = 42.31927
+longitude = -83.251428
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48128"
+

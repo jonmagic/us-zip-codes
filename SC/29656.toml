@@ -1,6 +1,8 @@
-zip_code = "29656"
-state = "SC"
 city = "La France"
 county = "Anderson"
-longitude = -82.765393
 latitude = 34.625157
+longitude = -82.765393
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29656"
+

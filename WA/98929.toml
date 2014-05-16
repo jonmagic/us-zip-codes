@@ -1,6 +1,8 @@
-zip_code = "98929"
-state = "WA"
 city = "Goose Prairie"
 county = "Yakima"
-longitude = -121.241591
 latitude = 46.915735
+longitude = -121.241591
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98929"
+

@@ -1,6 +1,8 @@
-zip_code = "95250"
-state = "CA"
 city = "Sheep Ranch"
 county = "Calaveras"
-longitude = -120.436953
 latitude = 38.243158
+longitude = -120.436953
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95250"
+

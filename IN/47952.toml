@@ -1,6 +1,8 @@
-zip_code = "47952"
-state = "IN"
 city = "Kingman"
 county = "Fountain"
-longitude = -87.256877
 latitude = 40.017364
+longitude = -87.256877
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47952"
+

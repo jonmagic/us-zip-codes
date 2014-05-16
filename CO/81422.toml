@@ -1,6 +1,8 @@
-zip_code = "81422"
-state = "CO"
 city = "Naturita"
 county = "Montrose"
-longitude = -108.574539
 latitude = 38.269387
+longitude = -108.574539
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81422"
+

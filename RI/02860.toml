@@ -1,6 +1,8 @@
-zip_code = "02860"
-state = "RI"
 city = "Pawtucket"
 county = "Providence"
-longitude = -71.392732
 latitude = 41.875149
+longitude = -71.392732
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02860"
+

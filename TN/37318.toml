@@ -1,6 +1,8 @@
-zip_code = "37318"
-state = "TN"
 city = "Cowan"
 county = "Franklin"
-longitude = -86.016657
 latitude = 35.178335
+longitude = -86.016657
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37318"
+

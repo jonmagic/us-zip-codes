@@ -1,6 +1,8 @@
-zip_code = "32697"
-state = "FL"
 city = "Worthington Springs"
 county = "Union"
-longitude = -82.425518
 latitude = 29.931522
+longitude = -82.425518
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32697"
+

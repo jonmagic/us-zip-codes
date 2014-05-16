@@ -1,6 +1,8 @@
-zip_code = "60150"
-state = "IL"
 city = "Malta"
 county = "De Kalb"
-longitude = -88.88516
 latitude = 41.931731
+longitude = -88.88516
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60150"
+

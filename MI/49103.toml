@@ -1,6 +1,8 @@
-zip_code = "49103"
-state = "MI"
 city = "Berrien Springs"
 county = "Berrien"
-longitude = -86.472582
 latitude = 41.907363
+longitude = -86.472582
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49103"
+

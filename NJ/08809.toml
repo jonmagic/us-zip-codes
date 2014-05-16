@@ -1,6 +1,8 @@
-zip_code = "08809"
-state = "NJ"
 city = "Clinton"
 county = "Hunterdon"
-longitude = -74.845574
 latitude = 40.5305
+longitude = -74.845574
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08809"
+

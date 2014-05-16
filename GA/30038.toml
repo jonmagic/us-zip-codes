@@ -1,6 +1,8 @@
-zip_code = "30038"
-state = "GA"
 city = "Lithonia"
 county = "Dekalb"
-longitude = -84.144816
 latitude = 33.667509
+longitude = -84.144816
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30038"
+

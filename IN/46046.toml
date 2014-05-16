@@ -1,6 +1,8 @@
-zip_code = "46046"
-state = "IN"
 city = "Hillisburg"
 county = "Clinton"
-longitude = -86.469044
 latitude = 40.304473
+longitude = -86.469044
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46046"
+

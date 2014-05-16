@@ -1,6 +1,8 @@
-zip_code = "54124"
-state = "WI"
 city = "Gillett"
 county = "Oconto"
-longitude = -88.174299
 latitude = 44.916397
+longitude = -88.174299
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54124"
+

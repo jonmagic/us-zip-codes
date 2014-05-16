@@ -1,6 +1,8 @@
-zip_code = "50036"
-state = "IA"
 city = "Boone"
 county = "Boone"
-longitude = -93.904897
 latitude = 42.0425
+longitude = -93.904897
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50036"
+

@@ -1,6 +1,8 @@
-zip_code = "72314"
-state = "AR"
 city = "Birdeye"
 county = "Cross"
-longitude = -90.677331
 latitude = 35.357184
+longitude = -90.677331
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72314"
+

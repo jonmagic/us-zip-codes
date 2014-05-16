@@ -1,6 +1,8 @@
-zip_code = "17353"
-state = "PA"
 city = "Orrtanna"
 county = "Adams"
-longitude = -77.393593
 latitude = 39.882976
+longitude = -77.393593
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17353"
+

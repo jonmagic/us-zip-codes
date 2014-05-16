@@ -1,6 +1,8 @@
-zip_code = "81228"
-state = "CO"
 city = "Granite"
 county = "Chaffee"
-longitude = -106.256615
 latitude = 39.030747
+longitude = -106.256615
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81228"
+

@@ -1,6 +1,8 @@
-zip_code = "02132"
-state = "MA"
 city = "West Roxbury"
 county = "Suffolk"
-longitude = -71.155833
 latitude = 42.277897
+longitude = -71.155833
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02132"
+

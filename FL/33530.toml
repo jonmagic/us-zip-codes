@@ -1,6 +1,8 @@
-zip_code = "33530"
-state = "FL"
 city = "Durant"
 county = "Hillsborough"
-longitude = -82.176749
 latitude = 27.906823
+longitude = -82.176749
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33530"
+

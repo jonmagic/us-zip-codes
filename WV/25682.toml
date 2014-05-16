@@ -1,6 +1,8 @@
-zip_code = "25682"
-state = "WV"
 city = "Meador"
 county = "Mingo"
-longitude = -82.008561
 latitude = 37.6224
+longitude = -82.008561
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25682"
+

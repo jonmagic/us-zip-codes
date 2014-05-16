@@ -1,6 +1,8 @@
-zip_code = "60537"
-state = "IL"
 city = "Millington"
 county = "Kendall"
-longitude = -88.59747
 latitude = 41.561386
+longitude = -88.59747
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60537"
+

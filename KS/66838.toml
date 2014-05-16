@@ -1,6 +1,8 @@
-zip_code = "66838"
-state = "KS"
 city = "Burdick"
 county = "Morris"
-longitude = -96.801336
 latitude = 38.565758
+longitude = -96.801336
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66838"
+

@@ -1,6 +1,8 @@
-zip_code = "83278"
-state = "ID"
 city = "Stanley"
 county = "Custer"
-longitude = -114.856089
 latitude = 44.371442
+longitude = -114.856089
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83278"
+

@@ -1,6 +1,8 @@
-zip_code = "94506"
-state = "CA"
 city = "Danville"
 county = "Contra Costa"
-longitude = -121.916718
 latitude = 37.832075
+longitude = -121.916718
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94506"
+

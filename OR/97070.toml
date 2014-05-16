@@ -1,6 +1,8 @@
-zip_code = "97070"
-state = "OR"
 city = "Wilsonville"
 county = "Clackamas"
-longitude = -122.785518
 latitude = 45.308493
+longitude = -122.785518
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97070"
+

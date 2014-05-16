@@ -1,6 +1,8 @@
-zip_code = "72820"
-state = "AR"
 city = "Alix"
 county = "Franklin"
-longitude = -93.752642
 latitude = 35.43356
+longitude = -93.752642
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72820"
+

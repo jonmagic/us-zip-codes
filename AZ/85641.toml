@@ -1,6 +1,8 @@
-zip_code = "85641"
-state = "AZ"
 city = "Vail"
 county = "Pima"
-longitude = -110.705269
 latitude = 32.002669
+longitude = -110.705269
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85641"
+

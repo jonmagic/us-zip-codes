@@ -1,6 +1,8 @@
-zip_code = "63501"
-state = "MO"
 city = "Kirksville"
 county = "Adair"
-longitude = -92.609514
 latitude = 40.165717
+longitude = -92.609514
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63501"
+

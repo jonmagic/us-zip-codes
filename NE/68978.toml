@@ -1,6 +1,8 @@
-zip_code = "68978"
-state = "NE"
 city = "Superior"
 county = "Nuckolls"
-longitude = -98.069593
 latitude = 40.036673
+longitude = -98.069593
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68978"
+

@@ -1,6 +1,8 @@
-zip_code = "54119"
-state = "WI"
 city = "Dunbar"
 county = "Marinette"
-longitude = -88.222435
 latitude = 45.591557
+longitude = -88.222435
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54119"
+

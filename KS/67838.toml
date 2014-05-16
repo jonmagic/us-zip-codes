@@ -1,6 +1,8 @@
-zip_code = "67838"
-state = "KS"
 city = "Deerfield"
 county = "Kearny"
-longitude = -101.190998
 latitude = 37.964591
+longitude = -101.190998
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67838"
+

@@ -1,6 +1,8 @@
-zip_code = "10915"
-state = "NY"
 city = "Bullville"
 county = "Orange"
-longitude = -74.328805
 latitude = 41.555634
+longitude = -74.328805
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10915"
+

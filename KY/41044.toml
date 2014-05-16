@@ -1,6 +1,8 @@
-zip_code = "41044"
-state = "KY"
 city = "Germantown"
 county = "Bracken"
-longitude = -83.989965
 latitude = 38.635744
+longitude = -83.989965
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41044"
+

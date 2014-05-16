@@ -1,6 +1,8 @@
-zip_code = "88119"
-state = "NM"
 city = "Fort Sumner"
 county = "De Baca"
-longitude = -104.174298
 latitude = 34.531467
+longitude = -104.174298
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88119"
+

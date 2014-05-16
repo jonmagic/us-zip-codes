@@ -1,6 +1,8 @@
-zip_code = "16424"
-state = "PA"
 city = "Linesville"
 county = "Crawford"
-longitude = -80.452295
 latitude = 41.624388
+longitude = -80.452295
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16424"
+

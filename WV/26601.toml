@@ -1,6 +1,8 @@
-zip_code = "26601"
-state = "WV"
 city = "Sutton"
 county = "Braxton"
-longitude = -80.67597
 latitude = 38.654141
+longitude = -80.67597
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26601"
+

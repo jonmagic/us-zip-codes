@@ -1,6 +1,8 @@
-zip_code = "15442"
-state = "PA"
 city = "Grindstone"
 county = "Fayette"
-longitude = -79.843978
 latitude = 40.015516
+longitude = -79.843978
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15442"
+

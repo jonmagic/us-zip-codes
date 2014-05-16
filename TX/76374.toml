@@ -1,6 +1,8 @@
-zip_code = "76374"
-state = "TX"
 city = "Olney"
 county = "Young"
-longitude = -98.779466
 latitude = 33.361214
+longitude = -98.779466
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76374"
+

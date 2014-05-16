@@ -1,6 +1,8 @@
-zip_code = "75161"
-state = "TX"
 city = "Terrell"
 county = "Kaufman"
-longitude = -96.195026
 latitude = 32.733179
+longitude = -96.195026
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75161"
+

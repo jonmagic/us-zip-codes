@@ -1,6 +1,8 @@
-zip_code = "42761"
-state = "KY"
 city = "Milltown"
 county = "Adair"
-longitude = -85.459565
 latitude = 37.107146
+longitude = -85.459565
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42761"
+

@@ -1,6 +1,8 @@
-zip_code = "84516"
-state = "UT"
 city = "Clawson"
 county = "Emery"
-longitude = -111.100814
 latitude = 39.119759
+longitude = -111.100814
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84516"
+

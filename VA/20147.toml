@@ -1,6 +1,8 @@
-zip_code = "20147"
-state = "VA"
 city = "Ashburn"
 county = "Loudoun"
-longitude = -77.480542
 latitude = 39.037339
+longitude = -77.480542
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20147"
+

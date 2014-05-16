@@ -1,6 +1,8 @@
-zip_code = "97322"
-state = "OR"
 city = "Albany"
 county = "Linn"
-longitude = -122.581676
 latitude = 44.594489
+longitude = -122.581676
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97322"
+

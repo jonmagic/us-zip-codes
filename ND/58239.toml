@@ -1,6 +1,8 @@
-zip_code = "58239"
-state = "ND"
 city = "Hannah"
 county = "Cavalier"
-longitude = -98.464102
 latitude = 48.77178
+longitude = -98.464102
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58239"
+

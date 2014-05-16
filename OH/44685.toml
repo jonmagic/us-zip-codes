@@ -1,6 +1,8 @@
-zip_code = "44685"
-state = "OH"
 city = "Uniontown"
 county = "Summit"
-longitude = -81.458185
 latitude = 40.969521
+longitude = -81.458185
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44685"
+

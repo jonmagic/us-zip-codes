@@ -1,6 +1,8 @@
-zip_code = "48137"
-state = "MI"
 city = "Gregory"
 county = "Livingston"
-longitude = -84.084724
 latitude = 42.496024
+longitude = -84.084724
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48137"
+

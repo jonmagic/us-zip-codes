@@ -1,6 +1,8 @@
-zip_code = "80744"
-state = "CO"
 city = "Ovid"
 county = "Sedgwick"
-longitude = -102.358241
 latitude = 40.875571
+longitude = -102.358241
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80744"
+

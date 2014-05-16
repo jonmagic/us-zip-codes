@@ -1,6 +1,8 @@
-zip_code = "79508"
-state = "TX"
 city = "Buffalo Gap"
 county = "Taylor"
-longitude = -99.810319
 latitude = 32.289413
+longitude = -99.810319
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79508"
+

@@ -1,6 +1,8 @@
-zip_code = "38558"
-state = "TN"
 city = "Crossville"
 county = "Cumberland"
-longitude = -85.014224
 latitude = 35.960491
+longitude = -85.014224
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38558"
+

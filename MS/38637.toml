@@ -1,6 +1,8 @@
-zip_code = "38637"
-state = "MS"
 city = "Horn Lake"
 county = "De Soto"
-longitude = -90.03355
 latitude = 34.950609
+longitude = -90.03355
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38637"
+

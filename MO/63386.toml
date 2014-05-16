@@ -1,6 +1,8 @@
-zip_code = "63386"
-state = "MO"
 city = "West Alton"
 county = "Saint Charles"
-longitude = -90.403416
 latitude = 38.83275
+longitude = -90.403416
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63386"
+

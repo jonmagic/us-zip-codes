@@ -1,6 +1,8 @@
-zip_code = "06483"
-state = "CT"
 city = "Seymour"
 county = "New Haven"
-longitude = -73.102078
 latitude = 41.417646
+longitude = -73.102078
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06483"
+

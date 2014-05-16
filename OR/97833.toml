@@ -1,6 +1,8 @@
-zip_code = "97833"
-state = "OR"
 city = "Haines"
 county = "Baker"
-longitude = -117.987928
 latitude = 44.941557
+longitude = -117.987928
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97833"
+

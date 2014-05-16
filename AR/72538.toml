@@ -1,6 +1,8 @@
-zip_code = "72538"
-state = "AR"
 city = "Gepp"
 county = "Fulton"
-longitude = -91.823914
 latitude = 36.370988
+longitude = -91.823914
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72538"
+

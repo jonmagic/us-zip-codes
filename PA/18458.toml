@@ -1,6 +1,8 @@
-zip_code = "18458"
-state = "PA"
 city = "Shohola"
 county = "Pike"
-longitude = -74.934461
 latitude = 41.414928
+longitude = -74.934461
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18458"
+

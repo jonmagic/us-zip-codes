@@ -1,6 +1,8 @@
-zip_code = "73446"
-state = "OK"
 city = "Madill"
 county = "Marshall"
-longitude = -96.754984
 latitude = 34.010202
+longitude = -96.754984
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73446"
+

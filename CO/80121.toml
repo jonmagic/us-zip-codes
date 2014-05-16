@@ -1,6 +1,8 @@
-zip_code = "80121"
-state = "CO"
 city = "Littleton"
 county = "Arapahoe"
-longitude = -104.88773
 latitude = 39.612789
+longitude = -104.88773
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80121"
+

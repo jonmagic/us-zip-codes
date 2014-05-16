@@ -1,6 +1,8 @@
-zip_code = "17036"
-state = "PA"
 city = "Hummelstown"
 county = "Dauphin"
-longitude = -76.782764
 latitude = 40.340043
+longitude = -76.782764
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17036"
+

@@ -1,6 +1,8 @@
-zip_code = "48457"
-state = "MI"
 city = "Montrose"
 county = "Genesee"
-longitude = -83.873179
 latitude = 43.003962
+longitude = -83.873179
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48457"
+

@@ -1,6 +1,8 @@
-zip_code = "52216"
-state = "IA"
 city = "Clarence"
 county = "Cedar"
-longitude = -91.024771
 latitude = 41.864242
+longitude = -91.024771
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52216"
+

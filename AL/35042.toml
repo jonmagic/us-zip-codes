@@ -1,6 +1,8 @@
-zip_code = "35042"
-state = "AL"
 city = "Centreville"
 county = "Bibb"
-longitude = -87.139316
 latitude = 32.948233
+longitude = -87.139316
+state = ""
+state_code_alpha2 = ""
+zip_code = "35042"
+

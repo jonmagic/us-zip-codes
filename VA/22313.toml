@@ -1,6 +1,8 @@
-zip_code = "22313"
-state = "VA"
 city = "Alexandria"
 county = "Alexandria City"
-longitude = -77.09005
 latitude = 38.815762
+longitude = -77.09005
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22313"
+

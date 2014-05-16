@@ -1,6 +1,8 @@
-zip_code = "55973"
-state = "MN"
 city = "Sargeant"
 county = "Mower"
-longitude = -92.802913
 latitude = 43.804657
+longitude = -92.802913
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55973"
+

@@ -1,6 +1,8 @@
-zip_code = "44631"
-state = "OH"
 city = "Harlem Springs"
 county = "Carroll"
-longitude = -81.003619
 latitude = 40.521924
+longitude = -81.003619
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44631"
+

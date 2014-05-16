@@ -1,6 +1,8 @@
-zip_code = "72130"
-state = "AR"
 city = "Prim"
 county = "Cleburne"
-longitude = -92.093319
 latitude = 35.667434
+longitude = -92.093319
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72130"
+

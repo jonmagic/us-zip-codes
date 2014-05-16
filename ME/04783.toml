@@ -1,6 +1,8 @@
-zip_code = "04783"
-state = "ME"
 city = "Stockholm"
 county = "Aroostook"
-longitude = -68.155212
 latitude = 46.787807
+longitude = -68.155212
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04783"
+

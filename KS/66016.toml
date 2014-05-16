@@ -1,6 +1,8 @@
-zip_code = "66016"
-state = "KS"
 city = "Cummings"
 county = "Atchison"
-longitude = -95.240978
 latitude = 39.483518
+longitude = -95.240978
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66016"
+

@@ -1,6 +1,8 @@
-zip_code = "13364"
-state = "NY"
 city = "Leonardsville"
 county = "Madison"
-longitude = -75.616793
 latitude = 42.954541
+longitude = -75.616793
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13364"
+

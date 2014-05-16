@@ -1,6 +1,8 @@
-zip_code = "45307"
-state = "OH"
 city = "Bowersville"
 county = "Greene"
-longitude = -83.715323
 latitude = 39.575597
+longitude = -83.715323
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45307"
+

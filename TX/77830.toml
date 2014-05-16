@@ -1,6 +1,8 @@
-zip_code = "77830"
-state = "TX"
 city = "Anderson"
 county = "Grimes"
-longitude = -95.981285
 latitude = 30.562982
+longitude = -95.981285
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77830"
+

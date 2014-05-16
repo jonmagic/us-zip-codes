@@ -1,6 +1,8 @@
-zip_code = "91943"
-state = "CA"
 city = "La Mesa"
 county = "San Diego"
-longitude = -116.846046
 latitude = 33.016928
+longitude = -116.846046
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91943"
+

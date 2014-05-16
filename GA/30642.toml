@@ -1,6 +1,8 @@
-zip_code = "30642"
-state = "GA"
 city = "Greensboro"
 county = "Greene"
-longitude = -83.193389
 latitude = 33.560655
+longitude = -83.193389
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30642"
+

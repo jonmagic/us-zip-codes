@@ -1,6 +1,8 @@
-zip_code = "93272"
-state = "CA"
 city = "Tipton"
 county = "Tulare"
-longitude = -119.333512
 latitude = 36.005985
+longitude = -119.333512
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93272"
+

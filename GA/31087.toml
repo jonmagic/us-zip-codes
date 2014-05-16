@@ -1,6 +1,8 @@
-zip_code = "31087"
-state = "GA"
 city = "Sparta"
 county = "Hancock"
-longitude = -83.08922
 latitude = 33.257068
+longitude = -83.08922
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31087"
+

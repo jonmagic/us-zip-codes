@@ -1,6 +1,8 @@
-zip_code = "69356"
-state = "NE"
 city = "Minatare"
 county = "Scotts Bluff"
-longitude = -103.643939
 latitude = 41.861192
+longitude = -103.643939
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69356"
+

@@ -1,6 +1,8 @@
-zip_code = "37754"
-state = "TN"
 city = "Heiskell"
 county = "Knox"
-longitude = -84.041266
 latitude = 36.087461
+longitude = -84.041266
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37754"
+

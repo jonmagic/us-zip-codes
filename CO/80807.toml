@@ -1,6 +1,8 @@
-zip_code = "80807"
-state = "CO"
 city = "Burlington"
 county = "Kit Carson"
-longitude = -102.461287
 latitude = 39.308966
+longitude = -102.461287
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80807"
+

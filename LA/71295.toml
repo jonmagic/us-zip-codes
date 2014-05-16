@@ -1,6 +1,8 @@
-zip_code = "71295"
-state = "LA"
 city = "Winnsboro"
 county = "Franklin"
-longitude = -91.705926
 latitude = 32.118121
+longitude = -91.705926
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71295"
+

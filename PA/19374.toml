@@ -1,6 +1,8 @@
-zip_code = "19374"
-state = "PA"
 city = "Toughkenamon"
 county = "Chester"
-longitude = -75.848075
 latitude = 39.872825
+longitude = -75.848075
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19374"
+

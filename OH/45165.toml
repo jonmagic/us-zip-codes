@@ -1,6 +1,8 @@
-zip_code = "45165"
-state = "OH"
 city = "Greenfield"
 county = "Highland"
-longitude = -83.607858
 latitude = 39.198813
+longitude = -83.607858
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45165"
+

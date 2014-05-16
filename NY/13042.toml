@@ -1,6 +1,8 @@
-zip_code = "13042"
-state = "NY"
 city = "Cleveland"
 county = "Oswego"
-longitude = -76.225752
 latitude = 43.27637
+longitude = -76.225752
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13042"
+

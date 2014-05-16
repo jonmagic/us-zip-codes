@@ -1,6 +1,8 @@
-zip_code = "79758"
-state = "TX"
 city = "Gardendale"
 county = "Ector"
-longitude = -102.340552
 latitude = 32.028014
+longitude = -102.340552
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79758"
+

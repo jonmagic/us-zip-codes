@@ -1,6 +1,8 @@
-zip_code = "73082"
-state = "OK"
 city = "Rush Springs"
 county = "Grady"
-longitude = -97.954459
 latitude = 34.775535
+longitude = -97.954459
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73082"
+

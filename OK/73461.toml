@@ -1,6 +1,8 @@
-zip_code = "73461"
-state = "OK"
 city = "Wapanucka"
 county = "Johnston"
-longitude = -96.429558
 latitude = 34.371445
+longitude = -96.429558
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73461"
+

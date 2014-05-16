@@ -1,6 +1,8 @@
-zip_code = "58802"
-state = "ND"
 city = "Williston"
 county = "Williams"
-longitude = -103.614824
 latitude = 48.168836
+longitude = -103.614824
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58802"
+

@@ -1,6 +1,8 @@
-zip_code = "38474"
-state = "TN"
 city = "Mount Pleasant"
 county = "Maury"
-longitude = -87.209525
 latitude = 35.541801
+longitude = -87.209525
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38474"
+

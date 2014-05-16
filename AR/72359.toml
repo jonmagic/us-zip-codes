@@ -1,6 +1,8 @@
-zip_code = "72359"
-state = "AR"
 city = "Madison"
 county = "Saint Francis"
-longitude = -90.708551
 latitude = 35.025243
+longitude = -90.708551
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72359"
+

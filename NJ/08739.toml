@@ -1,6 +1,8 @@
-zip_code = "08739"
-state = "NJ"
 city = "Normandy Beach"
 county = "Ocean"
-longitude = -74.24928
 latitude = 40.000759
+longitude = -74.24928
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08739"
+

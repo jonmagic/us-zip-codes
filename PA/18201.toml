@@ -1,6 +1,8 @@
-zip_code = "18201"
-state = "PA"
 city = "Hazleton"
 county = "Luzerne"
-longitude = -76.008333
 latitude = 40.964584
+longitude = -76.008333
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18201"
+

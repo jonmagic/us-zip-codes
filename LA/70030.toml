@@ -1,6 +1,8 @@
-zip_code = "70030"
-state = "LA"
 city = "Des Allemands"
 county = "Saint Charles"
-longitude = -90.430699
 latitude = 29.841219
+longitude = -90.430699
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70030"
+

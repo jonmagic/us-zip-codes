@@ -1,6 +1,8 @@
-zip_code = "73551"
-state = "OK"
 city = "Hollister"
 county = "Tillman"
-longitude = -98.923769
 latitude = 34.381102
+longitude = -98.923769
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73551"
+

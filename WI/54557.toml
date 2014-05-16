@@ -1,6 +1,8 @@
-zip_code = "54557"
-state = "WI"
 city = "Presque Isle"
 county = "Vilas"
-longitude = -89.738691
 latitude = 46.200011
+longitude = -89.738691
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54557"
+

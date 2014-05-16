@@ -1,6 +1,8 @@
-zip_code = "43067"
-state = "OH"
 city = "Raymond"
 county = "Union"
-longitude = -83.465462
 latitude = 40.337997
+longitude = -83.465462
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43067"
+

@@ -1,6 +1,8 @@
-zip_code = "17841"
-state = "PA"
 city = "Mc Clure"
 county = "Snyder"
-longitude = -77.150271
 latitude = 40.766765
+longitude = -77.150271
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17841"
+

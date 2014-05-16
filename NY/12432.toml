@@ -1,6 +1,8 @@
-zip_code = "12432"
-state = "NY"
 city = "Glasco"
 county = "Ulster"
-longitude = -74.003246
 latitude = 41.949795
+longitude = -74.003246
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12432"
+

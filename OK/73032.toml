@@ -1,6 +1,8 @@
-zip_code = "73032"
-state = "OK"
 city = "Dougherty"
 county = "Murray"
-longitude = -97.089708
 latitude = 34.484702
+longitude = -97.089708
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73032"
+

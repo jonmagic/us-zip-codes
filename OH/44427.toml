@@ -1,6 +1,8 @@
-zip_code = "44427"
-state = "OH"
 city = "Kensington"
 county = "Columbiana"
-longitude = -80.942791
 latitude = 40.729298
+longitude = -80.942791
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44427"
+

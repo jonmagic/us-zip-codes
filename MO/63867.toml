@@ -1,6 +1,8 @@
-zip_code = "63867"
-state = "MO"
 city = "Matthews"
 county = "New Madrid"
-longitude = -89.628723
 latitude = 36.715404
+longitude = -89.628723
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63867"
+

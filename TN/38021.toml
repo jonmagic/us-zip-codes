@@ -1,6 +1,8 @@
-zip_code = "38021"
-state = "TN"
 city = "Crockett Mills"
 county = "Crockett"
-longitude = -89.175275
 latitude = 35.871014
+longitude = -89.175275
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38021"
+

@@ -1,6 +1,8 @@
-zip_code = "29333"
-state = "SC"
 city = "Drayton"
 county = "Spartanburg"
-longitude = -81.906376
 latitude = 34.968472
+longitude = -81.906376
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29333"
+

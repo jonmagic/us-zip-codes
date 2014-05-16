@@ -1,6 +1,8 @@
-zip_code = "47438"
-state = "IN"
 city = "Jasonville"
 county = "Greene"
-longitude = -86.992896
 latitude = 39.078835
+longitude = -86.992896
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47438"
+

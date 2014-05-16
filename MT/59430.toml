@@ -1,6 +1,8 @@
-zip_code = "59430"
-state = "MT"
 city = "Denton"
 county = "Fergus"
-longitude = -109.973645
 latitude = 47.432933
+longitude = -109.973645
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59430"
+

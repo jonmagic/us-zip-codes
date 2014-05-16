@@ -1,6 +1,8 @@
-zip_code = "71845"
-state = "AR"
 city = "Lewisville"
 county = "Lafayette"
-longitude = -93.597793
 latitude = 33.292401
+longitude = -93.597793
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71845"
+

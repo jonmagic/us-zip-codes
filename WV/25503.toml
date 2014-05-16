@@ -1,6 +1,8 @@
-zip_code = "25503"
-state = "WV"
 city = "Ashton"
 county = "Mason"
-longitude = -82.112281
 latitude = 38.60323
+longitude = -82.112281
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25503"
+

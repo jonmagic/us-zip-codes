@@ -1,6 +1,8 @@
-zip_code = "12464"
-state = "NY"
 city = "Phoenicia"
 county = "Ulster"
-longitude = -74.228732
 latitude = 42.019668
+longitude = -74.228732
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12464"
+

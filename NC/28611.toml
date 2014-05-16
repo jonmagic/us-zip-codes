@@ -1,6 +1,8 @@
-zip_code = "28611"
-state = "NC"
 city = "Collettsville"
 county = "Caldwell"
-longitude = -81.726617
 latitude = 35.994554
+longitude = -81.726617
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28611"
+

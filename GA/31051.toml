@@ -1,6 +1,8 @@
-zip_code = "31051"
-state = "GA"
 city = "Lilly"
 county = "Dooly"
-longitude = -83.891349
 latitude = 32.146879
+longitude = -83.891349
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31051"
+

@@ -1,6 +1,8 @@
-zip_code = "50058"
-state = "IA"
 city = "Coon Rapids"
 county = "Carroll"
-longitude = -94.735083
 latitude = 41.957228
+longitude = -94.735083
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50058"
+

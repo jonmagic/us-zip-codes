@@ -1,6 +1,8 @@
-zip_code = "13480"
-state = "NY"
 city = "Waterville"
 county = "Oneida"
-longitude = -75.360922
 latitude = 42.926167
+longitude = -75.360922
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13480"
+

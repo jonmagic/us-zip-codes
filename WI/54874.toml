@@ -1,6 +1,8 @@
-zip_code = "54874"
-state = "WI"
 city = "South Range"
 county = "Douglas"
-longitude = -91.935156
 latitude = 46.568809
+longitude = -91.935156
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54874"
+

@@ -1,6 +1,8 @@
-zip_code = "72567"
-state = "AR"
 city = "Pleasant Grove"
 county = "Stone"
-longitude = -92.127207
 latitude = 35.91896
+longitude = -92.127207
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72567"
+

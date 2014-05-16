@@ -1,6 +1,8 @@
-zip_code = "15412"
-state = "PA"
 city = "Allenport"
 county = "Washington"
-longitude = -79.849887
 latitude = 40.095888
+longitude = -79.849887
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15412"
+

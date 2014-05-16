@@ -1,6 +1,8 @@
-zip_code = "40423"
-state = "KY"
 city = "Danville"
 county = "Boyle"
-longitude = -84.845767
 latitude = 37.624659
+longitude = -84.845767
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40423"
+

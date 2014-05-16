@@ -1,6 +1,8 @@
-zip_code = "77456"
-state = "TX"
 city = "Markham"
 county = "Matagorda"
-longitude = -96.068212
 latitude = 28.962723
+longitude = -96.068212
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77456"
+

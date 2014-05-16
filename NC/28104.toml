@@ -1,6 +1,8 @@
-zip_code = "28104"
-state = "NC"
 city = "Matthews"
 county = "Mecklenburg"
-longitude = -80.704424
 latitude = 35.089042
+longitude = -80.704424
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28104"
+

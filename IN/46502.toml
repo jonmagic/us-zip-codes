@@ -1,6 +1,8 @@
-zip_code = "46502"
-state = "IN"
 city = "Atwood"
 county = "Kosciusko"
-longitude = -85.969708
 latitude = 41.254035
+longitude = -85.969708
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46502"
+

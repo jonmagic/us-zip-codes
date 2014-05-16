@@ -1,6 +1,8 @@
-zip_code = "34423"
-state = "FL"
 city = "Crystal River"
 county = "Citrus"
-longitude = -82.572703
 latitude = 28.867027
+longitude = -82.572703
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34423"
+

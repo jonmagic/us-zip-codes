@@ -1,6 +1,8 @@
-zip_code = "25168"
-state = "WV"
 city = "Red House"
 county = "Putnam"
-longitude = -81.901394
 latitude = 38.555097
+longitude = -81.901394
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25168"
+

@@ -1,6 +1,8 @@
-zip_code = "33960"
-state = "FL"
 city = "Venus"
 county = "Highlands"
-longitude = -81.390945
 latitude = 27.120281
+longitude = -81.390945
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33960"
+

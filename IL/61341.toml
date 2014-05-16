@@ -1,6 +1,8 @@
-zip_code = "61341"
-state = "IL"
 city = "Marseilles"
 county = "La Salle"
-longitude = -88.833689
 latitude = 41.212787
+longitude = -88.833689
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61341"
+

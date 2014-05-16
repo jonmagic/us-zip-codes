@@ -1,6 +1,8 @@
-zip_code = "40336"
-state = "KY"
 city = "Irvine"
 county = "Estill"
-longitude = -83.944815
 latitude = 37.70424
+longitude = -83.944815
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40336"
+

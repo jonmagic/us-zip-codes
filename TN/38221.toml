@@ -1,6 +1,8 @@
-zip_code = "38221"
-state = "TN"
 city = "Big Sandy"
 county = "Benton"
-longitude = -88.046704
 latitude = 36.246599
+longitude = -88.046704
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38221"
+

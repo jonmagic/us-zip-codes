@@ -1,6 +1,8 @@
-zip_code = "12883"
-state = "NY"
 city = "Ticonderoga"
 county = "Essex"
-longitude = -73.478024
 latitude = 43.852071
+longitude = -73.478024
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12883"
+

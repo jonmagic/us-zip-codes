@@ -1,6 +1,8 @@
-zip_code = "89434"
-state = "NV"
 city = "Sparks"
 county = "Washoe"
-longitude = -119.716747
 latitude = 39.591728
+longitude = -119.716747
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89434"
+

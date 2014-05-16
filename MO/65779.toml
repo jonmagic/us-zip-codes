@@ -1,6 +1,8 @@
-zip_code = "65779"
-state = "MO"
 city = "Wheatland"
 county = "Hickory"
-longitude = -93.365137
 latitude = 37.944587
+longitude = -93.365137
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65779"
+

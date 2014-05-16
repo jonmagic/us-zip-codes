@@ -1,6 +1,8 @@
-zip_code = "59036"
-state = "MT"
 city = "Harlowton"
 county = "Wheatland"
-longitude = -109.843492
 latitude = 46.447745
+longitude = -109.843492
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59036"
+

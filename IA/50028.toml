@@ -1,6 +1,8 @@
-zip_code = "50028"
-state = "IA"
 city = "Baxter"
 county = "Jasper"
-longitude = -93.159506
 latitude = 41.811839
+longitude = -93.159506
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50028"
+

@@ -1,6 +1,8 @@
-zip_code = "39179"
-state = "MS"
 city = "Vaughan"
 county = "Yazoo"
-longitude = -90.098134
 latitude = 32.801526
+longitude = -90.098134
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39179"
+

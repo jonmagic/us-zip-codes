@@ -1,6 +1,8 @@
-zip_code = "75469"
-state = "TX"
 city = "Pecan Gap"
 county = "Delta"
-longitude = -95.851141
 latitude = 33.442173
+longitude = -95.851141
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75469"
+

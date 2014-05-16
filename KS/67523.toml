@@ -1,6 +1,8 @@
-zip_code = "67523"
-state = "KS"
 city = "Burdett"
 county = "Pawnee"
-longitude = -99.385256
 latitude = 38.13957
+longitude = -99.385256
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67523"
+

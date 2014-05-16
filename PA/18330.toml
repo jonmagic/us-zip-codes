@@ -1,6 +1,8 @@
-zip_code = "18330"
-state = "PA"
 city = "Effort"
 county = "Monroe"
-longitude = -75.449047
 latitude = 41.033192
+longitude = -75.449047
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18330"
+

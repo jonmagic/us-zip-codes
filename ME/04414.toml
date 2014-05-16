@@ -1,6 +1,8 @@
-zip_code = "04414"
-state = "ME"
 city = "Brownville"
 county = "Piscataquis"
-longitude = -69.029462
 latitude = 45.310095
+longitude = -69.029462
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04414"
+

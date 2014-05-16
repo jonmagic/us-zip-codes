@@ -1,6 +1,8 @@
-zip_code = "04453"
-state = "ME"
 city = "Lagrange"
 county = "Penobscot"
-longitude = -69.21821
 latitude = 44.787229
+longitude = -69.21821
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04453"
+

@@ -1,6 +1,8 @@
-zip_code = "83404"
-state = "ID"
 city = "Idaho Falls"
 county = "Bonneville"
-longitude = -111.660433
 latitude = 43.433036
+longitude = -111.660433
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83404"
+

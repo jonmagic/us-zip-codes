@@ -1,6 +1,8 @@
-zip_code = "45619"
-state = "OH"
 city = "Chesapeake"
 county = "Lawrence"
-longitude = -82.450548
 latitude = 38.482955
+longitude = -82.450548
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45619"
+

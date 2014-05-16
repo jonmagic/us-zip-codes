@@ -1,6 +1,8 @@
-zip_code = "62032"
-state = "IL"
 city = "Fillmore"
 county = "Montgomery"
-longitude = -89.362709
 latitude = 39.11551
+longitude = -89.362709
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62032"
+

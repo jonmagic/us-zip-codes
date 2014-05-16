@@ -1,6 +1,8 @@
-zip_code = "32531"
-state = "FL"
 city = "Baker"
 county = "Okaloosa"
-longitude = -86.674139
 latitude = 30.85525
+longitude = -86.674139
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32531"
+

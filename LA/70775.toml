@@ -1,6 +1,8 @@
-zip_code = "70775"
-state = "LA"
 city = "Saint Francisville"
 county = "West Feliciana"
-longitude = -91.418642
 latitude = 30.869398
+longitude = -91.418642
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70775"
+

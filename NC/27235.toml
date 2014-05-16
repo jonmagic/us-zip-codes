@@ -1,6 +1,8 @@
-zip_code = "27235"
-state = "NC"
 city = "Colfax"
 county = "Guilford"
-longitude = -80.004721
 latitude = 36.094489
+longitude = -80.004721
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27235"
+

@@ -1,6 +1,8 @@
-zip_code = "76685"
-state = "TX"
 city = "Satin"
 county = "Falls"
-longitude = -97.076732
 latitude = 31.371525
+longitude = -97.076732
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76685"
+

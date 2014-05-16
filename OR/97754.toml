@@ -1,6 +1,8 @@
-zip_code = "97754"
-state = "OR"
 city = "Prineville"
 county = "Crook"
-longitude = -120.660334
 latitude = 44.16805
+longitude = -120.660334
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97754"
+

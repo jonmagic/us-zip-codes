@@ -1,6 +1,8 @@
-zip_code = "30629"
-state = "GA"
 city = "Comer"
 county = "Madison"
-longitude = -83.144463
 latitude = 34.105661
+longitude = -83.144463
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30629"
+

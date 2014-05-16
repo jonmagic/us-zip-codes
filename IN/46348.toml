@@ -1,6 +1,8 @@
-zip_code = "46348"
-state = "IN"
 city = "La Crosse"
 county = "La Porte"
-longitude = -86.806742
 latitude = 41.394105
+longitude = -86.806742
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46348"
+

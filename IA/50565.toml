@@ -1,6 +1,8 @@
-zip_code = "50565"
-state = "IA"
 city = "Marathon"
 county = "Buena Vista"
-longitude = -94.9984
 latitude = 42.858254
+longitude = -94.9984
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50565"
+

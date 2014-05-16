@@ -1,6 +1,8 @@
-zip_code = "49665"
-state = "MI"
 city = "Marion"
 county = "Osceola"
-longitude = -85.271121
 latitude = 43.989936
+longitude = -85.271121
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49665"
+

@@ -1,6 +1,8 @@
-zip_code = "12871"
-state = "NY"
 city = "Schuylerville"
 county = "Saratoga"
-longitude = -73.643205
 latitude = 43.130211
+longitude = -73.643205
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12871"
+

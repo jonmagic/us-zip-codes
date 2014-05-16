@@ -1,6 +1,8 @@
-zip_code = "71377"
-state = "LA"
 city = "Wildsville"
 county = "Concordia"
-longitude = -91.752932
 latitude = 31.590328
+longitude = -91.752932
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71377"
+

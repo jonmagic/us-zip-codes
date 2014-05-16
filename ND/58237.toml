@@ -1,6 +1,8 @@
-zip_code = "58237"
-state = "ND"
 city = "Grafton"
 county = "Walsh"
-longitude = -97.437265
 latitude = 48.368876
+longitude = -97.437265
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58237"
+

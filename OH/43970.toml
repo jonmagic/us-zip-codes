@@ -1,6 +1,8 @@
-zip_code = "43970"
-state = "OH"
 city = "Wolf Run"
 county = "Jefferson"
-longitude = -80.889206
 latitude = 40.46947
+longitude = -80.889206
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43970"
+

@@ -1,6 +1,8 @@
-zip_code = "75439"
-state = "TX"
 city = "Ector"
 county = "Fannin"
-longitude = -96.138464
 latitude = 33.575694
+longitude = -96.138464
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75439"
+

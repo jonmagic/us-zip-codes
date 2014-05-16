@@ -1,6 +1,8 @@
-zip_code = "29730"
-state = "SC"
 city = "Rock Hill"
 county = "York"
-longitude = -81.052437
 latitude = 34.909109
+longitude = -81.052437
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29730"
+

@@ -1,6 +1,8 @@
-zip_code = "30554"
-state = "GA"
 city = "Lula"
 county = "Hall"
-longitude = -83.703923
 latitude = 34.41088
+longitude = -83.703923
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30554"
+

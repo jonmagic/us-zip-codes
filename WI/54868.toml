@@ -1,6 +1,8 @@
-zip_code = "54868"
-state = "WI"
 city = "Rice Lake"
 county = "Barron"
-longitude = -91.826575
 latitude = 45.519692
+longitude = -91.826575
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54868"
+

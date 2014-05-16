@@ -1,6 +1,8 @@
-zip_code = "53516"
-state = "WI"
 city = "Blanchardville"
 county = "Lafayette"
-longitude = -90.104765
 latitude = 42.693258
+longitude = -90.104765
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53516"
+

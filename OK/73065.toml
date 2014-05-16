@@ -1,6 +1,8 @@
-zip_code = "73065"
-state = "OK"
 city = "Newcastle"
 county = "Mcclain"
-longitude = -97.574274
 latitude = 35.219694
+longitude = -97.574274
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73065"
+

@@ -1,6 +1,8 @@
-zip_code = "52620"
-state = "IA"
 city = "Bonaparte"
 county = "Van Buren"
-longitude = -91.770841
 latitude = 40.672405
+longitude = -91.770841
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52620"
+

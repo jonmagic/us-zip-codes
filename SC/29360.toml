@@ -1,6 +1,8 @@
-zip_code = "29360"
-state = "SC"
 city = "Laurens"
 county = "Laurens"
-longitude = -82.055091
 latitude = 34.528882
+longitude = -82.055091
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29360"
+

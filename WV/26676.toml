@@ -1,6 +1,8 @@
-zip_code = "26676"
-state = "WV"
 city = "Leivasy"
 county = "Nicholas"
-longitude = -80.682702
 latitude = 38.155842
+longitude = -80.682702
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26676"
+

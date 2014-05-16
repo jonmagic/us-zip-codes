@@ -1,6 +1,8 @@
-zip_code = "66054"
-state = "KS"
 city = "Mc Louth"
 county = "Jefferson"
-longitude = -95.231788
 latitude = 39.198095
+longitude = -95.231788
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66054"
+

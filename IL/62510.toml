@@ -1,6 +1,8 @@
-zip_code = "62510"
-state = "IL"
 city = "Assumption"
 county = "Christian"
-longitude = -89.249643
 latitude = 39.527214
+longitude = -89.249643
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62510"
+

@@ -1,6 +1,8 @@
-zip_code = "83451"
-state = "ID"
 city = "Teton"
 county = "Fremont"
-longitude = -111.650418
 latitude = 43.890665
+longitude = -111.650418
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83451"
+

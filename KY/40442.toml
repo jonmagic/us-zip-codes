@@ -1,6 +1,8 @@
-zip_code = "40442"
-state = "KY"
 city = "Kings Mountain"
 county = "Lincoln"
-longitude = -84.695425
 latitude = 37.362372
+longitude = -84.695425
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40442"
+

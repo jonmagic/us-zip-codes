@@ -1,6 +1,8 @@
-zip_code = "38751"
-state = "MS"
 city = "Indianola"
 county = "Sunflower"
-longitude = -90.608662
 latitude = 33.443446
+longitude = -90.608662
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38751"
+

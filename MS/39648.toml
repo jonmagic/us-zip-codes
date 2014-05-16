@@ -1,6 +1,8 @@
-zip_code = "39648"
-state = "MS"
 city = "Mccomb"
 county = "Pike"
-longitude = -90.40156
 latitude = 31.1769
+longitude = -90.40156
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39648"
+

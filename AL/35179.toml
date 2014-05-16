@@ -1,6 +1,8 @@
-zip_code = "35179"
-state = "AL"
 city = "Vinemont"
 county = "Cullman"
-longitude = -86.925471
 latitude = 34.258747
+longitude = -86.925471
+state = ""
+state_code_alpha2 = ""
+zip_code = "35179"
+

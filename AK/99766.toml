@@ -1,6 +1,8 @@
-zip_code = "99766"
-state = "AK"
 city = "Point Hope"
 county = "North Slope"
-longitude = -153.993988
 latitude = 66.693255
+longitude = -153.993988
+state = ""
+state_code_alpha2 = ""
+zip_code = "99766"
+

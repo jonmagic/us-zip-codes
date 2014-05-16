@@ -1,6 +1,8 @@
-zip_code = "27374"
-state = "NC"
 city = "Welcome"
 county = "Davidson"
-longitude = -80.203546
 latitude = 35.781848
+longitude = -80.203546
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27374"
+

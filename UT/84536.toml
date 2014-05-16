@@ -1,6 +1,8 @@
-zip_code = "84536"
-state = "UT"
 city = "Monument Valley"
 county = "San Juan"
-longitude = -109.56809
 latitude = 37.280022
+longitude = -109.56809
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84536"
+

@@ -1,6 +1,8 @@
-zip_code = "21076"
-state = "MD"
 city = "Hanover"
 county = "Anne Arundel"
-longitude = -76.615557
 latitude = 39.057694
+longitude = -76.615557
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21076"
+

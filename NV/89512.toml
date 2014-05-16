@@ -1,6 +1,8 @@
-zip_code = "89512"
-state = "NV"
 city = "Reno"
 county = "Washoe"
-longitude = -119.879069
 latitude = 39.545363
+longitude = -119.879069
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89512"
+

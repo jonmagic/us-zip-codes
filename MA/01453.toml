@@ -1,6 +1,8 @@
-zip_code = "01453"
-state = "MA"
 city = "Leominster"
 county = "Worcester"
-longitude = -71.837509
 latitude = 42.471316
+longitude = -71.837509
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01453"
+

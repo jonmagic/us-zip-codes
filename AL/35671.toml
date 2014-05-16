@@ -1,6 +1,8 @@
-zip_code = "35671"
-state = "AL"
 city = "Tanner"
 county = "Limestone"
-longitude = -86.962519
 latitude = 34.679634
+longitude = -86.962519
+state = ""
+state_code_alpha2 = ""
+zip_code = "35671"
+

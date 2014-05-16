@@ -1,6 +1,8 @@
-zip_code = "65231"
-state = "MO"
 city = "Auxvasse"
 county = "Callaway"
-longitude = -91.911773
 latitude = 39.008551
+longitude = -91.911773
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65231"
+

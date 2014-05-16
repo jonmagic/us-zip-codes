@@ -1,6 +1,8 @@
-zip_code = "43952"
-state = "OH"
 city = "Steubenville"
 county = "Jefferson"
-longitude = -80.746759
 latitude = 40.349541
+longitude = -80.746759
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43952"
+

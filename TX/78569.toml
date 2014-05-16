@@ -1,6 +1,8 @@
-zip_code = "78569"
-state = "TX"
 city = "Lyford"
 county = "Willacy"
-longitude = -97.791701
 latitude = 26.406243
+longitude = -97.791701
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78569"
+

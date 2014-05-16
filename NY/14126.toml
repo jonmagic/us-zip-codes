@@ -1,6 +1,8 @@
-zip_code = "14126"
-state = "NY"
 city = "Olcott"
 county = "Niagara"
-longitude = -78.726661
 latitude = 43.330443
+longitude = -78.726661
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14126"
+

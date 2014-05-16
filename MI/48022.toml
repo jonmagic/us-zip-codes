@@ -1,6 +1,8 @@
-zip_code = "48022"
-state = "MI"
 city = "Emmett"
 county = "Saint Clair"
-longitude = -82.800896
 latitude = 43.03545
+longitude = -82.800896
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48022"
+

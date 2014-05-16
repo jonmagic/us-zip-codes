@@ -1,6 +1,8 @@
-zip_code = "53060"
-state = "WI"
 city = "Newburg"
 county = "Washington"
-longitude = -88.062338
 latitude = 43.433807
+longitude = -88.062338
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53060"
+

@@ -1,6 +1,8 @@
-zip_code = "31804"
-state = "GA"
 city = "Cataula"
 county = "Harris"
-longitude = -84.855447
 latitude = 32.661625
+longitude = -84.855447
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31804"
+

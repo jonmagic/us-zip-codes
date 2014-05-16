@@ -1,6 +1,8 @@
-zip_code = "84080"
-state = "UT"
 city = "Vernon"
 county = "Tooele"
-longitude = -112.455046
 latitude = 40.086909
+longitude = -112.455046
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84080"
+

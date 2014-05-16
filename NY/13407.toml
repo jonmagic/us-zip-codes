@@ -1,6 +1,8 @@
-zip_code = "13407"
-state = "NY"
 city = "Mohawk"
 county = "Herkimer"
-longitude = -75.011662
 latitude = 43.029258
+longitude = -75.011662
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13407"
+

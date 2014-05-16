@@ -1,6 +1,8 @@
-zip_code = "83025"
-state = "WY"
 city = "Teton Village"
 county = "Teton"
-longitude = -110.694002
 latitude = 43.443851
+longitude = -110.694002
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83025"
+

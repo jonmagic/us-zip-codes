@@ -1,6 +1,8 @@
-zip_code = "56328"
-state = "MN"
 city = "Flensburg"
 county = "Morrison"
-longitude = -94.546845
 latitude = 45.953341
+longitude = -94.546845
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56328"
+

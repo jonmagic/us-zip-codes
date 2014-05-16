@@ -1,6 +1,8 @@
-zip_code = "96092"
-state = "CA"
 city = "Vina"
 county = "Tehama"
-longitude = -122.025047
 latitude = 39.927203
+longitude = -122.025047
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96092"
+

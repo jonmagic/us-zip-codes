@@ -1,6 +1,8 @@
-zip_code = "43150"
-state = "OH"
 city = "Rushville"
 county = "Fairfield"
-longitude = -82.438446
 latitude = 39.77882
+longitude = -82.438446
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43150"
+

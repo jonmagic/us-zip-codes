@@ -1,6 +1,8 @@
-zip_code = "02842"
-state = "RI"
 city = "Middletown"
 county = "Newport"
-longitude = -71.273101
 latitude = 41.519757
+longitude = -71.273101
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02842"
+

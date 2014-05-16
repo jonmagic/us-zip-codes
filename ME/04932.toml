@@ -1,6 +1,8 @@
-zip_code = "04932"
-state = "ME"
 city = "Dixmont"
 county = "Penobscot"
-longitude = -69.121648
 latitude = 44.6819
+longitude = -69.121648
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04932"
+

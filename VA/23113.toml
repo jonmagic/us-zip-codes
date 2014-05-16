@@ -1,6 +1,8 @@
-zip_code = "23113"
-state = "VA"
 city = "Midlothian"
 county = "Chesterfield"
-longitude = -77.663061
 latitude = 37.494897
+longitude = -77.663061
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23113"
+

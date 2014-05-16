@@ -1,6 +1,8 @@
-zip_code = "90660"
-state = "CA"
 city = "Pico Rivera"
 county = "Los Angeles"
-longitude = -118.088787
 latitude = 33.985812
+longitude = -118.088787
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90660"
+

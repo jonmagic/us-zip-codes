@@ -1,6 +1,8 @@
-zip_code = "58271"
-state = "ND"
 city = "Pembina"
 county = "Pembina"
-longitude = -97.288585
 latitude = 48.85897
+longitude = -97.288585
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58271"
+

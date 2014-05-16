@@ -1,6 +1,8 @@
-zip_code = "53518"
-state = "WI"
 city = "Blue River"
 county = "Grant"
-longitude = -90.571655
 latitude = 42.97045
+longitude = -90.571655
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53518"
+

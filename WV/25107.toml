@@ -1,6 +1,8 @@
-zip_code = "25107"
-state = "WV"
 city = "Hernshaw"
 county = "Kanawha"
-longitude = -81.554655
 latitude = 38.296818
+longitude = -81.554655
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25107"
+

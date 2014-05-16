@@ -1,6 +1,8 @@
-zip_code = "26038"
-state = "WV"
 city = "Glen Dale"
 county = "Marshall"
-longitude = -80.719815
 latitude = 39.962545
+longitude = -80.719815
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26038"
+

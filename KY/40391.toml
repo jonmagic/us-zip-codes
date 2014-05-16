@@ -1,6 +1,8 @@
-zip_code = "40391"
-state = "KY"
 city = "Winchester"
 county = "Clark"
-longitude = -84.160724
 latitude = 37.964922
+longitude = -84.160724
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40391"
+

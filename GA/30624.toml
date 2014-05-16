@@ -1,6 +1,8 @@
-zip_code = "30624"
-state = "GA"
 city = "Bowman"
 county = "Elbert"
-longitude = -82.957102
 latitude = 34.164131
+longitude = -82.957102
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30624"
+

@@ -1,6 +1,8 @@
-zip_code = "62046"
-state = "IL"
 city = "Hamel"
 county = "Madison"
-longitude = -89.860115
 latitude = 38.880823
+longitude = -89.860115
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62046"
+

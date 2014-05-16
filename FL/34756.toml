@@ -1,6 +1,8 @@
-zip_code = "34756"
-state = "FL"
 city = "Montverde"
 county = "Lake"
-longitude = -81.685146
 latitude = 28.581499
+longitude = -81.685146
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34756"
+

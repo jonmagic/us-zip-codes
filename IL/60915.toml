@@ -1,6 +1,8 @@
-zip_code = "60915"
-state = "IL"
 city = "Bradley"
 county = "Kankakee"
-longitude = -87.842583
 latitude = 41.207762
+longitude = -87.842583
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60915"
+

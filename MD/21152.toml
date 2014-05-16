@@ -1,6 +1,8 @@
-zip_code = "21152"
-state = "MD"
 city = "Sparks Glencoe"
 county = "Baltimore"
-longitude = -76.715587
 latitude = 39.526441
+longitude = -76.715587
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21152"
+

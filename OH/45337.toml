@@ -1,6 +1,8 @@
-zip_code = "45337"
-state = "OH"
 city = "Laura"
 county = "Miami"
-longitude = -84.399364
 latitude = 39.985177
+longitude = -84.399364
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45337"
+

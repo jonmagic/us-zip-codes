@@ -1,6 +1,8 @@
-zip_code = "79351"
-state = "TX"
 city = "Odonnell"
 county = "Lynn"
-longitude = -101.937148
 latitude = 32.977027
+longitude = -101.937148
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79351"
+

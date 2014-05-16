@@ -1,6 +1,8 @@
-zip_code = "04554"
-state = "ME"
 city = "New Harbor"
 county = "Lincoln"
-longitude = -69.566313
 latitude = 43.870936
+longitude = -69.566313
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04554"
+

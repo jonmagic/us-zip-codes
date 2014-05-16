@@ -1,6 +1,8 @@
-zip_code = "61315"
-state = "IL"
 city = "Bureau"
 county = "Bureau"
-longitude = -89.368617
 latitude = 41.289394
+longitude = -89.368617
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61315"
+

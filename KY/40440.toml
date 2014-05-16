@@ -1,6 +1,8 @@
-zip_code = "40440"
-state = "KY"
 city = "Junction City"
 county = "Boyle"
-longitude = -84.846678
 latitude = 37.581754
+longitude = -84.846678
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40440"
+

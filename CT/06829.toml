@@ -1,6 +1,8 @@
-zip_code = "06829"
-state = "CT"
 city = "Georgetown"
 county = "Fairfield"
-longitude = -73.427915
 latitude = 41.25553
+longitude = -73.427915
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06829"
+

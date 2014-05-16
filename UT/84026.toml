@@ -1,6 +1,8 @@
-zip_code = "84026"
-state = "UT"
 city = "Fort Duchesne"
 county = "Uintah"
-longitude = -109.846675
 latitude = 40.290515
+longitude = -109.846675
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84026"
+

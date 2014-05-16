@@ -1,6 +1,8 @@
-zip_code = "73651"
-state = "OK"
 city = "Hobart"
 county = "Kiowa"
-longitude = -99.136501
 latitude = 35.012688
+longitude = -99.136501
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73651"
+

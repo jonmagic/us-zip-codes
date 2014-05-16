@@ -1,6 +1,8 @@
-zip_code = "69201"
-state = "NE"
 city = "Valentine"
 county = "Cherry"
-longitude = -100.996747
 latitude = 42.906836
+longitude = -100.996747
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69201"
+

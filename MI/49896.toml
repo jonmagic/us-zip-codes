@@ -1,6 +1,8 @@
-zip_code = "49896"
-state = "MI"
 city = "Wilson"
 county = "Menominee"
-longitude = -87.389877
 latitude = 45.679339
+longitude = -87.389877
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49896"
+

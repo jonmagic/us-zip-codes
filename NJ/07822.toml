@@ -1,6 +1,8 @@
-zip_code = "07822"
-state = "NJ"
 city = "Augusta"
 county = "Sussex"
-longitude = -74.6174
 latitude = 41.161241
+longitude = -74.6174
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07822"
+

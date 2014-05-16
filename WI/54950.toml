@@ -1,6 +1,8 @@
-zip_code = "54950"
-state = "WI"
 city = "Marion"
 county = "Waupaca"
-longitude = -88.937717
 latitude = 44.546623
+longitude = -88.937717
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54950"
+

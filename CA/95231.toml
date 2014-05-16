@@ -1,6 +1,8 @@
-zip_code = "95231"
-state = "CA"
 city = "French Camp"
 county = "San Joaquin"
-longitude = -121.290405
 latitude = 37.883775
+longitude = -121.290405
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95231"
+

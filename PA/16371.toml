@@ -1,6 +1,8 @@
-zip_code = "16371"
-state = "PA"
 city = "Youngsville"
 county = "Warren"
-longitude = -79.201275
 latitude = 41.823681
+longitude = -79.201275
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16371"
+

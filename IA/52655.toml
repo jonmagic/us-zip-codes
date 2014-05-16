@@ -1,6 +1,8 @@
-zip_code = "52655"
-state = "IA"
 city = "West Burlington"
 county = "Des Moines"
-longitude = -91.229873
 latitude = 40.850783
+longitude = -91.229873
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52655"
+

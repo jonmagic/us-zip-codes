@@ -1,6 +1,8 @@
-zip_code = "33982"
-state = "FL"
 city = "Punta Gorda"
 county = "Charlotte"
-longitude = -81.819036
 latitude = 26.959685
+longitude = -81.819036
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33982"
+

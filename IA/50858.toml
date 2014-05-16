@@ -1,6 +1,8 @@
-zip_code = "50858"
-state = "IA"
 city = "Orient"
 county = "Adair"
-longitude = -94.423224
 latitude = 41.215096
+longitude = -94.423224
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50858"
+

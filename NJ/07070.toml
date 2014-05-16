@@ -1,6 +1,8 @@
-zip_code = "07070"
-state = "NJ"
 city = "Rutherford"
 county = "Bergen"
-longitude = -74.109786
 latitude = 40.827449
+longitude = -74.109786
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07070"
+

@@ -1,6 +1,8 @@
-zip_code = "97415"
-state = "OR"
 city = "Brookings"
 county = "Curry"
-longitude = -124.249196
 latitude = 42.137789
+longitude = -124.249196
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97415"
+

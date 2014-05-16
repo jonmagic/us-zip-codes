@@ -1,6 +1,8 @@
-zip_code = "08731"
-state = "NJ"
 city = "Forked River"
 county = "Ocean"
-longitude = -74.230522
 latitude = 39.876031
+longitude = -74.230522
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08731"
+

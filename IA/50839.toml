@@ -1,6 +1,8 @@
-zip_code = "50839"
-state = "IA"
 city = "Carbon"
 county = "Adams"
-longitude = -94.823088
 latitude = 41.048733
+longitude = -94.823088
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50839"
+

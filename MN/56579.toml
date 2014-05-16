@@ -1,6 +1,8 @@
-zip_code = "56579"
-state = "MN"
 city = "Rothsay"
 county = "Wilkin"
-longitude = -96.349085
 latitude = 46.529553
+longitude = -96.349085
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56579"
+

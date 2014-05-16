@@ -1,6 +1,8 @@
-zip_code = "82081"
-state = "WY"
 city = "Meriden"
 county = "Laramie"
-longitude = -104.441122
 latitude = 41.513944
+longitude = -104.441122
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82081"
+

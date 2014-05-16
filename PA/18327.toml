@@ -1,6 +1,8 @@
-zip_code = "18327"
-state = "PA"
 city = "Delaware Water Gap"
 county = "Monroe"
-longitude = -75.151193
 latitude = 40.988562
+longitude = -75.151193
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18327"
+

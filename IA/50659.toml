@@ -1,6 +1,8 @@
-zip_code = "50659"
-state = "IA"
 city = "New Hampton"
 county = "Chickasaw"
-longitude = -92.338474
 latitude = 43.065359
+longitude = -92.338474
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50659"
+

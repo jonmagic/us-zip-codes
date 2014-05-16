@@ -1,6 +1,8 @@
-zip_code = "40170"
-state = "KY"
 city = "Stephensport"
 county = "Breckinridge"
-longitude = -86.52421
 latitude = 37.913755
+longitude = -86.52421
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40170"
+

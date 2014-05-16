@@ -1,6 +1,8 @@
-zip_code = "98380"
-state = "WA"
 city = "Seabeck"
 county = "Kitsap"
-longitude = -122.868581
 latitude = 47.591261
+longitude = -122.868581
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98380"
+

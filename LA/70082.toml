@@ -1,6 +1,8 @@
-zip_code = "70082"
-state = "LA"
 city = "Pointe A La Hache"
 county = "Plaquemines"
-longitude = -89.831317
 latitude = 29.587389
+longitude = -89.831317
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70082"
+

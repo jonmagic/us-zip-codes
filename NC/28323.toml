@@ -1,6 +1,8 @@
-zip_code = "28323"
-state = "NC"
 city = "Bunnlevel"
 county = "Harnett"
-longitude = -78.914817
 latitude = 35.312764
+longitude = -78.914817
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28323"
+

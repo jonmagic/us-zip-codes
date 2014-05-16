@@ -1,6 +1,8 @@
-zip_code = "60146"
-state = "IL"
 city = "Kirkland"
 county = "De Kalb"
-longitude = -88.871153
 latitude = 42.087039
+longitude = -88.871153
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60146"
+

@@ -1,6 +1,8 @@
-zip_code = "79094"
-state = "TX"
 city = "Wayside"
 county = "Armstrong"
-longitude = -101.357838
 latitude = 34.965329
+longitude = -101.357838
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79094"
+

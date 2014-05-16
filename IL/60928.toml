@@ -1,6 +1,8 @@
-zip_code = "60928"
-state = "IL"
 city = "Crescent City"
 county = "Iroquois"
-longitude = -87.95062
 latitude = 40.66202
+longitude = -87.95062
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60928"
+

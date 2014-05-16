@@ -1,6 +1,8 @@
-zip_code = "14858"
-state = "NY"
 city = "Lindley"
 county = "Steuben"
-longitude = -77.106679
 latitude = 42.04507
+longitude = -77.106679
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14858"
+

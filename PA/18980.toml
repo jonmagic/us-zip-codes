@@ -1,6 +1,8 @@
-zip_code = "18980"
-state = "PA"
 city = "Wycombe"
 county = "Bucks"
-longitude = -75.020499
 latitude = 40.274185
+longitude = -75.020499
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18980"
+

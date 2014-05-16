@@ -1,6 +1,8 @@
-zip_code = "34461"
-state = "FL"
 city = "Lecanto"
 county = "Citrus"
-longitude = -82.464061
 latitude = 28.819711
+longitude = -82.464061
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34461"
+

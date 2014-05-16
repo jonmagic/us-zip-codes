@@ -1,6 +1,8 @@
-zip_code = "22442"
-state = "VA"
 city = "Coles Point"
 county = "Westmoreland"
-longitude = -76.79025
 latitude = 38.121793
+longitude = -76.79025
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22442"
+

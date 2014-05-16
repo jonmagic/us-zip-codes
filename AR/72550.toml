@@ -1,6 +1,8 @@
-zip_code = "72550"
-state = "AR"
 city = "Locust Grove"
 county = "Independence"
-longitude = -91.778953
 latitude = 35.712421
+longitude = -91.778953
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72550"
+

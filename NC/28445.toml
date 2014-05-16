@@ -1,6 +1,8 @@
-zip_code = "28445"
-state = "NC"
 city = "Holly Ridge"
 county = "Onslow"
-longitude = -77.514707
 latitude = 34.527983
+longitude = -77.514707
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28445"
+

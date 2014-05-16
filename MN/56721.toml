@@ -1,6 +1,8 @@
-zip_code = "56721"
-state = "MN"
 city = "East Grand Forks"
 county = "Polk"
-longitude = -96.924085
 latitude = 47.874048
+longitude = -96.924085
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56721"
+

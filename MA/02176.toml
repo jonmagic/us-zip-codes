@@ -1,6 +1,8 @@
-zip_code = "02176"
-state = "MA"
 city = "Melrose"
 county = "Middlesex"
-longitude = -71.053095
 latitude = 42.458995
+longitude = -71.053095
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02176"
+

@@ -1,6 +1,8 @@
-zip_code = "24901"
-state = "WV"
 city = "Lewisburg"
 county = "Greenbrier"
-longitude = -80.538781
 latitude = 37.844155
+longitude = -80.538781
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24901"
+

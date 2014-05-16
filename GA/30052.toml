@@ -1,6 +1,8 @@
-zip_code = "30052"
-state = "GA"
 city = "Loganville"
 county = "Gwinnett"
-longitude = -83.896781
 latitude = 33.876889
+longitude = -83.896781
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30052"
+

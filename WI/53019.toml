@@ -1,6 +1,8 @@
-zip_code = "53019"
-state = "WI"
 city = "Eden"
 county = "Fond Du Lac"
-longitude = -88.50384
 latitude = 43.672543
+longitude = -88.50384
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53019"
+

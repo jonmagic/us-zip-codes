@@ -1,6 +1,8 @@
-zip_code = "77973"
-state = "TX"
 city = "Mcfaddin"
 county = "Victoria"
-longitude = -97.009923
 latitude = 28.551137
+longitude = -97.009923
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77973"
+

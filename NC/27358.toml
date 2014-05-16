@@ -1,6 +1,8 @@
-zip_code = "27358"
-state = "NC"
 city = "Summerfield"
 county = "Guilford"
-longitude = -79.880028
 latitude = 36.200019
+longitude = -79.880028
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27358"
+

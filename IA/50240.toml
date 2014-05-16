@@ -1,6 +1,8 @@
-zip_code = "50240"
-state = "IA"
 city = "Saint Charles"
 county = "Madison"
-longitude = -93.862695
 latitude = 41.289336
+longitude = -93.862695
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50240"
+

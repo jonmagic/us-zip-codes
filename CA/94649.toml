@@ -1,6 +1,8 @@
-zip_code = "94649"
-state = "CA"
 city = "Oakland"
 county = "Alameda"
-longitude = -121.921498
 latitude = 37.680181
+longitude = -121.921498
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94649"
+

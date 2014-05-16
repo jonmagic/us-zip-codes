@@ -1,6 +1,8 @@
-zip_code = "18049"
-state = "PA"
 city = "Emmaus"
 county = "Lehigh"
-longitude = -75.496131
 latitude = 40.520705
+longitude = -75.496131
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18049"
+

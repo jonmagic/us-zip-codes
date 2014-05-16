@@ -1,6 +1,8 @@
-zip_code = "15683"
-state = "PA"
 city = "Scottdale"
 county = "Westmoreland"
-longitude = -79.520544
 latitude = 40.35535
+longitude = -79.520544
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15683"
+

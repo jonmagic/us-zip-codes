@@ -1,6 +1,8 @@
-zip_code = "52561"
-state = "IA"
 city = "Fremont"
 county = "Mahaska"
-longitude = -92.467531
 latitude = 41.227386
+longitude = -92.467531
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52561"
+

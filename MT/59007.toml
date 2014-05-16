@@ -1,6 +1,8 @@
-zip_code = "59007"
-state = "MT"
 city = "Bearcreek"
 county = "Carbon"
-longitude = -109.158349
 latitude = 45.161913
+longitude = -109.158349
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59007"
+

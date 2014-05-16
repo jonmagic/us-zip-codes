@@ -1,6 +1,8 @@
-zip_code = "14788"
-state = "NY"
 city = "Westons Mills"
 county = "Cattaraugus"
-longitude = -78.377974
 latitude = 42.062125
+longitude = -78.377974
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14788"
+

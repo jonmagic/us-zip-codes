@@ -1,6 +1,8 @@
-zip_code = "41189"
-state = "KY"
 city = "Tollesboro"
 county = "Lewis"
-longitude = -83.335329
 latitude = 38.521926
+longitude = -83.335329
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41189"
+

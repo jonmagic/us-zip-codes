@@ -1,6 +1,8 @@
-zip_code = "38338"
-state = "TN"
 city = "Gibson"
 county = "Gibson"
-longitude = -88.846372
 latitude = 35.870849
+longitude = -88.846372
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38338"
+

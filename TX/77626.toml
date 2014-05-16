@@ -1,6 +1,8 @@
-zip_code = "77626"
-state = "TX"
 city = "Mauriceville"
 county = "Orange"
-longitude = -93.886646
 latitude = 30.203996
+longitude = -93.886646
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77626"
+

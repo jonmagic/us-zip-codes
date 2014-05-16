@@ -1,6 +1,8 @@
-zip_code = "49012"
-state = "MI"
 city = "Augusta"
 county = "Kalamazoo"
-longitude = -85.346599
 latitude = 42.353739
+longitude = -85.346599
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49012"
+

@@ -1,6 +1,8 @@
-zip_code = "38037"
-state = "TN"
 city = "Gates"
 county = "Lauderdale"
-longitude = -89.646955
 latitude = 35.792984
+longitude = -89.646955
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38037"
+

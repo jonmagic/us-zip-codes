@@ -1,6 +1,8 @@
-zip_code = "97814"
-state = "OR"
 city = "Baker City"
 county = "Baker"
-longitude = -117.742659
 latitude = 44.754237
+longitude = -117.742659
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97814"
+

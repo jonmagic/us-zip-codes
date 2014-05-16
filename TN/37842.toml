@@ -1,6 +1,8 @@
-zip_code = "37842"
-state = "TN"
 city = "Ozone"
 county = "Cumberland"
-longitude = -84.792927
 latitude = 35.87543
+longitude = -84.792927
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37842"
+

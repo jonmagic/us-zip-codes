@@ -1,6 +1,8 @@
-zip_code = "54130"
-state = "WI"
 city = "Kaukauna"
 county = "Outagamie"
-longitude = -88.295776
 latitude = 44.334465
+longitude = -88.295776
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54130"
+

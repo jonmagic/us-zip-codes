@@ -1,6 +1,8 @@
-zip_code = "77871"
-state = "TX"
 city = "Normangee"
 county = "Leon"
-longitude = -96.109604
 latitude = 31.12486
+longitude = -96.109604
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77871"
+

@@ -1,6 +1,8 @@
-zip_code = "32712"
-state = "FL"
 city = "Apopka"
 county = "Orange"
-longitude = -81.537602
 latitude = 28.731322
+longitude = -81.537602
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32712"
+

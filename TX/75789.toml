@@ -1,6 +1,8 @@
-zip_code = "75789"
-state = "TX"
 city = "Troup"
 county = "Smith"
-longitude = -95.17896
 latitude = 32.2477
+longitude = -95.17896
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75789"
+

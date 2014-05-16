@@ -1,6 +1,8 @@
-zip_code = "57623"
-state = "SD"
 city = "Dupree"
 county = "Ziebach"
-longitude = -101.607171
 latitude = 45.050456
+longitude = -101.607171
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57623"
+

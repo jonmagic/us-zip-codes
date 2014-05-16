@@ -1,6 +1,8 @@
-zip_code = "08327"
-state = "NJ"
 city = "Leesburg"
 county = "Cumberland"
-longitude = -75.007418
 latitude = 39.387948
+longitude = -75.007418
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08327"
+

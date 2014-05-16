@@ -1,6 +1,8 @@
-zip_code = "81126"
-state = "CO"
 city = "Chama"
 county = "Costilla"
-longitude = -105.450502
 latitude = 37.326735
+longitude = -105.450502
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81126"
+

@@ -1,6 +1,8 @@
-zip_code = "08019"
-state = "NJ"
 city = "Chatsworth"
 county = "Burlington"
-longitude = -74.558941
 latitude = 39.749506
+longitude = -74.558941
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08019"
+

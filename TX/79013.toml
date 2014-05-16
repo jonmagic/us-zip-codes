@@ -1,6 +1,8 @@
-zip_code = "79013"
-state = "TX"
 city = "Cactus"
 county = "Moore"
-longitude = -102.00075
 latitude = 36.041191
+longitude = -102.00075
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79013"
+

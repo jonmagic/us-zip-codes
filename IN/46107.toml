@@ -1,6 +1,8 @@
-zip_code = "46107"
-state = "IN"
 city = "Beech Grove"
 county = "Marion"
-longitude = -86.093293
 latitude = 39.713893
+longitude = -86.093293
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46107"
+

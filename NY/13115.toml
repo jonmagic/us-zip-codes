@@ -1,6 +1,8 @@
-zip_code = "13115"
-state = "NY"
 city = "Minetto"
 county = "Oswego"
-longitude = -76.482365
 latitude = 43.397671
+longitude = -76.482365
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13115"
+

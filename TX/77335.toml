@@ -1,6 +1,8 @@
-zip_code = "77335"
-state = "TX"
 city = "Goodrich"
 county = "Polk"
-longitude = -94.904791
 latitude = 30.594279
+longitude = -94.904791
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77335"
+

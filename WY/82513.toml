@@ -1,6 +1,8 @@
-zip_code = "82513"
-state = "WY"
 city = "Dubois"
 county = "Fremont"
-longitude = -109.704749
 latitude = 43.549861
+longitude = -109.704749
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82513"
+

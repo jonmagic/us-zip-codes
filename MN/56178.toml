@@ -1,6 +1,8 @@
-zip_code = "56178"
-state = "MN"
 city = "Tyler"
 county = "Lincoln"
-longitude = -96.141967
 latitude = 44.275371
+longitude = -96.141967
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56178"
+

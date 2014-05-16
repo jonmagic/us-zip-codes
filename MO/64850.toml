@@ -1,6 +1,8 @@
-zip_code = "64850"
-state = "MO"
 city = "Neosho"
 county = "Newton"
-longitude = -94.372328
 latitude = 36.904539
+longitude = -94.372328
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64850"
+

@@ -1,6 +1,8 @@
-zip_code = "93955"
-state = "CA"
 city = "Seaside"
 county = "Monterey"
-longitude = -121.497712
 latitude = 36.429013
+longitude = -121.497712
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93955"
+

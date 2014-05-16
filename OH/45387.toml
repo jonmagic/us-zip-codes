@@ -1,6 +1,8 @@
-zip_code = "45387"
-state = "OH"
 city = "Yellow Springs"
 county = "Greene"
-longitude = -83.8836
 latitude = 39.760531
+longitude = -83.8836
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45387"
+

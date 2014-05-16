@@ -1,6 +1,8 @@
-zip_code = "16875"
-state = "PA"
 city = "Spring Mills"
 county = "Centre"
-longitude = -77.518716
 latitude = 40.88368
+longitude = -77.518716
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16875"
+

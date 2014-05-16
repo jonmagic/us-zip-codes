@@ -1,6 +1,8 @@
-zip_code = "04354"
-state = "ME"
 city = "Palermo"
 county = "Waldo"
-longitude = -69.4168
 latitude = 44.39559
+longitude = -69.4168
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04354"
+

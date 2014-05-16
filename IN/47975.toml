@@ -1,6 +1,8 @@
-zip_code = "47975"
-state = "IN"
 city = "Pine Village"
 county = "Warren"
-longitude = -87.255833
 latitude = 40.439726
+longitude = -87.255833
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47975"
+

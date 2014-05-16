@@ -1,6 +1,8 @@
-zip_code = "50441"
-state = "IA"
 city = "Hampton"
 county = "Franklin"
-longitude = -93.230657
 latitude = 42.731454
+longitude = -93.230657
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50441"
+

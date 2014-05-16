@@ -1,6 +1,8 @@
-zip_code = "82321"
-state = "WY"
 city = "Baggs"
 county = "Carbon"
-longitude = -107.569976
 latitude = 41.025579
+longitude = -107.569976
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82321"
+

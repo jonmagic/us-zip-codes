@@ -1,6 +1,8 @@
-zip_code = "38874"
-state = "MS"
 city = "Toccopola"
 county = "Lafayette"
-longitude = -89.251922
 latitude = 34.226527
+longitude = -89.251922
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38874"
+

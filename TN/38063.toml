@@ -1,6 +1,8 @@
-zip_code = "38063"
-state = "TN"
 city = "Ripley"
 county = "Lauderdale"
-longitude = -89.66112
 latitude = 35.754505
+longitude = -89.66112
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38063"
+

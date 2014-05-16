@@ -1,6 +1,8 @@
-zip_code = "41046"
-state = "KY"
 city = "Glencoe"
 county = "Gallatin"
-longitude = -84.805495
 latitude = 38.732647
+longitude = -84.805495
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41046"
+

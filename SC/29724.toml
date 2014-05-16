@@ -1,6 +1,8 @@
-zip_code = "29724"
-state = "SC"
 city = "Lando"
 county = "Chester"
-longitude = -81.022816
 latitude = 34.775302
+longitude = -81.022816
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29724"
+

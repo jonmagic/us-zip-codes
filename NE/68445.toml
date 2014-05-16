@@ -1,6 +1,8 @@
-zip_code = "68445"
-state = "NE"
 city = "Swanton"
 county = "Saline"
-longitude = -97.080431
 latitude = 40.379788
+longitude = -97.080431
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68445"
+

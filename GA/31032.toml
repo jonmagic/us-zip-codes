@@ -1,6 +1,8 @@
-zip_code = "31032"
-state = "GA"
 city = "Gray"
 county = "Jones"
-longitude = -83.567362
 latitude = 32.991607
+longitude = -83.567362
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31032"
+

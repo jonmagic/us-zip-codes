@@ -1,6 +1,8 @@
-zip_code = "54961"
-state = "WI"
 city = "New London"
 county = "Waupaca"
-longitude = -88.859107
 latitude = 44.405595
+longitude = -88.859107
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54961"
+

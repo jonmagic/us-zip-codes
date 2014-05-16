@@ -1,6 +1,8 @@
-zip_code = "97873"
-state = "OR"
 city = "Seneca"
 county = "Grant"
-longitude = -119.122317
 latitude = 44.119638
+longitude = -119.122317
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97873"
+

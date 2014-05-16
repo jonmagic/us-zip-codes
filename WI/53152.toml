@@ -1,6 +1,8 @@
-zip_code = "53152"
-state = "WI"
 city = "New Munster"
 county = "Kenosha"
-longitude = -88.232632
 latitude = 42.574616
+longitude = -88.232632
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53152"
+

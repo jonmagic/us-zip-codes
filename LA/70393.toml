@@ -1,6 +1,8 @@
-zip_code = "70393"
-state = "LA"
 city = "Plattenville"
 county = "Assumption"
-longitude = -91.023196
 latitude = 29.9974
+longitude = -91.023196
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70393"
+

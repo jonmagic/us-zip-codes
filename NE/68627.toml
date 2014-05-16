@@ -1,6 +1,8 @@
-zip_code = "68627"
-state = "NE"
 city = "Cedar Rapids"
 county = "Boone"
-longitude = -98.150139
 latitude = 41.558087
+longitude = -98.150139
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68627"
+

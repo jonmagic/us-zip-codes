@@ -1,6 +1,8 @@
-zip_code = "94571"
-state = "CA"
 city = "Rio Vista"
 county = "Solano"
-longitude = -121.777874
 latitude = 38.209069
+longitude = -121.777874
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94571"
+

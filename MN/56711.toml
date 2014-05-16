@@ -1,6 +1,8 @@
-zip_code = "56711"
-state = "MN"
 city = "Angle Inlet"
 county = "Lake Of The Woods"
-longitude = -94.885668
 latitude = 48.875164
+longitude = -94.885668
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56711"
+

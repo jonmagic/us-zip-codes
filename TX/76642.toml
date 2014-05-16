@@ -1,6 +1,8 @@
-zip_code = "76642"
-state = "TX"
 city = "Groesbeck"
 county = "Limestone"
-longitude = -96.543147
 latitude = 31.473823
+longitude = -96.543147
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76642"
+

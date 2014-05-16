@@ -1,6 +1,8 @@
-zip_code = "26838"
-state = "WV"
 city = "Milam"
 county = "Hardy"
-longitude = -78.821226
 latitude = 38.999518
+longitude = -78.821226
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26838"
+

@@ -1,6 +1,8 @@
-zip_code = "28368"
-state = "NC"
 city = "Olivia"
 county = "Harnett"
-longitude = -79.107381
 latitude = 35.322949
+longitude = -79.107381
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28368"
+

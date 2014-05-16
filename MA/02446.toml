@@ -1,6 +1,8 @@
-zip_code = "02446"
-state = "MA"
 city = "Brookline"
 county = "Norfolk"
-longitude = -71.123046
 latitude = 42.343097
+longitude = -71.123046
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02446"
+

@@ -1,6 +1,8 @@
-zip_code = "15413"
-state = "PA"
 city = "Allison"
 county = "Fayette"
-longitude = -79.863732
 latitude = 39.986828
+longitude = -79.863732
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15413"
+

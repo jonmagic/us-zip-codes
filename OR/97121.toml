@@ -1,6 +1,8 @@
-zip_code = "97121"
-state = "OR"
 city = "Hammond"
 county = "Clatsop"
-longitude = -123.95135
 latitude = 46.182894
+longitude = -123.95135
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97121"
+

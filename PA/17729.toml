@@ -1,6 +1,8 @@
-zip_code = "17729"
-state = "PA"
 city = "Cross Fork"
 county = "Potter"
-longitude = -77.902366
 latitude = 41.737627
+longitude = -77.902366
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17729"
+

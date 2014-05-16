@@ -1,6 +1,8 @@
-zip_code = "83864"
-state = "ID"
 city = "Sandpoint"
 county = "Bonner"
-longitude = -116.553968
 latitude = 48.299486
+longitude = -116.553968
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83864"
+

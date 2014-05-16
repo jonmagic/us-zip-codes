@@ -1,6 +1,8 @@
-zip_code = "16621"
-state = "PA"
 city = "Broad Top"
 county = "Huntingdon"
-longitude = -78.140812
 latitude = 40.1999
+longitude = -78.140812
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16621"
+

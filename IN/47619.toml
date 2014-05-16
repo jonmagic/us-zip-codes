@@ -1,6 +1,8 @@
-zip_code = "47619"
-state = "IN"
 city = "Lynnville"
 county = "Warrick"
-longitude = -87.283955
 latitude = 38.162899
+longitude = -87.283955
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47619"
+

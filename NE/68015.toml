@@ -1,6 +1,8 @@
-zip_code = "68015"
-state = "NE"
 city = "Cedar Bluffs"
 county = "Saunders"
-longitude = -96.631576
 latitude = 41.365495
+longitude = -96.631576
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68015"
+

@@ -1,6 +1,8 @@
-zip_code = "06498"
-state = "CT"
 city = "Westbrook"
 county = "Middlesex"
-longitude = -72.463381
 latitude = 41.307899
+longitude = -72.463381
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06498"
+

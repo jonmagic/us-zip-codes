@@ -1,6 +1,8 @@
-zip_code = "22729"
-state = "VA"
 city = "Mitchells"
 county = "Culpeper"
-longitude = -78.011837
 latitude = 38.368552
+longitude = -78.011837
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22729"
+

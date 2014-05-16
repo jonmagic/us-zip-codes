@@ -1,6 +1,8 @@
-zip_code = "28519"
-state = "NC"
 city = "Bridgeton"
 county = "Craven"
-longitude = -77.01996
 latitude = 35.129461
+longitude = -77.01996
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28519"
+

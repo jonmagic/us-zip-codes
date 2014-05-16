@@ -1,6 +1,8 @@
-zip_code = "38580"
-state = "TN"
 city = "Rickman"
 county = "Overton"
-longitude = -85.304796
 latitude = 36.281225
+longitude = -85.304796
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38580"
+

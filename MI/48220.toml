@@ -1,6 +1,8 @@
-zip_code = "48220"
-state = "MI"
 city = "Ferndale"
 county = "Oakland"
-longitude = -83.140675
 latitude = 42.460586
+longitude = -83.140675
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48220"
+

@@ -1,6 +1,8 @@
-zip_code = "14301"
-state = "NY"
 city = "Niagara Falls"
 county = "Niagara"
-longitude = -79.009414
 latitude = 43.089805
+longitude = -79.009414
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14301"
+

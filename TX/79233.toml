@@ -1,6 +1,8 @@
-zip_code = "79233"
-state = "TX"
 city = "Estelline"
 county = "Hall"
-longitude = -100.681047
 latitude = 34.530559
+longitude = -100.681047
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79233"
+

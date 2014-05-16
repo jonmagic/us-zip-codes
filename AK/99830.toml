@@ -1,6 +1,8 @@
-zip_code = "99830"
-state = "AK"
 city = "Kake"
 county = "Wrangell Petersburg"
-longitude = -133.935996
 latitude = 56.973554
+longitude = -133.935996
+state = ""
+state_code_alpha2 = ""
+zip_code = "99830"
+

@@ -1,6 +1,8 @@
-zip_code = "54442"
-state = "WI"
 city = "Irma"
 county = "Lincoln"
-longitude = -89.670022
 latitude = 45.366386
+longitude = -89.670022
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54442"
+

@@ -1,6 +1,8 @@
-zip_code = "06455"
-state = "CT"
 city = "Middlefield"
 county = "Middlesex"
-longitude = -72.712988
 latitude = 41.515346
+longitude = -72.712988
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06455"
+

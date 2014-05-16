@@ -1,6 +1,8 @@
-zip_code = "71462"
-state = "LA"
 city = "Noble"
 county = "Sabine"
-longitude = -93.709535
 latitude = 31.699522
+longitude = -93.709535
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71462"
+

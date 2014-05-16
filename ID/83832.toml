@@ -1,6 +1,8 @@
-zip_code = "83832"
-state = "ID"
 city = "Genesee"
 county = "Latah"
-longitude = -116.903754
 latitude = 46.604181
+longitude = -116.903754
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83832"
+

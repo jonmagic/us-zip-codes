@@ -1,6 +1,8 @@
-zip_code = "75856"
-state = "TX"
 city = "Pennington"
 county = "Trinity"
-longitude = -95.138794
 latitude = 31.105786
+longitude = -95.138794
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75856"
+

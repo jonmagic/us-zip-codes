@@ -1,6 +1,8 @@
-zip_code = "43824"
-state = "OH"
 city = "Fresno"
 county = "Coshocton"
-longitude = -81.755507
 latitude = 40.364667
+longitude = -81.755507
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43824"
+

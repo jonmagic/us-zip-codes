@@ -1,6 +1,8 @@
-zip_code = "03054"
-state = "NH"
 city = "Merrimack"
 county = "Hillsborough"
-longitude = -71.667508
 latitude = 42.924928
+longitude = -71.667508
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03054"
+

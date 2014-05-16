@@ -1,6 +1,8 @@
-zip_code = "04488"
-state = "ME"
 city = "Stetson"
 county = "Penobscot"
-longitude = -69.142341
 latitude = 44.894697
+longitude = -69.142341
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04488"
+

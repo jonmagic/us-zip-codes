@@ -1,6 +1,8 @@
-zip_code = "37057"
-state = "TN"
 city = "Dixon Springs"
 county = "Smith"
-longitude = -86.037379
 latitude = 36.358212
+longitude = -86.037379
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37057"
+

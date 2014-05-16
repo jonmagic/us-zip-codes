@@ -1,6 +1,8 @@
-zip_code = "71292"
-state = "LA"
 city = "West Monroe"
 county = "Ouachita"
-longitude = -92.203654
 latitude = 32.402367
+longitude = -92.203654
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71292"
+

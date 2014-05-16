@@ -1,6 +1,8 @@
-zip_code = "50101"
-state = "IA"
 city = "Galt"
 county = "Wright"
-longitude = -93.627104
 latitude = 42.666494
+longitude = -93.627104
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50101"
+

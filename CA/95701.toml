@@ -1,6 +1,8 @@
-zip_code = "95701"
-state = "CA"
 city = "Alta"
 county = "Placer"
-longitude = -120.795987
 latitude = 39.214162
+longitude = -120.795987
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95701"
+

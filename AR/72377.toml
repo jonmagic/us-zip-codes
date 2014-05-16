@@ -1,6 +1,8 @@
-zip_code = "72377"
-state = "AR"
 city = "Rivervale"
 county = "Poinsett"
-longitude = -90.346901
 latitude = 35.674952
+longitude = -90.346901
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72377"
+

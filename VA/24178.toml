@@ -1,6 +1,8 @@
-zip_code = "24178"
-state = "VA"
 city = "Villamont"
 county = "Bedford"
-longitude = -79.789799
 latitude = 37.310494
+longitude = -79.789799
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24178"
+

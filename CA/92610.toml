@@ -1,6 +1,8 @@
-zip_code = "92610"
-state = "CA"
 city = "Foothill Ranch"
 county = "Orange"
-longitude = -117.730745
 latitude = 33.663011
+longitude = -117.730745
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92610"
+

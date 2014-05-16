@@ -1,6 +1,8 @@
-zip_code = "51446"
-state = "IA"
 city = "Irwin"
 county = "Shelby"
-longitude = -95.325315
 latitude = 41.684667
+longitude = -95.325315
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51446"
+

@@ -1,6 +1,8 @@
-zip_code = "68878"
-state = "NE"
 city = "Sumner"
 county = "Dawson"
-longitude = -99.539866
 latitude = 40.959402
+longitude = -99.539866
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68878"
+

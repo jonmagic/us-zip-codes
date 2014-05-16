@@ -1,6 +1,8 @@
-zip_code = "27285"
-state = "NC"
 city = "Kernersville"
 county = "Forsyth"
-longitude = -80.20728
 latitude = 36.027482
+longitude = -80.20728
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27285"
+

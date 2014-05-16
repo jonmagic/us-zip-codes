@@ -1,6 +1,8 @@
-zip_code = "28526"
-state = "NC"
 city = "Dover"
 county = "Craven"
-longitude = -77.364631
 latitude = 35.255441
+longitude = -77.364631
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28526"
+

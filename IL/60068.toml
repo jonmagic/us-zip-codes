@@ -1,6 +1,8 @@
-zip_code = "60068"
-state = "IL"
 city = "Park Ridge"
 county = "Cook"
-longitude = -87.843714
 latitude = 42.037228
+longitude = -87.843714
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60068"
+

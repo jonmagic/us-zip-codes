@@ -1,6 +1,8 @@
-zip_code = "60179"
-state = "IL"
 city = "Hoffman Estates"
 county = "Cook"
-longitude = -88.223655
 latitude = 42.079336
+longitude = -88.223655
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60179"
+

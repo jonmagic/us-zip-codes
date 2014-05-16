@@ -1,6 +1,8 @@
-zip_code = "28712"
-state = "NC"
 city = "Brevard"
 county = "Transylvania"
-longitude = -82.753971
 latitude = 35.174351
+longitude = -82.753971
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28712"
+

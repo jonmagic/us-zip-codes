@@ -1,6 +1,8 @@
-zip_code = "55019"
-state = "MN"
 city = "Dundas"
 county = "Rice"
-longitude = -93.194444
 latitude = 44.398613
+longitude = -93.194444
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55019"
+

@@ -1,6 +1,8 @@
-zip_code = "05444"
-state = "VT"
 city = "Cambridge"
 county = "Lamoille"
-longitude = -72.881162
 latitude = 44.62218
+longitude = -72.881162
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05444"
+

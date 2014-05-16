@@ -1,6 +1,8 @@
-zip_code = "78560"
-state = "TX"
 city = "La Joya"
 county = "Hidalgo"
-longitude = -98.474651
 latitude = 26.242565
+longitude = -98.474651
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78560"
+

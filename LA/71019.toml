@@ -1,6 +1,8 @@
-zip_code = "71019"
-state = "LA"
 city = "Coushatta"
 county = "Red River"
-longitude = -93.264819
 latitude = 32.023096
+longitude = -93.264819
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71019"
+

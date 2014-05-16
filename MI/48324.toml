@@ -1,6 +1,8 @@
-zip_code = "48324"
-state = "MI"
 city = "West Bloomfield"
 county = "Oakland"
-longitude = -83.381886
 latitude = 42.596093
+longitude = -83.381886
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48324"
+

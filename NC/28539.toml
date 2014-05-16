@@ -1,6 +1,8 @@
-zip_code = "28539"
-state = "NC"
 city = "Hubert"
 county = "Onslow"
-longitude = -77.222926
 latitude = 34.709544
+longitude = -77.222926
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28539"
+

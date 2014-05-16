@@ -1,6 +1,8 @@
-zip_code = "49063"
-state = "MI"
 city = "Lacota"
 county = "Van Buren"
-longitude = -86.209904
 latitude = 42.393586
+longitude = -86.209904
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49063"
+

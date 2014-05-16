@@ -1,6 +1,8 @@
-zip_code = "67529"
-state = "KS"
 city = "Garfield"
 county = "Pawnee"
-longitude = -99.245071
 latitude = 38.076733
+longitude = -99.245071
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67529"
+

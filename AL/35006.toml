@@ -1,6 +1,8 @@
-zip_code = "35006"
-state = "AL"
 city = "Adger"
 county = "Jefferson"
-longitude = -87.207592
 latitude = 33.437653
+longitude = -87.207592
+state = ""
+state_code_alpha2 = ""
+zip_code = "35006"
+

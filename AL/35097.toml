@@ -1,6 +1,8 @@
-zip_code = "35097"
-state = "AL"
 city = "Locust Fork"
 county = "Blount"
-longitude = -86.626094
 latitude = 33.904975
+longitude = -86.626094
+state = ""
+state_code_alpha2 = ""
+zip_code = "35097"
+

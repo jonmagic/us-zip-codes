@@ -1,6 +1,8 @@
-zip_code = "71471"
-state = "LA"
 city = "Saint Maurice"
 county = "Winn"
-longitude = -92.927989
 latitude = 31.749699
+longitude = -92.927989
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71471"
+

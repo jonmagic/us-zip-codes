@@ -1,6 +1,8 @@
-zip_code = "68059"
-state = "NE"
 city = "Springfield"
 county = "Sarpy"
-longitude = -96.184792
 latitude = 41.066988
+longitude = -96.184792
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68059"
+

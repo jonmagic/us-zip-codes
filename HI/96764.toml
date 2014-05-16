@@ -1,6 +1,8 @@
-zip_code = "96764"
-state = "HI"
 city = "Laupahoehoe"
 county = "Hawaii"
-longitude = -155.248429
 latitude = 19.985166
+longitude = -155.248429
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96764"
+

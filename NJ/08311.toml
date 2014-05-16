@@ -1,6 +1,8 @@
-zip_code = "08311"
-state = "NJ"
 city = "Cedarville"
 county = "Cumberland"
-longitude = -75.117761
 latitude = 39.330611
+longitude = -75.117761
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08311"
+

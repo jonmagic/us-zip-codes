@@ -1,6 +1,8 @@
-zip_code = "99359"
-state = "WA"
 city = "Starbuck"
 county = "Columbia"
-longitude = -118.10237
 latitude = 46.512828
+longitude = -118.10237
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99359"
+

@@ -1,6 +1,8 @@
-zip_code = "88415"
-state = "NM"
 city = "Clayton"
 county = "Union"
-longitude = -103.162935
 latitude = 36.451155
+longitude = -103.162935
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88415"
+

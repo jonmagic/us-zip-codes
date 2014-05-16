@@ -1,6 +1,8 @@
-zip_code = "67017"
-state = "KS"
 city = "Benton"
 county = "Butler"
-longitude = -97.097363
 latitude = 37.831767
+longitude = -97.097363
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67017"
+

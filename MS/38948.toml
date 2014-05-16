@@ -1,6 +1,8 @@
-zip_code = "38948"
-state = "MS"
 city = "Oakland"
 county = "Yalobusha"
-longitude = -89.855317
 latitude = 34.102656
+longitude = -89.855317
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38948"
+

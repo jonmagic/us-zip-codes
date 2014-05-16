@@ -1,6 +1,8 @@
-zip_code = "97625"
-state = "OR"
 city = "Dairy"
 county = "Klamath"
-longitude = -121.507834
 latitude = 42.291015
+longitude = -121.507834
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97625"
+

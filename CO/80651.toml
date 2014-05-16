@@ -1,6 +1,8 @@
-zip_code = "80651"
-state = "CO"
 city = "Platteville"
 county = "Weld"
-longitude = -104.712141
 latitude = 40.217382
+longitude = -104.712141
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80651"
+

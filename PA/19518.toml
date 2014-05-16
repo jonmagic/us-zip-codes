@@ -1,6 +1,8 @@
-zip_code = "19518"
-state = "PA"
 city = "Douglassville"
 county = "Berks"
-longitude = -75.848729
 latitude = 40.365322
+longitude = -75.848729
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19518"
+

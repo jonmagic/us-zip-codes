@@ -1,6 +1,8 @@
-zip_code = "51025"
-state = "IA"
 city = "Holstein"
 county = "Ida"
-longitude = -95.530596
 latitude = 42.443085
+longitude = -95.530596
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51025"
+

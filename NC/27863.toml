@@ -1,6 +1,8 @@
-zip_code = "27863"
-state = "NC"
 city = "Pikeville"
 county = "Wayne"
-longitude = -77.972713
 latitude = 35.488295
+longitude = -77.972713
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27863"
+

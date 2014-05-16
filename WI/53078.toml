@@ -1,6 +1,8 @@
-zip_code = "53078"
-state = "WI"
 city = "Rubicon"
 county = "Dodge"
-longitude = -88.504428
 latitude = 43.304408
+longitude = -88.504428
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53078"
+

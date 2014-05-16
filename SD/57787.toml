@@ -1,6 +1,8 @@
-zip_code = "57787"
-state = "SD"
 city = "Union Center"
 county = "Meade"
-longitude = -102.725189
 latitude = 44.653923
+longitude = -102.725189
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57787"
+

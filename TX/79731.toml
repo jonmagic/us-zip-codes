@@ -1,6 +1,8 @@
-zip_code = "79731"
-state = "TX"
 city = "Crane"
 county = "Crane"
-longitude = -102.347243
 latitude = 31.500553
+longitude = -102.347243
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79731"
+

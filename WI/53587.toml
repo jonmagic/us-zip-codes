@@ -1,6 +1,8 @@
-zip_code = "53587"
-state = "WI"
 city = "South Wayne"
 county = "Lafayette"
-longitude = -89.931751
 latitude = 42.579926
+longitude = -89.931751
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53587"
+

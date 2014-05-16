@@ -1,6 +1,8 @@
-zip_code = "55751"
-state = "MN"
 city = "Iron"
 county = "Saint Louis"
-longitude = -92.681078
 latitude = 47.420472
+longitude = -92.681078
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55751"
+

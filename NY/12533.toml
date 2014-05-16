@@ -1,6 +1,8 @@
-zip_code = "12533"
-state = "NY"
 city = "Hopewell Junction"
 county = "Dutchess"
-longitude = -73.766191
 latitude = 41.748948
+longitude = -73.766191
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12533"
+

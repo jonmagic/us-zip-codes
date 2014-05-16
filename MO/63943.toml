@@ -1,6 +1,8 @@
-zip_code = "63943"
-state = "MO"
 city = "Grandin"
 county = "Carter"
-longitude = -90.943027
 latitude = 36.955926
+longitude = -90.943027
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63943"
+

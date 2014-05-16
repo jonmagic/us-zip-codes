@@ -1,6 +1,8 @@
-zip_code = "46764"
-state = "IN"
 city = "Larwill"
 county = "Whitley"
-longitude = -85.591994
 latitude = 41.206938
+longitude = -85.591994
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46764"
+

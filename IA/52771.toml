@@ -1,6 +1,8 @@
-zip_code = "52771"
-state = "IA"
 city = "Teeds Grove"
 county = "Clinton"
-longitude = -90.218704
 latitude = 41.999113
+longitude = -90.218704
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52771"
+

@@ -1,6 +1,8 @@
-zip_code = "18038"
-state = "PA"
 city = "Danielsville"
 county = "Northampton"
-longitude = -75.482967
 latitude = 40.79071
+longitude = -75.482967
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18038"
+

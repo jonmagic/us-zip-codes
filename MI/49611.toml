@@ -1,6 +1,8 @@
-zip_code = "49611"
-state = "MI"
 city = "Alba"
 county = "Antrim"
-longitude = -84.961776
 latitude = 44.983262
+longitude = -84.961776
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49611"
+

@@ -1,6 +1,8 @@
-zip_code = "48412"
-state = "MI"
 city = "Attica"
 county = "Lapeer"
-longitude = -83.257592
 latitude = 43.066173
+longitude = -83.257592
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48412"
+

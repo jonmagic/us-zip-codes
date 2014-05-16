@@ -1,6 +1,8 @@
-zip_code = "23177"
-state = "VA"
 city = "Walkerton"
 county = "King And Queen"
-longitude = -76.916248
 latitude = 37.701823
+longitude = -76.916248
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23177"
+

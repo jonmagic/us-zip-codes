@@ -1,6 +1,8 @@
-zip_code = "68815"
-state = "NE"
 city = "Arcadia"
 county = "Valley"
-longitude = -99.038945
 latitude = 41.52244
+longitude = -99.038945
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68815"
+

@@ -1,6 +1,8 @@
-zip_code = "18623"
-state = "PA"
 city = "Laceyville"
 county = "Wyoming"
-longitude = -76.154464
 latitude = 41.632632
+longitude = -76.154464
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18623"
+

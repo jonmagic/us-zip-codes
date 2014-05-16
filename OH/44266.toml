@@ -1,6 +1,8 @@
-zip_code = "44266"
-state = "OH"
 city = "Ravenna"
 county = "Portage"
-longitude = -81.172922
 latitude = 41.163755
+longitude = -81.172922
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44266"
+

@@ -1,6 +1,8 @@
-zip_code = "04617"
-state = "ME"
 city = "Brooksville"
 county = "Hancock"
-longitude = -68.765568
 latitude = 44.337581
+longitude = -68.765568
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04617"
+

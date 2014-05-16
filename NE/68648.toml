@@ -1,6 +1,8 @@
-zip_code = "68648"
-state = "NE"
 city = "Morse Bluff"
 county = "Saunders"
-longitude = -96.811409
 latitude = 41.375782
+longitude = -96.811409
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68648"
+

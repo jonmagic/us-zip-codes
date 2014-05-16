@@ -1,6 +1,8 @@
-zip_code = "35077"
-state = "AL"
 city = "Hanceville"
 county = "Cullman"
-longitude = -86.841753
 latitude = 34.034276
+longitude = -86.841753
+state = ""
+state_code_alpha2 = ""
+zip_code = "35077"
+

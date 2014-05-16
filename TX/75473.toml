@@ -1,6 +1,8 @@
-zip_code = "75473"
-state = "TX"
 city = "Powderly"
 county = "Lamar"
-longitude = -95.522757
 latitude = 33.792741
+longitude = -95.522757
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75473"
+

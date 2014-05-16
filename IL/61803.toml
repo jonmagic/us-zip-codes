@@ -1,6 +1,8 @@
-zip_code = "61803"
-state = "IL"
 city = "Urbana"
 county = "Champaign"
-longitude = -88.224669
 latitude = 40.10593
+longitude = -88.224669
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61803"
+

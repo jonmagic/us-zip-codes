@@ -1,6 +1,8 @@
-zip_code = "97311"
-state = "OR"
 city = "Salem"
 county = "Marion"
-longitude = -123.028607
 latitude = 44.943841
+longitude = -123.028607
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97311"
+

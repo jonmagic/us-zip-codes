@@ -1,6 +1,8 @@
-zip_code = "80466"
-state = "CO"
 city = "Nederland"
 county = "Boulder"
-longitude = -105.495998
 latitude = 40.000686
+longitude = -105.495998
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80466"
+

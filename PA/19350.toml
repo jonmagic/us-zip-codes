@@ -1,6 +1,8 @@
-zip_code = "19350"
-state = "PA"
 city = "Landenberg"
 county = "Chester"
-longitude = -75.799761
 latitude = 39.771506
+longitude = -75.799761
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19350"
+

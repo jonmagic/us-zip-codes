@@ -1,6 +1,8 @@
-zip_code = "54888"
-state = "WI"
 city = "Trego"
 county = "Washburn"
-longitude = -91.886372
 latitude = 45.966368
+longitude = -91.886372
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54888"
+

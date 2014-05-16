@@ -1,6 +1,8 @@
-zip_code = "72476"
-state = "AR"
 city = "Walnut Ridge"
 county = "Lawrence"
-longitude = -90.998707
 latitude = 36.042979
+longitude = -90.998707
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72476"
+

@@ -1,6 +1,8 @@
-zip_code = "83274"
-state = "ID"
 city = "Shelley"
 county = "Bingham"
-longitude = -112.118813
 latitude = 43.349659
+longitude = -112.118813
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83274"
+

@@ -1,6 +1,8 @@
-zip_code = "15828"
-state = "PA"
 city = "Clarington"
 county = "Forest"
-longitude = -79.239101
 latitude = 41.475887
+longitude = -79.239101
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15828"
+

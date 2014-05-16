@@ -1,6 +1,8 @@
-zip_code = "40873"
-state = "KY"
 city = "Wallins Creek"
 county = "Harlan"
-longitude = -83.419056
 latitude = 36.817164
+longitude = -83.419056
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40873"
+

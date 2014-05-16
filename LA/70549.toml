@@ -1,6 +1,8 @@
-zip_code = "70549"
-state = "LA"
 city = "Lake Arthur"
 county = "Jefferson Davis"
-longitude = -92.781945
 latitude = 30.260341
+longitude = -92.781945
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70549"
+

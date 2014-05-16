@@ -1,6 +1,8 @@
-zip_code = "53969"
-state = "WI"
 city = "Wyocena"
 county = "Columbia"
-longitude = -89.30497
 latitude = 43.498907
+longitude = -89.30497
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53969"
+

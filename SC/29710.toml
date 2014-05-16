@@ -1,6 +1,8 @@
-zip_code = "29710"
-state = "SC"
 city = "Clover"
 county = "York"
-longitude = -81.165152
 latitude = 35.035952
+longitude = -81.165152
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29710"
+

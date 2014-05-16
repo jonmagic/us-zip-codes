@@ -1,6 +1,8 @@
-zip_code = "03835"
-state = "NH"
 city = "Farmington"
 county = "Strafford"
-longitude = -71.003435
 latitude = 43.306172
+longitude = -71.003435
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03835"
+

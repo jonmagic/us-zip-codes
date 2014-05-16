@@ -1,6 +1,8 @@
-zip_code = "08246"
-state = "NJ"
 city = "South Seaville"
 county = "Cape May"
-longitude = -74.816619
 latitude = 39.056521
+longitude = -74.816619
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08246"
+

@@ -1,6 +1,8 @@
-zip_code = "31534"
-state = "GA"
 city = "Douglas"
 county = "Coffee"
-longitude = -82.854631
 latitude = 31.571596
+longitude = -82.854631
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31534"
+

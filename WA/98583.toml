@@ -1,6 +1,8 @@
-zip_code = "98583"
-state = "WA"
 city = "Satsop"
 county = "Grays Harbor"
-longitude = -123.483596
 latitude = 47.002178
+longitude = -123.483596
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98583"
+

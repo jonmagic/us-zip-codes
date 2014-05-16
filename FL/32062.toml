@@ -1,6 +1,8 @@
-zip_code = "32062"
-state = "FL"
 city = "Mc Alpin"
 county = "Suwannee"
-longitude = -82.983576
 latitude = 30.186428
+longitude = -82.983576
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32062"
+

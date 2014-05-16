@@ -1,6 +1,8 @@
-zip_code = "71342"
-state = "LA"
 city = "Jena"
 county = "La Salle"
-longitude = -92.140733
 latitude = 31.60603
+longitude = -92.140733
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71342"
+

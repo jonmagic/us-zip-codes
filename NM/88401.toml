@@ -1,6 +1,8 @@
-zip_code = "88401"
-state = "NM"
 city = "Tucumcari"
 county = "Quay"
-longitude = -103.615509
 latitude = 35.114202
+longitude = -103.615509
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88401"
+

@@ -1,6 +1,8 @@
-zip_code = "14592"
-state = "NY"
 city = "York"
 county = "Livingston"
-longitude = -77.883511
 latitude = 42.875685
+longitude = -77.883511
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14592"
+

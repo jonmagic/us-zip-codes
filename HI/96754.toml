@@ -1,6 +1,8 @@
-zip_code = "96754"
-state = "HI"
 city = "Kilauea"
 county = "Kauai"
-longitude = -159.395386
 latitude = 22.207314
+longitude = -159.395386
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96754"
+

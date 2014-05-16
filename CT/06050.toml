@@ -1,6 +1,8 @@
-zip_code = "06050"
-state = "CT"
 city = "New Britain"
 county = "Hartford"
-longitude = -72.778391
 latitude = 41.666049
+longitude = -72.778391
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06050"
+

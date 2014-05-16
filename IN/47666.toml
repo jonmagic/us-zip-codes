@@ -1,6 +1,8 @@
-zip_code = "47666"
-state = "IN"
 city = "Patoka"
 county = "Gibson"
-longitude = -87.583761
 latitude = 38.401233
+longitude = -87.583761
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47666"
+

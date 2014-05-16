@@ -1,6 +1,8 @@
-zip_code = "54152"
-state = "WI"
 city = "Nichols"
 county = "Outagamie"
-longitude = -88.458164
 latitude = 44.566799
+longitude = -88.458164
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54152"
+

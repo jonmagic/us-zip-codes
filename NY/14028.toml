@@ -1,6 +1,8 @@
-zip_code = "14028"
-state = "NY"
 city = "Burt"
 county = "Niagara"
-longitude = -78.736907
 latitude = 43.313814
+longitude = -78.736907
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14028"
+

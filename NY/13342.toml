@@ -1,6 +1,8 @@
-zip_code = "13342"
-state = "NY"
 city = "Garrattsville"
 county = "Otsego"
-longitude = -75.186593
 latitude = 42.63153
+longitude = -75.186593
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13342"
+

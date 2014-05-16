@@ -1,6 +1,8 @@
-zip_code = "44141"
-state = "OH"
 city = "Brecksville"
 county = "Cuyahoga"
-longitude = -81.643247
 latitude = 41.362052
+longitude = -81.643247
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44141"
+

@@ -1,6 +1,8 @@
-zip_code = "30122"
-state = "GA"
 city = "Lithia Springs"
 county = "Douglas"
-longitude = -84.646946
 latitude = 33.765457
+longitude = -84.646946
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30122"
+

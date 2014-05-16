@@ -1,6 +1,8 @@
-zip_code = "99017"
-state = "WA"
 city = "Lamont"
 county = "Whitman"
-longitude = -117.687163
 latitude = 46.96178
+longitude = -117.687163
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99017"
+

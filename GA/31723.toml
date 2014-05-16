@@ -1,6 +1,8 @@
-zip_code = "31723"
-state = "GA"
 city = "Blakely"
 county = "Early"
-longitude = -84.901178
 latitude = 31.346088
+longitude = -84.901178
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31723"
+

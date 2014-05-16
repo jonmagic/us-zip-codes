@@ -1,6 +1,8 @@
-zip_code = "97730"
-state = "OR"
 city = "Camp Sherman"
 county = "Jefferson"
-longitude = -121.659909
 latitude = 44.443474
+longitude = -121.659909
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97730"
+

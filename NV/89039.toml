@@ -1,6 +1,8 @@
-zip_code = "89039"
-state = "NV"
 city = "Cal Nev Ari"
 county = "Clark"
-longitude = -114.871384
 latitude = 35.252249
+longitude = -114.871384
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89039"
+

@@ -1,6 +1,8 @@
-zip_code = "19020"
-state = "PA"
 city = "Bensalem"
 county = "Bucks"
-longitude = -74.994262
 latitude = 40.125609
+longitude = -74.994262
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19020"
+

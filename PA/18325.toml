@@ -1,6 +1,8 @@
-zip_code = "18325"
-state = "PA"
 city = "Canadensis"
 county = "Monroe"
-longitude = -75.28593
 latitude = 41.187023
+longitude = -75.28593
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18325"
+

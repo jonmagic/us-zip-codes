@@ -1,6 +1,8 @@
-zip_code = "64494"
-state = "MO"
 city = "Union Star"
 county = "Dekalb"
-longitude = -94.557711
 latitude = 39.965872
+longitude = -94.557711
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64494"
+

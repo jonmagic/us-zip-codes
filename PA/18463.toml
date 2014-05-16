@@ -1,6 +1,8 @@
-zip_code = "18463"
-state = "PA"
 city = "Sterling"
 county = "Wayne"
-longitude = -75.31601
 latitude = 41.376953
+longitude = -75.31601
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18463"
+

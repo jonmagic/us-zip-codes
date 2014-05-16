@@ -1,6 +1,8 @@
-zip_code = "38451"
-state = "TN"
 city = "Culleoka"
 county = "Maury"
-longitude = -87.093094
 latitude = 35.493211
+longitude = -87.093094
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38451"
+

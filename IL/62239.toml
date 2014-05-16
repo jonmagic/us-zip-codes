@@ -1,6 +1,8 @@
-zip_code = "62239"
-state = "IL"
 city = "Dupo"
 county = "Saint Clair"
-longitude = -90.181561
 latitude = 38.519424
+longitude = -90.181561
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62239"
+

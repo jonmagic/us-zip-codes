@@ -1,6 +1,8 @@
-zip_code = "29062"
-state = "SC"
 city = "Horatio"
 county = "Sumter"
-longitude = -80.567589
 latitude = 34.012593
+longitude = -80.567589
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29062"
+

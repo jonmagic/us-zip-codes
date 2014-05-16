@@ -1,6 +1,8 @@
-zip_code = "07028"
-state = "NJ"
 city = "Glen Ridge"
 county = "Essex"
-longitude = -74.205039
 latitude = 40.807499
+longitude = -74.205039
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07028"
+

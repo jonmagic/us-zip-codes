@@ -1,6 +1,8 @@
-zip_code = "08515"
-state = "NJ"
 city = "Crosswicks"
 county = "Burlington"
-longitude = -74.661474
 latitude = 40.147555
+longitude = -74.661474
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08515"
+

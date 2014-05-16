@@ -1,6 +1,8 @@
-zip_code = "78389"
-state = "TX"
 city = "Skidmore"
 county = "Bee"
-longitude = -97.712708
 latitude = 28.21206
+longitude = -97.712708
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78389"
+

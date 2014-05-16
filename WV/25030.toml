@@ -1,6 +1,8 @@
-zip_code = "25030"
-state = "WV"
 city = "Bomont"
 county = "Clay"
-longitude = -81.254838
 latitude = 38.387998
+longitude = -81.254838
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25030"
+

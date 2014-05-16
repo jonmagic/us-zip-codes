@@ -1,6 +1,8 @@
-zip_code = "46990"
-state = "IN"
 city = "Urbana"
 county = "Wabash"
-longitude = -85.736386
 latitude = 40.886571
+longitude = -85.736386
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46990"
+

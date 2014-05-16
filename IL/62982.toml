@@ -1,6 +1,8 @@
-zip_code = "62982"
-state = "IL"
 city = "Rosiclare"
 county = "Hardin"
-longitude = -88.354451
 latitude = 37.417713
+longitude = -88.354451
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62982"
+

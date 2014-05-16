@@ -1,6 +1,8 @@
-zip_code = "16313"
-state = "PA"
 city = "Clarendon"
 county = "Warren"
-longitude = -79.193751
 latitude = 41.798453
+longitude = -79.193751
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16313"
+

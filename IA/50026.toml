@@ -1,6 +1,8 @@
-zip_code = "50026"
-state = "IA"
 city = "Bagley"
 county = "Guthrie"
-longitude = -94.449511
 latitude = 41.827251
+longitude = -94.449511
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50026"
+

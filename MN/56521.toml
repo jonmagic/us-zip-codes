@@ -1,6 +1,8 @@
-zip_code = "56521"
-state = "MN"
 city = "Callaway"
 county = "Becker"
-longitude = -95.912192
 latitude = 46.979328
+longitude = -95.912192
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56521"
+

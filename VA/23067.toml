@@ -1,6 +1,8 @@
-zip_code = "23067"
-state = "VA"
 city = "Hadensville"
 county = "Goochland"
-longitude = -77.989878
 latitude = 37.825208
+longitude = -77.989878
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23067"
+

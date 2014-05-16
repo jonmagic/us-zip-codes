@@ -1,6 +1,8 @@
-zip_code = "44874"
-state = "OH"
 city = "Savannah"
 county = "Ashland"
-longitude = -82.388476
 latitude = 40.964517
+longitude = -82.388476
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44874"
+

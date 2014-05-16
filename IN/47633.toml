@@ -1,6 +1,8 @@
-zip_code = "47633"
-state = "IN"
 city = "Poseyville"
 county = "Posey"
-longitude = -87.786303
 latitude = 38.148016
+longitude = -87.786303
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47633"
+

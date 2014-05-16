@@ -1,6 +1,8 @@
-zip_code = "78567"
-state = "TX"
 city = "Los Indios"
 county = "Cameron"
-longitude = -97.693736
 latitude = 26.041669
+longitude = -97.693736
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78567"
+

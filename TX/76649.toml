@@ -1,6 +1,8 @@
-zip_code = "76649"
-state = "TX"
 city = "Iredell"
 county = "Bosque"
-longitude = -97.870387
 latitude = 31.984603
+longitude = -97.870387
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76649"
+

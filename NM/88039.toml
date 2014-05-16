@@ -1,6 +1,8 @@
-zip_code = "88039"
-state = "NM"
 city = "Glenwood"
 county = "Catron"
-longitude = -108.871953
 latitude = 33.325458
+longitude = -108.871953
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88039"
+

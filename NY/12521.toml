@@ -1,6 +1,8 @@
-zip_code = "12521"
-state = "NY"
 city = "Craryville"
 county = "Columbia"
-longitude = -73.64465
 latitude = 42.190488
+longitude = -73.64465
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12521"
+

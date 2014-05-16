@@ -1,6 +1,8 @@
-zip_code = "75459"
-state = "TX"
 city = "Howe"
 county = "Grayson"
-longitude = -96.655494
 latitude = 33.535538
+longitude = -96.655494
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75459"
+

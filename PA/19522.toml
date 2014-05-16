@@ -1,6 +1,8 @@
-zip_code = "19522"
-state = "PA"
 city = "Fleetwood"
 county = "Berks"
-longitude = -75.808303
 latitude = 40.326392
+longitude = -75.808303
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19522"
+

@@ -1,6 +1,8 @@
-zip_code = "52642"
-state = "IA"
 city = "Rome"
 county = "Henry"
-longitude = -91.692312
 latitude = 40.977395
+longitude = -91.692312
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52642"
+

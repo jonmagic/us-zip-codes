@@ -1,6 +1,8 @@
-zip_code = "80546"
-state = "CO"
 city = "Severance"
 county = "Weld"
-longitude = -104.850544
 latitude = 40.524987
+longitude = -104.850544
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80546"
+

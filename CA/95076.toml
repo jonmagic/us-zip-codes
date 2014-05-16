@@ -1,6 +1,8 @@
-zip_code = "95076"
-state = "CA"
 city = "Watsonville"
 county = "Santa Cruz"
-longitude = -121.74696
 latitude = 36.98025
+longitude = -121.74696
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95076"
+

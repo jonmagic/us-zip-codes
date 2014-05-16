@@ -1,6 +1,8 @@
-zip_code = "53554"
-state = "WI"
 city = "Livingston"
 county = "Grant"
-longitude = -90.511593
 latitude = 42.898716
+longitude = -90.511593
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53554"
+

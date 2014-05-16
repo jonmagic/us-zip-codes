@@ -1,6 +1,8 @@
-zip_code = "21237"
-state = "MD"
 city = "Rosedale"
 county = "Baltimore"
-longitude = -76.488035
 latitude = 39.339957
+longitude = -76.488035
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21237"
+

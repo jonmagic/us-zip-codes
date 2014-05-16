@@ -1,6 +1,8 @@
-zip_code = "64477"
-state = "MO"
 city = "Plattsburg"
 county = "Clinton"
-longitude = -94.497237
 latitude = 39.572431
+longitude = -94.497237
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64477"
+

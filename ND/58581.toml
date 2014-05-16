@@ -1,6 +1,8 @@
-zip_code = "58581"
-state = "ND"
 city = "Zeeland"
 county = "Mcintosh"
-longitude = -99.786023
 latitude = 46.064366
+longitude = -99.786023
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58581"
+

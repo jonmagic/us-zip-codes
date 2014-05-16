@@ -1,6 +1,8 @@
-zip_code = "45013"
-state = "OH"
 city = "Hamilton"
 county = "Butler"
-longitude = -84.618498
 latitude = 39.436146
+longitude = -84.618498
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45013"
+

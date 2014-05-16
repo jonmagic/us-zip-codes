@@ -1,6 +1,8 @@
-zip_code = "62432"
-state = "IL"
 city = "Hidalgo"
 county = "Jasper"
-longitude = -88.117007
 latitude = 39.127107
+longitude = -88.117007
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62432"
+

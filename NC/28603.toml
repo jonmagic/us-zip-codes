@@ -1,6 +1,8 @@
-zip_code = "28603"
-state = "NC"
 city = "Hickory"
 county = "Catawba"
-longitude = -81.287181
 latitude = 35.679876
+longitude = -81.287181
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28603"
+

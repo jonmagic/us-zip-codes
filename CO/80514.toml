@@ -1,6 +1,8 @@
-zip_code = "80514"
-state = "CO"
 city = "Dacono"
 county = "Weld"
-longitude = -104.911938
 latitude = 40.204344
+longitude = -104.911938
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80514"
+

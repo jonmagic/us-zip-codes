@@ -1,6 +1,8 @@
-zip_code = "18651"
-state = "PA"
 city = "Plymouth"
 county = "Luzerne"
-longitude = -75.98764
 latitude = 41.28871
+longitude = -75.98764
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18651"
+

@@ -1,6 +1,8 @@
-zip_code = "84006"
-state = "UT"
 city = "Bingham Canyon"
 county = "Salt Lake"
-longitude = -112.0786
 latitude = 40.592045
+longitude = -112.0786
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84006"
+

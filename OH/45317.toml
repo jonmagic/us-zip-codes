@@ -1,6 +1,8 @@
-zip_code = "45317"
-state = "OH"
 city = "Conover"
 county = "Miami"
-longitude = -84.046873
 latitude = 40.137029
+longitude = -84.046873
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45317"
+

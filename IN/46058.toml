@@ -1,6 +1,8 @@
-zip_code = "46058"
-state = "IN"
 city = "Mulberry"
 county = "Clinton"
-longitude = -86.628659
 latitude = 40.359433
+longitude = -86.628659
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46058"
+

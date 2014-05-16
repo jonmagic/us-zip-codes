@@ -1,6 +1,8 @@
-zip_code = "15714"
-state = "PA"
 city = "Northern Cambria"
 county = "Cambria"
-longitude = -78.794582
 latitude = 40.658721
+longitude = -78.794582
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15714"
+

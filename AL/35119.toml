@@ -1,6 +1,8 @@
-zip_code = "35119"
-state = "AL"
 city = "New Castle"
 county = "Jefferson"
-longitude = -86.769698
 latitude = 33.650832
+longitude = -86.769698
+state = ""
+state_code_alpha2 = ""
+zip_code = "35119"
+

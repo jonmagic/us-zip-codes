@@ -1,6 +1,8 @@
-zip_code = "83235"
-state = "ID"
 city = "Ellis"
 county = "Custer"
-longitude = -114.312713
 latitude = 44.22397
+longitude = -114.312713
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83235"
+

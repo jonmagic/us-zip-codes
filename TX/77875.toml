@@ -1,6 +1,8 @@
-zip_code = "77875"
-state = "TX"
 city = "Roans Prairie"
 county = "Grimes"
-longitude = -95.957945
 latitude = 30.607534
+longitude = -95.957945
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77875"
+

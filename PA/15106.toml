@@ -1,6 +1,8 @@
-zip_code = "15106"
-state = "PA"
 city = "Carnegie"
 county = "Allegheny"
-longitude = -80.103165
 latitude = 40.44908
+longitude = -80.103165
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15106"
+

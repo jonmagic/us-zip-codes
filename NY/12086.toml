@@ -1,6 +1,8 @@
-zip_code = "12086"
-state = "NY"
 city = "Hagaman"
 county = "Montgomery"
-longitude = -74.155559
 latitude = 42.969505
+longitude = -74.155559
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12086"
+

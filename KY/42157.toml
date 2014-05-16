@@ -1,6 +1,8 @@
-zip_code = "42157"
-state = "KY"
 city = "Mount Hermon"
 county = "Monroe"
-longitude = -85.819518
 latitude = 36.772341
+longitude = -85.819518
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42157"
+

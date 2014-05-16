@@ -1,6 +1,8 @@
-zip_code = "49232"
-state = "MI"
 city = "Camden"
 county = "Hillsdale"
-longitude = -84.638542
 latitude = 41.747377
+longitude = -84.638542
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49232"
+

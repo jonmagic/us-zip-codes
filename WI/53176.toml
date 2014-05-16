@@ -1,6 +1,8 @@
-zip_code = "53176"
-state = "WI"
 city = "Springfield"
 county = "Walworth"
-longitude = -88.415987
 latitude = 42.636038
+longitude = -88.415987
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53176"
+

@@ -1,6 +1,8 @@
-zip_code = "60920"
-state = "IL"
 city = "Campus"
 county = "Livingston"
-longitude = -88.307221
 latitude = 41.024755
+longitude = -88.307221
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60920"
+

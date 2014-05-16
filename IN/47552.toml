@@ -1,6 +1,8 @@
-zip_code = "47552"
-state = "IN"
 city = "Lincoln City"
 county = "Spencer"
-longitude = -86.995988
 latitude = 38.124192
+longitude = -86.995988
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47552"
+

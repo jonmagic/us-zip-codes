@@ -1,6 +1,8 @@
-zip_code = "52585"
-state = "IA"
 city = "Richland"
 county = "Keokuk"
-longitude = -92.126742
 latitude = 41.20699
+longitude = -92.126742
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52585"
+

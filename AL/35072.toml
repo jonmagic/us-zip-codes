@@ -1,6 +1,8 @@
-zip_code = "35072"
-state = "AL"
 city = "Goodwater"
 county = "Coosa"
-longitude = -86.079106
 latitude = 33.058725
+longitude = -86.079106
+state = ""
+state_code_alpha2 = ""
+zip_code = "35072"
+

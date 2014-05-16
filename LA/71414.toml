@@ -1,6 +1,8 @@
-zip_code = "71414"
-state = "LA"
 city = "Clarence"
 county = "Natchitoches"
-longitude = -93.021608
 latitude = 31.818209
+longitude = -93.021608
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71414"
+

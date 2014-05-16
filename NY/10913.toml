@@ -1,6 +1,8 @@
-zip_code = "10913"
-state = "NY"
 city = "Blauvelt"
 county = "Rockland"
-longitude = -73.957282
 latitude = 41.068782
+longitude = -73.957282
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10913"
+

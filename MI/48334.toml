@@ -1,6 +1,8 @@
-zip_code = "48334"
-state = "MI"
 city = "Farmington"
 county = "Oakland"
-longitude = -83.348394
 latitude = 42.506468
+longitude = -83.348394
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48334"
+

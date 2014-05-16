@@ -1,6 +1,8 @@
-zip_code = "19506"
-state = "PA"
 city = "Bernville"
 county = "Berks"
-longitude = -75.90646
 latitude = 40.454997
+longitude = -75.90646
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19506"
+

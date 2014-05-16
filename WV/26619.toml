@@ -1,6 +1,8 @@
-zip_code = "26619"
-state = "WV"
 city = "Exchange"
 county = "Braxton"
-longitude = -80.732359
 latitude = 38.735774
+longitude = -80.732359
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26619"
+

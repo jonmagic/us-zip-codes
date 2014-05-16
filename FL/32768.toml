@@ -1,6 +1,8 @@
-zip_code = "32768"
-state = "FL"
 city = "Plymouth"
 county = "Orange"
-longitude = -81.569764
 latitude = 28.698542
+longitude = -81.569764
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32768"
+

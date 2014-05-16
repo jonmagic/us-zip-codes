@@ -1,6 +1,8 @@
-zip_code = "67876"
-state = "KS"
 city = "Spearville"
 county = "Ford"
-longitude = -99.715817
 latitude = 37.729884
+longitude = -99.715817
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67876"
+

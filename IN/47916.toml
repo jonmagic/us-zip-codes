@@ -1,6 +1,8 @@
-zip_code = "47916"
-state = "IN"
 city = "Alamo"
 county = "Montgomery"
-longitude = -87.050635
 latitude = 39.962271
+longitude = -87.050635
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47916"
+

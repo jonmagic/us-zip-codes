@@ -1,6 +1,8 @@
-zip_code = "06370"
-state = "CT"
 city = "Oakdale"
 county = "New London"
-longitude = -72.102302
 latitude = 41.512172
+longitude = -72.102302
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06370"
+

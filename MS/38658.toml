@@ -1,6 +1,8 @@
-zip_code = "38658"
-state = "MS"
 city = "Pope"
 county = "Panola"
-longitude = -89.888559
 latitude = 34.196241
+longitude = -89.888559
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38658"
+

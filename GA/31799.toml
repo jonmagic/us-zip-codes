@@ -1,6 +1,8 @@
-zip_code = "31799"
-state = "GA"
 city = "Thomasville"
 county = "Thomas"
-longitude = -83.885902
 latitude = 30.880968
+longitude = -83.885902
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31799"
+

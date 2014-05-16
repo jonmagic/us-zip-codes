@@ -1,6 +1,8 @@
-zip_code = "44828"
-state = "OH"
 city = "Flat Rock"
 county = "Seneca"
-longitude = -82.859705
 latitude = 41.23707
+longitude = -82.859705
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44828"
+

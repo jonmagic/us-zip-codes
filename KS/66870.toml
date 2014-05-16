@@ -1,6 +1,8 @@
-zip_code = "66870"
-state = "KS"
 city = "Virgil"
 county = "Greenwood"
-longitude = -96.012585
 latitude = 37.978282
+longitude = -96.012585
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66870"
+

@@ -1,6 +1,8 @@
-zip_code = "61530"
-state = "IL"
 city = "Eureka"
 county = "Woodford"
-longitude = -89.376702
 latitude = 40.705084
+longitude = -89.376702
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61530"
+

@@ -1,6 +1,8 @@
-zip_code = "33853"
-state = "FL"
 city = "Lake Wales"
 county = "Polk"
-longitude = -81.480831
 latitude = 27.991865
+longitude = -81.480831
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33853"
+

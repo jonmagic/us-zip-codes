@@ -1,6 +1,8 @@
-zip_code = "95569"
-state = "CA"
 city = "Redcrest"
 county = "Humboldt"
-longitude = -123.895246
 latitude = 40.36547
+longitude = -123.895246
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95569"
+

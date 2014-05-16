@@ -1,6 +1,8 @@
-zip_code = "52638"
-state = "IA"
 city = "Middletown"
 county = "Des Moines"
-longitude = -91.269867
 latitude = 40.848173
+longitude = -91.269867
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52638"
+

@@ -1,6 +1,8 @@
-zip_code = "71047"
-state = "LA"
 city = "Keithville"
 county = "Caddo"
-longitude = -93.90393
 latitude = 32.388579
+longitude = -93.90393
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71047"
+

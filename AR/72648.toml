@@ -1,6 +1,8 @@
-zip_code = "72648"
-state = "AR"
 city = "Marble Falls"
 county = "Newton"
-longitude = -93.232298
 latitude = 35.924868
+longitude = -93.232298
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72648"
+

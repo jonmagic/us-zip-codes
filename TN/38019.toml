@@ -1,6 +1,8 @@
-zip_code = "38019"
-state = "TN"
 city = "Covington"
 county = "Tipton"
-longitude = -89.63552
 latitude = 35.541624
+longitude = -89.63552
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38019"
+

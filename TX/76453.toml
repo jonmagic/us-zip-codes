@@ -1,6 +1,8 @@
-zip_code = "76453"
-state = "TX"
 city = "Gordon"
 county = "Palo Pinto"
-longitude = -98.368583
 latitude = 32.616663
+longitude = -98.368583
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76453"
+

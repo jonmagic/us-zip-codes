@@ -1,6 +1,8 @@
-zip_code = "22406"
-state = "VA"
 city = "Fredericksburg"
 county = "Stafford"
-longitude = -77.534708
 latitude = 38.414357
+longitude = -77.534708
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22406"
+

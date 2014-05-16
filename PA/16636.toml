@@ -1,6 +1,8 @@
-zip_code = "16636"
-state = "PA"
 city = "Dysart"
 county = "Cambria"
-longitude = -78.526783
 latitude = 40.60772
+longitude = -78.526783
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16636"
+

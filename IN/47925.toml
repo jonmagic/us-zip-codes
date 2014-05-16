@@ -1,6 +1,8 @@
-zip_code = "47925"
-state = "IN"
 city = "Buffalo"
 county = "White"
-longitude = -86.789632
 latitude = 40.750414
+longitude = -86.789632
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47925"
+

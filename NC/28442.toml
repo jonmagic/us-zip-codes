@@ -1,6 +1,8 @@
-zip_code = "28442"
-state = "NC"
 city = "Hallsboro"
 county = "Columbus"
-longitude = -78.652989
 latitude = 34.337401
+longitude = -78.652989
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28442"
+

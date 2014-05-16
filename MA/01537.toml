@@ -1,6 +1,8 @@
-zip_code = "01537"
-state = "MA"
 city = "North Oxford"
 county = "Worcester"
-longitude = -71.891052
 latitude = 42.166241
+longitude = -71.891052
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01537"
+

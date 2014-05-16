@@ -1,6 +1,8 @@
-zip_code = "95309"
-state = "CA"
 city = "Chinese Camp"
 county = "Tuolumne"
-longitude = -120.440467
 latitude = 37.807938
+longitude = -120.440467
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95309"
+

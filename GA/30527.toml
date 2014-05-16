@@ -1,6 +1,8 @@
-zip_code = "30527"
-state = "GA"
 city = "Clermont"
 county = "Hall"
-longitude = -83.775657
 latitude = 34.397806
+longitude = -83.775657
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30527"
+

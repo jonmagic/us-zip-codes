@@ -1,6 +1,8 @@
-zip_code = "01096"
-state = "MA"
 city = "Williamsburg"
 county = "Hampshire"
-longitude = -72.821653
 latitude = 42.413069
+longitude = -72.821653
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01096"
+

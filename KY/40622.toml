@@ -1,6 +1,8 @@
-zip_code = "40622"
-state = "KY"
 city = "Frankfort"
 county = "Franklin"
-longitude = -84.874809
 latitude = 38.234133
+longitude = -84.874809
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40622"
+

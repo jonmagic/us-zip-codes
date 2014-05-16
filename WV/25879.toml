@@ -1,6 +1,8 @@
-zip_code = "25879"
-state = "WV"
 city = "Minden"
 county = "Fayette"
-longitude = -81.114993
 latitude = 37.975773
+longitude = -81.114993
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25879"
+

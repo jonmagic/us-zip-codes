@@ -1,6 +1,8 @@
-zip_code = "44460"
-state = "OH"
 city = "Salem"
 county = "Columbiana"
-longitude = -80.763459
 latitude = 40.862743
+longitude = -80.763459
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44460"
+

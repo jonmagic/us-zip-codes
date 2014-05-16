@@ -1,6 +1,8 @@
-zip_code = "95018"
-state = "CA"
 city = "Felton"
 county = "Santa Cruz"
-longitude = -122.068323
 latitude = 37.102414
+longitude = -122.068323
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95018"
+

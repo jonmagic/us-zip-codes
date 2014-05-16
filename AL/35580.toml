@@ -1,6 +1,8 @@
-zip_code = "35580"
-state = "AL"
 city = "Parrish"
 county = "Walker"
-longitude = -87.298601
 latitude = 33.713348
+longitude = -87.298601
+state = ""
+state_code_alpha2 = ""
+zip_code = "35580"
+

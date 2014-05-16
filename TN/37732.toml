@@ -1,6 +1,8 @@
-zip_code = "37732"
-state = "TN"
 city = "Elgin"
 county = "Scott"
-longitude = -84.616597
 latitude = 36.387879
+longitude = -84.616597
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37732"
+

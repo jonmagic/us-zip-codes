@@ -1,6 +1,8 @@
-zip_code = "15102"
-state = "PA"
 city = "Bethel Park"
 county = "Allegheny"
-longitude = -80.11595
 latitude = 40.371471
+longitude = -80.11595
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15102"
+

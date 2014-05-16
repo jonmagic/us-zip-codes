@@ -1,6 +1,8 @@
-zip_code = "56069"
-state = "MN"
 city = "Montgomery"
 county = "Le Sueur"
-longitude = -93.580277
 latitude = 44.349609
+longitude = -93.580277
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56069"
+

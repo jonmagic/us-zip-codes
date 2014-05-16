@@ -1,6 +1,8 @@
-zip_code = "73436"
-state = "OK"
 city = "Gene Autry"
 county = "Carter"
-longitude = -97.033905
 latitude = 34.293948
+longitude = -97.033905
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73436"
+

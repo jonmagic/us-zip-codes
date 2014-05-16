@@ -1,6 +1,8 @@
-zip_code = "39529"
-state = "MS"
 city = "Stennis Space Center"
 county = "Hancock"
-longitude = -89.49821
 latitude = 30.403156
+longitude = -89.49821
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39529"
+

@@ -1,6 +1,8 @@
-zip_code = "39153"
-state = "MS"
 city = "Raleigh"
 county = "Smith"
-longitude = -89.524458
 latitude = 32.033656
+longitude = -89.524458
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39153"
+

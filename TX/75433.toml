@@ -1,6 +1,8 @@
-zip_code = "75433"
-state = "TX"
 city = "Cumby"
 county = "Hopkins"
-longitude = -95.844353
 latitude = 33.136079
+longitude = -95.844353
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75433"
+

@@ -1,6 +1,8 @@
-zip_code = "37807"
-state = "TN"
 city = "Maynardville"
 county = "Union"
-longitude = -83.806991
 latitude = 36.294236
+longitude = -83.806991
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37807"
+

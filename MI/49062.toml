@@ -1,6 +1,8 @@
-zip_code = "49062"
-state = "MI"
 city = "Kendall"
 county = "Van Buren"
-longitude = -85.814072
 latitude = 42.36175
+longitude = -85.814072
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49062"
+

@@ -1,6 +1,8 @@
-zip_code = "32034"
-state = "FL"
 city = "Fernandina Beach"
 county = "Nassau"
-longitude = -81.682889
 latitude = 30.60778
+longitude = -81.682889
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32034"
+

@@ -1,6 +1,8 @@
-zip_code = "62934"
-state = "IL"
 city = "Equality"
 county = "Gallatin"
-longitude = -88.330839
 latitude = 37.706289
+longitude = -88.330839
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62934"
+

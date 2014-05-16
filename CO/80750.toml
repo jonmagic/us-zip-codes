@@ -1,6 +1,8 @@
-zip_code = "80750"
-state = "CO"
 city = "Snyder"
 county = "Morgan"
-longitude = -103.610575
 latitude = 40.415193
+longitude = -103.610575
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80750"
+

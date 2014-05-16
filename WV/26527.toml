@@ -1,6 +1,8 @@
-zip_code = "26527"
-state = "WV"
 city = "Cassville"
 county = "Monongalia"
-longitude = -80.093007
 latitude = 39.578512
+longitude = -80.093007
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26527"
+

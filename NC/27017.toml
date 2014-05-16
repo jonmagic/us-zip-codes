@@ -1,6 +1,8 @@
-zip_code = "27017"
-state = "NC"
 city = "Dobson"
 county = "Surry"
-longitude = -80.697202
 latitude = 36.357619
+longitude = -80.697202
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27017"
+

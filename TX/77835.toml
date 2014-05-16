@@ -1,6 +1,8 @@
-zip_code = "77835"
-state = "TX"
 city = "Burton"
 county = "Washington"
-longitude = -96.628566
 latitude = 30.179152
+longitude = -96.628566
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77835"
+

@@ -1,6 +1,8 @@
-zip_code = "45275"
-state = "OH"
 city = "Cincinnati"
 county = "Brown"
-longitude = -83.862877
 latitude = 38.946921
+longitude = -83.862877
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45275"
+

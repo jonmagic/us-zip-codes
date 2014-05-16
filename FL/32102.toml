@@ -1,6 +1,8 @@
-zip_code = "32102"
-state = "FL"
 city = "Astor"
 county = "Lake"
-longitude = -81.575044
 latitude = 29.174011
+longitude = -81.575044
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32102"
+

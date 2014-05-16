@@ -1,6 +1,8 @@
-zip_code = "46048"
-state = "IN"
 city = "Ingalls"
 county = "Madison"
-longitude = -85.798078
 latitude = 39.95729
+longitude = -85.798078
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46048"
+

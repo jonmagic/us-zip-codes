@@ -1,6 +1,8 @@
-zip_code = "42541"
-state = "KY"
 city = "Middleburg"
 county = "Casey"
-longitude = -84.798875
 latitude = 37.36719
+longitude = -84.798875
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42541"
+

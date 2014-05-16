@@ -1,6 +1,8 @@
-zip_code = "13043"
-state = "NY"
 city = "Clockville"
 county = "Madison"
-longitude = -75.740848
 latitude = 43.042044
+longitude = -75.740848
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13043"
+

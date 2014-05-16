@@ -1,6 +1,8 @@
-zip_code = "13696"
-state = "NY"
 city = "West Stockholm"
 county = "Saint Lawrence"
-longitude = -74.89998
 latitude = 44.69563
+longitude = -74.89998
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13696"
+

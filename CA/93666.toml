@@ -1,6 +1,8 @@
-zip_code = "93666"
-state = "CA"
 city = "Sultana"
 county = "Tulare"
-longitude = -119.352004
 latitude = 36.520998
+longitude = -119.352004
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93666"
+

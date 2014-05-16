@@ -1,6 +1,8 @@
-zip_code = "14874"
-state = "NY"
 city = "Pulteney"
 county = "Steuben"
-longitude = -77.197141
 latitude = 42.520261
+longitude = -77.197141
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14874"
+

@@ -1,6 +1,8 @@
-zip_code = "33629"
-state = "FL"
 city = "Tampa"
 county = "Hillsborough"
-longitude = -82.508867
 latitude = 27.921056
+longitude = -82.508867
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33629"
+

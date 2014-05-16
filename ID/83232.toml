@@ -1,6 +1,8 @@
-zip_code = "83232"
-state = "ID"
 city = "Dayton"
 county = "Franklin"
-longitude = -111.97748
 latitude = 42.145827
+longitude = -111.97748
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83232"
+

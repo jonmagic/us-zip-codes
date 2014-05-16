@@ -1,6 +1,8 @@
-zip_code = "11554"
-state = "NY"
 city = "East Meadow"
 county = "Nassau"
-longitude = -73.55877
 latitude = 40.72135
+longitude = -73.55877
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11554"
+

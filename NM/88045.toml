@@ -1,6 +1,8 @@
-zip_code = "88045"
-state = "NM"
 city = "Lordsburg"
 county = "Hidalgo"
-longitude = -108.723047
 latitude = 32.315951
+longitude = -108.723047
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88045"
+

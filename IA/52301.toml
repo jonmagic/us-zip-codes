@@ -1,6 +1,8 @@
-zip_code = "52301"
-state = "IA"
 city = "Marengo"
 county = "Iowa"
-longitude = -92.094866
 latitude = 41.768214
+longitude = -92.094866
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52301"
+

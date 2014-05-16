@@ -1,6 +1,8 @@
-zip_code = "21797"
-state = "MD"
 city = "Woodbine"
 county = "Carroll"
-longitude = -77.081821
 latitude = 39.402352
+longitude = -77.081821
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21797"
+

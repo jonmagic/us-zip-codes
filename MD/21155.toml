@@ -1,6 +1,8 @@
-zip_code = "21155"
-state = "MD"
 city = "Upperco"
 county = "Baltimore"
-longitude = -76.797213
 latitude = 39.567574
+longitude = -76.797213
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21155"
+

@@ -1,6 +1,8 @@
-zip_code = "48110"
-state = "MI"
 city = "Azalia"
 county = "Monroe"
-longitude = -83.664277
 latitude = 42.008164
+longitude = -83.664277
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48110"
+

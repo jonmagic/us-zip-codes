@@ -1,6 +1,8 @@
-zip_code = "54512"
-state = "WI"
 city = "Boulder Junction"
 county = "Vilas"
-longitude = -89.531393
 latitude = 46.078442
+longitude = -89.531393
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54512"
+

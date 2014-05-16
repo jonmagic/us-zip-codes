@@ -1,6 +1,8 @@
-zip_code = "77837"
-state = "TX"
 city = "Calvert"
 county = "Robertson"
-longitude = -96.674911
 latitude = 30.980617
+longitude = -96.674911
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77837"
+

@@ -1,6 +1,8 @@
-zip_code = "68861"
-state = "NE"
 city = "Odessa"
 county = "Buffalo"
-longitude = -99.283748
 latitude = 40.72996
+longitude = -99.283748
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68861"
+

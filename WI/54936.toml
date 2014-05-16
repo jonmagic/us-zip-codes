@@ -1,6 +1,8 @@
-zip_code = "54936"
-state = "WI"
 city = "Fond Du Lac"
 county = "Fond Du Lac"
-longitude = -88.522984
 latitude = 43.740559
+longitude = -88.522984
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54936"
+

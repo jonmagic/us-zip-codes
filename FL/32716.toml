@@ -1,6 +1,8 @@
-zip_code = "32716"
-state = "FL"
 city = "Altamonte Springs"
 county = "Seminole"
-longitude = -81.22328
 latitude = 28.744752
+longitude = -81.22328
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32716"
+

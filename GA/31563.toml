@@ -1,6 +1,8 @@
-zip_code = "31563"
-state = "GA"
 city = "Surrency"
 county = "Appling"
-longitude = -82.194912
 latitude = 31.731163
+longitude = -82.194912
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31563"
+

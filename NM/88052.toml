@@ -1,6 +1,8 @@
-zip_code = "88052"
-state = "NM"
 city = "Organ"
 county = "Dona Ana"
-longitude = -106.613563
 latitude = 32.425921
+longitude = -106.613563
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88052"
+

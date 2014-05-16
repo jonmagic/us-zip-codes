@@ -1,6 +1,8 @@
-zip_code = "53046"
-state = "WI"
 city = "Lannon"
 county = "Waukesha"
-longitude = -88.164427
 latitude = 43.153279
+longitude = -88.164427
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53046"
+

@@ -1,6 +1,8 @@
-zip_code = "14551"
-state = "NY"
 city = "Sodus"
 county = "Wayne"
-longitude = -77.053517
 latitude = 43.210384
+longitude = -77.053517
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14551"
+

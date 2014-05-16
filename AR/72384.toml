@@ -1,6 +1,8 @@
-zip_code = "72384"
-state = "AR"
 city = "Turrell"
 county = "Crittenden"
-longitude = -90.297822
 latitude = 35.343902
+longitude = -90.297822
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72384"
+

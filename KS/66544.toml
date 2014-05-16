@@ -1,6 +1,8 @@
-zip_code = "66544"
-state = "KS"
 city = "Vermillion"
 county = "Marshall"
-longitude = -96.495257
 latitude = 39.689591
+longitude = -96.495257
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66544"
+

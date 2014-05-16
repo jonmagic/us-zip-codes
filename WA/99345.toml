@@ -1,6 +1,8 @@
-zip_code = "99345"
-state = "WA"
 city = "Paterson"
 county = "Benton"
-longitude = -119.857639
 latitude = 45.859058
+longitude = -119.857639
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99345"
+

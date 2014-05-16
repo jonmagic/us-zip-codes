@@ -1,6 +1,8 @@
-zip_code = "29581"
-state = "SC"
 city = "Nichols"
 county = "Horry"
-longitude = -79.102314
 latitude = 34.000746
+longitude = -79.102314
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29581"
+

@@ -1,6 +1,8 @@
-zip_code = "84645"
-state = "UT"
 city = "Mona"
 county = "Juab"
-longitude = -111.850284
 latitude = 39.848111
+longitude = -111.850284
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84645"
+

@@ -1,6 +1,8 @@
-zip_code = "04449"
-state = "ME"
 city = "Hudson"
 county = "Penobscot"
-longitude = -68.884621
 latitude = 45.006054
+longitude = -68.884621
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04449"
+

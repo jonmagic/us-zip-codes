@@ -1,6 +1,8 @@
-zip_code = "97756"
-state = "OR"
 city = "Redmond"
 county = "Deschutes"
-longitude = -121.266414
 latitude = 44.268862
+longitude = -121.266414
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97756"
+

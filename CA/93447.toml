@@ -1,6 +1,8 @@
-zip_code = "93447"
-state = "CA"
 city = "Paso Robles"
 county = "San Luis Obispo"
-longitude = -120.693505
 latitude = 35.75624
+longitude = -120.693505
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93447"
+

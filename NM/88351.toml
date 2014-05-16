@@ -1,6 +1,8 @@
-zip_code = "88351"
-state = "NM"
 city = "Tinnie"
 county = "Lincoln"
-longitude = -105.629382
 latitude = 33.739651
+longitude = -105.629382
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88351"
+

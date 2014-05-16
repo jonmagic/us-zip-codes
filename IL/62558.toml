@@ -1,6 +1,8 @@
-zip_code = "62558"
-state = "IL"
 city = "Pawnee"
 county = "Sangamon"
-longitude = -89.567791
 latitude = 39.60855
+longitude = -89.567791
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62558"
+

@@ -1,6 +1,8 @@
-zip_code = "84726"
-state = "UT"
 city = "Escalante"
 county = "Garfield"
-longitude = -111.595666
 latitude = 37.767764
+longitude = -111.595666
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84726"
+

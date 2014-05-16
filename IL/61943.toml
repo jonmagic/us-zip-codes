@@ -1,6 +1,8 @@
-zip_code = "61943"
-state = "IL"
 city = "Oakland"
 county = "Coles"
-longitude = -88.217663
 latitude = 39.62812
+longitude = -88.217663
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61943"
+

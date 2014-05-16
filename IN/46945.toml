@@ -1,6 +1,8 @@
-zip_code = "46945"
-state = "IN"
 city = "Leiters Ford"
 county = "Fulton"
-longitude = -86.206925
 latitude = 41.040988
+longitude = -86.206925
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46945"
+

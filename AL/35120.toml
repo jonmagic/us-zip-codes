@@ -1,6 +1,8 @@
-zip_code = "35120"
-state = "AL"
 city = "Odenville"
 county = "Saint Clair"
-longitude = -86.38336
 latitude = 33.657096
+longitude = -86.38336
+state = ""
+state_code_alpha2 = ""
+zip_code = "35120"
+

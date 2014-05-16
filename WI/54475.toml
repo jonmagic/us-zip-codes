@@ -1,6 +1,8 @@
-zip_code = "54475"
-state = "WI"
 city = "Rudolph"
 county = "Wood"
-longitude = -89.795501
 latitude = 44.474097
+longitude = -89.795501
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54475"
+

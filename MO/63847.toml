@@ -1,6 +1,8 @@
-zip_code = "63847"
-state = "MO"
 city = "Gibson"
 county = "Dunklin"
-longitude = -90.029294
 latitude = 36.441318
+longitude = -90.029294
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63847"
+

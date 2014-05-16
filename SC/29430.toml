@@ -1,6 +1,8 @@
-zip_code = "29430"
-state = "SC"
 city = "Bethera"
 county = "Berkeley"
-longitude = -79.816871
 latitude = 33.214551
+longitude = -79.816871
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29430"
+

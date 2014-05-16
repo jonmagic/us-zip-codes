@@ -1,6 +1,8 @@
-zip_code = "62555"
-state = "IL"
 city = "Owaneco"
 county = "Christian"
-longitude = -89.217453
 latitude = 39.458365
+longitude = -89.217453
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62555"
+

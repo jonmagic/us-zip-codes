@@ -1,6 +1,8 @@
-zip_code = "38251"
-state = "TN"
 city = "Puryear"
 county = "Henry"
-longitude = -88.304762
 latitude = 36.333902
+longitude = -88.304762
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38251"
+

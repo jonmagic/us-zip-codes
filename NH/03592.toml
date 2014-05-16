@@ -1,6 +1,8 @@
-zip_code = "03592"
-state = "NH"
 city = "Pittsburg"
 county = "Coos"
-longitude = -71.387387
 latitude = 44.695648
+longitude = -71.387387
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03592"
+

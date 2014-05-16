@@ -1,6 +1,8 @@
-zip_code = "58448"
-state = "ND"
 city = "Hannaford"
 county = "Griggs"
-longitude = -98.350201
 latitude = 47.378619
+longitude = -98.350201
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58448"
+

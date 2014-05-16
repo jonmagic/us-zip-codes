@@ -1,6 +1,8 @@
-zip_code = "41615"
-state = "KY"
 city = "Dana"
 county = "Floyd"
-longitude = -82.684788
 latitude = 37.561699
+longitude = -82.684788
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41615"
+

@@ -1,6 +1,8 @@
-zip_code = "42273"
-state = "KY"
 city = "Rochester"
 county = "Butler"
-longitude = -86.859847
 latitude = 37.207489
+longitude = -86.859847
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42273"
+

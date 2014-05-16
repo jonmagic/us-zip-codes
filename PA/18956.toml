@@ -1,6 +1,8 @@
-zip_code = "18956"
-state = "PA"
 city = "Rushland"
 county = "Bucks"
-longitude = -75.01568
 latitude = 40.262783
+longitude = -75.01568
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18956"
+

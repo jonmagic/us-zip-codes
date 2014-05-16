@@ -1,6 +1,8 @@
-zip_code = "51240"
-state = "IA"
 city = "Inwood"
 county = "Lyon"
-longitude = -96.293245
 latitude = 43.338402
+longitude = -96.293245
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51240"
+

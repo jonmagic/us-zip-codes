@@ -1,6 +1,8 @@
-zip_code = "02344"
-state = "MA"
 city = "Middleboro"
 county = "Plymouth"
-longitude = -70.701357
 latitude = 41.970474
+longitude = -70.701357
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02344"
+

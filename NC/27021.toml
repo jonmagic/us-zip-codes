@@ -1,6 +1,8 @@
-zip_code = "27021"
-state = "NC"
 city = "King"
 county = "Stokes"
-longitude = -80.292174
 latitude = 36.320179
+longitude = -80.292174
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27021"
+

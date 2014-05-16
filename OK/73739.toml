@@ -1,6 +1,8 @@
-zip_code = "73739"
-state = "OK"
 city = "Goltry"
 county = "Alfalfa"
-longitude = -98.151279
 latitude = 36.531985
+longitude = -98.151279
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73739"
+

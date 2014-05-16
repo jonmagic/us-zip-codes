@@ -1,6 +1,8 @@
-zip_code = "63851"
-state = "MO"
 city = "Hayti"
 county = "Pemiscot"
-longitude = -89.798519
 latitude = 36.257216
+longitude = -89.798519
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63851"
+

@@ -1,6 +1,8 @@
-zip_code = "47954"
-state = "IN"
 city = "Ladoga"
 county = "Montgomery"
-longitude = -86.855491
 latitude = 40.050732
+longitude = -86.855491
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47954"
+

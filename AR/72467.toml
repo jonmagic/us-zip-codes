@@ -1,6 +1,8 @@
-zip_code = "72467"
-state = "AR"
 city = "State University"
 county = "Craighead"
-longitude = -90.673464
 latitude = 35.842196
+longitude = -90.673464
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72467"
+

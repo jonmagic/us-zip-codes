@@ -1,6 +1,8 @@
-zip_code = "44084"
-state = "OH"
 city = "Rock Creek"
 county = "Ashtabula"
-longitude = -80.905118
 latitude = 41.689765
+longitude = -80.905118
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44084"
+

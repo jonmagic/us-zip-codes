@@ -1,6 +1,8 @@
-zip_code = "58722"
-state = "ND"
 city = "Burlington"
 county = "Ward"
-longitude = -101.543429
 latitude = 48.10469
+longitude = -101.543429
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58722"
+

@@ -1,6 +1,8 @@
-zip_code = "45322"
-state = "OH"
 city = "Englewood"
 county = "Montgomery"
-longitude = -84.331945
 latitude = 39.877005
+longitude = -84.331945
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45322"
+

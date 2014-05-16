@@ -1,6 +1,8 @@
-zip_code = "13690"
-state = "NY"
 city = "Star Lake"
 county = "Saint Lawrence"
-longitude = -74.991929
 latitude = 44.174001
+longitude = -74.991929
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13690"
+

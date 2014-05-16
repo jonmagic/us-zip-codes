@@ -1,6 +1,8 @@
-zip_code = "99403"
-state = "WA"
 city = "Clarkston"
 county = "Asotin"
-longitude = -117.225934
 latitude = 46.369711
+longitude = -117.225934
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99403"
+

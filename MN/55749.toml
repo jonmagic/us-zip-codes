@@ -1,6 +1,8 @@
-zip_code = "55749"
-state = "MN"
 city = "Holyoke"
 county = "Carlton"
-longitude = -92.410931
 latitude = 46.482697
+longitude = -92.410931
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55749"
+

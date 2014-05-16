@@ -1,6 +1,8 @@
-zip_code = "93622"
-state = "CA"
 city = "Firebaugh"
 county = "Fresno"
-longitude = -120.213442
 latitude = 36.772741
+longitude = -120.213442
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93622"
+

@@ -1,6 +1,8 @@
-zip_code = "72936"
-state = "AR"
 city = "Greenwood"
 county = "Sebastian"
-longitude = -94.206011
 latitude = 35.181209
+longitude = -94.206011
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72936"
+

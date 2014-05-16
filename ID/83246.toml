@@ -1,6 +1,8 @@
-zip_code = "83246"
-state = "ID"
 city = "Lava Hot Springs"
 county = "Bannock"
-longitude = -112.058039
 latitude = 42.60197
+longitude = -112.058039
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83246"
+

@@ -1,6 +1,8 @@
-zip_code = "31762"
-state = "GA"
 city = "Leary"
 county = "Calhoun"
-longitude = -84.513659
 latitude = 31.484266
+longitude = -84.513659
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31762"
+

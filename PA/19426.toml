@@ -1,6 +1,8 @@
-zip_code = "19426"
-state = "PA"
 city = "Collegeville"
 county = "Montgomery"
-longitude = -75.430272
 latitude = 40.236083
+longitude = -75.430272
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19426"
+

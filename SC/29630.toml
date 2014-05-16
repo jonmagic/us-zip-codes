@@ -1,6 +1,8 @@
-zip_code = "29630"
-state = "SC"
 city = "Central"
 county = "Pickens"
-longitude = -82.797267
 latitude = 34.744649
+longitude = -82.797267
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29630"
+

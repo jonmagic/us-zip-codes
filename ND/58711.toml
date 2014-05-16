@@ -1,6 +1,8 @@
-zip_code = "58711"
-state = "ND"
 city = "Antler"
 county = "Bottineau"
-longitude = -101.227611
 latitude = 48.813251
+longitude = -101.227611
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58711"
+

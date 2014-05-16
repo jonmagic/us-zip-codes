@@ -1,6 +1,8 @@
-zip_code = "31754"
-state = "GA"
 city = "Georgetown"
 county = "Quitman"
-longitude = -85.104383
 latitude = 31.844937
+longitude = -85.104383
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31754"
+

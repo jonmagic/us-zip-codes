@@ -1,6 +1,8 @@
-zip_code = "44412"
-state = "OH"
 city = "Diamond"
 county = "Portage"
-longitude = -81.049216
 latitude = 41.102836
+longitude = -81.049216
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44412"
+

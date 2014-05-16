@@ -1,6 +1,8 @@
-zip_code = "75152"
-state = "TX"
 city = "Palmer"
 county = "Ellis"
-longitude = -96.675575
 latitude = 32.460524
+longitude = -96.675575
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75152"
+

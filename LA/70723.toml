@@ -1,6 +1,8 @@
-zip_code = "70723"
-state = "LA"
 city = "Convent"
 county = "Saint James"
-longitude = -90.858531
 latitude = 30.051774
+longitude = -90.858531
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70723"
+

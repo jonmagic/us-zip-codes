@@ -1,6 +1,8 @@
-zip_code = "43033"
-state = "OH"
 city = "Kirkersville"
 county = "Licking"
-longitude = -82.593998
 latitude = 39.953532
+longitude = -82.593998
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43033"
+

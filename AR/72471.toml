@@ -1,6 +1,8 @@
-zip_code = "72471"
-state = "AR"
 city = "Swifton"
 county = "Jackson"
-longitude = -91.092685
 latitude = 35.817646
+longitude = -91.092685
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72471"
+

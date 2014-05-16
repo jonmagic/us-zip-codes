@@ -1,6 +1,8 @@
-zip_code = "78946"
-state = "TX"
 city = "Ledbetter"
 county = "Fayette"
-longitude = -96.795224
 latitude = 30.09469
+longitude = -96.795224
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78946"
+

@@ -1,6 +1,8 @@
-zip_code = "77622"
-state = "TX"
 city = "Hamshire"
 county = "Jefferson"
-longitude = -94.289265
 latitude = 29.851906
+longitude = -94.289265
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77622"
+

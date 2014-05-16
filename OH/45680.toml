@@ -1,6 +1,8 @@
-zip_code = "45680"
-state = "OH"
 city = "South Point"
 county = "Lawrence"
-longitude = -82.501206
 latitude = 38.465171
+longitude = -82.501206
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45680"
+

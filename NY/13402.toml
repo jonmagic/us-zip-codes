@@ -1,6 +1,8 @@
-zip_code = "13402"
-state = "NY"
 city = "Madison"
 county = "Madison"
-longitude = -75.549372
 latitude = 42.898322
+longitude = -75.549372
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13402"
+

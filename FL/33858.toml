@@ -1,6 +1,8 @@
-zip_code = "33858"
-state = "FL"
 city = "Loughman"
 county = "Polk"
-longitude = -81.505211
 latitude = 28.050121
+longitude = -81.505211
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33858"
+

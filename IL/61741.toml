@@ -1,6 +1,8 @@
-zip_code = "61741"
-state = "IL"
 city = "Forrest"
 county = "Livingston"
-longitude = -88.393085
 latitude = 40.754176
+longitude = -88.393085
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61741"
+

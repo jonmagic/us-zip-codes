@@ -1,6 +1,8 @@
-zip_code = "43907"
-state = "OH"
 city = "Cadiz"
 county = "Harrison"
-longitude = -81.030687
 latitude = 40.263163
+longitude = -81.030687
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43907"
+

@@ -1,6 +1,8 @@
-zip_code = "48416"
-state = "MI"
 city = "Brown City"
 county = "Sanilac"
-longitude = -82.918819
 latitude = 43.242602
+longitude = -82.918819
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48416"
+

@@ -1,6 +1,8 @@
-zip_code = "32766"
-state = "FL"
 city = "Oviedo"
 county = "Seminole"
-longitude = -81.113444
 latitude = 28.660674
+longitude = -81.113444
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32766"
+

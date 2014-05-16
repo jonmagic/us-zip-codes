@@ -1,6 +1,8 @@
-zip_code = "45164"
-state = "OH"
 city = "Port William"
 county = "Clinton"
-longitude = -83.788084
 latitude = 39.551413
+longitude = -83.788084
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45164"
+

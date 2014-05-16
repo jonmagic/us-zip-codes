@@ -1,6 +1,8 @@
-zip_code = "37143"
-state = "TN"
 city = "Pegram"
 county = "Cheatham"
-longitude = -87.039855
 latitude = 36.135105
+longitude = -87.039855
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37143"
+

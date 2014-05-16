@@ -1,6 +1,8 @@
-zip_code = "10573"
-state = "NY"
 city = "Port Chester"
 county = "Westchester"
-longitude = -73.679799
 latitude = 41.022193
+longitude = -73.679799
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10573"
+

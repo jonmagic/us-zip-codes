@@ -1,6 +1,8 @@
-zip_code = "49228"
-state = "MI"
 city = "Blissfield"
 county = "Lenawee"
-longitude = -83.873899
 latitude = 41.852645
+longitude = -83.873899
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49228"
+

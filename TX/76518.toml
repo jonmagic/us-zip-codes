@@ -1,6 +1,8 @@
-zip_code = "76518"
-state = "TX"
 city = "Buckholts"
 county = "Milam"
-longitude = -97.055021
 latitude = 30.868537
+longitude = -97.055021
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76518"
+

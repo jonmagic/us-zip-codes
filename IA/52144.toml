@@ -1,6 +1,8 @@
-zip_code = "52144"
-state = "IA"
 city = "Fort Atkinson"
 county = "Winneshiek"
-longitude = -91.924788
 latitude = 43.268916
+longitude = -91.924788
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52144"
+

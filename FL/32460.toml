@@ -1,6 +1,8 @@
-zip_code = "32460"
-state = "FL"
 city = "Sneads"
 county = "Jackson"
-longitude = -84.955871
 latitude = 30.777609
+longitude = -84.955871
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32460"
+

@@ -1,6 +1,8 @@
-zip_code = "44693"
-state = "OH"
 city = "Deersville"
 county = "Harrison"
-longitude = -81.183933
 latitude = 40.294686
+longitude = -81.183933
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44693"
+

@@ -1,6 +1,8 @@
-zip_code = "28718"
-state = "NC"
 city = "Cedar Mountain"
 county = "Transylvania"
-longitude = -82.637352
 latitude = 35.15081
+longitude = -82.637352
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28718"
+

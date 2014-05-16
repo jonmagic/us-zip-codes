@@ -1,6 +1,8 @@
-zip_code = "17840"
-state = "PA"
 city = "Locust Gap"
 county = "Northumberland"
-longitude = -76.438311
 latitude = 40.772687
+longitude = -76.438311
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17840"
+

@@ -1,6 +1,8 @@
-zip_code = "51062"
-state = "IA"
 city = "Westfield"
 county = "Plymouth"
-longitude = -96.50939
 latitude = 42.70123
+longitude = -96.50939
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51062"
+

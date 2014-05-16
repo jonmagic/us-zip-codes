@@ -1,6 +1,8 @@
-zip_code = "90011"
-state = "CA"
 city = "Los Angeles"
 county = "Los Angeles"
-longitude = -118.250056
 latitude = 33.989264
+longitude = -118.250056
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90011"
+

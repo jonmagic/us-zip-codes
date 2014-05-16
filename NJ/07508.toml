@@ -1,6 +1,8 @@
-zip_code = "07508"
-state = "NJ"
 city = "Haledon"
 county = "Passaic"
-longitude = -74.186269
 latitude = 40.951587
+longitude = -74.186269
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07508"
+

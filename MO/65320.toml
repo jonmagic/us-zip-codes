@@ -1,6 +1,8 @@
-zip_code = "65320"
-state = "MO"
 city = "Arrow Rock"
 county = "Saline"
-longitude = -92.948668
 latitude = 39.069352
+longitude = -92.948668
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65320"
+

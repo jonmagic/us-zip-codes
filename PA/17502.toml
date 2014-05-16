@@ -1,6 +1,8 @@
-zip_code = "17502"
-state = "PA"
 city = "Bainbridge"
 county = "Lancaster"
-longitude = -76.462434
 latitude = 40.088469
+longitude = -76.462434
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17502"
+

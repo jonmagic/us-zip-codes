@@ -1,6 +1,8 @@
-zip_code = "35760"
-state = "AL"
 city = "New Hope"
 county = "Madison"
-longitude = -86.385064
 latitude = 34.56112
+longitude = -86.385064
+state = ""
+state_code_alpha2 = ""
+zip_code = "35760"
+

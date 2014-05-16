@@ -1,6 +1,8 @@
-zip_code = "97537"
-state = "OR"
 city = "Rogue River"
 county = "Jackson"
-longitude = -123.097269
 latitude = 42.533003
+longitude = -123.097269
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97537"
+

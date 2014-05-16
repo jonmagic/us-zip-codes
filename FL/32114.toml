@@ -1,6 +1,8 @@
-zip_code = "32114"
-state = "FL"
 city = "Daytona Beach"
 county = "Volusia"
-longitude = -81.053368
 latitude = 29.146163
+longitude = -81.053368
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32114"
+

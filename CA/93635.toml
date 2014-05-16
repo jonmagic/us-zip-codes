@@ -1,6 +1,8 @@
-zip_code = "93635"
-state = "CA"
 city = "Los Banos"
 county = "Merced"
-longitude = -120.847479
 latitude = 37.103768
+longitude = -120.847479
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93635"
+

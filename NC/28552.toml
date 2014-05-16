@@ -1,6 +1,8 @@
-zip_code = "28552"
-state = "NC"
 city = "Lowland"
 county = "Pamlico"
-longitude = -76.583839
 latitude = 35.282911
+longitude = -76.583839
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28552"
+

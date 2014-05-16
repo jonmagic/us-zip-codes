@@ -1,6 +1,8 @@
-zip_code = "20138"
-state = "VA"
 city = "Calverton"
 county = "Fauquier"
-longitude = -77.686868
 latitude = 38.633774
+longitude = -77.686868
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20138"
+

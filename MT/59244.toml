@@ -1,6 +1,8 @@
-zip_code = "59244"
-state = "MT"
 city = "Larslan"
 county = "Valley"
-longitude = -106.357152
 latitude = 48.678589
+longitude = -106.357152
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59244"
+

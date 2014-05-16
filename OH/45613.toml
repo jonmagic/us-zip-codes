@@ -1,6 +1,8 @@
-zip_code = "45613"
-state = "OH"
 city = "Beaver"
 county = "Pike"
-longitude = -82.887103
 latitude = 39.040682
+longitude = -82.887103
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45613"
+

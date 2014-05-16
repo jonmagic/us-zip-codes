@@ -1,6 +1,8 @@
-zip_code = "38333"
-state = "TN"
 city = "Eva"
 county = "Benton"
-longitude = -87.98197
 latitude = 36.114158
+longitude = -87.98197
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38333"
+

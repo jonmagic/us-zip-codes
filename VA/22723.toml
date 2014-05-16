@@ -1,6 +1,8 @@
-zip_code = "22723"
-state = "VA"
 city = "Hood"
 county = "Madison"
-longitude = -78.432237
 latitude = 38.396709
+longitude = -78.432237
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22723"
+

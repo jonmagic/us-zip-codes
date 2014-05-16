@@ -1,6 +1,8 @@
-zip_code = "72458"
-state = "AR"
 city = "Powhatan"
 county = "Lawrence"
-longitude = -91.218089
 latitude = 36.053597
+longitude = -91.218089
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72458"
+

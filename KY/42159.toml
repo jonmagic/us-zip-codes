@@ -1,6 +1,8 @@
-zip_code = "42159"
-state = "KY"
 city = "Oakland"
 county = "Warren"
-longitude = -86.250131
 latitude = 36.998452
+longitude = -86.250131
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42159"
+

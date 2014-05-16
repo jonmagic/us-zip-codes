@@ -1,6 +1,8 @@
-zip_code = "68304"
-state = "NE"
 city = "Alvo"
 county = "Cass"
-longitude = -96.37898
 latitude = 40.885316
+longitude = -96.37898
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68304"
+

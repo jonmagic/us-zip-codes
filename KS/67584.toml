@@ -1,6 +1,8 @@
-zip_code = "67584"
-state = "KS"
 city = "Utica"
 county = "Ness"
-longitude = -100.170396
 latitude = 38.641893
+longitude = -100.170396
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67584"
+

@@ -1,6 +1,8 @@
-zip_code = "51440"
-state = "IA"
 city = "Dedham"
 county = "Carroll"
-longitude = -94.833323
 latitude = 41.960798
+longitude = -94.833323
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51440"
+

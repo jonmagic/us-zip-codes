@@ -1,6 +1,8 @@
-zip_code = "75790"
-state = "TX"
 city = "Van"
 county = "Van Zandt"
-longitude = -95.679211
 latitude = 32.543649
+longitude = -95.679211
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75790"
+

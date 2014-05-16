@@ -1,6 +1,8 @@
-zip_code = "31626"
-state = "GA"
 city = "Boston"
 county = "Thomas"
-longitude = -83.910971
 latitude = 30.828644
+longitude = -83.910971
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31626"
+

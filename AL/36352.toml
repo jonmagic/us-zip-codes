@@ -1,6 +1,8 @@
-zip_code = "36352"
-state = "AL"
 city = "Newton"
 county = "Dale"
-longitude = -85.659319
 latitude = 31.352897
+longitude = -85.659319
+state = ""
+state_code_alpha2 = ""
+zip_code = "36352"
+

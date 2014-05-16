@@ -1,6 +1,8 @@
-zip_code = "83549"
-state = "ID"
 city = "Riggins"
 county = "Idaho"
-longitude = -116.351079
 latitude = 45.400163
+longitude = -116.351079
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83549"
+

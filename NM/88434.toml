@@ -1,6 +1,8 @@
-zip_code = "88434"
-state = "NM"
 city = "San Jon"
 county = "Quay"
-longitude = -103.271136
 latitude = 35.123423
+longitude = -103.271136
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88434"
+

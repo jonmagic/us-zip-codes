@@ -1,6 +1,8 @@
-zip_code = "68653"
-state = "NE"
 city = "Platte Center"
 county = "Platte"
-longitude = -97.48488
 latitude = 41.537151
+longitude = -97.48488
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68653"
+

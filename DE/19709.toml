@@ -1,6 +1,8 @@
-zip_code = "19709"
-state = "DE"
 city = "Middletown"
 county = "New Castle"
-longitude = -75.677535
 latitude = 39.485721
+longitude = -75.677535
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19709"
+

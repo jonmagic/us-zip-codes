@@ -1,6 +1,8 @@
-zip_code = "36871"
-state = "AL"
 city = "Pittsview"
 county = "Russell"
-longitude = -85.165575
 latitude = 32.166569
+longitude = -85.165575
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36871"
+

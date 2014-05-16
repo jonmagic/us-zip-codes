@@ -1,6 +1,8 @@
-zip_code = "56433"
-state = "MN"
 city = "Akeley"
 county = "Hubbard"
-longitude = -94.726405
 latitude = 46.987609
+longitude = -94.726405
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56433"
+

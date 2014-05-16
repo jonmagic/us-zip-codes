@@ -1,6 +1,8 @@
-zip_code = "03247"
-state = "NH"
 city = "Laconia"
 county = "Belknap"
-longitude = -71.445452
 latitude = 43.588972
+longitude = -71.445452
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03247"
+

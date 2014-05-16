@@ -1,6 +1,8 @@
-zip_code = "11757"
-state = "NY"
 city = "Lindenhurst"
 county = "Suffolk"
-longitude = -73.376475
 latitude = 40.688799
+longitude = -73.376475
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11757"
+

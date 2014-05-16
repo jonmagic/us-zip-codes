@@ -1,6 +1,8 @@
-zip_code = "46113"
-state = "IN"
 city = "Camby"
 county = "Marion"
-longitude = -86.30309
 latitude = 39.6533
+longitude = -86.30309
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46113"
+

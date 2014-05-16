@@ -1,6 +1,8 @@
-zip_code = "66711"
-state = "KS"
 city = "Arcadia"
 county = "Crawford"
-longitude = -94.697518
 latitude = 37.601241
+longitude = -94.697518
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66711"
+

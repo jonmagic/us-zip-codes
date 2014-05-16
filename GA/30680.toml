@@ -1,6 +1,8 @@
-zip_code = "30680"
-state = "GA"
 city = "Winder"
 county = "Barrow"
-longitude = -83.698498
 latitude = 33.987138
+longitude = -83.698498
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30680"
+

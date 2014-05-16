@@ -1,6 +1,8 @@
-zip_code = "67522"
-state = "KS"
 city = "Buhler"
 county = "Reno"
-longitude = -97.766352
 latitude = 38.122794
+longitude = -97.766352
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67522"
+

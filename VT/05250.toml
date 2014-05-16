@@ -1,6 +1,8 @@
-zip_code = "05250"
-state = "VT"
 city = "Arlington"
 county = "Bennington"
-longitude = -73.134727
 latitude = 43.065719
+longitude = -73.134727
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05250"
+

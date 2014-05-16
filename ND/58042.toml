@@ -1,6 +1,8 @@
-zip_code = "58042"
-state = "ND"
 city = "Harwood"
 county = "Cass"
-longitude = -96.965445
 latitude = 46.956511
+longitude = -96.965445
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58042"
+

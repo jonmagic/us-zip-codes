@@ -1,6 +1,8 @@
-zip_code = "56256"
-state = "MN"
 city = "Madison"
 county = "Lac Qui Parle"
-longitude = -96.311044
 latitude = 45.038164
+longitude = -96.311044
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56256"
+

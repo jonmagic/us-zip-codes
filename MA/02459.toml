@@ -1,6 +1,8 @@
-zip_code = "02459"
-state = "MA"
 city = "Newton Center"
 county = "Middlesex"
-longitude = -71.183298
 latitude = 42.334146
+longitude = -71.183298
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02459"
+

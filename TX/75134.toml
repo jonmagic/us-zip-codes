@@ -1,6 +1,8 @@
-zip_code = "75134"
-state = "TX"
 city = "Lancaster"
 county = "Dallas"
-longitude = -96.76442
 latitude = 32.621185
+longitude = -96.76442
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75134"
+

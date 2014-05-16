@@ -1,6 +1,8 @@
-zip_code = "01550"
-state = "MA"
 city = "Southbridge"
 county = "Worcester"
-longitude = -72.031155
 latitude = 42.129251
+longitude = -72.031155
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01550"
+

@@ -1,6 +1,8 @@
-zip_code = "28518"
-state = "NC"
 city = "Beulaville"
 county = "Duplin"
-longitude = -77.785362
 latitude = 34.895292
+longitude = -77.785362
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28518"
+

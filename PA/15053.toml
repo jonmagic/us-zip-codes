@@ -1,6 +1,8 @@
-zip_code = "15053"
-state = "PA"
 city = "Joffre"
 county = "Washington"
-longitude = -80.360544
 latitude = 40.380036
+longitude = -80.360544
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15053"
+

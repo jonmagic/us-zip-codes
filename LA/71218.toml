@@ -1,6 +1,8 @@
-zip_code = "71218"
-state = "LA"
 city = "Archibald"
 county = "Richland"
-longitude = -91.732788
 latitude = 32.409446
+longitude = -91.732788
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71218"
+

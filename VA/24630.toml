@@ -1,6 +1,8 @@
-zip_code = "24630"
-state = "VA"
 city = "North Tazewell"
 county = "Tazewell"
-longitude = -81.539856
 latitude = 37.175577
+longitude = -81.539856
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24630"
+

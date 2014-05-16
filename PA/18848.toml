@@ -1,6 +1,8 @@
-zip_code = "18848"
-state = "PA"
 city = "Towanda"
 county = "Bradford"
-longitude = -76.389299
 latitude = 41.773762
+longitude = -76.389299
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18848"
+

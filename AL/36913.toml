@@ -1,6 +1,8 @@
-zip_code = "36913"
-state = "AL"
 city = "Melvin"
 county = "Choctaw"
-longitude = -88.200738
 latitude = 32.004227
+longitude = -88.200738
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36913"
+

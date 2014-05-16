@@ -1,6 +1,8 @@
-zip_code = "29009"
-state = "SC"
 city = "Bethune"
 county = "Kershaw"
-longitude = -80.532238
 latitude = 34.436891
+longitude = -80.532238
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29009"
+

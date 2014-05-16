@@ -1,6 +1,8 @@
-zip_code = "76389"
-state = "TX"
 city = "Windthorst"
 county = "Archer"
-longitude = -98.687302
 latitude = 33.615708
+longitude = -98.687302
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76389"
+

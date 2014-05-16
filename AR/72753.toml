@@ -1,6 +1,8 @@
-zip_code = "72753"
-state = "AR"
 city = "Prairie Grove"
 county = "Washington"
-longitude = -94.317796
 latitude = 35.927985
+longitude = -94.317796
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72753"
+

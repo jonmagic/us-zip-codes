@@ -1,6 +1,8 @@
-zip_code = "43142"
-state = "OH"
 city = "Milledgeville"
 county = "Fayette"
-longitude = -83.583292
 latitude = 39.588319
+longitude = -83.583292
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43142"
+

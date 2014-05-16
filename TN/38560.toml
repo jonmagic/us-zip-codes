@@ -1,6 +1,8 @@
-zip_code = "38560"
-state = "TN"
 city = "Elmwood"
 county = "Smith"
-longitude = -85.862182
 latitude = 36.218759
+longitude = -85.862182
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38560"
+

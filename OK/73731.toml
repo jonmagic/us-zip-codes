@@ -1,6 +1,8 @@
-zip_code = "73731"
-state = "OK"
 city = "Dacoma"
 county = "Woods"
-longitude = -98.562972
 latitude = 36.662062
+longitude = -98.562972
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73731"
+

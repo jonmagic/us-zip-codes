@@ -1,6 +1,8 @@
-zip_code = "71933"
-state = "AR"
 city = "Bonnerdale"
 county = "Hot Spring"
-longitude = -93.350643
 latitude = 34.356772
+longitude = -93.350643
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71933"
+

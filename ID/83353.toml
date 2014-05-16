@@ -1,6 +1,8 @@
-zip_code = "83353"
-state = "ID"
 city = "Sun Valley"
 county = "Blaine"
-longitude = -114.527235
 latitude = 43.684047
+longitude = -114.527235
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83353"
+

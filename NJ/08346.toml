@@ -1,6 +1,8 @@
-zip_code = "08346"
-state = "NJ"
 city = "Newtonville"
 county = "Atlantic"
-longitude = -74.870807
 latitude = 39.557607
+longitude = -74.870807
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08346"
+

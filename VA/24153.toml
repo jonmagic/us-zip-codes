@@ -1,6 +1,8 @@
-zip_code = "24153"
-state = "VA"
 city = "Salem"
 county = "Salem"
-longitude = -80.067762
 latitude = 37.28814
+longitude = -80.067762
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24153"
+

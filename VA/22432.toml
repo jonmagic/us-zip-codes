@@ -1,6 +1,8 @@
-zip_code = "22432"
-state = "VA"
 city = "Burgess"
 county = "Northumberland"
-longitude = -76.345493
 latitude = 37.837435
+longitude = -76.345493
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22432"
+

@@ -1,6 +1,8 @@
-zip_code = "31040"
-state = "GA"
 city = "Dublin"
 county = "Laurens"
-longitude = -82.914974
 latitude = 32.540073
+longitude = -82.914974
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31040"
+

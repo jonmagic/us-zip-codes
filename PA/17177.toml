@@ -1,6 +1,8 @@
-zip_code = "17177"
-state = "PA"
 city = "Harrisburg"
 county = "Dauphin"
-longitude = -76.847194
 latitude = 40.298988
+longitude = -76.847194
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17177"
+

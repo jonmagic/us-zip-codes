@@ -1,6 +1,8 @@
-zip_code = "31904"
-state = "GA"
 city = "Columbus"
 county = "Muscogee"
-longitude = -84.99698
 latitude = 32.534374
+longitude = -84.99698
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31904"
+

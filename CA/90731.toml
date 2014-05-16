@@ -1,6 +1,8 @@
-zip_code = "90731"
-state = "CA"
 city = "San Pedro"
 county = "Los Angeles"
-longitude = -118.253053
 latitude = 33.753088
+longitude = -118.253053
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90731"
+

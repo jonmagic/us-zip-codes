@@ -1,6 +1,8 @@
-zip_code = "80733"
-state = "CO"
 city = "Hillrose"
 county = "Morgan"
-longitude = -103.505721
 latitude = 40.345863
+longitude = -103.505721
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80733"
+

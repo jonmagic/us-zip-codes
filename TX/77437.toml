@@ -1,6 +1,8 @@
-zip_code = "77437"
-state = "TX"
 city = "El Campo"
 county = "Wharton"
-longitude = -96.234361
 latitude = 29.322527
+longitude = -96.234361
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77437"
+

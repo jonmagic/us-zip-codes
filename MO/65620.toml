@@ -1,6 +1,8 @@
-zip_code = "65620"
-state = "MO"
 city = "Bruner"
 county = "Christian"
-longitude = -92.951702
 latitude = 37.011657
+longitude = -92.951702
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65620"
+

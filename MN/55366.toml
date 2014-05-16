@@ -1,6 +1,8 @@
-zip_code = "55366"
-state = "MN"
 city = "New Auburn"
 county = "Sibley"
-longitude = -94.229311
 latitude = 44.673454
+longitude = -94.229311
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55366"
+

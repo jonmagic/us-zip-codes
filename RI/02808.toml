@@ -1,6 +1,8 @@
-zip_code = "02808"
-state = "RI"
 city = "Bradford"
 county = "Washington"
-longitude = -71.761665
 latitude = 41.403784
+longitude = -71.761665
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02808"
+

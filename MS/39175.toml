@@ -1,6 +1,8 @@
-zip_code = "39175"
-state = "MS"
 city = "Utica"
 county = "Hinds"
-longitude = -90.4372
 latitude = 32.22149
+longitude = -90.4372
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39175"
+

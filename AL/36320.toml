@@ -1,6 +1,8 @@
-zip_code = "36320"
-state = "AL"
 city = "Cottonwood"
 county = "Houston"
-longitude = -85.314295
 latitude = 31.099623
+longitude = -85.314295
+state = ""
+state_code_alpha2 = ""
+zip_code = "36320"
+

@@ -1,6 +1,8 @@
-zip_code = "38574"
-state = "TN"
 city = "Monterey"
 county = "Putnam"
-longitude = -85.234938
 latitude = 36.117716
+longitude = -85.234938
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38574"
+

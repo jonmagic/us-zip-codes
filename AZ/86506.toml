@@ -1,6 +1,8 @@
-zip_code = "86506"
-state = "AZ"
 city = "Houck"
 county = "Apache"
-longitude = -109.247759
 latitude = 35.337124
+longitude = -109.247759
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86506"
+

@@ -1,6 +1,8 @@
-zip_code = "38310"
-state = "TN"
 city = "Adamsville"
 county = "Mcnairy"
-longitude = -88.447528
 latitude = 35.271057
+longitude = -88.447528
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38310"
+

@@ -1,6 +1,8 @@
-zip_code = "14872"
-state = "NY"
 city = "Pine Valley"
 county = "Chemung"
-longitude = -76.875072
 latitude = 42.240529
+longitude = -76.875072
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14872"
+

@@ -1,6 +1,8 @@
-zip_code = "45110"
-state = "OH"
 city = "Buford"
 county = "Highland"
-longitude = -83.848414
 latitude = 39.074262
+longitude = -83.848414
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45110"
+

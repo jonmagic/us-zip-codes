@@ -1,6 +1,8 @@
-zip_code = "49917"
-state = "MI"
 city = "Copper City"
 county = "Houghton"
-longitude = -88.387535
 latitude = 47.284183
+longitude = -88.387535
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49917"
+

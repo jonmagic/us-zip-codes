@@ -1,6 +1,8 @@
-zip_code = "22572"
-state = "VA"
 city = "Warsaw"
 county = "Richmond"
-longitude = -76.766517
 latitude = 37.96954
+longitude = -76.766517
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22572"
+

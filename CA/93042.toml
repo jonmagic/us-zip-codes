@@ -1,6 +1,8 @@
-zip_code = "93042"
-state = "CA"
 city = "Point Mugu Nawc"
 county = "Ventura"
-longitude = -119.112432
 latitude = 34.113389
+longitude = -119.112432
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93042"
+

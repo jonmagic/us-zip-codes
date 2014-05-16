@@ -1,6 +1,8 @@
-zip_code = "22534"
-state = "VA"
 city = "Partlow"
 county = "Spotsylvania"
-longitude = -77.666948
 latitude = 38.08462
+longitude = -77.666948
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22534"
+

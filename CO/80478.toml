@@ -1,6 +1,8 @@
-zip_code = "80478"
-state = "CO"
 city = "Tabernash"
 county = "Grand"
-longitude = -105.86148
 latitude = 39.979743
+longitude = -105.86148
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80478"
+

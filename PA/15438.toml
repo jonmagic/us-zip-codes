@@ -1,6 +1,8 @@
-zip_code = "15438"
-state = "PA"
 city = "Fayette City"
 county = "Fayette"
-longitude = -79.844514
 latitude = 40.066729
+longitude = -79.844514
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15438"
+

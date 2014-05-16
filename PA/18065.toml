@@ -1,6 +1,8 @@
-zip_code = "18065"
-state = "PA"
 city = "Neffs"
 county = "Lehigh"
-longitude = -75.611647
 latitude = 40.696738
+longitude = -75.611647
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18065"
+

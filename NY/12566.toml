@@ -1,6 +1,8 @@
-zip_code = "12566"
-state = "NY"
 city = "Pine Bush"
 county = "Orange"
-longitude = -74.219343
 latitude = 41.405485
+longitude = -74.219343
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12566"
+

@@ -1,6 +1,8 @@
-zip_code = "54977"
-state = "WI"
 city = "Scandinavia"
 county = "Waupaca"
-longitude = -89.146915
 latitude = 44.451051
+longitude = -89.146915
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54977"
+

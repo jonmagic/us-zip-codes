@@ -1,6 +1,8 @@
-zip_code = "63944"
-state = "MO"
 city = "Greenville"
 county = "Wayne"
-longitude = -90.450586
 latitude = 37.126875
+longitude = -90.450586
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63944"
+

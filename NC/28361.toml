@@ -1,6 +1,8 @@
-zip_code = "28361"
-state = "NC"
 city = "Mccain"
 county = "Hoke"
-longitude = -79.246841
 latitude = 35.02363
+longitude = -79.246841
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28361"
+

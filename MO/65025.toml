@@ -1,6 +1,8 @@
-zip_code = "65025"
-state = "MO"
 city = "Clarksburg"
 county = "Moniteau"
-longitude = -92.584502
 latitude = 38.635322
+longitude = -92.584502
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65025"
+

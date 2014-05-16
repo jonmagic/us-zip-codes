@@ -1,6 +1,8 @@
-zip_code = "08050"
-state = "NJ"
 city = "Manahawkin"
 county = "Ocean"
-longitude = -74.257677
 latitude = 39.702978
+longitude = -74.257677
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08050"
+

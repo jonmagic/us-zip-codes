@@ -1,6 +1,8 @@
-zip_code = "31756"
-state = "GA"
 city = "Hartsfield"
 county = "Colquitt"
-longitude = -83.945527
 latitude = 31.200827
+longitude = -83.945527
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31756"
+

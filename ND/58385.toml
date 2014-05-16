@@ -1,6 +1,8 @@
-zip_code = "58385"
-state = "ND"
 city = "Wolford"
 county = "Pierce"
-longitude = -99.645681
 latitude = 48.465282
+longitude = -99.645681
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58385"
+

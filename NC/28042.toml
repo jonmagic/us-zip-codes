@@ -1,6 +1,8 @@
-zip_code = "28042"
-state = "NC"
 city = "Fallston"
 county = "Cleveland"
-longitude = -81.543706
 latitude = 35.373884
+longitude = -81.543706
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28042"
+

@@ -1,6 +1,8 @@
-zip_code = "71060"
-state = "LA"
 city = "Mooringsport"
 county = "Caddo"
-longitude = -93.976775
 latitude = 32.594798
+longitude = -93.976775
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71060"
+

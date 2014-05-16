@@ -1,6 +1,8 @@
-zip_code = "49336"
-state = "MI"
 city = "Morley"
 county = "Mecosta"
-longitude = -85.423262
 latitude = 43.52199
+longitude = -85.423262
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49336"
+

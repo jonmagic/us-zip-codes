@@ -1,6 +1,8 @@
-zip_code = "59925"
-state = "MT"
 city = "Marion"
 county = "Flathead"
-longitude = -114.727422
 latitude = 48.09368
+longitude = -114.727422
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59925"
+

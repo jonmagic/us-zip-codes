@@ -1,6 +1,8 @@
-zip_code = "31797"
-state = "GA"
 city = "Whigham"
 county = "Grady"
-longitude = -84.311493
 latitude = 30.901959
+longitude = -84.311493
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31797"
+

@@ -1,6 +1,8 @@
-zip_code = "28460"
-state = "NC"
 city = "Sneads Ferry"
 county = "Onslow"
-longitude = -77.426164
 latitude = 34.60694
+longitude = -77.426164
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28460"
+

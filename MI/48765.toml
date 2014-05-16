@@ -1,6 +1,8 @@
-zip_code = "48765"
-state = "MI"
 city = "Turner"
 county = "Arenac"
-longitude = -83.701888
 latitude = 44.110526
+longitude = -83.701888
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48765"
+

@@ -1,6 +1,8 @@
-zip_code = "36473"
-state = "AL"
 city = "Range"
 county = "Conecuh"
-longitude = -87.044687
 latitude = 31.466945
+longitude = -87.044687
+state = ""
+state_code_alpha2 = ""
+zip_code = "36473"
+

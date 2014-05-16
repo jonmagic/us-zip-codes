@@ -1,6 +1,8 @@
-zip_code = "02914"
-state = "RI"
 city = "East Providence"
 county = "Providence"
-longitude = -71.363348
 latitude = 41.813429
+longitude = -71.363348
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02914"
+

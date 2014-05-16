@@ -1,6 +1,8 @@
-zip_code = "54547"
-state = "WI"
 city = "Mercer"
 county = "Iron"
-longitude = -90.110725
 latitude = 46.143746
+longitude = -90.110725
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54547"
+

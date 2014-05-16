@@ -1,6 +1,8 @@
-zip_code = "94931"
-state = "CA"
 city = "Cotati"
 county = "Sonoma"
-longitude = -122.710565
 latitude = 38.323614
+longitude = -122.710565
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94931"
+

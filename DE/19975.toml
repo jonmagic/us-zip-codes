@@ -1,6 +1,8 @@
-zip_code = "19975"
-state = "DE"
 city = "Selbyville"
 county = "Sussex"
-longitude = -75.330307
 latitude = 38.550784
+longitude = -75.330307
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19975"
+

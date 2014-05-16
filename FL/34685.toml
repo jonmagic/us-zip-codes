@@ -1,6 +1,8 @@
-zip_code = "34685"
-state = "FL"
 city = "Palm Harbor"
 county = "Pinellas"
-longitude = -82.692882
 latitude = 28.109717
+longitude = -82.692882
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34685"
+

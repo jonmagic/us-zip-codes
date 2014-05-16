@@ -1,6 +1,8 @@
-zip_code = "75135"
-state = "TX"
 city = "Caddo Mills"
 county = "Hunt"
-longitude = -96.219803
 latitude = 33.076823
+longitude = -96.219803
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75135"
+

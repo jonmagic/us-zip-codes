@@ -1,6 +1,8 @@
-zip_code = "11430"
-state = "NY"
 city = "Jamaica"
 county = "Queens"
-longitude = -73.797769
 latitude = 40.655246
+longitude = -73.797769
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11430"
+

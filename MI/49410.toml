@@ -1,6 +1,8 @@
-zip_code = "49410"
-state = "MI"
 city = "Fountain"
 county = "Mason"
-longitude = -86.142483
 latitude = 44.030126
+longitude = -86.142483
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49410"
+

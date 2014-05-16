@@ -1,6 +1,8 @@
-zip_code = "28715"
-state = "NC"
 city = "Candler"
 county = "Buncombe"
-longitude = -82.529962
 latitude = 35.535096
+longitude = -82.529962
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28715"
+

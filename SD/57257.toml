@@ -1,6 +1,8 @@
-zip_code = "57257"
-state = "SD"
 city = "Peever"
 county = "Roberts"
-longitude = -96.951675
 latitude = 45.542151
+longitude = -96.951675
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57257"
+

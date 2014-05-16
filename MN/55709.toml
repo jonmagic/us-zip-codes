@@ -1,6 +1,8 @@
-zip_code = "55709"
-state = "MN"
 city = "Bovey"
 county = "Itasca"
-longitude = -93.388826
 latitude = 47.347269
+longitude = -93.388826
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55709"
+

@@ -1,6 +1,8 @@
-zip_code = "50582"
-state = "IA"
 city = "Rutland"
 county = "Humboldt"
-longitude = -94.305614
 latitude = 42.79315
+longitude = -94.305614
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50582"
+

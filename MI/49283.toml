@@ -1,6 +1,8 @@
-zip_code = "49283"
-state = "MI"
 city = "Spring Arbor"
 county = "Jackson"
-longitude = -84.605612
 latitude = 42.272863
+longitude = -84.605612
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49283"
+

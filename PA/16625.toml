@@ -1,6 +1,8 @@
-zip_code = "16625"
-state = "PA"
 city = "Claysburg"
 county = "Blair"
-longitude = -78.46266
 latitude = 40.354932
+longitude = -78.46266
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16625"
+

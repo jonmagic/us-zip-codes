@@ -1,6 +1,8 @@
-zip_code = "84315"
-state = "UT"
 city = "Hooper"
 county = "Weber"
-longitude = -112.103475
 latitude = 41.182343
+longitude = -112.103475
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84315"
+

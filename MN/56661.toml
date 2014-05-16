@@ -1,6 +1,8 @@
-zip_code = "56661"
-state = "MN"
 city = "Northome"
 county = "Koochiching"
-longitude = -94.097415
 latitude = 47.919215
+longitude = -94.097415
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56661"
+

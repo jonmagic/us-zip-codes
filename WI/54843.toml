@@ -1,6 +1,8 @@
-zip_code = "54843"
-state = "WI"
 city = "Hayward"
 county = "Sawyer"
-longitude = -91.278308
 latitude = 45.955223
+longitude = -91.278308
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54843"
+

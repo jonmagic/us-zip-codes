@@ -1,6 +1,8 @@
-zip_code = "73946"
-state = "OK"
 city = "Kenton"
 county = "Cimarron"
-longitude = -102.965301
 latitude = 36.903144
+longitude = -102.965301
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73946"
+

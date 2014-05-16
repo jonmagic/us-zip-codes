@@ -1,6 +1,8 @@
-zip_code = "05482"
-state = "VT"
 city = "Shelburne"
 county = "Chittenden"
-longitude = -73.114047
 latitude = 44.42493
+longitude = -73.114047
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05482"
+

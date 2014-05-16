@@ -1,6 +1,8 @@
-zip_code = "81087"
-state = "CO"
 city = "Vilas"
 county = "Baca"
-longitude = -102.491522
 latitude = 37.33995
+longitude = -102.491522
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81087"
+

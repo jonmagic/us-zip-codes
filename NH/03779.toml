@@ -1,6 +1,8 @@
-zip_code = "03779"
-state = "NH"
 city = "Piermont"
 county = "Grafton"
-longitude = -72.062132
 latitude = 43.948343
+longitude = -72.062132
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03779"
+

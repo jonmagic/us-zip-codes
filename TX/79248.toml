@@ -1,6 +1,8 @@
-zip_code = "79248"
-state = "TX"
 city = "Paducah"
 county = "Cottle"
-longitude = -100.298633
 latitude = 34.02174
+longitude = -100.298633
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79248"
+

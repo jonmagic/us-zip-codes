@@ -1,6 +1,8 @@
-zip_code = "48330"
-state = "MI"
 city = "Drayton Plains"
 county = "Oakland"
-longitude = -83.363697
 latitude = 42.675435
+longitude = -83.363697
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48330"
+

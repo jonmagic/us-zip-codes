@@ -1,6 +1,8 @@
-zip_code = "83638"
-state = "ID"
 city = "Mccall"
 county = "Valley"
-longitude = -116.057987
 latitude = 44.75196
+longitude = -116.057987
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83638"
+

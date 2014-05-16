@@ -1,6 +1,8 @@
-zip_code = "76533"
-state = "TX"
 city = "Heidenheimer"
 county = "Bell"
-longitude = -97.493616
 latitude = 31.049621
+longitude = -97.493616
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76533"
+

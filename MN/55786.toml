@@ -1,6 +1,8 @@
-zip_code = "55786"
-state = "MN"
 city = "Taconite"
 county = "Itasca"
-longitude = -93.342118
 latitude = 47.316395
+longitude = -93.342118
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55786"
+

@@ -1,6 +1,8 @@
-zip_code = "69162"
-state = "NE"
 city = "Sidney"
 county = "Cheyenne"
-longitude = -103.066015
 latitude = 41.161943
+longitude = -103.066015
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69162"
+

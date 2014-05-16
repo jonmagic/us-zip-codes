@@ -1,6 +1,8 @@
-zip_code = "78881"
-state = "TX"
 city = "Sabinal"
 county = "Uvalde"
-longitude = -99.468886
 latitude = 29.321387
+longitude = -99.468886
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78881"
+

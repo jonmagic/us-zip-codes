@@ -1,6 +1,8 @@
-zip_code = "05464"
-state = "VT"
 city = "Jeffersonville"
 county = "Lamoille"
-longitude = -72.82199
 latitude = 44.638789
+longitude = -72.82199
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05464"
+

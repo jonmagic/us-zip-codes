@@ -1,6 +1,8 @@
-zip_code = "51562"
-state = "IA"
 city = "Panama"
 county = "Shelby"
-longitude = -95.492423
 latitude = 41.701435
+longitude = -95.492423
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51562"
+

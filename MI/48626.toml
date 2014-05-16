@@ -1,6 +1,8 @@
-zip_code = "48626"
-state = "MI"
 city = "Hemlock"
 county = "Saginaw"
-longitude = -84.230091
 latitude = 43.428523
+longitude = -84.230091
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48626"
+

@@ -1,6 +1,8 @@
-zip_code = "64628"
-state = "MO"
 city = "Brookfield"
 county = "Linn"
-longitude = -93.116
 latitude = 39.822644
+longitude = -93.116
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64628"
+

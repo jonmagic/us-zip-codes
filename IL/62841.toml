@@ -1,6 +1,8 @@
-zip_code = "62841"
-state = "IL"
 city = "Freeman Spur"
 county = "Williamson"
-longitude = -89.009201
 latitude = 37.80308
+longitude = -89.009201
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62841"
+

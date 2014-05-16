@@ -1,6 +1,8 @@
-zip_code = "48080"
-state = "MI"
 city = "Saint Clair Shores"
 county = "Macomb"
-longitude = -82.902194
 latitude = 42.470639
+longitude = -82.902194
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48080"
+

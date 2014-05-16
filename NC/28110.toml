@@ -1,6 +1,8 @@
-zip_code = "28110"
-state = "NC"
 city = "Monroe"
 county = "Union"
-longitude = -80.527827
 latitude = 35.074176
+longitude = -80.527827
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28110"
+

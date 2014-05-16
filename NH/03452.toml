@@ -1,6 +1,8 @@
-zip_code = "03452"
-state = "NH"
 city = "Jaffrey"
 county = "Cheshire"
-longitude = -72.082559
 latitude = 42.821969
+longitude = -72.082559
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03452"
+

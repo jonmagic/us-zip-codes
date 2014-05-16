@@ -1,6 +1,8 @@
-zip_code = "79464"
-state = "TX"
 city = "Lubbock"
 county = "Lubbock"
-longitude = -102.010895
 latitude = 33.489623
+longitude = -102.010895
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79464"
+

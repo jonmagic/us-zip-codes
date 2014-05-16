@@ -1,6 +1,8 @@
-zip_code = "60911"
-state = "IL"
 city = "Ashkum"
 county = "Iroquois"
-longitude = -87.973929
 latitude = 40.876259
+longitude = -87.973929
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60911"
+

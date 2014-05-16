@@ -1,6 +1,8 @@
-zip_code = "78940"
-state = "TX"
 city = "Fayetteville"
 county = "Fayette"
-longitude = -96.845436
 latitude = 29.859063
+longitude = -96.845436
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78940"
+

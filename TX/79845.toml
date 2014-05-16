@@ -1,6 +1,8 @@
-zip_code = "79845"
-state = "TX"
 city = "Presidio"
 county = "Presidio"
-longitude = -104.372626
 latitude = 29.572128
+longitude = -104.372626
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79845"
+

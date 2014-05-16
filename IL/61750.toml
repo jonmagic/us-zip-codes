@@ -1,6 +1,8 @@
-zip_code = "61750"
-state = "IL"
 city = "Lane"
 county = "Dewitt"
-longitude = -88.841501
 latitude = 40.098291
+longitude = -88.841501
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61750"
+

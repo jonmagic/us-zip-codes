@@ -1,6 +1,8 @@
-zip_code = "77362"
-state = "TX"
 city = "Pinehurst"
 county = "Montgomery"
-longitude = -95.692288
 latitude = 30.179187
+longitude = -95.692288
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77362"
+

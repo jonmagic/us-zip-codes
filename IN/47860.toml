@@ -1,6 +1,8 @@
-zip_code = "47860"
-state = "IN"
 city = "Mecca"
 county = "Parke"
-longitude = -87.221819
 latitude = 39.779078
+longitude = -87.221819
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47860"
+

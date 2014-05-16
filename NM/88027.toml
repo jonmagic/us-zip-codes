@@ -1,6 +1,8 @@
-zip_code = "88027"
-state = "NM"
 city = "Chamberino"
 county = "Dona Ana"
-longitude = -106.66731
 latitude = 32.017438
+longitude = -106.66731
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88027"
+

@@ -1,6 +1,8 @@
-zip_code = "42133"
-state = "KY"
 city = "Fountain Run"
 county = "Monroe"
-longitude = -85.846991
 latitude = 36.726089
+longitude = -85.846991
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42133"
+

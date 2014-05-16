@@ -1,6 +1,8 @@
-zip_code = "25502"
-state = "WV"
 city = "Apple Grove"
 county = "Mason"
-longitude = -82.10679
 latitude = 38.657528
+longitude = -82.10679
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25502"
+

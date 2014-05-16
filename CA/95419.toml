@@ -1,6 +1,8 @@
-zip_code = "95419"
-state = "CA"
 city = "Camp Meeker"
 county = "Sonoma"
-longitude = -122.959401
 latitude = 38.417883
+longitude = -122.959401
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95419"
+

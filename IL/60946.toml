@@ -1,6 +1,8 @@
-zip_code = "60946"
-state = "IL"
 city = "Kempton"
 county = "Ford"
-longitude = -88.186897
 latitude = 40.897321
+longitude = -88.186897
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60946"
+

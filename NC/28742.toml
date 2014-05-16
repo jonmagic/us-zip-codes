@@ -1,6 +1,8 @@
-zip_code = "28742"
-state = "NC"
 city = "Horse Shoe"
 county = "Henderson"
-longitude = -82.524772
 latitude = 35.333332
+longitude = -82.524772
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28742"
+

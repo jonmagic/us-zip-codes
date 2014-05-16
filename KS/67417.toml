@@ -1,6 +1,8 @@
-zip_code = "67417"
-state = "KS"
 city = "Aurora"
 county = "Cloud"
-longitude = -97.529562
 latitude = 39.45212
+longitude = -97.529562
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67417"
+

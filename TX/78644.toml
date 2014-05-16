@@ -1,6 +1,8 @@
-zip_code = "78644"
-state = "TX"
 city = "Lockhart"
 county = "Caldwell"
-longitude = -97.630472
 latitude = 29.875405
+longitude = -97.630472
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78644"
+

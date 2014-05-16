@@ -1,6 +1,8 @@
-zip_code = "64454"
-state = "MO"
 city = "Gower"
 county = "Clinton"
-longitude = -94.552925
 latitude = 39.640606
+longitude = -94.552925
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64454"
+

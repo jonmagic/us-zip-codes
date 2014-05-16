@@ -1,6 +1,8 @@
-zip_code = "70442"
-state = "LA"
 city = "Husser"
 county = "Tangipahoa"
-longitude = -90.438581
 latitude = 30.655912
+longitude = -90.438581
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70442"
+

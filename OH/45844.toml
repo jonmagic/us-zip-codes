@@ -1,6 +1,8 @@
-zip_code = "45844"
-state = "OH"
 city = "Fort Jennings"
 county = "Putnam"
-longitude = -84.295652
 latitude = 40.922538
+longitude = -84.295652
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45844"
+

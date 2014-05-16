@@ -1,6 +1,8 @@
-zip_code = "22501"
-state = "VA"
 city = "Ladysmith"
 county = "Caroline"
-longitude = -77.559298
 latitude = 38.015899
+longitude = -77.559298
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22501"
+

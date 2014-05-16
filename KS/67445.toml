@@ -1,6 +1,8 @@
-zip_code = "67445"
-state = "KS"
 city = "Glasco"
 county = "Cloud"
-longitude = -97.83825
 latitude = 39.36117
+longitude = -97.83825
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67445"
+

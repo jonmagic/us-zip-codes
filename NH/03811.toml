@@ -1,6 +1,8 @@
-zip_code = "03811"
-state = "NH"
 city = "Atkinson"
 county = "Rockingham"
-longitude = -71.159035
 latitude = 42.878366
+longitude = -71.159035
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03811"
+

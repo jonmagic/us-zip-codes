@@ -1,6 +1,8 @@
-zip_code = "42216"
-state = "KY"
 city = "Clifty"
 county = "Todd"
-longitude = -87.152148
 latitude = 37.004492
+longitude = -87.152148
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42216"
+

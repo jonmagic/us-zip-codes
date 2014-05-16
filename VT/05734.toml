@@ -1,6 +1,8 @@
-zip_code = "05734"
-state = "VT"
 city = "Bridport"
 county = "Addison"
-longitude = -73.331483
 latitude = 43.982512
+longitude = -73.331483
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05734"
+

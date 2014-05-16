@@ -1,6 +1,8 @@
-zip_code = "29714"
-state = "SC"
 city = "Fort Lawn"
 county = "Chester"
-longitude = -80.943356
 latitude = 34.696331
+longitude = -80.943356
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29714"
+

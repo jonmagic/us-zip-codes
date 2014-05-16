@@ -1,6 +1,8 @@
-zip_code = "51340"
-state = "IA"
 city = "Fostoria"
 county = "Clay"
-longitude = -95.151095
 latitude = 43.082426
+longitude = -95.151095
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51340"
+

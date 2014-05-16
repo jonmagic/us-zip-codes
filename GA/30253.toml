@@ -1,6 +1,8 @@
-zip_code = "30253"
-state = "GA"
 city = "Mcdonough"
 county = "Henry"
-longitude = -84.154412
 latitude = 33.451043
+longitude = -84.154412
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30253"
+

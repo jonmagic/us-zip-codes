@@ -1,6 +1,8 @@
-zip_code = "40754"
-state = "KY"
 city = "Nevisdale"
 county = "Whitley"
-longitude = -84.11678
 latitude = 36.780333
+longitude = -84.11678
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40754"
+

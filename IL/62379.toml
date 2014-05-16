@@ -1,6 +1,8 @@
-zip_code = "62379"
-state = "IL"
 city = "Warsaw"
 county = "Hancock"
-longitude = -91.198818
 latitude = 40.297801
+longitude = -91.198818
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62379"
+

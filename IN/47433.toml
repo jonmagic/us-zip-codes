@@ -1,6 +1,8 @@
-zip_code = "47433"
-state = "IN"
 city = "Gosport"
 county = "Owen"
-longitude = -86.701332
 latitude = 39.346964
+longitude = -86.701332
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47433"
+

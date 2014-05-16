@@ -1,6 +1,8 @@
-zip_code = "58563"
-state = "ND"
 city = "New Salem"
 county = "Morton"
-longitude = -101.429122
 latitude = 46.805999
+longitude = -101.429122
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58563"
+

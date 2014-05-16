@@ -1,6 +1,8 @@
-zip_code = "47016"
-state = "IN"
 city = "Cedar Grove"
 county = "Franklin"
-longitude = -84.910391
 latitude = 39.367379
+longitude = -84.910391
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47016"
+

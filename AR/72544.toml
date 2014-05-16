@@ -1,6 +1,8 @@
-zip_code = "72544"
-state = "AR"
 city = "Henderson"
 county = "Baxter"
-longitude = -92.195113
 latitude = 36.410457
+longitude = -92.195113
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72544"
+

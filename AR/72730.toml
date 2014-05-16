@@ -1,6 +1,8 @@
-zip_code = "72730"
-state = "AR"
 city = "Farmington"
 county = "Washington"
-longitude = -94.209785
 latitude = 36.081641
+longitude = -94.209785
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72730"
+

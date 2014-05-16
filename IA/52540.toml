@@ -1,6 +1,8 @@
-zip_code = "52540"
-state = "IA"
 city = "Brighton"
 county = "Washington"
-longitude = -91.845034
 latitude = 41.211747
+longitude = -91.845034
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52540"
+

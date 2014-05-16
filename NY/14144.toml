@@ -1,6 +1,8 @@
-zip_code = "14144"
-state = "NY"
 city = "Stella Niagara"
 county = "Niagara"
-longitude = -79.042477
 latitude = 43.199494
+longitude = -79.042477
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14144"
+

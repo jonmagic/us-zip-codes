@@ -1,6 +1,8 @@
-zip_code = "02345"
-state = "MA"
 city = "Manomet"
 county = "Plymouth"
-longitude = -70.581029
 latitude = 41.888198
+longitude = -70.581029
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02345"
+

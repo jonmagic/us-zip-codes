@@ -1,6 +1,8 @@
-zip_code = "15961"
-state = "PA"
 city = "Vintondale"
 county = "Cambria"
-longitude = -78.924998
 latitude = 40.437721
+longitude = -78.924998
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15961"
+

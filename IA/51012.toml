@@ -1,6 +1,8 @@
-zip_code = "51012"
-state = "IA"
 city = "Cherokee"
 county = "Cherokee"
-longitude = -95.574297
 latitude = 42.721535
+longitude = -95.574297
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51012"
+

@@ -1,6 +1,8 @@
-zip_code = "18840"
-state = "PA"
 city = "Sayre"
 county = "Bradford"
-longitude = -76.599403
 latitude = 41.97819
+longitude = -76.599403
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18840"
+

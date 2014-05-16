@@ -1,6 +1,8 @@
-zip_code = "45652"
-state = "OH"
 city = "Mc Dermott"
 county = "Scioto"
-longitude = -83.135398
 latitude = 38.852654
+longitude = -83.135398
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45652"
+

@@ -1,6 +1,8 @@
-zip_code = "73092"
-state = "OK"
 city = "Verden"
 county = "Grady"
-longitude = -98.087971
 latitude = 35.081997
+longitude = -98.087971
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73092"
+

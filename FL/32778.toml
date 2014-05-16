@@ -1,6 +1,8 @@
-zip_code = "32778"
-state = "FL"
 city = "Tavares"
 county = "Lake"
-longitude = -81.725272
 latitude = 28.767762
+longitude = -81.725272
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32778"
+

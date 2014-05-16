@@ -1,6 +1,8 @@
-zip_code = "54444"
-state = "WI"
 city = "Kempster"
 county = "Langlade"
-longitude = -89.032136
 latitude = 45.249382
+longitude = -89.032136
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54444"
+

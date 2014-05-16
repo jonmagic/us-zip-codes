@@ -1,6 +1,8 @@
-zip_code = "59936"
-state = "MT"
 city = "West Glacier"
 county = "Flathead"
-longitude = -114.062198
 latitude = 48.432962
+longitude = -114.062198
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59936"
+

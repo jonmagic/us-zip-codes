@@ -1,6 +1,8 @@
-zip_code = "04353"
-state = "ME"
 city = "Whitefield"
 county = "Lincoln"
-longitude = -69.575119
 latitude = 44.188406
+longitude = -69.575119
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04353"
+

@@ -1,6 +1,8 @@
-zip_code = "67643"
-state = "KS"
 city = "Jennings"
 county = "Decatur"
-longitude = -100.294812
 latitude = 39.679281
+longitude = -100.294812
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67643"
+

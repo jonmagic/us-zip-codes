@@ -1,6 +1,8 @@
-zip_code = "65675"
-state = "MO"
 city = "Hurley"
 county = "Stone"
-longitude = -93.496491
 latitude = 36.930494
+longitude = -93.496491
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65675"
+

@@ -1,6 +1,8 @@
-zip_code = "01253"
-state = "MA"
 city = "Otis"
 county = "Berkshire"
-longitude = -73.090434
 latitude = 42.213156
+longitude = -73.090434
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01253"
+

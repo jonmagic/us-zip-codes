@@ -1,6 +1,8 @@
-zip_code = "37150"
-state = "TN"
 city = "Red Boiling Springs"
 county = "Macon"
-longitude = -85.866182
 latitude = 36.517717
+longitude = -85.866182
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37150"
+

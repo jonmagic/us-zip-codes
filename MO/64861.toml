@@ -1,6 +1,8 @@
-zip_code = "64861"
-state = "MO"
 city = "Rocky Comfort"
 county = "Mcdonald"
-longitude = -94.342802
 latitude = 36.632573
+longitude = -94.342802
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64861"
+

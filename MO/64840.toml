@@ -1,6 +1,8 @@
-zip_code = "64840"
-state = "MO"
 city = "Diamond"
 county = "Newton"
-longitude = -94.248796
 latitude = 36.930776
+longitude = -94.248796
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64840"
+

@@ -1,6 +1,8 @@
-zip_code = "60955"
-state = "IL"
 city = "Onarga"
 county = "Iroquois"
-longitude = -87.852046
 latitude = 40.758445
+longitude = -87.852046
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60955"
+

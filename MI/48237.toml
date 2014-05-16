@@ -1,6 +1,8 @@
-zip_code = "48237"
-state = "MI"
 city = "Oak Park"
 county = "Oakland"
-longitude = -83.178177
 latitude = 42.466585
+longitude = -83.178177
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48237"
+

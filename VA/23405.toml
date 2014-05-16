@@ -1,6 +1,8 @@
-zip_code = "23405"
-state = "VA"
 city = "Machipongo"
 county = "Northampton"
-longitude = -75.92133
 latitude = 37.413281
+longitude = -75.92133
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23405"
+

@@ -1,6 +1,8 @@
-zip_code = "08001"
-state = "NJ"
 city = "Alloway"
 county = "Salem"
-longitude = -75.350573
 latitude = 39.559077
+longitude = -75.350573
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08001"
+

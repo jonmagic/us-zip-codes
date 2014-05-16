@@ -1,6 +1,8 @@
-zip_code = "97068"
-state = "OR"
 city = "West Linn"
 county = "Clackamas"
-longitude = -122.664926
 latitude = 45.343615
+longitude = -122.664926
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97068"
+

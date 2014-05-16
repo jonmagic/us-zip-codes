@@ -1,6 +1,8 @@
-zip_code = "15689"
-state = "PA"
 city = "United"
 county = "Westmoreland"
-longitude = -79.439801
 latitude = 40.360223
+longitude = -79.439801
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15689"
+

@@ -1,6 +1,8 @@
-zip_code = "26332"
-state = "WV"
 city = "Bristol"
 county = "Harrison"
-longitude = -80.385344
 latitude = 39.285204
+longitude = -80.385344
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26332"
+

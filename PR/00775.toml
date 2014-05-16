@@ -1,6 +1,8 @@
-zip_code = "00775"
-state = "PR"
 city = "Culebra"
 county = "Culebra"
-longitude = -65.296467
 latitude = 18.323736
+longitude = -65.296467
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00775"
+

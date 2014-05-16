@@ -1,6 +1,8 @@
-zip_code = "56734"
-state = "MN"
 city = "Lake Bronson"
 county = "Kittson"
-longitude = -96.812921
 latitude = 48.771938
+longitude = -96.812921
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56734"
+

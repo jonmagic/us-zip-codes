@@ -1,6 +1,8 @@
-zip_code = "04937"
-state = "ME"
 city = "Fairfield"
 county = "Somerset"
-longitude = -69.680158
 latitude = 44.646261
+longitude = -69.680158
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04937"
+

@@ -1,6 +1,8 @@
-zip_code = "86053"
-state = "AZ"
 city = "Kaibito"
 county = "Coconino"
-longitude = -111.451826
 latitude = 36.910554
+longitude = -111.451826
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86053"
+

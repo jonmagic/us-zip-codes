@@ -1,6 +1,8 @@
-zip_code = "69026"
-state = "NE"
 city = "Danbury"
 county = "Red Willow"
-longitude = -100.476977
 latitude = 40.176507
+longitude = -100.476977
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69026"
+

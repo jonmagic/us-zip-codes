@@ -1,6 +1,8 @@
-zip_code = "27892"
-state = "NC"
 city = "Williamston"
 county = "Martin"
-longitude = -77.102193
 latitude = 35.821205
+longitude = -77.102193
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27892"
+

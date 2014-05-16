@@ -1,6 +1,8 @@
-zip_code = "29627"
-state = "SC"
 city = "Belton"
 county = "Anderson"
-longitude = -82.569083
 latitude = 34.492422
+longitude = -82.569083
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29627"
+

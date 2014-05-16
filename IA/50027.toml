@@ -1,6 +1,8 @@
-zip_code = "50027"
-state = "IA"
 city = "Barnes City"
 county = "Mahaska"
-longitude = -92.487177
 latitude = 41.46974
+longitude = -92.487177
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50027"
+

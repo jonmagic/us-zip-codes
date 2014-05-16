@@ -1,6 +1,8 @@
-zip_code = "28649"
-state = "NC"
 city = "Mc Grady"
 county = "Wilkes"
-longitude = -81.200766
 latitude = 36.307698
+longitude = -81.200766
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28649"
+

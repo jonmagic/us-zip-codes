@@ -1,6 +1,8 @@
-zip_code = "22845"
-state = "VA"
 city = "Orkney Springs"
 county = "Shenandoah"
-longitude = -78.81029
 latitude = 38.799978
+longitude = -78.81029
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22845"
+

@@ -1,6 +1,8 @@
-zip_code = "77364"
-state = "TX"
 city = "Pointblank"
 county = "San Jacinto"
-longitude = -95.218676
 latitude = 30.755812
+longitude = -95.218676
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77364"
+

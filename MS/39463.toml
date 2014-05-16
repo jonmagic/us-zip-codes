@@ -1,6 +1,8 @@
-zip_code = "39463"
-state = "MS"
 city = "Nicholson"
 county = "Pearl River"
-longitude = -89.557751
 latitude = 30.563724
+longitude = -89.557751
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39463"
+

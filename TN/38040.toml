@@ -1,6 +1,8 @@
-zip_code = "38040"
-state = "TN"
 city = "Halls"
 county = "Lauderdale"
-longitude = -89.531217
 latitude = 35.840794
+longitude = -89.531217
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38040"
+

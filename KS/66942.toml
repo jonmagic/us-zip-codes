@@ -1,6 +1,8 @@
-zip_code = "66942"
-state = "KS"
 city = "Formoso"
 county = "Jewell"
-longitude = -97.993161
 latitude = 39.778286
+longitude = -97.993161
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66942"
+

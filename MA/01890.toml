@@ -1,6 +1,8 @@
-zip_code = "01890"
-state = "MA"
 city = "Winchester"
 county = "Middlesex"
-longitude = -71.148779
 latitude = 42.454545
+longitude = -71.148779
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01890"
+

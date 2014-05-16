@@ -1,6 +1,8 @@
-zip_code = "58645"
-state = "ND"
 city = "Medora"
 county = "Billings"
-longitude = -103.349989
 latitude = 46.979437
+longitude = -103.349989
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58645"
+

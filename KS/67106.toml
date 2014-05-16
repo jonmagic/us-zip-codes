@@ -1,6 +1,8 @@
-zip_code = "67106"
-state = "KS"
 city = "Milton"
 county = "Sumner"
-longitude = -97.742966
 latitude = 37.430408
+longitude = -97.742966
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67106"
+

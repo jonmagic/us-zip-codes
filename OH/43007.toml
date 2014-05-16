@@ -1,6 +1,8 @@
-zip_code = "43007"
-state = "OH"
 city = "Broadway"
 county = "Union"
-longitude = -83.416306
 latitude = 40.340633
+longitude = -83.416306
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43007"
+

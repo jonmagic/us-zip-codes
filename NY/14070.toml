@@ -1,6 +1,8 @@
-zip_code = "14070"
-state = "NY"
 city = "Gowanda"
 county = "Cattaraugus"
-longitude = -78.954628
 latitude = 42.41994
+longitude = -78.954628
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14070"
+

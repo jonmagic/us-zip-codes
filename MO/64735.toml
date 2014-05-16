@@ -1,6 +1,8 @@
-zip_code = "64735"
-state = "MO"
 city = "Clinton"
 county = "Henry"
-longitude = -93.785012
 latitude = 38.401811
+longitude = -93.785012
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64735"
+

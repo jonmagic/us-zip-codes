@@ -1,6 +1,8 @@
-zip_code = "29706"
-state = "SC"
 city = "Chester"
 county = "Chester"
-longitude = -81.168022
 latitude = 34.693285
+longitude = -81.168022
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29706"
+

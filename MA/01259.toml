@@ -1,6 +1,8 @@
-zip_code = "01259"
-state = "MA"
 city = "Southfield"
 county = "Berkshire"
-longitude = -73.278543
 latitude = 42.198712
+longitude = -73.278543
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01259"
+

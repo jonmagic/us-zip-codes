@@ -1,6 +1,8 @@
-zip_code = "77597"
-state = "TX"
 city = "Wallisville"
 county = "Chambers"
-longitude = -94.682325
 latitude = 29.811188
+longitude = -94.682325
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77597"
+

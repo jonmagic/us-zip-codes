@@ -1,6 +1,8 @@
-zip_code = "28645"
-state = "NC"
 city = "Lenoir"
 county = "Caldwell"
-longitude = -81.560742
 latitude = 35.947401
+longitude = -81.560742
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28645"
+

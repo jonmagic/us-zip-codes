@@ -1,6 +1,8 @@
-zip_code = "55603"
-state = "MN"
 city = "Finland"
 county = "Lake"
-longitude = -91.320571
 latitude = 47.497114
+longitude = -91.320571
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55603"
+

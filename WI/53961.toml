@@ -1,6 +1,8 @@
-zip_code = "53961"
-state = "WI"
 city = "Rock Springs"
 county = "Sauk"
-longitude = -89.931931
 latitude = 43.459884
+longitude = -89.931931
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53961"
+

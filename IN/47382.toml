@@ -1,6 +1,8 @@
-zip_code = "47382"
-state = "IN"
 city = "Saratoga"
 county = "Randolph"
-longitude = -84.91848
 latitude = 40.234703
+longitude = -84.91848
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47382"
+

@@ -1,6 +1,8 @@
-zip_code = "80131"
-state = "CO"
 city = "Louviers"
 county = "Douglas"
-longitude = -104.994708
 latitude = 39.347863
+longitude = -104.994708
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80131"
+

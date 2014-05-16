@@ -1,6 +1,8 @@
-zip_code = "55742"
-state = "MN"
 city = "Goodland"
 county = "Itasca"
-longitude = -93.132367
 latitude = 47.167838
+longitude = -93.132367
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55742"
+

@@ -1,6 +1,8 @@
-zip_code = "07423"
-state = "NJ"
 city = "Ho Ho Kus"
 county = "Bergen"
-longitude = -74.096848
 latitude = 40.998882
+longitude = -74.096848
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07423"
+

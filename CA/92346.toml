@@ -1,6 +1,8 @@
-zip_code = "92346"
-state = "CA"
 city = "Highland"
 county = "San Bernardino"
-longitude = -117.14027
 latitude = 34.156543
+longitude = -117.14027
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92346"
+

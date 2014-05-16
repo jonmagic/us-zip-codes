@@ -1,6 +1,8 @@
-zip_code = "72768"
-state = "AR"
 city = "Sulphur Springs"
 county = "Benton"
-longitude = -94.449942
 latitude = 36.384794
+longitude = -94.449942
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72768"
+

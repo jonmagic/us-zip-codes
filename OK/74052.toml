@@ -1,6 +1,8 @@
-zip_code = "74052"
-state = "OK"
 city = "Oilton"
 county = "Creek"
-longitude = -96.595845
 latitude = 36.068495
+longitude = -96.595845
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74052"
+

@@ -1,6 +1,8 @@
-zip_code = "41075"
-state = "KY"
 city = "Fort Thomas"
 county = "Campbell"
-longitude = -84.453991
 latitude = 39.080411
+longitude = -84.453991
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41075"
+

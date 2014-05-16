@@ -1,6 +1,8 @@
-zip_code = "66759"
-state = "KS"
 city = "New Albany"
 county = "Wilson"
-longitude = -95.937861
 latitude = 37.568982
+longitude = -95.937861
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66759"
+

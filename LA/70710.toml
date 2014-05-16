@@ -1,6 +1,8 @@
-zip_code = "70710"
-state = "LA"
 city = "Addis"
 county = "West Baton Rouge"
-longitude = -91.263088
 latitude = 30.362992
+longitude = -91.263088
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70710"
+

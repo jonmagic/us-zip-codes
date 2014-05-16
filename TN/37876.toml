@@ -1,6 +1,8 @@
-zip_code = "37876"
-state = "TN"
 city = "Sevierville"
 county = "Sevier"
-longitude = -83.51432
 latitude = 35.849046
+longitude = -83.51432
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37876"
+

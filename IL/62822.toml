@@ -1,6 +1,8 @@
-zip_code = "62822"
-state = "IL"
 city = "Christopher"
 county = "Franklin"
-longitude = -89.07209
 latitude = 38.028648
+longitude = -89.07209
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62822"
+

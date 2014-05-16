@@ -1,6 +1,8 @@
-zip_code = "66778"
-state = "KS"
 city = "Treece"
 county = "Cherokee"
-longitude = -94.881789
 latitude = 37.14002
+longitude = -94.881789
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66778"
+

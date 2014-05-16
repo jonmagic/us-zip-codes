@@ -1,6 +1,8 @@
-zip_code = "47612"
-state = "IN"
 city = "Cynthiana"
 county = "Posey"
-longitude = -87.711423
 latitude = 38.175698
+longitude = -87.711423
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47612"
+

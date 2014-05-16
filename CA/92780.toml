@@ -1,6 +1,8 @@
-zip_code = "92780"
-state = "CA"
 city = "Tustin"
 county = "Orange"
-longitude = -117.731534
 latitude = 33.579122
+longitude = -117.731534
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92780"
+

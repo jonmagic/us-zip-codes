@@ -1,6 +1,8 @@
-zip_code = "82332"
-state = "WY"
 city = "Savery"
 county = "Carbon"
-longitude = -107.634563
 latitude = 41.027293
+longitude = -107.634563
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82332"
+

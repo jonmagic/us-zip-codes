@@ -1,6 +1,8 @@
-zip_code = "77563"
-state = "TX"
 city = "Hitchcock"
 county = "Galveston"
-longitude = -94.990471
 latitude = 29.344488
+longitude = -94.990471
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77563"
+

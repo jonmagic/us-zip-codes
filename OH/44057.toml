@@ -1,6 +1,8 @@
-zip_code = "44057"
-state = "OH"
 city = "Madison"
 county = "Lake"
-longitude = -81.073247
 latitude = 41.781467
+longitude = -81.073247
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44057"
+

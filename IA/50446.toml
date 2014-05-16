@@ -1,6 +1,8 @@
-zip_code = "50446"
-state = "IA"
 city = "Joice"
 county = "Worth"
-longitude = -93.3832
 latitude = 43.353565
+longitude = -93.3832
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50446"
+

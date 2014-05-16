@@ -1,6 +1,8 @@
-zip_code = "98231"
-state = "WA"
 city = "Blaine"
 county = "Whatcom"
-longitude = -121.988548
 latitude = 48.814753
+longitude = -121.988548
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98231"
+

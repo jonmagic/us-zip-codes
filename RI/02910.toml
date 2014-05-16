@@ -1,6 +1,8 @@
-zip_code = "02910"
-state = "RI"
 city = "Cranston"
 county = "Providence"
-longitude = -71.435251
 latitude = 41.7917
+longitude = -71.435251
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02910"
+

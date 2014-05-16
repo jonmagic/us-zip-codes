@@ -1,6 +1,8 @@
-zip_code = "53576"
-state = "WI"
 city = "Orfordville"
 county = "Rock"
-longitude = -89.233129
 latitude = 42.614273
+longitude = -89.233129
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53576"
+

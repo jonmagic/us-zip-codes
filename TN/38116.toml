@@ -1,6 +1,8 @@
-zip_code = "38116"
-state = "TN"
 city = "Memphis"
 county = "Shelby"
-longitude = -90.01109
 latitude = 35.032879
+longitude = -90.01109
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38116"
+

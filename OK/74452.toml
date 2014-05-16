@@ -1,6 +1,8 @@
-zip_code = "74452"
-state = "OK"
 city = "Peggs"
 county = "Cherokee"
-longitude = -95.040008
 latitude = 35.900074
+longitude = -95.040008
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74452"
+

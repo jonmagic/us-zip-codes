@@ -1,6 +1,8 @@
-zip_code = "58343"
-state = "ND"
 city = "Knox"
 county = "Benson"
-longitude = -99.689358
 latitude = 48.301215
+longitude = -99.689358
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58343"
+

@@ -1,6 +1,8 @@
-zip_code = "26062"
-state = "WV"
 city = "Weirton"
 county = "Hancock"
-longitude = -80.565292
 latitude = 40.507729
+longitude = -80.565292
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26062"
+

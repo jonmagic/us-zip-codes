@@ -1,6 +1,8 @@
-zip_code = "81054"
-state = "CO"
 city = "Las Animas"
 county = "Bent"
-longitude = -103.088444
 latitude = 37.923031
+longitude = -103.088444
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81054"
+

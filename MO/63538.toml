@@ -1,6 +1,8 @@
-zip_code = "63538"
-state = "MO"
 city = "Elmer"
 county = "Macon"
-longitude = -92.684957
 latitude = 39.96045
+longitude = -92.684957
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63538"
+

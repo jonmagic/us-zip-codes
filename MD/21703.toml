@@ -1,6 +1,8 @@
-zip_code = "21703"
-state = "MD"
 city = "Frederick"
 county = "Frederick"
-longitude = -77.463561
 latitude = 39.364713
+longitude = -77.463561
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21703"
+

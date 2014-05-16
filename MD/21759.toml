@@ -1,6 +1,8 @@
-zip_code = "21759"
-state = "MD"
 city = "Ladiesburg"
 county = "Frederick"
-longitude = -77.290519
 latitude = 39.569426
+longitude = -77.290519
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21759"
+

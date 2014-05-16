@@ -1,6 +1,8 @@
-zip_code = "03044"
-state = "NH"
 city = "Fremont"
 county = "Rockingham"
-longitude = -71.127041
 latitude = 42.992203
+longitude = -71.127041
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03044"
+

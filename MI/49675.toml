@@ -1,6 +1,8 @@
-zip_code = "49675"
-state = "MI"
 city = "Onekama"
 county = "Manistee"
-longitude = -86.222187
 latitude = 44.418184
+longitude = -86.222187
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49675"
+

@@ -1,6 +1,8 @@
-zip_code = "30559"
-state = "GA"
 city = "Mineral Bluff"
 county = "Fannin"
-longitude = -84.268863
 latitude = 34.936697
+longitude = -84.268863
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30559"
+

@@ -1,6 +1,8 @@
-zip_code = "64437"
-state = "MO"
 city = "Craig"
 county = "Holt"
-longitude = -95.329064
 latitude = 40.126706
+longitude = -95.329064
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64437"
+

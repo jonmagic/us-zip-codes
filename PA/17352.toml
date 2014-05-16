@@ -1,6 +1,8 @@
-zip_code = "17352"
-state = "PA"
 city = "New Park"
 county = "York"
-longitude = -76.449874
 latitude = 39.838639
+longitude = -76.449874
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17352"
+

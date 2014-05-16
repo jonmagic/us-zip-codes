@@ -1,6 +1,8 @@
-zip_code = "54880"
-state = "WI"
 city = "Superior"
 county = "Douglas"
-longitude = -92.117578
 latitude = 46.574982
+longitude = -92.117578
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54880"
+

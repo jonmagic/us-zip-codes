@@ -1,6 +1,8 @@
-zip_code = "44236"
-state = "OH"
 city = "Hudson"
 county = "Summit"
-longitude = -81.476335
 latitude = 41.244023
+longitude = -81.476335
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44236"
+

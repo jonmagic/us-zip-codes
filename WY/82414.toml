@@ -1,6 +1,8 @@
-zip_code = "82414"
-state = "WY"
 city = "Cody"
 county = "Park"
-longitude = -109.436585
 latitude = 44.541637
+longitude = -109.436585
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82414"
+

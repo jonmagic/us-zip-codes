@@ -1,6 +1,8 @@
-zip_code = "28618"
-state = "NC"
 city = "Deep Gap"
 county = "Watauga"
-longitude = -81.541072
 latitude = 36.207343
+longitude = -81.541072
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28618"
+

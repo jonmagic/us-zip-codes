@@ -1,6 +1,8 @@
-zip_code = "01229"
-state = "MA"
 city = "Glendale"
 county = "Berkshire"
-longitude = -73.343545
 latitude = 42.279292
+longitude = -73.343545
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01229"
+

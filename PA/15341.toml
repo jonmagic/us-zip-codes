@@ -1,6 +1,8 @@
-zip_code = "15341"
-state = "PA"
 city = "Holbrook"
 county = "Greene"
-longitude = -80.211335
 latitude = 39.870635
+longitude = -80.211335
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15341"
+

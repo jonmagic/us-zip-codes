@@ -1,6 +1,8 @@
-zip_code = "49275"
-state = "MI"
 city = "Ridgeway"
 county = "Lenawee"
-longitude = -83.865674
 latitude = 41.988026
+longitude = -83.865674
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49275"
+

@@ -1,6 +1,8 @@
-zip_code = "70581"
-state = "LA"
 city = "Roanoke"
 county = "Jefferson Davis"
-longitude = -92.742134
 latitude = 30.246362
+longitude = -92.742134
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70581"
+

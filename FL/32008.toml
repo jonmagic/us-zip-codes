@@ -1,6 +1,8 @@
-zip_code = "32008"
-state = "FL"
 city = "Branford"
 county = "Suwannee"
-longitude = -82.908004
 latitude = 30.101927
+longitude = -82.908004
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32008"
+

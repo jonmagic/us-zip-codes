@@ -1,6 +1,8 @@
-zip_code = "26047"
-state = "WV"
 city = "New Cumberland"
 county = "Hancock"
-longitude = -80.571689
 latitude = 40.522005
+longitude = -80.571689
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26047"
+

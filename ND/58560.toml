@@ -1,6 +1,8 @@
-zip_code = "58560"
-state = "ND"
 city = "Moffit"
 county = "Burleigh"
-longitude = -100.300199
 latitude = 46.673047
+longitude = -100.300199
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58560"
+

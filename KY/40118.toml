@@ -1,6 +1,8 @@
-zip_code = "40118"
-state = "KY"
 city = "Fairdale"
 county = "Jefferson"
-longitude = -85.758416
 latitude = 38.096526
+longitude = -85.758416
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40118"
+

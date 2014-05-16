@@ -1,6 +1,8 @@
-zip_code = "54519"
-state = "WI"
 city = "Conover"
 county = "Vilas"
-longitude = -89.260939
 latitude = 46.072385
+longitude = -89.260939
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54519"
+

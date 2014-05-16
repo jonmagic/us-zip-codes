@@ -1,6 +1,8 @@
-zip_code = "37030"
-state = "TN"
 city = "Carthage"
 county = "Smith"
-longitude = -85.95174
 latitude = 36.276278
+longitude = -85.95174
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37030"
+

@@ -1,6 +1,8 @@
-zip_code = "45144"
-state = "OH"
 city = "Manchester"
 county = "Adams"
-longitude = -83.574357
 latitude = 38.698772
+longitude = -83.574357
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45144"
+

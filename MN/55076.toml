@@ -1,6 +1,8 @@
-zip_code = "55076"
-state = "MN"
 city = "Inver Grove Heights"
 county = "Dakota"
-longitude = -93.039064
 latitude = 44.828816
+longitude = -93.039064
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55076"
+

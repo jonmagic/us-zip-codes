@@ -1,6 +1,8 @@
-zip_code = "27570"
-state = "NC"
 city = "Ridgeway"
 county = "Warren"
-longitude = -78.110931
 latitude = 36.37367
+longitude = -78.110931
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27570"
+

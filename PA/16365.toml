@@ -1,6 +1,8 @@
-zip_code = "16365"
-state = "PA"
 city = "Warren"
 county = "Warren"
-longitude = -79.172619
 latitude = 41.84356
+longitude = -79.172619
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16365"
+

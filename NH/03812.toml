@@ -1,6 +1,8 @@
-zip_code = "03812"
-state = "NH"
 city = "Bartlett"
 county = "Carroll"
-longitude = -71.257726
 latitude = 43.883871
+longitude = -71.257726
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03812"
+

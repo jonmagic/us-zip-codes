@@ -1,6 +1,8 @@
-zip_code = "17241"
-state = "PA"
 city = "Newville"
 county = "Cumberland"
-longitude = -77.421905
 latitude = 40.173093
+longitude = -77.421905
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17241"
+

@@ -1,6 +1,8 @@
-zip_code = "38076"
-state = "TN"
 city = "Williston"
 county = "Fayette"
-longitude = -89.422466
 latitude = 35.141626
+longitude = -89.422466
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38076"
+

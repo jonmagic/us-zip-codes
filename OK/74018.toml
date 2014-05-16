@@ -1,6 +1,8 @@
-zip_code = "74018"
-state = "OK"
 city = "Claremore"
 county = "Rogers"
-longitude = -95.605964
 latitude = 36.343579
+longitude = -95.605964
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74018"
+

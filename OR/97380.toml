@@ -1,6 +1,8 @@
-zip_code = "97380"
-state = "OR"
 city = "Siletz"
 county = "Lincoln"
-longitude = -123.84463
 latitude = 44.746459
+longitude = -123.84463
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97380"
+

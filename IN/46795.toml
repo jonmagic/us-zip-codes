@@ -1,6 +1,8 @@
-zip_code = "46795"
-state = "IN"
 city = "Wolcottville"
 county = "Lagrange"
-longitude = -85.337737
 latitude = 41.583475
+longitude = -85.337737
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46795"
+

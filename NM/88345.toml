@@ -1,6 +1,8 @@
-zip_code = "88345"
-state = "NM"
 city = "Ruidoso"
 county = "Lincoln"
-longitude = -105.688274
 latitude = 33.474521
+longitude = -105.688274
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88345"
+

@@ -1,6 +1,8 @@
-zip_code = "70716"
-state = "LA"
 city = "Bayou Goula"
 county = "Iberville"
-longitude = -91.36026
 latitude = 30.261384
+longitude = -91.36026
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70716"
+

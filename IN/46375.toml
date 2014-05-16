@@ -1,6 +1,8 @@
-zip_code = "46375"
-state = "IN"
 city = "Schererville"
 county = "Lake"
-longitude = -87.441525
 latitude = 41.487733
+longitude = -87.441525
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46375"
+

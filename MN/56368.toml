@@ -1,6 +1,8 @@
-zip_code = "56368"
-state = "MN"
 city = "Richmond"
 county = "Stearns"
-longitude = -94.536053
 latitude = 45.460536
+longitude = -94.536053
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56368"
+

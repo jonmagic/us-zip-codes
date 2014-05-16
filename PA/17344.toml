@@ -1,6 +1,8 @@
-zip_code = "17344"
-state = "PA"
 city = "Mc Sherrystown"
 county = "Adams"
-longitude = -77.022875
 latitude = 39.801004
+longitude = -77.022875
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17344"
+

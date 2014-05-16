@@ -1,6 +1,8 @@
-zip_code = "41714"
-state = "KY"
 city = "Bear Branch"
 county = "Leslie"
-longitude = -83.503508
 latitude = 37.193912
+longitude = -83.503508
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41714"
+

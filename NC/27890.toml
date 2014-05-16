@@ -1,6 +1,8 @@
-zip_code = "27890"
-state = "NC"
 city = "Weldon"
 county = "Halifax"
-longitude = -77.750353
 latitude = 36.389174
+longitude = -77.750353
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27890"
+

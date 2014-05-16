@@ -1,6 +1,8 @@
-zip_code = "58072"
-state = "ND"
 city = "Valley City"
 county = "Barnes"
-longitude = -98.007534
 latitude = 46.972286
+longitude = -98.007534
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58072"
+

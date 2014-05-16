@@ -1,6 +1,8 @@
-zip_code = "67001"
-state = "KS"
 city = "Andale"
 county = "Sedgwick"
-longitude = -97.636619
 latitude = 37.779733
+longitude = -97.636619
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67001"
+

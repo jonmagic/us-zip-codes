@@ -1,6 +1,8 @@
-zip_code = "27243"
-state = "NC"
 city = "Efland"
 county = "Orange"
-longitude = -79.198764
 latitude = 36.06984
+longitude = -79.198764
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27243"
+

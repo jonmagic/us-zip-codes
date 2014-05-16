@@ -1,6 +1,8 @@
-zip_code = "47532"
-state = "IN"
 city = "Ferdinand"
 county = "Dubois"
-longitude = -86.867492
 latitude = 38.251171
+longitude = -86.867492
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47532"
+

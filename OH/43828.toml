@@ -1,6 +1,8 @@
-zip_code = "43828"
-state = "OH"
 city = "Keene"
 county = "Coshocton"
-longitude = -81.873607
 latitude = 40.351271
+longitude = -81.873607
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43828"
+

@@ -1,6 +1,8 @@
-zip_code = "71428"
-state = "LA"
 city = "Flora"
 county = "Natchitoches"
-longitude = -93.097958
 latitude = 31.612444
+longitude = -93.097958
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71428"
+

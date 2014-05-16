@@ -1,6 +1,8 @@
-zip_code = "28583"
-state = "NC"
 city = "Stonewall"
 county = "Pamlico"
-longitude = -76.632264
 latitude = 35.156145
+longitude = -76.632264
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28583"
+

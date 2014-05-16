@@ -1,6 +1,8 @@
-zip_code = "72133"
-state = "AR"
 city = "Reydell"
 county = "Jefferson"
-longitude = -91.673115
 latitude = 34.210031
+longitude = -91.673115
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72133"
+

@@ -1,6 +1,8 @@
-zip_code = "78598"
-state = "TX"
 city = "Port Mansfield"
 county = "Willacy"
-longitude = -97.426247
 latitude = 26.554299
+longitude = -97.426247
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78598"
+

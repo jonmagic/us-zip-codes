@@ -1,6 +1,8 @@
-zip_code = "50047"
-state = "IA"
 city = "Carlisle"
 county = "Warren"
-longitude = -93.520445
 latitude = 41.416785
+longitude = -93.520445
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50047"
+

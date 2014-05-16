@@ -1,6 +1,8 @@
-zip_code = "97011"
-state = "OR"
 city = "Brightwood"
 county = "Clackamas"
-longitude = -121.998736
 latitude = 45.359095
+longitude = -121.998736
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97011"
+

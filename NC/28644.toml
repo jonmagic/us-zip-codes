@@ -1,6 +1,8 @@
-zip_code = "28644"
-state = "NC"
 city = "Laurel Springs"
 county = "Ashe"
-longitude = -81.300052
 latitude = 36.422183
+longitude = -81.300052
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28644"
+

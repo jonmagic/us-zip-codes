@@ -1,6 +1,8 @@
-zip_code = "41544"
-state = "KY"
 city = "Mc Carr"
 county = "Pike"
-longitude = -82.226783
 latitude = 37.628873
+longitude = -82.226783
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41544"
+

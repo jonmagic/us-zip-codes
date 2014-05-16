@@ -1,6 +1,8 @@
-zip_code = "78123"
-state = "TX"
 city = "Mc Queeney"
 county = "Guadalupe"
-longitude = -98.041576
 latitude = 29.600748
+longitude = -98.041576
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78123"
+

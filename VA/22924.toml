@@ -1,6 +1,8 @@
-zip_code = "22924"
-state = "VA"
 city = "Batesville"
 county = "Albemarle"
-longitude = -78.727146
 latitude = 38.001317
+longitude = -78.727146
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22924"
+

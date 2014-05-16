@@ -1,6 +1,8 @@
-zip_code = "04038"
-state = "ME"
 city = "Gorham"
 county = "Cumberland"
-longitude = -70.355188
 latitude = 43.803689
+longitude = -70.355188
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04038"
+

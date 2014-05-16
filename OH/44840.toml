@@ -1,6 +1,8 @@
-zip_code = "44840"
-state = "OH"
 city = "Jeromesville"
 county = "Ashland"
-longitude = -82.206323
 latitude = 40.78933
+longitude = -82.206323
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44840"
+

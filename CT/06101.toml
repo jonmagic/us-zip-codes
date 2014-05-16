@@ -1,6 +1,8 @@
-zip_code = "06101"
-state = "CT"
 city = "Hartford"
 county = "Hartford"
-longitude = -72.677099
 latitude = 41.78007
+longitude = -72.677099
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06101"
+

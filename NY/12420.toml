@@ -1,6 +1,8 @@
-zip_code = "12420"
-state = "NY"
 city = "Cragsmoor"
 county = "Ulster"
-longitude = -74.380138
 latitude = 41.669831
+longitude = -74.380138
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12420"
+

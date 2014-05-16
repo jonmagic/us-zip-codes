@@ -1,6 +1,8 @@
-zip_code = "04927"
-state = "ME"
 city = "Clinton"
 county = "Kennebec"
-longitude = -69.512609
 latitude = 44.621084
+longitude = -69.512609
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04927"
+

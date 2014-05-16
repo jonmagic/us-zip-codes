@@ -1,6 +1,8 @@
-zip_code = "68958"
-state = "NE"
 city = "Loomis"
 county = "Phelps"
-longitude = -99.508075
 latitude = 40.477867
+longitude = -99.508075
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68958"
+

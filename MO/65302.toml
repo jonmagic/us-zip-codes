@@ -1,6 +1,8 @@
-zip_code = "65302"
-state = "MO"
 city = "Sedalia"
 county = "Pettis"
-longitude = -93.281672
 latitude = 38.724577
+longitude = -93.281672
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65302"
+

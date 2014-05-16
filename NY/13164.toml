@@ -1,6 +1,8 @@
-zip_code = "13164"
-state = "NY"
 city = "Warners"
 county = "Onondaga"
-longitude = -76.321678
 latitude = 43.100588
+longitude = -76.321678
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13164"
+

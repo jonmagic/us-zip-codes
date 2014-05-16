@@ -1,6 +1,8 @@
-zip_code = "78140"
-state = "TX"
 city = "Nixon"
 county = "Gonzales"
-longitude = -97.789879
 latitude = 29.331033
+longitude = -97.789879
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78140"
+

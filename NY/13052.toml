@@ -1,6 +1,8 @@
-zip_code = "13052"
-state = "NY"
 city = "De Ruyter"
 county = "Madison"
-longitude = -75.859458
 latitude = 42.776527
+longitude = -75.859458
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13052"
+

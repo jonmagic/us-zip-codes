@@ -1,6 +1,8 @@
-zip_code = "90604"
-state = "CA"
 city = "Whittier"
 county = "Los Angeles"
-longitude = -118.009085
 latitude = 33.932663
+longitude = -118.009085
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90604"
+

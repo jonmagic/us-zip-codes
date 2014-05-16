@@ -1,6 +1,8 @@
-zip_code = "27937"
-state = "NC"
 city = "Gates"
 county = "Gates"
-longitude = -76.815386
 latitude = 36.493521
+longitude = -76.815386
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27937"
+

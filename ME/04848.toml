@@ -1,6 +1,8 @@
-zip_code = "04848"
-state = "ME"
 city = "Islesboro"
 county = "Waldo"
-longitude = -68.900772
 latitude = 44.309021
+longitude = -68.900772
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04848"
+

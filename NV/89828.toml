@@ -1,6 +1,8 @@
-zip_code = "89828"
-state = "NV"
 city = "Lamoille"
 county = "Elko"
-longitude = -115.554233
 latitude = 40.744704
+longitude = -115.554233
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89828"
+

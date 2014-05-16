@@ -1,6 +1,8 @@
-zip_code = "45806"
-state = "OH"
 city = "Lima"
 county = "Auglaize"
-longitude = -84.12786
 latitude = 40.589876
+longitude = -84.12786
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45806"
+

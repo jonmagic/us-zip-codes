@@ -1,6 +1,8 @@
-zip_code = "68430"
-state = "NE"
 city = "Roca"
 county = "Lancaster"
-longitude = -96.664859
 latitude = 40.661609
+longitude = -96.664859
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68430"
+

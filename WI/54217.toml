@@ -1,6 +1,8 @@
-zip_code = "54217"
-state = "WI"
 city = "Luxemburg"
 county = "Kewaunee"
-longitude = -87.670551
 latitude = 44.541977
+longitude = -87.670551
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54217"
+

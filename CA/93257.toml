@@ -1,6 +1,8 @@
-zip_code = "93257"
-state = "CA"
 city = "Porterville"
 county = "Tulare"
-longitude = -118.703592
 latitude = 35.973777
+longitude = -118.703592
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93257"
+

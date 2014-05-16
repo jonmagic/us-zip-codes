@@ -1,6 +1,8 @@
-zip_code = "02670"
-state = "MA"
 city = "West Dennis"
 county = "Barnstable"
-longitude = -70.072195
 latitude = 41.710855
+longitude = -70.072195
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02670"
+

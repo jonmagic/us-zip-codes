@@ -1,6 +1,8 @@
-zip_code = "31016"
-state = "GA"
 city = "Culloden"
 county = "Monroe"
-longitude = -84.062584
 latitude = 32.900292
+longitude = -84.062584
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31016"
+

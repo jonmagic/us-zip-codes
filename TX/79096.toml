@@ -1,6 +1,8 @@
-zip_code = "79096"
-state = "TX"
 city = "Wheeler"
 county = "Wheeler"
-longitude = -100.224203
 latitude = 35.394891
+longitude = -100.224203
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79096"
+

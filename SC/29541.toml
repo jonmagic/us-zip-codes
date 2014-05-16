@@ -1,6 +1,8 @@
-zip_code = "29541"
-state = "SC"
 city = "Effingham"
 county = "Florence"
-longitude = -79.733541
 latitude = 34.063272
+longitude = -79.733541
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29541"
+

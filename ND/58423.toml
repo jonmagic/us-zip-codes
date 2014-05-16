@@ -1,6 +1,8 @@
-zip_code = "58423"
-state = "ND"
 city = "Chaseley"
 county = "Wells"
-longitude = -99.830601
 latitude = 47.464366
+longitude = -99.830601
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58423"
+

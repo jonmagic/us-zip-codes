@@ -1,6 +1,8 @@
-zip_code = "64738"
-state = "MO"
 city = "Collins"
 county = "Saint Clair"
-longitude = -93.620259
 latitude = 37.898354
+longitude = -93.620259
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64738"
+

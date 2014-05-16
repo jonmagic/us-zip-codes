@@ -1,6 +1,8 @@
-zip_code = "77598"
-state = "TX"
 city = "Webster"
 county = "Harris"
-longitude = -95.128758
 latitude = 29.550411
+longitude = -95.128758
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77598"
+

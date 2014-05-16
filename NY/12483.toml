@@ -1,6 +1,8 @@
-zip_code = "12483"
-state = "NY"
 city = "Spring Glen"
 county = "Ulster"
-longitude = -74.424533
 latitude = 41.663895
+longitude = -74.424533
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12483"
+

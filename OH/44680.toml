@@ -1,6 +1,8 @@
-zip_code = "44680"
-state = "OH"
 city = "Strasburg"
 county = "Tuscarawas"
-longitude = -81.549884
 latitude = 40.598698
+longitude = -81.549884
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44680"
+

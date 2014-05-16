@@ -1,6 +1,8 @@
-zip_code = "30753"
-state = "GA"
 city = "Trion"
 county = "Chattooga"
-longitude = -85.368362
 latitude = 34.532713
+longitude = -85.368362
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30753"
+

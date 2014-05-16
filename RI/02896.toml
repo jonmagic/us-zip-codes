@@ -1,6 +1,8 @@
-zip_code = "02896"
-state = "RI"
 city = "North Smithfield"
 county = "Providence"
-longitude = -71.540506
 latitude = 41.934348
+longitude = -71.540506
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02896"
+

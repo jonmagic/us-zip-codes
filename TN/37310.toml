@@ -1,6 +1,8 @@
-zip_code = "37310"
-state = "TN"
 city = "Charleston"
 county = "Bradley"
-longitude = -84.793619
 latitude = 35.2637
+longitude = -84.793619
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37310"
+

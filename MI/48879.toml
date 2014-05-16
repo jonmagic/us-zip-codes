@@ -1,6 +1,8 @@
-zip_code = "48879"
-state = "MI"
 city = "Saint Johns"
 county = "Clinton"
-longitude = -84.581962
 latitude = 42.979673
+longitude = -84.581962
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48879"
+

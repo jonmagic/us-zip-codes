@@ -1,6 +1,8 @@
-zip_code = "65613"
-state = "MO"
 city = "Bolivar"
 county = "Polk"
-longitude = -93.413616
 latitude = 37.626464
+longitude = -93.413616
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65613"
+

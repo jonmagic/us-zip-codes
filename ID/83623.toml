@@ -1,6 +1,8 @@
-zip_code = "83623"
-state = "ID"
 city = "Glenns Ferry"
 county = "Elmore"
-longitude = -115.310227
 latitude = 42.950333
+longitude = -115.310227
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83623"
+

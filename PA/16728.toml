@@ -1,6 +1,8 @@
-zip_code = "16728"
-state = "PA"
 city = "De Young"
 county = "Elk"
-longitude = -78.665057
 latitude = 41.415878
+longitude = -78.665057
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16728"
+

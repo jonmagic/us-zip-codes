@@ -1,6 +1,8 @@
-zip_code = "56277"
-state = "MN"
 city = "Olivia"
 county = "Renville"
-longitude = -95.032641
 latitude = 44.760343
+longitude = -95.032641
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56277"
+

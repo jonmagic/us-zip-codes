@@ -1,6 +1,8 @@
-zip_code = "77704"
-state = "TX"
 city = "Beaumont"
 county = "Jefferson"
-longitude = -94.153941
 latitude = 30.12355
+longitude = -94.153941
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77704"
+

@@ -1,6 +1,8 @@
-zip_code = "47580"
-state = "IN"
 city = "Schnellville"
 county = "Dubois"
-longitude = -86.912488
 latitude = 38.352759
+longitude = -86.912488
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47580"
+

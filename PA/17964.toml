@@ -1,6 +1,8 @@
-zip_code = "17964"
-state = "PA"
 city = "Pitman"
 county = "Schuylkill"
-longitude = -76.488833
 latitude = 40.724376
+longitude = -76.488833
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17964"
+

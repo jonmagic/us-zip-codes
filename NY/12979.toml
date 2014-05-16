@@ -1,6 +1,8 @@
-zip_code = "12979"
-state = "NY"
 city = "Rouses Point"
 county = "Clinton"
-longitude = -73.626615
 latitude = 44.864633
+longitude = -73.626615
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12979"
+

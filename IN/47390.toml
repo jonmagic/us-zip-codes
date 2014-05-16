@@ -1,6 +1,8 @@
-zip_code = "47390"
-state = "IN"
 city = "Union City"
 county = "Randolph"
-longitude = -85.006297
 latitude = 40.166457
+longitude = -85.006297
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47390"
+

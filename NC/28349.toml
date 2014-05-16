@@ -1,6 +1,8 @@
-zip_code = "28349"
-state = "NC"
 city = "Kenansville"
 county = "Duplin"
-longitude = -77.896863
 latitude = 35.015157
+longitude = -77.896863
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28349"
+

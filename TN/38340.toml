@@ -1,6 +1,8 @@
-zip_code = "38340"
-state = "TN"
 city = "Henderson"
 county = "Chester"
-longitude = -88.642991
 latitude = 35.407562
+longitude = -88.642991
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38340"
+

@@ -1,6 +1,8 @@
-zip_code = "50574"
-state = "IA"
 city = "Pocahontas"
 county = "Pocahontas"
-longitude = -94.650755
 latitude = 42.726507
+longitude = -94.650755
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50574"
+

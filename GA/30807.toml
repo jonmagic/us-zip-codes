@@ -1,6 +1,8 @@
-zip_code = "30807"
-state = "GA"
 city = "Camak"
 county = "Warren"
-longitude = -82.642214
 latitude = 33.447102
+longitude = -82.642214
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30807"
+

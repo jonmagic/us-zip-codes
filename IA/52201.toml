@@ -1,6 +1,8 @@
-zip_code = "52201"
-state = "IA"
 city = "Ainsworth"
 county = "Washington"
-longitude = -91.581212
 latitude = 41.351113
+longitude = -91.581212
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52201"
+

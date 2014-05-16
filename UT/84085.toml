@@ -1,6 +1,8 @@
-zip_code = "84085"
-state = "UT"
 city = "Whiterocks"
 county = "Uintah"
-longitude = -109.911237
 latitude = 40.374808
+longitude = -109.911237
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84085"
+

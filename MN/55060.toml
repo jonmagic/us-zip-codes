@@ -1,6 +1,8 @@
-zip_code = "55060"
-state = "MN"
 city = "Owatonna"
 county = "Steele"
-longitude = -93.223724
 latitude = 44.047613
+longitude = -93.223724
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55060"
+

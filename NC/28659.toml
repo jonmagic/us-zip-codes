@@ -1,6 +1,8 @@
-zip_code = "28659"
-state = "NC"
 city = "North Wilkesboro"
 county = "Wilkes"
-longitude = -81.067495
 latitude = 36.208773
+longitude = -81.067495
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28659"
+

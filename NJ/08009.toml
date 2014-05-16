@@ -1,6 +1,8 @@
-zip_code = "08009"
-state = "NJ"
 city = "Berlin"
 county = "Camden"
-longitude = -74.92701
 latitude = 39.761231
+longitude = -74.92701
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08009"
+

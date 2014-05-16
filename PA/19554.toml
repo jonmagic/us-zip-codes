@@ -1,6 +1,8 @@
-zip_code = "19554"
-state = "PA"
 city = "Shartlesville"
 county = "Berks"
-longitude = -76.141334
 latitude = 40.505184
+longitude = -76.141334
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19554"
+

@@ -1,6 +1,8 @@
-zip_code = "95329"
-state = "CA"
 city = "La Grange"
 county = "Stanislaus"
-longitude = -120.50941
 latitude = 37.653226
+longitude = -120.50941
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95329"
+

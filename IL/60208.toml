@@ -1,6 +1,8 @@
-zip_code = "60208"
-state = "IL"
 city = "Evanston"
 county = "Cook"
-longitude = -87.684506
 latitude = 42.058629
+longitude = -87.684506
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60208"
+

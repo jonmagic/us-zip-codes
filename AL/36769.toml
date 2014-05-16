@@ -1,6 +1,8 @@
-zip_code = "36769"
-state = "AL"
 city = "Pine Hill"
 county = "Wilcox"
-longitude = -87.545406
 latitude = 31.994807
+longitude = -87.545406
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36769"
+

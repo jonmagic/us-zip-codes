@@ -1,6 +1,8 @@
-zip_code = "80133"
-state = "CO"
 city = "Palmer Lake"
 county = "El Paso"
-longitude = -104.900328
 latitude = 39.112138
+longitude = -104.900328
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80133"
+

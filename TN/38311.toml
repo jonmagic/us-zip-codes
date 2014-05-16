@@ -1,6 +1,8 @@
-zip_code = "38311"
-state = "TN"
 city = "Bath Springs"
 county = "Decatur"
-longitude = -88.121113
 latitude = 35.448494
+longitude = -88.121113
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38311"
+

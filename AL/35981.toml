@@ -1,6 +1,8 @@
-zip_code = "35981"
-state = "AL"
 city = "Ider"
 county = "De Kalb"
-longitude = -85.658943
 latitude = 34.719358
+longitude = -85.658943
+state = ""
+state_code_alpha2 = ""
+zip_code = "35981"
+

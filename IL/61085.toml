@@ -1,6 +1,8 @@
-zip_code = "61085"
-state = "IL"
 city = "Stockton"
 county = "Jo Daviess"
-longitude = -90.085356
 latitude = 42.349517
+longitude = -90.085356
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61085"
+

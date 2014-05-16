@@ -1,6 +1,8 @@
-zip_code = "84739"
-state = "UT"
 city = "Joseph"
 county = "Sevier"
-longitude = -112.115118
 latitude = 38.683242
+longitude = -112.115118
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84739"
+

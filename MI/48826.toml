@@ -1,6 +1,8 @@
-zip_code = "48826"
-state = "MI"
 city = "East Lansing"
 county = "Ingham"
-longitude = -84.371973
 latitude = 42.599184
+longitude = -84.371973
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48826"
+

@@ -1,6 +1,8 @@
-zip_code = "44416"
-state = "OH"
 city = "Ellsworth"
 county = "Mahoning"
-longitude = -80.802854
 latitude = 41.017082
+longitude = -80.802854
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44416"
+

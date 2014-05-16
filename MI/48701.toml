@@ -1,6 +1,8 @@
-zip_code = "48701"
-state = "MI"
 city = "Akron"
 county = "Tuscola"
-longitude = -83.546114
 latitude = 43.582147
+longitude = -83.546114
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48701"
+

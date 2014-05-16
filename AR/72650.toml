@@ -1,6 +1,8 @@
-zip_code = "72650"
-state = "AR"
 city = "Marshall"
 county = "Searcy"
-longitude = -92.63861
 latitude = 35.908133
+longitude = -92.63861
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72650"
+

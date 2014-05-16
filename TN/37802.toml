@@ -1,6 +1,8 @@
-zip_code = "37802"
-state = "TN"
 city = "Maryville"
 county = "Blount"
-longitude = -83.933815
 latitude = 35.728283
+longitude = -83.933815
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37802"
+

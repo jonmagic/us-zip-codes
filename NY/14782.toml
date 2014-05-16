@@ -1,6 +1,8 @@
-zip_code = "14782"
-state = "NY"
 city = "Sinclairville"
 county = "Chautauqua"
-longitude = -79.253829
 latitude = 42.257762
+longitude = -79.253829
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14782"
+

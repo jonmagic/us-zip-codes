@@ -1,6 +1,8 @@
-zip_code = "51034"
-state = "IA"
 city = "Mapleton"
 county = "Monona"
-longitude = -95.913273
 latitude = 42.137392
+longitude = -95.913273
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51034"
+

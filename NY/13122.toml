@@ -1,6 +1,8 @@
-zip_code = "13122"
-state = "NY"
 city = "New Woodstock"
 county = "Madison"
-longitude = -75.85266
 latitude = 42.825164
+longitude = -75.85266
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13122"
+

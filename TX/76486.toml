@@ -1,6 +1,8 @@
-zip_code = "76486"
-state = "TX"
 city = "Perrin"
 county = "Jack"
-longitude = -98.066151
 latitude = 33.030672
+longitude = -98.066151
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76486"
+

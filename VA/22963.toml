@@ -1,6 +1,8 @@
-zip_code = "22963"
-state = "VA"
 city = "Palmyra"
 county = "Fluvanna"
-longitude = -78.338579
 latitude = 37.893119
+longitude = -78.338579
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22963"
+

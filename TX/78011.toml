@@ -1,6 +1,8 @@
-zip_code = "78011"
-state = "TX"
 city = "Charlotte"
 county = "Atascosa"
-longitude = -98.655756
 latitude = 28.814293
+longitude = -98.655756
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78011"
+

@@ -1,6 +1,8 @@
-zip_code = "05350"
-state = "VT"
 city = "Readsboro"
 county = "Bennington"
-longitude = -72.971932
 latitude = 42.785591
+longitude = -72.971932
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05350"
+

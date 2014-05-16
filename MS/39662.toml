@@ -1,6 +1,8 @@
-zip_code = "39662"
-state = "MS"
 city = "Ruth"
 county = "Lincoln"
-longitude = -90.291051
 latitude = 31.409907
+longitude = -90.291051
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39662"
+

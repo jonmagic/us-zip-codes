@@ -1,6 +1,8 @@
-zip_code = "60176"
-state = "IL"
 city = "Schiller Park"
 county = "Cook"
-longitude = -87.873412
 latitude = 41.95918
+longitude = -87.873412
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60176"
+

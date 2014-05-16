@@ -1,6 +1,8 @@
-zip_code = "38827"
-state = "MS"
 city = "Belmont"
 county = "Tishomingo"
-longitude = -88.22674
 latitude = 34.550663
+longitude = -88.22674
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38827"
+

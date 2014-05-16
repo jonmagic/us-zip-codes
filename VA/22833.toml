@@ -1,6 +1,8 @@
-zip_code = "22833"
-state = "VA"
 city = "Lacey Spring"
 county = "Rockingham"
-longitude = -78.855172
 latitude = 38.528361
+longitude = -78.855172
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22833"
+

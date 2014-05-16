@@ -1,6 +1,8 @@
-zip_code = "61028"
-state = "IL"
 city = "Elizabeth"
 county = "Jo Daviess"
-longitude = -90.181064
 latitude = 42.309263
+longitude = -90.181064
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61028"
+

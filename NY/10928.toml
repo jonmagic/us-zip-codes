@@ -1,6 +1,8 @@
-zip_code = "10928"
-state = "NY"
 city = "Highland Falls"
 county = "Orange"
-longitude = -74.255846
 latitude = 41.398883
+longitude = -74.255846
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10928"
+

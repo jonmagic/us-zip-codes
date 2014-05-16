@@ -1,6 +1,8 @@
-zip_code = "41317"
-state = "KY"
 city = "Clayhole"
 county = "Breathitt"
-longitude = -83.235959
 latitude = 37.462104
+longitude = -83.235959
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41317"
+

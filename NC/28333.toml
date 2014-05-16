@@ -1,6 +1,8 @@
-zip_code = "28333"
-state = "NC"
 city = "Dudley"
 county = "Wayne"
-longitude = -78.025587
 latitude = 35.266919
+longitude = -78.025587
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28333"
+

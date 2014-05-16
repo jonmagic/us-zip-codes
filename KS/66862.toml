@@ -1,6 +1,8 @@
-zip_code = "66862"
-state = "KS"
 city = "Matfield Green"
 county = "Chase"
-longitude = -96.597442
 latitude = 38.303962
+longitude = -96.597442
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66862"
+

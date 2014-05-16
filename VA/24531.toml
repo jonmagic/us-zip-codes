@@ -1,6 +1,8 @@
-zip_code = "24531"
-state = "VA"
 city = "Chatham"
 county = "Pittsylvania"
-longitude = -79.412735
 latitude = 36.830785
+longitude = -79.412735
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24531"
+

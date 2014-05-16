@@ -1,6 +1,8 @@
-zip_code = "58736"
-state = "ND"
 city = "Drake"
 county = "Mchenry"
-longitude = -100.384482
 latitude = 47.978309
+longitude = -100.384482
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58736"
+

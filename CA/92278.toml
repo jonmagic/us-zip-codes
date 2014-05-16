@@ -1,6 +1,8 @@
-zip_code = "92278"
-state = "CA"
 city = "Twentynine Palms"
 county = "San Bernardino"
-longitude = -115.277758
 latitude = 34.311015
+longitude = -115.277758
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92278"
+

@@ -1,6 +1,8 @@
-zip_code = "73945"
-state = "OK"
 city = "Hooker"
 county = "Texas"
-longitude = -101.216333
 latitude = 36.810851
+longitude = -101.216333
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73945"
+

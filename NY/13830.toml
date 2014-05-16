@@ -1,6 +1,8 @@
-zip_code = "13830"
-state = "NY"
 city = "Oxford"
 county = "Chenango"
-longitude = -75.567327
 latitude = 42.437881
+longitude = -75.567327
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13830"
+

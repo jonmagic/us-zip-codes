@@ -1,6 +1,8 @@
-zip_code = "86004"
-state = "AZ"
 city = "Flagstaff"
 county = "Coconino"
-longitude = -111.324353
 latitude = 35.610905
+longitude = -111.324353
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86004"
+

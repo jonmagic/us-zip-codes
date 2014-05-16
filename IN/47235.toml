@@ -1,6 +1,8 @@
-zip_code = "47235"
-state = "IN"
 city = "Freetown"
 county = "Jackson"
-longitude = -86.155545
 latitude = 38.962837
+longitude = -86.155545
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47235"
+

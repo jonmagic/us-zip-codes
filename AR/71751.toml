@@ -1,6 +1,8 @@
-zip_code = "71751"
-state = "AR"
 city = "Louann"
 county = "Ouachita"
-longitude = -92.777026
 latitude = 33.416913
+longitude = -92.777026
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71751"
+

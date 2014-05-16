@@ -1,6 +1,8 @@
-zip_code = "30905"
-state = "GA"
 city = "Augusta"
 county = "Richmond"
-longitude = -82.133732
 latitude = 33.412986
+longitude = -82.133732
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30905"
+

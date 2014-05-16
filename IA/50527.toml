@@ -1,6 +1,8 @@
-zip_code = "50527"
-state = "IA"
 city = "Curlew"
 county = "Palo Alto"
-longitude = -94.769596
 latitude = 42.970187
+longitude = -94.769596
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50527"
+

@@ -1,6 +1,8 @@
-zip_code = "30434"
-state = "GA"
 city = "Louisville"
 county = "Jefferson"
-longitude = -82.437965
 latitude = 33.028798
+longitude = -82.437965
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30434"
+

@@ -1,6 +1,8 @@
-zip_code = "29493"
-state = "SC"
 city = "Williams"
 county = "Colleton"
-longitude = -80.84452
 latitude = 33.032704
+longitude = -80.84452
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29493"
+

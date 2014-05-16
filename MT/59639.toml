@@ -1,6 +1,8 @@
-zip_code = "59639"
-state = "MT"
 city = "Lincoln"
 county = "Lewis And Clark"
-longitude = -112.623833
 latitude = 46.958253
+longitude = -112.623833
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59639"
+

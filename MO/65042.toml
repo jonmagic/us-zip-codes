@@ -1,6 +1,8 @@
-zip_code = "65042"
-state = "MO"
 city = "High Point"
 county = "Moniteau"
-longitude = -92.610941
 latitude = 38.674914
+longitude = -92.610941
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65042"
+

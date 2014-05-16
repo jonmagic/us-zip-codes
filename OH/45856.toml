@@ -1,6 +1,8 @@
-zip_code = "45856"
-state = "OH"
 city = "Leipsic"
 county = "Putnam"
-longitude = -84.11025
 latitude = 41.050948
+longitude = -84.11025
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45856"
+

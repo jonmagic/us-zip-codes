@@ -1,6 +1,8 @@
-zip_code = "42729"
-state = "KY"
 city = "Cub Run"
 county = "Hart"
-longitude = -85.982964
 latitude = 37.260115
+longitude = -85.982964
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42729"
+

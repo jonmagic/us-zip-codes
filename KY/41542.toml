@@ -1,6 +1,8 @@
-zip_code = "41542"
-state = "KY"
 city = "Lookout"
 county = "Pike"
-longitude = -82.464979
 latitude = 37.314848
+longitude = -82.464979
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41542"
+

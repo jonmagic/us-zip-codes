@@ -1,6 +1,8 @@
-zip_code = "67458"
-state = "KS"
 city = "Longford"
 county = "Clay"
-longitude = -97.249882
 latitude = 39.183428
+longitude = -97.249882
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67458"
+

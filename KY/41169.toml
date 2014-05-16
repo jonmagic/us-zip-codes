@@ -1,6 +1,8 @@
-zip_code = "41169"
-state = "KY"
 city = "Russell"
 county = "Greenup"
-longitude = -82.827053
 latitude = 38.607408
+longitude = -82.827053
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41169"
+

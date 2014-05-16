@@ -1,6 +1,8 @@
-zip_code = "67731"
-state = "KS"
 city = "Bird City"
 county = "Cheyenne"
-longitude = -101.532798
 latitude = 39.750443
+longitude = -101.532798
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67731"
+

@@ -1,6 +1,8 @@
-zip_code = "51549"
-state = "IA"
 city = "Macedonia"
 county = "Pottawattamie"
-longitude = -95.514083
 latitude = 41.327892
+longitude = -95.514083
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51549"
+

@@ -1,6 +1,8 @@
-zip_code = "76530"
-state = "TX"
 city = "Granger"
 county = "Williamson"
-longitude = -97.418471
 latitude = 30.71136
+longitude = -97.418471
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76530"
+

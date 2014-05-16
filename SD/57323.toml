@@ -1,6 +1,8 @@
-zip_code = "57323"
-state = "SD"
 city = "Carthage"
 county = "Miner"
-longitude = -97.720661
 latitude = 44.138176
+longitude = -97.720661
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57323"
+

@@ -1,6 +1,8 @@
-zip_code = "25024"
-state = "WV"
 city = "Bloomingrose"
 county = "Boone"
-longitude = -81.630599
 latitude = 38.154021
+longitude = -81.630599
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25024"
+

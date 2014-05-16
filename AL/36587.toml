@@ -1,6 +1,8 @@
-zip_code = "36587"
-state = "AL"
 city = "Wilmer"
 county = "Mobile"
-longitude = -88.318487
 latitude = 30.812649
+longitude = -88.318487
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36587"
+

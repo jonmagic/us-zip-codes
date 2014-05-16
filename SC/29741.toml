@@ -1,6 +1,8 @@
-zip_code = "29741"
-state = "SC"
 city = "Ruby"
 county = "Chesterfield"
-longitude = -80.18961
 latitude = 34.721259
+longitude = -80.18961
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29741"
+

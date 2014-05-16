@@ -1,6 +1,8 @@
-zip_code = "93457"
-state = "CA"
 city = "Santa Maria"
 county = "Santa Barbara"
-longitude = -120.53421
 latitude = 34.836252
+longitude = -120.53421
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93457"
+

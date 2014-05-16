@@ -1,6 +1,8 @@
-zip_code = "75457"
-state = "TX"
 city = "Mount Vernon"
 county = "Franklin"
-longitude = -95.217812
 latitude = 33.15396
+longitude = -95.217812
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75457"
+

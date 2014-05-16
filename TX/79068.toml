@@ -1,6 +1,8 @@
-zip_code = "79068"
-state = "TX"
 city = "Panhandle"
 county = "Carson"
-longitude = -101.345689
 latitude = 35.296115
+longitude = -101.345689
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79068"
+

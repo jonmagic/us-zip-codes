@@ -1,6 +1,8 @@
-zip_code = "35745"
-state = "AL"
 city = "Estillfork"
 county = "Jackson"
-longitude = -86.190432
 latitude = 34.925315
+longitude = -86.190432
+state = ""
+state_code_alpha2 = ""
+zip_code = "35745"
+

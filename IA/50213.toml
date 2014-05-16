@@ -1,6 +1,8 @@
-zip_code = "50213"
-state = "IA"
 city = "Osceola"
 county = "Clarke"
-longitude = -93.775845
 latitude = 41.029937
+longitude = -93.775845
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50213"
+

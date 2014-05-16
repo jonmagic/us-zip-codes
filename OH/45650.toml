@@ -1,6 +1,8 @@
-zip_code = "45650"
-state = "OH"
 city = "Lynx"
 county = "Adams"
-longitude = -83.42617
 latitude = 38.73906
+longitude = -83.42617
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45650"
+

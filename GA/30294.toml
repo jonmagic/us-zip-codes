@@ -1,6 +1,8 @@
-zip_code = "30294"
-state = "GA"
 city = "Ellenwood"
 county = "Clayton"
-longitude = -84.293942
 latitude = 33.616559
+longitude = -84.293942
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30294"
+

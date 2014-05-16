@@ -1,6 +1,8 @@
-zip_code = "66549"
-state = "KS"
 city = "Westmoreland"
 county = "Pottawatomie"
-longitude = -96.437389
 latitude = 39.4138
+longitude = -96.437389
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66549"
+

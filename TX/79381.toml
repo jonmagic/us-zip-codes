@@ -1,6 +1,8 @@
-zip_code = "79381"
-state = "TX"
 city = "Wilson"
 county = "Lynn"
-longitude = -101.725673
 latitude = 33.318712
+longitude = -101.725673
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79381"
+

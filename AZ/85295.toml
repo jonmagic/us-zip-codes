@@ -1,6 +1,8 @@
-zip_code = "85295"
-state = "AZ"
 city = "Gilbert"
 county = "Maricopa"
-longitude = -111.748791
 latitude = 33.314508
+longitude = -111.748791
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85295"
+

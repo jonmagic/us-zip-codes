@@ -1,6 +1,8 @@
-zip_code = "02070"
-state = "MA"
 city = "Sheldonville"
 county = "Norfolk"
-longitude = -71.08923
 latitude = 42.180048
+longitude = -71.08923
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02070"
+

@@ -1,6 +1,8 @@
-zip_code = "74872"
-state = "OK"
 city = "Stratford"
 county = "Garvin"
-longitude = -96.962983
 latitude = 34.723793
+longitude = -96.962983
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74872"
+

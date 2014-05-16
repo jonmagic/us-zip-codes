@@ -1,6 +1,8 @@
-zip_code = "46701"
-state = "IN"
 city = "Albion"
 county = "Noble"
-longitude = -85.413862
 latitude = 41.376028
+longitude = -85.413862
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46701"
+

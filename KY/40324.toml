@@ -1,6 +1,8 @@
-zip_code = "40324"
-state = "KY"
 city = "Georgetown"
 county = "Scott"
-longitude = -84.574498
 latitude = 38.239718
+longitude = -84.574498
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40324"
+

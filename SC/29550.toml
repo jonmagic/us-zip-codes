@@ -1,6 +1,8 @@
-zip_code = "29550"
-state = "SC"
 city = "Hartsville"
 county = "Darlington"
-longitude = -80.073953
 latitude = 34.345106
+longitude = -80.073953
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29550"
+

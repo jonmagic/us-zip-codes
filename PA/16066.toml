@@ -1,6 +1,8 @@
-zip_code = "16066"
-state = "PA"
 city = "Cranberry Twp"
 county = "Butler"
-longitude = -80.104597
 latitude = 40.709713
+longitude = -80.104597
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16066"
+

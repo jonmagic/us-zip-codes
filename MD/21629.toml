@@ -1,6 +1,8 @@
-zip_code = "21629"
-state = "MD"
 city = "Denton"
 county = "Caroline"
-longitude = -75.835702
 latitude = 38.859523
+longitude = -75.835702
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21629"
+

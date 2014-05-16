@@ -1,6 +1,8 @@
-zip_code = "12820"
-state = "NY"
 city = "Cleverdale"
 county = "Warren"
-longitude = -73.639291
 latitude = 43.47181
+longitude = -73.639291
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12820"
+

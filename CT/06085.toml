@@ -1,6 +1,8 @@
-zip_code = "06085"
-state = "CT"
 city = "Unionville"
 county = "Hartford"
-longitude = -72.933467
 latitude = 41.860009
+longitude = -72.933467
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06085"
+

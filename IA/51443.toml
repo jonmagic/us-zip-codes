@@ -1,6 +1,8 @@
-zip_code = "51443"
-state = "IA"
 city = "Glidden"
 county = "Carroll"
-longitude = -94.802643
 latitude = 42.049241
+longitude = -94.802643
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51443"
+

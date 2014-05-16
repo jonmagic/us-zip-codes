@@ -1,6 +1,8 @@
-zip_code = "55364"
-state = "MN"
 city = "Mound"
 county = "Hennepin"
-longitude = -93.662938
 latitude = 44.935062
+longitude = -93.662938
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55364"
+

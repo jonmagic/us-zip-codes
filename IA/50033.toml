@@ -1,6 +1,8 @@
-zip_code = "50033"
-state = "IA"
 city = "Bevington"
 county = "Madison"
-longitude = -94.015337
 latitude = 41.334078
+longitude = -94.015337
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50033"
+

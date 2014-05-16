@@ -1,6 +1,8 @@
-zip_code = "28545"
-state = "NC"
 city = "Mccutcheon Field"
 county = "Onslow"
-longitude = -77.391199
 latitude = 34.692056
+longitude = -77.391199
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28545"
+

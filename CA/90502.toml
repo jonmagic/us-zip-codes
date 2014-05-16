@@ -1,6 +1,8 @@
-zip_code = "90502"
-state = "CA"
 city = "Torrance"
 county = "Los Angeles"
-longitude = -118.293405
 latitude = 33.833816
+longitude = -118.293405
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90502"
+

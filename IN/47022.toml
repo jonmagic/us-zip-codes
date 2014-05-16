@@ -1,6 +1,8 @@
-zip_code = "47022"
-state = "IN"
 city = "Guilford"
 county = "Dearborn"
-longitude = -84.964354
 latitude = 39.193261
+longitude = -84.964354
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47022"
+

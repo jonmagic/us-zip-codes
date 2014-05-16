@@ -1,6 +1,8 @@
-zip_code = "13313"
-state = "NY"
 city = "Bridgewater"
 county = "Oneida"
-longitude = -75.267172
 latitude = 42.879227
+longitude = -75.267172
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13313"
+

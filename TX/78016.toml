@@ -1,6 +1,8 @@
-zip_code = "78016"
-state = "TX"
 city = "Devine"
 county = "Medina"
-longitude = -98.978383
 latitude = 29.21041
+longitude = -98.978383
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78016"
+

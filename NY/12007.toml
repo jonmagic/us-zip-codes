@@ -1,6 +1,8 @@
-zip_code = "12007"
-state = "NY"
 city = "Alcove"
 county = "Albany"
-longitude = -73.936671
 latitude = 42.482455
+longitude = -73.936671
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12007"
+

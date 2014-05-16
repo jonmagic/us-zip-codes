@@ -1,6 +1,8 @@
-zip_code = "30813"
-state = "GA"
 city = "Grovetown"
 county = "Columbia"
-longitude = -82.213991
 latitude = 33.466721
+longitude = -82.213991
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30813"
+

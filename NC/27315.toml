@@ -1,6 +1,8 @@
-zip_code = "27315"
-state = "NC"
 city = "Providence"
 county = "Caswell"
-longitude = -79.404114
 latitude = 36.487281
+longitude = -79.404114
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27315"
+

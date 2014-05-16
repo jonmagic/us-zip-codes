@@ -1,6 +1,8 @@
-zip_code = "52170"
-state = "IA"
 city = "Waterville"
 county = "Allamakee"
-longitude = -91.310349
 latitude = 43.217292
+longitude = -91.310349
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52170"
+

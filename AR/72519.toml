@@ -1,6 +1,8 @@
-zip_code = "72519"
-state = "AR"
 city = "Calico Rock"
 county = "Izard"
-longitude = -92.129961
 latitude = 36.178897
+longitude = -92.129961
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72519"
+

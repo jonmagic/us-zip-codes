@@ -1,6 +1,8 @@
-zip_code = "62894"
-state = "IL"
 city = "Waltonville"
 county = "Jefferson"
-longitude = -89.043552
 latitude = 38.212153
+longitude = -89.043552
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62894"
+

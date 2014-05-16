@@ -1,6 +1,8 @@
-zip_code = "28717"
-state = "NC"
 city = "Cashiers"
 county = "Jackson"
-longitude = -83.093769
 latitude = 35.101156
+longitude = -83.093769
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28717"
+

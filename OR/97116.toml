@@ -1,6 +1,8 @@
-zip_code = "97116"
-state = "OR"
 city = "Forest Grove"
 county = "Washington"
-longitude = -123.1818
 latitude = 45.598052
+longitude = -123.1818
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97116"
+

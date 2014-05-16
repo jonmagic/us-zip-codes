@@ -1,6 +1,8 @@
-zip_code = "66024"
-state = "KS"
 city = "Elwood"
 county = "Doniphan"
-longitude = -94.882439
 latitude = 39.757262
+longitude = -94.882439
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66024"
+

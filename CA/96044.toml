@@ -1,6 +1,8 @@
-zip_code = "96044"
-state = "CA"
 city = "Hornbrook"
 county = "Siskiyou"
-longitude = -122.525589
 latitude = 41.939792
+longitude = -122.525589
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96044"
+

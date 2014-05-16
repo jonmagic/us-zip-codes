@@ -1,6 +1,8 @@
-zip_code = "30172"
-state = "GA"
 city = "Shannon"
 county = "Floyd"
-longitude = -85.233721
 latitude = 34.333308
+longitude = -85.233721
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30172"
+

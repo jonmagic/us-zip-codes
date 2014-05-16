@@ -1,6 +1,8 @@
-zip_code = "42533"
-state = "KY"
 city = "Ferguson"
 county = "Pulaski"
-longitude = -84.69969
 latitude = 37.114754
+longitude = -84.69969
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42533"
+

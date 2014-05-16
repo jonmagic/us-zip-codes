@@ -1,6 +1,8 @@
-zip_code = "91361"
-state = "CA"
 city = "Westlake Village"
 county = "Ventura"
-longitude = -118.847732
 latitude = 34.141783
+longitude = -118.847732
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91361"
+

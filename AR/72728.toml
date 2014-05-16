@@ -1,6 +1,8 @@
-zip_code = "72728"
-state = "AR"
 city = "Elm Springs"
 county = "Washington"
-longitude = -94.254573
 latitude = 36.210013
+longitude = -94.254573
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72728"
+

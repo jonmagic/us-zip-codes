@@ -1,6 +1,8 @@
-zip_code = "48843"
-state = "MI"
 city = "Howell"
 county = "Livingston"
-longitude = -83.910266
 latitude = 42.630687
+longitude = -83.910266
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48843"
+

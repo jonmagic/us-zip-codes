@@ -1,6 +1,8 @@
-zip_code = "57703"
-state = "SD"
 city = "Rapid City"
 county = "Pennington"
-longitude = -103.176287
 latitude = 44.048039
+longitude = -103.176287
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57703"
+

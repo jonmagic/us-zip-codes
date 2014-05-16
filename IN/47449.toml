@@ -1,6 +1,8 @@
-zip_code = "47449"
-state = "IN"
 city = "Newberry"
 county = "Greene"
-longitude = -86.961577
 latitude = 39.037144
+longitude = -86.961577
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47449"
+

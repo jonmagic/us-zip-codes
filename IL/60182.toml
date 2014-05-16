@@ -1,6 +1,8 @@
-zip_code = "60182"
-state = "IL"
 city = "Virgil"
 county = "Kane"
-longitude = -88.59915
 latitude = 41.908736
+longitude = -88.59915
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60182"
+

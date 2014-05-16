@@ -1,6 +1,8 @@
-zip_code = "70516"
-state = "LA"
 city = "Branch"
 county = "Acadia"
-longitude = -92.345888
 latitude = 30.344615
+longitude = -92.345888
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70516"
+

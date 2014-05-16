@@ -1,6 +1,8 @@
-zip_code = "43027"
-state = "OH"
 city = "Homer"
 county = "Licking"
-longitude = -82.561556
 latitude = 40.132821
+longitude = -82.561556
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43027"
+

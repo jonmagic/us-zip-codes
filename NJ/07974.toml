@@ -1,6 +1,8 @@
-zip_code = "07974"
-state = "NJ"
 city = "New Providence"
 county = "Union"
-longitude = -74.405595
 latitude = 40.697851
+longitude = -74.405595
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07974"
+

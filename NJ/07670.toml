@@ -1,6 +1,8 @@
-zip_code = "07670"
-state = "NJ"
 city = "Tenafly"
 county = "Bergen"
-longitude = -73.960481
 latitude = 40.919298
+longitude = -73.960481
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07670"
+

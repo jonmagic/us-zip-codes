@@ -1,6 +1,8 @@
-zip_code = "43006"
-state = "OH"
 city = "Brinkhaven"
 county = "Knox"
-longitude = -82.191485
 latitude = 40.477294
+longitude = -82.191485
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43006"
+

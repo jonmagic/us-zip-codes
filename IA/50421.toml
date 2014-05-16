@@ -1,6 +1,8 @@
-zip_code = "50421"
-state = "IA"
 city = "Belmond"
 county = "Wright"
-longitude = -93.712614
 latitude = 42.783801
+longitude = -93.712614
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50421"
+

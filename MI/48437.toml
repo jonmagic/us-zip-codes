@@ -1,6 +1,8 @@
-zip_code = "48437"
-state = "MI"
 city = "Genesee"
 county = "Genesee"
-longitude = -83.691666
 latitude = 43.018423
+longitude = -83.691666
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48437"
+

@@ -1,6 +1,8 @@
-zip_code = "68454"
-state = "NE"
 city = "Unadilla"
 county = "Otoe"
-longitude = -96.270409
 latitude = 40.684941
+longitude = -96.270409
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68454"
+

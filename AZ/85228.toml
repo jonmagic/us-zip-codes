@@ -1,6 +1,8 @@
-zip_code = "85228"
-state = "AZ"
 city = "Coolidge"
 county = "Pinal"
-longitude = -111.247908
 latitude = 32.904485
+longitude = -111.247908
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85228"
+

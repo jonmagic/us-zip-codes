@@ -1,6 +1,8 @@
-zip_code = "15050"
-state = "PA"
 city = "Hookstown"
 county = "Beaver"
-longitude = -80.428223
 latitude = 40.554305
+longitude = -80.428223
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15050"
+

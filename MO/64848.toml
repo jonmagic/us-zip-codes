@@ -1,6 +1,8 @@
-zip_code = "64848"
-state = "MO"
 city = "La Russell"
 county = "Jasper"
-longitude = -94.073527
 latitude = 37.164327
+longitude = -94.073527
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64848"
+

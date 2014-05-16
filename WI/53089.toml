@@ -1,6 +1,8 @@
-zip_code = "53089"
-state = "WI"
 city = "Sussex"
 county = "Waukesha"
-longitude = -88.245381
 latitude = 43.148887
+longitude = -88.245381
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53089"
+

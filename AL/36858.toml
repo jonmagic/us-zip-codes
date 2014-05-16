@@ -1,6 +1,8 @@
-zip_code = "36858"
-state = "AL"
 city = "Hatchechubbee"
 county = "Russell"
-longitude = -85.292938
 latitude = 32.295844
+longitude = -85.292938
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36858"
+

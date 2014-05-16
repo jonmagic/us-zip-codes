@@ -1,6 +1,8 @@
-zip_code = "79537"
-state = "TX"
 city = "Nolan"
 county = "Nolan"
-longitude = -100.218794
 latitude = 32.272581
+longitude = -100.218794
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79537"
+

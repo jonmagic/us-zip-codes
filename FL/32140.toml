@@ -1,6 +1,8 @@
-zip_code = "32140"
-state = "FL"
 city = "Florahome"
 county = "Putnam"
-longitude = -81.73499
 latitude = 29.611384
+longitude = -81.73499
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32140"
+

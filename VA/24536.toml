@@ -1,6 +1,8 @@
-zip_code = "24536"
-state = "VA"
 city = "Coleman Falls"
 county = "Bedford"
-longitude = -79.305838
 latitude = 37.496433
+longitude = -79.305838
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24536"
+

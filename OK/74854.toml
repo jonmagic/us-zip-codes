@@ -1,6 +1,8 @@
-zip_code = "74854"
-state = "OK"
 city = "Maud"
 county = "Pottawatomie"
-longitude = -96.850202
 latitude = 35.06577
+longitude = -96.850202
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74854"
+

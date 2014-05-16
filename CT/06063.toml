@@ -1,6 +1,8 @@
-zip_code = "06063"
-state = "CT"
 city = "Barkhamsted"
 county = "Litchfield"
-longitude = -72.990647
 latitude = 41.93937
+longitude = -72.990647
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06063"
+

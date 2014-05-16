@@ -1,6 +1,8 @@
-zip_code = "21550"
-state = "MD"
 city = "Oakland"
 county = "Garrett"
-longitude = -79.316683
 latitude = 39.43392
+longitude = -79.316683
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21550"
+

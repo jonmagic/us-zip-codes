@@ -1,6 +1,8 @@
-zip_code = "67627"
-state = "KS"
 city = "Catharine"
 county = "Ellis"
-longitude = -99.216051
 latitude = 38.927648
+longitude = -99.216051
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67627"
+

@@ -1,6 +1,8 @@
-zip_code = "99626"
-state = "AK"
 city = "Lower Kalskag"
 county = "Bethel"
-longitude = -163.118947
 latitude = 60.314735
+longitude = -163.118947
+state = ""
+state_code_alpha2 = ""
+zip_code = "99626"
+

@@ -1,6 +1,8 @@
-zip_code = "72369"
-state = "AR"
 city = "Oneida"
 county = "Phillips"
-longitude = -90.785809
 latitude = 34.443028
+longitude = -90.785809
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72369"
+

@@ -1,6 +1,8 @@
-zip_code = "39168"
-state = "MS"
 city = "Taylorsville"
 county = "Smith"
-longitude = -89.403302
 latitude = 31.82958
+longitude = -89.403302
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39168"
+

@@ -1,6 +1,8 @@
-zip_code = "36553"
-state = "AL"
 city = "Mc Intosh"
 county = "Washington"
-longitude = -88.075266
 latitude = 31.209178
+longitude = -88.075266
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36553"
+

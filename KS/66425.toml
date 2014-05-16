@@ -1,6 +1,8 @@
-zip_code = "66425"
-state = "KS"
 city = "Fairview"
 county = "Brown"
-longitude = -95.727038
 latitude = 39.821847
+longitude = -95.727038
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66425"
+

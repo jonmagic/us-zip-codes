@@ -1,6 +1,8 @@
-zip_code = "95654"
-state = "CA"
 city = "Martell"
 county = "Amador"
-longitude = -120.550021
 latitude = 38.463282
+longitude = -120.550021
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95654"
+

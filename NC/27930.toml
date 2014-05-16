@@ -1,6 +1,8 @@
-zip_code = "27930"
-state = "NC"
 city = "Durants Neck"
 county = "Perquimans"
-longitude = -76.373908
 latitude = 36.198539
+longitude = -76.373908
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27930"
+

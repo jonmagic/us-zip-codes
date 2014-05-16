@@ -1,6 +1,8 @@
-zip_code = "31764"
-state = "GA"
 city = "Leslie"
 county = "Sumter"
-longitude = -84.088354
 latitude = 32.000148
+longitude = -84.088354
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31764"
+

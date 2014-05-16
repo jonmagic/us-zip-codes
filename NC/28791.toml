@@ -1,6 +1,8 @@
-zip_code = "28791"
-state = "NC"
 city = "Hendersonville"
 county = "Henderson"
-longitude = -82.525027
 latitude = 35.346415
+longitude = -82.525027
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28791"
+

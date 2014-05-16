@@ -1,6 +1,8 @@
-zip_code = "20185"
-state = "VA"
 city = "Upperville"
 county = "Fauquier"
-longitude = -77.879855
 latitude = 38.992978
+longitude = -77.879855
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20185"
+

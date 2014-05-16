@@ -1,6 +1,8 @@
-zip_code = "02828"
-state = "RI"
 city = "Greenville"
 county = "Providence"
-longitude = -71.551682
 latitude = 41.879298
+longitude = -71.551682
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02828"
+

@@ -1,6 +1,8 @@
-zip_code = "35577"
-state = "AL"
 city = "Natural Bridge"
 county = "Winston"
-longitude = -87.600815
 latitude = 34.093409
+longitude = -87.600815
+state = ""
+state_code_alpha2 = ""
+zip_code = "35577"
+

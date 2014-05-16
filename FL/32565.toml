@@ -1,6 +1,8 @@
-zip_code = "32565"
-state = "FL"
 city = "Jay"
 county = "Santa Rosa"
-longitude = -87.102495
 latitude = 30.88276
+longitude = -87.102495
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32565"
+

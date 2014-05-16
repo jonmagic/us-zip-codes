@@ -1,6 +1,8 @@
-zip_code = "57063"
-state = "SD"
 city = "Tabor"
 county = "Bon Homme"
-longitude = -97.714195
 latitude = 42.947515
+longitude = -97.714195
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57063"
+

@@ -1,6 +1,8 @@
-zip_code = "55388"
-state = "MN"
 city = "Watertown"
 county = "Carver"
-longitude = -93.853894
 latitude = 44.924416
+longitude = -93.853894
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55388"
+

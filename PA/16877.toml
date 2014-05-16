@@ -1,6 +1,8 @@
-zip_code = "16877"
-state = "PA"
 city = "Warriors Mark"
 county = "Huntingdon"
-longitude = -78.165044
 latitude = 40.692101
+longitude = -78.165044
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16877"
+

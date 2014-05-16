@@ -1,6 +1,8 @@
-zip_code = "79739"
-state = "TX"
 city = "Garden City"
 county = "Glasscock"
-longitude = -101.49375
 latitude = 31.864331
+longitude = -101.49375
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79739"
+

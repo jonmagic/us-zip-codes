@@ -1,6 +1,8 @@
-zip_code = "72578"
-state = "AR"
 city = "Sturkie"
 county = "Fulton"
-longitude = -91.804608
 latitude = 36.374704
+longitude = -91.804608
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72578"
+

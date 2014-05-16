@@ -1,6 +1,8 @@
-zip_code = "21163"
-state = "MD"
 city = "Woodstock"
 county = "Baltimore"
-longitude = -76.845587
 latitude = 39.349834
+longitude = -76.845587
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21163"
+

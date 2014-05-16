@@ -1,6 +1,8 @@
-zip_code = "20687"
-state = "MD"
 city = "Scotland"
 county = "Saint Marys"
-longitude = -76.351659
 latitude = 38.078898
+longitude = -76.351659
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20687"
+

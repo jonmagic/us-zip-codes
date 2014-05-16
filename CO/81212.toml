@@ -1,6 +1,8 @@
-zip_code = "81212"
-state = "CO"
 city = "Canon City"
 county = "Fremont"
-longitude = -105.507603
 latitude = 38.477727
+longitude = -105.507603
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81212"
+

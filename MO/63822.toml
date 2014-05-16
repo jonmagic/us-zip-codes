@@ -1,6 +1,8 @@
-zip_code = "63822"
-state = "MO"
 city = "Bernie"
 county = "Stoddard"
-longitude = -89.996555
 latitude = 36.67072
+longitude = -89.996555
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63822"
+

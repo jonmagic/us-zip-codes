@@ -1,6 +1,8 @@
-zip_code = "46524"
-state = "IN"
 city = "Etna Green"
 county = "Kosciusko"
-longitude = -85.99843
 latitude = 41.296306
+longitude = -85.99843
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46524"
+

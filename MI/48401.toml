@@ -1,6 +1,8 @@
-zip_code = "48401"
-state = "MI"
 city = "Applegate"
 county = "Sanilac"
-longitude = -82.670835
 latitude = 43.35159
+longitude = -82.670835
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48401"
+

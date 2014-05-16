@@ -1,6 +1,8 @@
-zip_code = "10523"
-state = "NY"
 city = "Elmsford"
 county = "Westchester"
-longitude = -73.836784
 latitude = 41.058732
+longitude = -73.836784
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10523"
+

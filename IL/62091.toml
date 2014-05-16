@@ -1,6 +1,8 @@
-zip_code = "62091"
-state = "IL"
 city = "Walshville"
 county = "Montgomery"
-longitude = -89.61133
 latitude = 39.061381
+longitude = -89.61133
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62091"
+

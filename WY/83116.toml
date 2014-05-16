@@ -1,6 +1,8 @@
-zip_code = "83116"
-state = "WY"
 city = "Diamondville"
 county = "Lincoln"
-longitude = -110.54
 latitude = 41.783935
+longitude = -110.54
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83116"
+

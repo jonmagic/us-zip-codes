@@ -1,6 +1,8 @@
-zip_code = "39664"
-state = "MS"
 city = "Smithdale"
 county = "Amite"
-longitude = -90.670185
 latitude = 31.268945
+longitude = -90.670185
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39664"
+

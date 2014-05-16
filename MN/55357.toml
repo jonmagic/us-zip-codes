@@ -1,6 +1,8 @@
-zip_code = "55357"
-state = "MN"
 city = "Loretto"
 county = "Hennepin"
-longitude = -93.657256
 latitude = 45.100098
+longitude = -93.657256
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55357"
+

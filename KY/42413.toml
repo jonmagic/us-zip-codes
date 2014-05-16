@@ -1,6 +1,8 @@
-zip_code = "42413"
-state = "KY"
 city = "Hanson"
 county = "Hopkins"
-longitude = -87.469567
 latitude = 37.335312
+longitude = -87.469567
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42413"
+

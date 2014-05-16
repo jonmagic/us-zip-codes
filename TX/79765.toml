@@ -1,6 +1,8 @@
-zip_code = "79765"
-state = "TX"
 city = "Odessa"
 county = "Ector"
-longitude = -102.347889
 latitude = 31.880682
+longitude = -102.347889
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79765"
+

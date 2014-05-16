@@ -1,6 +1,8 @@
-zip_code = "43060"
-state = "OH"
 city = "North Lewisburg"
 county = "Champaign"
-longitude = -83.568531
 latitude = 40.204788
+longitude = -83.568531
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43060"
+

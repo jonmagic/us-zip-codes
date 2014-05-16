@@ -1,6 +1,8 @@
-zip_code = "81424"
-state = "CO"
 city = "Nucla"
 county = "Montrose"
-longitude = -108.57669
 latitude = 38.310689
+longitude = -108.57669
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81424"
+

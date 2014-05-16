@@ -1,6 +1,8 @@
-zip_code = "77465"
-state = "TX"
 city = "Palacios"
 county = "Matagorda"
-longitude = -96.075063
 latitude = 28.934196
+longitude = -96.075063
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77465"
+

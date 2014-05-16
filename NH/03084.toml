@@ -1,6 +1,8 @@
-zip_code = "03084"
-state = "NH"
 city = "Temple"
 county = "Hillsborough"
-longitude = -71.860983
 latitude = 42.822275
+longitude = -71.860983
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03084"
+

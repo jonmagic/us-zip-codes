@@ -1,6 +1,8 @@
-zip_code = "77834"
-state = "TX"
 city = "Brenham"
 county = "Washington"
-longitude = -96.290358
 latitude = 30.231333
+longitude = -96.290358
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77834"
+

@@ -1,6 +1,8 @@
-zip_code = "58787"
-state = "ND"
 city = "Tolley"
 county = "Renville"
-longitude = -101.862477
 latitude = 48.759404
+longitude = -101.862477
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58787"
+

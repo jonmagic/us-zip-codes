@@ -1,6 +1,8 @@
-zip_code = "36509"
-state = "AL"
 city = "Bayou La Batre"
 county = "Mobile"
-longitude = -88.253643
 latitude = 30.419006
+longitude = -88.253643
+state = ""
+state_code_alpha2 = ""
+zip_code = "36509"
+

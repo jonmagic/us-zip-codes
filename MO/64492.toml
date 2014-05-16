@@ -1,6 +1,8 @@
-zip_code = "64492"
-state = "MO"
 city = "Trimble"
 county = "Clinton"
-longitude = -94.525232
 latitude = 39.503195
+longitude = -94.525232
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64492"
+

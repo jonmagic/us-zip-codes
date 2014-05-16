@@ -1,6 +1,8 @@
-zip_code = "07202"
-state = "NJ"
 city = "Elizabeth"
 county = "Union"
-longitude = -74.217189
 latitude = 40.650902
+longitude = -74.217189
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07202"
+

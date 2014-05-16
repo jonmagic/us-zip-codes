@@ -1,6 +1,8 @@
-zip_code = "02559"
-state = "MA"
 city = "Pocasset"
 county = "Barnstable"
-longitude = -70.622769
 latitude = 41.694771
+longitude = -70.622769
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02559"
+

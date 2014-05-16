@@ -1,6 +1,8 @@
-zip_code = "97102"
-state = "OR"
 city = "Arch Cape"
 county = "Clatsop"
-longitude = -123.962989
 latitude = 45.810934
+longitude = -123.962989
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97102"
+

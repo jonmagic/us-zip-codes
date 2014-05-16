@@ -1,6 +1,8 @@
-zip_code = "57451"
-state = "SD"
 city = "Ipswich"
 county = "Edmunds"
-longitude = -99.258683
 latitude = 45.421905
+longitude = -99.258683
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57451"
+

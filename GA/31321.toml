@@ -1,6 +1,8 @@
-zip_code = "31321"
-state = "GA"
 city = "Pembroke"
 county = "Bryan"
-longitude = -81.514752
 latitude = 32.009967
+longitude = -81.514752
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31321"
+

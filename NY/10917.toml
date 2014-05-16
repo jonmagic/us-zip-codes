@@ -1,6 +1,8 @@
-zip_code = "10917"
-state = "NY"
 city = "Central Valley"
 county = "Orange"
-longitude = -74.121764
 latitude = 41.329224
+longitude = -74.121764
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10917"
+

@@ -1,6 +1,8 @@
-zip_code = "88112"
-state = "NM"
 city = "Broadview"
 county = "Curry"
-longitude = -103.128229
 latitude = 34.80789
+longitude = -103.128229
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88112"
+

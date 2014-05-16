@@ -1,6 +1,8 @@
-zip_code = "75119"
-state = "TX"
 city = "Ennis"
 county = "Ellis"
-longitude = -96.63479
 latitude = 32.333778
+longitude = -96.63479
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75119"
+

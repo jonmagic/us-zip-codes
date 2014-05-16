@@ -1,6 +1,8 @@
-zip_code = "16748"
-state = "PA"
 city = "Shinglehouse"
 county = "Potter"
-longitude = -78.188866
 latitude = 41.963791
+longitude = -78.188866
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16748"
+

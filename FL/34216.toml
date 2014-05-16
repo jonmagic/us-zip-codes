@@ -1,6 +1,8 @@
-zip_code = "34216"
-state = "FL"
 city = "Anna Maria"
 county = "Manatee"
-longitude = -82.731722
 latitude = 27.529113
+longitude = -82.731722
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34216"
+

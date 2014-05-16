@@ -1,6 +1,8 @@
-zip_code = "29510"
-state = "SC"
 city = "Andrews"
 county = "Georgetown"
-longitude = -79.409083
 latitude = 33.435562
+longitude = -79.409083
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29510"
+

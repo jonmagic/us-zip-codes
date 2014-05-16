@@ -1,6 +1,8 @@
-zip_code = "52307"
-state = "IA"
 city = "Middle Amana"
 county = "Iowa"
-longitude = -91.901776
 latitude = 41.79544
+longitude = -91.901776
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52307"
+

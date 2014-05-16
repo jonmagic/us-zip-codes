@@ -1,6 +1,8 @@
-zip_code = "24177"
-state = "VA"
 city = "Vesta"
 county = "Patrick"
-longitude = -80.35806
 latitude = 36.724064
+longitude = -80.35806
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24177"
+

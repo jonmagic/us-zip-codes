@@ -1,6 +1,8 @@
-zip_code = "27821"
-state = "NC"
 city = "Edward"
 county = "Beaufort"
-longitude = -76.872371
 latitude = 35.327785
+longitude = -76.872371
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27821"
+

@@ -1,6 +1,8 @@
-zip_code = "37708"
-state = "TN"
 city = "Bean Station"
 county = "Grainger"
-longitude = -83.493998
 latitude = 36.250636
+longitude = -83.493998
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37708"
+

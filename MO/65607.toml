@@ -1,6 +1,8 @@
-zip_code = "65607"
-state = "MO"
 city = "Caplinger Mills"
 county = "Cedar"
-longitude = -93.842468
 latitude = 37.736871
+longitude = -93.842468
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65607"
+

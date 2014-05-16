@@ -1,6 +1,8 @@
-zip_code = "00636"
-state = "PR"
 city = "Rosario"
 county = "San German"
-longitude = -67.039706
 latitude = 18.113284
+longitude = -67.039706
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00636"
+

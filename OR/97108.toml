@@ -1,6 +1,8 @@
-zip_code = "97108"
-state = "OR"
 city = "Beaver"
 county = "Tillamook"
-longitude = -123.746717
 latitude = 45.278621
+longitude = -123.746717
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97108"
+

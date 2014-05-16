@@ -1,6 +1,8 @@
-zip_code = "95390"
-state = "CA"
 city = "Riverbank"
 county = "Stanislaus"
-longitude = -120.937052
 latitude = 37.60396
+longitude = -120.937052
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95390"
+

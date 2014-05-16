@@ -1,6 +1,8 @@
-zip_code = "25926"
-state = "WV"
 city = "Sprague"
 county = "Raleigh"
-longitude = -81.195122
 latitude = 37.787252
+longitude = -81.195122
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25926"
+

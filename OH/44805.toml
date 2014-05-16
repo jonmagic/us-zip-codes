@@ -1,6 +1,8 @@
-zip_code = "44805"
-state = "OH"
 city = "Ashland"
 county = "Ashland"
-longitude = -82.296131
 latitude = 40.826965
+longitude = -82.296131
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44805"
+

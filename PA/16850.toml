@@ -1,6 +1,8 @@
-zip_code = "16850"
-state = "PA"
 city = "Lecontes Mills"
 county = "Clearfield"
-longitude = -78.422403
 latitude = 40.989115
+longitude = -78.422403
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16850"
+

@@ -1,6 +1,8 @@
-zip_code = "07936"
-state = "NJ"
 city = "East Hanover"
 county = "Morris"
-longitude = -74.367747
 latitude = 40.816349
+longitude = -74.367747
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07936"
+

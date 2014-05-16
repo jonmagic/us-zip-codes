@@ -1,6 +1,8 @@
-zip_code = "58249"
-state = "ND"
 city = "Langdon"
 county = "Cavalier"
-longitude = -98.288629
 latitude = 48.753679
+longitude = -98.288629
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58249"
+

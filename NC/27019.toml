@@ -1,6 +1,8 @@
-zip_code = "27019"
-state = "NC"
 city = "Germanton"
 county = "Stokes"
-longitude = -80.234934
 latitude = 36.316152
+longitude = -80.234934
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27019"
+

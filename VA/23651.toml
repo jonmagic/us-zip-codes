@@ -1,6 +1,8 @@
-zip_code = "23651"
-state = "VA"
 city = "Fort Monroe"
 county = "Hampton City"
-longitude = -76.304391
 latitude = 37.018012
+longitude = -76.304391
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23651"
+

@@ -1,6 +1,8 @@
-zip_code = "78829"
-state = "TX"
 city = "Batesville"
 county = "Zavala"
-longitude = -99.621047
 latitude = 28.959826
+longitude = -99.621047
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78829"
+

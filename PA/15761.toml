@@ -1,6 +1,8 @@
-zip_code = "15761"
-state = "PA"
 city = "Mentcle"
 county = "Indiana"
-longitude = -78.887009
 latitude = 40.620066
+longitude = -78.887009
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15761"
+

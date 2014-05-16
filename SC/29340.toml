@@ -1,6 +1,8 @@
-zip_code = "29340"
-state = "SC"
 city = "Gaffney"
 county = "Cherokee"
-longitude = -81.63383
 latitude = 35.00549
+longitude = -81.63383
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29340"
+

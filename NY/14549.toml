@@ -1,6 +1,8 @@
-zip_code = "14549"
-state = "NY"
 city = "Silver Lake"
 county = "Wyoming"
-longitude = -78.022364
 latitude = 42.692874
+longitude = -78.022364
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14549"
+

@@ -1,6 +1,8 @@
-zip_code = "21811"
-state = "MD"
 city = "Berlin"
 county = "Worcester"
-longitude = -75.320901
 latitude = 38.310447
+longitude = -75.320901
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21811"
+

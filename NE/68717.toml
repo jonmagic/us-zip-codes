@@ -1,6 +1,8 @@
-zip_code = "68717"
-state = "NE"
 city = "Belden"
 county = "Cedar"
-longitude = -97.212986
 latitude = 42.429295
+longitude = -97.212986
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68717"
+

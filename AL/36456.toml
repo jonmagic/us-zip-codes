@@ -1,6 +1,8 @@
-zip_code = "36456"
-state = "AL"
 city = "Mc Kenzie"
 county = "Butler"
-longitude = -86.713793
 latitude = 31.546733
+longitude = -86.713793
+state = ""
+state_code_alpha2 = ""
+zip_code = "36456"
+

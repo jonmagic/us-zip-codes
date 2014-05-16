@@ -1,6 +1,8 @@
-zip_code = "04444"
-state = "ME"
 city = "Hampden"
 county = "Penobscot"
-longitude = -68.829046
 latitude = 44.835984
+longitude = -68.829046
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04444"
+

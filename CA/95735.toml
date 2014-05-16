@@ -1,6 +1,8 @@
-zip_code = "95735"
-state = "CA"
 city = "Twin Bridges"
 county = "El Dorado"
-longitude = -120.140714
 latitude = 38.802139
+longitude = -120.140714
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95735"
+

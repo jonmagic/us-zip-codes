@@ -1,6 +1,8 @@
-zip_code = "38553"
-state = "TN"
 city = "Clarkrange"
 county = "Fentress"
-longitude = -85.011311
 latitude = 36.197616
+longitude = -85.011311
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38553"
+

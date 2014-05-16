@@ -1,6 +1,8 @@
-zip_code = "49774"
-state = "MI"
 city = "Pickford"
 county = "Chippewa"
-longitude = -84.315417
 latitude = 46.179987
+longitude = -84.315417
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49774"
+

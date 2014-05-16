@@ -1,6 +1,8 @@
-zip_code = "53802"
-state = "WI"
 city = "Beetown"
 county = "Grant"
-longitude = -90.936354
 latitude = 42.873625
+longitude = -90.936354
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53802"
+

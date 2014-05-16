@@ -1,6 +1,8 @@
-zip_code = "44095"
-state = "OH"
 city = "Eastlake"
 county = "Lake"
-longitude = -81.444531
 latitude = 41.658653
+longitude = -81.444531
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44095"
+

@@ -1,6 +1,8 @@
-zip_code = "66856"
-state = "KS"
 city = "Lebo"
 county = "Coffey"
-longitude = -95.790281
 latitude = 38.237155
+longitude = -95.790281
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66856"
+

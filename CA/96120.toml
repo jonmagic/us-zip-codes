@@ -1,6 +1,8 @@
-zip_code = "96120"
-state = "CA"
 city = "Markleeville"
 county = "Alpine"
-longitude = -119.832669
 latitude = 38.771319
+longitude = -119.832669
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96120"
+

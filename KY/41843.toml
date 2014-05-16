@@ -1,6 +1,8 @@
-zip_code = "41843"
-state = "KY"
 city = "Pine Top"
 county = "Knott"
-longitude = -82.874059
 latitude = 37.28679
+longitude = -82.874059
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41843"
+

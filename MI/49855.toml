@@ -1,6 +1,8 @@
-zip_code = "49855"
-state = "MI"
 city = "Marquette"
 county = "Marquette"
-longitude = -87.615282
 latitude = 46.593435
+longitude = -87.615282
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49855"
+

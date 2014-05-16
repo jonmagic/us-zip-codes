@@ -1,6 +1,8 @@
-zip_code = "30537"
-state = "GA"
 city = "Dillard"
 county = "Rabun"
-longitude = -83.357507
 latitude = 34.97
+longitude = -83.357507
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30537"
+

@@ -1,6 +1,8 @@
-zip_code = "17257"
-state = "PA"
 city = "Shippensburg"
 county = "Cumberland"
-longitude = -77.45983
 latitude = 40.070789
+longitude = -77.45983
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17257"
+

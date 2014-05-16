@@ -1,6 +1,8 @@
-zip_code = "16148"
-state = "PA"
 city = "Hermitage"
 county = "Mercer"
-longitude = -80.438887
 latitude = 41.221984
+longitude = -80.438887
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16148"
+

@@ -1,6 +1,8 @@
-zip_code = "36041"
-state = "AL"
 city = "Highland Home"
 county = "Crenshaw"
-longitude = -86.306248
 latitude = 31.945789
+longitude = -86.306248
+state = ""
+state_code_alpha2 = ""
+zip_code = "36041"
+

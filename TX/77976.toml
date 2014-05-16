@@ -1,6 +1,8 @@
-zip_code = "77976"
-state = "TX"
 city = "Nursery"
 county = "Victoria"
-longitude = -97.090604
 latitude = 28.954273
+longitude = -97.090604
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77976"
+

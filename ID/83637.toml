@@ -1,6 +1,8 @@
-zip_code = "83637"
-state = "ID"
 city = "Lowman"
 county = "Boise"
-longitude = -115.481823
 latitude = 44.108217
+longitude = -115.481823
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83637"
+

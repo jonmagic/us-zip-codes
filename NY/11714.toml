@@ -1,6 +1,8 @@
-zip_code = "11714"
-state = "NY"
 city = "Bethpage"
 county = "Nassau"
-longitude = -73.495369
 latitude = 40.728449
+longitude = -73.495369
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11714"
+

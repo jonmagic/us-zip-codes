@@ -1,6 +1,8 @@
-zip_code = "13486"
-state = "NY"
 city = "Westernville"
 county = "Oneida"
-longitude = -75.341898
 latitude = 43.339068
+longitude = -75.341898
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13486"
+

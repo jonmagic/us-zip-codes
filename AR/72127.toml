@@ -1,6 +1,8 @@
-zip_code = "72127"
-state = "AR"
 city = "Plumerville"
 county = "Conway"
-longitude = -92.662307
 latitude = 35.15351
+longitude = -92.662307
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72127"
+

@@ -1,6 +1,8 @@
-zip_code = "46979"
-state = "IN"
 city = "Russiaville"
 county = "Howard"
-longitude = -86.269717
 latitude = 40.42573
+longitude = -86.269717
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46979"
+

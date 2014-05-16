@@ -1,6 +1,8 @@
-zip_code = "76485"
-state = "TX"
 city = "Peaster"
 county = "Parker"
-longitude = -97.805502
 latitude = 32.779315
+longitude = -97.805502
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76485"
+

@@ -1,6 +1,8 @@
-zip_code = "84752"
-state = "UT"
 city = "Minersville"
 county = "Beaver"
-longitude = -112.923106
 latitude = 38.214874
+longitude = -112.923106
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84752"
+

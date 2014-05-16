@@ -1,6 +1,8 @@
-zip_code = "19026"
-state = "PA"
 city = "Drexel Hill"
 county = "Delaware"
-longitude = -75.307731
 latitude = 39.937562
+longitude = -75.307731
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19026"
+

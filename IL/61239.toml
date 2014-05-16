@@ -1,6 +1,8 @@
-zip_code = "61239"
-state = "IL"
 city = "Carbon Cliff"
 county = "Rock Island"
-longitude = -90.393778
 latitude = 41.495034
+longitude = -90.393778
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61239"
+

@@ -1,6 +1,8 @@
-zip_code = "63950"
-state = "MO"
 city = "Lodi"
 county = "Wayne"
-longitude = -90.444953
 latitude = 37.119566
+longitude = -90.444953
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63950"
+

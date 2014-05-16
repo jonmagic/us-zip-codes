@@ -1,6 +1,8 @@
-zip_code = "13136"
-state = "NY"
 city = "Pitcher"
 county = "Chenango"
-longitude = -75.845544
 latitude = 42.619466
+longitude = -75.845544
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13136"
+

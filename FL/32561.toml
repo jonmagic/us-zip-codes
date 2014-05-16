@@ -1,6 +1,8 @@
-zip_code = "32561"
-state = "FL"
 city = "Gulf Breeze"
 county = "Santa Rosa"
-longitude = -87.060696
 latitude = 30.669276
+longitude = -87.060696
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32561"
+

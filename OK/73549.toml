@@ -1,6 +1,8 @@
-zip_code = "73549"
-state = "OK"
 city = "Headrick"
 county = "Jackson"
-longitude = -99.139047
 latitude = 34.626509
+longitude = -99.139047
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73549"
+

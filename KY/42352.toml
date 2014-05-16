@@ -1,6 +1,8 @@
-zip_code = "42352"
-state = "KY"
 city = "Livermore"
 county = "Mclean"
-longitude = -87.112413
 latitude = 37.513281
+longitude = -87.112413
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42352"
+

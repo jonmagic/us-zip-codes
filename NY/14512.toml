@@ -1,6 +1,8 @@
-zip_code = "14512"
-state = "NY"
 city = "Naples"
 county = "Ontario"
-longitude = -77.413496
 latitude = 42.667802
+longitude = -77.413496
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14512"
+

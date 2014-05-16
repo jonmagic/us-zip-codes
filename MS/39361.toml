@@ -1,6 +1,8 @@
-zip_code = "39361"
-state = "MS"
 city = "Shuqualak"
 county = "Noxubee"
-longitude = -88.659645
 latitude = 33.082645
+longitude = -88.659645
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39361"
+

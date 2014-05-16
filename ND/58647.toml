@@ -1,6 +1,8 @@
-zip_code = "58647"
-state = "ND"
 city = "New England"
 county = "Hettinger"
-longitude = -102.595864
 latitude = 46.459446
+longitude = -102.595864
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58647"
+

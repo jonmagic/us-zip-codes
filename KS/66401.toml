@@ -1,6 +1,8 @@
-zip_code = "66401"
-state = "KS"
 city = "Alma"
 county = "Wabaunsee"
-longitude = -96.204558
 latitude = 38.953556
+longitude = -96.204558
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66401"
+

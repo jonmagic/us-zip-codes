@@ -1,6 +1,8 @@
-zip_code = "19034"
-state = "PA"
 city = "Fort Washington"
 county = "Montgomery"
-longitude = -75.207437
 latitude = 40.130959
+longitude = -75.207437
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19034"
+

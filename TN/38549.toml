@@ -1,6 +1,8 @@
-zip_code = "38549"
-state = "TN"
 city = "Byrdstown"
 county = "Pickett"
-longitude = -85.162523
 latitude = 36.552982
+longitude = -85.162523
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38549"
+

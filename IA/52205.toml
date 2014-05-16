@@ -1,6 +1,8 @@
-zip_code = "52205"
-state = "IA"
 city = "Anamosa"
 county = "Jones"
-longitude = -91.240145
 latitude = 42.10352
+longitude = -91.240145
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52205"
+

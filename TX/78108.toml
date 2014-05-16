@@ -1,6 +1,8 @@
-zip_code = "78108"
-state = "TX"
 city = "Cibolo"
 county = "Guadalupe"
-longitude = -98.090085
 latitude = 29.555429
+longitude = -98.090085
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78108"
+

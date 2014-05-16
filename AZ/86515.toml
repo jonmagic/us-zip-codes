@@ -1,6 +1,8 @@
-zip_code = "86515"
-state = "AZ"
 city = "Window Rock"
 county = "Apache"
-longitude = -109.07844
 latitude = 35.667596
+longitude = -109.07844
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86515"
+

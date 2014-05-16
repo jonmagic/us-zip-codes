@@ -1,6 +1,8 @@
-zip_code = "68736"
-state = "NE"
 city = "Fordyce"
 county = "Cedar"
-longitude = -97.319381
 latitude = 42.728606
+longitude = -97.319381
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68736"
+

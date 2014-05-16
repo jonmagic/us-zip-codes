@@ -1,6 +1,8 @@
-zip_code = "57223"
-state = "SD"
 city = "Castlewood"
 county = "Hamlin"
-longitude = -97.116149
 latitude = 44.65665
+longitude = -97.116149
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57223"
+

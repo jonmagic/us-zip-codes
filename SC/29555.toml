@@ -1,6 +1,8 @@
-zip_code = "29555"
-state = "SC"
 city = "Johnsonville"
 county = "Florence"
-longitude = -79.489745
 latitude = 33.886864
+longitude = -79.489745
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29555"
+

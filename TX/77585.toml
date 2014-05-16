@@ -1,6 +1,8 @@
-zip_code = "77585"
-state = "TX"
 city = "Saratoga"
 county = "Hardin"
-longitude = -94.477059
 latitude = 30.309518
+longitude = -94.477059
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77585"
+

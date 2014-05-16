@@ -1,6 +1,8 @@
-zip_code = "95366"
-state = "CA"
 city = "Ripon"
 county = "San Joaquin"
-longitude = -121.115411
 latitude = 37.765177
+longitude = -121.115411
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95366"
+

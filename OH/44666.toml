@@ -1,6 +1,8 @@
-zip_code = "44666"
-state = "OH"
 city = "North Lawrence"
 county = "Stark"
-longitude = -81.613396
 latitude = 40.824937
+longitude = -81.613396
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44666"
+

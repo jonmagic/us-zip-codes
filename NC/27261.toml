@@ -1,6 +1,8 @@
-zip_code = "27261"
-state = "NC"
 city = "High Point"
 county = "Guilford"
-longitude = -80.0244
 latitude = 36.080707
+longitude = -80.0244
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27261"
+

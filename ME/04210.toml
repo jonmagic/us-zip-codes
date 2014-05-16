@@ -1,6 +1,8 @@
-zip_code = "04210"
-state = "ME"
 city = "Auburn"
 county = "Androscoggin"
-longitude = -70.243848
 latitude = 44.087422
+longitude = -70.243848
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04210"
+

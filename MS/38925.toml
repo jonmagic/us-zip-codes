@@ -1,6 +1,8 @@
-zip_code = "38925"
-state = "MS"
 city = "Duck Hill"
 county = "Montgomery"
-longitude = -89.641871
 latitude = 33.563223
+longitude = -89.641871
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38925"
+

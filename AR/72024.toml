@@ -1,6 +1,8 @@
-zip_code = "72024"
-state = "AR"
 city = "Carlisle"
 county = "Lonoke"
-longitude = -91.75149
 latitude = 34.7309
+longitude = -91.75149
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72024"
+

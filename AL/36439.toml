@@ -1,6 +1,8 @@
-zip_code = "36439"
-state = "AL"
 city = "Excel"
 county = "Monroe"
-longitude = -87.339329
 latitude = 31.429472
+longitude = -87.339329
+state = ""
+state_code_alpha2 = ""
+zip_code = "36439"
+

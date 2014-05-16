@@ -1,6 +1,8 @@
-zip_code = "30917"
-state = "GA"
 city = "Augusta"
 county = "Columbia"
-longitude = -82.235542
 latitude = 33.527678
+longitude = -82.235542
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30917"
+

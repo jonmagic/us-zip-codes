@@ -1,6 +1,8 @@
-zip_code = "44609"
-state = "OH"
 city = "Beloit"
 county = "Mahoning"
-longitude = -80.969891
 latitude = 40.941802
+longitude = -80.969891
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44609"
+

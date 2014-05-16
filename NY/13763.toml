@@ -1,6 +1,8 @@
-zip_code = "13763"
-state = "NY"
 city = "Endicott"
 county = "Broome"
-longitude = -75.74488
 latitude = 42.206745
+longitude = -75.74488
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13763"
+

@@ -1,6 +1,8 @@
-zip_code = "08561"
-state = "NJ"
 city = "Windsor"
 county = "Mercer"
-longitude = -74.578709
 latitude = 40.242313
+longitude = -74.578709
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08561"
+

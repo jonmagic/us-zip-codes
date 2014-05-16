@@ -1,6 +1,8 @@
-zip_code = "66872"
-state = "KS"
 city = "White City"
 county = "Morris"
-longitude = -96.779581
 latitude = 38.783116
+longitude = -96.779581
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66872"
+

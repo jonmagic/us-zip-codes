@@ -1,6 +1,8 @@
-zip_code = "29643"
-state = "SC"
 city = "Fair Play"
 county = "Oconee"
-longitude = -83.029707
 latitude = 34.542683
+longitude = -83.029707
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29643"
+

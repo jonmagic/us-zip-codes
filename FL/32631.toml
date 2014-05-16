@@ -1,6 +1,8 @@
-zip_code = "32631"
-state = "FL"
 city = "Earleton"
 county = "Alachua"
-longitude = -82.097095
 latitude = 29.730413
+longitude = -82.097095
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32631"
+

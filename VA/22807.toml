@@ -1,6 +1,8 @@
-zip_code = "22807"
-state = "VA"
 city = "Harrisonburg"
 county = "Harrisonburg City"
-longitude = -78.874173
 latitude = 38.440898
+longitude = -78.874173
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22807"
+

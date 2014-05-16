@@ -1,6 +1,8 @@
-zip_code = "14526"
-state = "NY"
 city = "Penfield"
 county = "Monroe"
-longitude = -77.454446
 latitude = 43.145813
+longitude = -77.454446
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14526"
+

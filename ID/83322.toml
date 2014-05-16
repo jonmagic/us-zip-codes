@@ -1,6 +1,8 @@
-zip_code = "83322"
-state = "ID"
 city = "Corral"
 county = "Camas"
-longitude = -114.730694
 latitude = 43.528155
+longitude = -114.730694
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83322"
+

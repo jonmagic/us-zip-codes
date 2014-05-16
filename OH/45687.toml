@@ -1,6 +1,8 @@
-zip_code = "45687"
-state = "OH"
 city = "Wakefield"
 county = "Pike"
-longitude = -83.085764
 latitude = 39.072829
+longitude = -83.085764
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45687"
+

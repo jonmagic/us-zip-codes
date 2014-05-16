@@ -1,6 +1,8 @@
-zip_code = "74043"
-state = "OK"
 city = "Leonard"
 county = "Tulsa"
-longitude = -95.798809
 latitude = 35.918277
+longitude = -95.798809
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74043"
+

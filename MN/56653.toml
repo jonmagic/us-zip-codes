@@ -1,6 +1,8 @@
-zip_code = "56653"
-state = "MN"
 city = "Littlefork"
 county = "Koochiching"
-longitude = -93.612836
 latitude = 48.357144
+longitude = -93.612836
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56653"
+

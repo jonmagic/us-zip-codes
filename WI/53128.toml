@@ -1,6 +1,8 @@
-zip_code = "53128"
-state = "WI"
 city = "Genoa City"
 county = "Walworth"
-longitude = -88.438624
 latitude = 42.549412
+longitude = -88.438624
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53128"
+

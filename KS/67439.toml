@@ -1,6 +1,8 @@
-zip_code = "67439"
-state = "KS"
 city = "Ellsworth"
 county = "Ellsworth"
-longitude = -98.205437
 latitude = 38.696579
+longitude = -98.205437
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67439"
+

@@ -1,6 +1,8 @@
-zip_code = "11692"
-state = "NY"
 city = "Arverne"
 county = "Queens"
-longitude = -73.793273
 latitude = 40.5923
+longitude = -73.793273
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11692"
+

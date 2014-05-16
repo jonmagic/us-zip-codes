@@ -1,6 +1,8 @@
-zip_code = "35587"
-state = "AL"
 city = "Townley"
 county = "Walker"
-longitude = -87.440648
 latitude = 33.793322
+longitude = -87.440648
+state = ""
+state_code_alpha2 = ""
+zip_code = "35587"
+

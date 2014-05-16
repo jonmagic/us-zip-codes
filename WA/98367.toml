@@ -1,6 +1,8 @@
-zip_code = "98367"
-state = "WA"
 city = "Port Orchard"
 county = "Kitsap"
-longitude = -122.650972
 latitude = 47.470651
+longitude = -122.650972
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98367"
+

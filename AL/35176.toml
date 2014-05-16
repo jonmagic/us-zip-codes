@@ -1,6 +1,8 @@
-zip_code = "35176"
-state = "AL"
 city = "Vandiver"
 county = "Shelby"
-longitude = -86.509972
 latitude = 33.464255
+longitude = -86.509972
+state = ""
+state_code_alpha2 = ""
+zip_code = "35176"
+

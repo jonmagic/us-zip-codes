@@ -1,6 +1,8 @@
-zip_code = "37356"
-state = "TN"
 city = "Monteagle"
 county = "Grundy"
-longitude = -85.822933
 latitude = 35.264698
+longitude = -85.822933
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37356"
+

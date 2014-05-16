@@ -1,6 +1,8 @@
-zip_code = "39046"
-state = "MS"
 city = "Canton"
 county = "Madison"
-longitude = -90.008601
 latitude = 32.625298
+longitude = -90.008601
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39046"
+

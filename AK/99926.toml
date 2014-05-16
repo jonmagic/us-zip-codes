@@ -1,6 +1,8 @@
-zip_code = "99926"
-state = "AK"
 city = "Metlakatla"
 county = "Prince Wales Ketchikan"
-longitude = -131.566827
 latitude = 55.094325
+longitude = -131.566827
+state = ""
+state_code_alpha2 = ""
+zip_code = "99926"
+

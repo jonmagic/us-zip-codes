@@ -1,6 +1,8 @@
-zip_code = "51338"
-state = "IA"
 city = "Everly"
 county = "Clay"
-longitude = -95.308899
 latitude = 43.176799
+longitude = -95.308899
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51338"
+

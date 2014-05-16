@@ -1,6 +1,8 @@
-zip_code = "48809"
-state = "MI"
 city = "Belding"
 county = "Ionia"
-longitude = -85.128727
 latitude = 42.98004
+longitude = -85.128727
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48809"
+

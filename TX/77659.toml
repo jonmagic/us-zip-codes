@@ -1,6 +1,8 @@
-zip_code = "77659"
-state = "TX"
 city = "Sour Lake"
 county = "Hardin"
-longitude = -94.403654
 latitude = 30.238876
+longitude = -94.403654
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77659"
+

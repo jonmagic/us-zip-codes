@@ -1,6 +1,8 @@
-zip_code = "32775"
-state = "FL"
 city = "Scottsmoor"
 county = "Brevard"
-longitude = -80.872042
 latitude = 28.77016
+longitude = -80.872042
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32775"
+

@@ -1,6 +1,8 @@
-zip_code = "70767"
-state = "LA"
 city = "Port Allen"
 county = "West Baton Rouge"
-longitude = -91.309262
 latitude = 30.494882
+longitude = -91.309262
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70767"
+

@@ -1,6 +1,8 @@
-zip_code = "25250"
-state = "WV"
 city = "Lakin"
 county = "Mason"
-longitude = -81.997278
 latitude = 38.752312
+longitude = -81.997278
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25250"
+

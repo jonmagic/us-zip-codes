@@ -1,6 +1,8 @@
-zip_code = "63735"
-state = "MO"
 city = "Bell City"
 county = "Stoddard"
-longitude = -89.789402
 latitude = 36.992886
+longitude = -89.789402
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63735"
+

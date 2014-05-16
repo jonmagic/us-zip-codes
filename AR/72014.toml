@@ -1,6 +1,8 @@
-zip_code = "72014"
-state = "AR"
 city = "Beedeville"
 county = "Jackson"
-longitude = -91.116292
 latitude = 35.418352
+longitude = -91.116292
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72014"
+

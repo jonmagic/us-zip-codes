@@ -1,6 +1,8 @@
-zip_code = "65661"
-state = "MO"
 city = "Greenfield"
 county = "Dade"
-longitude = -93.895184
 latitude = 37.406208
+longitude = -93.895184
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65661"
+

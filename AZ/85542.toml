@@ -1,6 +1,8 @@
-zip_code = "85542"
-state = "AZ"
 city = "Peridot"
 county = "Gila"
-longitude = -110.860653
 latitude = 33.741518
+longitude = -110.860653
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85542"
+

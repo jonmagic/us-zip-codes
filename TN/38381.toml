@@ -1,6 +1,8 @@
-zip_code = "38381"
-state = "TN"
 city = "Toone"
 county = "Hardeman"
-longitude = -88.942458
 latitude = 35.343473
+longitude = -88.942458
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38381"
+

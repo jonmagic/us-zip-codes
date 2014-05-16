@@ -1,6 +1,8 @@
-zip_code = "44274"
-state = "OH"
 city = "Sharon Center"
 county = "Medina"
-longitude = -81.734329
 latitude = 41.09924
+longitude = -81.734329
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44274"
+

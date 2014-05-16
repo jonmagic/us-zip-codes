@@ -1,6 +1,8 @@
-zip_code = "93234"
-state = "CA"
 city = "Huron"
 county = "Fresno"
-longitude = -120.103363
 latitude = 36.207165
+longitude = -120.103363
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93234"
+

@@ -1,6 +1,8 @@
-zip_code = "68976"
-state = "NE"
 city = "Smithfield"
 county = "Gosper"
-longitude = -99.830345
 latitude = 40.539998
+longitude = -99.830345
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68976"
+

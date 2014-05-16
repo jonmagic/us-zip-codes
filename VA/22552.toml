@@ -1,6 +1,8 @@
-zip_code = "22552"
-state = "VA"
 city = "Sparta"
 county = "Caroline"
-longitude = -77.225139
 latitude = 38.009438
+longitude = -77.225139
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22552"
+

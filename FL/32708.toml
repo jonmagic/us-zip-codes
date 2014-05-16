@@ -1,6 +1,8 @@
-zip_code = "32708"
-state = "FL"
 city = "Winter Springs"
 county = "Seminole"
-longitude = -81.222547
 latitude = 28.690114
+longitude = -81.222547
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32708"
+

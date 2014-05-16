@@ -1,6 +1,8 @@
-zip_code = "93044"
-state = "CA"
 city = "Port Hueneme"
 county = "Ventura"
-longitude = -119.1343
 latitude = 34.032383
+longitude = -119.1343
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93044"
+

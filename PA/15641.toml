@@ -1,6 +1,8 @@
-zip_code = "15641"
-state = "PA"
 city = "Hyde Park"
 county = "Westmoreland"
-longitude = -79.595648
 latitude = 40.628165
+longitude = -79.595648
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15641"
+

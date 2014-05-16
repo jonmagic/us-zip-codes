@@ -1,6 +1,8 @@
-zip_code = "28661"
-state = "NC"
 city = "Patterson"
 county = "Caldwell"
-longitude = -81.562609
 latitude = 35.99726
+longitude = -81.562609
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28661"
+

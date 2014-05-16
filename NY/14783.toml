@@ -1,6 +1,8 @@
-zip_code = "14783"
-state = "NY"
 city = "Steamburg"
 county = "Cattaraugus"
-longitude = -78.917738
 latitude = 42.082001
+longitude = -78.917738
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14783"
+

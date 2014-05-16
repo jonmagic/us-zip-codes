@@ -1,6 +1,8 @@
-zip_code = "96142"
-state = "CA"
 city = "Tahoma"
 county = "El Dorado"
-longitude = -120.107955
 latitude = 38.998714
+longitude = -120.107955
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96142"
+

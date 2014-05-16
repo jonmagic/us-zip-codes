@@ -1,6 +1,8 @@
-zip_code = "15146"
-state = "PA"
 city = "Monroeville"
 county = "Allegheny"
-longitude = -80.236882
 latitude = 40.548117
+longitude = -80.236882
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15146"
+

@@ -1,6 +1,8 @@
-zip_code = "72482"
-state = "AR"
 city = "Williford"
 county = "Sharp"
-longitude = -91.355691
 latitude = 36.285559
+longitude = -91.355691
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72482"
+

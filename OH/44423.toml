@@ -1,6 +1,8 @@
-zip_code = "44423"
-state = "OH"
 city = "Hanoverton"
 county = "Columbiana"
-longitude = -80.887866
 latitude = 40.760843
+longitude = -80.887866
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44423"
+

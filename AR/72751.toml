@@ -1,6 +1,8 @@
-zip_code = "72751"
-state = "AR"
 city = "Pea Ridge"
 county = "Benton"
-longitude = -94.129727
 latitude = 36.461444
+longitude = -94.129727
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72751"
+

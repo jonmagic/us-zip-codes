@@ -1,6 +1,8 @@
-zip_code = "83842"
-state = "ID"
 city = "Medimont"
 county = "Kootenai"
-longitude = -116.659053
 latitude = 47.464178
+longitude = -116.659053
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83842"
+

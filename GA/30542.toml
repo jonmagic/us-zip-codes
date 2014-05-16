@@ -1,6 +1,8 @@
-zip_code = "30542"
-state = "GA"
 city = "Flowery Branch"
 county = "Hall"
-longitude = -83.891451
 latitude = 34.282818
+longitude = -83.891451
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30542"
+

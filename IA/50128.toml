@@ -1,6 +1,8 @@
-zip_code = "50128"
-state = "IA"
 city = "Jamaica"
 county = "Guthrie"
-longitude = -94.319081
 latitude = 41.820851
+longitude = -94.319081
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50128"
+

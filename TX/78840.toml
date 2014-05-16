@@ -1,6 +1,8 @@
-zip_code = "78840"
-state = "TX"
 city = "Del Rio"
 county = "Val Verde"
-longitude = -100.893202
 latitude = 29.410195
+longitude = -100.893202
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78840"
+

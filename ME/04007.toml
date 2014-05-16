@@ -1,6 +1,8 @@
-zip_code = "04007"
-state = "ME"
 city = "Biddeford"
 county = "York"
-longitude = -70.505301
 latitude = 43.45813
+longitude = -70.505301
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04007"
+

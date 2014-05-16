@@ -1,6 +1,8 @@
-zip_code = "18473"
-state = "PA"
 city = "White Mills"
 county = "Wayne"
-longitude = -75.222927
 latitude = 41.540648
+longitude = -75.222927
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18473"
+

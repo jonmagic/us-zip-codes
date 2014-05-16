@@ -1,6 +1,8 @@
-zip_code = "44005"
-state = "OH"
 city = "Ashtabula"
 county = "Ashtabula"
-longitude = -80.955313
 latitude = 41.730146
+longitude = -80.955313
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44005"
+

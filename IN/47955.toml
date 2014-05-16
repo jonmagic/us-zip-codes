@@ -1,6 +1,8 @@
-zip_code = "47955"
-state = "IN"
 city = "Linden"
 county = "Montgomery"
-longitude = -86.901826
 latitude = 40.191498
+longitude = -86.901826
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47955"
+

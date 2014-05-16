@@ -1,6 +1,8 @@
-zip_code = "01508"
-state = "MA"
 city = "Charlton City"
 county = "Worcester"
-longitude = -72.079455
 latitude = 42.109748
+longitude = -72.079455
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01508"
+

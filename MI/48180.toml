@@ -1,6 +1,8 @@
-zip_code = "48180"
-state = "MI"
 city = "Taylor"
 county = "Wayne"
-longitude = -83.249067
 latitude = 42.245837
+longitude = -83.249067
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48180"
+

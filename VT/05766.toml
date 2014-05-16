@@ -1,6 +1,8 @@
-zip_code = "05766"
-state = "VT"
 city = "Ripton"
 county = "Addison"
-longitude = -73.010663
 latitude = 43.979315
+longitude = -73.010663
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05766"
+

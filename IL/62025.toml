@@ -1,6 +1,8 @@
-zip_code = "62025"
-state = "IL"
 city = "Edwardsville"
 county = "Madison"
-longitude = -89.877841
 latitude = 38.841819
+longitude = -89.877841
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62025"
+

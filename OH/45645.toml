@@ -1,6 +1,8 @@
-zip_code = "45645"
-state = "OH"
 city = "Kitts Hill"
 county = "Lawrence"
-longitude = -82.545723
 latitude = 38.562503
+longitude = -82.545723
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45645"
+

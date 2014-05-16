@@ -1,6 +1,8 @@
-zip_code = "99148"
-state = "WA"
 city = "Loon Lake"
 county = "Stevens"
-longitude = -117.627815
 latitude = 48.107165
+longitude = -117.627815
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99148"
+

@@ -1,6 +1,8 @@
-zip_code = "17311"
-state = "PA"
 city = "Codorus"
 county = "York"
-longitude = -76.759884
 latitude = 39.871756
+longitude = -76.759884
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17311"
+

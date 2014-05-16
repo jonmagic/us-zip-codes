@@ -1,6 +1,8 @@
-zip_code = "74015"
-state = "OK"
 city = "Catoosa"
 county = "Rogers"
-longitude = -95.72584
 latitude = 36.212092
+longitude = -95.72584
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74015"
+

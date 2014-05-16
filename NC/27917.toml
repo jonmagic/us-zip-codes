@@ -1,6 +1,8 @@
-zip_code = "27917"
-state = "NC"
 city = "Barco"
 county = "Currituck"
-longitude = -75.989967
 latitude = 36.370898
+longitude = -75.989967
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27917"
+

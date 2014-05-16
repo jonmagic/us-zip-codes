@@ -1,6 +1,8 @@
-zip_code = "43902"
-state = "OH"
 city = "Alledonia"
 county = "Belmont"
-longitude = -80.980056
 latitude = 39.894917
+longitude = -80.980056
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43902"
+

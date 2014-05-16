@@ -1,6 +1,8 @@
-zip_code = "97028"
-state = "OR"
 city = "Government Camp"
 county = "Clackamas"
-longitude = -121.739004
 latitude = 45.297173
+longitude = -121.739004
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97028"
+

@@ -1,6 +1,8 @@
-zip_code = "16342"
-state = "PA"
 city = "Polk"
 county = "Venango"
-longitude = -79.926847
 latitude = 41.320273
+longitude = -79.926847
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16342"
+

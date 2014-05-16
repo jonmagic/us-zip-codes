@@ -1,6 +1,8 @@
-zip_code = "61244"
-state = "IL"
 city = "East Moline"
 county = "Rock Island"
-longitude = -90.512483
 latitude = 41.562693
+longitude = -90.512483
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61244"
+

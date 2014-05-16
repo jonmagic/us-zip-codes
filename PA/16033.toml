@@ -1,6 +1,8 @@
-zip_code = "16033"
-state = "PA"
 city = "Evans City"
 county = "Butler"
-longitude = -79.936488
 latitude = 40.904798
+longitude = -79.936488
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16033"
+

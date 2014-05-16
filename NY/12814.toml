@@ -1,6 +1,8 @@
-zip_code = "12814"
-state = "NY"
 city = "Bolton Landing"
 county = "Warren"
-longitude = -73.677564
 latitude = 43.574329
+longitude = -73.677564
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12814"
+

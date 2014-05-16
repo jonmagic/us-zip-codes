@@ -1,6 +1,8 @@
-zip_code = "01026"
-state = "MA"
 city = "Cummington"
 county = "Hampshire"
-longitude = -72.909841
 latitude = 42.428617
+longitude = -72.909841
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01026"
+

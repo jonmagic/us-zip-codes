@@ -1,6 +1,8 @@
-zip_code = "42286"
-state = "KY"
 city = "Trenton"
 county = "Todd"
-longitude = -87.24589
 latitude = 36.74195
+longitude = -87.24589
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42286"
+

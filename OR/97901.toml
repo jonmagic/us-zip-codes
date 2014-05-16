@@ -1,6 +1,8 @@
-zip_code = "97901"
-state = "OR"
 city = "Adrian"
 county = "Malheur"
-longitude = -117.368446
 latitude = 43.785214
+longitude = -117.368446
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97901"
+

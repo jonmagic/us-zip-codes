@@ -1,6 +1,8 @@
-zip_code = "39090"
-state = "MS"
 city = "Kosciusko"
 county = "Attala"
-longitude = -89.5913
 latitude = 33.055142
+longitude = -89.5913
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39090"
+

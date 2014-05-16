@@ -1,6 +1,8 @@
-zip_code = "19464"
-state = "PA"
 city = "Pottstown"
 county = "Montgomery"
-longitude = -75.617195
 latitude = 40.263457
+longitude = -75.617195
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19464"
+

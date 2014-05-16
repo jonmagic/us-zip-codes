@@ -1,6 +1,8 @@
-zip_code = "14742"
-state = "NY"
 city = "Greenhurst"
 county = "Chautauqua"
-longitude = -79.30958
 latitude = 42.120512
+longitude = -79.30958
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14742"
+

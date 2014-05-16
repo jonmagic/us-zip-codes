@@ -1,6 +1,8 @@
-zip_code = "53927"
-state = "WI"
 city = "Dellwood"
 county = "Adams"
-longitude = -89.941771
 latitude = 43.95546
+longitude = -89.941771
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53927"
+

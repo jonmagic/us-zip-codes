@@ -1,6 +1,8 @@
-zip_code = "04222"
-state = "ME"
 city = "Durham"
 county = "Androscoggin"
-longitude = -70.184618
 latitude = 43.968378
+longitude = -70.184618
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04222"
+

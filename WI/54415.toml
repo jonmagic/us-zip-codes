@@ -1,6 +1,8 @@
-zip_code = "54415"
-state = "WI"
 city = "Blenker"
 county = "Wood"
-longitude = -89.918563
 latitude = 44.619128
+longitude = -89.918563
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54415"
+

@@ -1,6 +1,8 @@
-zip_code = "34731"
-state = "FL"
 city = "Fruitland Park"
 county = "Lake"
-longitude = -81.905624
 latitude = 28.863361
+longitude = -81.905624
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34731"
+

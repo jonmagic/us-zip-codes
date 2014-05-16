@@ -1,6 +1,8 @@
-zip_code = "63673"
-state = "MO"
 city = "Saint Mary"
 county = "Sainte Genevieve"
-longitude = -90.016922
 latitude = 37.819949
+longitude = -90.016922
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63673"
+

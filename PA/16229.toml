@@ -1,6 +1,8 @@
-zip_code = "16229"
-state = "PA"
 city = "Freeport"
 county = "Armstrong"
-longitude = -79.46114
 latitude = 40.743732
+longitude = -79.46114
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16229"
+

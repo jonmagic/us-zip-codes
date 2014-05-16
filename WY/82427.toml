@@ -1,6 +1,8 @@
-zip_code = "82427"
-state = "WY"
 city = "Hamilton Dome"
 county = "Hot Springs"
-longitude = -108.454106
 latitude = 43.76976
+longitude = -108.454106
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82427"
+

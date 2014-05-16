@@ -1,6 +1,8 @@
-zip_code = "07078"
-state = "NJ"
 city = "Short Hills"
 county = "Essex"
-longitude = -74.334443
 latitude = 40.74055
+longitude = -74.334443
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07078"
+

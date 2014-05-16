@@ -1,6 +1,8 @@
-zip_code = "95728"
-state = "CA"
 city = "Soda Springs"
 county = "Nevada"
-longitude = -120.435313
 latitude = 39.31959
+longitude = -120.435313
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95728"
+

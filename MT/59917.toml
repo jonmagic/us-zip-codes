@@ -1,6 +1,8 @@
-zip_code = "59917"
-state = "MT"
 city = "Eureka"
 county = "Lincoln"
-longitude = -115.345992
 latitude = 48.729135
+longitude = -115.345992
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59917"
+

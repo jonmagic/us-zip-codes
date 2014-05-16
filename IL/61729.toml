@@ -1,6 +1,8 @@
-zip_code = "61729"
-state = "IL"
 city = "Congerville"
 county = "Woodford"
-longitude = -89.183981
 latitude = 40.617077
+longitude = -89.183981
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61729"
+

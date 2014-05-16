@@ -1,6 +1,8 @@
-zip_code = "12927"
-state = "NY"
 city = "Cranberry Lake"
 county = "Saint Lawrence"
-longitude = -74.858103
 latitude = 44.228969
+longitude = -74.858103
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12927"
+

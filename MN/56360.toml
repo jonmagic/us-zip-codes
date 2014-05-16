@@ -1,6 +1,8 @@
-zip_code = "56360"
-state = "MN"
 city = "Osakis"
 county = "Douglas"
-longitude = -95.237474
 latitude = 45.871169
+longitude = -95.237474
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56360"
+

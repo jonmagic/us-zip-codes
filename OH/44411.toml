@@ -1,6 +1,8 @@
-zip_code = "44411"
-state = "OH"
 city = "Deerfield"
 county = "Portage"
-longitude = -81.061016
 latitude = 41.037807
+longitude = -81.061016
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44411"
+

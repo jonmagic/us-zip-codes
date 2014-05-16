@@ -1,6 +1,8 @@
-zip_code = "47969"
-state = "IN"
 city = "Newtown"
 county = "Fountain"
-longitude = -87.147014
 latitude = 40.203459
+longitude = -87.147014
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47969"
+

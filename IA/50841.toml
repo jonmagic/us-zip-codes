@@ -1,6 +1,8 @@
-zip_code = "50841"
-state = "IA"
 city = "Corning"
 county = "Adams"
-longitude = -94.746591
 latitude = 41.028942
+longitude = -94.746591
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50841"
+

@@ -1,6 +1,8 @@
-zip_code = "14571"
-state = "NY"
 city = "Waterport"
 county = "Orleans"
-longitude = -78.238501
 latitude = 43.328706
+longitude = -78.238501
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14571"
+

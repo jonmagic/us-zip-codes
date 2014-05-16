@@ -1,6 +1,8 @@
-zip_code = "29482"
-state = "SC"
 city = "Sullivans Island"
 county = "Charleston"
-longitude = -79.83951
 latitude = 32.766336
+longitude = -79.83951
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29482"
+

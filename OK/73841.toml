@@ -1,6 +1,8 @@
-zip_code = "73841"
-state = "OK"
 city = "Fort Supply"
 county = "Woodward"
-longitude = -99.573764
 latitude = 36.572183
+longitude = -99.573764
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73841"
+

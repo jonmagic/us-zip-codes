@@ -1,6 +1,8 @@
-zip_code = "68360"
-state = "NE"
 city = "Garland"
 county = "Seward"
-longitude = -96.96783
 latitude = 40.966358
+longitude = -96.96783
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68360"
+

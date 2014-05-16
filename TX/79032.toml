@@ -1,6 +1,8 @@
-zip_code = "79032"
-state = "TX"
 city = "Edmonson"
 county = "Hale"
-longitude = -101.894088
 latitude = 34.278925
+longitude = -101.894088
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79032"
+

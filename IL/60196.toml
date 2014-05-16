@@ -1,6 +1,8 @@
-zip_code = "60196"
-state = "IL"
 city = "Schaumburg"
 county = "Cook"
-longitude = -88.072522
 latitude = 42.056376
+longitude = -88.072522
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60196"
+

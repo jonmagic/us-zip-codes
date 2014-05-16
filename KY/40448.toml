@@ -1,6 +1,8 @@
-zip_code = "40448"
-state = "KY"
 city = "Mc Kinney"
 county = "Lincoln"
-longitude = -84.699802
 latitude = 37.445989
+longitude = -84.699802
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40448"
+

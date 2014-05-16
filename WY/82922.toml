@@ -1,6 +1,8 @@
-zip_code = "82922"
-state = "WY"
 city = "Bondurant"
 county = "Sublette"
-longitude = -110.152755
 latitude = 43.221022
+longitude = -110.152755
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82922"
+

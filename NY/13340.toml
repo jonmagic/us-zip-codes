@@ -1,6 +1,8 @@
-zip_code = "13340"
-state = "NY"
 city = "Frankfort"
 county = "Herkimer"
-longitude = -75.118168
 latitude = 43.039203
+longitude = -75.118168
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13340"
+

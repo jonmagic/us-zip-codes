@@ -1,6 +1,8 @@
-zip_code = "67578"
-state = "KS"
 city = "Stafford"
 county = "Stafford"
-longitude = -98.775
 latitude = 37.961811
+longitude = -98.775
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67578"
+

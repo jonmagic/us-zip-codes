@@ -1,6 +1,8 @@
-zip_code = "49818"
-state = "MI"
 city = "Cornell"
 county = "Delta"
-longitude = -87.20714
 latitude = 45.910352
+longitude = -87.20714
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49818"
+

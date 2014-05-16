@@ -1,6 +1,8 @@
-zip_code = "06331"
-state = "CT"
 city = "Canterbury"
 county = "Windham"
-longitude = -71.998277
 latitude = 41.696753
+longitude = -71.998277
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06331"
+

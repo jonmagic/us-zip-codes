@@ -1,6 +1,8 @@
-zip_code = "11701"
-state = "NY"
 city = "Amityville"
 county = "Suffolk"
-longitude = -73.411866
 latitude = 40.686249
+longitude = -73.411866
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11701"
+

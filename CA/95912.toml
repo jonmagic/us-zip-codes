@@ -1,6 +1,8 @@
-zip_code = "95912"
-state = "CA"
 city = "Arbuckle"
 county = "Colusa"
-longitude = -121.996852
 latitude = 39.0134
+longitude = -121.996852
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95912"
+

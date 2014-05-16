@@ -1,6 +1,8 @@
-zip_code = "49429"
-state = "MI"
 city = "Jenison"
 county = "Ottawa"
-longitude = -86.444751
 latitude = 42.985596
+longitude = -86.444751
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49429"
+

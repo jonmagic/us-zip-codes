@@ -1,6 +1,8 @@
-zip_code = "82936"
-state = "WY"
 city = "Lonetree"
 county = "Uinta"
-longitude = -110.173336
 latitude = 41.024224
+longitude = -110.173336
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82936"
+

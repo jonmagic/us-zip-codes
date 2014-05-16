@@ -1,6 +1,8 @@
-zip_code = "08226"
-state = "NJ"
 city = "Ocean City"
 county = "Cape May"
-longitude = -74.604409
 latitude = 39.24853
+longitude = -74.604409
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08226"
+

@@ -1,6 +1,8 @@
-zip_code = "30274"
-state = "GA"
 city = "Riverdale"
 county = "Clayton"
-longitude = -84.397997
 latitude = 33.555536
+longitude = -84.397997
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30274"
+

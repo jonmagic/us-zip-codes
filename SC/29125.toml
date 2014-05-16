@@ -1,6 +1,8 @@
-zip_code = "29125"
-state = "SC"
 city = "Pinewood"
 county = "Sumter"
-longitude = -80.457854
 latitude = 33.756082
+longitude = -80.457854
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29125"
+

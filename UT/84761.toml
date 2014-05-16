@@ -1,6 +1,8 @@
-zip_code = "84761"
-state = "UT"
 city = "Parowan"
 county = "Iron"
-longitude = -112.849246
 latitude = 37.823412
+longitude = -112.849246
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84761"
+

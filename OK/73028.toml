@@ -1,6 +1,8 @@
-zip_code = "73028"
-state = "OK"
 city = "Crescent"
 county = "Logan"
-longitude = -97.628098
 latitude = 35.977031
+longitude = -97.628098
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73028"
+

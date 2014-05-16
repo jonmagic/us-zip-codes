@@ -1,6 +1,8 @@
-zip_code = "82717"
-state = "WY"
 city = "Gillette"
 county = "Campbell"
-longitude = -105.495943
 latitude = 44.304713
+longitude = -105.495943
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82717"
+

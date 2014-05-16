@@ -1,6 +1,8 @@
-zip_code = "44064"
-state = "OH"
 city = "Montville"
 county = "Geauga"
-longitude = -81.051767
 latitude = 41.603114
+longitude = -81.051767
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44064"
+

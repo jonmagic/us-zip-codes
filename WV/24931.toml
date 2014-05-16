@@ -1,6 +1,8 @@
-zip_code = "24931"
-state = "WV"
 city = "Crawley"
 county = "Greenbrier"
-longitude = -80.611705
 latitude = 37.918876
+longitude = -80.611705
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24931"
+

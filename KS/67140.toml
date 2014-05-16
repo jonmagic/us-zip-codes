@@ -1,6 +1,8 @@
-zip_code = "67140"
-state = "KS"
 city = "South Haven"
 county = "Sumner"
-longitude = -97.329247
 latitude = 37.136607
+longitude = -97.329247
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67140"
+

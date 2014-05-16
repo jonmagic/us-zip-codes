@@ -1,6 +1,8 @@
-zip_code = "58327"
-state = "ND"
 city = "Crary"
 county = "Ramsey"
-longitude = -98.573116
 latitude = 48.091012
+longitude = -98.573116
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58327"
+

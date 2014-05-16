@@ -1,6 +1,8 @@
-zip_code = "15622"
-state = "PA"
 city = "Champion"
 county = "Westmoreland"
-longitude = -79.30196
 latitude = 40.190193
+longitude = -79.30196
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15622"
+

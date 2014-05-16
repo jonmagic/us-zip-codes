@@ -1,6 +1,8 @@
-zip_code = "47574"
-state = "IN"
 city = "Rome"
 county = "Perry"
-longitude = -86.534002
 latitude = 37.937193
+longitude = -86.534002
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47574"
+

@@ -1,6 +1,8 @@
-zip_code = "35575"
-state = "AL"
 city = "Lynn"
 county = "Winston"
-longitude = -87.552646
 latitude = 34.049571
+longitude = -87.552646
+state = ""
+state_code_alpha2 = ""
+zip_code = "35575"
+

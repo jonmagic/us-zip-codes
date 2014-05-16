@@ -1,6 +1,8 @@
-zip_code = "56316"
-state = "MN"
 city = "Brooten"
 county = "Stearns"
-longitude = -95.056661
 latitude = 45.513441
+longitude = -95.056661
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56316"
+

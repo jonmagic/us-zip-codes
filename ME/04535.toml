@@ -1,6 +1,8 @@
-zip_code = "04535"
-state = "ME"
 city = "Alna"
 county = "Lincoln"
-longitude = -69.566684
 latitude = 44.008962
+longitude = -69.566684
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04535"
+

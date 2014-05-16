@@ -1,6 +1,8 @@
-zip_code = "71647"
-state = "AR"
 city = "Hermitage"
 county = "Bradley"
-longitude = -92.155958
 latitude = 33.390044
+longitude = -92.155958
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71647"
+

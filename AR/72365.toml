@@ -1,6 +1,8 @@
-zip_code = "72365"
-state = "AR"
 city = "Marked Tree"
 county = "Poinsett"
-longitude = -90.43642
 latitude = 35.531267
+longitude = -90.43642
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72365"
+

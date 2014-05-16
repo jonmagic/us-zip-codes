@@ -1,6 +1,8 @@
-zip_code = "10597"
-state = "NY"
 city = "Waccabuc"
 county = "Westchester"
-longitude = -73.597979
 latitude = 41.297198
+longitude = -73.597979
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10597"
+

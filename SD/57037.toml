@@ -1,6 +1,8 @@
-zip_code = "57037"
-state = "SD"
 city = "Irene"
 county = "Clay"
-longitude = -97.130498
 latitude = 43.068331
+longitude = -97.130498
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57037"
+

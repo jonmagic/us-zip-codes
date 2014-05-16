@@ -1,6 +1,8 @@
-zip_code = "77964"
-state = "TX"
 city = "Hallettsville"
 county = "Lavaca"
-longitude = -96.93942
 latitude = 29.418431
+longitude = -96.93942
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77964"
+

@@ -1,6 +1,8 @@
-zip_code = "73532"
-state = "OK"
 city = "Duke"
 county = "Jackson"
-longitude = -99.569018
 latitude = 34.663508
+longitude = -99.569018
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73532"
+

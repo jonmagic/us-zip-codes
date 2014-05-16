@@ -1,6 +1,8 @@
-zip_code = "20108"
-state = "VA"
 city = "Manassas"
 county = "Manassas City"
-longitude = -77.487162
 latitude = 38.744685
+longitude = -77.487162
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20108"
+

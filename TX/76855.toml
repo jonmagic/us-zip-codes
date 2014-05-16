@@ -1,6 +1,8 @@
-zip_code = "76855"
-state = "TX"
 city = "Lowake"
 county = "Concho"
-longitude = -99.85837
 latitude = 31.333614
+longitude = -99.85837
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76855"
+

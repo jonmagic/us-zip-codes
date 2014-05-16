@@ -1,6 +1,8 @@
-zip_code = "23409"
-state = "VA"
 city = "Mears"
 county = "Accomack"
-longitude = -75.611577
 latitude = 37.844421
+longitude = -75.611577
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23409"
+

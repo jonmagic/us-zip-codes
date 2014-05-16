@@ -1,6 +1,8 @@
-zip_code = "66073"
-state = "KS"
 city = "Perry"
 county = "Jefferson"
-longitude = -95.396681
 latitude = 39.229717
+longitude = -95.396681
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66073"
+

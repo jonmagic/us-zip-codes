@@ -1,6 +1,8 @@
-zip_code = "81242"
-state = "CO"
 city = "Poncha Springs"
 county = "Chaffee"
-longitude = -106.097284
 latitude = 38.471892
+longitude = -106.097284
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81242"
+

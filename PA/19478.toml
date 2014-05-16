@@ -1,6 +1,8 @@
-zip_code = "19478"
-state = "PA"
 city = "Spring Mount"
 county = "Montgomery"
-longitude = -75.461756
 latitude = 40.275914
+longitude = -75.461756
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19478"
+

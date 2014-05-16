@@ -1,6 +1,8 @@
-zip_code = "63638"
-state = "MO"
 city = "Ellington"
 county = "Reynolds"
-longitude = -90.969767
 latitude = 37.232968
+longitude = -90.969767
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63638"
+

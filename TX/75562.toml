@@ -1,6 +1,8 @@
-zip_code = "75562"
-state = "TX"
 city = "Kildare"
 county = "Cass"
-longitude = -94.361886
 latitude = 33.008643
+longitude = -94.361886
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75562"
+

@@ -1,6 +1,8 @@
-zip_code = "62236"
-state = "IL"
 city = "Columbia"
 county = "Monroe"
-longitude = -90.16382
 latitude = 38.409442
+longitude = -90.16382
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62236"
+

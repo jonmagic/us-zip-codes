@@ -1,6 +1,8 @@
-zip_code = "81302"
-state = "CO"
 city = "Durango"
 county = "La Plata"
-longitude = -107.935945
 latitude = 37.357249
+longitude = -107.935945
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81302"
+

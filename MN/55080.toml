@@ -1,6 +1,8 @@
-zip_code = "55080"
-state = "MN"
 city = "Stanchfield"
 county = "Isanti"
-longitude = -93.275622
 latitude = 45.651313
+longitude = -93.275622
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55080"
+

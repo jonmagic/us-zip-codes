@@ -1,6 +1,8 @@
-zip_code = "79779"
-state = "TX"
 city = "Royalty"
 county = "Ward"
-longitude = -103.188993
 latitude = 31.459448
+longitude = -103.188993
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79779"
+

@@ -1,6 +1,8 @@
-zip_code = "59457"
-state = "MT"
 city = "Lewistown"
 county = "Fergus"
-longitude = -109.381996
 latitude = 47.250047
+longitude = -109.381996
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59457"
+

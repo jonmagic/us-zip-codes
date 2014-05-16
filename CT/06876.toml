@@ -1,6 +1,8 @@
-zip_code = "06876"
-state = "CT"
 city = "Redding Ridge"
 county = "Fairfield"
-longitude = -73.583569
 latitude = 41.032647
+longitude = -73.583569
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06876"
+

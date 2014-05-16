@@ -1,6 +1,8 @@
-zip_code = "02562"
-state = "MA"
 city = "Sagamore Beach"
 county = "Barnstable"
-longitude = -70.519584
 latitude = 41.793263
+longitude = -70.519584
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02562"
+

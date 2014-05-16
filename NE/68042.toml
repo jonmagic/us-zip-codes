@@ -1,6 +1,8 @@
-zip_code = "68042"
-state = "NE"
 city = "Memphis"
 county = "Saunders"
-longitude = -96.430553
 latitude = 41.094587
+longitude = -96.430553
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68042"
+

@@ -1,6 +1,8 @@
-zip_code = "71303"
-state = "LA"
 city = "Alexandria"
 county = "Rapides"
-longitude = -92.53434
 latitude = 31.259983
+longitude = -92.53434
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71303"
+

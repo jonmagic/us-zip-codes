@@ -1,6 +1,8 @@
-zip_code = "75778"
-state = "TX"
 city = "Murchison"
 county = "Henderson"
-longitude = -95.742334
 latitude = 32.293384
+longitude = -95.742334
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75778"
+

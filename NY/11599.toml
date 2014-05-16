@@ -1,6 +1,8 @@
-zip_code = "11599"
-state = "NY"
 city = "Garden City"
 county = "Nassau"
-longitude = -73.742691
 latitude = 40.607574
+longitude = -73.742691
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11599"
+

@@ -1,6 +1,8 @@
-zip_code = "12924"
-state = "NY"
 city = "Keeseville"
 county = "Clinton"
-longitude = -73.744555
 latitude = 44.706561
+longitude = -73.744555
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12924"
+

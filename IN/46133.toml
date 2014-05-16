@@ -1,6 +1,8 @@
-zip_code = "46133"
-state = "IN"
 city = "Glenwood"
 county = "Fayette"
-longitude = -85.276882
 latitude = 39.58598
+longitude = -85.276882
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46133"
+

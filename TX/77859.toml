@@ -1,6 +1,8 @@
-zip_code = "77859"
-state = "TX"
 city = "Hearne"
 county = "Robertson"
-longitude = -96.581229
 latitude = 30.925686
+longitude = -96.581229
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77859"
+

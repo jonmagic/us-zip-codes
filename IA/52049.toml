@@ -1,6 +1,8 @@
-zip_code = "52049"
-state = "IA"
 city = "Garnavillo"
 county = "Clayton"
-longitude = -91.257708
 latitude = 42.808244
+longitude = -91.257708
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52049"
+

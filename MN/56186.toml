@@ -1,6 +1,8 @@
-zip_code = "56186"
-state = "MN"
 city = "Woodstock"
 county = "Pipestone"
-longitude = -96.09925
 latitude = 44.009283
+longitude = -96.09925
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56186"
+

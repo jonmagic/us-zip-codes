@@ -1,6 +1,8 @@
-zip_code = "80601"
-state = "CO"
 city = "Brighton"
 county = "Adams"
-longitude = -104.786597
 latitude = 39.942984
+longitude = -104.786597
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80601"
+

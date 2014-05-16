@@ -1,6 +1,8 @@
-zip_code = "70421"
-state = "LA"
 city = "Akers"
 county = "Tangipahoa"
-longitude = -90.405312
 latitude = 30.612371
+longitude = -90.405312
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70421"
+

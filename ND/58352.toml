@@ -1,6 +1,8 @@
-zip_code = "58352"
-state = "ND"
 city = "Munich"
 county = "Cavalier"
-longitude = -98.835465
 latitude = 48.66937
+longitude = -98.835465
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58352"
+

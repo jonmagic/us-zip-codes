@@ -1,6 +1,8 @@
-zip_code = "97486"
-state = "OR"
 city = "Umpqua"
 county = "Douglas"
-longitude = -123.516847
 latitude = 43.393775
+longitude = -123.516847
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97486"
+

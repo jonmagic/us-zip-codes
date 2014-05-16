@@ -1,6 +1,8 @@
-zip_code = "40807"
-state = "KY"
 city = "Benham"
 county = "Harlan"
-longitude = -82.955273
 latitude = 36.971157
+longitude = -82.955273
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40807"
+

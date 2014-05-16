@@ -1,6 +1,8 @@
-zip_code = "61354"
-state = "IL"
 city = "Peru"
 county = "La Salle"
-longitude = -89.08578
 latitude = 41.326408
+longitude = -89.08578
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61354"
+

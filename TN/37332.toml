@@ -1,6 +1,8 @@
-zip_code = "37332"
-state = "TN"
 city = "Evensville"
 county = "Rhea"
-longitude = -84.945661
 latitude = 35.531335
+longitude = -84.945661
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37332"
+

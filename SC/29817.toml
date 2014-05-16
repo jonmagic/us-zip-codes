@@ -1,6 +1,8 @@
-zip_code = "29817"
-state = "SC"
 city = "Blackville"
 county = "Barnwell"
-longitude = -81.29751
 latitude = 33.363819
+longitude = -81.29751
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29817"
+

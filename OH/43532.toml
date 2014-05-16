@@ -1,6 +1,8 @@
-zip_code = "43532"
-state = "OH"
 city = "Liberty Center"
 county = "Henry"
-longitude = -84.008448
 latitude = 41.429356
+longitude = -84.008448
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43532"
+

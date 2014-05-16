@@ -1,6 +1,8 @@
-zip_code = "47640"
-state = "IN"
 city = "Hazleton"
 county = "Gibson"
-longitude = -87.473674
 latitude = 38.384971
+longitude = -87.473674
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47640"
+

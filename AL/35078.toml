@@ -1,6 +1,8 @@
-zip_code = "35078"
-state = "AL"
 city = "Harpersville"
 county = "Shelby"
-longitude = -86.459291
 latitude = 33.199274
+longitude = -86.459291
+state = ""
+state_code_alpha2 = ""
+zip_code = "35078"
+

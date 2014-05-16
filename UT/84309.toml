@@ -1,6 +1,8 @@
-zip_code = "84309"
-state = "UT"
 city = "Deweyville"
 county = "Box Elder"
-longitude = -112.097195
 latitude = 41.713643
+longitude = -112.097195
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84309"
+

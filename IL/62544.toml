@@ -1,6 +1,8 @@
-zip_code = "62544"
-state = "IL"
 city = "Macon"
 county = "Macon"
-longitude = -89.022026
 latitude = 39.700267
+longitude = -89.022026
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62544"
+

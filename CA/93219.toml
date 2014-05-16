@@ -1,6 +1,8 @@
-zip_code = "93219"
-state = "CA"
 city = "Earlimart"
 county = "Tulare"
-longitude = -119.262323
 latitude = 35.875918
+longitude = -119.262323
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93219"
+

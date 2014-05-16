@@ -1,6 +1,8 @@
-zip_code = "72385"
-state = "AR"
 city = "Twist"
 county = "Cross"
-longitude = -90.772419
 latitude = 35.296539
+longitude = -90.772419
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72385"
+

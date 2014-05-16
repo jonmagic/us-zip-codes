@@ -1,6 +1,8 @@
-zip_code = "47885"
-state = "IN"
 city = "West Terre Haute"
 county = "Vigo"
-longitude = -87.468825
 latitude = 39.498419
+longitude = -87.468825
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47885"
+

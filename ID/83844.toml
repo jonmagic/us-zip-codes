@@ -1,6 +1,8 @@
-zip_code = "83844"
-state = "ID"
 city = "Moscow"
 county = "Latah"
-longitude = -116.684553
 latitude = 46.836284
+longitude = -116.684553
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83844"
+

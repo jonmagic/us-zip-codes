@@ -1,6 +1,8 @@
-zip_code = "77406"
-state = "TX"
 city = "Richmond"
 county = "Fort Bend"
-longitude = -95.919107
 latitude = 29.50401
+longitude = -95.919107
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77406"
+

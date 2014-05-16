@@ -1,6 +1,8 @@
-zip_code = "36921"
-state = "AL"
 city = "Toxey"
 county = "Choctaw"
-longitude = -88.151048
 latitude = 31.915506
+longitude = -88.151048
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36921"
+

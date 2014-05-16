@@ -1,6 +1,8 @@
-zip_code = "82510"
-state = "WY"
 city = "Arapahoe"
 county = "Fremont"
-longitude = -108.584486
 latitude = 43.035809
+longitude = -108.584486
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82510"
+

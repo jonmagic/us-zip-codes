@@ -1,6 +1,8 @@
-zip_code = "77954"
-state = "TX"
 city = "Cuero"
 county = "De Witt"
-longitude = -97.260776
 latitude = 29.093677
+longitude = -97.260776
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77954"
+

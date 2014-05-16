@@ -1,6 +1,8 @@
-zip_code = "21661"
-state = "MD"
 city = "Rock Hall"
 county = "Kent"
-longitude = -76.223193
 latitude = 39.117823
+longitude = -76.223193
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21661"
+

@@ -1,6 +1,8 @@
-zip_code = "59343"
-state = "MT"
 city = "Olive"
 county = "Powder River"
-longitude = -105.630461
 latitude = 45.391078
+longitude = -105.630461
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59343"
+

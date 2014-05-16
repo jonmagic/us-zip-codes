@@ -1,6 +1,8 @@
-zip_code = "27127"
-state = "NC"
 city = "Winston Salem"
 county = "Forsyth"
-longitude = -80.282645
 latitude = 36.040815
+longitude = -80.282645
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27127"
+

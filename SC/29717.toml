@@ -1,6 +1,8 @@
-zip_code = "29717"
-state = "SC"
 city = "Hickory Grove"
 county = "York"
-longitude = -81.433448
 latitude = 34.963339
+longitude = -81.433448
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29717"
+

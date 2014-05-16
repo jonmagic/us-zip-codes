@@ -1,6 +1,8 @@
-zip_code = "72327"
-state = "AR"
 city = "Crawfordsville"
 county = "Crittenden"
-longitude = -90.35832
 latitude = 35.232042
+longitude = -90.35832
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72327"
+

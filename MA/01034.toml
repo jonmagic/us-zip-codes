@@ -1,6 +1,8 @@
-zip_code = "01034"
-state = "MA"
 city = "Granville"
 county = "Hampden"
-longitude = -72.952003
 latitude = 42.112748
+longitude = -72.952003
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01034"
+

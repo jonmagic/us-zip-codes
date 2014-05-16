@@ -1,6 +1,8 @@
-zip_code = "76534"
-state = "TX"
 city = "Holland"
 county = "Bell"
-longitude = -97.418108
 latitude = 30.887588
+longitude = -97.418108
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76534"
+

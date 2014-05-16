@@ -1,6 +1,8 @@
-zip_code = "46740"
-state = "IN"
 city = "Geneva"
 county = "Adams"
-longitude = -84.936072
 latitude = 40.612058
+longitude = -84.936072
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46740"
+

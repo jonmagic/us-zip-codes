@@ -1,6 +1,8 @@
-zip_code = "17020"
-state = "PA"
 city = "Duncannon"
 county = "Perry"
-longitude = -77.060745
 latitude = 40.458261
+longitude = -77.060745
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17020"
+

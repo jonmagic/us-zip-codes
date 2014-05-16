@@ -1,6 +1,8 @@
-zip_code = "93932"
-state = "CA"
 city = "Lockwood"
 county = "Monterey"
-longitude = -121.062554
 latitude = 35.949963
+longitude = -121.062554
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93932"
+

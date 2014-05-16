@@ -1,6 +1,8 @@
-zip_code = "53558"
-state = "WI"
 city = "Mc Farland"
 county = "Dane"
-longitude = -89.363862
 latitude = 43.010519
+longitude = -89.363862
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53558"
+

@@ -1,6 +1,8 @@
-zip_code = "25044"
-state = "WV"
 city = "Clear Creek"
 county = "Raleigh"
-longitude = -81.408766
 latitude = 37.880406
+longitude = -81.408766
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25044"
+

@@ -1,6 +1,8 @@
-zip_code = "48658"
-state = "MI"
 city = "Standish"
 county = "Arenac"
-longitude = -83.900702
 latitude = 43.979427
+longitude = -83.900702
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48658"
+

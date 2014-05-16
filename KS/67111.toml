@@ -1,6 +1,8 @@
-zip_code = "67111"
-state = "KS"
 city = "Murdock"
 county = "Kingman"
-longitude = -97.963093
 latitude = 37.619803
+longitude = -97.963093
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67111"
+

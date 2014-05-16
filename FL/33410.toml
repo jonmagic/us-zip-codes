@@ -1,6 +1,8 @@
-zip_code = "33410"
-state = "FL"
 city = "West Palm Beach"
 county = "Palm Beach"
-longitude = -80.054613
 latitude = 26.598446
+longitude = -80.054613
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33410"
+

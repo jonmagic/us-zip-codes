@@ -1,6 +1,8 @@
-zip_code = "78674"
-state = "TX"
 city = "Weir"
 county = "Williamson"
-longitude = -97.59286
 latitude = 30.674667
+longitude = -97.59286
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78674"
+

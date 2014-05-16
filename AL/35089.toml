@@ -1,6 +1,8 @@
-zip_code = "35089"
-state = "AL"
 city = "Kellyton"
 county = "Coosa"
-longitude = -86.095801
 latitude = 32.934298
+longitude = -86.095801
+state = ""
+state_code_alpha2 = ""
+zip_code = "35089"
+

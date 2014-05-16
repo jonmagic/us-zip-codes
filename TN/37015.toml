@@ -1,6 +1,8 @@
-zip_code = "37015"
-state = "TN"
 city = "Ashland City"
 county = "Cheatham"
-longitude = -87.083657
 latitude = 36.297807
+longitude = -87.083657
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37015"
+

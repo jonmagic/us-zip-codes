@@ -1,6 +1,8 @@
-zip_code = "07922"
-state = "NJ"
 city = "Berkeley Heights"
 county = "Union"
-longitude = -74.422196
 latitude = 40.675451
+longitude = -74.422196
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07922"
+

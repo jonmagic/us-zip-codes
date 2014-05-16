@@ -1,6 +1,8 @@
-zip_code = "93427"
-state = "CA"
 city = "Buellton"
 county = "Santa Barbara"
-longitude = -120.201469
 latitude = 34.635927
+longitude = -120.201469
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93427"
+

@@ -1,6 +1,8 @@
-zip_code = "15951"
-state = "PA"
 city = "Saint Michael"
 county = "Cambria"
-longitude = -78.776137
 latitude = 40.338615
+longitude = -78.776137
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15951"
+

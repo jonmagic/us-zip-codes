@@ -1,6 +1,8 @@
-zip_code = "97377"
-state = "OR"
 city = "Shedd"
 county = "Linn"
-longitude = -123.106034
 latitude = 44.435988
+longitude = -123.106034
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97377"
+

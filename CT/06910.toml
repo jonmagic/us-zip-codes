@@ -1,6 +1,8 @@
-zip_code = "06910"
-state = "CT"
 city = "Stamford"
 county = "Fairfield"
-longitude = -73.559118
 latitude = 41.039147
+longitude = -73.559118
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06910"
+

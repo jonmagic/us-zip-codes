@@ -1,6 +1,8 @@
-zip_code = "47355"
-state = "IN"
 city = "Lynn"
 county = "Randolph"
-longitude = -84.941102
 latitude = 40.055775
+longitude = -84.941102
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47355"
+

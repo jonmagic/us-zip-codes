@@ -1,6 +1,8 @@
-zip_code = "12860"
-state = "NY"
 city = "Pottersville"
 county = "Warren"
-longitude = -73.784407
 latitude = 43.592829
+longitude = -73.784407
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12860"
+

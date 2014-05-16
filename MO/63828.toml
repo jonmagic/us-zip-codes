@@ -1,6 +1,8 @@
-zip_code = "63828"
-state = "MO"
 city = "Canalou"
 county = "New Madrid"
-longitude = -89.748273
 latitude = 36.685031
+longitude = -89.748273
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63828"
+

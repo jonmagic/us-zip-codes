@@ -1,6 +1,8 @@
-zip_code = "97630"
-state = "OR"
 city = "Lakeview"
 county = "Lake"
-longitude = -120.369607
 latitude = 42.180763
+longitude = -120.369607
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97630"
+

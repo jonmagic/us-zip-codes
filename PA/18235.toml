@@ -1,6 +1,8 @@
-zip_code = "18235"
-state = "PA"
 city = "Lehighton"
 county = "Carbon"
-longitude = -75.736164
 latitude = 40.886664
+longitude = -75.736164
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18235"
+

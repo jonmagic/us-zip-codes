@@ -1,6 +1,8 @@
-zip_code = "56177"
-state = "MN"
 city = "Trosky"
 county = "Pipestone"
-longitude = -96.260066
 latitude = 43.889477
+longitude = -96.260066
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56177"
+

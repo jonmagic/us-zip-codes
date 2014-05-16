@@ -1,6 +1,8 @@
-zip_code = "73743"
-state = "OK"
 city = "Hillsdale"
 county = "Garfield"
-longitude = -97.782595
 latitude = 36.379072
+longitude = -97.782595
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73743"
+

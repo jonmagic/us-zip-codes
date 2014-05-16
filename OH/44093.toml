@@ -1,6 +1,8 @@
-zip_code = "44093"
-state = "OH"
 city = "Williamsfield"
 county = "Ashtabula"
-longitude = -80.726693
 latitude = 41.535263
+longitude = -80.726693
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44093"
+

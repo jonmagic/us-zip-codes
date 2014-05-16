@@ -1,6 +1,8 @@
-zip_code = "61849"
-state = "IL"
 city = "Homer"
 county = "Champaign"
-longitude = -88.154018
 latitude = 40.110684
+longitude = -88.154018
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61849"
+

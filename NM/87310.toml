@@ -1,6 +1,8 @@
-zip_code = "87310"
-state = "NM"
 city = "Brimhall"
 county = "Mckinley"
-longitude = -108.595495
 latitude = 35.79583
+longitude = -108.595495
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87310"
+

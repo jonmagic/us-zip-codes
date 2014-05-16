@@ -1,6 +1,8 @@
-zip_code = "26426"
-state = "WV"
 city = "Salem"
 county = "Harrison"
-longitude = -80.49102
 latitude = 39.245329
+longitude = -80.49102
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26426"
+

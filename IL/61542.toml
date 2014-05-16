@@ -1,6 +1,8 @@
-zip_code = "61542"
-state = "IL"
 city = "Lewistown"
 county = "Fulton"
-longitude = -90.166942
 latitude = 40.463185
+longitude = -90.166942
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61542"
+

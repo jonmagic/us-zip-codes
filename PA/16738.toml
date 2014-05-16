@@ -1,6 +1,8 @@
-zip_code = "16738"
-state = "PA"
 city = "Lewis Run"
 county = "Mckean"
-longitude = -78.691582
 latitude = 41.836866
+longitude = -78.691582
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16738"
+

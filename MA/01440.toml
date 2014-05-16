@@ -1,6 +1,8 @@
-zip_code = "01440"
-state = "MA"
 city = "Gardner"
 county = "Worcester"
-longitude = -72.025884
 latitude = 42.582529
+longitude = -72.025884
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01440"
+

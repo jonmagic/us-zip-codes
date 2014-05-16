@@ -1,6 +1,8 @@
-zip_code = "57626"
-state = "SD"
 city = "Faith"
 county = "Meade"
-longitude = -102.026734
 latitude = 45.024533
+longitude = -102.026734
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57626"
+

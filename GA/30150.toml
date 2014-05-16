@@ -1,6 +1,8 @@
-zip_code = "30150"
-state = "GA"
 city = "Mount Zion"
 county = "Carroll"
-longitude = -85.181782
 latitude = 33.643002
+longitude = -85.181782
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30150"
+

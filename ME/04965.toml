@@ -1,6 +1,8 @@
-zip_code = "04965"
-state = "ME"
 city = "Palmyra"
 county = "Somerset"
-longitude = -69.537715
 latitude = 44.802655
+longitude = -69.537715
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04965"
+

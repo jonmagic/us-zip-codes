@@ -1,6 +1,8 @@
-zip_code = "18214"
-state = "PA"
 city = "Barnesville"
 county = "Schuylkill"
-longitude = -76.036009
 latitude = 40.80868
+longitude = -76.036009
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18214"
+

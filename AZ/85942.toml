@@ -1,6 +1,8 @@
-zip_code = "85942"
-state = "AZ"
 city = "Woodruff"
 county = "Navajo"
-longitude = -110.080632
 latitude = 34.647454
+longitude = -110.080632
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85942"
+

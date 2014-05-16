@@ -1,6 +1,8 @@
-zip_code = "18070"
-state = "PA"
 city = "Palm"
 county = "Montgomery"
-longitude = -75.531182
 latitude = 40.430181
+longitude = -75.531182
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18070"
+

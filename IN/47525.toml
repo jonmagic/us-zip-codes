@@ -1,6 +1,8 @@
-zip_code = "47525"
-state = "IN"
 city = "Derby"
 county = "Perry"
-longitude = -86.565129
 latitude = 38.020017
+longitude = -86.565129
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47525"
+

@@ -1,6 +1,8 @@
-zip_code = "72631"
-state = "AR"
 city = "Eureka Springs"
 county = "Carroll"
-longitude = -93.767298
 latitude = 36.435013
+longitude = -93.767298
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72631"
+

@@ -1,6 +1,8 @@
-zip_code = "14094"
-state = "NY"
 city = "Lockport"
 county = "Niagara"
-longitude = -78.706886
 latitude = 43.168463
+longitude = -78.706886
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14094"
+

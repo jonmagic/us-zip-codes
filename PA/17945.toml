@@ -1,6 +1,8 @@
-zip_code = "17945"
-state = "PA"
 city = "Locustdale"
 county = "Schuylkill"
-longitude = -76.370427
 latitude = 40.774531
+longitude = -76.370427
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17945"
+

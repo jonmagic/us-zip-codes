@@ -1,6 +1,8 @@
-zip_code = "68622"
-state = "NE"
 city = "Bartlett"
 county = "Wheeler"
-longitude = -98.528373
 latitude = 41.914601
+longitude = -98.528373
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68622"
+

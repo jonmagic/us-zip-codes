@@ -1,6 +1,8 @@
-zip_code = "70538"
-state = "LA"
 city = "Franklin"
 county = "Saint Mary"
-longitude = -91.540902
 latitude = 29.720652
+longitude = -91.540902
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70538"
+

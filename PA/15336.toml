@@ -1,6 +1,8 @@
-zip_code = "15336"
-state = "PA"
 city = "Gastonville"
 county = "Washington"
-longitude = -79.992678
 latitude = 40.260141
+longitude = -79.992678
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15336"
+

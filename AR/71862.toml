@@ -1,6 +1,8 @@
-zip_code = "71862"
-state = "AR"
 city = "Washington"
 county = "Hempstead"
-longitude = -93.713625
 latitude = 33.776095
+longitude = -93.713625
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71862"
+

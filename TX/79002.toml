@@ -1,6 +1,8 @@
-zip_code = "79002"
-state = "TX"
 city = "Alanreed"
 county = "Gray"
-longitude = -100.746559
 latitude = 35.432839
+longitude = -100.746559
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79002"
+

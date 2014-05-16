@@ -1,6 +1,8 @@
-zip_code = "44697"
-state = "OH"
 city = "Zoar"
 county = "Tuscarawas"
-longitude = -81.414245
 latitude = 40.61829
+longitude = -81.414245
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44697"
+

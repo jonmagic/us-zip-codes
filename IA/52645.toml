@@ -1,6 +1,8 @@
-zip_code = "52645"
-state = "IA"
 city = "New London"
 county = "Henry"
-longitude = -91.527126
 latitude = 40.907221
+longitude = -91.527126
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52645"
+

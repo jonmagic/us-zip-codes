@@ -1,6 +1,8 @@
-zip_code = "67857"
-state = "KS"
 city = "Kendall"
 county = "Hamilton"
-longitude = -101.785968
 latitude = 37.999701
+longitude = -101.785968
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67857"
+

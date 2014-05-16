@@ -1,6 +1,8 @@
-zip_code = "22548"
-state = "VA"
 city = "Sharps"
 county = "Richmond"
-longitude = -76.694775
 latitude = 37.837583
+longitude = -76.694775
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22548"
+

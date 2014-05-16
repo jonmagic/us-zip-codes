@@ -1,6 +1,8 @@
-zip_code = "54459"
-state = "WI"
 city = "Ogema"
 county = "Price"
-longitude = -90.287732
 latitude = 45.451541
+longitude = -90.287732
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54459"
+

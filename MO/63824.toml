@@ -1,6 +1,8 @@
-zip_code = "63824"
-state = "MO"
 city = "Blodgett"
 county = "Scott"
-longitude = -89.526567
 latitude = 37.004204
+longitude = -89.526567
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63824"
+

@@ -1,6 +1,8 @@
-zip_code = "44403"
-state = "OH"
 city = "Brookfield"
 county = "Trumbull"
-longitude = -80.573511
 latitude = 41.238176
+longitude = -80.573511
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44403"
+

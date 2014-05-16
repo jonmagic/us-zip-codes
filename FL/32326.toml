@@ -1,6 +1,8 @@
-zip_code = "32326"
-state = "FL"
 city = "Crawfordville"
 county = "Wakulla"
-longitude = -84.34906
 latitude = 30.183372
+longitude = -84.34906
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32326"
+

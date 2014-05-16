@@ -1,6 +1,8 @@
-zip_code = "49421"
-state = "MI"
 city = "Hesperia"
 county = "Oceana"
-longitude = -86.223175
 latitude = 43.574326
+longitude = -86.223175
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49421"
+

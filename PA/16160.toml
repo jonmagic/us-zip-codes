@@ -1,6 +1,8 @@
-zip_code = "16160"
-state = "PA"
 city = "West Pittsburg"
 county = "Lawrence"
-longitude = -80.361099
 latitude = 40.930132
+longitude = -80.361099
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16160"
+

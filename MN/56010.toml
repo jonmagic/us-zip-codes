@@ -1,6 +1,8 @@
-zip_code = "56010"
-state = "MN"
 city = "Amboy"
 county = "Blue Earth"
-longitude = -94.15839
 latitude = 43.886884
+longitude = -94.15839
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56010"
+

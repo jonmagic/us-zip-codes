@@ -1,6 +1,8 @@
-zip_code = "53951"
-state = "WI"
 city = "North Freedom"
 county = "Sauk"
-longitude = -89.872232
 latitude = 43.4031
+longitude = -89.872232
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53951"
+

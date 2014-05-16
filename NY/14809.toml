@@ -1,6 +1,8 @@
-zip_code = "14809"
-state = "NY"
 city = "Avoca"
 county = "Steuben"
-longitude = -77.464128
 latitude = 42.367861
+longitude = -77.464128
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14809"
+

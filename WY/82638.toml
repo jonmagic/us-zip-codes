@@ -1,6 +1,8 @@
-zip_code = "82638"
-state = "WY"
 city = "Hiland"
 county = "Natrona"
-longitude = -106.807047
 latitude = 42.966192
+longitude = -106.807047
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82638"
+

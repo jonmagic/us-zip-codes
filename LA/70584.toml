@@ -1,6 +1,8 @@
-zip_code = "70584"
-state = "LA"
 city = "Sunset"
 county = "Saint Landry"
-longitude = -92.065702
 latitude = 30.471399
+longitude = -92.065702
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70584"
+

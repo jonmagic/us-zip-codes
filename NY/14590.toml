@@ -1,6 +1,8 @@
-zip_code = "14590"
-state = "NY"
 city = "Wolcott"
 county = "Wayne"
-longitude = -76.840547
 latitude = 43.224693
+longitude = -76.840547
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14590"
+

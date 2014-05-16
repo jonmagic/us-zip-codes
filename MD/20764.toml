@@ -1,6 +1,8 @@
-zip_code = "20764"
-state = "MD"
 city = "Shady Side"
 county = "Anne Arundel"
-longitude = -76.589086
 latitude = 38.965727
+longitude = -76.589086
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20764"
+

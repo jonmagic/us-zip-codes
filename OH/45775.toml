@@ -1,6 +1,8 @@
-zip_code = "45775"
-state = "OH"
 city = "Rutland"
 county = "Meigs"
-longitude = -82.148554
 latitude = 39.090877
+longitude = -82.148554
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45775"
+

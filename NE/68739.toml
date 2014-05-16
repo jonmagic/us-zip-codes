@@ -1,6 +1,8 @@
-zip_code = "68739"
-state = "NE"
 city = "Hartington"
 county = "Cedar"
-longitude = -97.250509
 latitude = 42.591685
+longitude = -97.250509
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68739"
+

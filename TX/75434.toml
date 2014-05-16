@@ -1,6 +1,8 @@
-zip_code = "75434"
-state = "TX"
 city = "Cunningham"
 county = "Lamar"
-longitude = -95.582906
 latitude = 33.65973
+longitude = -95.582906
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75434"
+

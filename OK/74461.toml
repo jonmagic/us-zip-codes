@@ -1,6 +1,8 @@
-zip_code = "74461"
-state = "OK"
 city = "Stidham"
 county = "Mcintosh"
-longitude = -95.664118
 latitude = 35.347368
+longitude = -95.664118
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74461"
+

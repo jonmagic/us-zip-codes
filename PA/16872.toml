@@ -1,6 +1,8 @@
-zip_code = "16872"
-state = "PA"
 city = "Rebersburg"
 county = "Centre"
-longitude = -77.448451
 latitude = 40.939915
+longitude = -77.448451
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16872"
+

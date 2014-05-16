@@ -1,6 +1,8 @@
-zip_code = "27850"
-state = "NC"
 city = "Littleton"
 county = "Halifax"
-longitude = -77.709017
 latitude = 36.376924
+longitude = -77.709017
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27850"
+

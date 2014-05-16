@@ -1,6 +1,8 @@
-zip_code = "65109"
-state = "MO"
 city = "Jefferson City"
 county = "Cole"
-longitude = -92.299267
 latitude = 38.550219
+longitude = -92.299267
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65109"
+

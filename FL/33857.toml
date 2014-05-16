@@ -1,6 +1,8 @@
-zip_code = "33857"
-state = "FL"
 city = "Lorida"
 county = "Highlands"
-longitude = -81.228096
 latitude = 27.391447
+longitude = -81.228096
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33857"
+

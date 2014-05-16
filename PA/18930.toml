@@ -1,6 +1,8 @@
-zip_code = "18930"
-state = "PA"
 city = "Kintnersville"
 county = "Bucks"
-longitude = -75.207252
 latitude = 40.54199
+longitude = -75.207252
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18930"
+

@@ -1,6 +1,8 @@
-zip_code = "62997"
-state = "IL"
 city = "Willisville"
 county = "Perry"
-longitude = -89.589862
 latitude = 37.984776
+longitude = -89.589862
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62997"
+

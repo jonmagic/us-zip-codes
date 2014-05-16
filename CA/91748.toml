@@ -1,6 +1,8 @@
-zip_code = "91748"
-state = "CA"
 city = "Rowland Heights"
 county = "Los Angeles"
-longitude = -117.91736
 latitude = 33.966218
+longitude = -117.91736
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91748"
+

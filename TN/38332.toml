@@ -1,6 +1,8 @@
-zip_code = "38332"
-state = "TN"
 city = "Enville"
 county = "Chester"
-longitude = -88.429204
 latitude = 35.428488
+longitude = -88.429204
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38332"
+

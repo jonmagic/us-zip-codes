@@ -1,6 +1,8 @@
-zip_code = "19973"
-state = "DE"
 city = "Seaford"
 county = "Sussex"
-longitude = -75.380454
 latitude = 38.659891
+longitude = -75.380454
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19973"
+

@@ -1,6 +1,8 @@
-zip_code = "69346"
-state = "NE"
 city = "Harrison"
 county = "Sioux"
-longitude = -103.782027
 latitude = 42.631216
+longitude = -103.782027
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69346"
+

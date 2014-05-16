@@ -1,6 +1,8 @@
-zip_code = "29644"
-state = "SC"
 city = "Fountain Inn"
 county = "Greenville"
-longitude = -82.2441
 latitude = 34.65781
+longitude = -82.2441
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29644"
+

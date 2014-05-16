@@ -1,6 +1,8 @@
-zip_code = "54473"
-state = "WI"
 city = "Rosholt"
 county = "Portage"
-longitude = -89.356834
 latitude = 44.605786
+longitude = -89.356834
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54473"
+

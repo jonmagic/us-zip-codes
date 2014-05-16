@@ -1,6 +1,8 @@
-zip_code = "92276"
-state = "CA"
 city = "Thousand Palms"
 county = "Riverside"
-longitude = -116.393413
 latitude = 33.843837
+longitude = -116.393413
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92276"
+

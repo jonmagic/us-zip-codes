@@ -1,6 +1,8 @@
-zip_code = "67137"
-state = "KS"
 city = "Severy"
 county = "Greenwood"
-longitude = -96.225157
 latitude = 37.61705
+longitude = -96.225157
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67137"
+

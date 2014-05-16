@@ -1,6 +1,8 @@
-zip_code = "61433"
-state = "IL"
 city = "Fiatt"
 county = "Fulton"
-longitude = -90.161761
 latitude = 40.449305
+longitude = -90.161761
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61433"
+

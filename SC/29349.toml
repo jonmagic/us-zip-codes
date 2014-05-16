@@ -1,6 +1,8 @@
-zip_code = "29349"
-state = "SC"
 city = "Inman"
 county = "Spartanburg"
-longitude = -82.02964
 latitude = 35.075367
+longitude = -82.02964
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29349"
+

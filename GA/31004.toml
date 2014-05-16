@@ -1,6 +1,8 @@
-zip_code = "31004"
-state = "GA"
 city = "Bolingbroke"
 county = "Monroe"
-longitude = -83.800628
 latitude = 32.946971
+longitude = -83.800628
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31004"
+

@@ -1,6 +1,8 @@
-zip_code = "71323"
-state = "LA"
 city = "Center Point"
 county = "Avoyelles"
-longitude = -92.194478
 latitude = 31.235297
+longitude = -92.194478
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71323"
+

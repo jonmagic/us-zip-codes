@@ -1,6 +1,8 @@
-zip_code = "07740"
-state = "NJ"
 city = "Long Branch"
 county = "Monmouth"
-longitude = -74.1109
 latitude = 40.345361
+longitude = -74.1109
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07740"
+

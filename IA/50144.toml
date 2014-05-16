@@ -1,6 +1,8 @@
-zip_code = "50144"
-state = "IA"
 city = "Leon"
 county = "Decatur"
-longitude = -93.748889
 latitude = 40.740697
+longitude = -93.748889
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50144"
+

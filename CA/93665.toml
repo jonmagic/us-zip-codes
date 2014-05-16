@@ -1,6 +1,8 @@
-zip_code = "93665"
-state = "CA"
 city = "South Dos Palos"
 county = "Merced"
-longitude = -120.744668
 latitude = 37.01349
+longitude = -120.744668
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93665"
+

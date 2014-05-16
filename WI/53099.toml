@@ -1,6 +1,8 @@
-zip_code = "53099"
-state = "WI"
 city = "Woodland"
 county = "Dodge"
-longitude = -88.704914
 latitude = 43.414202
+longitude = -88.704914
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53099"
+

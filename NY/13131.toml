@@ -1,6 +1,8 @@
-zip_code = "13131"
-state = "NY"
 city = "Parish"
 county = "Oswego"
-longitude = -76.120904
 latitude = 43.43397
+longitude = -76.120904
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13131"
+

@@ -1,6 +1,8 @@
-zip_code = "67074"
-state = "KS"
 city = "Leon"
 county = "Butler"
-longitude = -96.748795
 latitude = 37.66475
+longitude = -96.748795
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67074"
+

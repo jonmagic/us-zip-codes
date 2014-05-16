@@ -1,6 +1,8 @@
-zip_code = "76490"
-state = "TX"
 city = "Whitt"
 county = "Parker"
-longitude = -97.942209
 latitude = 32.951494
+longitude = -97.942209
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76490"
+

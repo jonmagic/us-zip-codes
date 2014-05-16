@@ -1,6 +1,8 @@
-zip_code = "93528"
-state = "CA"
 city = "Johannesburg"
 county = "Kern"
-longitude = -117.642748
 latitude = 35.370839
+longitude = -117.642748
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93528"
+

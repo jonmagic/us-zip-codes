@@ -1,6 +1,8 @@
-zip_code = "52054"
-state = "IA"
 city = "La Motte"
 county = "Jackson"
-longitude = -90.595351
 latitude = 42.284057
+longitude = -90.595351
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52054"
+

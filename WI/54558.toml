@@ -1,6 +1,8 @@
-zip_code = "54558"
-state = "WI"
 city = "Saint Germain"
 county = "Vilas"
-longitude = -89.686925
 latitude = 45.942092
+longitude = -89.686925
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54558"
+

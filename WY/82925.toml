@@ -1,6 +1,8 @@
-zip_code = "82925"
-state = "WY"
 city = "Cora"
 county = "Sublette"
-longitude = -109.981117
 latitude = 43.125465
+longitude = -109.981117
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82925"
+

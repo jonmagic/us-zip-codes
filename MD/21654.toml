@@ -1,6 +1,8 @@
-zip_code = "21654"
-state = "MD"
 city = "Oxford"
 county = "Talbot"
-longitude = -76.125184
 latitude = 38.710783
+longitude = -76.125184
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21654"
+

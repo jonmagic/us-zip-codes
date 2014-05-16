@@ -1,6 +1,8 @@
-zip_code = "46310"
-state = "IN"
 city = "Demotte"
 county = "Jasper"
-longitude = -87.208423
 latitude = 41.107336
+longitude = -87.208423
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46310"
+

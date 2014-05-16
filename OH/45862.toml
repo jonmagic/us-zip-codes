@@ -1,6 +1,8 @@
-zip_code = "45862"
-state = "OH"
 city = "Mendon"
 county = "Mercer"
-longitude = -84.547735
 latitude = 40.575306
+longitude = -84.547735
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45862"
+

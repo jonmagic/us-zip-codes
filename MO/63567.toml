@@ -1,6 +1,8 @@
-zip_code = "63567"
-state = "MO"
 city = "Worthington"
 county = "Putnam"
-longitude = -93.019815
 latitude = 40.465883
+longitude = -93.019815
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63567"
+

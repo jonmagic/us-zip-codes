@@ -1,6 +1,8 @@
-zip_code = "93608"
-state = "CA"
 city = "Cantua Creek"
 county = "Fresno"
-longitude = -120.248963
 latitude = 36.607941
+longitude = -120.248963
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93608"
+

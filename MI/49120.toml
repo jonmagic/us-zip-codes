@@ -1,6 +1,8 @@
-zip_code = "49120"
-state = "MI"
 city = "Niles"
 county = "Berrien"
-longitude = -86.421005
 latitude = 41.844732
+longitude = -86.421005
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49120"
+

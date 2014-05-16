@@ -1,6 +1,8 @@
-zip_code = "25517"
-state = "WV"
 city = "Genoa"
 county = "Wayne"
-longitude = -82.418277
 latitude = 38.132114
+longitude = -82.418277
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25517"
+

@@ -1,6 +1,8 @@
-zip_code = "20619"
-state = "MD"
 city = "California"
 county = "Saint Marys"
-longitude = -76.637383
 latitude = 38.324994
+longitude = -76.637383
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20619"
+

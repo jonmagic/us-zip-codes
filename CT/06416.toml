@@ -1,6 +1,8 @@
-zip_code = "06416"
-state = "CT"
 city = "Cromwell"
 county = "Middlesex"
-longitude = -72.667807
 latitude = 41.608529
+longitude = -72.667807
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06416"
+

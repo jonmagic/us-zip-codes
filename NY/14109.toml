@@ -1,6 +1,8 @@
-zip_code = "14109"
-state = "NY"
 city = "Niagara University"
 county = "Niagara"
-longitude = -78.830681
 latitude = 43.32684
+longitude = -78.830681
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14109"
+

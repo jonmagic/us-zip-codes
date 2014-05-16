@@ -1,6 +1,8 @@
-zip_code = "88346"
-state = "NM"
 city = "Ruidoso Downs"
 county = "Lincoln"
-longitude = -105.620581
 latitude = 33.353183
+longitude = -105.620581
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88346"
+

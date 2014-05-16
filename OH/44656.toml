@@ -1,6 +1,8 @@
-zip_code = "44656"
-state = "OH"
 city = "Mineral City"
 county = "Tuscarawas"
-longitude = -81.343581
 latitude = 40.570507
+longitude = -81.343581
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44656"
+

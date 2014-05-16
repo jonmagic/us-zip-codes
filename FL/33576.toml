@@ -1,6 +1,8 @@
-zip_code = "33576"
-state = "FL"
 city = "San Antonio"
 county = "Pasco"
-longitude = -82.300982
 latitude = 28.331729
+longitude = -82.300982
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33576"
+

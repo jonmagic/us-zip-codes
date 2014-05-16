@@ -1,6 +1,8 @@
-zip_code = "79012"
-state = "TX"
 city = "Bushland"
 county = "Potter"
-longitude = -102.029919
 latitude = 35.225625
+longitude = -102.029919
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79012"
+

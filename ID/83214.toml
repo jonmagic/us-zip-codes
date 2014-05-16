@@ -1,6 +1,8 @@
-zip_code = "83214"
-state = "ID"
 city = "Arimo"
 county = "Bannock"
-longitude = -112.259209
 latitude = 42.566743
+longitude = -112.259209
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83214"
+

@@ -1,6 +1,8 @@
-zip_code = "07981"
-state = "NJ"
 city = "Whippany"
 county = "Morris"
-longitude = -74.419097
 latitude = 40.823899
+longitude = -74.419097
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07981"
+

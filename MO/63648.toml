@@ -1,6 +1,8 @@
-zip_code = "63648"
-state = "MO"
 city = "Irondale"
 county = "Washington"
-longitude = -90.692287
 latitude = 37.82135
+longitude = -90.692287
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63648"
+

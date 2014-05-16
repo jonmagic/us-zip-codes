@@ -1,6 +1,8 @@
-zip_code = "17041"
-state = "PA"
 city = "Lawn"
 county = "Lebanon"
-longitude = -76.538007
 latitude = 40.223623
+longitude = -76.538007
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17041"
+

@@ -1,6 +1,8 @@
-zip_code = "41562"
-state = "KY"
 city = "Shelbiana"
 county = "Pike"
-longitude = -82.467345
 latitude = 37.40628
+longitude = -82.467345
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41562"
+

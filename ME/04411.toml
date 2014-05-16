@@ -1,6 +1,8 @@
-zip_code = "04411"
-state = "ME"
 city = "Bradley"
 county = "Penobscot"
-longitude = -68.625688
 latitude = 44.914946
+longitude = -68.625688
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04411"
+

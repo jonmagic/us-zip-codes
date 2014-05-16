@@ -1,6 +1,8 @@
-zip_code = "55010"
-state = "MN"
 city = "Castle Rock"
 county = "Dakota"
-longitude = -93.153115
 latitude = 44.547215
+longitude = -93.153115
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55010"
+

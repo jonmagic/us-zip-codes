@@ -1,6 +1,8 @@
-zip_code = "48651"
-state = "MI"
 city = "Prudenville"
 county = "Roscommon"
-longitude = -84.647139
 latitude = 44.343508
+longitude = -84.647139
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48651"
+

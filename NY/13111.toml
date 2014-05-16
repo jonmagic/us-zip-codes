@@ -1,6 +1,8 @@
-zip_code = "13111"
-state = "NY"
 city = "Martville"
 county = "Cayuga"
-longitude = -76.6292
 latitude = 43.258337
+longitude = -76.6292
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13111"
+

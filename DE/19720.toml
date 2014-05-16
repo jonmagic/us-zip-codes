@@ -1,6 +1,8 @@
-zip_code = "19720"
-state = "DE"
 city = "New Castle"
 county = "New Castle"
-longitude = -75.651466
 latitude = 39.592895
+longitude = -75.651466
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19720"
+

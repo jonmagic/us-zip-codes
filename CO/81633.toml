@@ -1,6 +1,8 @@
-zip_code = "81633"
-state = "CO"
 city = "Dinosaur"
 county = "Moffat"
-longitude = -108.398991
 latitude = 40.377031
+longitude = -108.398991
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81633"
+

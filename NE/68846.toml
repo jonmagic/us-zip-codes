@@ -1,6 +1,8 @@
-zip_code = "68846"
-state = "NE"
 city = "Hordville"
 county = "Hamilton"
-longitude = -97.991525
 latitude = 40.962667
+longitude = -97.991525
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68846"
+

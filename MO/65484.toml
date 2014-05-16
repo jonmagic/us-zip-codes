@@ -1,6 +1,8 @@
-zip_code = "65484"
-state = "MO"
 city = "Huggins"
 county = "Texas"
-longitude = -92.188628
 latitude = 37.3599
+longitude = -92.188628
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65484"
+

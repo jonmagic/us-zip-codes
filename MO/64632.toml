@@ -1,6 +1,8 @@
-zip_code = "64632"
-state = "MO"
 city = "Cainsville"
 county = "Harrison"
-longitude = -93.83198
 latitude = 40.46136
+longitude = -93.83198
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64632"
+

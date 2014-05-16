@@ -1,6 +1,8 @@
-zip_code = "42209"
-state = "KY"
 city = "Brooklyn"
 county = "Butler"
-longitude = -86.67216
 latitude = 37.197491
+longitude = -86.67216
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42209"
+

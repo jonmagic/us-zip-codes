@@ -1,6 +1,8 @@
-zip_code = "29921"
-state = "SC"
 city = "Furman"
 county = "Hampton"
-longitude = -81.207112
 latitude = 32.718212
+longitude = -81.207112
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29921"
+

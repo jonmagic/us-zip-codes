@@ -1,6 +1,8 @@
-zip_code = "68845"
-state = "NE"
 city = "Kearney"
 county = "Buffalo"
-longitude = -99.129054
 latitude = 40.75141
+longitude = -99.129054
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68845"
+

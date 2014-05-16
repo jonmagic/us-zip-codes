@@ -1,6 +1,8 @@
-zip_code = "81320"
-state = "CO"
 city = "Cahone"
 county = "Dolores"
-longitude = -108.791671
 latitude = 37.718233
+longitude = -108.791671
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81320"
+

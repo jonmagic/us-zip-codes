@@ -1,6 +1,8 @@
-zip_code = "65612"
-state = "MO"
 city = "Bois D Arc"
 county = "Greene"
-longitude = -93.540803
 latitude = 37.224385
+longitude = -93.540803
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65612"
+

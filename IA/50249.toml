@@ -1,6 +1,8 @@
-zip_code = "50249"
-state = "IA"
 city = "Stratford"
 county = "Hamilton"
-longitude = -93.721315
 latitude = 42.296737
+longitude = -93.721315
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50249"
+

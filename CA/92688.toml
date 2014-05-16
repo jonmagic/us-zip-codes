@@ -1,6 +1,8 @@
-zip_code = "92688"
-state = "CA"
 city = "Rancho Santa Margarita"
 county = "Orange"
-longitude = -117.603684
 latitude = 33.601944
+longitude = -117.603684
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92688"
+

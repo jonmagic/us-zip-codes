@@ -1,6 +1,8 @@
-zip_code = "50439"
-state = "IA"
 city = "Goodell"
 county = "Hancock"
-longitude = -93.675089
 latitude = 43.074783
+longitude = -93.675089
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50439"
+

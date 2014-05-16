@@ -1,6 +1,8 @@
-zip_code = "02668"
-state = "MA"
 city = "West Barnstable"
 county = "Barnstable"
-longitude = -70.201719
 latitude = 41.79055
+longitude = -70.201719
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02668"
+

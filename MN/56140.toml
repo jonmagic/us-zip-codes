@@ -1,6 +1,8 @@
-zip_code = "56140"
-state = "MN"
 city = "Ihlen"
 county = "Pipestone"
-longitude = -96.364032
 latitude = 43.895464
+longitude = -96.364032
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56140"
+

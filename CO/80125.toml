@@ -1,6 +1,8 @@
-zip_code = "80125"
-state = "CO"
 city = "Littleton"
 county = "Douglas"
-longitude = -105.05897
 latitude = 39.495327
+longitude = -105.05897
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80125"
+

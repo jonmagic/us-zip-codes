@@ -1,6 +1,8 @@
-zip_code = "97345"
-state = "OR"
 city = "Foster"
 county = "Linn"
-longitude = -122.400143
 latitude = 44.430866
+longitude = -122.400143
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97345"
+

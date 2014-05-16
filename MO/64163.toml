@@ -1,6 +1,8 @@
-zip_code = "64163"
-state = "MO"
 city = "Kansas City"
 county = "Platte"
-longitude = -94.690802
 latitude = 39.340159
+longitude = -94.690802
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64163"
+

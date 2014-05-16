@@ -1,6 +1,8 @@
-zip_code = "12439"
-state = "NY"
 city = "Hensonville"
 county = "Greene"
-longitude = -74.185279
 latitude = 42.293905
+longitude = -74.185279
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12439"
+

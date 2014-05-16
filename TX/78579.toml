@@ -1,6 +1,8 @@
-zip_code = "78579"
-state = "TX"
 city = "Progreso"
 county = "Hidalgo"
-longitude = -97.953259
 latitude = 26.092209
+longitude = -97.953259
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78579"
+

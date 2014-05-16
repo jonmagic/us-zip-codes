@@ -1,6 +1,8 @@
-zip_code = "61340"
-state = "IL"
 city = "Mark"
 county = "Putnam"
-longitude = -89.249143
 latitude = 41.265997
+longitude = -89.249143
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61340"
+

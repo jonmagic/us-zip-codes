@@ -1,6 +1,8 @@
-zip_code = "08052"
-state = "NJ"
 city = "Maple Shade"
 county = "Burlington"
-longitude = -74.992163
 latitude = 39.951212
+longitude = -74.992163
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08052"
+

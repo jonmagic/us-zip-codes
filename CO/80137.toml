@@ -1,6 +1,8 @@
-zip_code = "80137"
-state = "CO"
 city = "Watkins"
 county = "Adams"
-longitude = -104.630327
 latitude = 39.796784
+longitude = -104.630327
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80137"
+

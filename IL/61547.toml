@@ -1,6 +1,8 @@
-zip_code = "61547"
-state = "IL"
 city = "Mapleton"
 county = "Peoria"
-longitude = -89.742265
 latitude = 40.60896
+longitude = -89.742265
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61547"
+

@@ -1,6 +1,8 @@
-zip_code = "74572"
-state = "OK"
 city = "Tupelo"
 county = "Coal"
-longitude = -96.420055
 latitude = 34.603933
+longitude = -96.420055
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74572"
+

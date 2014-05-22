@@ -1,6 +1,8 @@
-zip_code = "64037"
-state = "MO"
 city = "Higginsville"
 county = "Lafayette"
-longitude = -93.74083
 latitude = 39.063374
+longitude = -93.74083
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64037"
+

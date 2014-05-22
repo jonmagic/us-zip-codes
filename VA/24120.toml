@@ -1,6 +1,8 @@
-zip_code = "24120"
-state = "VA"
 city = "Meadows Of Dan"
 county = "Patrick"
-longitude = -80.353031
 latitude = 36.700218
+longitude = -80.353031
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24120"
+

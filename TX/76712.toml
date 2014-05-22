@@ -1,6 +1,8 @@
-zip_code = "76712"
-state = "TX"
 city = "Woodway"
 county = "Mclennan"
-longitude = -97.265089
 latitude = 31.539194
+longitude = -97.265089
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76712"
+

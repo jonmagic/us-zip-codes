@@ -1,6 +1,8 @@
-zip_code = "61088"
-state = "IL"
 city = "Winnebago"
 county = "Winnebago"
-longitude = -89.194327
 latitude = 42.347321
+longitude = -89.194327
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61088"
+

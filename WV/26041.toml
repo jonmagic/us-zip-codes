@@ -1,6 +1,8 @@
-zip_code = "26041"
-state = "WV"
 city = "Moundsville"
 county = "Marshall"
-longitude = -80.737134
 latitude = 39.916748
+longitude = -80.737134
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26041"
+

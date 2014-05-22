@@ -1,6 +1,8 @@
-zip_code = "92338"
-state = "CA"
 city = "Ludlow"
 county = "San Bernardino"
-longitude = -115.802525
 latitude = 34.932852
+longitude = -115.802525
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92338"
+

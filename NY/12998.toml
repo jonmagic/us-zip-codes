@@ -1,6 +1,8 @@
-zip_code = "12998"
-state = "NY"
 city = "Witherbee"
 county = "Essex"
-longitude = -73.530601
 latitude = 44.08267
+longitude = -73.530601
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12998"
+

@@ -1,6 +1,8 @@
-zip_code = "27596"
-state = "NC"
 city = "Youngsville"
 county = "Franklin"
-longitude = -78.438181
 latitude = 36.018749
+longitude = -78.438181
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27596"
+

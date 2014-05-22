@@ -1,6 +1,8 @@
-zip_code = "59250"
-state = "MT"
 city = "Opheim"
 county = "Valley"
-longitude = -106.272664
 latitude = 48.912477
+longitude = -106.272664
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59250"
+

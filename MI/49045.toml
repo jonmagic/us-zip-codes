@@ -1,6 +1,8 @@
-zip_code = "49045"
-state = "MI"
 city = "Decatur"
 county = "Van Buren"
-longitude = -86.071429
 latitude = 42.174485
+longitude = -86.071429
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49045"
+

@@ -1,6 +1,8 @@
-zip_code = "08056"
-state = "NJ"
 city = "Mickleton"
 county = "Gloucester"
-longitude = -75.246687
 latitude = 39.787913
+longitude = -75.246687
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08056"
+

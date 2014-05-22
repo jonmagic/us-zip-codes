@@ -1,6 +1,8 @@
-zip_code = "49094"
-state = "MI"
 city = "Union City"
 county = "Branch"
-longitude = -85.078799
 latitude = 42.025271
+longitude = -85.078799
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49094"
+

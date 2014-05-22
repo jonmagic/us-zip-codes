@@ -1,6 +1,8 @@
-zip_code = "24147"
-state = "VA"
 city = "Rich Creek"
 county = "Giles"
-longitude = -80.749864
 latitude = 37.363616
+longitude = -80.749864
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24147"
+

@@ -1,6 +1,8 @@
-zip_code = "60030"
-state = "IL"
 city = "Grayslake"
 county = "Lake"
-longitude = -88.054502
 latitude = 42.352423
+longitude = -88.054502
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60030"
+

@@ -1,6 +1,8 @@
-zip_code = "80002"
-state = "CO"
 city = "Arvada"
 county = "Jefferson"
-longitude = -105.109236
 latitude = 39.827818
+longitude = -105.109236
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80002"
+

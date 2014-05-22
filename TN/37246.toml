@@ -1,6 +1,8 @@
-zip_code = "37246"
-state = "TN"
 city = "Nashville"
 county = "Davidson"
-longitude = -86.789998
 latitude = 36.158606
+longitude = -86.789998
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37246"
+

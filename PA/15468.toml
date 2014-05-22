@@ -1,6 +1,8 @@
-zip_code = "15468"
-state = "PA"
 city = "New Salem"
 county = "Fayette"
-longitude = -79.841031
 latitude = 39.941838
+longitude = -79.841031
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15468"
+

@@ -1,6 +1,8 @@
-zip_code = "55903"
-state = "MN"
 city = "Rochester"
 county = "Olmsted"
-longitude = -92.540929
 latitude = 43.996613
+longitude = -92.540929
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55903"
+

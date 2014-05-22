@@ -1,6 +1,8 @@
-zip_code = "04983"
-state = "ME"
 city = "Strong"
 county = "Franklin"
-longitude = -70.187221
 latitude = 44.814175
+longitude = -70.187221
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04983"
+

@@ -1,6 +1,8 @@
-zip_code = "48216"
-state = "MI"
 city = "Detroit"
 county = "Wayne"
-longitude = -83.167925
 latitude = 42.337787
+longitude = -83.167925
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48216"
+

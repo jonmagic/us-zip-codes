@@ -1,6 +1,8 @@
-zip_code = "28114"
-state = "NC"
 city = "Mooresboro"
 county = "Cleveland"
-longitude = -81.700869
 latitude = 35.256702
+longitude = -81.700869
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28114"
+

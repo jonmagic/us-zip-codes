@@ -1,6 +1,8 @@
-zip_code = "41819"
-state = "KY"
 city = "Gordon"
 county = "Letcher"
-longitude = -83.065458
 latitude = 36.989061
+longitude = -83.065458
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41819"
+

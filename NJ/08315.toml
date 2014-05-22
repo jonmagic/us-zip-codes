@@ -1,6 +1,8 @@
-zip_code = "08315"
-state = "NJ"
 city = "Dividing Creek"
 county = "Cumberland"
-longitude = -75.095025
 latitude = 39.273214
+longitude = -75.095025
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08315"
+

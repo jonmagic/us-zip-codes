@@ -1,6 +1,8 @@
-zip_code = "04029"
-state = "ME"
 city = "Sebago"
 county = "Cumberland"
-longitude = -70.547159
 latitude = 43.867223
+longitude = -70.547159
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04029"
+

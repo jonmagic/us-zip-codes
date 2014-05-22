@@ -1,6 +1,8 @@
-zip_code = "79011"
-state = "TX"
 city = "Briscoe"
 county = "Wheeler"
-longitude = -100.209628
 latitude = 35.532082
+longitude = -100.209628
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79011"
+

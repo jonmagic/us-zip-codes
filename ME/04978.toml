@@ -1,6 +1,8 @@
-zip_code = "04978"
-state = "ME"
 city = "Smithfield"
 county = "Somerset"
-longitude = -69.770923
 latitude = 44.62111
+longitude = -69.770923
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04978"
+

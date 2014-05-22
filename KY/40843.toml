@@ -1,6 +1,8 @@
-zip_code = "40843"
-state = "KY"
 city = "Holmes Mill"
 county = "Harlan"
-longitude = -82.988157
 latitude = 36.876106
+longitude = -82.988157
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40843"
+

@@ -1,6 +1,8 @@
-zip_code = "83826"
-state = "ID"
 city = "Eastport"
 county = "Boundary"
-longitude = -116.54067
 latitude = 48.750618
+longitude = -116.54067
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83826"
+

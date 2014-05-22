@@ -1,6 +1,8 @@
-zip_code = "72431"
-state = "AR"
 city = "Grubbs"
 county = "Jackson"
-longitude = -91.079185
 latitude = 35.654913
+longitude = -91.079185
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72431"
+

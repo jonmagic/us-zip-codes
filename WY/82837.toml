@@ -1,6 +1,8 @@
-zip_code = "82837"
-state = "WY"
 city = "Leiter"
 county = "Sheridan"
-longitude = -106.280598
 latitude = 44.783153
+longitude = -106.280598
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82837"
+

@@ -1,6 +1,8 @@
-zip_code = "39652"
-state = "MS"
 city = "Magnolia"
 county = "Pike"
-longitude = -90.403989
 latitude = 31.143395
+longitude = -90.403989
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39652"
+

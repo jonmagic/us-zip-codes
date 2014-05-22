@@ -1,6 +1,8 @@
-zip_code = "02864"
-state = "RI"
 city = "Cumberland"
 county = "Providence"
-longitude = -71.43269
 latitude = 41.949498
+longitude = -71.43269
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02864"
+

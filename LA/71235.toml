@@ -1,6 +1,8 @@
-zip_code = "71235"
-state = "LA"
 city = "Dubach"
 county = "Lincoln"
-longitude = -92.699642
 latitude = 32.644564
+longitude = -92.699642
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71235"
+

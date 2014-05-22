@@ -1,6 +1,8 @@
-zip_code = "95441"
-state = "CA"
 city = "Geyserville"
 county = "Sonoma"
-longitude = -123.006531
 latitude = 38.707323
+longitude = -123.006531
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95441"
+

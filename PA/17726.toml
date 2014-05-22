@@ -1,6 +1,8 @@
-zip_code = "17726"
-state = "PA"
 city = "Castanea"
 county = "Clinton"
-longitude = -77.431745
 latitude = 41.122741
+longitude = -77.431745
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17726"
+

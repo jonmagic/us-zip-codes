@@ -1,6 +1,8 @@
-zip_code = "61413"
-state = "IL"
 city = "Alpha"
 county = "Henry"
-longitude = -90.245619
 latitude = 41.20188
+longitude = -90.245619
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61413"
+

@@ -1,6 +1,8 @@
-zip_code = "62975"
-state = "IL"
 city = "Pomona"
 county = "Jackson"
-longitude = -89.369308
 latitude = 37.650115
+longitude = -89.369308
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62975"
+

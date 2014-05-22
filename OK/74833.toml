@@ -1,6 +1,8 @@
-zip_code = "74833"
-state = "OK"
 city = "Castle"
 county = "Okfuskee"
-longitude = -96.303082
 latitude = 35.464506
+longitude = -96.303082
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74833"
+

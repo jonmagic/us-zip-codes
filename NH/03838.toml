@@ -1,6 +1,8 @@
-zip_code = "03838"
-state = "NH"
 city = "Glen"
 county = "Carroll"
-longitude = -71.265371
 latitude = 44.050111
+longitude = -71.265371
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03838"
+

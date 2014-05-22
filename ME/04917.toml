@@ -1,6 +1,8 @@
-zip_code = "04917"
-state = "ME"
 city = "Belgrade"
 county = "Kennebec"
-longitude = -69.83253
 latitude = 44.480594
+longitude = -69.83253
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04917"
+

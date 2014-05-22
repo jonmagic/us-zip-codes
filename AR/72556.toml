@@ -1,6 +1,8 @@
-zip_code = "72556"
-state = "AR"
 city = "Melbourne"
 county = "Izard"
-longitude = -91.907947
 latitude = 36.063529
+longitude = -91.907947
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72556"
+

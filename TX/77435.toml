@@ -1,6 +1,8 @@
-zip_code = "77435"
-state = "TX"
 city = "East Bernard"
 county = "Wharton"
-longitude = -96.093732
 latitude = 29.484089
+longitude = -96.093732
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77435"
+

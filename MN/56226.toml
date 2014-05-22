@@ -1,6 +1,8 @@
-zip_code = "56226"
-state = "MN"
 city = "Clontarf"
 county = "Swift"
-longitude = -95.838919
 latitude = 45.305865
+longitude = -95.838919
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56226"
+

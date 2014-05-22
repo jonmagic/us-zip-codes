@@ -1,6 +1,8 @@
-zip_code = "07831"
-state = "NJ"
 city = "Changewater"
 county = "Warren"
-longitude = -74.944756
 latitude = 40.739382
+longitude = -74.944756
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07831"
+

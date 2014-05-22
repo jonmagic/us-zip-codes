@@ -1,6 +1,8 @@
-zip_code = "56683"
-state = "MN"
 city = "Tenstrike"
 county = "Beltrami"
-longitude = -95.008708
 latitude = 47.974989
+longitude = -95.008708
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56683"
+

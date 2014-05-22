@@ -1,6 +1,8 @@
-zip_code = "38947"
-state = "MS"
 city = "North Carrollton"
 county = "Carroll"
-longitude = -89.920125
 latitude = 33.512759
+longitude = -89.920125
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38947"
+

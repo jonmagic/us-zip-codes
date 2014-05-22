@@ -1,6 +1,8 @@
-zip_code = "97041"
-state = "OR"
 city = "Mount Hood Parkdale"
 county = "Hood River"
-longitude = -121.598308
 latitude = 45.492879
+longitude = -121.598308
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97041"
+

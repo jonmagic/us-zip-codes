@@ -1,6 +1,8 @@
-zip_code = "63640"
-state = "MO"
 city = "Farmington"
 county = "Saint Francois"
-longitude = -90.443298
 latitude = 37.785545
+longitude = -90.443298
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63640"
+

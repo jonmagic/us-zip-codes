@@ -1,6 +1,8 @@
-zip_code = "15672"
-state = "PA"
 city = "New Stanton"
 county = "Westmoreland"
-longitude = -79.658436
 latitude = 40.24375
+longitude = -79.658436
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15672"
+

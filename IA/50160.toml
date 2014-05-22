@@ -1,6 +1,8 @@
-zip_code = "50160"
-state = "IA"
 city = "Martensdale"
 county = "Warren"
-longitude = -93.741773
 latitude = 41.385401
+longitude = -93.741773
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50160"
+

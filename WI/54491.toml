@@ -1,6 +1,8 @@
-zip_code = "54491"
-state = "WI"
 city = "White Lake"
 county = "Langlade"
-longitude = -88.803154
 latitude = 45.248003
+longitude = -88.803154
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54491"
+

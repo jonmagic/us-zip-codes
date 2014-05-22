@@ -1,6 +1,8 @@
-zip_code = "03443"
-state = "NH"
 city = "Chesterfield"
 county = "Cheshire"
-longitude = -72.454813
 latitude = 42.883948
+longitude = -72.454813
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03443"
+

@@ -1,6 +1,8 @@
-zip_code = "68789"
-state = "NE"
 city = "Winnetoon"
 county = "Knox"
-longitude = -98.004988
 latitude = 42.533387
+longitude = -98.004988
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68789"
+

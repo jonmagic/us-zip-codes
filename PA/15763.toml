@@ -1,6 +1,8 @@
-zip_code = "15763"
-state = "PA"
 city = "Northpoint"
 county = "Indiana"
-longitude = -79.129445
 latitude = 40.640031
+longitude = -79.129445
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15763"
+

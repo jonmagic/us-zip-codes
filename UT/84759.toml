@@ -1,6 +1,8 @@
-zip_code = "84759"
-state = "UT"
 city = "Panguitch"
 county = "Garfield"
-longitude = -112.522595
 latitude = 37.827846
+longitude = -112.522595
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84759"
+

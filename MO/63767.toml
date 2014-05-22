@@ -1,6 +1,8 @@
-zip_code = "63767"
-state = "MO"
 city = "Morley"
 county = "Scott"
-longitude = -89.607642
 latitude = 37.041104
+longitude = -89.607642
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63767"
+

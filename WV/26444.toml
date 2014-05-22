@@ -1,6 +1,8 @@
-zip_code = "26444"
-state = "WV"
 city = "Tunnelton"
 county = "Preston"
-longitude = -79.688154
 latitude = 39.458091
+longitude = -79.688154
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26444"
+

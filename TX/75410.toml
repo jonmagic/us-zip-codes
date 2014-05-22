@@ -1,6 +1,8 @@
-zip_code = "75410"
-state = "TX"
 city = "Alba"
 county = "Wood"
-longitude = -95.705636
 latitude = 32.815881
+longitude = -95.705636
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75410"
+

@@ -1,6 +1,8 @@
-zip_code = "82943"
-state = "WY"
 city = "Reliance"
 county = "Sweetwater"
-longitude = -109.191857
 latitude = 41.669845
+longitude = -109.191857
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82943"
+

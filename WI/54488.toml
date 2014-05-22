@@ -1,6 +1,8 @@
-zip_code = "54488"
-state = "WI"
 city = "Unity"
 county = "Marathon"
-longitude = -90.257456
 latitude = 44.840956
+longitude = -90.257456
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54488"
+

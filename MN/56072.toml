@@ -1,6 +1,8 @@
-zip_code = "56072"
-state = "MN"
 city = "New Richland"
 county = "Waseca"
-longitude = -93.561426
 latitude = 43.981294
+longitude = -93.561426
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56072"
+

@@ -1,6 +1,8 @@
-zip_code = "94964"
-state = "CA"
 city = "San Quentin"
 county = "Marin"
-longitude = -122.48436
 latitude = 37.941571
+longitude = -122.48436
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94964"
+

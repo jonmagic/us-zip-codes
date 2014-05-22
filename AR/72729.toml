@@ -1,6 +1,8 @@
-zip_code = "72729"
-state = "AR"
 city = "Evansville"
 county = "Washington"
-longitude = -94.460202
 latitude = 35.80515
+longitude = -94.460202
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72729"
+

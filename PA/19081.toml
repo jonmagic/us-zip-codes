@@ -1,6 +1,8 @@
-zip_code = "19081"
-state = "PA"
 city = "Swarthmore"
 county = "Delaware"
-longitude = -75.344083
 latitude = 39.897162
+longitude = -75.344083
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19081"
+

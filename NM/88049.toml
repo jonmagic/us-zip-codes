@@ -1,6 +1,8 @@
-zip_code = "88049"
-state = "NM"
 city = "Mimbres"
 county = "Grant"
-longitude = -108.033173
 latitude = 32.908986
+longitude = -108.033173
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88049"
+

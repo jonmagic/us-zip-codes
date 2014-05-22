@@ -1,6 +1,8 @@
-zip_code = "94044"
-state = "CA"
 city = "Pacifica"
 county = "San Mateo"
-longitude = -122.480015
 latitude = 37.616774
+longitude = -122.480015
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94044"
+

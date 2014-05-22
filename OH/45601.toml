@@ -1,6 +1,8 @@
-zip_code = "45601"
-state = "OH"
 city = "Chillicothe"
 county = "Ross"
-longitude = -82.991332
 latitude = 39.337384
+longitude = -82.991332
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45601"
+

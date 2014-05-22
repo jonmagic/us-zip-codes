@@ -1,6 +1,8 @@
-zip_code = "72745"
-state = "AR"
 city = "Lowell"
 county = "Benton"
-longitude = -94.12368
 latitude = 36.29589
+longitude = -94.12368
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72745"
+

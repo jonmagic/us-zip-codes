@@ -1,6 +1,8 @@
-zip_code = "61441"
-state = "IL"
 city = "Ipava"
 county = "Fulton"
-longitude = -90.307389
 latitude = 40.333536
+longitude = -90.307389
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61441"
+

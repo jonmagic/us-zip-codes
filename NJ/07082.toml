@@ -1,6 +1,8 @@
-zip_code = "07082"
-state = "NJ"
 city = "Towaco"
 county = "Morris"
-longitude = -74.347695
 latitude = 40.92769
+longitude = -74.347695
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07082"
+

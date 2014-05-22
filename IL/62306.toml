@@ -1,6 +1,8 @@
-zip_code = "62306"
-state = "IL"
 city = "Quincy"
 county = "Adams"
-longitude = -91.21256
 latitude = 39.97863
+longitude = -91.21256
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62306"
+

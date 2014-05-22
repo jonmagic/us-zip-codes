@@ -1,6 +1,8 @@
-zip_code = "03276"
-state = "NH"
 city = "Tilton"
 county = "Belknap"
-longitude = -71.49166
 latitude = 43.536056
+longitude = -71.49166
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03276"
+

@@ -1,6 +1,8 @@
-zip_code = "83610"
-state = "ID"
 city = "Cambridge"
 county = "Washington"
-longitude = -116.690316
 latitude = 44.642508
+longitude = -116.690316
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83610"
+

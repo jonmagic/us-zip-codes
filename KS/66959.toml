@@ -1,6 +1,8 @@
-zip_code = "66959"
-state = "KS"
 city = "Munden"
 county = "Republic"
-longitude = -97.498488
 latitude = 39.860279
+longitude = -97.498488
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66959"
+

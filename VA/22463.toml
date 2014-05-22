@@ -1,6 +1,8 @@
-zip_code = "22463"
-state = "VA"
 city = "Garrisonville"
 county = "Stafford"
-longitude = -77.461213
 latitude = 38.468432
+longitude = -77.461213
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22463"
+

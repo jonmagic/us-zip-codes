@@ -1,6 +1,8 @@
-zip_code = "56738"
-state = "MN"
 city = "Newfolden"
 county = "Marshall"
-longitude = -96.378062
 latitude = 48.358371
+longitude = -96.378062
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56738"
+

@@ -1,6 +1,8 @@
-zip_code = "50642"
-state = "IA"
 city = "Holland"
 county = "Grundy"
-longitude = -92.817924
 latitude = 42.44797
+longitude = -92.817924
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50642"
+

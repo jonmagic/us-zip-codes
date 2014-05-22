@@ -1,6 +1,8 @@
-zip_code = "42519"
-state = "KY"
 city = "Burnside"
 county = "Pulaski"
-longitude = -84.537413
 latitude = 37.029301
+longitude = -84.537413
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42519"
+

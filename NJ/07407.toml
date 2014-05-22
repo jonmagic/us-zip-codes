@@ -1,6 +1,8 @@
-zip_code = "07407"
-state = "NJ"
 city = "Elmwood Park"
 county = "Bergen"
-longitude = -74.117736
 latitude = 40.905848
+longitude = -74.117736
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07407"
+

@@ -1,6 +1,8 @@
-zip_code = "14475"
-state = "NY"
 city = "Ionia"
 county = "Ontario"
-longitude = -77.498231
 latitude = 42.935868
+longitude = -77.498231
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14475"
+

@@ -1,6 +1,8 @@
-zip_code = "71268"
-state = "LA"
 city = "Quitman"
 county = "Jackson"
-longitude = -92.672165
 latitude = 32.337632
+longitude = -92.672165
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71268"
+

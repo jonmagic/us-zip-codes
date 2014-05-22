@@ -1,6 +1,8 @@
-zip_code = "10969"
-state = "NY"
 city = "Pine Island"
 county = "Orange"
-longitude = -74.488954
 latitude = 41.325856
+longitude = -74.488954
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10969"
+

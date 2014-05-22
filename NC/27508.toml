@@ -1,6 +1,8 @@
-zip_code = "27508"
-state = "NC"
 city = "Bunn"
 county = "Franklin"
-longitude = -78.208581
 latitude = 35.982555
+longitude = -78.208581
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27508"
+

@@ -1,6 +1,8 @@
-zip_code = "44629"
-state = "OH"
 city = "Gnadenhutten"
 county = "Tuscarawas"
-longitude = -81.430921
 latitude = 40.335928
+longitude = -81.430921
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44629"
+

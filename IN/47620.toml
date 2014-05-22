@@ -1,6 +1,8 @@
-zip_code = "47620"
-state = "IN"
 city = "Mount Vernon"
 county = "Posey"
-longitude = -87.868228
 latitude = 37.961781
+longitude = -87.868228
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47620"
+

@@ -1,6 +1,8 @@
-zip_code = "87529"
-state = "NM"
 city = "El Prado"
 county = "Taos"
-longitude = -105.624393
 latitude = 36.349198
+longitude = -105.624393
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87529"
+

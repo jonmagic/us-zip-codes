@@ -1,6 +1,8 @@
-zip_code = "39117"
-state = "MS"
 city = "Morton"
 county = "Scott"
-longitude = -89.594886
 latitude = 32.402897
+longitude = -89.594886
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39117"
+

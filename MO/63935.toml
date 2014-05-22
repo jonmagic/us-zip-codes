@@ -1,6 +1,8 @@
-zip_code = "63935"
-state = "MO"
 city = "Doniphan"
 county = "Ripley"
-longitude = -90.810644
 latitude = 36.650121
+longitude = -90.810644
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63935"
+

@@ -1,6 +1,8 @@
-zip_code = "47145"
-state = "IN"
 city = "Milltown"
 county = "Crawford"
-longitude = -86.314971
 latitude = 38.337832
+longitude = -86.314971
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47145"
+

@@ -1,6 +1,8 @@
-zip_code = "35751"
-state = "AL"
 city = "Hollytree"
 county = "Jackson"
-longitude = -86.274287
 latitude = 34.79549
+longitude = -86.274287
+state = ""
+state_code_alpha2 = ""
+zip_code = "35751"
+

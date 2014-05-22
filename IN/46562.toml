@@ -1,6 +1,8 @@
-zip_code = "46562"
-state = "IN"
 city = "Pierceton"
 county = "Kosciusko"
-longitude = -85.854745
 latitude = 41.265769
+longitude = -85.854745
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46562"
+

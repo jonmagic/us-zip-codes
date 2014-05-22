@@ -1,6 +1,8 @@
-zip_code = "56446"
-state = "MN"
 city = "Eagle Bend"
 county = "Todd"
-longitude = -94.99949
 latitude = 46.149778
+longitude = -94.99949
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56446"
+

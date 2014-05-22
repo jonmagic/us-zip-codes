@@ -1,6 +1,8 @@
-zip_code = "48139"
-state = "MI"
 city = "Hamburg"
 county = "Livingston"
-longitude = -83.814654
 latitude = 42.452284
+longitude = -83.814654
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48139"
+

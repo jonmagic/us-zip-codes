@@ -1,6 +1,8 @@
-zip_code = "67564"
-state = "KS"
 city = "Olmitz"
 county = "Barton"
-longitude = -98.895484
 latitude = 38.543586
+longitude = -98.895484
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67564"
+

@@ -1,6 +1,8 @@
-zip_code = "84620"
-state = "UT"
 city = "Aurora"
 county = "Sevier"
-longitude = -111.904385
 latitude = 38.959002
+longitude = -111.904385
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84620"
+

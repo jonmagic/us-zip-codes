@@ -1,6 +1,8 @@
-zip_code = "56554"
-state = "MN"
 city = "Lake Park"
 county = "Becker"
-longitude = -96.102425
 latitude = 46.891231
+longitude = -96.102425
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56554"
+

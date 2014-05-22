@@ -1,6 +1,8 @@
-zip_code = "30401"
-state = "GA"
 city = "Swainsboro"
 county = "Emanuel"
-longitude = -82.346181
 latitude = 32.569871
+longitude = -82.346181
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30401"
+

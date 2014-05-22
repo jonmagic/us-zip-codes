@@ -1,6 +1,8 @@
-zip_code = "65590"
-state = "MO"
 city = "Long Lane"
 county = "Dallas"
-longitude = -93.018874
 latitude = 37.6596
+longitude = -93.018874
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65590"
+

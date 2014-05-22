@@ -1,6 +1,8 @@
-zip_code = "44131"
-state = "OH"
 city = "Independence"
 county = "Cuyahoga"
-longitude = -81.64231
 latitude = 41.395652
+longitude = -81.64231
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44131"
+

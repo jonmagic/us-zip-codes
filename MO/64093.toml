@@ -1,6 +1,8 @@
-zip_code = "64093"
-state = "MO"
 city = "Warrensburg"
 county = "Johnson"
-longitude = -93.811697
 latitude = 38.769906
+longitude = -93.811697
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64093"
+

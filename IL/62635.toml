@@ -1,6 +1,8 @@
-zip_code = "62635"
-state = "IL"
 city = "Emden"
 county = "Logan"
-longitude = -89.483718
 latitude = 40.195101
+longitude = -89.483718
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62635"
+

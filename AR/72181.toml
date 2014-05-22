@@ -1,6 +1,8 @@
-zip_code = "72181"
-state = "AR"
 city = "Wooster"
 county = "Faulkner"
-longitude = -92.449953
 latitude = 35.187728
+longitude = -92.449953
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72181"
+

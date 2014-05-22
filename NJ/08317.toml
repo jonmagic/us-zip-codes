@@ -1,6 +1,8 @@
-zip_code = "08317"
-state = "NJ"
 city = "Dorothy"
 county = "Atlantic"
-longitude = -74.826057
 latitude = 39.425858
+longitude = -74.826057
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08317"
+

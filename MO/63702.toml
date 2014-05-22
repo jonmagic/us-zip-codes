@@ -1,6 +1,8 @@
-zip_code = "63702"
-state = "MO"
 city = "Cape Girardeau"
 county = "Cape Girardeau"
-longitude = -89.509405
 latitude = 37.350624
+longitude = -89.509405
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63702"
+

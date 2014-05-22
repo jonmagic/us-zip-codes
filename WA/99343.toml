@@ -1,6 +1,8 @@
-zip_code = "99343"
-state = "WA"
 city = "Mesa"
 county = "Franklin"
-longitude = -119.162115
 latitude = 46.577941
+longitude = -119.162115
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99343"
+

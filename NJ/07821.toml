@@ -1,6 +1,8 @@
-zip_code = "07821"
-state = "NJ"
 city = "Andover"
 county = "Sussex"
-longitude = -74.718969
 latitude = 41.092778
+longitude = -74.718969
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07821"
+

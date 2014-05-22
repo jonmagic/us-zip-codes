@@ -1,6 +1,8 @@
-zip_code = "44217"
-state = "OH"
 city = "Creston"
 county = "Wayne"
-longitude = -81.912937
 latitude = 40.945417
+longitude = -81.912937
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44217"
+

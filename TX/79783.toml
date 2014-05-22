@@ -1,6 +1,8 @@
-zip_code = "79783"
-state = "TX"
 city = "Tarzan"
 county = "Martin"
-longitude = -101.949963
 latitude = 32.306026
+longitude = -101.949963
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79783"
+

@@ -1,6 +1,8 @@
-zip_code = "65535"
-state = "MO"
 city = "Leasburg"
 county = "Crawford"
-longitude = -91.265783
 latitude = 38.074206
+longitude = -91.265783
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65535"
+

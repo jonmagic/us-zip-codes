@@ -1,6 +1,8 @@
-zip_code = "17839"
-state = "PA"
 city = "Light Street"
 county = "Columbia"
-longitude = -76.438413
 latitude = 41.020062
+longitude = -76.438413
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17839"
+

@@ -1,6 +1,8 @@
-zip_code = "56572"
-state = "MN"
 city = "Pelican Rapids"
 county = "Otter Tail"
-longitude = -96.059669
 latitude = 46.611549
+longitude = -96.059669
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56572"
+

@@ -1,6 +1,8 @@
-zip_code = "29940"
-state = "SC"
 city = "Seabrook"
 county = "Beaufort"
-longitude = -80.719179
 latitude = 32.569296
+longitude = -80.719179
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29940"
+

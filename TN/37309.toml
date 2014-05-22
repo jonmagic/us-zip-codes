@@ -1,6 +1,8 @@
-zip_code = "37309"
-state = "TN"
 city = "Calhoun"
 county = "Mcminn"
-longitude = -84.736414
 latitude = 35.322816
+longitude = -84.736414
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37309"
+

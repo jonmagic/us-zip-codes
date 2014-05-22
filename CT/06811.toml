@@ -1,6 +1,8 @@
-zip_code = "06811"
-state = "CT"
 city = "Danbury"
 county = "Fairfield"
-longitude = -73.478717
 latitude = 41.42333
+longitude = -73.478717
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06811"
+

@@ -1,6 +1,8 @@
-zip_code = "18942"
-state = "PA"
 city = "Ottsville"
 county = "Bucks"
-longitude = -75.167341
 latitude = 40.463447
+longitude = -75.167341
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18942"
+

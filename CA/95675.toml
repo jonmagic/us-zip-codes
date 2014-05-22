@@ -1,6 +1,8 @@
-zip_code = "95675"
-state = "CA"
 city = "River Pines"
 county = "Amador"
-longitude = -120.74279
 latitude = 38.544557
+longitude = -120.74279
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95675"
+

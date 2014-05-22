@@ -1,6 +1,8 @@
-zip_code = "54102"
-state = "WI"
 city = "Amberg"
 county = "Marinette"
-longitude = -88.049604
 latitude = 45.492839
+longitude = -88.049604
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54102"
+

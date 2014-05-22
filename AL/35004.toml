@@ -1,6 +1,8 @@
-zip_code = "35004"
-state = "AL"
 city = "Moody"
 county = "Saint Clair"
-longitude = -86.466833
 latitude = 33.603543
+longitude = -86.466833
+state = ""
+state_code_alpha2 = ""
+zip_code = "35004"
+

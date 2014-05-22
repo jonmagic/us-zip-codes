@@ -1,6 +1,8 @@
-zip_code = "81050"
-state = "CO"
 city = "La Junta"
 county = "Otero"
-longitude = -103.664437
 latitude = 37.954619
+longitude = -103.664437
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81050"
+

@@ -1,6 +1,8 @@
-zip_code = "43332"
-state = "OH"
 city = "La Rue"
 county = "Marion"
-longitude = -83.344599
 latitude = 40.596476
+longitude = -83.344599
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43332"
+

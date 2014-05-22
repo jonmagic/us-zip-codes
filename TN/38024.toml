@@ -1,6 +1,8 @@
-zip_code = "38024"
-state = "TN"
 city = "Dyersburg"
 county = "Dyer"
-longitude = -89.438461
 latitude = 36.036069
+longitude = -89.438461
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38024"
+

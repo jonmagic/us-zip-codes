@@ -1,6 +1,8 @@
-zip_code = "43756"
-state = "OH"
 city = "Mc Connelsville"
 county = "Morgan"
-longitude = -81.81256
 latitude = 39.676688
+longitude = -81.81256
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43756"
+

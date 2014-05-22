@@ -1,6 +1,8 @@
-zip_code = "97736"
-state = "OR"
 city = "Frenchglen"
 county = "Harney"
-longitude = -119.078609
 latitude = 43.56203
+longitude = -119.078609
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97736"
+

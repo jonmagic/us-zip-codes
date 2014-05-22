@@ -1,6 +1,8 @@
-zip_code = "05254"
-state = "VT"
 city = "Manchester"
 county = "Bennington"
-longitude = -73.045787
 latitude = 43.177204
+longitude = -73.045787
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05254"
+

@@ -1,6 +1,8 @@
-zip_code = "54850"
-state = "WI"
 city = "La Pointe"
 county = "Ashland"
-longitude = -90.692287
 latitude = 46.803272
+longitude = -90.692287
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54850"
+

@@ -1,6 +1,8 @@
-zip_code = "58487"
-state = "ND"
 city = "Tappen"
 county = "Kidder"
-longitude = -99.594248
 latitude = 46.806274
+longitude = -99.594248
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58487"
+

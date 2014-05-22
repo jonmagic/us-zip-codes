@@ -1,6 +1,8 @@
-zip_code = "79356"
-state = "TX"
 city = "Post"
 county = "Garza"
-longitude = -101.298072
 latitude = 33.180889
+longitude = -101.298072
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79356"
+

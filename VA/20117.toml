@@ -1,6 +1,8 @@
-zip_code = "20117"
-state = "VA"
 city = "Middleburg"
 county = "Loudoun"
-longitude = -77.693844
 latitude = 39.029599
+longitude = -77.693844
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20117"
+

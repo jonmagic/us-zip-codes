@@ -1,6 +1,8 @@
-zip_code = "74834"
-state = "OK"
 city = "Chandler"
 county = "Lincoln"
-longitude = -96.871215
 latitude = 35.647953
+longitude = -96.871215
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74834"
+

@@ -1,6 +1,8 @@
-zip_code = "78645"
-state = "TX"
 city = "Leander"
 county = "Travis"
-longitude = -97.966945
 latitude = 30.44901
+longitude = -97.966945
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78645"
+

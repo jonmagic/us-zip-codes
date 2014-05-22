@@ -1,6 +1,8 @@
-zip_code = "45832"
-state = "OH"
 city = "Convoy"
 county = "Van Wert"
-longitude = -84.716607
 latitude = 40.896997
+longitude = -84.716607
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45832"
+

@@ -1,6 +1,8 @@
-zip_code = "74436"
-state = "OK"
 city = "Haskell"
 county = "Muskogee"
-longitude = -95.681972
 latitude = 35.813548
+longitude = -95.681972
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74436"
+

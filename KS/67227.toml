@@ -1,6 +1,8 @@
-zip_code = "67227"
-state = "KS"
 city = "Wichita"
 county = "Sedgwick"
-longitude = -97.491566
 latitude = 37.62812
+longitude = -97.491566
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67227"
+

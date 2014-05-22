@@ -1,6 +1,8 @@
-zip_code = "48637"
-state = "MI"
 city = "Merrill"
 county = "Saginaw"
-longitude = -84.309397
 latitude = 43.389643
+longitude = -84.309397
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48637"
+

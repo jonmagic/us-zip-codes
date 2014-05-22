@@ -1,6 +1,8 @@
-zip_code = "29603"
-state = "SC"
 city = "Greenville"
 county = "Greenville"
-longitude = -82.371519
 latitude = 34.837666
+longitude = -82.371519
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29603"
+

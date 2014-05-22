@@ -1,6 +1,8 @@
-zip_code = "59006"
-state = "MT"
 city = "Ballantine"
 county = "Yellowstone"
-longitude = -108.098389
 latitude = 45.892314
+longitude = -108.098389
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59006"
+

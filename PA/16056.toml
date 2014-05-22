@@ -1,6 +1,8 @@
-zip_code = "16056"
-state = "PA"
 city = "Saxonburg"
 county = "Butler"
-longitude = -79.864282
 latitude = 40.861995
+longitude = -79.864282
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16056"
+

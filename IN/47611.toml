@@ -1,6 +1,8 @@
-zip_code = "47611"
-state = "IN"
 city = "Chrisney"
 county = "Spencer"
-longitude = -86.970053
 latitude = 38.031396
+longitude = -86.970053
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47611"
+

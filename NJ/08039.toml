@@ -1,6 +1,8 @@
-zip_code = "08039"
-state = "NJ"
 city = "Harrisonville"
 county = "Gloucester"
-longitude = -75.271114
 latitude = 39.693067
+longitude = -75.271114
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08039"
+

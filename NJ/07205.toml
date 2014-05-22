@@ -1,6 +1,8 @@
-zip_code = "07205"
-state = "NJ"
 city = "Hillside"
 county = "Union"
-longitude = -74.229889
 latitude = 40.693823
+longitude = -74.229889
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07205"
+

@@ -1,6 +1,8 @@
-zip_code = "03855"
-state = "NH"
 city = "New Durham"
 county = "Strafford"
-longitude = -71.119055
 latitude = 43.459503
+longitude = -71.119055
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03855"
+

@@ -1,6 +1,8 @@
-zip_code = "69138"
-state = "NE"
 city = "Gothenburg"
 county = "Dawson"
-longitude = -100.129125
 latitude = 40.945256
+longitude = -100.129125
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69138"
+

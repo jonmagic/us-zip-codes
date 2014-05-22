@@ -1,6 +1,8 @@
-zip_code = "76527"
-state = "TX"
 city = "Florence"
 county = "Williamson"
-longitude = -97.78119
 latitude = 30.807586
+longitude = -97.78119
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76527"
+

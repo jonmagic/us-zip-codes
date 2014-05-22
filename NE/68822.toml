@@ -1,6 +1,8 @@
-zip_code = "68822"
-state = "NE"
 city = "Broken Bow"
 county = "Custer"
-longitude = -99.621491
 latitude = 41.451119
+longitude = -99.621491
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68822"
+

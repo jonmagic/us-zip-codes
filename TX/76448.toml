@@ -1,6 +1,8 @@
-zip_code = "76448"
-state = "TX"
 city = "Eastland"
 county = "Eastland"
-longitude = -98.777973
 latitude = 32.403972
+longitude = -98.777973
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76448"
+

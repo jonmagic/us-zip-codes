@@ -1,6 +1,8 @@
-zip_code = "82939"
-state = "WY"
 city = "Mountain View"
 county = "Uinta"
-longitude = -110.337157
 latitude = 41.233491
+longitude = -110.337157
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82939"
+

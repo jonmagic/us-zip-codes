@@ -1,6 +1,8 @@
-zip_code = "13602"
-state = "NY"
 city = "Fort Drum"
 county = "Jefferson"
-longitude = -75.754468
 latitude = 44.032457
+longitude = -75.754468
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13602"
+

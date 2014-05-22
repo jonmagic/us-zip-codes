@@ -1,6 +1,8 @@
-zip_code = "87543"
-state = "NM"
 city = "Llano"
 county = "Taos"
-longitude = -105.664751
 latitude = 36.148617
+longitude = -105.664751
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87543"
+

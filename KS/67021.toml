@@ -1,6 +1,8 @@
-zip_code = "67021"
-state = "KS"
 city = "Byers"
 county = "Pratt"
-longitude = -98.931119
 latitude = 37.777955
+longitude = -98.931119
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67021"
+

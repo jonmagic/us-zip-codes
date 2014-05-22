@@ -1,6 +1,8 @@
-zip_code = "77902"
-state = "TX"
 city = "Victoria"
 county = "Victoria"
-longitude = -97.100624
 latitude = 28.925513
+longitude = -97.100624
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77902"
+

@@ -1,6 +1,8 @@
-zip_code = "44430"
-state = "OH"
 city = "Leavittsburg"
 county = "Trumbull"
-longitude = -80.886138
 latitude = 41.24112
+longitude = -80.886138
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44430"
+

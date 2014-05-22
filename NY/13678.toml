@@ -1,6 +1,8 @@
-zip_code = "13678"
-state = "NY"
 city = "Raymondville"
 county = "Saint Lawrence"
-longitude = -74.979811
 latitude = 44.828685
+longitude = -74.979811
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13678"
+

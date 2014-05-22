@@ -1,6 +1,8 @@
-zip_code = "22003"
-state = "VA"
 city = "Annandale"
 county = "Fairfax"
-longitude = -77.212794
 latitude = 38.835762
+longitude = -77.212794
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22003"
+

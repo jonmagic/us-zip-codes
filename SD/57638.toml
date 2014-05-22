@@ -1,6 +1,8 @@
-zip_code = "57638"
-state = "SD"
 city = "Lemmon"
 county = "Perkins"
-longitude = -102.410975
 latitude = 45.732219
+longitude = -102.410975
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57638"
+

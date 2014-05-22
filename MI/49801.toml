@@ -1,6 +1,8 @@
-zip_code = "49801"
-state = "MI"
 city = "Iron Mountain"
 county = "Dickinson"
-longitude = -87.874496
 latitude = 46.021627
+longitude = -87.874496
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49801"
+

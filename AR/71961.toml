@@ -1,6 +1,8 @@
-zip_code = "71961"
-state = "AR"
 city = "Oden"
 county = "Montgomery"
-longitude = -93.803388
 latitude = 34.597982
+longitude = -93.803388
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71961"
+

@@ -1,6 +1,8 @@
-zip_code = "45717"
-state = "OH"
 city = "Carbondale"
 county = "Athens"
-longitude = -82.010132
 latitude = 39.368235
+longitude = -82.010132
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45717"
+

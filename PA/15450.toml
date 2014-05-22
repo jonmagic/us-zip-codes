@@ -1,6 +1,8 @@
-zip_code = "15450"
-state = "PA"
 city = "La Belle"
 county = "Fayette"
-longitude = -79.975391
 latitude = 39.998279
+longitude = -79.975391
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15450"
+

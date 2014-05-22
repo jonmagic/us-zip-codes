@@ -1,6 +1,8 @@
-zip_code = "02766"
-state = "MA"
 city = "Norton"
 county = "Bristol"
-longitude = -71.180393
 latitude = 41.959149
+longitude = -71.180393
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02766"
+

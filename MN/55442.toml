@@ -1,6 +1,8 @@
-zip_code = "55442"
-state = "MN"
 city = "Minneapolis"
 county = "Hennepin"
-longitude = -93.431047
 latitude = 45.04674
+longitude = -93.431047
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55442"
+

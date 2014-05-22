@@ -1,6 +1,8 @@
-zip_code = "58256"
-state = "ND"
 city = "Manvel"
 county = "Grand Forks"
-longitude = -97.28791
 latitude = 48.107279
+longitude = -97.28791
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58256"
+

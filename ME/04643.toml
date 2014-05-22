@@ -1,6 +1,8 @@
-zip_code = "04643"
-state = "ME"
 city = "Harrington"
 county = "Washington"
-longitude = -67.495548
 latitude = 45.002969
+longitude = -67.495548
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04643"
+

@@ -1,6 +1,8 @@
-zip_code = "98292"
-state = "WA"
 city = "Stanwood"
 county = "Snohomish"
-longitude = -122.1064
 latitude = 48.080148
+longitude = -122.1064
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98292"
+

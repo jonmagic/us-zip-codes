@@ -1,6 +1,8 @@
-zip_code = "47597"
-state = "IN"
 city = "Wheatland"
 county = "Knox"
-longitude = -87.329395
 latitude = 38.656969
+longitude = -87.329395
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47597"
+

@@ -1,6 +1,8 @@
-zip_code = "68355"
-state = "NE"
 city = "Falls City"
 county = "Richardson"
-longitude = -95.602053
 latitude = 40.073908
+longitude = -95.602053
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68355"
+

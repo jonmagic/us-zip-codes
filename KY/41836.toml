@@ -1,6 +1,8 @@
-zip_code = "41836"
-state = "KY"
 city = "Mallie"
 county = "Knott"
-longitude = -82.91613
 latitude = 37.269218
+longitude = -82.91613
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41836"
+

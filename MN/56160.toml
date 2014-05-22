@@ -1,6 +1,8 @@
-zip_code = "56160"
-state = "MN"
 city = "Odin"
 county = "Watonwan"
-longitude = -94.742716
 latitude = 43.867848
+longitude = -94.742716
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56160"
+

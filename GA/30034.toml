@@ -1,6 +1,8 @@
-zip_code = "30034"
-state = "GA"
 city = "Decatur"
 county = "Dekalb"
-longitude = -84.251171
 latitude = 33.690757
+longitude = -84.251171
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30034"
+

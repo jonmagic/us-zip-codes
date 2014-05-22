@@ -1,6 +1,8 @@
-zip_code = "43913"
-state = "OH"
 city = "Brilliant"
 county = "Jefferson"
-longitude = -80.768624
 latitude = 40.323767
+longitude = -80.768624
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43913"
+

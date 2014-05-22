@@ -1,6 +1,8 @@
-zip_code = "26386"
-state = "WV"
 city = "Lumberport"
 county = "Harrison"
-longitude = -80.354173
 latitude = 39.377263
+longitude = -80.354173
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26386"
+

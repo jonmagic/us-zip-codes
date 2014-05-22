@@ -1,6 +1,8 @@
-zip_code = "63353"
-state = "MO"
 city = "Louisiana"
 county = "Pike"
-longitude = -91.088401
 latitude = 39.440073
+longitude = -91.088401
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63353"
+

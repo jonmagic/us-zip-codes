@@ -1,6 +1,8 @@
-zip_code = "25043"
-state = "WV"
 city = "Clay"
 county = "Clay"
-longitude = -81.080031
 latitude = 38.467298
+longitude = -81.080031
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25043"
+

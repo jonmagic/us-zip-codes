@@ -1,6 +1,8 @@
-zip_code = "98547"
-state = "WA"
 city = "Grayland"
 county = "Grays Harbor"
-longitude = -124.094009
 latitude = 46.826407
+longitude = -124.094009
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98547"
+

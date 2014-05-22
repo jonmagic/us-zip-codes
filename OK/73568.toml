@@ -1,6 +1,8 @@
-zip_code = "73568"
-state = "OK"
 city = "Temple"
 county = "Cotton"
-longitude = -98.260334
 latitude = 34.271467
+longitude = -98.260334
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73568"
+

@@ -1,6 +1,8 @@
-zip_code = "72740"
-state = "AR"
 city = "Huntsville"
 county = "Madison"
-longitude = -93.778748
 latitude = 36.028046
+longitude = -93.778748
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72740"
+

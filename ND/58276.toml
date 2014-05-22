@@ -1,6 +1,8 @@
-zip_code = "58276"
-state = "ND"
 city = "Saint Thomas"
 county = "Pembina"
-longitude = -97.471056
 latitude = 48.630369
+longitude = -97.471056
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58276"
+

@@ -1,6 +1,8 @@
-zip_code = "43360"
-state = "OH"
 city = "Zanesfield"
 county = "Logan"
-longitude = -83.640462
 latitude = 40.321114
+longitude = -83.640462
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43360"
+

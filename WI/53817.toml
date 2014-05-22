@@ -1,6 +1,8 @@
-zip_code = "53817"
-state = "WI"
 city = "Patch Grove"
 county = "Grant"
-longitude = -90.964596
 latitude = 42.942183
+longitude = -90.964596
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53817"
+

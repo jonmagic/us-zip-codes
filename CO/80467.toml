@@ -1,6 +1,8 @@
-zip_code = "80467"
-state = "CO"
 city = "Oak Creek"
 county = "Routt"
-longitude = -106.944274
 latitude = 40.323272
+longitude = -106.944274
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80467"
+

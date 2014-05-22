@@ -1,6 +1,8 @@
-zip_code = "57319"
-state = "SD"
 city = "Bridgewater"
 county = "Mccook"
-longitude = -97.469058
 latitude = 43.550264
+longitude = -97.469058
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57319"
+

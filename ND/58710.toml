@@ -1,6 +1,8 @@
-zip_code = "58710"
-state = "ND"
 city = "Anamoose"
 county = "Mchenry"
-longitude = -100.284856
 latitude = 47.926998
+longitude = -100.284856
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58710"
+

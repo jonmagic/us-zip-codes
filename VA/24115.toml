@@ -1,6 +1,8 @@
-zip_code = "24115"
-state = "VA"
 city = "Martinsville"
 county = "Martinsville City"
-longitude = -79.865168
 latitude = 36.679571
+longitude = -79.865168
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24115"
+

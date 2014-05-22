@@ -1,6 +1,8 @@
-zip_code = "62979"
-state = "IL"
 city = "Ridgway"
 county = "Gallatin"
-longitude = -88.243498
 latitude = 37.796978
+longitude = -88.243498
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62979"
+

@@ -1,6 +1,8 @@
-zip_code = "78237"
-state = "TX"
 city = "San Antonio"
 county = "Bexar"
-longitude = -98.483449
 latitude = 29.345385
+longitude = -98.483449
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78237"
+

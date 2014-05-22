@@ -1,6 +1,8 @@
-zip_code = "72517"
-state = "AR"
 city = "Brockwell"
 county = "Izard"
-longitude = -92.134903
 latitude = 36.121391
+longitude = -92.134903
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72517"
+

@@ -1,6 +1,8 @@
-zip_code = "66864"
-state = "KS"
 city = "Neosho Rapids"
 county = "Lyon"
-longitude = -96.103875
 latitude = 38.413332
+longitude = -96.103875
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66864"
+

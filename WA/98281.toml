@@ -1,6 +1,8 @@
-zip_code = "98281"
-state = "WA"
 city = "Point Roberts"
 county = "Whatcom"
-longitude = -123.058243
 latitude = 48.987386
+longitude = -123.058243
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98281"
+

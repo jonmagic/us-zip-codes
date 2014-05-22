@@ -1,6 +1,8 @@
-zip_code = "21532"
-state = "MD"
 city = "Frostburg"
 county = "Allegany"
-longitude = -78.912502
 latitude = 39.64206
+longitude = -78.912502
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21532"
+

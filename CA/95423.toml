@@ -1,6 +1,8 @@
-zip_code = "95423"
-state = "CA"
 city = "Clearlake Oaks"
 county = "Lake"
-longitude = -122.620832
 latitude = 38.953387
+longitude = -122.620832
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95423"
+

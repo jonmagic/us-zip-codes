@@ -1,6 +1,8 @@
-zip_code = "31041"
-state = "GA"
 city = "Ideal"
 county = "Macon"
-longitude = -84.212159
 latitude = 32.372937
+longitude = -84.212159
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31041"
+

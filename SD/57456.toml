@@ -1,6 +1,8 @@
-zip_code = "57456"
-state = "SD"
 city = "Leola"
 county = "Mcpherson"
-longitude = -98.983305
 latitude = 45.773436
+longitude = -98.983305
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57456"
+

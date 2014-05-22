@@ -1,6 +1,8 @@
-zip_code = "19330"
-state = "PA"
 city = "Cochranville"
 county = "Chester"
-longitude = -75.925805
 latitude = 39.916517
+longitude = -75.925805
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19330"
+

@@ -1,6 +1,8 @@
-zip_code = "41255"
-state = "KY"
 city = "Sitka"
 county = "Johnson"
-longitude = -82.832532
 latitude = 37.920063
+longitude = -82.832532
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41255"
+

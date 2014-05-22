@@ -1,6 +1,8 @@
-zip_code = "77399"
-state = "TX"
 city = "Livingston"
 county = "Polk"
-longitude = -94.869052
 latitude = 30.817866
+longitude = -94.869052
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77399"
+

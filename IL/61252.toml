@@ -1,6 +1,8 @@
-zip_code = "61252"
-state = "IL"
 city = "Fulton"
 county = "Whiteside"
-longitude = -90.112432
 latitude = 41.79088
+longitude = -90.112432
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61252"
+

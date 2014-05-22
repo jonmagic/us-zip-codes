@@ -1,6 +1,8 @@
-zip_code = "68061"
-state = "NE"
 city = "Tekamah"
 county = "Burt"
-longitude = -96.25543
 latitude = 41.808435
+longitude = -96.25543
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68061"
+

@@ -1,6 +1,8 @@
-zip_code = "38873"
-state = "MS"
 city = "Tishomingo"
 county = "Tishomingo"
-longitude = -88.238068
 latitude = 34.671205
+longitude = -88.238068
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38873"
+

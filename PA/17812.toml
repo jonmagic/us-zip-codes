@@ -1,6 +1,8 @@
-zip_code = "17812"
-state = "PA"
 city = "Beaver Springs"
 county = "Snyder"
-longitude = -77.272828
 latitude = 40.726469
+longitude = -77.272828
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17812"
+

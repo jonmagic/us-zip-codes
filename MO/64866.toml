@@ -1,6 +1,8 @@
-zip_code = "64866"
-state = "MO"
 city = "Stark City"
 county = "Newton"
-longitude = -94.137992
 latitude = 36.868113
+longitude = -94.137992
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64866"
+

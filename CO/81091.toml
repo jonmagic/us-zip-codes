@@ -1,6 +1,8 @@
-zip_code = "81091"
-state = "CO"
 city = "Weston"
 county = "Las Animas"
-longitude = -104.795074
 latitude = 37.190046
+longitude = -104.795074
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81091"
+

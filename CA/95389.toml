@@ -1,6 +1,8 @@
-zip_code = "95389"
-state = "CA"
 city = "Yosemite National Park"
 county = "Mariposa"
-longitude = -119.694652
 latitude = 37.63791
+longitude = -119.694652
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95389"
+

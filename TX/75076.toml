@@ -1,6 +1,8 @@
-zip_code = "75076"
-state = "TX"
 city = "Pottsboro"
 county = "Grayson"
-longitude = -96.676191
 latitude = 33.817503
+longitude = -96.676191
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75076"
+

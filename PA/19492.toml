@@ -1,6 +1,8 @@
-zip_code = "19492"
-state = "PA"
 city = "Zieglerville"
 county = "Montgomery"
-longitude = -75.502974
 latitude = 40.290125
+longitude = -75.502974
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19492"
+

@@ -1,6 +1,8 @@
-zip_code = "50649"
-state = "IA"
 city = "Kesley"
 county = "Butler"
-longitude = -92.911151
 latitude = 42.662619
+longitude = -92.911151
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50649"
+

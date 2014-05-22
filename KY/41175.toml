@@ -1,6 +1,8 @@
-zip_code = "41175"
-state = "KY"
 city = "South Shore"
 county = "Greenup"
-longitude = -82.936626
 latitude = 38.714809
+longitude = -82.936626
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41175"
+

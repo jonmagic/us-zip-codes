@@ -1,6 +1,8 @@
-zip_code = "24202"
-state = "VA"
 city = "Bristol"
 county = "Bristol"
-longitude = -82.167633
 latitude = 36.621571
+longitude = -82.167633
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24202"
+

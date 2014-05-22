@@ -1,6 +1,8 @@
-zip_code = "02565"
-state = "MA"
 city = "Silver Beach"
 county = "Barnstable"
-longitude = -70.308662
 latitude = 41.799312
+longitude = -70.308662
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02565"
+

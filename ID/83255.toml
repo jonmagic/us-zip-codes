@@ -1,6 +1,8 @@
-zip_code = "83255"
-state = "ID"
 city = "Moore"
 county = "Butte"
-longitude = -113.4544
 latitude = 43.729598
+longitude = -113.4544
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83255"
+

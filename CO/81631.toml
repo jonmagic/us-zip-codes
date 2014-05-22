@@ -1,6 +1,8 @@
-zip_code = "81631"
-state = "CO"
 city = "Eagle"
 county = "Eagle"
-longitude = -106.805111
 latitude = 39.607401
+longitude = -106.805111
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81631"
+

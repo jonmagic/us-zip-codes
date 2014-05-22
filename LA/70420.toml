@@ -1,6 +1,8 @@
-zip_code = "70420"
-state = "LA"
 city = "Abita Springs"
 county = "Saint Tammany"
-longitude = -89.955328
 latitude = 30.477483
+longitude = -89.955328
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70420"
+

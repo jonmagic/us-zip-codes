@@ -1,6 +1,8 @@
-zip_code = "32096"
-state = "FL"
 city = "White Springs"
 county = "Hamilton"
-longitude = -82.77389
 latitude = 30.386063
+longitude = -82.77389
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32096"
+

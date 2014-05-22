@@ -1,6 +1,8 @@
-zip_code = "62459"
-state = "IL"
 city = "Sainte Marie"
 county = "Jasper"
-longitude = -88.029084
 latitude = 38.927986
+longitude = -88.029084
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62459"
+

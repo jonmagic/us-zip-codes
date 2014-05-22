@@ -1,6 +1,8 @@
-zip_code = "51450"
-state = "IA"
 city = "Lake View"
 county = "Sac"
-longitude = -95.028491
 latitude = 42.312348
+longitude = -95.028491
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51450"
+

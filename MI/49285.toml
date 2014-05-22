@@ -1,6 +1,8 @@
-zip_code = "49285"
-state = "MI"
 city = "Stockbridge"
 county = "Ingham"
-longitude = -84.24306
 latitude = 42.496734
+longitude = -84.24306
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49285"
+

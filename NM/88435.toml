@@ -1,6 +1,8 @@
-zip_code = "88435"
-state = "NM"
 city = "Santa Rosa"
 county = "Guadalupe"
-longitude = -104.589897
 latitude = 34.852639
+longitude = -104.589897
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88435"
+

@@ -1,6 +1,8 @@
-zip_code = "61724"
-state = "IL"
 city = "Bellflower"
 county = "Mclean"
-longitude = -88.549114
 latitude = 40.332543
+longitude = -88.549114
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61724"
+

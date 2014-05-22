@@ -1,6 +1,8 @@
-zip_code = "02472"
-state = "MA"
 city = "Watertown"
 county = "Middlesex"
-longitude = -71.201398
 latitude = 42.363096
+longitude = -71.201398
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02472"
+

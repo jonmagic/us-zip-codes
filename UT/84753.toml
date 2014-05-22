@@ -1,6 +1,8 @@
-zip_code = "84753"
-state = "UT"
 city = "Modena"
 county = "Iron"
-longitude = -113.813634
 latitude = 37.775781
+longitude = -113.813634
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84753"
+

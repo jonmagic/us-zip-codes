@@ -1,6 +1,8 @@
-zip_code = "84326"
-state = "UT"
 city = "Millville"
 county = "Cache"
-longitude = -111.818459
 latitude = 41.675906
+longitude = -111.818459
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84326"
+

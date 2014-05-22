@@ -1,6 +1,8 @@
-zip_code = "37336"
-state = "TN"
 city = "Georgetown"
 county = "Meigs"
-longitude = -84.935342
 latitude = 35.310427
+longitude = -84.935342
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37336"
+

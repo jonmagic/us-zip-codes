@@ -1,6 +1,8 @@
-zip_code = "12175"
-state = "NY"
 city = "Summit"
 county = "Schoharie"
-longitude = -74.54525
 latitude = 42.535029
+longitude = -74.54525
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12175"
+

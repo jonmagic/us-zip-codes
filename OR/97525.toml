@@ -1,6 +1,8 @@
-zip_code = "97525"
-state = "OR"
 city = "Gold Hill"
 county = "Jackson"
-longitude = -123.029161
 latitude = 42.440993
+longitude = -123.029161
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97525"
+

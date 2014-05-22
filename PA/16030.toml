@@ -1,6 +1,8 @@
-zip_code = "16030"
-state = "PA"
 city = "Eau Claire"
 county = "Butler"
-longitude = -79.802384
 latitude = 41.136538
+longitude = -79.802384
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16030"
+

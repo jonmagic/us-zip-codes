@@ -1,6 +1,8 @@
-zip_code = "29113"
-state = "SC"
 city = "Norway"
 county = "Orangeburg"
-longitude = -80.977637
 latitude = 33.409377
+longitude = -80.977637
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29113"
+

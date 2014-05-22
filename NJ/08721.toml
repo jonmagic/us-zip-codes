@@ -1,6 +1,8 @@
-zip_code = "08721"
-state = "NJ"
 city = "Bayville"
 county = "Ocean"
-longitude = -74.300023
 latitude = 39.966604
+longitude = -74.300023
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08721"
+

@@ -1,6 +1,8 @@
-zip_code = "69130"
-state = "NE"
 city = "Cozad"
 county = "Dawson"
-longitude = -99.967448
 latitude = 40.895003
+longitude = -99.967448
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69130"
+

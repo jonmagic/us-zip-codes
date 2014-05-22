@@ -1,6 +1,8 @@
-zip_code = "83115"
-state = "WY"
 city = "Daniel"
 county = "Sublette"
-longitude = -110.186599
 latitude = 42.785695
+longitude = -110.186599
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83115"
+

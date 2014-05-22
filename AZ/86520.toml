@@ -1,6 +1,8 @@
-zip_code = "86520"
-state = "AZ"
 city = "Blue Gap"
 county = "Navajo"
-longitude = -110.288704
 latitude = 35.285746
+longitude = -110.288704
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86520"
+

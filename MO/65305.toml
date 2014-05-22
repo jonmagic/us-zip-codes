@@ -1,6 +1,8 @@
-zip_code = "65305"
-state = "MO"
 city = "Whiteman Air Force Base"
 county = "Johnson"
-longitude = -93.573071
 latitude = 38.731819
+longitude = -93.573071
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65305"
+

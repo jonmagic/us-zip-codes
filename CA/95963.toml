@@ -1,6 +1,8 @@
-zip_code = "95963"
-state = "CA"
 city = "Orland"
 county = "Glenn"
-longitude = -122.327137
 latitude = 39.631197
+longitude = -122.327137
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95963"
+

@@ -1,6 +1,8 @@
-zip_code = "95452"
-state = "CA"
 city = "Kenwood"
 county = "Sonoma"
-longitude = -122.548243
 latitude = 38.413111
+longitude = -122.548243
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95452"
+

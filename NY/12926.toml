@@ -1,6 +1,8 @@
-zip_code = "12926"
-state = "NY"
 city = "Constable"
 county = "Franklin"
-longitude = -74.327316
 latitude = 44.944145
+longitude = -74.327316
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12926"
+

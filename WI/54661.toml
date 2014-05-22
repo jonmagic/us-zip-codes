@@ -1,6 +1,8 @@
-zip_code = "54661"
-state = "WI"
 city = "Trempealeau"
 county = "Trempealeau"
-longitude = -91.460168
 latitude = 44.076755
+longitude = -91.460168
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54661"
+

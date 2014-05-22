@@ -1,6 +1,8 @@
-zip_code = "62269"
-state = "IL"
 city = "O Fallon"
 county = "Saint Clair"
-longitude = -89.89568
 latitude = 38.571835
+longitude = -89.89568
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62269"
+

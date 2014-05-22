@@ -1,6 +1,8 @@
-zip_code = "24352"
-state = "VA"
 city = "Laurel Fork"
 county = "Carroll"
-longitude = -80.535146
 latitude = 36.711129
+longitude = -80.535146
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24352"
+

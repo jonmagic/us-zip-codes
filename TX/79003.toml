@@ -1,6 +1,8 @@
-zip_code = "79003"
-state = "TX"
 city = "Allison"
 county = "Wheeler"
-longitude = -100.270306
 latitude = 35.401181
+longitude = -100.270306
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79003"
+

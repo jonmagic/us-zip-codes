@@ -1,6 +1,8 @@
-zip_code = "72348"
-state = "AR"
 city = "Hughes"
 county = "Saint Francis"
-longitude = -90.564357
 latitude = 34.959855
+longitude = -90.564357
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72348"
+

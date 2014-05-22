@@ -1,6 +1,8 @@
-zip_code = "14037"
-state = "NY"
 city = "Cowlesville"
 county = "Wyoming"
-longitude = -78.446855
 latitude = 42.807705
+longitude = -78.446855
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14037"
+

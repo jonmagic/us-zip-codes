@@ -1,6 +1,8 @@
-zip_code = "14041"
-state = "NY"
 city = "Dayton"
 county = "Cattaraugus"
-longitude = -78.984391
 latitude = 42.408583
+longitude = -78.984391
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14041"
+

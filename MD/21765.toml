@@ -1,6 +1,8 @@
-zip_code = "21765"
-state = "MD"
 city = "Lisbon"
 county = "Howard"
-longitude = -77.071952
 latitude = 39.337804
+longitude = -77.071952
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21765"
+

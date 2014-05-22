@@ -1,6 +1,8 @@
-zip_code = "60441"
-state = "IL"
 city = "Lockport"
 county = "Will"
-longitude = -88.031268
 latitude = 41.552615
+longitude = -88.031268
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60441"
+

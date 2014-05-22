@@ -1,6 +1,8 @@
-zip_code = "52570"
-state = "IA"
 city = "Milton"
 county = "Van Buren"
-longitude = -92.162092
 latitude = 40.671781
+longitude = -92.162092
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52570"
+

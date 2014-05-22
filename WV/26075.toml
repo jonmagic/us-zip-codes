@@ -1,6 +1,8 @@
-zip_code = "26075"
-state = "WV"
 city = "Windsor Heights"
 county = "Brooke"
-longitude = -80.665879
 latitude = 40.192679
+longitude = -80.665879
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26075"
+

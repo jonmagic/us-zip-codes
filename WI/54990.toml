@@ -1,6 +1,8 @@
-zip_code = "54990"
-state = "WI"
 city = "Iola"
 county = "Waupaca"
-longitude = -88.915027
 latitude = 44.461926
+longitude = -88.915027
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54990"
+

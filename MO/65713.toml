@@ -1,6 +1,8 @@
-zip_code = "65713"
-state = "MO"
 city = "Niangua"
 county = "Webster"
-longitude = -92.757673
 latitude = 37.318077
+longitude = -92.757673
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65713"
+

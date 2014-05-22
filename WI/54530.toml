@@ -1,6 +1,8 @@
-zip_code = "54530"
-state = "WI"
 city = "Hawkins"
 county = "Rusk"
-longitude = -90.743138
 latitude = 45.518558
+longitude = -90.743138
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54530"
+

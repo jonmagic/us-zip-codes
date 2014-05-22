@@ -1,6 +1,8 @@
-zip_code = "40056"
-state = "KY"
 city = "Pewee Valley"
 county = "Oldham"
-longitude = -85.485175
 latitude = 38.303255
+longitude = -85.485175
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40056"
+

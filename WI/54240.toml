@@ -1,6 +1,8 @@
-zip_code = "54240"
-state = "WI"
 city = "Tisch Mills"
 county = "Manitowoc"
-longitude = -87.632398
 latitude = 44.282802
+longitude = -87.632398
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54240"
+

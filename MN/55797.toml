@@ -1,6 +1,8 @@
-zip_code = "55797"
-state = "MN"
 city = "Wrenshall"
 county = "Carlton"
-longitude = -92.657895
 latitude = 46.565172
+longitude = -92.657895
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55797"
+

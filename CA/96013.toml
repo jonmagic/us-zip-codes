@@ -1,6 +1,8 @@
-zip_code = "96013"
-state = "CA"
 city = "Burney"
 county = "Shasta"
-longitude = -121.687076
 latitude = 40.942396
+longitude = -121.687076
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96013"
+

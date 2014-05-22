@@ -1,6 +1,8 @@
-zip_code = "37013"
-state = "TN"
 city = "Antioch"
 county = "Davidson"
-longitude = -86.645598
 latitude = 36.036032
+longitude = -86.645598
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37013"
+

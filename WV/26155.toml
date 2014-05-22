@@ -1,6 +1,8 @@
-zip_code = "26155"
-state = "WV"
 city = "New Martinsville"
 county = "Wetzel"
-longitude = -80.817928
 latitude = 39.611459
+longitude = -80.817928
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26155"
+

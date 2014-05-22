@@ -1,6 +1,8 @@
-zip_code = "02663"
-state = "MA"
 city = "South Wellfleet"
 county = "Barnstable"
-longitude = -70.076776
 latitude = 41.800531
+longitude = -70.076776
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02663"
+

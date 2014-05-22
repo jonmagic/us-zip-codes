@@ -1,6 +1,8 @@
-zip_code = "25873"
-state = "WV"
 city = "Mac Arthur"
 county = "Raleigh"
-longitude = -81.214825
 latitude = 37.7517
+longitude = -81.214825
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25873"
+

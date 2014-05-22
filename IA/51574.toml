@@ -1,6 +1,8 @@
-zip_code = "51574"
-state = "IA"
 city = "Tennant"
 county = "Shelby"
-longitude = -95.441923
 latitude = 41.595663
+longitude = -95.441923
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51574"
+

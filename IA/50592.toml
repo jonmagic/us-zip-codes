@@ -1,6 +1,8 @@
-zip_code = "50592"
-state = "IA"
 city = "Truesdale"
 county = "Buena Vista"
-longitude = -95.185325
 latitude = 42.726167
+longitude = -95.185325
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50592"
+

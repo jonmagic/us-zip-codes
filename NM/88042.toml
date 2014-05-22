@@ -1,6 +1,8 @@
-zip_code = "88042"
-state = "NM"
 city = "Hillsboro"
 county = "Sierra"
-longitude = -107.569856
 latitude = 32.92029
+longitude = -107.569856
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88042"
+

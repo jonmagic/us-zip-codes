@@ -1,6 +1,8 @@
-zip_code = "61778"
-state = "IL"
 city = "Waynesville"
 county = "Dewitt"
-longitude = -89.092664
 latitude = 40.241747
+longitude = -89.092664
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61778"
+

@@ -1,6 +1,8 @@
-zip_code = "21060"
-state = "MD"
 city = "Glen Burnie"
 county = "Anne Arundel"
-longitude = -76.579836
 latitude = 39.170158
+longitude = -76.579836
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21060"
+

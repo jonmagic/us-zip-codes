@@ -1,6 +1,8 @@
-zip_code = "53109"
-state = "WI"
 city = "Camp Lake"
 county = "Kenosha"
-longitude = -88.144386
 latitude = 42.535968
+longitude = -88.144386
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53109"
+

@@ -1,6 +1,8 @@
-zip_code = "27573"
-state = "NC"
 city = "Roxboro"
 county = "Person"
-longitude = -78.950937
 latitude = 36.39165
+longitude = -78.950937
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27573"
+

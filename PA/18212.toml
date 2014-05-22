@@ -1,6 +1,8 @@
-zip_code = "18212"
-state = "PA"
 city = "Ashfield"
 county = "Carbon"
-longitude = -75.708281
 latitude = 40.784095
+longitude = -75.708281
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18212"
+

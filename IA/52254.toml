@@ -1,6 +1,8 @@
-zip_code = "52254"
-state = "IA"
 city = "Lost Nation"
 county = "Clinton"
-longitude = -90.541188
 latitude = 41.876909
+longitude = -90.541188
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52254"
+

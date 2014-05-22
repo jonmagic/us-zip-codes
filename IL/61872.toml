@@ -1,6 +1,8 @@
-zip_code = "61872"
-state = "IL"
 city = "Sadorus"
 county = "Champaign"
-longitude = -88.359609
 latitude = 39.945436
+longitude = -88.359609
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61872"
+

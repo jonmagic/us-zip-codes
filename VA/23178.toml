@@ -1,6 +1,8 @@
-zip_code = "23178"
-state = "VA"
 city = "Ware Neck"
 county = "Gloucester"
-longitude = -76.452896
 latitude = 37.400387
+longitude = -76.452896
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23178"
+

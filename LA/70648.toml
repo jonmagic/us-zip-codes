@@ -1,6 +1,8 @@
-zip_code = "70648"
-state = "LA"
 city = "Kinder"
 county = "Allen"
-longitude = -92.928777
 latitude = 30.578402
+longitude = -92.928777
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70648"
+

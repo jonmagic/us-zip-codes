@@ -1,6 +1,8 @@
-zip_code = "50801"
-state = "IA"
 city = "Creston"
 county = "Union"
-longitude = -94.347137
 latitude = 41.049896
+longitude = -94.347137
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50801"
+

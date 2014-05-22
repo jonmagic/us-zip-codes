@@ -1,6 +1,8 @@
-zip_code = "47907"
-state = "IN"
 city = "West Lafayette"
 county = "Tippecanoe"
-longitude = -86.916215
 latitude = 40.424923
+longitude = -86.916215
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47907"
+

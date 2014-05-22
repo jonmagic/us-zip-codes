@@ -1,6 +1,8 @@
-zip_code = "50616"
-state = "IA"
 city = "Charles City"
 county = "Floyd"
-longitude = -92.789058
 latitude = 43.059926
+longitude = -92.789058
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50616"
+

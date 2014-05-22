@@ -1,6 +1,8 @@
-zip_code = "74570"
-state = "OK"
 city = "Stuart"
 county = "Hughes"
-longitude = -96.099488
 latitude = 34.903001
+longitude = -96.099488
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74570"
+

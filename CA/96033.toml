@@ -1,6 +1,8 @@
-zip_code = "96033"
-state = "CA"
 city = "French Gulch"
 county = "Shasta"
-longitude = -122.58753
 latitude = 40.689232
+longitude = -122.58753
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96033"
+

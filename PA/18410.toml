@@ -1,6 +1,8 @@
-zip_code = "18410"
-state = "PA"
 city = "Chinchilla"
 county = "Lackawanna"
-longitude = -75.693335
 latitude = 41.486527
+longitude = -75.693335
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18410"
+

@@ -1,6 +1,8 @@
-zip_code = "40176"
-state = "KY"
 city = "Webster"
 county = "Breckinridge"
-longitude = -86.287044
 latitude = 37.881048
+longitude = -86.287044
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40176"
+

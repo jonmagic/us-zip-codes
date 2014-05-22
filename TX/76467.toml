@@ -1,6 +1,8 @@
-zip_code = "76467"
-state = "TX"
 city = "Paluxy"
 county = "Hood"
-longitude = -97.932083
 latitude = 32.341365
+longitude = -97.932083
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76467"
+

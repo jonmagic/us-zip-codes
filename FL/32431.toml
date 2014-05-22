@@ -1,6 +1,8 @@
-zip_code = "32431"
-state = "FL"
 city = "Cottondale"
 county = "Jackson"
-longitude = -85.287774
 latitude = 30.801747
+longitude = -85.287774
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32431"
+

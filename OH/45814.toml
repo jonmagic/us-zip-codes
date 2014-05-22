@@ -1,6 +1,8 @@
-zip_code = "45814"
-state = "OH"
 city = "Arlington"
 county = "Hancock"
-longitude = -83.617612
 latitude = 40.908204
+longitude = -83.617612
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45814"
+

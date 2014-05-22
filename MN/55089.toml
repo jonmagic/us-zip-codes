@@ -1,6 +1,8 @@
-zip_code = "55089"
-state = "MN"
 city = "Welch"
 county = "Goodhue"
-longitude = -92.704731
 latitude = 44.575372
+longitude = -92.704731
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55089"
+

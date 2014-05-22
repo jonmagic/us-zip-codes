@@ -1,6 +1,8 @@
-zip_code = "46373"
-state = "IN"
 city = "Saint John"
 county = "Lake"
-longitude = -87.453086
 latitude = 41.453965
+longitude = -87.453086
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46373"
+

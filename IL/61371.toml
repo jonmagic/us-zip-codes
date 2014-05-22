@@ -1,6 +1,8 @@
-zip_code = "61371"
-state = "IL"
 city = "Triumph"
 county = "La Salle"
-longitude = -89.021881
 latitude = 41.499089
+longitude = -89.021881
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61371"
+

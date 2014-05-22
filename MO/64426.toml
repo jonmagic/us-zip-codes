@@ -1,6 +1,8 @@
-zip_code = "64426"
-state = "MO"
 city = "Blythedale"
 county = "Harrison"
-longitude = -93.875682
 latitude = 40.510552
+longitude = -93.875682
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64426"
+

@@ -1,6 +1,8 @@
-zip_code = "44424"
-state = "OH"
 city = "Hartford"
 county = "Trumbull"
-longitude = -80.584681
 latitude = 41.309096
+longitude = -80.584681
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44424"
+

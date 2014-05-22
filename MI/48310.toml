@@ -1,6 +1,8 @@
-zip_code = "48310"
-state = "MI"
 city = "Sterling Heights"
 county = "Macomb"
-longitude = -83.068475
 latitude = 42.564395
+longitude = -83.068475
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48310"
+

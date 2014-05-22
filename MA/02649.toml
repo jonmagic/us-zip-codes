@@ -1,6 +1,8 @@
-zip_code = "02649"
-state = "MA"
 city = "Mashpee"
 county = "Barnstable"
-longitude = -70.253543
 latitude = 41.788337
+longitude = -70.253543
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02649"
+

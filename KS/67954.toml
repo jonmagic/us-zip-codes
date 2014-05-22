@@ -1,6 +1,8 @@
-zip_code = "67954"
-state = "KS"
 city = "Rolla"
 county = "Morton"
-longitude = -101.60469
 latitude = 37.081137
+longitude = -101.60469
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67954"
+

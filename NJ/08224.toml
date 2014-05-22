@@ -1,6 +1,8 @@
-zip_code = "08224"
-state = "NJ"
 city = "New Gretna"
 county = "Burlington"
-longitude = -74.435683
 latitude = 39.595197
+longitude = -74.435683
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08224"
+

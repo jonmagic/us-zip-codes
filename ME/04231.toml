@@ -1,6 +1,8 @@
-zip_code = "04231"
-state = "ME"
 city = "Stoneham"
 county = "Oxford"
-longitude = -70.861797
 latitude = 44.313283
+longitude = -70.861797
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04231"
+

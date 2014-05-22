@@ -1,6 +1,8 @@
-zip_code = "49456"
-state = "MI"
 city = "Spring Lake"
 county = "Ottawa"
-longitude = -86.19538
 latitude = 43.076609
+longitude = -86.19538
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49456"
+

@@ -1,6 +1,8 @@
-zip_code = "82933"
-state = "WY"
 city = "Fort Bridger"
 county = "Uinta"
-longitude = -110.399094
 latitude = 41.295023
+longitude = -110.399094
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82933"
+

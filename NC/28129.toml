@@ -1,6 +1,8 @@
-zip_code = "28129"
-state = "NC"
 city = "Oakboro"
 county = "Stanly"
-longitude = -80.319154
 latitude = 35.240666
+longitude = -80.319154
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28129"
+

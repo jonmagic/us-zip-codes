@@ -1,6 +1,8 @@
-zip_code = "59222"
-state = "MT"
 city = "Flaxville"
 county = "Daniels"
-longitude = -105.562544
 latitude = 48.781396
+longitude = -105.562544
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59222"
+

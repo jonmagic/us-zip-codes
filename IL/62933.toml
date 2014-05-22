@@ -1,6 +1,8 @@
-zip_code = "62933"
-state = "IL"
 city = "Energy"
 county = "Williamson"
-longitude = -89.063381
 latitude = 37.77783
+longitude = -89.063381
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62933"
+

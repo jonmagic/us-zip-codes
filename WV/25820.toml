@@ -1,6 +1,8 @@
-zip_code = "25820"
-state = "WV"
 city = "Camp Creek"
 county = "Mercer"
-longitude = -81.099605
 latitude = 37.509522
+longitude = -81.099605
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25820"
+

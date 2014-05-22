@@ -1,6 +1,8 @@
-zip_code = "68652"
-state = "NE"
 city = "Petersburg"
 county = "Boone"
-longitude = -98.07996
 latitude = 41.853086
+longitude = -98.07996
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68652"
+

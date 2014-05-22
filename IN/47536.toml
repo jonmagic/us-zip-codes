@@ -1,6 +1,8 @@
-zip_code = "47536"
-state = "IN"
 city = "Fulda"
 county = "Spencer"
-longitude = -87.016971
 latitude = 37.993813
+longitude = -87.016971
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47536"
+

@@ -1,6 +1,8 @@
-zip_code = "65243"
-state = "MO"
 city = "Clark"
 county = "Randolph"
-longitude = -92.374105
 latitude = 39.295025
+longitude = -92.374105
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65243"
+

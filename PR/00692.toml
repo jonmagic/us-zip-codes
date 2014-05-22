@@ -1,6 +1,8 @@
-zip_code = "00692"
-state = "PR"
 city = "Vega Alta"
 county = "Vega Alta"
-longitude = -66.338523
 latitude = 18.435818
+longitude = -66.338523
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00692"
+

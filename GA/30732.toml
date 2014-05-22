@@ -1,6 +1,8 @@
-zip_code = "30732"
-state = "GA"
 city = "Oakman"
 county = "Gordon"
-longitude = -84.711863
 latitude = 34.569015
+longitude = -84.711863
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30732"
+

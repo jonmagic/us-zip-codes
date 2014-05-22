@@ -1,6 +1,8 @@
-zip_code = "76249"
-state = "TX"
 city = "Krum"
 county = "Denton"
-longitude = -97.286741
 latitude = 33.224192
+longitude = -97.286741
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76249"
+

@@ -1,6 +1,8 @@
-zip_code = "70634"
-state = "LA"
 city = "Deridder"
 county = "Beauregard"
-longitude = -93.299574
 latitude = 30.651656
+longitude = -93.299574
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70634"
+

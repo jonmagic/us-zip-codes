@@ -1,6 +1,8 @@
-zip_code = "33701"
-state = "FL"
 city = "Saint Petersburg"
 county = "Pinellas"
-longitude = -82.64092
 latitude = 27.775654
+longitude = -82.64092
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33701"
+

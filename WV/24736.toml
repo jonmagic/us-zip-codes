@@ -1,6 +1,8 @@
-zip_code = "24736"
-state = "WV"
 city = "Matoaka"
 county = "Mercer"
-longitude = -81.202217
 latitude = 37.416393
+longitude = -81.202217
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24736"
+

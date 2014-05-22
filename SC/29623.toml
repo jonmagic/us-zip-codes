@@ -1,6 +1,8 @@
-zip_code = "29623"
-state = "SC"
 city = "Anderson"
 county = "Anderson"
-longitude = -82.835449
 latitude = 34.438087
+longitude = -82.835449
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29623"
+

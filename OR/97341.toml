@@ -1,6 +1,8 @@
-zip_code = "97341"
-state = "OR"
 city = "Depoe Bay"
 county = "Lincoln"
-longitude = -124.050272
 latitude = 44.832205
+longitude = -124.050272
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97341"
+

@@ -1,6 +1,8 @@
-zip_code = "68367"
-state = "NE"
 city = "Gresham"
 county = "York"
-longitude = -97.425506
 latitude = 41.010433
+longitude = -97.425506
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68367"
+

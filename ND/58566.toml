@@ -1,6 +1,8 @@
-zip_code = "58566"
-state = "ND"
 city = "Saint Anthony"
 county = "Morton"
-longitude = -100.94428
 latitude = 46.646616
+longitude = -100.94428
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58566"
+

@@ -1,6 +1,8 @@
-zip_code = "47359"
-state = "IN"
 city = "Montpelier"
 county = "Blackford"
-longitude = -85.295619
 latitude = 40.515895
+longitude = -85.295619
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47359"
+

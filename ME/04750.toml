@@ -1,6 +1,8 @@
-zip_code = "04750"
-state = "ME"
 city = "Limestone"
 county = "Aroostook"
-longitude = -67.851979
 latitude = 46.906749
+longitude = -67.851979
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04750"
+

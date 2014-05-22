@@ -1,6 +1,8 @@
-zip_code = "28604"
-state = "NC"
 city = "Banner Elk"
 county = "Avery"
-longitude = -81.910144
 latitude = 36.072025
+longitude = -81.910144
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28604"
+

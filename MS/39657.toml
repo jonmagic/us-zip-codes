@@ -1,6 +1,8 @@
-zip_code = "39657"
-state = "MS"
 city = "Osyka"
 county = "Pike"
-longitude = -90.403651
 latitude = 31.043653
+longitude = -90.403651
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39657"
+

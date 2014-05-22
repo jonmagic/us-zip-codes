@@ -1,6 +1,8 @@
-zip_code = "71250"
-state = "LA"
 city = "Jones"
 county = "Morehouse"
-longitude = -91.580528
 latitude = 32.94656
+longitude = -91.580528
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71250"
+

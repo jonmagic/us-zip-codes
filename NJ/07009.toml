@@ -1,6 +1,8 @@
-zip_code = "07009"
-state = "NJ"
 city = "Cedar Grove"
 county = "Essex"
-longitude = -74.227109
 latitude = 40.857049
+longitude = -74.227109
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07009"
+

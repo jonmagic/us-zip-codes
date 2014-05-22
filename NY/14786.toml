@@ -1,6 +1,8 @@
-zip_code = "14786"
-state = "NY"
 city = "West Clarksville"
 county = "Allegany"
-longitude = -78.221332
 latitude = 42.12267
+longitude = -78.221332
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14786"
+

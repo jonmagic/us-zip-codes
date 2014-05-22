@@ -1,6 +1,8 @@
-zip_code = "35013"
-state = "AL"
 city = "Allgood"
 county = "Blount"
-longitude = -86.449262
 latitude = 33.922162
+longitude = -86.449262
+state = ""
+state_code_alpha2 = ""
+zip_code = "35013"
+

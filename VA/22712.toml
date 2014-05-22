@@ -1,6 +1,8 @@
-zip_code = "22712"
-state = "VA"
 city = "Bealeton"
 county = "Fauquier"
-longitude = -77.756064
 latitude = 38.545289
+longitude = -77.756064
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22712"
+

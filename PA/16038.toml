@@ -1,6 +1,8 @@
-zip_code = "16038"
-state = "PA"
 city = "Harrisville"
 county = "Butler"
-longitude = -80.00865
 latitude = 40.935262
+longitude = -80.00865
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16038"
+

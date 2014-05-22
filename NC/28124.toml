@@ -1,6 +1,8 @@
-zip_code = "28124"
-state = "NC"
 city = "Mount Pleasant"
 county = "Cabarrus"
-longitude = -80.416474
 latitude = 35.416779
+longitude = -80.416474
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28124"
+

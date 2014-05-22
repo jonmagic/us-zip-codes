@@ -1,6 +1,8 @@
-zip_code = "98948"
-state = "WA"
 city = "Toppenish"
 county = "Yakima"
-longitude = -120.370257
 latitude = 46.328522
+longitude = -120.370257
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98948"
+

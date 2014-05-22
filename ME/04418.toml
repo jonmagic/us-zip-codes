@@ -1,6 +1,8 @@
-zip_code = "04418"
-state = "ME"
 city = "Greenbush"
 county = "Penobscot"
-longitude = -68.581212
 latitude = 45.049429
+longitude = -68.581212
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04418"
+

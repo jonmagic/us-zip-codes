@@ -1,6 +1,8 @@
-zip_code = "76844"
-state = "TX"
 city = "Goldthwaite"
 county = "Mills"
-longitude = -98.458794
 latitude = 31.447214
+longitude = -98.458794
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76844"
+

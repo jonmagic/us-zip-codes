@@ -1,6 +1,8 @@
-zip_code = "25011"
-state = "WV"
 city = "Bancroft"
 county = "Putnam"
-longitude = -81.841002
 latitude = 38.508559
+longitude = -81.841002
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25011"
+

@@ -1,6 +1,8 @@
-zip_code = "67950"
-state = "KS"
 city = "Elkhart"
 county = "Morton"
-longitude = -101.896973
 latitude = 37.00405
+longitude = -101.896973
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67950"
+

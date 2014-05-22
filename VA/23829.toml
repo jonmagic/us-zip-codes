@@ -1,6 +1,8 @@
-zip_code = "23829"
-state = "VA"
 city = "Capron"
 county = "Southampton"
-longitude = -77.236519
 latitude = 36.720629
+longitude = -77.236519
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23829"
+

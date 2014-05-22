@@ -1,6 +1,8 @@
-zip_code = "67547"
-state = "KS"
 city = "Kinsley"
 county = "Edwards"
-longitude = -99.478881
 latitude = 37.91204
+longitude = -99.478881
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67547"
+

@@ -1,6 +1,8 @@
-zip_code = "56623"
-state = "MN"
 city = "Baudette"
 county = "Lake Of The Woods"
-longitude = -94.84626
 latitude = 48.750473
+longitude = -94.84626
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56623"
+

@@ -1,6 +1,8 @@
-zip_code = "04359"
-state = "ME"
 city = "South Gardiner"
 county = "Kennebec"
-longitude = -69.777196
 latitude = 44.183266
+longitude = -69.777196
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04359"
+

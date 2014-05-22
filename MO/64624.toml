@@ -1,6 +1,8 @@
-zip_code = "64624"
-state = "MO"
 city = "Braymer"
 county = "Caldwell"
-longitude = -93.828565
 latitude = 39.598991
+longitude = -93.828565
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64624"
+

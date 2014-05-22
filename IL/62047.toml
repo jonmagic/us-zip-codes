@@ -1,6 +1,8 @@
-zip_code = "62047"
-state = "IL"
 city = "Hardin"
 county = "Calhoun"
-longitude = -90.622789
 latitude = 39.149443
+longitude = -90.622789
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62047"
+

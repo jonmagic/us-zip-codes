@@ -1,6 +1,8 @@
-zip_code = "92007"
-state = "CA"
 city = "Cardiff By The Sea"
 county = "San Diego"
-longitude = -117.274469
 latitude = 33.023042
+longitude = -117.274469
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92007"
+

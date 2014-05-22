@@ -1,6 +1,8 @@
-zip_code = "67059"
-state = "KS"
 city = "Haviland"
 county = "Kiowa"
-longitude = -99.192552
 latitude = 37.612557
+longitude = -99.192552
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67059"
+

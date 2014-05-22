@@ -1,6 +1,8 @@
-zip_code = "00718"
-state = "PR"
 city = "Naguabo"
 county = "Naguabo"
-longitude = -65.77831
 latitude = 18.22139
+longitude = -65.77831
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00718"
+

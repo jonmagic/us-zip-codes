@@ -1,6 +1,8 @@
-zip_code = "58529"
-state = "ND"
 city = "Carson"
 county = "Grant"
-longitude = -101.673608
 latitude = 46.300853
+longitude = -101.673608
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58529"
+

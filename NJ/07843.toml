@@ -1,6 +1,8 @@
-zip_code = "07843"
-state = "NJ"
 city = "Hopatcong"
 county = "Sussex"
-longitude = -74.659969
 latitude = 40.936753
+longitude = -74.659969
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07843"
+

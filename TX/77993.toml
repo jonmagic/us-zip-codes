@@ -1,6 +1,8 @@
-zip_code = "77993"
-state = "TX"
 city = "Weesatche"
 county = "Goliad"
-longitude = -97.444155
 latitude = 28.835825
+longitude = -97.444155
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77993"
+

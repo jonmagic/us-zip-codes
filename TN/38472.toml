@@ -1,6 +1,8 @@
-zip_code = "38472"
-state = "TN"
 city = "Lynnville"
 county = "Giles"
-longitude = -87.023994
 latitude = 35.254073
+longitude = -87.023994
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38472"
+

@@ -1,6 +1,8 @@
-zip_code = "61277"
-state = "IL"
 city = "Prophetstown"
 county = "Whiteside"
-longitude = -89.924411
 latitude = 41.654462
+longitude = -89.924411
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61277"
+

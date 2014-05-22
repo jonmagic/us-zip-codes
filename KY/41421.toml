@@ -1,6 +1,8 @@
-zip_code = "41421"
-state = "KY"
 city = "Elkfork"
 county = "Morgan"
-longitude = -83.11931
 latitude = 37.970781
+longitude = -83.11931
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41421"
+

@@ -1,6 +1,8 @@
-zip_code = "03582"
-state = "NH"
 city = "Groveton"
 county = "Coos"
-longitude = -71.422453
 latitude = 44.75096
+longitude = -71.422453
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03582"
+

@@ -1,6 +1,8 @@
-zip_code = "41747"
-state = "KY"
 city = "Hardburly"
 county = "Perry"
-longitude = -83.122477
 latitude = 37.300202
+longitude = -83.122477
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41747"
+

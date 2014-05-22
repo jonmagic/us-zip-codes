@@ -1,6 +1,8 @@
-zip_code = "78058"
-state = "TX"
 city = "Mountain Home"
 county = "Kerr"
-longitude = -99.484971
 latitude = 30.172545
+longitude = -99.484971
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78058"
+

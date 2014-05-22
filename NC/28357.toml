@@ -1,6 +1,8 @@
-zip_code = "28357"
-state = "NC"
 city = "Lumber Bridge"
 county = "Robeson"
-longitude = -79.163606
 latitude = 34.778165
+longitude = -79.163606
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28357"
+

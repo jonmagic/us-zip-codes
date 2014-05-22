@@ -1,6 +1,8 @@
-zip_code = "77467"
-state = "TX"
 city = "Pierce"
 county = "Wharton"
-longitude = -96.241147
 latitude = 29.298532
+longitude = -96.241147
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77467"
+

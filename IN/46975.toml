@@ -1,6 +1,8 @@
-zip_code = "46975"
-state = "IN"
 city = "Rochester"
 county = "Fulton"
-longitude = -86.254272
 latitude = 41.040988
+longitude = -86.254272
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46975"
+

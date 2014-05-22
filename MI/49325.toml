@@ -1,6 +1,8 @@
-zip_code = "49325"
-state = "MI"
 city = "Freeport"
 county = "Barry"
-longitude = -85.364444
 latitude = 42.738867
+longitude = -85.364444
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49325"
+

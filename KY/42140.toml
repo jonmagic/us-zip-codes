@@ -1,6 +1,8 @@
-zip_code = "42140"
-state = "KY"
 city = "Gamaliel"
 county = "Monroe"
-longitude = -85.856306
 latitude = 36.669398
+longitude = -85.856306
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42140"
+

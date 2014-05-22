@@ -1,6 +1,8 @@
-zip_code = "80643"
-state = "CO"
 city = "Keenesburg"
 county = "Weld"
-longitude = -104.506123
 latitude = 40.085322
+longitude = -104.506123
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80643"
+

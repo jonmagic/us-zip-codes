@@ -1,6 +1,8 @@
-zip_code = "53132"
-state = "WI"
 city = "Franklin"
 county = "Milwaukee"
-longitude = -88.009597
 latitude = 42.887289
+longitude = -88.009597
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53132"
+

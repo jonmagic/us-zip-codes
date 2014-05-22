@@ -1,6 +1,8 @@
-zip_code = "99124"
-state = "WA"
 city = "Elmer City"
 county = "Okanogan"
-longitude = -118.954893
 latitude = 48.015361
+longitude = -118.954893
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99124"
+

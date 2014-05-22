@@ -1,6 +1,8 @@
-zip_code = "62843"
-state = "IL"
 city = "Golden Gate"
 county = "Wayne"
-longitude = -88.206145
 latitude = 38.357551
+longitude = -88.206145
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62843"
+

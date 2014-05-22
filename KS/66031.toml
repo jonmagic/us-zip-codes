@@ -1,6 +1,8 @@
-zip_code = "66031"
-state = "KS"
 city = "New Century"
 county = "Johnson"
-longitude = -94.899201
 latitude = 38.824863
+longitude = -94.899201
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66031"
+

@@ -1,6 +1,8 @@
-zip_code = "24340"
-state = "VA"
 city = "Glade Spring"
 county = "Washington"
-longitude = -81.773242
 latitude = 36.74578
+longitude = -81.773242
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24340"
+

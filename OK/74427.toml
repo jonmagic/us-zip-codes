@@ -1,6 +1,8 @@
-zip_code = "74427"
-state = "OK"
 city = "Cookson"
 county = "Cherokee"
-longitude = -95.076549
 latitude = 35.8093
+longitude = -95.076549
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74427"
+

@@ -1,6 +1,8 @@
-zip_code = "21218"
-state = "MD"
 city = "Baltimore"
 county = "Baltimore City"
-longitude = -76.599139
 latitude = 39.328456
+longitude = -76.599139
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21218"
+

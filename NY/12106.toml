@@ -1,6 +1,8 @@
-zip_code = "12106"
-state = "NY"
 city = "Kinderhook"
 county = "Columbia"
-longitude = -73.704442
 latitude = 42.385231
+longitude = -73.704442
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12106"
+

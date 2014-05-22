@@ -1,6 +1,8 @@
-zip_code = "50483"
-state = "IA"
 city = "Wesley"
 county = "Kossuth"
-longitude = -94.029455
 latitude = 43.103297
+longitude = -94.029455
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50483"
+

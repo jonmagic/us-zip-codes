@@ -1,6 +1,8 @@
-zip_code = "71772"
-state = "AR"
 city = "Whelen Springs"
 county = "Clark"
-longitude = -93.1238
 latitude = 33.832537
+longitude = -93.1238
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71772"
+

@@ -1,6 +1,8 @@
-zip_code = "14132"
-state = "NY"
 city = "Sanborn"
 county = "Niagara"
-longitude = -78.885611
 latitude = 43.153105
+longitude = -78.885611
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14132"
+

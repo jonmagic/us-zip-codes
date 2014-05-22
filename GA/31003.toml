@@ -1,6 +1,8 @@
-zip_code = "31003"
-state = "GA"
 city = "Allentown"
 county = "Wilkinson"
-longitude = -83.20951
 latitude = 32.606433
+longitude = -83.20951
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31003"
+

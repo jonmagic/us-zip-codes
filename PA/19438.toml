@@ -1,6 +1,8 @@
-zip_code = "19438"
-state = "PA"
 city = "Harleysville"
 county = "Montgomery"
-longitude = -75.395188
 latitude = 40.274188
+longitude = -75.395188
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19438"
+

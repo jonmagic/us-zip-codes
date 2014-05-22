@@ -1,6 +1,8 @@
-zip_code = "41042"
-state = "KY"
 city = "Florence"
 county = "Boone"
-longitude = -84.656711
 latitude = 38.989548
+longitude = -84.656711
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41042"
+

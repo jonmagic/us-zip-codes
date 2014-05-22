@@ -1,6 +1,8 @@
-zip_code = "99676"
-state = "AK"
 city = "Talkeetna"
 county = "Matanuska Susitna"
-longitude = -149.715167
 latitude = 62.280436
+longitude = -149.715167
+state = ""
+state_code_alpha2 = ""
+zip_code = "99676"
+

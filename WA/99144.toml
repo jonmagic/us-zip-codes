@@ -1,6 +1,8 @@
-zip_code = "99144"
-state = "WA"
 city = "Lamona"
 county = "Lincoln"
-longitude = -118.399551
 latitude = 47.60894
+longitude = -118.399551
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99144"
+

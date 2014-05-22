@@ -1,6 +1,8 @@
-zip_code = "79749"
-state = "TX"
 city = "Lenorah"
 county = "Martin"
-longitude = -101.844195
 latitude = 32.258885
+longitude = -101.844195
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79749"
+

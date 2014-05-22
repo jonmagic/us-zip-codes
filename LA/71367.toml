@@ -1,6 +1,8 @@
-zip_code = "71367"
-state = "LA"
 city = "Saint Landry"
 county = "Evangeline"
-longitude = -92.296364
 latitude = 30.899787
+longitude = -92.296364
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71367"
+

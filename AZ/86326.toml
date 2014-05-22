@@ -1,6 +1,8 @@
-zip_code = "86326"
-state = "AZ"
 city = "Cottonwood"
 county = "Yavapai"
-longitude = -112.043547
 latitude = 34.643596
+longitude = -112.043547
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86326"
+

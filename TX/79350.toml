@@ -1,6 +1,8 @@
-zip_code = "79350"
-state = "TX"
 city = "New Deal"
 county = "Lubbock"
-longitude = -101.83551
 latitude = 33.729589
+longitude = -101.83551
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79350"
+

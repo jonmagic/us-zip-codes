@@ -1,6 +1,8 @@
-zip_code = "50554"
-state = "IA"
 city = "Laurens"
 county = "Pocahontas"
-longitude = -94.835889
 latitude = 42.821248
+longitude = -94.835889
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50554"
+

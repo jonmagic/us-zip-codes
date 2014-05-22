@@ -1,6 +1,8 @@
-zip_code = "05838"
-state = "VT"
 city = "East Saint Johnsbury"
 county = "Caledonia"
-longitude = -71.930077
 latitude = 44.468494
+longitude = -71.930077
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05838"
+

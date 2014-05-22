@@ -1,6 +1,8 @@
-zip_code = "32452"
-state = "FL"
 city = "Noma"
 county = "Holmes"
-longitude = -85.768022
 latitude = 30.849972
+longitude = -85.768022
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32452"
+

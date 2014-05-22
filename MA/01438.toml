@@ -1,6 +1,8 @@
-zip_code = "01438"
-state = "MA"
 city = "East Templeton"
 county = "Worcester"
-longitude = -72.029434
 latitude = 42.551681
+longitude = -72.029434
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01438"
+

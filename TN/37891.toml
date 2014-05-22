@@ -1,6 +1,8 @@
-zip_code = "37891"
-state = "TN"
 city = "Whitesburg"
 county = "Hamblen"
-longitude = -83.146114
 latitude = 36.256858
+longitude = -83.146114
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37891"
+

@@ -1,6 +1,8 @@
-zip_code = "47136"
-state = "IN"
 city = "Lanesville"
 county = "Harrison"
-longitude = -85.990389
 latitude = 38.227684
+longitude = -85.990389
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47136"
+

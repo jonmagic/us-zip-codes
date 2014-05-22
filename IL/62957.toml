@@ -1,6 +1,8 @@
-zip_code = "62957"
-state = "IL"
 city = "Mc Clure"
 county = "Alexander"
-longitude = -89.46653
 latitude = 37.295842
+longitude = -89.46653
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62957"
+

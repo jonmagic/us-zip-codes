@@ -1,6 +1,8 @@
-zip_code = "49093"
-state = "MI"
 city = "Three Rivers"
 county = "Saint Joseph"
-longitude = -85.538215
 latitude = 41.928972
+longitude = -85.538215
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49093"
+

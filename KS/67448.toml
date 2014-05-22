@@ -1,6 +1,8 @@
-zip_code = "67448"
-state = "KS"
 city = "Gypsum"
 county = "Saline"
-longitude = -97.492119
 latitude = 38.710913
+longitude = -97.492119
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67448"
+

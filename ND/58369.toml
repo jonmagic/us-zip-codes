@@ -1,6 +1,8 @@
-zip_code = "58369"
-state = "ND"
 city = "Saint John"
 county = "Rolette"
-longitude = -99.734073
 latitude = 48.880498
+longitude = -99.734073
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58369"
+

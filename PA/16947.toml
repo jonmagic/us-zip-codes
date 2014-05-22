@@ -1,6 +1,8 @@
-zip_code = "16947"
-state = "PA"
 city = "Troy"
 county = "Bradford"
-longitude = -76.837246
 latitude = 41.788389
+longitude = -76.837246
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16947"
+

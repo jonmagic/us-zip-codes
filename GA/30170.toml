@@ -1,6 +1,8 @@
-zip_code = "30170"
-state = "GA"
 city = "Roopville"
 county = "Carroll"
-longitude = -85.165295
 latitude = 33.524163
+longitude = -85.165295
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30170"
+

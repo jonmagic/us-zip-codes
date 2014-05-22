@@ -1,6 +1,8 @@
-zip_code = "03261"
-state = "NH"
 city = "Northwood"
 county = "Rockingham"
-longitude = -71.202568
 latitude = 43.208676
+longitude = -71.202568
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03261"
+

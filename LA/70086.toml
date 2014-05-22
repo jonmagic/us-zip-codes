@@ -1,6 +1,8 @@
-zip_code = "70086"
-state = "LA"
 city = "Saint James"
 county = "Saint James"
-longitude = -90.867755
 latitude = 30.033127
+longitude = -90.867755
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70086"
+

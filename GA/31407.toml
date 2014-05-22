@@ -1,6 +1,8 @@
-zip_code = "31407"
-state = "GA"
 city = "Savannah"
 county = "Chatham"
-longitude = -81.199897
 latitude = 32.167235
+longitude = -81.199897
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31407"
+

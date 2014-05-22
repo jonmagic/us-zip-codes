@@ -1,6 +1,8 @@
-zip_code = "33850"
-state = "FL"
 city = "Lake Alfred"
 county = "Polk"
-longitude = -81.727551
 latitude = 28.092424
+longitude = -81.727551
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33850"
+

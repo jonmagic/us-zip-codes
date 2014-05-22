@@ -1,6 +1,8 @@
-zip_code = "50533"
-state = "IA"
 city = "Eagle Grove"
 county = "Wright"
-longitude = -93.882675
 latitude = 42.646337
+longitude = -93.882675
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50533"
+

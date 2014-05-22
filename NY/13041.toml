@@ -1,6 +1,8 @@
-zip_code = "13041"
-state = "NY"
 city = "Clay"
 county = "Onondaga"
-longitude = -76.131931
 latitude = 43.119217
+longitude = -76.131931
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13041"
+

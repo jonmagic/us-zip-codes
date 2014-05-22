@@ -1,6 +1,8 @@
-zip_code = "18918"
-state = "PA"
 city = "Earlington"
 county = "Montgomery"
-longitude = -75.374155
 latitude = 40.320036
+longitude = -75.374155
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18918"
+

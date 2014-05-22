@@ -1,6 +1,8 @@
-zip_code = "32609"
-state = "FL"
 city = "Gainesville"
 county = "Alachua"
-longitude = -82.398315
 latitude = 29.761371
+longitude = -82.398315
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32609"
+

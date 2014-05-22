@@ -1,6 +1,8 @@
-zip_code = "00624"
-state = "PR"
 city = "Penuelas"
 county = "Penuelas"
-longitude = -66.726156
 latitude = 18.023535
+longitude = -66.726156
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00624"
+

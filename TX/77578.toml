@@ -1,6 +1,8 @@
-zip_code = "77578"
-state = "TX"
 city = "Manvel"
 county = "Brazoria"
-longitude = -95.374419
 latitude = 29.478468
+longitude = -95.374419
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77578"
+

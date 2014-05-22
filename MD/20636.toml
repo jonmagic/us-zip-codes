@@ -1,6 +1,8 @@
-zip_code = "20636"
-state = "MD"
 city = "Hollywood"
 county = "Saint Marys"
-longitude = -76.569163
 latitude = 38.342437
+longitude = -76.569163
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20636"
+

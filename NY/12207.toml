@@ -1,6 +1,8 @@
-zip_code = "12207"
-state = "NY"
 city = "Albany"
 county = "Albany"
-longitude = -73.750764
 latitude = 42.656029
+longitude = -73.750764
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12207"
+

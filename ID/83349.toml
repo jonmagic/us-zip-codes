@@ -1,6 +1,8 @@
-zip_code = "83349"
-state = "ID"
 city = "Richfield"
 county = "Lincoln"
-longitude = -114.212408
 latitude = 43.060804
+longitude = -114.212408
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83349"
+

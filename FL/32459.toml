@@ -1,6 +1,8 @@
-zip_code = "32459"
-state = "FL"
 city = "Santa Rosa Beach"
 county = "Walton"
-longitude = -86.160893
 latitude = 30.513484
+longitude = -86.160893
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32459"
+

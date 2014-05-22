@@ -1,6 +1,8 @@
-zip_code = "15458"
-state = "PA"
 city = "Mc Clellandtown"
 county = "Fayette"
-longitude = -79.869352
 latitude = 39.888242
+longitude = -79.869352
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15458"
+

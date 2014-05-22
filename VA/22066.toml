@@ -1,6 +1,8 @@
-zip_code = "22066"
-state = "VA"
 city = "Great Falls"
 county = "Fairfax"
-longitude = -77.306416
 latitude = 39.001609
+longitude = -77.306416
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22066"
+

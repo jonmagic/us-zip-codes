@@ -1,6 +1,8 @@
-zip_code = "54022"
-state = "WI"
 city = "River Falls"
 county = "Pierce"
-longitude = -92.595365
 latitude = 44.802351
+longitude = -92.595365
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54022"
+

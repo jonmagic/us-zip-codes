@@ -1,6 +1,8 @@
-zip_code = "48876"
-state = "MI"
 city = "Potterville"
 county = "Eaton"
-longitude = -84.729716
 latitude = 42.643807
+longitude = -84.729716
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48876"
+

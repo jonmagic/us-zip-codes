@@ -1,6 +1,8 @@
-zip_code = "50475"
-state = "IA"
 city = "Sheffield"
 county = "Franklin"
-longitude = -93.262211
 latitude = 42.732312
+longitude = -93.262211
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50475"
+

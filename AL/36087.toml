@@ -1,6 +1,8 @@
-zip_code = "36087"
-state = "AL"
 city = "Tuskegee Institute"
 county = "Macon"
-longitude = -85.738032
 latitude = 32.40926
+longitude = -85.738032
+state = ""
+state_code_alpha2 = ""
+zip_code = "36087"
+

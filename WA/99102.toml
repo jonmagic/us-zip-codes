@@ -1,6 +1,8 @@
-zip_code = "99102"
-state = "WA"
 city = "Albion"
 county = "Whitman"
-longitude = -117.412136
 latitude = 46.934379
+longitude = -117.412136
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99102"
+

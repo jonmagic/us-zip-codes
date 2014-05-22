@@ -1,6 +1,8 @@
-zip_code = "22939"
-state = "VA"
 city = "Fishersville"
 county = "Augusta"
-longitude = -78.99295
 latitude = 38.096364
+longitude = -78.99295
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22939"
+

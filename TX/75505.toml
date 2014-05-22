@@ -1,6 +1,8 @@
-zip_code = "75505"
-state = "TX"
 city = "Texarkana"
 county = "Bowie"
-longitude = -94.0715
 latitude = 33.46238
+longitude = -94.0715
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75505"
+

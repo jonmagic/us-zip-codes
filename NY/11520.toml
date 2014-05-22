@@ -1,6 +1,8 @@
-zip_code = "11520"
-state = "NY"
 city = "Freeport"
 county = "Nassau"
-longitude = -73.585222
 latitude = 40.651251
+longitude = -73.585222
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11520"
+

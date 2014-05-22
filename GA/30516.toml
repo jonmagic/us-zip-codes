@@ -1,6 +1,8 @@
-zip_code = "30516"
-state = "GA"
 city = "Bowersville"
 county = "Hart"
-longitude = -83.03321
 latitude = 34.383987
+longitude = -83.03321
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30516"
+

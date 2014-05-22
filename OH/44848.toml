@@ -1,6 +1,8 @@
-zip_code = "44848"
-state = "OH"
 city = "Nankin"
 county = "Ashland"
-longitude = -82.281695
 latitude = 40.920617
+longitude = -82.281695
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44848"
+

@@ -1,6 +1,8 @@
-zip_code = "32962"
-state = "FL"
 city = "Vero Beach"
 county = "Indian River"
-longitude = -80.476926
 latitude = 27.658291
+longitude = -80.476926
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32962"
+

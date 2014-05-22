@@ -1,6 +1,8 @@
-zip_code = "05253"
-state = "VT"
 city = "East Dorset"
 county = "Bennington"
-longitude = -73.065443
 latitude = 43.182502
+longitude = -73.065443
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05253"
+

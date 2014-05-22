@@ -1,6 +1,8 @@
-zip_code = "22973"
-state = "VA"
 city = "Stanardsville"
 county = "Greene"
-longitude = -78.482014
 latitude = 38.312057
+longitude = -78.482014
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22973"
+

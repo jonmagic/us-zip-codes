@@ -1,6 +1,8 @@
-zip_code = "49729"
-state = "MI"
 city = "Ellsworth"
 county = "Antrim"
-longitude = -85.303853
 latitude = 45.156457
+longitude = -85.303853
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49729"
+

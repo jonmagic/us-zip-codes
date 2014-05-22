@@ -1,6 +1,8 @@
-zip_code = "82523"
-state = "WY"
 city = "Pavillion"
 county = "Fremont"
-longitude = -108.699805
 latitude = 43.362321
+longitude = -108.699805
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82523"
+

@@ -1,6 +1,8 @@
-zip_code = "13328"
-state = "NY"
 city = "Deansboro"
 county = "Oneida"
-longitude = -75.422034
 latitude = 42.983981
+longitude = -75.422034
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13328"
+

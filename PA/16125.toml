@@ -1,6 +1,8 @@
-zip_code = "16125"
-state = "PA"
 city = "Greenville"
 county = "Mercer"
-longitude = -80.288302
 latitude = 41.326606
+longitude = -80.288302
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16125"
+

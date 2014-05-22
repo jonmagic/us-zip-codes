@@ -1,6 +1,8 @@
-zip_code = "12018"
-state = "NY"
 city = "Averill Park"
 county = "Rensselaer"
-longitude = -73.55142
 latitude = 42.670645
+longitude = -73.55142
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12018"
+

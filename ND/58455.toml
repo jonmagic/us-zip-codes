@@ -1,6 +1,8 @@
-zip_code = "58455"
-state = "ND"
 city = "Kensal"
 county = "Stutsman"
-longitude = -98.753458
 latitude = 47.240135
+longitude = -98.753458
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58455"
+

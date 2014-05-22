@@ -1,6 +1,8 @@
-zip_code = "84035"
-state = "UT"
 city = "Jensen"
 county = "Uintah"
-longitude = -109.387441
 latitude = 40.344753
+longitude = -109.387441
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84035"
+

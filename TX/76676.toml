@@ -1,6 +1,8 @@
-zip_code = "76676"
-state = "TX"
 city = "Penelope"
 county = "Hill"
-longitude = -96.926944
 latitude = 31.859638
+longitude = -96.926944
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76676"
+

@@ -1,6 +1,8 @@
-zip_code = "17968"
-state = "PA"
 city = "Sacramento"
 county = "Schuylkill"
-longitude = -76.591109
 latitude = 40.636539
+longitude = -76.591109
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17968"
+

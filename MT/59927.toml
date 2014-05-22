@@ -1,6 +1,8 @@
-zip_code = "59927"
-state = "MT"
 city = "Olney"
 county = "Flathead"
-longitude = -114.591981
 latitude = 48.545453
+longitude = -114.591981
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59927"
+

@@ -1,6 +1,8 @@
-zip_code = "84737"
-state = "UT"
 city = "Hurricane"
 county = "Washington"
-longitude = -113.367458
 latitude = 37.145366
+longitude = -113.367458
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84737"
+

@@ -1,6 +1,8 @@
-zip_code = "63876"
-state = "MO"
 city = "Senath"
 county = "Dunklin"
-longitude = -90.18349
 latitude = 36.127573
+longitude = -90.18349
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63876"
+

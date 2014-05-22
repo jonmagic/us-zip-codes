@@ -1,6 +1,8 @@
-zip_code = "51548"
-state = "IA"
 city = "Mc Clelland"
 county = "Pottawattamie"
-longitude = -95.599683
 latitude = 41.377671
+longitude = -95.599683
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51548"
+

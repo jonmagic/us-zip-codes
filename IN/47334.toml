@@ -1,6 +1,8 @@
-zip_code = "47334"
-state = "IN"
 city = "Daleville"
 county = "Delaware"
-longitude = -85.508457
 latitude = 40.143843
+longitude = -85.508457
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47334"
+

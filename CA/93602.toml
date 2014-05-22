@@ -1,6 +1,8 @@
-zip_code = "93602"
-state = "CA"
 city = "Auberry"
 county = "Fresno"
-longitude = -119.253991
 latitude = 37.075671
+longitude = -119.253991
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93602"
+

@@ -1,6 +1,8 @@
-zip_code = "98632"
-state = "WA"
 city = "Longview"
 county = "Cowlitz"
-longitude = -123.057597
 latitude = 46.181872
+longitude = -123.057597
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98632"
+

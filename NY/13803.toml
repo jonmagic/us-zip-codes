@@ -1,6 +1,8 @@
-zip_code = "13803"
-state = "NY"
 city = "Marathon"
 county = "Cortland"
-longitude = -76.047429
 latitude = 42.497925
+longitude = -76.047429
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13803"
+

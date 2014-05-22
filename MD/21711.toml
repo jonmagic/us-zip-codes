@@ -1,6 +1,8 @@
-zip_code = "21711"
-state = "MD"
 city = "Big Pool"
 county = "Washington"
-longitude = -77.954912
 latitude = 39.666266
+longitude = -77.954912
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21711"
+

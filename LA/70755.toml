@@ -1,6 +1,8 @@
-zip_code = "70755"
-state = "LA"
 city = "Livonia"
 county = "Pointe Coupee"
-longitude = -91.548373
 latitude = 30.574555
+longitude = -91.548373
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70755"
+

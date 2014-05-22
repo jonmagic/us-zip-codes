@@ -1,6 +1,8 @@
-zip_code = "48758"
-state = "MI"
 city = "Richville"
 county = "Tuscola"
-longitude = -83.676156
 latitude = 43.407321
+longitude = -83.676156
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48758"
+

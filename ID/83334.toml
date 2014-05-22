@@ -1,6 +1,8 @@
-zip_code = "83334"
-state = "ID"
 city = "Hansen"
 county = "Twin Falls"
-longitude = -114.207144
 latitude = 42.451937
+longitude = -114.207144
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83334"
+

@@ -1,6 +1,8 @@
-zip_code = "98321"
-state = "WA"
 city = "Buckley"
 county = "Pierce"
-longitude = -122.079177
 latitude = 47.152347
+longitude = -122.079177
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98321"
+

@@ -1,6 +1,8 @@
-zip_code = "04949"
-state = "ME"
 city = "Liberty"
 county = "Waldo"
-longitude = -69.15555
 latitude = 44.371549
+longitude = -69.15555
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04949"
+

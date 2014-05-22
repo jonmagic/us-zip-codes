@@ -1,6 +1,8 @@
-zip_code = "16882"
-state = "PA"
 city = "Woodward"
 county = "Centre"
-longitude = -77.402419
 latitude = 40.897081
+longitude = -77.402419
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16882"
+

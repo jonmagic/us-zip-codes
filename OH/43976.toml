@@ -1,6 +1,8 @@
-zip_code = "43976"
-state = "OH"
 city = "Hopedale"
 county = "Harrison"
-longitude = -81.070506
 latitude = 40.314449
+longitude = -81.070506
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43976"
+

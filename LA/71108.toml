@@ -1,6 +1,8 @@
-zip_code = "71108"
-state = "LA"
 city = "Shreveport"
 county = "Caddo"
-longitude = -93.816458
 latitude = 32.602557
+longitude = -93.816458
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71108"
+

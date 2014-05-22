@@ -1,6 +1,8 @@
-zip_code = "24273"
-state = "VA"
 city = "Norton"
 county = "Norton City"
-longitude = -82.622624
 latitude = 36.93767
+longitude = -82.622624
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24273"
+

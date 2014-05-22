@@ -1,6 +1,8 @@
-zip_code = "65286"
-state = "MO"
 city = "Triplett"
 county = "Chariton"
-longitude = -93.193552
 latitude = 39.499974
+longitude = -93.193552
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65286"
+

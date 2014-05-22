@@ -1,6 +1,8 @@
-zip_code = "45657"
-state = "OH"
 city = "Otway"
 county = "Scioto"
-longitude = -83.159778
 latitude = 38.875128
+longitude = -83.159778
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45657"
+

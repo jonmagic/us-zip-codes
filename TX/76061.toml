@@ -1,6 +1,8 @@
-zip_code = "76061"
-state = "TX"
 city = "Lillian"
 county = "Johnson"
-longitude = -97.189257
 latitude = 32.476067
+longitude = -97.189257
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76061"
+

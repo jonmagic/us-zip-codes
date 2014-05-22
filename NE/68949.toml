@@ -1,6 +1,8 @@
-zip_code = "68949"
-state = "NE"
 city = "Holdrege"
 county = "Phelps"
-longitude = -99.325955
 latitude = 40.429207
+longitude = -99.325955
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68949"
+

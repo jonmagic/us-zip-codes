@@ -1,6 +1,8 @@
-zip_code = "50161"
-state = "IA"
 city = "Maxwell"
 county = "Story"
-longitude = -93.395946
 latitude = 41.920999
+longitude = -93.395946
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50161"
+

@@ -1,6 +1,8 @@
-zip_code = "63039"
-state = "MO"
 city = "Gray Summit"
 county = "Franklin"
-longitude = -90.824377
 latitude = 38.474458
+longitude = -90.824377
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63039"
+

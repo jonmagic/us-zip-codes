@@ -1,6 +1,8 @@
-zip_code = "48036"
-state = "MI"
 city = "Clinton Township"
 county = "Macomb"
-longitude = -82.913321
 latitude = 42.593834
+longitude = -82.913321
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48036"
+

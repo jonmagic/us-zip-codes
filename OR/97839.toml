@@ -1,6 +1,8 @@
-zip_code = "97839"
-state = "OR"
 city = "Lexington"
 county = "Morrow"
-longitude = -119.638037
 latitude = 45.493821
+longitude = -119.638037
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97839"
+

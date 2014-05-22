@@ -1,6 +1,8 @@
-zip_code = "15628"
-state = "PA"
 city = "Donegal"
 county = "Westmoreland"
-longitude = -79.377008
 latitude = 40.102807
+longitude = -79.377008
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15628"
+

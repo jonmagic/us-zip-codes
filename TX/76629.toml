@@ -1,6 +1,8 @@
-zip_code = "76629"
-state = "TX"
 city = "Bremond"
 county = "Robertson"
-longitude = -96.675985
 latitude = 31.165947
+longitude = -96.675985
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76629"
+

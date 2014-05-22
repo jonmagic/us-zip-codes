@@ -1,6 +1,8 @@
-zip_code = "29127"
-state = "SC"
 city = "Prosperity"
 county = "Newberry"
-longitude = -81.552888
 latitude = 34.188062
+longitude = -81.552888
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29127"
+

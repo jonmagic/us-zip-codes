@@ -1,6 +1,8 @@
-zip_code = "65744"
-state = "MO"
 city = "Rueter"
 county = "Taney"
-longitude = -92.909254
 latitude = 36.628353
+longitude = -92.909254
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65744"
+

@@ -1,6 +1,8 @@
-zip_code = "01007"
-state = "MA"
 city = "Belchertown"
 county = "Hampshire"
-longitude = -72.402056
 latitude = 42.280267
+longitude = -72.402056
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01007"
+

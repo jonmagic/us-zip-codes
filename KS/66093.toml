@@ -1,6 +1,8 @@
-zip_code = "66093"
-state = "KS"
 city = "Westphalia"
 county = "Anderson"
-longitude = -95.457728
 latitude = 38.210603
+longitude = -95.457728
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66093"
+

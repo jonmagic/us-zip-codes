@@ -1,6 +1,8 @@
-zip_code = "15750"
-state = "PA"
 city = "Josephine"
 county = "Indiana"
-longitude = -79.185048
 latitude = 40.482783
+longitude = -79.185048
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15750"
+

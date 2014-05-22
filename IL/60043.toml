@@ -1,6 +1,8 @@
-zip_code = "60043"
-state = "IL"
 city = "Kenilworth"
 county = "Cook"
-longitude = -87.71456
 latitude = 42.088428
+longitude = -87.71456
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60043"
+

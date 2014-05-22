@@ -1,6 +1,8 @@
-zip_code = "46308"
-state = "IN"
 city = "Crown Point"
 county = "Lake"
-longitude = -87.372779
 latitude = 41.461543
+longitude = -87.372779
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46308"
+

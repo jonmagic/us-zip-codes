@@ -1,6 +1,8 @@
-zip_code = "14559"
-state = "NY"
 city = "Spencerport"
 county = "Monroe"
-longitude = -77.830577
 latitude = 43.185709
+longitude = -77.830577
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14559"
+

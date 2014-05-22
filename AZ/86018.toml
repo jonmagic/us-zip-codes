@@ -1,6 +1,8 @@
-zip_code = "86018"
-state = "AZ"
 city = "Parks"
 county = "Coconino"
-longitude = -111.95003
 latitude = 35.256347
+longitude = -111.95003
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86018"
+

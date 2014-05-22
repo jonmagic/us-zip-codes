@@ -1,6 +1,8 @@
-zip_code = "30183"
-state = "GA"
 city = "Waleska"
 county = "Cherokee"
-longitude = -84.577601
 latitude = 34.338605
+longitude = -84.577601
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30183"
+

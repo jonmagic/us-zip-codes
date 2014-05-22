@@ -1,6 +1,8 @@
-zip_code = "03782"
-state = "NH"
 city = "Sunapee"
 county = "Sullivan"
-longitude = -72.15471
 latitude = 43.426838
+longitude = -72.15471
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03782"
+

@@ -1,6 +1,8 @@
-zip_code = "63053"
-state = "MO"
 city = "Kimmswick"
 county = "Jefferson"
-longitude = -90.514875
 latitude = 38.252726
+longitude = -90.514875
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63053"
+

@@ -1,6 +1,8 @@
-zip_code = "29662"
-state = "SC"
 city = "Mauldin"
 county = "Greenville"
-longitude = -82.267062
 latitude = 34.750238
+longitude = -82.267062
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29662"
+

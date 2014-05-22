@@ -1,6 +1,8 @@
-zip_code = "40009"
-state = "KY"
 city = "Bradfordsville"
 county = "Marion"
-longitude = -85.107213
 latitude = 37.504057
+longitude = -85.107213
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40009"
+

@@ -1,6 +1,8 @@
-zip_code = "70525"
-state = "LA"
 city = "Church Point"
 county = "Acadia"
-longitude = -92.318696
 latitude = 30.382556
+longitude = -92.318696
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70525"
+

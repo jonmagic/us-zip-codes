@@ -1,6 +1,8 @@
-zip_code = "60401"
-state = "IL"
 city = "Beecher"
 county = "Will"
-longitude = -87.626723
 latitude = 41.356872
+longitude = -87.626723
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60401"
+

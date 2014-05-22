@@ -1,6 +1,8 @@
-zip_code = "90745"
-state = "CA"
 city = "Carson"
 county = "Los Angeles"
-longitude = -118.261154
 latitude = 33.813317
+longitude = -118.261154
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90745"
+

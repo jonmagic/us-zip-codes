@@ -1,6 +1,8 @@
-zip_code = "00771"
-state = "PR"
 city = "Las Piedras"
 county = "Las Piedras"
-longitude = -65.87197
 latitude = 18.196576
+longitude = -65.87197
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00771"
+

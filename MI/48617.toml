@@ -1,6 +1,8 @@
-zip_code = "48617"
-state = "MI"
 city = "Clare"
 county = "Clare"
-longitude = -84.739685
 latitude = 43.976073
+longitude = -84.739685
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48617"
+

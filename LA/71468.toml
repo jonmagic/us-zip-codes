@@ -1,6 +1,8 @@
-zip_code = "71468"
-state = "LA"
 city = "Provencal"
 county = "Natchitoches"
-longitude = -93.118485
 latitude = 31.583252
+longitude = -93.118485
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71468"
+

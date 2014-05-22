@@ -1,6 +1,8 @@
-zip_code = "29916"
-state = "SC"
 city = "Early Branch"
 county = "Hampton"
-longitude = -81.151373
 latitude = 32.718903
+longitude = -81.151373
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29916"
+

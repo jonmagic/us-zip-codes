@@ -1,6 +1,8 @@
-zip_code = "51248"
-state = "IA"
 city = "Sanborn"
 county = "Obrien"
-longitude = -95.643967
 latitude = 43.172865
+longitude = -95.643967
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51248"
+

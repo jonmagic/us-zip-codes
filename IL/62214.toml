@@ -1,6 +1,8 @@
-zip_code = "62214"
-state = "IL"
 city = "Addieville"
 county = "Washington"
-longitude = -89.579449
 latitude = 38.381545
+longitude = -89.579449
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62214"
+

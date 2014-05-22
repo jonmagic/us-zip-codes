@@ -1,6 +1,8 @@
-zip_code = "36762"
-state = "AL"
 city = "Morvin"
 county = "Clarke"
-longitude = -88.00336
 latitude = 31.940191
+longitude = -88.00336
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36762"
+

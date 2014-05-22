@@ -1,6 +1,8 @@
-zip_code = "77571"
-state = "TX"
 city = "La Porte"
 county = "Harris"
-longitude = -95.051319
 latitude = 29.688447
+longitude = -95.051319
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77571"
+

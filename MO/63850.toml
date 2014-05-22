@@ -1,6 +1,8 @@
-zip_code = "63850"
-state = "MO"
 city = "Grayridge"
 county = "Stoddard"
-longitude = -89.756518
 latitude = 36.828337
+longitude = -89.756518
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63850"
+

@@ -1,6 +1,8 @@
-zip_code = "46175"
-state = "IN"
 city = "Russellville"
 county = "Putnam"
-longitude = -86.973306
 latitude = 39.822491
+longitude = -86.973306
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46175"
+

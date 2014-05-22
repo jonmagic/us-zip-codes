@@ -1,6 +1,8 @@
-zip_code = "41531"
-state = "KY"
 city = "Hardy"
 county = "Pike"
-longitude = -82.264495
 latitude = 37.649157
+longitude = -82.264495
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41531"
+

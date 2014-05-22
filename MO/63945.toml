@@ -1,6 +1,8 @@
-zip_code = "63945"
-state = "MO"
 city = "Harviell"
 county = "Butler"
-longitude = -90.407013
 latitude = 36.712451
+longitude = -90.407013
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63945"
+

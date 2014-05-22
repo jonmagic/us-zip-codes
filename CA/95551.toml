@@ -1,6 +1,8 @@
-zip_code = "95551"
-state = "CA"
 city = "Loleta"
 county = "Humboldt"
-longitude = -124.239192
 latitude = 40.665179
+longitude = -124.239192
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95551"
+

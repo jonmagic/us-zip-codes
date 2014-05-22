@@ -1,6 +1,8 @@
-zip_code = "27978"
-state = "NC"
 city = "Stumpy Point"
 county = "Dare"
-longitude = -75.772775
 latitude = 35.698493
+longitude = -75.772775
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27978"
+

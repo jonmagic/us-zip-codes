@@ -1,6 +1,8 @@
-zip_code = "49279"
-state = "MI"
 city = "Sand Creek"
 county = "Lenawee"
-longitude = -84.112125
 latitude = 41.775793
+longitude = -84.112125
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49279"
+

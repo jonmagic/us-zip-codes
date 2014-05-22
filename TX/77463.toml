@@ -1,6 +1,8 @@
-zip_code = "77463"
-state = "TX"
 city = "Old Ocean"
 county = "Brazoria"
-longitude = -95.791554
 latitude = 29.130819
+longitude = -95.791554
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77463"
+

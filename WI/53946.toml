@@ -1,6 +1,8 @@
-zip_code = "53946"
-state = "WI"
 city = "Markesan"
 county = "Green Lake"
-longitude = -89.065361
 latitude = 43.723578
+longitude = -89.065361
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53946"
+

@@ -1,6 +1,8 @@
-zip_code = "53091"
-state = "WI"
 city = "Theresa"
 county = "Dodge"
-longitude = -88.450107
 latitude = 43.483635
+longitude = -88.450107
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53091"
+

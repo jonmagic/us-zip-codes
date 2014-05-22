@@ -1,6 +1,8 @@
-zip_code = "77612"
-state = "TX"
 city = "Buna"
 county = "Jasper"
-longitude = -93.951837
 latitude = 30.493361
+longitude = -93.951837
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77612"
+

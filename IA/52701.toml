@@ -1,6 +1,8 @@
-zip_code = "52701"
-state = "IA"
 city = "Andover"
 county = "Clinton"
-longitude = -90.222348
 latitude = 41.964393
+longitude = -90.222348
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52701"
+

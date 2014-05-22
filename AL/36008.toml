@@ -1,6 +1,8 @@
-zip_code = "36008"
-state = "AL"
 city = "Booth"
 county = "Autauga"
-longitude = -86.572711
 latitude = 32.501649
+longitude = -86.572711
+state = ""
+state_code_alpha2 = ""
+zip_code = "36008"
+

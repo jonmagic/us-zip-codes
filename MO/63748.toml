@@ -1,6 +1,8 @@
-zip_code = "63748"
-state = "MO"
 city = "Frohna"
 county = "Perry"
-longitude = -89.616248
 latitude = 37.66
+longitude = -89.616248
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63748"
+

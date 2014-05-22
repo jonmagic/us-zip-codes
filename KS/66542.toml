@@ -1,6 +1,8 @@
-zip_code = "66542"
-state = "KS"
 city = "Tecumseh"
 county = "Shawnee"
-longitude = -95.628841
 latitude = 39.002048
+longitude = -95.628841
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66542"
+

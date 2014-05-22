@@ -1,6 +1,8 @@
-zip_code = "78675"
-state = "TX"
 city = "Willow City"
 county = "Gillespie"
-longitude = -98.701902
 latitude = 30.387956
+longitude = -98.701902
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78675"
+

@@ -1,6 +1,8 @@
-zip_code = "19395"
-state = "PA"
 city = "Westtown"
 county = "Chester"
-longitude = -75.544822
 latitude = 39.932821
+longitude = -75.544822
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19395"
+

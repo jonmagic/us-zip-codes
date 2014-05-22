@@ -1,6 +1,8 @@
-zip_code = "89025"
-state = "NV"
 city = "Moapa"
 county = "Clark"
-longitude = -114.651381
 latitude = 36.691647
+longitude = -114.651381
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89025"
+

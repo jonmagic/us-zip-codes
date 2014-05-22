@@ -1,6 +1,8 @@
-zip_code = "59841"
-state = "MT"
 city = "Pinesdale"
 county = "Ravalli"
-longitude = -114.223493
 latitude = 46.332893
+longitude = -114.223493
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59841"
+

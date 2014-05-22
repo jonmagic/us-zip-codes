@@ -1,6 +1,8 @@
-zip_code = "52590"
-state = "IA"
 city = "Seymour"
 county = "Wayne"
-longitude = -93.130436
 latitude = 40.710521
+longitude = -93.130436
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52590"
+

@@ -1,6 +1,8 @@
-zip_code = "77387"
-state = "TX"
 city = "Spring"
 county = "Montgomery"
-longitude = -95.557004
 latitude = 30.378446
+longitude = -95.557004
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77387"
+

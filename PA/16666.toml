@@ -1,6 +1,8 @@
-zip_code = "16666"
-state = "PA"
 city = "Osceola Mills"
 county = "Clearfield"
-longitude = -78.455355
 latitude = 40.822197
+longitude = -78.455355
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16666"
+

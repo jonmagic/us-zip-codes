@@ -1,6 +1,8 @@
-zip_code = "67553"
-state = "KS"
 city = "Liebenthal"
 county = "Rush"
-longitude = -99.320339
 latitude = 38.655719
+longitude = -99.320339
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67553"
+

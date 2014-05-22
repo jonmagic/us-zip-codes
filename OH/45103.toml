@@ -1,6 +1,8 @@
-zip_code = "45103"
-state = "OH"
 city = "Batavia"
 county = "Clermont"
-longitude = -84.157048
 latitude = 39.025905
+longitude = -84.157048
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45103"
+

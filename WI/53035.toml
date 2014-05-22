@@ -1,6 +1,8 @@
-zip_code = "53035"
-state = "WI"
 city = "Iron Ridge"
 county = "Dodge"
-longitude = -88.581515
 latitude = 43.36296
+longitude = -88.581515
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53035"
+

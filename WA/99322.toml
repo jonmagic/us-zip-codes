@@ -1,6 +1,8 @@
-zip_code = "99322"
-state = "WA"
 city = "Bickleton"
 county = "Klickitat"
-longitude = -120.281675
 latitude = 45.887647
+longitude = -120.281675
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99322"
+

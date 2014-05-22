@@ -1,6 +1,8 @@
-zip_code = "57339"
-state = "SD"
 city = "Fort Thompson"
 county = "Buffalo"
-longitude = -99.251509
 latitude = 44.064873
+longitude = -99.251509
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57339"
+

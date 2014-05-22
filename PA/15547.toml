@@ -1,6 +1,8 @@
-zip_code = "15547"
-state = "PA"
 city = "Jennerstown"
 county = "Somerset"
-longitude = -79.061629
 latitude = 40.1595
+longitude = -79.061629
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15547"
+

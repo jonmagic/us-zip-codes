@@ -1,6 +1,8 @@
-zip_code = "83810"
-state = "ID"
 city = "Cataldo"
 county = "Kootenai"
-longitude = -116.453134
 latitude = 47.527719
+longitude = -116.453134
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83810"
+

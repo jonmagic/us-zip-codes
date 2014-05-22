@@ -1,6 +1,8 @@
-zip_code = "47424"
-state = "IN"
 city = "Bloomfield"
 county = "Greene"
-longitude = -86.838359
 latitude = 39.031541
+longitude = -86.838359
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47424"
+

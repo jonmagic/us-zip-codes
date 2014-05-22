@@ -1,6 +1,8 @@
-zip_code = "77359"
-state = "TX"
 city = "Oakhurst"
 county = "San Jacinto"
-longitude = -95.290469
 latitude = 30.674933
+longitude = -95.290469
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77359"
+

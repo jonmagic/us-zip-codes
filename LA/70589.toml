@@ -1,6 +1,8 @@
-zip_code = "70589"
-state = "LA"
 city = "Washington"
 county = "Saint Landry"
-longitude = -92.048517
 latitude = 30.694115
+longitude = -92.048517
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70589"
+

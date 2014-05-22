@@ -1,6 +1,8 @@
-zip_code = "50207"
-state = "IA"
 city = "New Sharon"
 county = "Mahaska"
-longitude = -92.634295
 latitude = 41.393559
+longitude = -92.634295
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50207"
+

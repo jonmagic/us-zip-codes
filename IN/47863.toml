@@ -1,6 +1,8 @@
-zip_code = "47863"
-state = "IN"
 city = "New Goshen"
 county = "Vigo"
-longitude = -87.46157
 latitude = 39.580285
+longitude = -87.46157
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47863"
+

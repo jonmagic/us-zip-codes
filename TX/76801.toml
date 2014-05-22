@@ -1,6 +1,8 @@
-zip_code = "76801"
-state = "TX"
 city = "Brownwood"
 county = "Brown"
-longitude = -98.99153
 latitude = 31.775393
+longitude = -98.99153
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76801"
+

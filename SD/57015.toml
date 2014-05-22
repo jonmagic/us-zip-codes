@@ -1,6 +1,8 @@
-zip_code = "57015"
-state = "SD"
 city = "Chancellor"
 county = "Turner"
-longitude = -96.983852
 latitude = 43.408226
+longitude = -96.983852
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57015"
+

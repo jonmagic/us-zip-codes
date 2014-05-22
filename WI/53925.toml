@@ -1,6 +1,8 @@
-zip_code = "53925"
-state = "WI"
 city = "Columbus"
 county = "Columbia"
-longitude = -89.12088
 latitude = 43.3569
+longitude = -89.12088
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53925"
+

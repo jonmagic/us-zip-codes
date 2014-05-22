@@ -1,6 +1,8 @@
-zip_code = "16259"
-state = "PA"
 city = "Templeton"
 county = "Armstrong"
-longitude = -79.461201
 latitude = 40.915899
+longitude = -79.461201
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16259"
+

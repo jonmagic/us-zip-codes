@@ -1,6 +1,8 @@
-zip_code = "10562"
-state = "NY"
 city = "Ossining"
 county = "Westchester"
-longitude = -73.827995
 latitude = 41.109701
+longitude = -73.827995
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10562"
+

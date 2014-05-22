@@ -1,6 +1,8 @@
-zip_code = "18832"
-state = "PA"
 city = "Monroeton"
 county = "Bradford"
-longitude = -76.487176
 latitude = 41.713484
+longitude = -76.487176
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18832"
+

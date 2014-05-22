@@ -1,6 +1,8 @@
-zip_code = "70712"
-state = "LA"
 city = "Angola"
 county = "West Feliciana"
-longitude = -91.538682
 latitude = 30.97337
+longitude = -91.538682
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70712"
+

@@ -1,6 +1,8 @@
-zip_code = "56253"
-state = "MN"
 city = "Lake Lillian"
 county = "Kandiyohi"
-longitude = -94.900783
 latitude = 45.011036
+longitude = -94.900783
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56253"
+

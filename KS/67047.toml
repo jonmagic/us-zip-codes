@@ -1,6 +1,8 @@
-zip_code = "67047"
-state = "KS"
 city = "Fall River"
 county = "Greenwood"
-longitude = -96.029221
 latitude = 37.607625
+longitude = -96.029221
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67047"
+

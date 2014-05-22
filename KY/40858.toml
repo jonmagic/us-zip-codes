@@ -1,6 +1,8 @@
-zip_code = "40858"
-state = "KY"
 city = "Mozelle"
 county = "Leslie"
-longitude = -83.394253
 latitude = 36.998854
+longitude = -83.394253
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40858"
+

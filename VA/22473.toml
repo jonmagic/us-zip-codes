@@ -1,6 +1,8 @@
-zip_code = "22473"
-state = "VA"
 city = "Heathsville"
 county = "Northumberland"
-longitude = -76.427334
 latitude = 37.876733
+longitude = -76.427334
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22473"
+

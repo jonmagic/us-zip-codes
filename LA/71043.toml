@@ -1,6 +1,8 @@
-zip_code = "71043"
-state = "LA"
 city = "Hosston"
 county = "Caddo"
-longitude = -93.877571
 latitude = 32.896272
+longitude = -93.877571
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71043"
+

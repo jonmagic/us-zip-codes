@@ -1,6 +1,8 @@
-zip_code = "81082"
-state = "CO"
 city = "Trinidad"
 county = "Las Animas"
-longitude = -104.5038
 latitude = 37.269059
+longitude = -104.5038
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81082"
+

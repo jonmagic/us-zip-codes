@@ -1,6 +1,8 @@
-zip_code = "40357"
-state = "KY"
 city = "North Middletown"
 county = "Bourbon"
-longitude = -84.107655
 latitude = 38.146395
+longitude = -84.107655
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40357"
+

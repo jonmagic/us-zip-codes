@@ -1,6 +1,8 @@
-zip_code = "82831"
-state = "WY"
 city = "Arvada"
 county = "Sheridan"
-longitude = -106.392413
 latitude = 44.731059
+longitude = -106.392413
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82831"
+

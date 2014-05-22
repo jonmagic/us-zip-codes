@@ -1,6 +1,8 @@
-zip_code = "04631"
-state = "ME"
 city = "Eastport"
 county = "Washington"
-longitude = -67.136853
 latitude = 45.036287
+longitude = -67.136853
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04631"
+

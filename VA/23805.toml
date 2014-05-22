@@ -1,6 +1,8 @@
-zip_code = "23805"
-state = "VA"
 city = "Petersburg"
 county = "Petersburg City"
-longitude = -77.389641
 latitude = 37.1922
+longitude = -77.389641
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23805"
+

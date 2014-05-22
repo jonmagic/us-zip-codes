@@ -1,6 +1,8 @@
-zip_code = "49259"
-state = "MI"
 city = "Munith"
 county = "Jackson"
-longitude = -84.233087
 latitude = 42.360385
+longitude = -84.233087
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49259"
+

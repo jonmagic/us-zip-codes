@@ -1,6 +1,8 @@
-zip_code = "76067"
-state = "TX"
 city = "Mineral Wells"
 county = "Palo Pinto"
-longitude = -98.24943
 latitude = 32.800128
+longitude = -98.24943
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76067"
+

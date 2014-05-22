@@ -1,6 +1,8 @@
-zip_code = "46776"
-state = "IN"
 city = "Orland"
 county = "Steuben"
-longitude = -85.140168
 latitude = 41.71364
+longitude = -85.140168
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46776"
+

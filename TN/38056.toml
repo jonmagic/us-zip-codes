@@ -1,6 +1,8 @@
-zip_code = "38056"
-state = "TN"
 city = "Miston"
 county = "Dyer"
-longitude = -89.443779
 latitude = 36.046851
+longitude = -89.443779
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38056"
+

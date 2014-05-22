@@ -1,6 +1,8 @@
-zip_code = "49903"
-state = "MI"
 city = "Amasa"
 county = "Iron"
-longitude = -88.417593
 latitude = 46.249415
+longitude = -88.417593
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49903"
+

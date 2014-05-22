@@ -1,6 +1,8 @@
-zip_code = "07703"
-state = "NJ"
 city = "Fort Monmouth"
 county = "Monmouth"
-longitude = -74.041654
 latitude = 40.314531
+longitude = -74.041654
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07703"
+

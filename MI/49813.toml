@@ -1,6 +1,8 @@
-zip_code = "49813"
-state = "MI"
 city = "Cedar River"
 county = "Menominee"
-longitude = -87.401604
 latitude = 45.443789
+longitude = -87.401604
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49813"
+

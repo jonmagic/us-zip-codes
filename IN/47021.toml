@@ -1,6 +1,8 @@
-zip_code = "47021"
-state = "IN"
 city = "Friendship"
 county = "Ripley"
-longitude = -85.15039
 latitude = 38.970266
+longitude = -85.15039
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47021"
+

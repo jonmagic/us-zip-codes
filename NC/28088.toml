@@ -1,6 +1,8 @@
-zip_code = "28088"
-state = "NC"
 city = "Landis"
 county = "Rowan"
-longitude = -80.608038
 latitude = 35.545428
+longitude = -80.608038
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28088"
+

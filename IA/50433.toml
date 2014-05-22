@@ -1,6 +1,8 @@
-zip_code = "50433"
-state = "IA"
 city = "Dougherty"
 county = "Cerro Gordo"
-longitude = -93.261024
 latitude = 43.053101
+longitude = -93.261024
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50433"
+

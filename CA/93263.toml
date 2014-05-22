@@ -1,6 +1,8 @@
-zip_code = "93263"
-state = "CA"
 city = "Shafter"
 county = "Kern"
-longitude = -118.435693
 latitude = 35.763646
+longitude = -118.435693
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93263"
+

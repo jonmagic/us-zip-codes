@@ -1,6 +1,8 @@
-zip_code = "44825"
-state = "OH"
 city = "Chatfield"
 county = "Crawford"
-longitude = -82.936698
 latitude = 40.965022
+longitude = -82.936698
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44825"
+

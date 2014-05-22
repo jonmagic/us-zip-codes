@@ -1,6 +1,8 @@
-zip_code = "14568"
-state = "NY"
 city = "Walworth"
 county = "Wayne"
-longitude = -77.287414
 latitude = 43.142795
+longitude = -77.287414
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14568"
+

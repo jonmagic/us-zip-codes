@@ -1,6 +1,8 @@
-zip_code = "30140"
-state = "GA"
 city = "Felton"
 county = "Haralson"
-longitude = -85.234946
 latitude = 33.88232
+longitude = -85.234946
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30140"
+

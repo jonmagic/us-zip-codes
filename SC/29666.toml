@@ -1,6 +1,8 @@
-zip_code = "29666"
-state = "SC"
 city = "Ninety Six"
 county = "Greenwood"
-longitude = -81.998485
 latitude = 34.119292
+longitude = -81.998485
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29666"
+

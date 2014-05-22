@@ -1,6 +1,8 @@
-zip_code = "17983"
-state = "PA"
 city = "Valley View"
 county = "Schuylkill"
-longitude = -76.532384
 latitude = 40.645911
+longitude = -76.532384
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17983"
+

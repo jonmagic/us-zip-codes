@@ -1,6 +1,8 @@
-zip_code = "35602"
-state = "AL"
 city = "Decatur"
 county = "Morgan"
-longitude = -87.088142
 latitude = 34.606216
+longitude = -87.088142
+state = ""
+state_code_alpha2 = ""
+zip_code = "35602"
+

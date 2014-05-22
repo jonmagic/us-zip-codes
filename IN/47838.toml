@@ -1,6 +1,8 @@
-zip_code = "47838"
-state = "IN"
 city = "Carlisle"
 county = "Sullivan"
-longitude = -87.384354
 latitude = 38.966806
+longitude = -87.384354
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47838"
+

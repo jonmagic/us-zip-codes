@@ -1,6 +1,8 @@
-zip_code = "54555"
-state = "WI"
 city = "Phillips"
 county = "Price"
-longitude = -90.370984
 latitude = 45.724607
+longitude = -90.370984
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54555"
+

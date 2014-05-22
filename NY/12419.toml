@@ -1,6 +1,8 @@
-zip_code = "12419"
-state = "NY"
 city = "Cottekill"
 county = "Ulster"
-longitude = -74.111235
 latitude = 41.856903
+longitude = -74.111235
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12419"
+

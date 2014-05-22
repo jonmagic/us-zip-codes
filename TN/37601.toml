@@ -1,6 +1,8 @@
-zip_code = "37601"
-state = "TN"
 city = "Johnson City"
 county = "Washington"
-longitude = -82.387716
 latitude = 36.3417
+longitude = -82.387716
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37601"
+

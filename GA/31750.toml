@@ -1,6 +1,8 @@
-zip_code = "31750"
-state = "GA"
 city = "Fitzgerald"
 county = "Ben Hill"
-longitude = -83.235412
 latitude = 31.748753
+longitude = -83.235412
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31750"
+

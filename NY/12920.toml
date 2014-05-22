@@ -1,6 +1,8 @@
-zip_code = "12920"
-state = "NY"
 city = "Chateaugay"
 county = "Franklin"
-longitude = -74.068371
 latitude = 44.932727
+longitude = -74.068371
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12920"
+

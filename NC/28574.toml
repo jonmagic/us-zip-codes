@@ -1,6 +1,8 @@
-zip_code = "28574"
-state = "NC"
 city = "Richlands"
 county = "Onslow"
-longitude = -77.581206
 latitude = 34.860048
+longitude = -77.581206
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28574"
+

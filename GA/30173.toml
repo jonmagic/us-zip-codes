@@ -1,6 +1,8 @@
-zip_code = "30173"
-state = "GA"
 city = "Silver Creek"
 county = "Floyd"
-longitude = -85.117749
 latitude = 34.145452
+longitude = -85.117749
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30173"
+

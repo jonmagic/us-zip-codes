@@ -1,6 +1,8 @@
-zip_code = "21085"
-state = "MD"
 city = "Joppa"
 county = "Harford"
-longitude = -76.351881
 latitude = 39.449157
+longitude = -76.351881
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21085"
+

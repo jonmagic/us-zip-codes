@@ -1,6 +1,8 @@
-zip_code = "40390"
-state = "KY"
 city = "Wilmore"
 county = "Jessamine"
-longitude = -84.671365
 latitude = 37.860199
+longitude = -84.671365
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40390"
+

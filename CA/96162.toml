@@ -1,6 +1,8 @@
-zip_code = "96162"
-state = "CA"
 city = "Truckee"
 county = "Nevada"
-longitude = -120.64145
 latitude = 39.26599
+longitude = -120.64145
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96162"
+

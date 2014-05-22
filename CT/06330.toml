@@ -1,6 +1,8 @@
-zip_code = "06330"
-state = "CT"
 city = "Baltic"
 county = "New London"
-longitude = -72.044306
 latitude = 41.501708
+longitude = -72.044306
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06330"
+

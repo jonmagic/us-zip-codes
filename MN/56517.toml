@@ -1,6 +1,8 @@
-zip_code = "56517"
-state = "MN"
 city = "Beltrami"
 county = "Polk"
-longitude = -96.43368
 latitude = 47.801705
+longitude = -96.43368
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56517"
+

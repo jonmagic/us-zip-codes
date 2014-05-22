@@ -1,6 +1,8 @@
-zip_code = "42210"
-state = "KY"
 city = "Brownsville"
 county = "Edmonson"
-longitude = -86.292256
 latitude = 37.222931
+longitude = -86.292256
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42210"
+

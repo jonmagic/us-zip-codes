@@ -1,6 +1,8 @@
-zip_code = "32694"
-state = "FL"
 city = "Waldo"
 county = "Alachua"
-longitude = -82.156228
 latitude = 29.7968
+longitude = -82.156228
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32694"
+

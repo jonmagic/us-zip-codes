@@ -1,6 +1,8 @@
-zip_code = "79738"
-state = "TX"
 city = "Gail"
 county = "Borden"
-longitude = -101.432354
 latitude = 32.743795
+longitude = -101.432354
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79738"
+

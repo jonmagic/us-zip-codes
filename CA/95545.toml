@@ -1,6 +1,8 @@
-zip_code = "95545"
-state = "CA"
 city = "Honeydew"
 county = "Humboldt"
-longitude = -124.151347
 latitude = 40.25679
+longitude = -124.151347
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95545"
+

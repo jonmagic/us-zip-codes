@@ -1,6 +1,8 @@
-zip_code = "50599"
-state = "IA"
 city = "Woolstock"
 county = "Wright"
-longitude = -93.794414
 latitude = 42.600976
+longitude = -93.794414
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50599"
+

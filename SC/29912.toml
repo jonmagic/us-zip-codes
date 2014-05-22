@@ -1,6 +1,8 @@
-zip_code = "29912"
-state = "SC"
 city = "Coosawatchie"
 county = "Jasper"
-longitude = -80.989142
 latitude = 32.488929
+longitude = -80.989142
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29912"
+

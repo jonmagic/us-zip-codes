@@ -1,6 +1,8 @@
-zip_code = "77474"
-state = "TX"
 city = "Sealy"
 county = "Austin"
-longitude = -96.317806
 latitude = 29.845826
+longitude = -96.317806
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77474"
+

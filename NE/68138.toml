@@ -1,6 +1,8 @@
-zip_code = "68138"
-state = "NE"
 city = "Omaha"
 county = "Sarpy"
-longitude = -96.137617
 latitude = 41.154898
+longitude = -96.137617
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68138"
+

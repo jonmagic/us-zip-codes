@@ -1,6 +1,8 @@
-zip_code = "62887"
-state = "IL"
 city = "Springerton"
 county = "White"
-longitude = -88.216053
 latitude = 38.15015
+longitude = -88.216053
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62887"
+

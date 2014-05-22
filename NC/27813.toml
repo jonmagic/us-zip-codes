@@ -1,6 +1,8 @@
-zip_code = "27813"
-state = "NC"
 city = "Black Creek"
 county = "Wilson"
-longitude = -77.935161
 latitude = 35.616471
+longitude = -77.935161
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27813"
+

@@ -1,6 +1,8 @@
-zip_code = "48878"
-state = "MI"
 city = "Rosebush"
 county = "Isabella"
-longitude = -84.770931
 latitude = 43.709243
+longitude = -84.770931
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48878"
+

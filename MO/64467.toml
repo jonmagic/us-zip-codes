@@ -1,6 +1,8 @@
-zip_code = "64467"
-state = "MO"
 city = "Martinsville"
 county = "Harrison"
-longitude = -94.148382
 latitude = 40.411357
+longitude = -94.148382
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64467"
+

@@ -1,6 +1,8 @@
-zip_code = "52166"
-state = "IA"
 city = "Saint Lucas"
 county = "Fayette"
-longitude = -91.923226
 latitude = 43.060717
+longitude = -91.923226
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52166"
+

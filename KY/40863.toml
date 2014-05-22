@@ -1,6 +1,8 @@
-zip_code = "40863"
-state = "KY"
 city = "Pathfork"
 county = "Harlan"
-longitude = -83.45935
 latitude = 36.74962
+longitude = -83.45935
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40863"
+

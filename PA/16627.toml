@@ -1,6 +1,8 @@
-zip_code = "16627"
-state = "PA"
 city = "Coalport"
 county = "Clearfield"
-longitude = -78.536067
 latitude = 40.749629
+longitude = -78.536067
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16627"
+

@@ -1,6 +1,8 @@
-zip_code = "60472"
-state = "IL"
 city = "Robbins"
 county = "Cook"
-longitude = -87.878888
 latitude = 41.95273
+longitude = -87.878888
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60472"
+

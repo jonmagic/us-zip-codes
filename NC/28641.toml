@@ -1,6 +1,8 @@
-zip_code = "28641"
-state = "NC"
 city = "Jonas Ridge"
 county = "Burke"
-longitude = -81.884521
 latitude = 35.938422
+longitude = -81.884521
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28641"
+

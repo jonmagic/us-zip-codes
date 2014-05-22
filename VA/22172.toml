@@ -1,6 +1,8 @@
-zip_code = "22172"
-state = "VA"
 city = "Triangle"
 county = "Prince William"
-longitude = -77.367205
 latitude = 38.581369
+longitude = -77.367205
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22172"
+

@@ -1,6 +1,8 @@
-zip_code = "37843"
-state = "TN"
 city = "Parrottsville"
 county = "Cocke"
-longitude = -83.054705
 latitude = 36.023406
+longitude = -83.054705
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37843"
+

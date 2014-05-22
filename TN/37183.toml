@@ -1,6 +1,8 @@
-zip_code = "37183"
-state = "TN"
 city = "Wartrace"
 county = "Bedford"
-longitude = -86.335135
 latitude = 35.501239
+longitude = -86.335135
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37183"
+

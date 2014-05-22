@@ -1,6 +1,8 @@
-zip_code = "78942"
-state = "TX"
 city = "Giddings"
 county = "Lee"
-longitude = -96.931852
 latitude = 30.249357
+longitude = -96.931852
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78942"
+

@@ -1,6 +1,8 @@
-zip_code = "41645"
-state = "KY"
 city = "Langley"
 county = "Floyd"
-longitude = -82.797386
 latitude = 37.586933
+longitude = -82.797386
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41645"
+

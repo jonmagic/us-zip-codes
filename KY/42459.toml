@@ -1,6 +1,8 @@
-zip_code = "42459"
-state = "KY"
 city = "Sturgis"
 county = "Union"
-longitude = -87.989378
 latitude = 37.628913
+longitude = -87.989378
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42459"
+

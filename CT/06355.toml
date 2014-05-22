@@ -1,6 +1,8 @@
-zip_code = "06355"
-state = "CT"
 city = "Mystic"
 county = "New London"
-longitude = -72.000748
 latitude = 41.485188
+longitude = -72.000748
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06355"
+

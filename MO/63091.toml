@@ -1,6 +1,8 @@
-zip_code = "63091"
-state = "MO"
 city = "Rosebud"
 county = "Gasconade"
-longitude = -91.406851
 latitude = 38.395272
+longitude = -91.406851
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63091"
+

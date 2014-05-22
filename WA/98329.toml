@@ -1,6 +1,8 @@
-zip_code = "98329"
-state = "WA"
 city = "Gig Harbor"
 county = "Pierce"
-longitude = -122.715346
 latitude = 47.369501
+longitude = -122.715346
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98329"
+

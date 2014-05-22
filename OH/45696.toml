@@ -1,6 +1,8 @@
-zip_code = "45696"
-state = "OH"
 city = "Willow Wood"
 county = "Lawrence"
-longitude = -82.456062
 latitude = 38.590602
+longitude = -82.456062
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45696"
+

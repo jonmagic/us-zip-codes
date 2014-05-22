@@ -1,6 +1,8 @@
-zip_code = "22637"
-state = "VA"
 city = "Gore"
 county = "Frederick"
-longitude = -78.352754
 latitude = 39.253982
+longitude = -78.352754
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22637"
+

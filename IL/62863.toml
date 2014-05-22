@@ -1,6 +1,8 @@
-zip_code = "62863"
-state = "IL"
 city = "Mount Carmel"
 county = "Wabash"
-longitude = -87.828423
 latitude = 38.441814
+longitude = -87.828423
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62863"
+

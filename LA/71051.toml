@@ -1,6 +1,8 @@
-zip_code = "71051"
-state = "LA"
 city = "Elm Grove"
 county = "Bossier"
-longitude = -93.523207
 latitude = 32.361547
+longitude = -93.523207
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71051"
+

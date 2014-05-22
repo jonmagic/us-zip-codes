@@ -1,6 +1,8 @@
-zip_code = "12448"
-state = "NY"
 city = "Lake Hill"
 county = "Ulster"
-longitude = -74.191963
 latitude = 42.083209
+longitude = -74.191963
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12448"
+

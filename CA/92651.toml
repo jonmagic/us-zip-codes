@@ -1,6 +1,8 @@
-zip_code = "92651"
-state = "CA"
 city = "Laguna Beach"
 county = "Orange"
-longitude = -117.741315
 latitude = 33.520941
+longitude = -117.741315
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92651"
+

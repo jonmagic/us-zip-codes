@@ -1,6 +1,8 @@
-zip_code = "10983"
-state = "NY"
 city = "Tappan"
 county = "Rockland"
-longitude = -73.948404
 latitude = 41.027646
+longitude = -73.948404
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10983"
+

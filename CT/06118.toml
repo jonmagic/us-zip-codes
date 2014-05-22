@@ -1,6 +1,8 @@
-zip_code = "06118"
-state = "CT"
 city = "East Hartford"
 county = "Hartford"
-longitude = -72.609884
 latitude = 41.748999
+longitude = -72.609884
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06118"
+

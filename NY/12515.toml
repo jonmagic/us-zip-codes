@@ -1,6 +1,8 @@
-zip_code = "12515"
-state = "NY"
 city = "Clintondale"
 county = "Ulster"
-longitude = -74.05799
 latitude = 41.682335
+longitude = -74.05799
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12515"
+

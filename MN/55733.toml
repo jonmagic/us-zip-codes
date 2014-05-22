@@ -1,6 +1,8 @@
-zip_code = "55733"
-state = "MN"
 city = "Esko"
 county = "Carlton"
-longitude = -92.364896
 latitude = 46.712582
+longitude = -92.364896
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55733"
+

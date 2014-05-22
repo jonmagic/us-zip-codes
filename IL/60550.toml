@@ -1,6 +1,8 @@
-zip_code = "60550"
-state = "IL"
 city = "Shabbona"
 county = "De Kalb"
-longitude = -88.836821
 latitude = 41.746774
+longitude = -88.836821
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60550"
+

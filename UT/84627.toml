@@ -1,6 +1,8 @@
-zip_code = "84627"
-state = "UT"
 city = "Ephraim"
 county = "Sanpete"
-longitude = -111.62523
 latitude = 39.373122
+longitude = -111.62523
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84627"
+

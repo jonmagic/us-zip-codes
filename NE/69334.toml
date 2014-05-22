@@ -1,6 +1,8 @@
-zip_code = "69334"
-state = "NE"
 city = "Bayard"
 county = "Morrill"
-longitude = -103.32705
 latitude = 41.760711
+longitude = -103.32705
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69334"
+

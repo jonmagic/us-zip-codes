@@ -1,6 +1,8 @@
-zip_code = "18341"
-state = "PA"
 city = "Minisink Hills"
 county = "Monroe"
-longitude = -75.299256
 latitude = 40.991053
+longitude = -75.299256
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18341"
+

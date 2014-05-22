@@ -1,6 +1,8 @@
-zip_code = "24290"
-state = "VA"
 city = "Weber City"
 county = "Scott"
-longitude = -82.561825
 latitude = 36.613714
+longitude = -82.561825
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24290"
+

@@ -1,6 +1,8 @@
-zip_code = "98813"
-state = "WA"
 city = "Bridgeport"
 county = "Douglas"
-longitude = -119.891998
 latitude = 47.735893
+longitude = -119.891998
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98813"
+

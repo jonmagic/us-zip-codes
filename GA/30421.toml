@@ -1,6 +1,8 @@
-zip_code = "30421"
-state = "GA"
 city = "Collins"
 county = "Tattnall"
-longitude = -82.027358
 latitude = 32.058597
+longitude = -82.027358
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30421"
+

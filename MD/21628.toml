@@ -1,6 +1,8 @@
-zip_code = "21628"
-state = "MD"
 city = "Crumpton"
 county = "Queen Annes"
-longitude = -75.929797
 latitude = 39.231771
+longitude = -75.929797
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21628"
+

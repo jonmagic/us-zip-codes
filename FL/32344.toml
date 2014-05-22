@@ -1,6 +1,8 @@
-zip_code = "32344"
-state = "FL"
 city = "Monticello"
 county = "Jefferson"
-longitude = -83.843279
 latitude = 30.504216
+longitude = -83.843279
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32344"
+

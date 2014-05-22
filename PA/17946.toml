@@ -1,6 +1,8 @@
-zip_code = "17946"
-state = "PA"
 city = "Lost Creek"
 county = "Schuylkill"
-longitude = -76.240747
 latitude = 40.808081
+longitude = -76.240747
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17946"
+

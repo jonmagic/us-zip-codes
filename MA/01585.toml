@@ -1,6 +1,8 @@
-zip_code = "01585"
-state = "MA"
 city = "West Brookfield"
 county = "Worcester"
-longitude = -72.172523
 latitude = 42.235638
+longitude = -72.172523
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01585"
+

@@ -1,6 +1,8 @@
-zip_code = "83607"
-state = "ID"
 city = "Caldwell"
 county = "Canyon"
-longitude = -116.750109
 latitude = 43.618618
+longitude = -116.750109
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83607"
+

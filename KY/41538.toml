@@ -1,6 +1,8 @@
-zip_code = "41538"
-state = "KY"
 city = "Jonancy"
 county = "Pike"
-longitude = -82.348837
 latitude = 37.470577
+longitude = -82.348837
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41538"
+

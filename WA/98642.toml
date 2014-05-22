@@ -1,6 +1,8 @@
-zip_code = "98642"
-state = "WA"
 city = "Ridgefield"
 county = "Clark"
-longitude = -122.620162
 latitude = 45.756797
+longitude = -122.620162
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98642"
+

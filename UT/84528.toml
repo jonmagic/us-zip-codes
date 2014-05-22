@@ -1,6 +1,8 @@
-zip_code = "84528"
-state = "UT"
 city = "Huntington"
 county = "Emery"
-longitude = -110.961933
 latitude = 39.283156
+longitude = -110.961933
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84528"
+

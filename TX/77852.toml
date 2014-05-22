@@ -1,6 +1,8 @@
-zip_code = "77852"
-state = "TX"
 city = "Deanville"
 county = "Burleson"
-longitude = -96.618047
 latitude = 30.513118
+longitude = -96.618047
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77852"
+

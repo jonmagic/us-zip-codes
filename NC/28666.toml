@@ -1,6 +1,8 @@
-zip_code = "28666"
-state = "NC"
 city = "Icard"
 county = "Burke"
-longitude = -81.495395
 latitude = 35.73005
+longitude = -81.495395
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28666"
+

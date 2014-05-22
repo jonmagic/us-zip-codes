@@ -1,6 +1,8 @@
-zip_code = "30099"
-state = "GA"
 city = "Duluth"
 county = "Gwinnett"
-longitude = -84.105011
 latitude = 33.959535
+longitude = -84.105011
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30099"
+

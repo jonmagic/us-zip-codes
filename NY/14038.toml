@@ -1,6 +1,8 @@
-zip_code = "14038"
-state = "NY"
 city = "Crittenden"
 county = "Erie"
-longitude = -78.474444
 latitude = 42.947259
+longitude = -78.474444
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14038"
+

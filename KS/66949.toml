@@ -1,6 +1,8 @@
-zip_code = "66949"
-state = "KS"
 city = "Jewell"
 county = "Jewell"
-longitude = -98.147215
 latitude = 39.671874
+longitude = -98.147215
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66949"
+

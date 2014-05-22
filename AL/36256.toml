@@ -1,6 +1,8 @@
-zip_code = "36256"
-state = "AL"
 city = "Daviston"
 county = "Tallapoosa"
-longitude = -85.696391
 latitude = 33.022741
+longitude = -85.696391
+state = ""
+state_code_alpha2 = ""
+zip_code = "36256"
+

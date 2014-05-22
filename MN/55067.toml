@@ -1,6 +1,8 @@
-zip_code = "55067"
-state = "MN"
 city = "Rock Creek"
 county = "Pine"
-longitude = -92.718004
 latitude = 46.074687
+longitude = -92.718004
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55067"
+

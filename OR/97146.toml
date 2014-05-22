@@ -1,6 +1,8 @@
-zip_code = "97146"
-state = "OR"
 city = "Warrenton"
 county = "Clatsop"
-longitude = -123.905174
 latitude = 46.125267
+longitude = -123.905174
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97146"
+

@@ -1,6 +1,8 @@
-zip_code = "29431"
-state = "SC"
 city = "Bonneau"
 county = "Berkeley"
-longitude = -79.873606
 latitude = 33.270301
+longitude = -79.873606
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29431"
+

@@ -1,6 +1,8 @@
-zip_code = "66961"
-state = "KS"
 city = "Norway"
 county = "Republic"
-longitude = -97.650902
 latitude = 39.827894
+longitude = -97.650902
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66961"
+

@@ -1,6 +1,8 @@
-zip_code = "42344"
-state = "KY"
 city = "Graham"
 county = "Muhlenberg"
-longitude = -87.297584
 latitude = 37.246726
+longitude = -87.297584
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42344"
+

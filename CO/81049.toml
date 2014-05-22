@@ -1,6 +1,8 @@
-zip_code = "81049"
-state = "CO"
 city = "Kim"
 county = "Las Animas"
-longitude = -103.373586
 latitude = 37.33276
+longitude = -103.373586
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81049"
+

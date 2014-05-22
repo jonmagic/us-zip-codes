@@ -1,6 +1,8 @@
-zip_code = "03816"
-state = "NH"
 city = "Center Tuftonboro"
 county = "Carroll"
-longitude = -71.274458
 latitude = 43.660752
+longitude = -71.274458
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03816"
+

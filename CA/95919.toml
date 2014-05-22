@@ -1,6 +1,8 @@
-zip_code = "95919"
-state = "CA"
 city = "Brownsville"
 county = "Yuba"
-longitude = -121.273889
 latitude = 39.425005
+longitude = -121.273889
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95919"
+

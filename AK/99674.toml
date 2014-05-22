@@ -1,6 +1,8 @@
-zip_code = "99674"
-state = "AK"
 city = "Sutton"
 county = "Matanuska Susitna"
-longitude = -148.783687
 latitude = 61.732741
+longitude = -148.783687
+state = ""
+state_code_alpha2 = ""
+zip_code = "99674"
+

@@ -1,6 +1,8 @@
-zip_code = "98233"
-state = "WA"
 city = "Burlington"
 county = "Skagit"
-longitude = -122.362337
 latitude = 48.533616
+longitude = -122.362337
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98233"
+

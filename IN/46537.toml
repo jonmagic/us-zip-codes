@@ -1,6 +1,8 @@
-zip_code = "46537"
-state = "IN"
 city = "Lapaz"
 county = "Marshall"
-longitude = -86.309368
 latitude = 41.455431
+longitude = -86.309368
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46537"
+

@@ -1,6 +1,8 @@
-zip_code = "10994"
-state = "NY"
 city = "West Nyack"
 county = "Rockland"
-longitude = -73.970482
 latitude = 41.100622
+longitude = -73.970482
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10994"
+

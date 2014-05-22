@@ -1,6 +1,8 @@
-zip_code = "50426"
-state = "IA"
 city = "Carpenter"
 county = "Mitchell"
-longitude = -93.002846
 latitude = 43.414935
+longitude = -93.002846
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50426"
+

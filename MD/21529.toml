@@ -1,6 +1,8 @@
-zip_code = "21529"
-state = "MD"
 city = "Ellerslie"
 county = "Allegany"
-longitude = -78.777446
 latitude = 39.708261
+longitude = -78.777446
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21529"
+

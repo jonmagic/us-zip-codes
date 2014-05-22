@@ -1,6 +1,8 @@
-zip_code = "49064"
-state = "MI"
 city = "Lawrence"
 county = "Van Buren"
-longitude = -86.047077
 latitude = 42.214896
+longitude = -86.047077
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49064"
+

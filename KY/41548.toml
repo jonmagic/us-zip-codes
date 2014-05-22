@@ -1,6 +1,8 @@
-zip_code = "41548"
-state = "KY"
 city = "Mouthcard"
 county = "Pike"
-longitude = -82.348728
 latitude = 37.395235
+longitude = -82.348728
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41548"
+

@@ -1,6 +1,8 @@
-zip_code = "71972"
-state = "AR"
 city = "Vandervoort"
 county = "Polk"
-longitude = -94.253511
 latitude = 34.394091
+longitude = -94.253511
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71972"
+

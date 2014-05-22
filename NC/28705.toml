@@ -1,6 +1,8 @@
-zip_code = "28705"
-state = "NC"
 city = "Bakersville"
 county = "Mitchell"
-longitude = -82.205783
 latitude = 36.038317
+longitude = -82.205783
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28705"
+

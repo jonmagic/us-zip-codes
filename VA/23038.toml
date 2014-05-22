@@ -1,6 +1,8 @@
-zip_code = "23038"
-state = "VA"
 city = "Columbia"
 county = "Goochland"
-longitude = -78.093506
 latitude = 37.807863
+longitude = -78.093506
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23038"
+

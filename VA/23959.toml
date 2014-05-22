@@ -1,6 +1,8 @@
-zip_code = "23959"
-state = "VA"
 city = "Phenix"
 county = "Charlotte"
-longitude = -78.739921
 latitude = 37.108477
+longitude = -78.739921
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23959"
+

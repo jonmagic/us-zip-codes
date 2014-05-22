@@ -1,6 +1,8 @@
-zip_code = "98591"
-state = "WA"
 city = "Toledo"
 county = "Lewis"
-longitude = -122.79498
 latitude = 46.456038
+longitude = -122.79498
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98591"
+

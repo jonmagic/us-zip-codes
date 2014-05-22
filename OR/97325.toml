@@ -1,6 +1,8 @@
-zip_code = "97325"
-state = "OR"
 city = "Aumsville"
 county = "Marion"
-longitude = -122.900739
 latitude = 44.799503
+longitude = -122.900739
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97325"
+

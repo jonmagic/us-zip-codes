@@ -1,6 +1,8 @@
-zip_code = "97014"
-state = "OR"
 city = "Cascade Locks"
 county = "Hood River"
-longitude = -121.868565
 latitude = 45.671017
+longitude = -121.868565
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97014"
+

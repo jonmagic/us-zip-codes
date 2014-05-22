@@ -1,6 +1,8 @@
-zip_code = "68433"
-state = "NE"
 city = "Salem"
 county = "Richardson"
-longitude = -95.659484
 latitude = 40.131136
+longitude = -95.659484
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68433"
+

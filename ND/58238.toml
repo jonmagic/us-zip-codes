@@ -1,6 +1,8 @@
-zip_code = "58238"
-state = "ND"
 city = "Hamilton"
 county = "Pembina"
-longitude = -97.449975
 latitude = 48.778717
+longitude = -97.449975
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58238"
+

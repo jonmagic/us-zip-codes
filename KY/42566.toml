@@ -1,6 +1,8 @@
-zip_code = "42566"
-state = "KY"
 city = "Yosemite"
 county = "Casey"
-longitude = -84.82628
 latitude = 37.291935
+longitude = -84.82628
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42566"
+

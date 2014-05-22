@@ -1,6 +1,8 @@
-zip_code = "99181"
-state = "WA"
 city = "Valley"
 county = "Stevens"
-longitude = -117.762554
 latitude = 48.124594
+longitude = -117.762554
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99181"
+

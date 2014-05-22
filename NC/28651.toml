@@ -1,6 +1,8 @@
-zip_code = "28651"
-state = "NC"
 city = "Millers Creek"
 county = "Wilkes"
-longitude = -81.224811
 latitude = 36.241997
+longitude = -81.224811
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28651"
+

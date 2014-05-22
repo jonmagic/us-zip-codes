@@ -1,6 +1,8 @@
-zip_code = "17017"
-state = "PA"
 city = "Dalmatia"
 county = "Northumberland"
-longitude = -76.596151
 latitude = 40.894363
+longitude = -76.596151
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17017"
+

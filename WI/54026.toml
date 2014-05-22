@@ -1,6 +1,8 @@
-zip_code = "54026"
-state = "WI"
 city = "Star Prairie"
 county = "Polk"
-longitude = -92.480793
 latitude = 45.265619
+longitude = -92.480793
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54026"
+

@@ -1,6 +1,8 @@
-zip_code = "70359"
-state = "LA"
 city = "Gray"
 county = "Terrebonne"
-longitude = -90.770768
 latitude = 29.6936
+longitude = -90.770768
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70359"
+

@@ -1,6 +1,8 @@
-zip_code = "20759"
-state = "MD"
 city = "Fulton"
 county = "Howard"
-longitude = -76.927881
 latitude = 39.160806
+longitude = -76.927881
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20759"
+

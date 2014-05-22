@@ -1,6 +1,8 @@
-zip_code = "20902"
-state = "MD"
 city = "Silver Spring"
 county = "Montgomery"
-longitude = -77.044449
 latitude = 39.039974
+longitude = -77.044449
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20902"
+

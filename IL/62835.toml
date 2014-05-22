@@ -1,6 +1,8 @@
-zip_code = "62835"
-state = "IL"
 city = "Enfield"
 county = "White"
-longitude = -88.29927
 latitude = 38.100523
+longitude = -88.29927
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62835"
+

@@ -1,6 +1,8 @@
-zip_code = "57437"
-state = "SD"
 city = "Eureka"
 county = "Mcpherson"
-longitude = -99.330778
 latitude = 45.77074
+longitude = -99.330778
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57437"
+

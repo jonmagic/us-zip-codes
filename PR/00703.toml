@@ -1,6 +1,8 @@
-zip_code = "00703"
-state = "PR"
 city = "Aguas Buenas"
 county = "Aguas Buenas"
-longitude = -66.12845
 latitude = 18.250398
+longitude = -66.12845
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00703"
+

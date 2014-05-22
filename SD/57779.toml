@@ -1,6 +1,8 @@
-zip_code = "57779"
-state = "SD"
 city = "Saint Onge"
 county = "Lawrence"
-longitude = -103.723214
 latitude = 44.547307
+longitude = -103.723214
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57779"
+

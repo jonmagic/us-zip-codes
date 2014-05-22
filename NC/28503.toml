@@ -1,6 +1,8 @@
-zip_code = "28503"
-state = "NC"
 city = "Kinston"
 county = "Lenoir"
-longitude = -77.595034
 latitude = 35.319066
+longitude = -77.595034
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28503"
+

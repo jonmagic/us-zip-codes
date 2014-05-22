@@ -1,6 +1,8 @@
-zip_code = "93646"
-state = "CA"
 city = "Orange Cove"
 county = "Fresno"
-longitude = -119.783475
 latitude = 36.677384
+longitude = -119.783475
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93646"
+

@@ -1,6 +1,8 @@
-zip_code = "10598"
-state = "NY"
 city = "Yorktown Heights"
 county = "Westchester"
-longitude = -73.790284
 latitude = 41.287329
+longitude = -73.790284
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10598"
+

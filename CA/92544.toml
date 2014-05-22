@@ -1,6 +1,8 @@
-zip_code = "92544"
-state = "CA"
 city = "Hemet"
 county = "Riverside"
-longitude = -116.786275
 latitude = 33.617074
+longitude = -116.786275
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92544"
+

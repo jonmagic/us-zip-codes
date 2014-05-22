@@ -1,6 +1,8 @@
-zip_code = "55332"
-state = "MN"
 city = "Fairfax"
 county = "Renville"
-longitude = -94.726284
 latitude = 44.595338
+longitude = -94.726284
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55332"
+

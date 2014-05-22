@@ -1,6 +1,8 @@
-zip_code = "18355"
-state = "PA"
 city = "Scotrun"
 county = "Monroe"
-longitude = -75.357801
 latitude = 41.090045
+longitude = -75.357801
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18355"
+

@@ -1,6 +1,8 @@
-zip_code = "99603"
-state = "AK"
 city = "Homer"
 county = "Kenai Peninsula"
-longitude = -151.362422
 latitude = 60.056453
+longitude = -151.362422
+state = ""
+state_code_alpha2 = ""
+zip_code = "99603"
+

@@ -1,6 +1,8 @@
-zip_code = "31569"
-state = "GA"
 city = "Woodbine"
 county = "Camden"
-longitude = -81.703469
 latitude = 30.939072
+longitude = -81.703469
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31569"
+

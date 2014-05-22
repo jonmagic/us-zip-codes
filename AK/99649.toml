@@ -1,6 +1,8 @@
-zip_code = "99649"
-state = "AK"
 city = "Pilot Point"
 county = "Lake And Peninsula"
-longitude = -157.485781
 latitude = 57.528787
+longitude = -157.485781
+state = ""
+state_code_alpha2 = ""
+zip_code = "99649"
+

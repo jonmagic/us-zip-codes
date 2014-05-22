@@ -1,6 +1,8 @@
-zip_code = "14539"
-state = "NY"
 city = "Retsof"
 county = "Livingston"
-longitude = -77.877876
 latitude = 42.834327
+longitude = -77.877876
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14539"
+

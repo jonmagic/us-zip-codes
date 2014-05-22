@@ -1,6 +1,8 @@
-zip_code = "20860"
-state = "MD"
 city = "Sandy Spring"
 county = "Montgomery"
-longitude = -77.044614
 latitude = 39.142424
+longitude = -77.044614
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20860"
+

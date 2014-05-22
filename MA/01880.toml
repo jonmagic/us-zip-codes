@@ -1,6 +1,8 @@
-zip_code = "01880"
-state = "MA"
 city = "Wakefield"
 county = "Middlesex"
-longitude = -71.068829
 latitude = 42.499891
+longitude = -71.068829
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01880"
+

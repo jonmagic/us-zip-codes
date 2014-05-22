@@ -1,6 +1,8 @@
-zip_code = "62915"
-state = "IL"
 city = "Cambria"
 county = "Williamson"
-longitude = -89.118111
 latitude = 37.784657
+longitude = -89.118111
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62915"
+

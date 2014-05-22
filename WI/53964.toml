@@ -1,6 +1,8 @@
-zip_code = "53964"
-state = "WI"
 city = "Westfield"
 county = "Marquette"
-longitude = -89.478459
 latitude = 43.848698
+longitude = -89.478459
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53964"
+

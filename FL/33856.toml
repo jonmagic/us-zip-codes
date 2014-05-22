@@ -1,6 +1,8 @@
-zip_code = "33856"
-state = "FL"
 city = "Nalcrest"
 county = "Polk"
-longitude = -81.430915
 latitude = 27.855686
+longitude = -81.430915
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33856"
+

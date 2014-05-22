@@ -1,6 +1,8 @@
-zip_code = "18229"
-state = "PA"
 city = "Jim Thorpe"
 county = "Carbon"
-longitude = -75.759303
 latitude = 40.896709
+longitude = -75.759303
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18229"
+

@@ -1,6 +1,8 @@
-zip_code = "74429"
-state = "OK"
 city = "Coweta"
 county = "Wagoner"
-longitude = -95.674795
 latitude = 36.002092
+longitude = -95.674795
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74429"
+

@@ -1,6 +1,8 @@
-zip_code = "41256"
-state = "KY"
 city = "Staffordsville"
 county = "Johnson"
-longitude = -82.882251
 latitude = 37.825284
+longitude = -82.882251
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41256"
+

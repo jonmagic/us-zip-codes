@@ -1,6 +1,8 @@
-zip_code = "96715"
-state = "HI"
 city = "Hanamaulu"
 county = "Kauai"
-longitude = -159.512392
 latitude = 21.979991
+longitude = -159.512392
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96715"
+

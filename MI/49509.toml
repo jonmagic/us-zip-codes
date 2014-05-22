@@ -1,6 +1,8 @@
-zip_code = "49509"
-state = "MI"
 city = "Grand Rapids"
 county = "Kent"
-longitude = -85.710077
 latitude = 42.899917
+longitude = -85.710077
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49509"
+

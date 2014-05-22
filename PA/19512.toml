@@ -1,6 +1,8 @@
-zip_code = "19512"
-state = "PA"
 city = "Boyertown"
 county = "Berks"
-longitude = -75.870971
 latitude = 40.364068
+longitude = -75.870971
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19512"
+

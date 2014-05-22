@@ -1,6 +1,8 @@
-zip_code = "23089"
-state = "VA"
 city = "Lanexa"
 county = "New Kent"
-longitude = -76.909711
 latitude = 37.465312
+longitude = -76.909711
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23089"
+

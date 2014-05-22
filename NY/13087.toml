@@ -1,6 +1,8 @@
-zip_code = "13087"
-state = "NY"
 city = "Little York"
 county = "Cortland"
-longitude = -76.156103
 latitude = 42.706981
+longitude = -76.156103
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13087"
+

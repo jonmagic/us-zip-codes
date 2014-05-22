@@ -1,6 +1,8 @@
-zip_code = "98672"
-state = "WA"
 city = "White Salmon"
 county = "Klickitat"
-longitude = -121.405863
 latitude = 45.828588
+longitude = -121.405863
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98672"
+

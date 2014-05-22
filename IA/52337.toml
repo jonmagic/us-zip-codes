@@ -1,6 +1,8 @@
-zip_code = "52337"
-state = "IA"
 city = "Stanwood"
 county = "Cedar"
-longitude = -91.152099
 latitude = 41.89206
+longitude = -91.152099
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52337"
+

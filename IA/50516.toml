@@ -1,6 +1,8 @@
-zip_code = "50516"
-state = "IA"
 city = "Badger"
 county = "Webster"
-longitude = -94.148103
 latitude = 42.601287
+longitude = -94.148103
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50516"
+

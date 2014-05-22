@@ -1,6 +1,8 @@
-zip_code = "07844"
-state = "NJ"
 city = "Hope"
 county = "Warren"
-longitude = -74.984628
 latitude = 40.919658
+longitude = -74.984628
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07844"
+

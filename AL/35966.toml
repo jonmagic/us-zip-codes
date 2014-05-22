@@ -1,6 +1,8 @@
-zip_code = "35966"
-state = "AL"
 city = "Flat Rock"
 county = "Jackson"
-longitude = -85.720245
 latitude = 34.803085
+longitude = -85.720245
+state = ""
+state_code_alpha2 = ""
+zip_code = "35966"
+

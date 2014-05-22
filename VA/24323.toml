@@ -1,6 +1,8 @@
-zip_code = "24323"
-state = "VA"
 city = "Crockett"
 county = "Wythe"
-longitude = -81.198867
 latitude = 36.871709
+longitude = -81.198867
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24323"
+

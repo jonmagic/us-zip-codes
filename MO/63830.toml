@@ -1,6 +1,8 @@
-zip_code = "63830"
-state = "MO"
 city = "Caruthersville"
 county = "Pemiscot"
-longitude = -89.699719
 latitude = 36.145823
+longitude = -89.699719
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63830"
+

@@ -1,6 +1,8 @@
-zip_code = "54449"
-state = "WI"
 city = "Marshfield"
 county = "Wood"
-longitude = -90.190595
 latitude = 44.589394
+longitude = -90.190595
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54449"
+

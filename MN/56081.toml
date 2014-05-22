@@ -1,6 +1,8 @@
-zip_code = "56081"
-state = "MN"
 city = "Saint James"
 county = "Watonwan"
-longitude = -94.604116
 latitude = 43.982851
+longitude = -94.604116
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56081"
+

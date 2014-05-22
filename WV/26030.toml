@@ -1,6 +1,8 @@
-zip_code = "26030"
-state = "WV"
 city = "Beech Bottom"
 county = "Brooke"
-longitude = -80.65135
 latitude = 40.225862
+longitude = -80.65135
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26030"
+

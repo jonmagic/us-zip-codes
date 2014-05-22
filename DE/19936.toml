@@ -1,6 +1,8 @@
-zip_code = "19936"
-state = "DE"
 city = "Cheswold"
 county = "Kent"
-longitude = -75.584848
 latitude = 39.218448
+longitude = -75.584848
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19936"
+

@@ -1,6 +1,8 @@
-zip_code = "67470"
-state = "KS"
 city = "New Cambria"
 county = "Saline"
-longitude = -97.515705
 latitude = 38.905381
+longitude = -97.515705
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67470"
+

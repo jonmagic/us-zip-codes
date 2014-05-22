@@ -1,6 +1,8 @@
-zip_code = "37715"
-state = "TN"
 city = "Clairfield"
 county = "Claiborne"
-longitude = -83.947827
 latitude = 36.560275
+longitude = -83.947827
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37715"
+

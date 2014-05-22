@@ -1,6 +1,8 @@
-zip_code = "13363"
-state = "NY"
 city = "Lee Center"
 county = "Oneida"
-longitude = -75.520067
 latitude = 43.328374
+longitude = -75.520067
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13363"
+

@@ -1,6 +1,8 @@
-zip_code = "92629"
-state = "CA"
 city = "Dana Point"
 county = "Orange"
-longitude = -117.696366
 latitude = 33.485903
+longitude = -117.696366
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92629"
+

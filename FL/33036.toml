@@ -1,6 +1,8 @@
-zip_code = "33036"
-state = "FL"
 city = "Islamorada"
 county = "Monroe"
-longitude = -80.682667
 latitude = 24.90169
+longitude = -80.682667
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33036"
+

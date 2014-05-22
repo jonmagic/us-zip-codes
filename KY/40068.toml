@@ -1,6 +1,8 @@
-zip_code = "40068"
-state = "KY"
 city = "Smithfield"
 county = "Henry"
-longitude = -85.267223
 latitude = 38.408032
+longitude = -85.267223
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40068"
+

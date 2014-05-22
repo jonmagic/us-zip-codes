@@ -1,6 +1,8 @@
-zip_code = "59062"
-state = "MT"
 city = "Otter"
 county = "Powder River"
-longitude = -105.630461
 latitude = 45.391078
+longitude = -105.630461
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59062"
+

@@ -1,6 +1,8 @@
-zip_code = "37861"
-state = "TN"
 city = "Rutledge"
 county = "Grainger"
-longitude = -83.554826
 latitude = 36.230696
+longitude = -83.554826
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37861"
+

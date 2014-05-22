@@ -1,6 +1,8 @@
-zip_code = "46570"
-state = "IN"
 city = "Tippecanoe"
 county = "Marshall"
-longitude = -86.12282
 latitude = 41.215971
+longitude = -86.12282
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46570"
+

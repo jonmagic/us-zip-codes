@@ -1,6 +1,8 @@
-zip_code = "65571"
-state = "MO"
 city = "Summersville"
 county = "Texas"
-longitude = -91.712763
 latitude = 37.17649
+longitude = -91.712763
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65571"
+

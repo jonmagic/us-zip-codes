@@ -1,6 +1,8 @@
-zip_code = "99620"
-state = "AK"
 city = "Kotlik"
 county = "Wade Hampton"
-longitude = -163.237636
 latitude = 62.117231
+longitude = -163.237636
+state = ""
+state_code_alpha2 = ""
+zip_code = "99620"
+

@@ -1,6 +1,8 @@
-zip_code = "43566"
-state = "OH"
 city = "Waterville"
 county = "Lucas"
-longitude = -83.765287
 latitude = 41.513751
+longitude = -83.765287
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43566"
+

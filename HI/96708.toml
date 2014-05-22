@@ -1,6 +1,8 @@
-zip_code = "96708"
-state = "HI"
 city = "Haiku"
 county = "Maui"
-longitude = -156.165622
 latitude = 20.849675
+longitude = -156.165622
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96708"
+

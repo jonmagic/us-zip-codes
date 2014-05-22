@@ -1,6 +1,8 @@
-zip_code = "22949"
-state = "VA"
 city = "Lovingston"
 county = "Nelson"
-longitude = -78.859153
 latitude = 37.753
+longitude = -78.859153
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22949"
+

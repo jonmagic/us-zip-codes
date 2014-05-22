@@ -1,6 +1,8 @@
-zip_code = "05146"
-state = "VT"
 city = "Grafton"
 county = "Windham"
-longitude = -72.605636
 latitude = 43.179936
+longitude = -72.605636
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05146"
+

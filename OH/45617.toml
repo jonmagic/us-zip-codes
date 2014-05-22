@@ -1,6 +1,8 @@
-zip_code = "45617"
-state = "OH"
 city = "Bourneville"
 county = "Ross"
-longitude = -83.158991
 latitude = 39.280388
+longitude = -83.158991
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45617"
+

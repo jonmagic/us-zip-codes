@@ -1,6 +1,8 @@
-zip_code = "43805"
-state = "OH"
 city = "Blissfield"
 county = "Coshocton"
-longitude = -81.968787
 latitude = 40.398274
+longitude = -81.968787
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43805"
+

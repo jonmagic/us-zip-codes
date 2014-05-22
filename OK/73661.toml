@@ -1,6 +1,8 @@
-zip_code = "73661"
-state = "OK"
 city = "Rocky"
 county = "Washita"
-longitude = -99.059758
 latitude = 35.155439
+longitude = -99.059758
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73661"
+

@@ -1,6 +1,8 @@
-zip_code = "45778"
-state = "OH"
 city = "Stewart"
 county = "Athens"
-longitude = -81.906878
 latitude = 39.362514
+longitude = -81.906878
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45778"
+

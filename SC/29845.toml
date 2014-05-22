@@ -1,6 +1,8 @@
-zip_code = "29845"
-state = "SC"
 city = "Plum Branch"
 county = "Mccormick"
-longitude = -82.319983
 latitude = 33.83562
+longitude = -82.319983
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29845"
+

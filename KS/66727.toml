@@ -1,6 +1,8 @@
-zip_code = "66727"
-state = "KS"
 city = "Coyville"
 county = "Wilson"
-longitude = -95.743835
 latitude = 37.559151
+longitude = -95.743835
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66727"
+

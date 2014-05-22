@@ -1,6 +1,8 @@
-zip_code = "62216"
-state = "IL"
 city = "Aviston"
 county = "Clinton"
-longitude = -89.603386
 latitude = 38.608924
+longitude = -89.603386
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62216"
+

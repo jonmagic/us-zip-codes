@@ -1,6 +1,8 @@
-zip_code = "01077"
-state = "MA"
 city = "Southwick"
 county = "Hampden"
-longitude = -72.541205
 latitude = 42.066644
+longitude = -72.541205
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01077"
+

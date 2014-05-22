@@ -1,6 +1,8 @@
-zip_code = "66058"
-state = "KS"
 city = "Muscotah"
 county = "Atchison"
-longitude = -95.483992
 latitude = 39.529523
+longitude = -95.483992
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66058"
+

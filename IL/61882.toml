@@ -1,6 +1,8 @@
-zip_code = "61882"
-state = "IL"
 city = "Weldon"
 county = "Dewitt"
-longitude = -88.745542
 latitude = 40.134768
+longitude = -88.745542
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61882"
+

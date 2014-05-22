@@ -1,6 +1,8 @@
-zip_code = "15082"
-state = "PA"
 city = "Sturgeon"
 county = "Allegheny"
-longitude = -80.208316
 latitude = 40.386263
+longitude = -80.208316
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15082"
+

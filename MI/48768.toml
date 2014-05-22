@@ -1,6 +1,8 @@
-zip_code = "48768"
-state = "MI"
 city = "Vassar"
 county = "Tuscola"
-longitude = -83.561187
 latitude = 43.404594
+longitude = -83.561187
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48768"
+

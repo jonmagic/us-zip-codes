@@ -1,6 +1,8 @@
-zip_code = "17737"
-state = "PA"
 city = "Hughesville"
 county = "Lycoming"
-longitude = -76.6753
 latitude = 41.280128
+longitude = -76.6753
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17737"
+

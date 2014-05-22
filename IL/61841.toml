@@ -1,6 +1,8 @@
-zip_code = "61841"
-state = "IL"
 city = "Fairmount"
 county = "Vermilion"
-longitude = -87.808538
 latitude = 40.135318
+longitude = -87.808538
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61841"
+

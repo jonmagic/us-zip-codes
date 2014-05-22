@@ -1,6 +1,8 @@
-zip_code = "50271"
-state = "IA"
 city = "Williams"
 county = "Hamilton"
-longitude = -93.554643
 latitude = 42.477733
+longitude = -93.554643
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50271"
+

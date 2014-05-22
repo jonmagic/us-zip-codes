@@ -1,6 +1,8 @@
-zip_code = "02482"
-state = "MA"
 city = "Wellesley"
 county = "Norfolk"
-longitude = -71.299201
 latitude = 42.294546
+longitude = -71.299201
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02482"
+

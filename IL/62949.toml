@@ -1,6 +1,8 @@
-zip_code = "62949"
-state = "IL"
 city = "Hurst"
 county = "Williamson"
-longitude = -89.142415
 latitude = 37.836584
+longitude = -89.142415
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62949"
+

@@ -1,6 +1,8 @@
-zip_code = "71720"
-state = "AR"
 city = "Bearden"
 county = "Ouachita"
-longitude = -92.844808
 latitude = 33.715918
+longitude = -92.844808
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71720"
+

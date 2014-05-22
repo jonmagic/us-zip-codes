@@ -1,6 +1,8 @@
-zip_code = "29374"
-state = "SC"
 city = "Pauline"
 county = "Spartanburg"
-longitude = -81.944611
 latitude = 34.887498
+longitude = -81.944611
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29374"
+

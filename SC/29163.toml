@@ -1,6 +1,8 @@
-zip_code = "29163"
-state = "SC"
 city = "Vance"
 county = "Orangeburg"
-longitude = -80.434809
 latitude = 33.417884
+longitude = -80.434809
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29163"
+

@@ -1,6 +1,8 @@
-zip_code = "38868"
-state = "MS"
 city = "Shannon"
 county = "Lee"
-longitude = -88.68396
 latitude = 34.144146
+longitude = -88.68396
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38868"
+

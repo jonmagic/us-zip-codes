@@ -1,6 +1,8 @@
-zip_code = "66901"
-state = "KS"
 city = "Concordia"
 county = "Cloud"
-longitude = -97.656764
 latitude = 39.551634
+longitude = -97.656764
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66901"
+

@@ -1,6 +1,8 @@
-zip_code = "21865"
-state = "MD"
 city = "Tyaskin"
 county = "Wicomico"
-longitude = -75.790882
 latitude = 38.268914
+longitude = -75.790882
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21865"
+

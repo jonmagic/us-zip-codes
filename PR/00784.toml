@@ -1,6 +1,8 @@
-zip_code = "00784"
-state = "PR"
 city = "Guayama"
 county = "Guayama"
-longitude = -66.139253
 latitude = 17.99229
+longitude = -66.139253
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00784"
+

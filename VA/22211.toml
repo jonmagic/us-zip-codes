@@ -1,6 +1,8 @@
-zip_code = "22211"
-state = "VA"
 city = "Ft Myer"
 county = "Arlington"
-longitude = -77.077426
 latitude = 38.878674
+longitude = -77.077426
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22211"
+

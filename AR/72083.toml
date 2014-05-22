@@ -1,6 +1,8 @@
-zip_code = "72083"
-state = "AR"
 city = "Keo"
 county = "Lonoke"
-longitude = -92.014365
 latitude = 34.60737
+longitude = -92.014365
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72083"
+

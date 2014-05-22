@@ -1,6 +1,8 @@
-zip_code = "79088"
-state = "TX"
 city = "Tulia"
 county = "Swisher"
-longitude = -101.803862
 latitude = 34.558293
+longitude = -101.803862
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79088"
+

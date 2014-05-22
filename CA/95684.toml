@@ -1,6 +1,8 @@
-zip_code = "95684"
-state = "CA"
 city = "Somerset"
 county = "El Dorado"
-longitude = -120.599848
 latitude = 38.639336
+longitude = -120.599848
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95684"
+

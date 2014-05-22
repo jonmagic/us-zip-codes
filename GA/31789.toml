@@ -1,6 +1,8 @@
-zip_code = "31789"
-state = "GA"
 city = "Sumner"
 county = "Worth"
-longitude = -83.727288
 latitude = 31.481811
+longitude = -83.727288
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31789"
+

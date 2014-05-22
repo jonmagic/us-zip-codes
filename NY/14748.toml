@@ -1,6 +1,8 @@
-zip_code = "14748"
-state = "NY"
 city = "Kill Buck"
 county = "Cattaraugus"
-longitude = -78.646626
 latitude = 42.144977
+longitude = -78.646626
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14748"
+

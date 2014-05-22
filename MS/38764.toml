@@ -1,6 +1,8 @@
-zip_code = "38764"
-state = "MS"
 city = "Pace"
 county = "Bolivar"
-longitude = -90.92728
 latitude = 33.725717
+longitude = -90.92728
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38764"
+

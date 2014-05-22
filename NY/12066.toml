@@ -1,6 +1,8 @@
-zip_code = "12066"
-state = "NY"
 city = "Esperance"
 county = "Montgomery"
-longitude = -74.342884
 latitude = 42.801547
+longitude = -74.342884
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12066"
+

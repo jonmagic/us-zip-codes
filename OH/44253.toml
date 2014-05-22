@@ -1,6 +1,8 @@
-zip_code = "44253"
-state = "OH"
 city = "Litchfield"
 county = "Medina"
-longitude = -82.020109
 latitude = 41.162553
+longitude = -82.020109
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44253"
+

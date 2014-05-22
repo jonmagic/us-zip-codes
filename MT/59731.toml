@@ -1,6 +1,8 @@
-zip_code = "59731"
-state = "MT"
 city = "Garrison"
 county = "Powell"
-longitude = -112.775572
 latitude = 46.594845
+longitude = -112.775572
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59731"
+

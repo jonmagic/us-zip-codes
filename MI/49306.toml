@@ -1,6 +1,8 @@
-zip_code = "49306"
-state = "MI"
 city = "Belmont"
 county = "Kent"
-longitude = -85.563211
 latitude = 43.074996
+longitude = -85.563211
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49306"
+

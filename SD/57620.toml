@@ -1,6 +1,8 @@
-zip_code = "57620"
-state = "SD"
 city = "Bison"
 county = "Perkins"
-longitude = -102.513087
 latitude = 45.409748
+longitude = -102.513087
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57620"
+

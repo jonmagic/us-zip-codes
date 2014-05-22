@@ -1,6 +1,8 @@
-zip_code = "85336"
-state = "AZ"
 city = "Gadsden"
 county = "Yuma"
-longitude = -114.774342
 latitude = 32.530155
+longitude = -114.774342
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85336"
+

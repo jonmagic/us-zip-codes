@@ -1,6 +1,8 @@
-zip_code = "12903"
-state = "NY"
 city = "Plattsburgh"
 county = "Clinton"
-longitude = -73.447398
 latitude = 44.685411
+longitude = -73.447398
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12903"
+

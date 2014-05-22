@@ -1,6 +1,8 @@
-zip_code = "55784"
-state = "MN"
 city = "Swan River"
 county = "Itasca"
-longitude = -93.190708
 latitude = 47.06717
+longitude = -93.190708
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55784"
+

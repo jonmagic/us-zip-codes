@@ -1,6 +1,8 @@
-zip_code = "83824"
-state = "ID"
 city = "Desmet"
 county = "Benewah"
-longitude = -116.915483
 latitude = 47.146411
+longitude = -116.915483
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83824"
+

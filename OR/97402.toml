@@ -1,6 +1,8 @@
-zip_code = "97402"
-state = "OR"
 city = "Eugene"
 county = "Lane"
-longitude = -123.073186
 latitude = 44.033642
+longitude = -123.073186
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97402"
+

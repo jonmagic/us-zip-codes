@@ -1,6 +1,8 @@
-zip_code = "55970"
-state = "MN"
 city = "Rose Creek"
 county = "Mower"
-longitude = -92.830439
 latitude = 43.669317
+longitude = -92.830439
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55970"
+

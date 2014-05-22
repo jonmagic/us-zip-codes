@@ -1,6 +1,8 @@
-zip_code = "29452"
-state = "SC"
 city = "Jacksonboro"
 county = "Colleton"
-longitude = -80.460935
 latitude = 32.730451
+longitude = -80.460935
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29452"
+

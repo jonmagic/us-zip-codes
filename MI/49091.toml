@@ -1,6 +1,8 @@
-zip_code = "49091"
-state = "MI"
 city = "Sturgis"
 county = "Saint Joseph"
-longitude = -85.478265
 latitude = 41.842913
+longitude = -85.478265
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49091"
+

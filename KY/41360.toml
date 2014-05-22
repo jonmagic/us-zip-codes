@@ -1,6 +1,8 @@
-zip_code = "41360"
-state = "KY"
 city = "Pine Ridge"
 county = "Wolfe"
-longitude = -83.631377
 latitude = 37.772774
+longitude = -83.631377
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41360"
+

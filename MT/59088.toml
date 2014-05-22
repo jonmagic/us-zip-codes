@@ -1,6 +1,8 @@
-zip_code = "59088"
-state = "MT"
 city = "Worden"
 county = "Yellowstone"
-longitude = -108.011128
 latitude = 46.091269
+longitude = -108.011128
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59088"
+

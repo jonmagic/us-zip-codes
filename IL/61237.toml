@@ -1,6 +1,8 @@
-zip_code = "61237"
-state = "IL"
 city = "Buffalo Prairie"
 county = "Rock Island"
-longitude = -90.852226
 latitude = 41.336752
+longitude = -90.852226
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61237"
+

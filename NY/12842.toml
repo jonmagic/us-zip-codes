@@ -1,6 +1,8 @@
-zip_code = "12842"
-state = "NY"
 city = "Indian Lake"
 county = "Hamilton"
-longitude = -74.327593
 latitude = 43.749928
+longitude = -74.327593
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12842"
+

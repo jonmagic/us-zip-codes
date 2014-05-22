@@ -1,6 +1,8 @@
-zip_code = "44076"
-state = "OH"
 city = "Orwell"
 county = "Ashtabula"
-longitude = -80.834349
 latitude = 41.588584
+longitude = -80.834349
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44076"
+

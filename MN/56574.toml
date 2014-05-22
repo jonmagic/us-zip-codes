@@ -1,6 +1,8 @@
-zip_code = "56574"
-state = "MN"
 city = "Perley"
 county = "Norman"
-longitude = -96.804613
 latitude = 47.177615
+longitude = -96.804613
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56574"
+

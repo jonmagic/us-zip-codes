@@ -1,6 +1,8 @@
-zip_code = "07079"
-state = "NJ"
 city = "South Orange"
 county = "Essex"
-longitude = -74.267541
 latitude = 40.745772
+longitude = -74.267541
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07079"
+

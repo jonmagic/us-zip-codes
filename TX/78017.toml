@@ -1,6 +1,8 @@
-zip_code = "78017"
-state = "TX"
 city = "Dilley"
 county = "Frio"
-longitude = -99.217995
 latitude = 28.763313
+longitude = -99.217995
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78017"
+

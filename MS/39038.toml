@@ -1,6 +1,8 @@
-zip_code = "39038"
-state = "MS"
 city = "Belzoni"
 county = "Humphreys"
-longitude = -90.475786
 latitude = 33.170596
+longitude = -90.475786
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39038"
+

@@ -1,6 +1,8 @@
-zip_code = "32427"
-state = "FL"
 city = "Caryville"
 county = "Washington"
-longitude = -85.793737
 latitude = 30.707368
+longitude = -85.793737
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32427"
+

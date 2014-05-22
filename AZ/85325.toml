@@ -1,6 +1,8 @@
-zip_code = "85325"
-state = "AZ"
 city = "Bouse"
 county = "La Paz"
-longitude = -114.003634
 latitude = 33.95782
+longitude = -114.003634
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85325"
+

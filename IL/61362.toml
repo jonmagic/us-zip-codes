@@ -1,6 +1,8 @@
-zip_code = "61362"
-state = "IL"
 city = "Spring Valley"
 county = "Bureau"
-longitude = -89.506797
 latitude = 41.423455
+longitude = -89.506797
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61362"
+

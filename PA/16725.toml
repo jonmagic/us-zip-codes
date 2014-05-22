@@ -1,6 +1,8 @@
-zip_code = "16725"
-state = "PA"
 city = "Custer City"
 county = "Mckean"
-longitude = -78.723198
 latitude = 41.885487
+longitude = -78.723198
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16725"
+

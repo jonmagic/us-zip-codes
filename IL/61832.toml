@@ -1,6 +1,8 @@
-zip_code = "61832"
-state = "IL"
 city = "Danville"
 county = "Vermilion"
-longitude = -87.757792
 latitude = 40.10398
+longitude = -87.757792
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61832"
+

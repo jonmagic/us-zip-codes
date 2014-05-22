@@ -1,6 +1,8 @@
-zip_code = "94940"
-state = "CA"
 city = "Marshall"
 county = "Marin"
-longitude = -122.823185
 latitude = 38.17087
+longitude = -122.823185
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94940"
+

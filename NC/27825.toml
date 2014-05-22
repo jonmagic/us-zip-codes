@@ -1,6 +1,8 @@
-zip_code = "27825"
-state = "NC"
 city = "Everetts"
 county = "Martin"
-longitude = -77.084958
 latitude = 35.866711
+longitude = -77.084958
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27825"
+

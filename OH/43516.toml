@@ -1,6 +1,8 @@
-zip_code = "43516"
-state = "OH"
 city = "Deshler"
 county = "Henry"
-longitude = -83.949391
 latitude = 41.232641
+longitude = -83.949391
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43516"
+

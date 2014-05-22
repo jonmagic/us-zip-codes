@@ -1,6 +1,8 @@
-zip_code = "95449"
-state = "CA"
 city = "Hopland"
 county = "Mendocino"
-longitude = -123.138986
 latitude = 38.965637
+longitude = -123.138986
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95449"
+

@@ -1,6 +1,8 @@
-zip_code = "95642"
-state = "CA"
 city = "Jackson"
 county = "Amador"
-longitude = -120.763365
 latitude = 38.366959
+longitude = -120.763365
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95642"
+

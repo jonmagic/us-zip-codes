@@ -1,6 +1,8 @@
-zip_code = "26833"
-state = "WV"
 city = "Maysville"
 county = "Grant"
-longitude = -79.134177
 latitude = 39.116709
+longitude = -79.134177
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26833"
+

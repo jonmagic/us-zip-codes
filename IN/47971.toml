@@ -1,6 +1,8 @@
-zip_code = "47971"
-state = "IN"
 city = "Oxford"
 county = "Benton"
-longitude = -87.259375
 latitude = 40.533538
+longitude = -87.259375
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47971"
+

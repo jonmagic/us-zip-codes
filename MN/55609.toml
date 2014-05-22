@@ -1,6 +1,8 @@
-zip_code = "55609"
-state = "MN"
 city = "Knife River"
 county = "Lake"
-longitude = -91.777997
 latitude = 46.95388
+longitude = -91.777997
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55609"
+

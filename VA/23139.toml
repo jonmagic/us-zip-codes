@@ -1,6 +1,8 @@
-zip_code = "23139"
-state = "VA"
 city = "Powhatan"
 county = "Powhatan"
-longitude = -77.928759
 latitude = 37.541609
+longitude = -77.928759
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23139"
+

@@ -1,6 +1,8 @@
-zip_code = "62268"
-state = "IL"
 city = "Oakdale"
 county = "Washington"
-longitude = -89.553239
 latitude = 38.274439
+longitude = -89.553239
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62268"
+

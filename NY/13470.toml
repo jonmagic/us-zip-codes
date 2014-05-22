@@ -1,6 +1,8 @@
-zip_code = "13470"
-state = "NY"
 city = "Stratford"
 county = "Fulton"
-longitude = -74.650311
 latitude = 43.190651
+longitude = -74.650311
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13470"
+

@@ -1,6 +1,8 @@
-zip_code = "54479"
-state = "WI"
 city = "Spencer"
 county = "Marathon"
-longitude = -90.141112
 latitude = 44.805167
+longitude = -90.141112
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54479"
+

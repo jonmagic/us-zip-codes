@@ -1,6 +1,8 @@
-zip_code = "16841"
-state = "PA"
 city = "Howard"
 county = "Centre"
-longitude = -77.679655
 latitude = 40.918199
+longitude = -77.679655
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16841"
+

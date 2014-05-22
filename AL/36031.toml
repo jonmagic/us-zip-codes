@@ -1,6 +1,8 @@
-zip_code = "36031"
-state = "AL"
 city = "Fort Davis"
 county = "Macon"
-longitude = -85.752417
 latitude = 32.250651
+longitude = -85.752417
+state = ""
+state_code_alpha2 = ""
+zip_code = "36031"
+

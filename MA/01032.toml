@@ -1,6 +1,8 @@
-zip_code = "01032"
-state = "MA"
 city = "Goshen"
 county = "Hampshire"
-longitude = -72.819446
 latitude = 42.443837
+longitude = -72.819446
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01032"
+

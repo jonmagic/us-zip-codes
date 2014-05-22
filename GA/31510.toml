@@ -1,6 +1,8 @@
-zip_code = "31510"
-state = "GA"
 city = "Alma"
 county = "Bacon"
-longitude = -82.461197
 latitude = 31.576952
+longitude = -82.461197
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31510"
+

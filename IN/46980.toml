@@ -1,6 +1,8 @@
-zip_code = "46980"
-state = "IN"
 city = "Servia"
 county = "Wabash"
-longitude = -85.792501
 latitude = 40.848927
+longitude = -85.792501
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46980"
+

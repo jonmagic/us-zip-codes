@@ -1,6 +1,8 @@
-zip_code = "10605"
-state = "NY"
 city = "White Plains"
 county = "Westchester"
-longitude = -73.748575
 latitude = 41.007597
+longitude = -73.748575
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10605"
+

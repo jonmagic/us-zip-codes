@@ -1,6 +1,8 @@
-zip_code = "94573"
-state = "CA"
 city = "Rutherford"
 county = "Napa"
-longitude = -122.414189
 latitude = 38.466508
+longitude = -122.414189
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94573"
+

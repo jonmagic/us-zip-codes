@@ -1,6 +1,8 @@
-zip_code = "41238"
-state = "KY"
 city = "Oil Springs"
 county = "Johnson"
-longitude = -82.939108
 latitude = 37.812772
+longitude = -82.939108
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41238"
+

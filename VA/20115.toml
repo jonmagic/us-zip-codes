@@ -1,6 +1,8 @@
-zip_code = "20115"
-state = "VA"
 city = "Marshall"
 county = "Fauquier"
-longitude = -77.891136
 latitude = 38.840456
+longitude = -77.891136
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20115"
+

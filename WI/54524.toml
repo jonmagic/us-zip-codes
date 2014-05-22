@@ -1,6 +1,8 @@
-zip_code = "54524"
-state = "WI"
 city = "Fifield"
 county = "Price"
-longitude = -90.453045
 latitude = 45.814336
+longitude = -90.453045
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54524"
+

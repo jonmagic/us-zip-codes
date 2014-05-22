@@ -1,6 +1,8 @@
-zip_code = "18331"
-state = "PA"
 city = "Gilbert"
 county = "Monroe"
-longitude = -75.366015
 latitude = 40.947398
+longitude = -75.366015
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18331"
+

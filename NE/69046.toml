@@ -1,6 +1,8 @@
-zip_code = "69046"
-state = "NE"
 city = "Wilsonville"
 county = "Furnas"
-longitude = -100.106003
 latitude = 40.112009
+longitude = -100.106003
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69046"
+

@@ -1,6 +1,8 @@
-zip_code = "69345"
-state = "NE"
 city = "Harrisburg"
 county = "Banner"
-longitude = -103.710045
 latitude = 41.546441
+longitude = -103.710045
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69345"
+

@@ -1,6 +1,8 @@
-zip_code = "56325"
-state = "MN"
 city = "Elrosa"
 county = "Stearns"
-longitude = -94.946428
 latitude = 45.563556
+longitude = -94.946428
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56325"
+

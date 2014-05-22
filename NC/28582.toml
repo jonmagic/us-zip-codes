@@ -1,6 +1,8 @@
-zip_code = "28582"
-state = "NC"
 city = "Stella"
 county = "Carteret"
-longitude = -76.587097
 latitude = 34.873922
+longitude = -76.587097
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28582"
+

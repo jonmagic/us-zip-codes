@@ -1,6 +1,8 @@
-zip_code = "25121"
-state = "WV"
 city = "Lake"
 county = "Logan"
-longitude = -81.903389
 latitude = 37.920381
+longitude = -81.903389
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25121"
+

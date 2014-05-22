@@ -1,6 +1,8 @@
-zip_code = "54967"
-state = "WI"
 city = "Poy Sippi"
 county = "Waushara"
-longitude = -88.986361
 latitude = 44.134044
+longitude = -88.986361
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54967"
+

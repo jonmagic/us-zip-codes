@@ -1,6 +1,8 @@
-zip_code = "07933"
-state = "NJ"
 city = "Gillette"
 county = "Morris"
-longitude = -74.472198
 latitude = 40.689339
+longitude = -74.472198
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07933"
+

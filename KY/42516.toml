@@ -1,6 +1,8 @@
-zip_code = "42516"
-state = "KY"
 city = "Bethelridge"
 county = "Casey"
-longitude = -84.89986
 latitude = 37.242524
+longitude = -84.89986
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42516"
+

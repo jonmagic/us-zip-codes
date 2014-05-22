@@ -1,6 +1,8 @@
-zip_code = "49453"
-state = "MI"
 city = "Saugatuck"
 county = "Allegan"
-longitude = -86.165451
 latitude = 42.645611
+longitude = -86.165451
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49453"
+

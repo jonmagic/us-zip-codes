@@ -1,6 +1,8 @@
-zip_code = "22539"
-state = "VA"
 city = "Reedville"
 county = "Northumberland"
-longitude = -76.312376
 latitude = 37.855567
+longitude = -76.312376
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22539"
+

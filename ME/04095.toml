@@ -1,6 +1,8 @@
-zip_code = "04095"
-state = "ME"
 city = "West Newfield"
 county = "York"
-longitude = -70.902676
 latitude = 43.601018
+longitude = -70.902676
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04095"
+

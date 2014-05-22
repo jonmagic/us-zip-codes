@@ -1,6 +1,8 @@
-zip_code = "10507"
-state = "NY"
 city = "Bedford Hills"
 county = "Westchester"
-longitude = -73.697998
 latitude = 41.229037
+longitude = -73.697998
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10507"
+

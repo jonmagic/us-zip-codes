@@ -1,6 +1,8 @@
-zip_code = "15022"
-state = "PA"
 city = "Charleroi"
 county = "Washington"
-longitude = -79.932907
 latitude = 40.135834
+longitude = -79.932907
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15022"
+

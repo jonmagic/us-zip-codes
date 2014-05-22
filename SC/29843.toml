@@ -1,6 +1,8 @@
-zip_code = "29843"
-state = "SC"
 city = "Olar"
 county = "Bamberg"
-longitude = -81.182699
 latitude = 33.178426
+longitude = -81.182699
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29843"
+

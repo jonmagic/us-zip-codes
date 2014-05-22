@@ -1,6 +1,8 @@
-zip_code = "88002"
-state = "NM"
 city = "White Sands Missile Range"
 county = "Dona Ana"
-longitude = -106.493675
 latitude = 32.383871
+longitude = -106.493675
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88002"
+

@@ -1,6 +1,8 @@
-zip_code = "42150"
-state = "KY"
 city = "Halfway"
 county = "Allen"
-longitude = -86.184088
 latitude = 36.782131
+longitude = -86.184088
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42150"
+

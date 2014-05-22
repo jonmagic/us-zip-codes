@@ -1,6 +1,8 @@
-zip_code = "73001"
-state = "OK"
 city = "Albert"
 county = "Caddo"
-longitude = -98.357423
 latitude = 35.203206
+longitude = -98.357423
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73001"
+

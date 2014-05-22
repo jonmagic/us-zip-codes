@@ -1,6 +1,8 @@
-zip_code = "64001"
-state = "MO"
 city = "Alma"
 county = "Lafayette"
-longitude = -93.590916
 latitude = 39.105644
+longitude = -93.590916
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64001"
+

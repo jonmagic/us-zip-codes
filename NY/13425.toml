@@ -1,6 +1,8 @@
-zip_code = "13425"
-state = "NY"
 city = "Oriskany Falls"
 county = "Oneida"
-longitude = -75.485421
 latitude = 42.96965
+longitude = -75.485421
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13425"
+

@@ -1,6 +1,8 @@
-zip_code = "36783"
-state = "AL"
 city = "Thomaston"
 county = "Marengo"
-longitude = -87.678612
 latitude = 32.302397
+longitude = -87.678612
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36783"
+

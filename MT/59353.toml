@@ -1,6 +1,8 @@
-zip_code = "59353"
-state = "MT"
 city = "Wibaux"
 county = "Wibaux"
-longitude = -104.122311
 latitude = 46.824454
+longitude = -104.122311
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59353"
+

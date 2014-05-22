@@ -1,6 +1,8 @@
-zip_code = "77951"
-state = "TX"
 city = "Bloomington"
 county = "Victoria"
-longitude = -96.894486
 latitude = 28.649465
+longitude = -96.894486
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77951"
+

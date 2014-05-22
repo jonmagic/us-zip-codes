@@ -1,6 +1,8 @@
-zip_code = "95916"
-state = "CA"
 city = "Berry Creek"
 county = "Butte"
-longitude = -121.383744
 latitude = 39.653813
+longitude = -121.383744
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95916"
+

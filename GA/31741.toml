@@ -1,6 +1,8 @@
-zip_code = "31741"
-state = "GA"
 city = "Damascus"
 county = "Early"
-longitude = -84.71746
 latitude = 31.298124
+longitude = -84.71746
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31741"
+

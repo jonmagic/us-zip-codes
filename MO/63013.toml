@@ -1,6 +1,8 @@
-zip_code = "63013"
-state = "MO"
 city = "Beaufort"
 county = "Franklin"
-longitude = -91.142077
 latitude = 38.416838
+longitude = -91.142077
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63013"
+

@@ -1,6 +1,8 @@
-zip_code = "88250"
-state = "NM"
 city = "Hope"
 county = "Eddy"
-longitude = -104.718722
 latitude = 32.802309
+longitude = -104.718722
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88250"
+

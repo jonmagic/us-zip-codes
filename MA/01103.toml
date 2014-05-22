@@ -1,6 +1,8 @@
-zip_code = "01103"
-state = "MA"
 city = "Springfield"
 county = "Hampden"
-longitude = -72.590783
 latitude = 42.103044
+longitude = -72.590783
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01103"
+

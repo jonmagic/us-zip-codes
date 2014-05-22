@@ -1,6 +1,8 @@
-zip_code = "28018"
-state = "NC"
 city = "Bostic"
 county = "Rutherford"
-longitude = -81.789415
 latitude = 35.440832
+longitude = -81.789415
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28018"
+

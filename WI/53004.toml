@@ -1,6 +1,8 @@
-zip_code = "53004"
-state = "WI"
 city = "Belgium"
 county = "Ozaukee"
-longitude = -87.918042
 latitude = 43.499631
+longitude = -87.918042
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53004"
+

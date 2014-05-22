@@ -1,6 +1,8 @@
-zip_code = "83811"
-state = "ID"
 city = "Clark Fork"
 county = "Bonner"
-longitude = -116.128983
 latitude = 48.115891
+longitude = -116.128983
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83811"
+

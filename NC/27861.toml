@@ -1,6 +1,8 @@
-zip_code = "27861"
-state = "NC"
 city = "Parmele"
 county = "Martin"
-longitude = -77.314288
 latitude = 35.819037
+longitude = -77.314288
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27861"
+

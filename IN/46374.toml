@@ -1,6 +1,8 @@
-zip_code = "46374"
-state = "IN"
 city = "San Pierre"
 county = "Starke"
-longitude = -86.884
 latitude = 41.216655
+longitude = -86.884
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46374"
+

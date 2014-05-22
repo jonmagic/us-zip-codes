@@ -1,6 +1,8 @@
-zip_code = "32147"
-state = "FL"
 city = "Hollister"
 county = "Putnam"
-longitude = -81.779652
 latitude = 29.657611
+longitude = -81.779652
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32147"
+

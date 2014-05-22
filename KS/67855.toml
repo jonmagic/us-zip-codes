@@ -1,6 +1,8 @@
-zip_code = "67855"
-state = "KS"
 city = "Johnson"
 county = "Stanton"
-longitude = -101.707858
 latitude = 37.562997
+longitude = -101.707858
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67855"
+

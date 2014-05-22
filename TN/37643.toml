@@ -1,6 +1,8 @@
-zip_code = "37643"
-state = "TN"
 city = "Elizabethton"
 county = "Carter"
-longitude = -82.122892
 latitude = 36.330784
+longitude = -82.122892
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37643"
+

@@ -1,6 +1,8 @@
-zip_code = "29154"
-state = "SC"
 city = "Sumter"
 county = "Sumter"
-longitude = -80.426703
 latitude = 33.866953
+longitude = -80.426703
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29154"
+

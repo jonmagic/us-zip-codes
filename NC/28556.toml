@@ -1,6 +1,8 @@
-zip_code = "28556"
-state = "NC"
 city = "Merritt"
 county = "Pamlico"
-longitude = -76.671887
 latitude = 35.122377
+longitude = -76.671887
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28556"
+

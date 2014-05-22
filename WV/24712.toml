@@ -1,6 +1,8 @@
-zip_code = "24712"
-state = "WV"
 city = "Athens"
 county = "Mercer"
-longitude = -81.00916
 latitude = 37.452346
+longitude = -81.00916
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24712"
+

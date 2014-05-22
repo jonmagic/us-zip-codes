@@ -1,6 +1,8 @@
-zip_code = "98673"
-state = "WA"
 city = "Wishram"
 county = "Klickitat"
-longitude = -121.07317
 latitude = 45.641548
+longitude = -121.07317
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98673"
+

@@ -1,6 +1,8 @@
-zip_code = "10919"
-state = "NY"
 city = "Circleville"
 county = "Orange"
-longitude = -74.370569
 latitude = 41.53156
+longitude = -74.370569
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10919"
+

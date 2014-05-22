@@ -1,6 +1,8 @@
-zip_code = "59728"
-state = "MT"
 city = "Elliston"
 county = "Powell"
-longitude = -112.400742
 latitude = 46.503396
+longitude = -112.400742
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59728"
+

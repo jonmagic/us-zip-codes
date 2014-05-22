@@ -1,6 +1,8 @@
-zip_code = "93614"
-state = "CA"
 city = "Coarsegold"
 county = "Madera"
-longitude = -119.716753
 latitude = 37.158791
+longitude = -119.716753
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93614"
+

@@ -1,6 +1,8 @@
-zip_code = "58386"
-state = "ND"
 city = "York"
 county = "Benson"
-longitude = -99.602542
 latitude = 48.256479
+longitude = -99.602542
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58386"
+

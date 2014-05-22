@@ -1,6 +1,8 @@
-zip_code = "74365"
-state = "OK"
 city = "Salina"
 county = "Mayes"
-longitude = -95.232816
 latitude = 36.286057
+longitude = -95.232816
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74365"
+

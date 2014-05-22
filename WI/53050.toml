@@ -1,6 +1,8 @@
-zip_code = "53050"
-state = "WI"
 city = "Mayville"
 county = "Dodge"
-longitude = -88.545925
 latitude = 43.483463
+longitude = -88.545925
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53050"
+

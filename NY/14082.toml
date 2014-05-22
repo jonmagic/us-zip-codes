@@ -1,6 +1,8 @@
-zip_code = "14082"
-state = "NY"
 city = "Java Center"
 county = "Wyoming"
-longitude = -78.387099
 latitude = 42.65161
+longitude = -78.387099
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14082"
+

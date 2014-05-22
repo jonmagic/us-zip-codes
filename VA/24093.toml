@@ -1,6 +1,8 @@
-zip_code = "24093"
-state = "VA"
 city = "Glen Lyn"
 county = "Giles"
-longitude = -80.853048
 latitude = 37.384006
+longitude = -80.853048
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24093"
+

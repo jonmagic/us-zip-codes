@@ -1,6 +1,8 @@
-zip_code = "84534"
-state = "UT"
 city = "Montezuma Creek"
 county = "San Juan"
-longitude = -109.106079
 latitude = 37.25391
+longitude = -109.106079
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84534"
+

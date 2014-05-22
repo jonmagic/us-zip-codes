@@ -1,6 +1,8 @@
-zip_code = "61416"
-state = "IL"
 city = "Bardolph"
 county = "Mcdonough"
-longitude = -90.508816
 latitude = 40.497896
+longitude = -90.508816
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61416"
+

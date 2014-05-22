@@ -1,6 +1,8 @@
-zip_code = "45142"
-state = "OH"
 city = "Lynchburg"
 county = "Highland"
-longitude = -83.777545
 latitude = 39.200697
+longitude = -83.777545
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45142"
+

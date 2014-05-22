@@ -1,6 +1,8 @@
-zip_code = "97410"
-state = "OR"
 city = "Azalea"
 county = "Douglas"
-longitude = -123.13216
 latitude = 42.834139
+longitude = -123.13216
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97410"
+

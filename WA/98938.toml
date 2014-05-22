@@ -1,6 +1,8 @@
-zip_code = "98938"
-state = "WA"
 city = "Outlook"
 county = "Yakima"
-longitude = -120.119917
 latitude = 46.366004
+longitude = -120.119917
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98938"
+

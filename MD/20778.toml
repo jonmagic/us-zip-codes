@@ -1,6 +1,8 @@
-zip_code = "20778"
-state = "MD"
 city = "West River"
 county = "Anne Arundel"
-longitude = -76.563885
 latitude = 39.002411
+longitude = -76.563885
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20778"
+

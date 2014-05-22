@@ -1,6 +1,8 @@
-zip_code = "52046"
-state = "IA"
 city = "Farley"
 county = "Dubuque"
-longitude = -91.026374
 latitude = 42.45328
+longitude = -91.026374
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52046"
+

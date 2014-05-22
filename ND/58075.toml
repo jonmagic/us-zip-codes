@@ -1,6 +1,8 @@
-zip_code = "58075"
-state = "ND"
 city = "Wahpeton"
 county = "Richland"
-longitude = -96.792057
 latitude = 46.336591
+longitude = -96.792057
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58075"
+

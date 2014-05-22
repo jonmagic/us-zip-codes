@@ -1,6 +1,8 @@
-zip_code = "55003"
-state = "MN"
 city = "Bayport"
 county = "Washington"
-longitude = -92.781055
 latitude = 45.013918
+longitude = -92.781055
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55003"
+

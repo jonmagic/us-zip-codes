@@ -1,6 +1,8 @@
-zip_code = "94508"
-state = "CA"
 city = "Angwin"
 county = "Napa"
-longitude = -122.450215
 latitude = 38.57145
+longitude = -122.450215
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94508"
+

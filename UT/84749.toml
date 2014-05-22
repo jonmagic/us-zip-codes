@@ -1,6 +1,8 @@
-zip_code = "84749"
-state = "UT"
 city = "Lyman"
 county = "Wayne"
-longitude = -111.592048
 latitude = 38.398684
+longitude = -111.592048
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84749"
+

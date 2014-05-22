@@ -1,6 +1,8 @@
-zip_code = "32730"
-state = "FL"
 city = "Casselberry"
 county = "Seminole"
-longitude = -81.34184
 latitude = 28.651275
+longitude = -81.34184
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32730"
+

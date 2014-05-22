@@ -1,6 +1,8 @@
-zip_code = "49950"
-state = "MI"
 city = "Mohawk"
 county = "Keweenaw"
-longitude = -88.288905
 latitude = 47.352566
+longitude = -88.288905
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49950"
+

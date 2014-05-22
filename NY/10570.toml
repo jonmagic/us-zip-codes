@@ -1,6 +1,8 @@
-zip_code = "10570"
-state = "NY"
 city = "Pleasantville"
 county = "Westchester"
-longitude = -73.792214
 latitude = 41.131069
+longitude = -73.792214
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10570"
+

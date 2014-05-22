@@ -1,6 +1,8 @@
-zip_code = "61327"
-state = "IL"
 city = "Hennepin"
 county = "Putnam"
-longitude = -89.338005
 latitude = 41.252096
+longitude = -89.338005
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61327"
+

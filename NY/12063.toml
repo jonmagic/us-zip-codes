@@ -1,6 +1,8 @@
-zip_code = "12063"
-state = "NY"
 city = "East Schodack"
 county = "Rensselaer"
-longitude = -73.627428
 latitude = 42.563685
+longitude = -73.627428
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12063"
+

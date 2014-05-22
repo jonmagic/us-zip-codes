@@ -1,6 +1,8 @@
-zip_code = "45319"
-state = "OH"
 city = "Donnelsville"
 county = "Clark"
-longitude = -83.944909
 latitude = 39.918936
+longitude = -83.944909
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45319"
+

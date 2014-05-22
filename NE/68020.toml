@@ -1,6 +1,8 @@
-zip_code = "68020"
-state = "NE"
 city = "Decatur"
 county = "Burt"
-longitude = -96.250681
 latitude = 41.974318
+longitude = -96.250681
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68020"
+

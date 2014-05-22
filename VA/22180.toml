@@ -1,6 +1,8 @@
-zip_code = "22180"
-state = "VA"
 city = "Vienna"
 county = "Fairfax"
-longitude = -77.253749
 latitude = 38.897361
+longitude = -77.253749
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22180"
+

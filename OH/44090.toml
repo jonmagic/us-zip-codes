@@ -1,6 +1,8 @@
-zip_code = "44090"
-state = "OH"
 city = "Wellington"
 county = "Lorain"
-longitude = -82.211778
 latitude = 41.160846
+longitude = -82.211778
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44090"
+

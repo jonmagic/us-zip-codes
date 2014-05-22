@@ -1,6 +1,8 @@
-zip_code = "88253"
-state = "NM"
 city = "Lake Arthur"
 county = "Chaves"
-longitude = -104.491621
 latitude = 33.026322
+longitude = -104.491621
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88253"
+

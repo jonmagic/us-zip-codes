@@ -1,6 +1,8 @@
-zip_code = "76639"
-state = "TX"
 city = "Dawson"
 county = "Navarro"
-longitude = -96.646518
 latitude = 31.909682
+longitude = -96.646518
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76639"
+

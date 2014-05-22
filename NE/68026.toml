@@ -1,6 +1,8 @@
-zip_code = "68026"
-state = "NE"
 city = "Fremont"
 county = "Dodge"
-longitude = -96.617443
 latitude = 41.567907
+longitude = -96.617443
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68026"
+

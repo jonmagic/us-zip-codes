@@ -1,6 +1,8 @@
-zip_code = "27860"
-state = "NC"
 city = "Pantego"
 county = "Beaufort"
-longitude = -76.717723
 latitude = 35.610477
+longitude = -76.717723
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27860"
+

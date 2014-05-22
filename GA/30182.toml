@@ -1,6 +1,8 @@
-zip_code = "30182"
-state = "GA"
 city = "Waco"
 county = "Haralson"
-longitude = -85.251297
 latitude = 33.680148
+longitude = -85.251297
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30182"
+

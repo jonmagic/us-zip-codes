@@ -1,6 +1,8 @@
-zip_code = "18087"
-state = "PA"
 city = "Trexlertown"
 county = "Lehigh"
-longitude = -75.596131
 latitude = 40.548196
+longitude = -75.596131
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18087"
+

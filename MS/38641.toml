@@ -1,6 +1,8 @@
-zip_code = "38641"
-state = "MS"
 city = "Lake Cormorant"
 county = "De Soto"
-longitude = -90.14603
 latitude = 34.911835
+longitude = -90.14603
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38641"
+

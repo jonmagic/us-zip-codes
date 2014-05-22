@@ -1,6 +1,8 @@
-zip_code = "75088"
-state = "TX"
 city = "Rowlett"
 county = "Dallas"
-longitude = -96.555019
 latitude = 32.928105
+longitude = -96.555019
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75088"
+

@@ -1,6 +1,8 @@
-zip_code = "50449"
-state = "IA"
 city = "Klemme"
 county = "Hancock"
-longitude = -93.566985
 latitude = 42.991727
+longitude = -93.566985
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50449"
+

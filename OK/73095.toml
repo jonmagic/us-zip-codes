@@ -1,6 +1,8 @@
-zip_code = "73095"
-state = "OK"
 city = "Wayne"
 county = "Mcclain"
-longitude = -97.315974
 latitude = 34.917497
+longitude = -97.315974
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73095"
+

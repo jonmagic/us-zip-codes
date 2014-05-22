@@ -1,6 +1,8 @@
-zip_code = "24538"
-state = "VA"
 city = "Concord"
 county = "Campbell"
-longitude = -78.949355
 latitude = 37.296071
+longitude = -78.949355
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24538"
+

@@ -1,6 +1,8 @@
-zip_code = "79330"
-state = "TX"
 city = "Justiceburg"
 county = "Garza"
-longitude = -101.298004
 latitude = 33.179123
+longitude = -101.298004
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79330"
+

@@ -1,6 +1,8 @@
-zip_code = "05761"
-state = "VT"
 city = "Pawlet"
 county = "Rutland"
-longitude = -73.150683
 latitude = 43.361439
+longitude = -73.150683
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05761"
+

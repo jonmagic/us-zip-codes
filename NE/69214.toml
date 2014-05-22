@@ -1,6 +1,8 @@
-zip_code = "69214"
-state = "NE"
 city = "Johnstown"
 county = "Brown"
-longitude = -99.930477
 latitude = 42.465698
+longitude = -99.930477
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69214"
+

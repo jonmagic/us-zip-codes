@@ -1,6 +1,8 @@
-zip_code = "66754"
-state = "KS"
 city = "Mapleton"
 county = "Bourbon"
-longitude = -94.850996
 latitude = 37.855416
+longitude = -94.850996
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66754"
+

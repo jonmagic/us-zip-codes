@@ -1,6 +1,8 @@
-zip_code = "34202"
-state = "FL"
 city = "Bradenton"
 county = "Manatee"
-longitude = -82.37934
 latitude = 27.471379
+longitude = -82.37934
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34202"
+

@@ -1,6 +1,8 @@
-zip_code = "83213"
-state = "ID"
 city = "Arco"
 county = "Butte"
-longitude = -113.213308
 latitude = 43.634236
+longitude = -113.213308
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83213"
+

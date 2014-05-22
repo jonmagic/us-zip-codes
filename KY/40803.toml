@@ -1,6 +1,8 @@
-zip_code = "40803"
-state = "KY"
 city = "Asher"
 county = "Leslie"
-longitude = -83.4553
 latitude = 37.011357
+longitude = -83.4553
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40803"
+

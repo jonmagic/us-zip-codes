@@ -1,6 +1,8 @@
-zip_code = "23117"
-state = "VA"
 city = "Mineral"
 county = "Louisa"
-longitude = -77.868959
 latitude = 37.937619
+longitude = -77.868959
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23117"
+

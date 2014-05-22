@@ -1,6 +1,8 @@
-zip_code = "58324"
-state = "ND"
 city = "Cando"
 county = "Towner"
-longitude = -99.231923
 latitude = 48.500121
+longitude = -99.231923
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58324"
+

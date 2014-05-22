@@ -1,6 +1,8 @@
-zip_code = "55087"
-state = "MN"
 city = "Warsaw"
 county = "Rice"
-longitude = -93.397354
 latitude = 44.239946
+longitude = -93.397354
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55087"
+

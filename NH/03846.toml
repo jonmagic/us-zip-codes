@@ -1,6 +1,8 @@
-zip_code = "03846"
-state = "NH"
 city = "Jackson"
 county = "Carroll"
-longitude = -71.257726
 latitude = 43.883871
+longitude = -71.257726
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03846"
+

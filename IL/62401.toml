@@ -1,6 +1,8 @@
-zip_code = "62401"
-state = "IL"
 city = "Effingham"
 county = "Effingham"
-longitude = -88.545705
 latitude = 39.116649
+longitude = -88.545705
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62401"
+

@@ -1,6 +1,8 @@
-zip_code = "64501"
-state = "MO"
 city = "Saint Joseph"
 county = "Buchanan"
-longitude = -94.836598
 latitude = 39.757494
+longitude = -94.836598
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64501"
+

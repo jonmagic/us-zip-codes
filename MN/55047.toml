@@ -1,6 +1,8 @@
-zip_code = "55047"
-state = "MN"
 city = "Marine On Saint Croix"
 county = "Washington"
-longitude = -92.825767
 latitude = 45.198774
+longitude = -92.825767
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55047"
+

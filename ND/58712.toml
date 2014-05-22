@@ -1,6 +1,8 @@
-zip_code = "58712"
-state = "ND"
 city = "Balfour"
 county = "Mchenry"
-longitude = -100.497516
 latitude = 47.992915
+longitude = -100.497516
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58712"
+

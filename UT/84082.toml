@@ -1,6 +1,8 @@
-zip_code = "84082"
-state = "UT"
 city = "Wallsburg"
 county = "Wasatch"
-longitude = -111.394222
 latitude = 40.410548
+longitude = -111.394222
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84082"
+

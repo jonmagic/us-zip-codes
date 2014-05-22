@@ -1,6 +1,8 @@
-zip_code = "53013"
-state = "WI"
 city = "Cedar Grove"
 county = "Sheboygan"
-longitude = -87.85532
 latitude = 43.590548
+longitude = -87.85532
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53013"
+

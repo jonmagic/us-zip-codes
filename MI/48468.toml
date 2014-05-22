@@ -1,6 +1,8 @@
-zip_code = "48468"
-state = "MI"
 city = "Port Hope"
 county = "Huron"
-longitude = -82.907943
 latitude = 43.944086
+longitude = -82.907943
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48468"
+

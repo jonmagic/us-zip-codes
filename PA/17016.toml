@@ -1,6 +1,8 @@
-zip_code = "17016"
-state = "PA"
 city = "Cornwall"
 county = "Lebanon"
-longitude = -76.405309
 latitude = 40.275536
+longitude = -76.405309
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17016"
+

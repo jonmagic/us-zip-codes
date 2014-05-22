@@ -1,6 +1,8 @@
-zip_code = "41064"
-state = "KY"
 city = "Mount Olivet"
 county = "Robertson"
-longitude = -84.035565
 latitude = 38.531698
+longitude = -84.035565
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41064"
+

@@ -1,6 +1,8 @@
-zip_code = "59003"
-state = "MT"
 city = "Ashland"
 county = "Rosebud"
-longitude = -106.278272
 latitude = 45.605673
+longitude = -106.278272
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59003"
+

@@ -1,6 +1,8 @@
-zip_code = "30047"
-state = "GA"
 city = "Lilburn"
 county = "Gwinnett"
-longitude = -84.072463
 latitude = 33.865587
+longitude = -84.072463
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30047"
+

@@ -1,6 +1,8 @@
-zip_code = "27305"
-state = "NC"
 city = "Milton"
 county = "Caswell"
-longitude = -79.235356
 latitude = 36.512445
+longitude = -79.235356
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27305"
+

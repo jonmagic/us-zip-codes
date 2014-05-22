@@ -1,6 +1,8 @@
-zip_code = "25413"
-state = "WV"
 city = "Bunker Hill"
 county = "Berkeley"
-longitude = -78.064925
 latitude = 39.377876
+longitude = -78.064925
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25413"
+

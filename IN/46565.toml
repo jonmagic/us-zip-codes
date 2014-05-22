@@ -1,6 +1,8 @@
-zip_code = "46565"
-state = "IN"
 city = "Shipshewana"
 county = "Lagrange"
-longitude = -85.567362
 latitude = 41.67572
+longitude = -85.567362
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46565"
+

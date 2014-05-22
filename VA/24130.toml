@@ -1,6 +1,8 @@
-zip_code = "24130"
-state = "VA"
 city = "Oriskany"
 county = "Botetourt"
-longitude = -79.786151
 latitude = 37.555083
+longitude = -79.786151
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24130"
+

@@ -1,6 +1,8 @@
-zip_code = "12504"
-state = "NY"
 city = "Annandale On Hudson"
 county = "Dutchess"
-longitude = -73.909234
 latitude = 42.035434
+longitude = -73.909234
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12504"
+

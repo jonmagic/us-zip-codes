@@ -1,6 +1,8 @@
-zip_code = "07726"
-state = "NJ"
 city = "Englishtown"
 county = "Monmouth"
-longitude = -74.265539
 latitude = 40.2697
+longitude = -74.265539
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07726"
+

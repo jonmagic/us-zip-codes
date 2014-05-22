@@ -1,6 +1,8 @@
-zip_code = "97504"
-state = "OR"
 city = "Medford"
 county = "Jackson"
-longitude = -122.793659
 latitude = 42.322392
+longitude = -122.793659
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97504"
+

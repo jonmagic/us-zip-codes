@@ -1,6 +1,8 @@
-zip_code = "67514"
-state = "KS"
 city = "Arlington"
 county = "Reno"
-longitude = -98.196898
 latitude = 37.829877
+longitude = -98.196898
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67514"
+

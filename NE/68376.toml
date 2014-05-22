@@ -1,6 +1,8 @@
-zip_code = "68376"
-state = "NE"
 city = "Humboldt"
 county = "Richardson"
-longitude = -95.945731
 latitude = 40.167245
+longitude = -95.945731
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68376"
+

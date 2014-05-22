@@ -1,6 +1,8 @@
-zip_code = "82729"
-state = "WY"
 city = "Sundance"
 county = "Crook"
-longitude = -104.420625
 latitude = 44.352274
+longitude = -104.420625
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82729"
+

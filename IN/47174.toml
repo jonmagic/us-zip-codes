@@ -1,6 +1,8 @@
-zip_code = "47174"
-state = "IN"
 city = "Sulphur"
 county = "Crawford"
-longitude = -86.490751
 latitude = 38.22588
+longitude = -86.490751
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47174"
+

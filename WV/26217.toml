@@ -1,6 +1,8 @@
-zip_code = "26217"
-state = "WV"
 city = "Diana"
 county = "Webster"
-longitude = -80.465431
 latitude = 38.601167
+longitude = -80.465431
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26217"
+

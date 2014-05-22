@@ -1,6 +1,8 @@
-zip_code = "00956"
-state = "PR"
 city = "Bayamon"
 county = "Bayamon"
-longitude = -66.174176
 latitude = 18.326702
+longitude = -66.174176
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00956"
+

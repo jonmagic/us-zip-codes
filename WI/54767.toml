@@ -1,6 +1,8 @@
-zip_code = "54767"
-state = "WI"
 city = "Spring Valley"
 county = "Pierce"
-longitude = -92.283761
 latitude = 44.781928
+longitude = -92.283761
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54767"
+

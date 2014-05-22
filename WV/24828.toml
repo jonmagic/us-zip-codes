@@ -1,6 +1,8 @@
-zip_code = "24828"
-state = "WV"
 city = "Davy"
 county = "Mcdowell"
-longitude = -81.681104
 latitude = 37.467849
+longitude = -81.681104
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24828"
+

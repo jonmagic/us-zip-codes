@@ -1,6 +1,8 @@
-zip_code = "07647"
-state = "NJ"
 city = "Northvale"
 county = "Bergen"
-longitude = -73.93893
 latitude = 41.008636
+longitude = -73.93893
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07647"
+

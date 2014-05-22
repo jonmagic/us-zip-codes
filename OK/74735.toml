@@ -1,6 +1,8 @@
-zip_code = "74735"
-state = "OK"
 city = "Fort Towson"
 county = "Choctaw"
-longitude = -95.573733
 latitude = 34.01168
+longitude = -95.573733
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74735"
+

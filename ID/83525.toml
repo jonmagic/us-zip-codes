@@ -1,6 +1,8 @@
-zip_code = "83525"
-state = "ID"
 city = "Elk City"
 county = "Idaho"
-longitude = -115.791688
 latitude = 45.822931
+longitude = -115.791688
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83525"
+

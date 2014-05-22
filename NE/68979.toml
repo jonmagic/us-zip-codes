@@ -1,6 +1,8 @@
-zip_code = "68979"
-state = "NE"
 city = "Sutton"
 county = "Clay"
-longitude = -97.85543
 latitude = 40.507387
+longitude = -97.85543
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68979"
+

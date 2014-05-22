@@ -1,6 +1,8 @@
-zip_code = "49711"
-state = "MI"
 city = "Bay Shore"
 county = "Charlevoix"
-longitude = -85.332038
 latitude = 45.523425
+longitude = -85.332038
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49711"
+

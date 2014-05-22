@@ -1,6 +1,8 @@
-zip_code = "14057"
-state = "NY"
 city = "Eden"
 county = "Erie"
-longitude = -78.875456
 latitude = 42.641429
+longitude = -78.875456
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14057"
+

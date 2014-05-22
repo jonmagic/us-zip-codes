@@ -1,6 +1,8 @@
-zip_code = "49952"
-state = "MI"
 city = "Nisula"
 county = "Houghton"
-longitude = -88.879888
 latitude = 46.774818
+longitude = -88.879888
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49952"
+

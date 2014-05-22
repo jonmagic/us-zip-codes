@@ -1,6 +1,8 @@
-zip_code = "16151"
-state = "PA"
 city = "Sheakleyville"
 county = "Mercer"
-longitude = -80.205513
 latitude = 41.44346
+longitude = -80.205513
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16151"
+

@@ -1,6 +1,8 @@
-zip_code = "74061"
-state = "OK"
 city = "Ramona"
 county = "Washington"
-longitude = -95.905906
 latitude = 36.533445
+longitude = -95.905906
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74061"
+

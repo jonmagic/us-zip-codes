@@ -1,6 +1,8 @@
-zip_code = "59406"
-state = "MT"
 city = "Great Falls"
 county = "Cascade"
-longitude = -111.239305
 latitude = 47.619998
+longitude = -111.239305
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59406"
+

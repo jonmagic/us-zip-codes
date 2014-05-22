@@ -1,6 +1,8 @@
-zip_code = "76631"
-state = "TX"
 city = "Bynum"
 county = "Hill"
-longitude = -97.003015
 latitude = 31.968293
+longitude = -97.003015
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76631"
+

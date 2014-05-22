@@ -1,6 +1,8 @@
-zip_code = "62238"
-state = "IL"
 city = "Cutler"
 county = "Perry"
-longitude = -89.478358
 latitude = 38.046458
+longitude = -89.478358
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62238"
+

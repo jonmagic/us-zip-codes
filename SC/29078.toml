@@ -1,6 +1,8 @@
-zip_code = "29078"
-state = "SC"
 city = "Lugoff"
 county = "Kershaw"
-longitude = -80.731308
 latitude = 34.260265
+longitude = -80.731308
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29078"
+

@@ -1,6 +1,8 @@
-zip_code = "61610"
-state = "IL"
 city = "Creve Coeur"
 county = "Tazewell"
-longitude = -89.571837
 latitude = 40.654065
+longitude = -89.571837
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61610"
+

@@ -1,6 +1,8 @@
-zip_code = "58374"
-state = "ND"
 city = "Sheyenne"
 county = "Eddy"
-longitude = -98.90997
 latitude = 47.761272
+longitude = -98.90997
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58374"
+

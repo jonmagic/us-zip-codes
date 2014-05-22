@@ -1,6 +1,8 @@
-zip_code = "61833"
-state = "IL"
 city = "Tilton"
 county = "Vermilion"
-longitude = -87.637493
 latitude = 40.064586
+longitude = -87.637493
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61833"
+

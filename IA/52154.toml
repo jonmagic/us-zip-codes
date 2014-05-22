@@ -1,6 +1,8 @@
-zip_code = "52154"
-state = "IA"
 city = "Lawler"
 county = "Chickasaw"
-longitude = -92.169251
 latitude = 43.110826
+longitude = -92.169251
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52154"
+

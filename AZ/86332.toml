@@ -1,6 +1,8 @@
-zip_code = "86332"
-state = "AZ"
 city = "Kirkland"
 county = "Yavapai"
-longitude = -112.657865
 latitude = 34.44395
+longitude = -112.657865
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86332"
+

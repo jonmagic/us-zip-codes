@@ -1,6 +1,8 @@
-zip_code = "51570"
-state = "IA"
 city = "Shelby"
 county = "Pottawattamie"
-longitude = -95.370203
 latitude = 41.476766
+longitude = -95.370203
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51570"
+

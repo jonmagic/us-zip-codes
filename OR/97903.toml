@@ -1,6 +1,8 @@
-zip_code = "97903"
-state = "OR"
 city = "Brogan"
 county = "Malheur"
-longitude = -117.563891
 latitude = 44.248595
+longitude = -117.563891
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97903"
+

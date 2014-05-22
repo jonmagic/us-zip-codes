@@ -1,6 +1,8 @@
-zip_code = "27889"
-state = "NC"
 city = "Washington"
 county = "Beaufort"
-longitude = -76.8892
 latitude = 35.519268
+longitude = -76.8892
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27889"
+

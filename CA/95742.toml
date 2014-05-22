@@ -1,6 +1,8 @@
-zip_code = "95742"
-state = "CA"
 city = "Rancho Cordova"
 county = "Sacramento"
-longitude = -121.20253
 latitude = 38.579621
+longitude = -121.20253
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95742"
+

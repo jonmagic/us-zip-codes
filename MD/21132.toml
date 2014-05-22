@@ -1,6 +1,8 @@
-zip_code = "21132"
-state = "MD"
 city = "Pylesville"
 county = "Harford"
-longitude = -76.421834
 latitude = 39.692854
+longitude = -76.421834
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21132"
+

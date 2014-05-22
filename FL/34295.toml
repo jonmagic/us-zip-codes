@@ -1,6 +1,8 @@
-zip_code = "34295"
-state = "FL"
 city = "Englewood"
 county = "Sarasota"
-longitude = -82.438918
 latitude = 27.085985
+longitude = -82.438918
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34295"
+

@@ -1,6 +1,8 @@
-zip_code = "25431"
-state = "WV"
 city = "Levels"
 county = "Hampshire"
-longitude = -78.659428
 latitude = 39.314071
+longitude = -78.659428
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25431"
+

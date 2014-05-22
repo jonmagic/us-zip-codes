@@ -1,6 +1,8 @@
-zip_code = "40724"
-state = "KY"
 city = "Bush"
 county = "Laurel"
-longitude = -84.140847
 latitude = 37.152074
+longitude = -84.140847
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40724"
+

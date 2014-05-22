@@ -1,6 +1,8 @@
-zip_code = "54620"
-state = "WI"
 city = "Cataract"
 county = "Monroe"
-longitude = -90.842289
 latitude = 44.087601
+longitude = -90.842289
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54620"
+

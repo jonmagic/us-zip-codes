@@ -1,6 +1,8 @@
-zip_code = "49799"
-state = "MI"
 city = "Wolverine"
 county = "Cheboygan"
-longitude = -84.549533
 latitude = 45.326831
+longitude = -84.549533
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49799"
+

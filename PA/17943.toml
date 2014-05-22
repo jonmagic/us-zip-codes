@@ -1,6 +1,8 @@
-zip_code = "17943"
-state = "PA"
 city = "Lavelle"
 county = "Schuylkill"
-longitude = -76.387242
 latitude = 40.761438
+longitude = -76.387242
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17943"
+

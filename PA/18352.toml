@@ -1,6 +1,8 @@
-zip_code = "18352"
-state = "PA"
 city = "Reeders"
 county = "Monroe"
-longitude = -75.348026
 latitude = 40.986265
+longitude = -75.348026
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18352"
+

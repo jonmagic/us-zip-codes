@@ -1,6 +1,8 @@
-zip_code = "67060"
-state = "KS"
 city = "Haysville"
 county = "Sedgwick"
-longitude = -97.36324
 latitude = 37.542404
+longitude = -97.36324
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67060"
+

@@ -1,6 +1,8 @@
-zip_code = "24165"
-state = "VA"
 city = "Spencer"
 county = "Henry"
-longitude = -80.005233
 latitude = 36.593912
+longitude = -80.005233
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24165"
+

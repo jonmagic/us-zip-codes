@@ -1,6 +1,8 @@
-zip_code = "24574"
-state = "VA"
 city = "Monroe"
 county = "Amherst"
-longitude = -79.244826
 latitude = 37.544326
+longitude = -79.244826
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24574"
+

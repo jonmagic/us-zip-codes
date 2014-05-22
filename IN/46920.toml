@@ -1,6 +1,8 @@
-zip_code = "46920"
-state = "IN"
 city = "Cutler"
 county = "Carroll"
-longitude = -86.488525
 latitude = 40.485424
+longitude = -86.488525
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46920"
+

@@ -1,6 +1,8 @@
-zip_code = "31326"
-state = "GA"
 city = "Rincon"
 county = "Effingham"
-longitude = -81.287526
 latitude = 32.285205
+longitude = -81.287526
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31326"
+

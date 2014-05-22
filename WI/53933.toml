@@ -1,6 +1,8 @@
-zip_code = "53933"
-state = "WI"
 city = "Fox Lake"
 county = "Dodge"
-longitude = -88.895723
 latitude = 43.568169
+longitude = -88.895723
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53933"
+

@@ -1,6 +1,8 @@
-zip_code = "42032"
-state = "KY"
 city = "Columbus"
 county = "Hickman"
-longitude = -89.1019
 latitude = 36.732689
+longitude = -89.1019
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42032"
+

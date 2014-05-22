@@ -1,6 +1,8 @@
-zip_code = "44221"
-state = "OH"
 city = "Cuyahoga Falls"
 county = "Summit"
-longitude = -81.473585
 latitude = 41.143906
+longitude = -81.473585
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44221"
+

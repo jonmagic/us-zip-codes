@@ -1,6 +1,8 @@
-zip_code = "99126"
-state = "WA"
 city = "Evans"
 county = "Stevens"
-longitude = -117.972888
 latitude = 48.740671
+longitude = -117.972888
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99126"
+

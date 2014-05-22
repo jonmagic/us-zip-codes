@@ -1,6 +1,8 @@
-zip_code = "48133"
-state = "MI"
 city = "Erie"
 county = "Monroe"
-longitude = -83.504033
 latitude = 41.790287
+longitude = -83.504033
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48133"
+

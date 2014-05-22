@@ -1,6 +1,8 @@
-zip_code = "50514"
-state = "IA"
 city = "Armstrong"
 county = "Emmet"
-longitude = -94.531703
 latitude = 43.407517
+longitude = -94.531703
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50514"
+

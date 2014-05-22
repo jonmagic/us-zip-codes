@@ -1,6 +1,8 @@
-zip_code = "37892"
-state = "TN"
 city = "Winfield"
 county = "Scott"
-longitude = -84.414551
 latitude = 36.5482
+longitude = -84.414551
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37892"
+

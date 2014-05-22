@@ -1,6 +1,8 @@
-zip_code = "97834"
-state = "OR"
 city = "Halfway"
 county = "Baker"
-longitude = -117.123753
 latitude = 44.952248
+longitude = -117.123753
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97834"
+

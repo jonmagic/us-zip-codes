@@ -1,6 +1,8 @@
-zip_code = "45634"
-state = "OH"
 city = "Hamden"
 county = "Vinton"
-longitude = -82.503194
 latitude = 39.178317
+longitude = -82.503194
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45634"
+

@@ -1,6 +1,8 @@
-zip_code = "04003"
-state = "ME"
 city = "Bailey Island"
 county = "Cumberland"
-longitude = -69.995456
 latitude = 43.735867
+longitude = -69.995456
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04003"
+

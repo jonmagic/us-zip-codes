@@ -1,6 +1,8 @@
-zip_code = "48836"
-state = "MI"
 city = "Fowlerville"
 county = "Livingston"
-longitude = -84.054241
 latitude = 42.641649
+longitude = -84.054241
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48836"
+

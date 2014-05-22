@@ -1,6 +1,8 @@
-zip_code = "99652"
-state = "AK"
 city = "Big Lake"
 county = "Matanuska Susitna"
-longitude = -149.728806
 latitude = 61.523043
+longitude = -149.728806
+state = ""
+state_code_alpha2 = ""
+zip_code = "99652"
+

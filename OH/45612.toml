@@ -1,6 +1,8 @@
-zip_code = "45612"
-state = "OH"
 city = "Bainbridge"
 county = "Ross"
-longitude = -83.219712
 latitude = 39.244298
+longitude = -83.219712
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45612"
+

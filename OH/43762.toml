@@ -1,6 +1,8 @@
-zip_code = "43762"
-state = "OH"
 city = "New Concord"
 county = "Muskingum"
-longitude = -81.767017
 latitude = 40.024342
+longitude = -81.767017
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43762"
+

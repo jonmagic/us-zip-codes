@@ -1,6 +1,8 @@
-zip_code = "63960"
-state = "MO"
 city = "Puxico"
 county = "Stoddard"
-longitude = -90.081609
 latitude = 36.978223
+longitude = -90.081609
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63960"
+

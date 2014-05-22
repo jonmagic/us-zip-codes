@@ -1,6 +1,8 @@
-zip_code = "80473"
-state = "CO"
 city = "Rand"
 county = "Jackson"
-longitude = -106.185703
 latitude = 40.466701
+longitude = -106.185703
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80473"
+

@@ -1,6 +1,8 @@
-zip_code = "41039"
-state = "KY"
 city = "Ewing"
 county = "Fleming"
-longitude = -83.718626
 latitude = 38.3481
+longitude = -83.718626
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41039"
+

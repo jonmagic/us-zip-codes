@@ -1,6 +1,8 @@
-zip_code = "23090"
-state = "VA"
 city = "Lightfoot"
 county = "York"
-longitude = -76.445567
 latitude = 37.235892
+longitude = -76.445567
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23090"
+

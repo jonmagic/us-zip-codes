@@ -1,6 +1,8 @@
-zip_code = "84043"
-state = "UT"
 city = "Lehi"
 county = "Utah"
-longitude = -111.921078
 latitude = 40.318139
+longitude = -111.921078
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84043"
+

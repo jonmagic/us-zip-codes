@@ -1,6 +1,8 @@
-zip_code = "53544"
-state = "WI"
 city = "Hollandale"
 county = "Iowa"
-longitude = -89.923881
 latitude = 42.871497
+longitude = -89.923881
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53544"
+

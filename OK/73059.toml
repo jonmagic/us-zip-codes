@@ -1,6 +1,8 @@
-zip_code = "73059"
-state = "OK"
 city = "Minco"
 county = "Grady"
-longitude = -97.950402
 latitude = 35.31278
+longitude = -97.950402
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73059"
+

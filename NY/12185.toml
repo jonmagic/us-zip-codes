@@ -1,6 +1,8 @@
-zip_code = "12185"
-state = "NY"
 city = "Valley Falls"
 county = "Rensselaer"
-longitude = -73.500679
 latitude = 42.856307
+longitude = -73.500679
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12185"
+

@@ -1,6 +1,8 @@
-zip_code = "21522"
-state = "MD"
 city = "Bittinger"
 county = "Garrett"
-longitude = -79.233691
 latitude = 39.601664
+longitude = -79.233691
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21522"
+

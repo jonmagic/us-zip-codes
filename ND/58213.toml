@@ -1,6 +1,8 @@
-zip_code = "58213"
-state = "ND"
 city = "Ardoch"
 county = "Walsh"
-longitude = -97.275528
 latitude = 48.237795
+longitude = -97.275528
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58213"
+

@@ -1,6 +1,8 @@
-zip_code = "48418"
-state = "MI"
 city = "Byron"
 county = "Shiawassee"
-longitude = -84.020577
 latitude = 42.826333
+longitude = -84.020577
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48418"
+

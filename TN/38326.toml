@@ -1,6 +1,8 @@
-zip_code = "38326"
-state = "TN"
 city = "Counce"
 county = "Hardin"
-longitude = -88.292167
 latitude = 35.110079
+longitude = -88.292167
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38326"
+

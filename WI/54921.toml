@@ -1,6 +1,8 @@
-zip_code = "54921"
-state = "WI"
 city = "Bancroft"
 county = "Portage"
-longitude = -89.526303
 latitude = 44.341602
+longitude = -89.526303
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54921"
+

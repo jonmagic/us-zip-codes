@@ -1,6 +1,8 @@
-zip_code = "82061"
-state = "WY"
 city = "Horse Creek"
 county = "Laramie"
-longitude = -105.141679
 latitude = 41.435318
+longitude = -105.141679
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82061"
+

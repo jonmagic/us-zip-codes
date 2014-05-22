@@ -1,6 +1,8 @@
-zip_code = "50064"
-state = "IA"
 city = "Dana"
 county = "Greene"
-longitude = -94.230723
 latitude = 42.100422
+longitude = -94.230723
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50064"
+

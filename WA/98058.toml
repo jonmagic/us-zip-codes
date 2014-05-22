@@ -1,6 +1,8 @@
-zip_code = "98058"
-state = "WA"
 city = "Renton"
 county = "King"
-longitude = -122.117999
 latitude = 47.432927
+longitude = -122.117999
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98058"
+

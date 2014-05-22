@@ -1,6 +1,8 @@
-zip_code = "89052"
-state = "NV"
 city = "Henderson"
 county = "Clark"
-longitude = -115.116652
 latitude = 35.987798
+longitude = -115.116652
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89052"
+

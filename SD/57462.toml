@@ -1,6 +1,8 @@
-zip_code = "57462"
-state = "SD"
 city = "Mina"
 county = "Edmunds"
-longitude = -98.806895
 latitude = 45.404015
+longitude = -98.806895
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57462"
+

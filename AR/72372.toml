@@ -1,6 +1,8 @@
-zip_code = "72372"
-state = "AR"
 city = "Palestine"
 county = "Saint Francis"
-longitude = -90.901168
 latitude = 35.027132
+longitude = -90.901168
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72372"
+

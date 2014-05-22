@@ -1,6 +1,8 @@
-zip_code = "92679"
-state = "CA"
 city = "Trabuco Canyon"
 county = "Orange"
-longitude = -117.595826
 latitude = 33.612322
+longitude = -117.595826
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92679"
+

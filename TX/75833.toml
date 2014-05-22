@@ -1,6 +1,8 @@
-zip_code = "75833"
-state = "TX"
 city = "Centerville"
 county = "Leon"
-longitude = -95.899965
 latitude = 31.363103
+longitude = -95.899965
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75833"
+

@@ -1,6 +1,8 @@
-zip_code = "12752"
-state = "NY"
 city = "Lake Huntington"
 county = "Sullivan"
-longitude = -74.946306
 latitude = 41.758563
+longitude = -74.946306
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12752"
+

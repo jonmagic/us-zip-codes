@@ -1,6 +1,8 @@
-zip_code = "03774"
-state = "NH"
 city = "North Haverhill"
 county = "Grafton"
-longitude = -72.014608
 latitude = 44.077803
+longitude = -72.014608
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03774"
+

@@ -1,6 +1,8 @@
-zip_code = "27924"
-state = "NC"
 city = "Colerain"
 county = "Bertie"
-longitude = -76.852518
 latitude = 36.152409
+longitude = -76.852518
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27924"
+

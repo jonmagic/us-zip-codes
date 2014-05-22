@@ -1,6 +1,8 @@
-zip_code = "88115"
-state = "NM"
 city = "Dora"
 county = "Roosevelt"
-longitude = -103.380387
 latitude = 33.916566
+longitude = -103.380387
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88115"
+

@@ -1,6 +1,8 @@
-zip_code = "03803"
-state = "NH"
 city = "Portsmouth"
 county = "Rockingham"
-longitude = -71.444752
 latitude = 42.92703
+longitude = -71.444752
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03803"
+

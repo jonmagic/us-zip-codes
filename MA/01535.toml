@@ -1,6 +1,8 @@
-zip_code = "01535"
-state = "MA"
 city = "North Brookfield"
 county = "Worcester"
-longitude = -72.089338
 latitude = 42.275382
+longitude = -72.089338
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01535"
+

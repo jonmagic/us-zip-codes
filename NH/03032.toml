@@ -1,6 +1,8 @@
-zip_code = "03032"
-state = "NH"
 city = "Auburn"
 county = "Rockingham"
-longitude = -71.343576
 latitude = 42.989151
+longitude = -71.343576
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03032"
+

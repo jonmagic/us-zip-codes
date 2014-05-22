@@ -1,6 +1,8 @@
-zip_code = "54501"
-state = "WI"
 city = "Rhinelander"
 county = "Oneida"
-longitude = -89.386562
 latitude = 45.704474
+longitude = -89.386562
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54501"
+

@@ -1,6 +1,8 @@
-zip_code = "47135"
-state = "IN"
 city = "Laconia"
 county = "Harrison"
-longitude = -86.06555
 latitude = 38.039957
+longitude = -86.06555
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47135"
+

@@ -1,6 +1,8 @@
-zip_code = "37152"
-state = "TN"
 city = "Ridgetop"
 county = "Robertson"
-longitude = -86.772247
 latitude = 36.402548
+longitude = -86.772247
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37152"
+

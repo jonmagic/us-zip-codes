@@ -1,6 +1,8 @@
-zip_code = "37657"
-state = "TN"
 city = "Flag Pond"
 county = "Unicoi"
-longitude = -82.545757
 latitude = 36.027038
+longitude = -82.545757
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37657"
+

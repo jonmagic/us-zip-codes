@@ -1,6 +1,8 @@
-zip_code = "37308"
-state = "TN"
 city = "Birchwood"
 county = "Hamilton"
-longitude = -85.009853
 latitude = 35.312806
+longitude = -85.009853
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37308"
+

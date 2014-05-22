@@ -1,6 +1,8 @@
-zip_code = "76031"
-state = "TX"
 city = "Cleburne"
 county = "Johnson"
-longitude = -97.440849
 latitude = 32.317774
+longitude = -97.440849
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76031"
+

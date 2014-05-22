@@ -1,6 +1,8 @@
-zip_code = "14806"
-state = "NY"
 city = "Andover"
 county = "Allegany"
-longitude = -77.811901
 latitude = 42.145794
+longitude = -77.811901
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14806"
+

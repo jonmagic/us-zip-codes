@@ -1,6 +1,8 @@
-zip_code = "07440"
-state = "NJ"
 city = "Pequannock"
 county = "Morris"
-longitude = -74.295592
 latitude = 40.948208
+longitude = -74.295592
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07440"
+

@@ -1,6 +1,8 @@
-zip_code = "03851"
-state = "NH"
 city = "Milton"
 county = "Strafford"
-longitude = -71.011369
 latitude = 43.422942
+longitude = -71.011369
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03851"
+

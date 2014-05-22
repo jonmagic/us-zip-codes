@@ -1,6 +1,8 @@
-zip_code = "46517"
-state = "IN"
 city = "Elkhart"
 county = "Elkhart"
-longitude = -85.965717
 latitude = 41.617705
+longitude = -85.965717
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46517"
+

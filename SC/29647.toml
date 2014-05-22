@@ -1,6 +1,8 @@
-zip_code = "29647"
-state = "SC"
 city = "Greenwood"
 county = "Greenwood"
-longitude = -82.163078
 latitude = 34.178813
+longitude = -82.163078
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29647"
+

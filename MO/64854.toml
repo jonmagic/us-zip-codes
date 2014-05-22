@@ -1,6 +1,8 @@
-zip_code = "64854"
-state = "MO"
 city = "Noel"
 county = "Mcdonald"
-longitude = -94.457864
 latitude = 36.579739
+longitude = -94.457864
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64854"
+

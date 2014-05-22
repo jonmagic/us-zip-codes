@@ -1,6 +1,8 @@
-zip_code = "01436"
-state = "MA"
 city = "Baldwinville"
 county = "Worcester"
-longitude = -72.083838
 latitude = 42.601427
+longitude = -72.083838
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01436"
+

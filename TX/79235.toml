@@ -1,6 +1,8 @@
-zip_code = "79235"
-state = "TX"
 city = "Floydada"
 county = "Floyd"
-longitude = -101.381126
 latitude = 34.015814
+longitude = -101.381126
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79235"
+

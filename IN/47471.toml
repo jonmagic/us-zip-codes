@@ -1,6 +1,8 @@
-zip_code = "47471"
-state = "IN"
 city = "Worthington"
 county = "Greene"
-longitude = -86.970755
 latitude = 39.124289
+longitude = -86.970755
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47471"
+

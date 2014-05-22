@@ -1,6 +1,8 @@
-zip_code = "79602"
-state = "TX"
 city = "Abilene"
 county = "Taylor"
-longitude = -99.694283
 latitude = 32.342605
+longitude = -99.694283
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79602"
+

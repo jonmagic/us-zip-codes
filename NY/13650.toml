@@ -1,6 +1,8 @@
-zip_code = "13650"
-state = "NY"
 city = "Henderson"
 county = "Jefferson"
-longitude = -76.208109
 latitude = 43.812653
+longitude = -76.208109
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13650"
+

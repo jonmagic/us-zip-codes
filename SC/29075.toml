@@ -1,6 +1,8 @@
-zip_code = "29075"
-state = "SC"
 city = "Little Mountain"
 county = "Newberry"
-longitude = -81.396654
 latitude = 34.193507
+longitude = -81.396654
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29075"
+

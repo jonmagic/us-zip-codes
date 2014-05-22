@@ -1,6 +1,8 @@
-zip_code = "12937"
-state = "NY"
 city = "Fort Covington"
 county = "Franklin"
-longitude = -74.48674
 latitude = 44.955977
+longitude = -74.48674
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12937"
+

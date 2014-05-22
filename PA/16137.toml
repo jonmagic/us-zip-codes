@@ -1,6 +1,8 @@
-zip_code = "16137"
-state = "PA"
 city = "Mercer"
 county = "Mercer"
-longitude = -80.250704
 latitude = 41.222885
+longitude = -80.250704
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16137"
+

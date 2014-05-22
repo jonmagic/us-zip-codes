@@ -1,6 +1,8 @@
-zip_code = "60145"
-state = "IL"
 city = "Kingston"
 county = "De Kalb"
-longitude = -88.762765
 latitude = 42.090787
+longitude = -88.762765
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60145"
+

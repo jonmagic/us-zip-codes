@@ -1,6 +1,8 @@
-zip_code = "78947"
-state = "TX"
 city = "Lexington"
 county = "Lee"
-longitude = -97.020931
 latitude = 30.405444
+longitude = -97.020931
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78947"
+

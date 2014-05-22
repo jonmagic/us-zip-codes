@@ -1,6 +1,8 @@
-zip_code = "27534"
-state = "NC"
 city = "Goldsboro"
 county = "Wayne"
-longitude = -78.03207
 latitude = 35.385571
+longitude = -78.03207
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27534"
+

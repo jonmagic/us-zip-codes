@@ -1,6 +1,8 @@
-zip_code = "01252"
-state = "MA"
 city = "North Egremont"
 county = "Berkshire"
-longitude = -73.446234
 latitude = 42.198648
+longitude = -73.446234
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01252"
+

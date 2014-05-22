@@ -1,6 +1,8 @@
-zip_code = "02804"
-state = "RI"
 city = "Ashaway"
 county = "Washington"
-longitude = -71.679251
 latitude = 41.322365
+longitude = -71.679251
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02804"
+

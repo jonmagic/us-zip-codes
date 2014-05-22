@@ -1,6 +1,8 @@
-zip_code = "13672"
-state = "NY"
 city = "Parishville"
 county = "Saint Lawrence"
-longitude = -74.780387
 latitude = 44.544283
+longitude = -74.780387
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13672"
+

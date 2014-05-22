@@ -1,6 +1,8 @@
-zip_code = "15545"
-state = "PA"
 city = "Hyndman"
 county = "Bedford"
-longitude = -78.712775
 latitude = 39.886506
+longitude = -78.712775
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15545"
+

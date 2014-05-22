@@ -1,6 +1,8 @@
-zip_code = "44679"
-state = "OH"
 city = "Stillwater"
 county = "Tuscarawas"
-longitude = -81.488516
 latitude = 40.440407
+longitude = -81.488516
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44679"
+

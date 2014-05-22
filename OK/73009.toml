@@ -1,6 +1,8 @@
-zip_code = "73009"
-state = "OK"
 city = "Binger"
 county = "Caddo"
-longitude = -98.344265
 latitude = 35.308457
+longitude = -98.344265
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73009"
+

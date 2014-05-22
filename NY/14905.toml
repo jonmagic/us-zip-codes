@@ -1,6 +1,8 @@
-zip_code = "14905"
-state = "NY"
 city = "Elmira"
 county = "Chemung"
-longitude = -76.844329
 latitude = 42.093574
+longitude = -76.844329
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14905"
+

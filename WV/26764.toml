@@ -1,6 +1,8 @@
-zip_code = "26764"
-state = "WV"
 city = "Terra Alta"
 county = "Preston"
-longitude = -79.519679
 latitude = 39.430634
+longitude = -79.519679
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26764"
+

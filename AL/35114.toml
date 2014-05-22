@@ -1,6 +1,8 @@
-zip_code = "35114"
-state = "AL"
 city = "Maylene"
 county = "Shelby"
-longitude = -86.733796
 latitude = 33.337916
+longitude = -86.733796
+state = ""
+state_code_alpha2 = ""
+zip_code = "35114"
+

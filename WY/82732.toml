@@ -1,6 +1,8 @@
-zip_code = "82732"
-state = "WY"
 city = "Wright"
 county = "Campbell"
-longitude = -105.520135
 latitude = 43.761422
+longitude = -105.520135
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82732"
+

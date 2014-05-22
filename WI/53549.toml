@@ -1,6 +1,8 @@
-zip_code = "53549"
-state = "WI"
 city = "Jefferson"
 county = "Jefferson"
-longitude = -88.759793
 latitude = 42.993502
+longitude = -88.759793
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53549"
+

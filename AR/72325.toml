@@ -1,6 +1,8 @@
-zip_code = "72325"
-state = "AR"
 city = "Clarkedale"
 county = "Crittenden"
-longitude = -90.253781
 latitude = 35.286354
+longitude = -90.253781
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72325"
+

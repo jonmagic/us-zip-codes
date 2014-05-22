@@ -1,6 +1,8 @@
-zip_code = "15358"
-state = "PA"
 city = "Richeyville"
 county = "Washington"
-longitude = -79.992554
 latitude = 40.056347
+longitude = -79.992554
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15358"
+

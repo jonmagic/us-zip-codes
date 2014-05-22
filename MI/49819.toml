@@ -1,6 +1,8 @@
-zip_code = "49819"
-state = "MI"
 city = "Arnold"
 county = "Marquette"
-longitude = -87.614805
 latitude = 46.604141
+longitude = -87.614805
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49819"
+

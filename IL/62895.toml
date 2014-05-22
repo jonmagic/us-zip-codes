@@ -1,6 +1,8 @@
-zip_code = "62895"
-state = "IL"
 city = "Wayne City"
 county = "Wayne"
-longitude = -88.566951
 latitude = 38.350936
+longitude = -88.566951
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62895"
+

@@ -1,6 +1,8 @@
-zip_code = "06484"
-state = "CT"
 city = "Shelton"
 county = "Fairfield"
-longitude = -73.137143
 latitude = 41.314347
+longitude = -73.137143
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06484"
+

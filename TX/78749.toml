@@ -1,6 +1,8 @@
-zip_code = "78749"
-state = "TX"
 city = "Austin"
 county = "Travis"
-longitude = -97.857187
 latitude = 30.207969
+longitude = -97.857187
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78749"
+

@@ -1,6 +1,8 @@
-zip_code = "49753"
-state = "MI"
 city = "Lachine"
 county = "Alpena"
-longitude = -83.761958
 latitude = 45.013075
+longitude = -83.761958
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49753"
+

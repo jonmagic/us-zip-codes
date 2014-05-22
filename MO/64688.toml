@@ -1,6 +1,8 @@
-zip_code = "64688"
-state = "MO"
 city = "Wheeling"
 county = "Livingston"
-longitude = -93.397106
 latitude = 39.871946
+longitude = -93.397106
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64688"
+

@@ -1,6 +1,8 @@
-zip_code = "66937"
-state = "KS"
 city = "Clifton"
 county = "Washington"
-longitude = -97.17341
 latitude = 39.655509
+longitude = -97.17341
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66937"
+

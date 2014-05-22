@@ -1,6 +1,8 @@
-zip_code = "83661"
-state = "ID"
 city = "Payette"
 county = "Payette"
-longitude = -116.750704
 latitude = 44.063604
+longitude = -116.750704
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83661"
+

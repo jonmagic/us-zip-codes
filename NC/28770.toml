@@ -1,6 +1,8 @@
-zip_code = "28770"
-state = "NC"
 city = "Ridgecrest"
 county = "Buncombe"
-longitude = -82.30048
 latitude = 35.618596
+longitude = -82.30048
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28770"
+

@@ -1,6 +1,8 @@
-zip_code = "56150"
-state = "MN"
 city = "Lakefield"
 county = "Jackson"
-longitude = -95.171548
 latitude = 43.678125
+longitude = -95.171548
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56150"
+

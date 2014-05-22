@@ -1,6 +1,8 @@
-zip_code = "58281"
-state = "ND"
 city = "Wales"
 county = "Cavalier"
-longitude = -98.464102
 latitude = 48.77178
+longitude = -98.464102
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58281"
+

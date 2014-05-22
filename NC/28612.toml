@@ -1,6 +1,8 @@
-zip_code = "28612"
-state = "NC"
 city = "Connellys Springs"
 county = "Burke"
-longitude = -81.538697
 latitude = 35.689483
+longitude = -81.538697
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28612"
+

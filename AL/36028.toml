@@ -1,6 +1,8 @@
-zip_code = "36028"
-state = "AL"
 city = "Dozier"
 county = "Crenshaw"
-longitude = -86.354365
 latitude = 31.518541
+longitude = -86.354365
+state = ""
+state_code_alpha2 = ""
+zip_code = "36028"
+

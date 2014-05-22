@@ -1,6 +1,8 @@
-zip_code = "41180"
-state = "KY"
 city = "Webbville"
 county = "Lawrence"
-longitude = -82.882533
 latitude = 38.190296
+longitude = -82.882533
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41180"
+

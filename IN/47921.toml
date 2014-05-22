@@ -1,6 +1,8 @@
-zip_code = "47921"
-state = "IN"
 city = "Boswell"
 county = "Benton"
-longitude = -87.311618
 latitude = 40.577648
+longitude = -87.311618
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47921"
+

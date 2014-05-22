@@ -1,6 +1,8 @@
-zip_code = "58484"
-state = "ND"
 city = "Sutton"
 county = "Griggs"
-longitude = -98.403593
 latitude = 47.39903
+longitude = -98.403593
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58484"
+

@@ -1,6 +1,8 @@
-zip_code = "06380"
-state = "CT"
 city = "Taftville"
 county = "New London"
-longitude = -72.05522
 latitude = 41.563998
+longitude = -72.05522
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06380"
+

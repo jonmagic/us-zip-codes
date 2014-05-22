@@ -1,6 +1,8 @@
-zip_code = "43310"
-state = "OH"
 city = "Belle Center"
 county = "Logan"
-longitude = -83.752068
 latitude = 40.491005
+longitude = -83.752068
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43310"
+

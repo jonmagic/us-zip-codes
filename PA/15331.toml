@@ -1,6 +1,8 @@
-zip_code = "15331"
-state = "PA"
 city = "Ellsworth"
 county = "Washington"
-longitude = -80.021614
 latitude = 40.106824
+longitude = -80.021614
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15331"
+

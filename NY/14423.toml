@@ -1,6 +1,8 @@
-zip_code = "14423"
-state = "NY"
 city = "Caledonia"
 county = "Livingston"
-longitude = -77.838998
 latitude = 42.935329
+longitude = -77.838998
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14423"
+

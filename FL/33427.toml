@@ -1,6 +1,8 @@
-zip_code = "33427"
-state = "FL"
 city = "Boca Raton"
 county = "Palm Beach"
-longitude = -80.10717
 latitude = 26.375954
+longitude = -80.10717
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33427"
+

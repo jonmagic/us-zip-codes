@@ -1,6 +1,8 @@
-zip_code = "39232"
-state = "MS"
 city = "Flowood"
 county = "Rankin"
-longitude = -90.397157
 latitude = 32.311287
+longitude = -90.397157
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39232"
+

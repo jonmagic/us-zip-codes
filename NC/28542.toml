@@ -1,6 +1,8 @@
-zip_code = "28542"
-state = "NC"
 city = "Camp Lejeune"
 county = "Onslow"
-longitude = -77.463687
 latitude = 34.664035
+longitude = -77.463687
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28542"
+

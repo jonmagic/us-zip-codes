@@ -1,6 +1,8 @@
-zip_code = "24343"
-state = "VA"
 city = "Hillsville"
 county = "Carroll"
-longitude = -80.67507
 latitude = 36.730347
+longitude = -80.67507
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24343"
+

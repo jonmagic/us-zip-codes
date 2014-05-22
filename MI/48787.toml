@@ -1,6 +1,8 @@
-zip_code = "48787"
-state = "MI"
 city = "Frankenmuth"
 county = "Saginaw"
-longitude = -83.749418
 latitude = 43.334958
+longitude = -83.749418
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48787"
+

@@ -1,6 +1,8 @@
-zip_code = "03884"
-state = "NH"
 city = "Strafford"
 county = "Strafford"
-longitude = -71.171886
 latitude = 43.256871
+longitude = -71.171886
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03884"
+

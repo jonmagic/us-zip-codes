@@ -1,6 +1,8 @@
-zip_code = "23341"
-state = "VA"
 city = "Craddockville"
 county = "Accomack"
-longitude = -75.864607
 latitude = 37.577292
+longitude = -75.864607
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23341"
+

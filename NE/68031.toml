@@ -1,6 +1,8 @@
-zip_code = "68031"
-state = "NE"
 city = "Hooper"
 county = "Dodge"
-longitude = -96.549316
 latitude = 41.621961
+longitude = -96.549316
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68031"
+

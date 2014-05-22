@@ -1,6 +1,8 @@
-zip_code = "27577"
-state = "NC"
 city = "Smithfield"
 county = "Johnston"
-longitude = -78.336001
 latitude = 35.536543
+longitude = -78.336001
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27577"
+

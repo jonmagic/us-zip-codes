@@ -1,6 +1,8 @@
-zip_code = "72360"
-state = "AR"
 city = "Marianna"
 county = "Lee"
-longitude = -90.783138
 latitude = 34.768479
+longitude = -90.783138
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72360"
+

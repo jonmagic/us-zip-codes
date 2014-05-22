@@ -1,6 +1,8 @@
-zip_code = "61485"
-state = "IL"
 city = "Victoria"
 county = "Knox"
-longitude = -90.085007
 latitude = 41.00733
+longitude = -90.085007
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61485"
+

@@ -1,6 +1,8 @@
-zip_code = "29683"
-state = "SC"
 city = "Slater"
 county = "Greenville"
-longitude = -82.494068
 latitude = 35.028924
+longitude = -82.494068
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29683"
+

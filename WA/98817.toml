@@ -1,6 +1,8 @@
-zip_code = "98817"
-state = "WA"
 city = "Chelan Falls"
 county = "Chelan"
-longitude = -119.957918
 latitude = 47.841829
+longitude = -119.957918
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98817"
+

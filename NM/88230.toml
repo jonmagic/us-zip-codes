@@ -1,6 +1,8 @@
-zip_code = "88230"
-state = "NM"
 city = "Dexter"
 county = "Chaves"
-longitude = -104.397276
 latitude = 33.238749
+longitude = -104.397276
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88230"
+

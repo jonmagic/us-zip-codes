@@ -1,6 +1,8 @@
-zip_code = "12878"
-state = "NY"
 city = "Stony Creek"
 county = "Warren"
-longitude = -73.876364
 latitude = 43.464398
+longitude = -73.876364
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12878"
+

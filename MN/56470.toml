@@ -1,6 +1,8 @@
-zip_code = "56470"
-state = "MN"
 city = "Park Rapids"
 county = "Hubbard"
-longitude = -95.09935
 latitude = 46.984699
+longitude = -95.09935
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56470"
+

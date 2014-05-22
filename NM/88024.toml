@@ -1,6 +1,8 @@
-zip_code = "88024"
-state = "NM"
 city = "Berino"
 county = "Dona Ana"
-longitude = -106.630951
 latitude = 32.068164
+longitude = -106.630951
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88024"
+

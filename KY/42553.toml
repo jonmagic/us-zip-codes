@@ -1,6 +1,8 @@
-zip_code = "42553"
-state = "KY"
 city = "Science Hill"
 county = "Pulaski"
-longitude = -84.686815
 latitude = 37.110682
+longitude = -84.686815
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42553"
+

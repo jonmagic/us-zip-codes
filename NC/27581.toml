@@ -1,6 +1,8 @@
-zip_code = "27581"
-state = "NC"
 city = "Stem"
 county = "Granville"
-longitude = -78.72704
 latitude = 36.209675
+longitude = -78.72704
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27581"
+

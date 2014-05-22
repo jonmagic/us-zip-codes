@@ -1,6 +1,8 @@
-zip_code = "30266"
-state = "GA"
 city = "Orchard Hill"
 county = "Spalding"
-longitude = -84.298964
 latitude = 33.265656
+longitude = -84.298964
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30266"
+

@@ -1,6 +1,8 @@
-zip_code = "65080"
-state = "MO"
 city = "Tebbetts"
 county = "Callaway"
-longitude = -91.99659
 latitude = 38.635304
+longitude = -91.99659
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65080"
+

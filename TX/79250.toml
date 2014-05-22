@@ -1,6 +1,8 @@
-zip_code = "79250"
-state = "TX"
 city = "Petersburg"
 county = "Hale"
-longitude = -101.596234
 latitude = 33.86948
+longitude = -101.596234
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79250"
+

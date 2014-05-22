@@ -1,6 +1,8 @@
-zip_code = "38767"
-state = "MS"
 city = "Rena Lara"
 county = "Coahoma"
-longitude = -90.7865
 latitude = 34.1412
+longitude = -90.7865
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38767"
+

@@ -1,6 +1,8 @@
-zip_code = "83622"
-state = "ID"
 city = "Garden Valley"
 county = "Boise"
-longitude = -115.909781
 latitude = 44.091712
+longitude = -115.909781
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83622"
+

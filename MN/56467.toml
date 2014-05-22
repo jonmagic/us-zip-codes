@@ -1,6 +1,8 @@
-zip_code = "56467"
-state = "MN"
 city = "Nevis"
 county = "Hubbard"
-longitude = -94.844112
 latitude = 46.94336
+longitude = -94.844112
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56467"
+

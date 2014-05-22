@@ -1,6 +1,8 @@
-zip_code = "38348"
-state = "TN"
 city = "Lavinia"
 county = "Carroll"
-longitude = -88.640325
 latitude = 35.860641
+longitude = -88.640325
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38348"
+

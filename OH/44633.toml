@@ -1,6 +1,8 @@
-zip_code = "44633"
-state = "OH"
 city = "Holmesville"
 county = "Holmes"
-longitude = -81.937501
 latitude = 40.624618
+longitude = -81.937501
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44633"
+

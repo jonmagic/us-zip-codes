@@ -1,6 +1,8 @@
-zip_code = "75446"
-state = "TX"
 city = "Honey Grove"
 county = "Fannin"
-longitude = -96.085924
 latitude = 33.488056
+longitude = -96.085924
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75446"
+

@@ -1,6 +1,8 @@
-zip_code = "63827"
-state = "MO"
 city = "Bragg City"
 county = "Pemiscot"
-longitude = -89.872827
 latitude = 36.269702
+longitude = -89.872827
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63827"
+

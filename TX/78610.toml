@@ -1,6 +1,8 @@
-zip_code = "78610"
-state = "TX"
 city = "Buda"
 county = "Hays"
-longitude = -97.989275
 latitude = 30.108361
+longitude = -97.989275
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78610"
+

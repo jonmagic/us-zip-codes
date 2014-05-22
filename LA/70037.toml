@@ -1,6 +1,8 @@
-zip_code = "70037"
-state = "LA"
 city = "Belle Chasse"
 county = "Plaquemines"
-longitude = -89.771638
 latitude = 29.620092
+longitude = -89.771638
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70037"
+

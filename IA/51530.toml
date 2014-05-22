@@ -1,6 +1,8 @@
-zip_code = "51530"
-state = "IA"
 city = "Earling"
 county = "Shelby"
-longitude = -95.438704
 latitude = 41.787073
+longitude = -95.438704
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51530"
+

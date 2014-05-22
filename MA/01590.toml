@@ -1,6 +1,8 @@
-zip_code = "01590"
-state = "MA"
 city = "Sutton"
 county = "Worcester"
-longitude = -71.755193
 latitude = 42.126575
+longitude = -71.755193
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01590"
+

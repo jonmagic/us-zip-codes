@@ -1,6 +1,8 @@
-zip_code = "54458"
-state = "WI"
 city = "Nelsonville"
 county = "Portage"
-longitude = -89.310944
 latitude = 44.490241
+longitude = -89.310944
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54458"
+

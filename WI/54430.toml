@@ -1,6 +1,8 @@
-zip_code = "54430"
-state = "WI"
 city = "Elton"
 county = "Langlade"
-longitude = -88.83459
 latitude = 45.212455
+longitude = -88.83459
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54430"
+

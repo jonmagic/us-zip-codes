@@ -1,6 +1,8 @@
-zip_code = "12758"
-state = "NY"
 city = "Livingston Manor"
 county = "Sullivan"
-longitude = -74.802549
 latitude = 41.818205
+longitude = -74.802549
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12758"
+

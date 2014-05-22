@@ -1,6 +1,8 @@
-zip_code = "13833"
-state = "NY"
 city = "Port Crane"
 county = "Broome"
-longitude = -75.759054
 latitude = 42.195785
+longitude = -75.759054
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13833"
+

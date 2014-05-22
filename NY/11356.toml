@@ -1,6 +1,8 @@
-zip_code = "11356"
-state = "NY"
 city = "College Point"
 county = "Queens"
-longitude = -73.843641
 latitude = 40.784369
+longitude = -73.843641
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11356"
+

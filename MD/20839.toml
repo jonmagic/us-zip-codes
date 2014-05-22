@@ -1,6 +1,8 @@
-zip_code = "20839"
-state = "MD"
 city = "Beallsville"
 county = "Montgomery"
-longitude = -77.419605
 latitude = 39.17877
+longitude = -77.419605
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20839"
+

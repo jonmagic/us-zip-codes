@@ -1,6 +1,8 @@
-zip_code = "33823"
-state = "FL"
 city = "Auburndale"
 county = "Polk"
-longitude = -81.742864
 latitude = 28.086751
+longitude = -81.742864
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33823"
+

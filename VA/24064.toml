@@ -1,6 +1,8 @@
-zip_code = "24064"
-state = "VA"
 city = "Blue Ridge"
 county = "Botetourt"
-longitude = -79.819537
 latitude = 37.369287
+longitude = -79.819537
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24064"
+

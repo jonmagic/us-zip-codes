@@ -1,6 +1,8 @@
-zip_code = "94706"
-state = "CA"
 city = "Albany"
 county = "Alameda"
-longitude = -122.29828
 latitude = 37.889525
+longitude = -122.29828
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94706"
+

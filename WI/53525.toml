@@ -1,6 +1,8 @@
-zip_code = "53525"
-state = "WI"
 city = "Clinton"
 county = "Rock"
-longitude = -88.859993
 latitude = 42.56239
+longitude = -88.859993
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53525"
+

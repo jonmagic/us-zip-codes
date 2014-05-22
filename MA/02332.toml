@@ -1,6 +1,8 @@
-zip_code = "02332"
-state = "MA"
 city = "Duxbury"
 county = "Plymouth"
-longitude = -70.710808
 latitude = 42.052985
+longitude = -70.710808
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02332"
+

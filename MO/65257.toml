@@ -1,6 +1,8 @@
-zip_code = "65257"
-state = "MO"
 city = "Higbee"
 county = "Randolph"
-longitude = -92.5135
 latitude = 39.307179
+longitude = -92.5135
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65257"
+

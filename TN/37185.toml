@@ -1,6 +1,8 @@
-zip_code = "37185"
-state = "TN"
 city = "Waverly"
 county = "Humphreys"
-longitude = -87.82746
 latitude = 36.032353
+longitude = -87.82746
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37185"
+

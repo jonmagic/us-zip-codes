@@ -1,6 +1,8 @@
-zip_code = "04240"
-state = "ME"
 city = "Lewiston"
 county = "Androscoggin"
-longitude = -70.169297
 latitude = 44.086323
+longitude = -70.169297
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04240"
+

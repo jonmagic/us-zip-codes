@@ -1,6 +1,8 @@
-zip_code = "76462"
-state = "TX"
 city = "Lipan"
 county = "Hood"
-longitude = -97.989191
 latitude = 32.494133
+longitude = -97.989191
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76462"
+

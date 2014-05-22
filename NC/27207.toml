@@ -1,6 +1,8 @@
-zip_code = "27207"
-state = "NC"
 city = "Bear Creek"
 county = "Chatham"
-longitude = -79.372362
 latitude = 35.608354
+longitude = -79.372362
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27207"
+

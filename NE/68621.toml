@@ -1,6 +1,8 @@
-zip_code = "68621"
-state = "NE"
 city = "Ames"
 county = "Dodge"
-longitude = -96.624657
 latitude = 41.499208
+longitude = -96.624657
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68621"
+

@@ -1,6 +1,8 @@
-zip_code = "50520"
-state = "IA"
 city = "Bradgate"
 county = "Humboldt"
-longitude = -94.358387
 latitude = 42.801126
+longitude = -94.358387
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50520"
+

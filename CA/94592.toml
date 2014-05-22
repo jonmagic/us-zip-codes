@@ -1,6 +1,8 @@
-zip_code = "94592"
-state = "CA"
 city = "Vallejo"
 county = "Solano"
-longitude = -122.26986
 latitude = 38.096788
+longitude = -122.26986
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94592"
+

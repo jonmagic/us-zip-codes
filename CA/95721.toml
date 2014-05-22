@@ -1,6 +1,8 @@
-zip_code = "95721"
-state = "CA"
 city = "Echo Lake"
 county = "El Dorado"
-longitude = -120.055163
 latitude = 38.83074
+longitude = -120.055163
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95721"
+

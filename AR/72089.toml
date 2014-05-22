@@ -1,6 +1,8 @@
-zip_code = "72089"
-state = "AR"
 city = "Bryant"
 county = "Saline"
-longitude = -92.65974
 latitude = 34.635041
+longitude = -92.65974
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72089"
+

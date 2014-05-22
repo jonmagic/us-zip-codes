@@ -1,6 +1,8 @@
-zip_code = "69367"
-state = "NE"
 city = "Whitney"
 county = "Dawes"
-longitude = -103.299462
 latitude = 42.788579
+longitude = -103.299462
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69367"
+

@@ -1,6 +1,8 @@
-zip_code = "28037"
-state = "NC"
 city = "Denver"
 county = "Lincoln"
-longitude = -81.0553
 latitude = 35.486134
+longitude = -81.0553
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28037"
+

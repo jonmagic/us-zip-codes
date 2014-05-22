@@ -1,6 +1,8 @@
-zip_code = "55974"
-state = "MN"
 city = "Spring Grove"
 county = "Houston"
-longitude = -91.635822
 latitude = 43.571029
+longitude = -91.635822
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55974"
+

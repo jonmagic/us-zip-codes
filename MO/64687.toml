@@ -1,6 +1,8 @@
-zip_code = "64687"
-state = "MO"
 city = "Wakenda"
 county = "Carroll"
-longitude = -93.377455
 latitude = 39.315544
+longitude = -93.377455
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64687"
+

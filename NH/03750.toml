@@ -1,6 +1,8 @@
-zip_code = "03750"
-state = "NH"
 city = "Etna"
 county = "Grafton"
-longitude = -72.215182
 latitude = 43.697999
+longitude = -72.215182
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03750"
+

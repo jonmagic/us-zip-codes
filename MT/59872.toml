@@ -1,6 +1,8 @@
-zip_code = "59872"
-state = "MT"
 city = "Superior"
 county = "Mineral"
-longitude = -114.747599
 latitude = 47.137198
+longitude = -114.747599
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59872"
+

@@ -1,6 +1,8 @@
-zip_code = "72443"
-state = "AR"
 city = "Marmaduke"
 county = "Greene"
-longitude = -90.39974
 latitude = 36.156146
+longitude = -90.39974
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72443"
+

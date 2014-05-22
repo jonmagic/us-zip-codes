@@ -1,6 +1,8 @@
-zip_code = "56282"
-state = "MN"
 city = "Raymond"
 county = "Kandiyohi"
-longitude = -95.111335
 latitude = 45.094173
+longitude = -95.111335
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56282"
+

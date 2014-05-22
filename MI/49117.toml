@@ -1,6 +1,8 @@
-zip_code = "49117"
-state = "MI"
 city = "New Buffalo"
 county = "Berrien"
-longitude = -86.746022
 latitude = 41.79273
+longitude = -86.746022
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49117"
+

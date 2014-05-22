@@ -1,6 +1,8 @@
-zip_code = "64740"
-state = "MO"
 city = "Deepwater"
 county = "Henry"
-longitude = -93.788188
 latitude = 38.243827
+longitude = -93.788188
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64740"
+

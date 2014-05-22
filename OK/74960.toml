@@ -1,6 +1,8 @@
-zip_code = "74960"
-state = "OK"
 city = "Stilwell"
 county = "Adair"
-longitude = -94.606985
 latitude = 35.931689
+longitude = -94.606985
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74960"
+

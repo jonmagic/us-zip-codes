@@ -1,6 +1,8 @@
-zip_code = "11779"
-state = "NY"
 city = "Ronkonkoma"
 county = "Suffolk"
-longitude = -73.130469
 latitude = 40.808322
+longitude = -73.130469
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11779"
+

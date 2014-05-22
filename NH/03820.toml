@@ -1,6 +1,8 @@
-zip_code = "03820"
-state = "NH"
 city = "Dover"
 county = "Strafford"
-longitude = -70.992042
 latitude = 43.297309
+longitude = -70.992042
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03820"
+

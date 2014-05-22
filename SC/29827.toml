@@ -1,6 +1,8 @@
-zip_code = "29827"
-state = "SC"
 city = "Fairfax"
 county = "Allendale"
-longitude = -81.249224
 latitude = 32.959892
+longitude = -81.249224
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29827"
+

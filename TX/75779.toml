@@ -1,6 +1,8 @@
-zip_code = "75779"
-state = "TX"
 city = "Neches"
 county = "Anderson"
-longitude = -95.661964
 latitude = 31.794191
+longitude = -95.661964
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75779"
+

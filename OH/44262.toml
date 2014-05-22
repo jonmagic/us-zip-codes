@@ -1,6 +1,8 @@
-zip_code = "44262"
-state = "OH"
 city = "Munroe Falls"
 county = "Summit"
-longitude = -81.431677
 latitude = 41.138206
+longitude = -81.431677
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44262"
+

@@ -1,6 +1,8 @@
-zip_code = "12165"
-state = "NY"
 city = "Spencertown"
 county = "Columbia"
-longitude = -73.529774
 latitude = 42.331057
+longitude = -73.529774
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12165"
+

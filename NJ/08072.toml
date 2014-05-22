@@ -1,6 +1,8 @@
-zip_code = "08072"
-state = "NJ"
 city = "Quinton"
 county = "Salem"
-longitude = -75.383689
 latitude = 39.541055
+longitude = -75.383689
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08072"
+

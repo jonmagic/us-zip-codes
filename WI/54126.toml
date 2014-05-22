@@ -1,6 +1,8 @@
-zip_code = "54126"
-state = "WI"
 city = "Greenleaf"
 county = "Brown"
-longitude = -88.037736
 latitude = 44.347365
+longitude = -88.037736
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54126"
+

@@ -1,6 +1,8 @@
-zip_code = "39350"
-state = "MS"
 city = "Philadelphia"
 county = "Neshoba"
-longitude = -89.116797
 latitude = 32.754387
+longitude = -89.116797
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39350"
+

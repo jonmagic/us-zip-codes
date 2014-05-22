@@ -1,6 +1,8 @@
-zip_code = "41257"
-state = "KY"
 city = "Stambaugh"
 county = "Johnson"
-longitude = -82.803427
 latitude = 37.916598
+longitude = -82.803427
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41257"
+

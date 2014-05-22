@@ -1,6 +1,8 @@
-zip_code = "28698"
-state = "NC"
 city = "Zionville"
 county = "Watauga"
-longitude = -81.739308
 latitude = 36.324526
+longitude = -81.739308
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28698"
+

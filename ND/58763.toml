@@ -1,6 +1,8 @@
-zip_code = "58763"
-state = "ND"
 city = "New Town"
 county = "Mountrail"
-longitude = -102.471636
 latitude = 47.971759
+longitude = -102.471636
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58763"
+

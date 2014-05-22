@@ -1,6 +1,8 @@
-zip_code = "31736"
-state = "GA"
 city = "Coleman"
 county = "Randolph"
-longitude = -84.747201
 latitude = 31.775195
+longitude = -84.747201
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31736"
+

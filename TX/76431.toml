@@ -1,6 +1,8 @@
-zip_code = "76431"
-state = "TX"
 city = "Chico"
 county = "Wise"
-longitude = -97.814354
 latitude = 33.301868
+longitude = -97.814354
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76431"
+

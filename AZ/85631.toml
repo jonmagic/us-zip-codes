@@ -1,6 +1,8 @@
-zip_code = "85631"
-state = "AZ"
 city = "San Manuel"
 county = "Pinal"
-longitude = -110.599242
 latitude = 32.620892
+longitude = -110.599242
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85631"
+

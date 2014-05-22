@@ -1,6 +1,8 @@
-zip_code = "28101"
-state = "NC"
 city = "Mc Adenville"
 county = "Gaston"
-longitude = -81.09104
 latitude = 35.26749
+longitude = -81.09104
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28101"
+

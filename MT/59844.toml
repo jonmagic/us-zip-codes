@@ -1,6 +1,8 @@
-zip_code = "59844"
-state = "MT"
 city = "Heron"
 county = "Sanders"
-longitude = -115.969619
 latitude = 48.047863
+longitude = -115.969619
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59844"
+

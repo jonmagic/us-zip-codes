@@ -1,6 +1,8 @@
-zip_code = "72537"
-state = "AR"
 city = "Gamaliel"
 county = "Baxter"
-longitude = -92.325688
 latitude = 36.42957
+longitude = -92.325688
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72537"
+

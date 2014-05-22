@@ -1,6 +1,8 @@
-zip_code = "59330"
-state = "MT"
 city = "Glendive"
 county = "Dawson"
-longitude = -104.774873
 latitude = 47.180623
+longitude = -104.774873
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59330"
+

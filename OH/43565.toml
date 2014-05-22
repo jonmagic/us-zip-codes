@@ -1,6 +1,8 @@
-zip_code = "43565"
-state = "OH"
 city = "Tontogany"
 county = "Wood"
-longitude = -83.747936
 latitude = 41.423102
+longitude = -83.747936
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43565"
+

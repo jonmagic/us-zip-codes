@@ -1,6 +1,8 @@
-zip_code = "19958"
-state = "DE"
 city = "Lewes"
 county = "Sussex"
-longitude = -75.325612
 latitude = 38.65536
+longitude = -75.325612
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19958"
+

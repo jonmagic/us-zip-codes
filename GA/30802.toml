@@ -1,6 +1,8 @@
-zip_code = "30802"
-state = "GA"
 city = "Appling"
 county = "Columbia"
-longitude = -82.312058
 latitude = 33.573999
+longitude = -82.312058
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30802"
+

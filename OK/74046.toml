@@ -1,6 +1,8 @@
-zip_code = "74046"
-state = "OK"
 city = "Milfay"
 county = "Creek"
-longitude = -96.326053
 latitude = 35.901277
+longitude = -96.326053
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74046"
+

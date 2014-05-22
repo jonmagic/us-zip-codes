@@ -1,6 +1,8 @@
-zip_code = "66773"
-state = "KS"
 city = "Scammon"
 county = "Cherokee"
-longitude = -94.809198
 latitude = 37.280945
+longitude = -94.809198
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66773"
+

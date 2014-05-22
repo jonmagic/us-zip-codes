@@ -1,6 +1,8 @@
-zip_code = "07641"
-state = "NJ"
 city = "Haworth"
 county = "Bergen"
-longitude = -73.99358
 latitude = 40.963867
+longitude = -73.99358
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07641"
+

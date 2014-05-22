@@ -1,6 +1,8 @@
-zip_code = "31565"
-state = "GA"
 city = "Waverly"
 county = "Camden"
-longitude = -81.633658
 latitude = 31.069415
+longitude = -81.633658
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31565"
+

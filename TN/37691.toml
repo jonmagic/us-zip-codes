@@ -1,6 +1,8 @@
-zip_code = "37691"
-state = "TN"
 city = "Trade"
 county = "Johnson"
-longitude = -81.75824
 latitude = 36.375484
+longitude = -81.75824
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37691"
+

@@ -1,6 +1,8 @@
-zip_code = "45063"
-state = "OH"
 city = "Shandon"
 county = "Butler"
-longitude = -84.712099
 latitude = 39.325805
+longitude = -84.712099
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45063"
+

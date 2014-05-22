@@ -1,6 +1,8 @@
-zip_code = "26253"
-state = "WV"
 city = "Beverly"
 county = "Randolph"
-longitude = -79.872553
 latitude = 38.836615
+longitude = -79.872553
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26253"
+

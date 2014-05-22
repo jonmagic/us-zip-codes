@@ -1,6 +1,8 @@
-zip_code = "62681"
-state = "IL"
 city = "Rushville"
 county = "Schuyler"
-longitude = -90.543205
 latitude = 40.113259
+longitude = -90.543205
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62681"
+

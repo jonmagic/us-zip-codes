@@ -1,6 +1,8 @@
-zip_code = "07436"
-state = "NJ"
 city = "Oakland"
 county = "Bergen"
-longitude = -74.238623
 latitude = 41.023402
+longitude = -74.238623
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07436"
+

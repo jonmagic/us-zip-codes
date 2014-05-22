@@ -1,6 +1,8 @@
-zip_code = "27576"
-state = "NC"
 city = "Selma"
 county = "Johnston"
-longitude = -78.244459
 latitude = 35.563572
+longitude = -78.244459
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27576"
+

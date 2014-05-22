@@ -1,6 +1,8 @@
-zip_code = "71749"
-state = "AR"
 city = "Junction City"
 county = "Union"
-longitude = -92.768091
 latitude = 33.16579
+longitude = -92.768091
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71749"
+

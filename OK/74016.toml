@@ -1,6 +1,8 @@
-zip_code = "74016"
-state = "OK"
 city = "Chelsea"
 county = "Rogers"
-longitude = -95.435688
 latitude = 36.495713
+longitude = -95.435688
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74016"
+

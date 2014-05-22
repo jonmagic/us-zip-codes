@@ -1,6 +1,8 @@
-zip_code = "72120"
-state = "AR"
 city = "Sherwood"
 county = "Pulaski"
-longitude = -92.230285
 latitude = 34.880689
+longitude = -92.230285
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72120"
+

@@ -1,6 +1,8 @@
-zip_code = "82223"
-state = "WY"
 city = "Lingle"
 county = "Goshen"
-longitude = -104.351273
 latitude = 42.137939
+longitude = -104.351273
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82223"
+

@@ -1,6 +1,8 @@
-zip_code = "97633"
-state = "OR"
 city = "Merrill"
 county = "Klamath"
-longitude = -121.522384
 latitude = 42.055503
+longitude = -121.522384
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97633"
+

@@ -1,6 +1,8 @@
-zip_code = "68633"
-state = "NE"
 city = "Dodge"
 county = "Dodge"
-longitude = -96.675369
 latitude = 41.593378
+longitude = -96.675369
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68633"
+

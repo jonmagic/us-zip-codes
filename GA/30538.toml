@@ -1,6 +1,8 @@
-zip_code = "30538"
-state = "GA"
 city = "Eastanollee"
 county = "Stephens"
-longitude = -83.258748
 latitude = 34.53512
+longitude = -83.258748
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30538"
+

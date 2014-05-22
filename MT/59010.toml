@@ -1,6 +1,8 @@
-zip_code = "59010"
-state = "MT"
 city = "Bighorn"
 county = "Treasure"
-longitude = -107.33875
 latitude = 46.176296
+longitude = -107.33875
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59010"
+

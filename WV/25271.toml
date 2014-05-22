@@ -1,6 +1,8 @@
-zip_code = "25271"
-state = "WV"
 city = "Ripley"
 county = "Jackson"
-longitude = -81.728065
 latitude = 38.791845
+longitude = -81.728065
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25271"
+

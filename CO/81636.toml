@@ -1,6 +1,8 @@
-zip_code = "81636"
-state = "CO"
 city = "Battlement Mesa"
 county = "Garfield"
-longitude = -108.023924
 latitude = 39.430535
+longitude = -108.023924
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81636"
+

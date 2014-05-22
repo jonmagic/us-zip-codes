@@ -1,6 +1,8 @@
-zip_code = "35775"
-state = "AL"
 city = "Valhermoso Springs"
 county = "Morgan"
-longitude = -86.687136
 latitude = 34.541985
+longitude = -86.687136
+state = ""
+state_code_alpha2 = ""
+zip_code = "35775"
+

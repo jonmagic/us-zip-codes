@@ -1,6 +1,8 @@
-zip_code = "24085"
-state = "VA"
 city = "Eagle Rock"
 county = "Botetourt"
-longitude = -79.864047
 latitude = 37.645695
+longitude = -79.864047
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24085"
+

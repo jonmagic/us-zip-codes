@@ -1,6 +1,8 @@
-zip_code = "92333"
-state = "CA"
 city = "Fawnskin"
 county = "San Bernardino"
-longitude = -116.951508
 latitude = 34.258346
+longitude = -116.951508
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92333"
+

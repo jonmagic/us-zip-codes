@@ -1,6 +1,8 @@
-zip_code = "95247"
-state = "CA"
 city = "Murphys"
 county = "Calaveras"
-longitude = -120.454381
 latitude = 38.131035
+longitude = -120.454381
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95247"
+

@@ -1,6 +1,8 @@
-zip_code = "36032"
-state = "AL"
 city = "Fort Deposit"
 county = "Lowndes"
-longitude = -86.608238
 latitude = 32.01285
+longitude = -86.608238
+state = ""
+state_code_alpha2 = ""
+zip_code = "36032"
+

@@ -1,6 +1,8 @@
-zip_code = "49304"
-state = "MI"
 city = "Baldwin"
 county = "Lake"
-longitude = -85.840774
 latitude = 43.929225
+longitude = -85.840774
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49304"
+

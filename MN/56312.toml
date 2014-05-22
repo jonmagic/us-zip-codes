@@ -1,6 +1,8 @@
-zip_code = "56312"
-state = "MN"
 city = "Belgrade"
 county = "Stearns"
-longitude = -94.963049
 latitude = 45.509715
+longitude = -94.963049
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56312"
+

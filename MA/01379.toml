@@ -1,6 +1,8 @@
-zip_code = "01379"
-state = "MA"
 city = "Wendell"
 county = "Franklin"
-longitude = -72.437179
 latitude = 42.581007
+longitude = -72.437179
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01379"
+

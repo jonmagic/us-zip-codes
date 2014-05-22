@@ -1,6 +1,8 @@
-zip_code = "25836"
-state = "WV"
 city = "Eccles"
 county = "Raleigh"
-longitude = -81.263538
 latitude = 37.779232
+longitude = -81.263538
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25836"
+

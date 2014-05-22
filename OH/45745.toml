@@ -1,6 +1,8 @@
-zip_code = "45745"
-state = "OH"
 city = "Lower Salem"
 county = "Washington"
-longitude = -81.39676
 latitude = 39.561107
+longitude = -81.39676
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45745"
+

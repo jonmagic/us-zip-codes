@@ -1,6 +1,8 @@
-zip_code = "77961"
-state = "TX"
 city = "Francitas"
 county = "Jackson"
-longitude = -96.501501
 latitude = 28.961388
+longitude = -96.501501
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77961"
+

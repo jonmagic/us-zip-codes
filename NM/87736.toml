@@ -1,6 +1,8 @@
-zip_code = "87736"
-state = "NM"
 city = "Rainsville"
 county = "Mora"
-longitude = -105.023886
 latitude = 36.008302
+longitude = -105.023886
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87736"
+

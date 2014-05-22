@@ -1,6 +1,8 @@
-zip_code = "18661"
-state = "PA"
 city = "White Haven"
 county = "Luzerne"
-longitude = -75.909158
 latitude = 41.114503
+longitude = -75.909158
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18661"
+

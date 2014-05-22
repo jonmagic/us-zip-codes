@@ -1,6 +1,8 @@
-zip_code = "70551"
-state = "LA"
 city = "Leonville"
 county = "Saint Landry"
-longitude = -91.973736
 latitude = 30.475194
+longitude = -91.973736
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70551"
+

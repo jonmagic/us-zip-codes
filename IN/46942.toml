@@ -1,6 +1,8 @@
-zip_code = "46942"
-state = "IN"
 city = "Lake Cicott"
 county = "Cass"
-longitude = -86.37341
 latitude = 40.736111
+longitude = -86.37341
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46942"
+

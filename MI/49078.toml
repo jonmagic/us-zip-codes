@@ -1,6 +1,8 @@
-zip_code = "49078"
-state = "MI"
 city = "Otsego"
 county = "Allegan"
-longitude = -85.724612
 latitude = 42.486075
+longitude = -85.724612
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49078"
+

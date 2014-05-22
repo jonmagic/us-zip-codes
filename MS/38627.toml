@@ -1,6 +1,8 @@
-zip_code = "38627"
-state = "MS"
 city = "Etta"
 county = "Union"
-longitude = -89.05727
 latitude = 34.432943
+longitude = -89.05727
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38627"
+

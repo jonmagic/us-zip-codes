@@ -1,6 +1,8 @@
-zip_code = "28529"
-state = "NC"
 city = "Grantsboro"
 county = "Pamlico"
-longitude = -76.828552
 latitude = 35.090185
+longitude = -76.828552
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28529"
+

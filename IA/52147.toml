@@ -1,6 +1,8 @@
-zip_code = "52147"
-state = "IA"
 city = "Hawkeye"
 county = "Fayette"
-longitude = -91.929151
 latitude = 42.938391
+longitude = -91.929151
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52147"
+

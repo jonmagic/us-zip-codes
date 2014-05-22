@@ -1,6 +1,8 @@
-zip_code = "58123"
-state = "ND"
 city = "Fargo"
 county = "Cass"
-longitude = -97.229718
 latitude = 46.934596
+longitude = -97.229718
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58123"
+

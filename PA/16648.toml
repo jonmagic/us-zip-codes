@@ -1,6 +1,8 @@
-zip_code = "16648"
-state = "PA"
 city = "Hollidaysburg"
 county = "Blair"
-longitude = -78.364965
 latitude = 40.432059
+longitude = -78.364965
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16648"
+

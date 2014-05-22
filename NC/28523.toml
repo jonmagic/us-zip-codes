@@ -1,6 +1,8 @@
-zip_code = "28523"
-state = "NC"
 city = "Cove City"
 county = "Craven"
-longitude = -77.304943
 latitude = 35.229878
+longitude = -77.304943
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28523"
+

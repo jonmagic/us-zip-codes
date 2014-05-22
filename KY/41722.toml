@@ -1,6 +1,8 @@
-zip_code = "41722"
-state = "KY"
 city = "Bulan"
 county = "Perry"
-longitude = -83.156088
 latitude = 37.315033
+longitude = -83.156088
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41722"
+

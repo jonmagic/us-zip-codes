@@ -1,6 +1,8 @@
-zip_code = "67738"
-state = "KS"
 city = "Grinnell"
 county = "Gove"
-longitude = -100.631872
 latitude = 39.125891
+longitude = -100.631872
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67738"
+

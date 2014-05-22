@@ -1,6 +1,8 @@
-zip_code = "66118"
-state = "KS"
 city = "Kansas City"
 county = "Wyandotte"
-longitude = -94.614434
 latitude = 39.101054
+longitude = -94.614434
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66118"
+

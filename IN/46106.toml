@@ -1,6 +1,8 @@
-zip_code = "46106"
-state = "IN"
 city = "Bargersville"
 county = "Johnson"
-longitude = -86.102271
 latitude = 39.489652
+longitude = -86.102271
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46106"
+

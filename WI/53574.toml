@@ -1,6 +1,8 @@
-zip_code = "53574"
-state = "WI"
 city = "New Glarus"
 county = "Green"
-longitude = -89.651287
 latitude = 42.816273
+longitude = -89.651287
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53574"
+

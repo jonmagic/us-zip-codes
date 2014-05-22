@@ -1,6 +1,8 @@
-zip_code = "00754"
-state = "PR"
 city = "San Lorenzo"
 county = "San Lorenzo"
-longitude = -65.962389
 latitude = 18.187584
+longitude = -65.962389
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00754"
+

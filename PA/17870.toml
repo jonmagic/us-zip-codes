@@ -1,6 +1,8 @@
-zip_code = "17870"
-state = "PA"
 city = "Selinsgrove"
 county = "Snyder"
-longitude = -76.857577
 latitude = 40.825914
+longitude = -76.857577
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17870"
+

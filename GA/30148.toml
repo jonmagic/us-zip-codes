@@ -1,6 +1,8 @@
-zip_code = "30148"
-state = "GA"
 city = "Marble Hill"
 county = "Pickens"
-longitude = -84.302964
 latitude = 34.439829
+longitude = -84.302964
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30148"
+

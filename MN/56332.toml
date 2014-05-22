@@ -1,6 +1,8 @@
-zip_code = "56332"
-state = "MN"
 city = "Garfield"
 county = "Douglas"
-longitude = -95.506622
 latitude = 45.984672
+longitude = -95.506622
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56332"
+

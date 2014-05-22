@@ -1,6 +1,8 @@
-zip_code = "90262"
-state = "CA"
 city = "Lynwood"
 county = "Los Angeles"
-longitude = -118.202954
 latitude = 33.924538
+longitude = -118.202954
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90262"
+

@@ -1,6 +1,8 @@
-zip_code = "20132"
-state = "VA"
 city = "Purcellville"
 county = "Loudoun"
-longitude = -77.734232
 latitude = 39.143614
+longitude = -77.734232
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20132"
+

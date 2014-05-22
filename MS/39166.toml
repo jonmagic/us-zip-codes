@@ -1,6 +1,8 @@
-zip_code = "39166"
-state = "MS"
 city = "Silver City"
 county = "Humphreys"
-longitude = -90.490483
 latitude = 33.094729
+longitude = -90.490483
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39166"
+

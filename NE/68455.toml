@@ -1,6 +1,8 @@
-zip_code = "68455"
-state = "NE"
 city = "Union"
 county = "Cass"
-longitude = -95.903802
 latitude = 40.831238
+longitude = -95.903802
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68455"
+

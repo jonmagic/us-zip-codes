@@ -1,6 +1,8 @@
-zip_code = "48411"
-state = "MI"
 city = "Atlas"
 county = "Genesee"
-longitude = -83.536923
 latitude = 42.940019
+longitude = -83.536923
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48411"
+

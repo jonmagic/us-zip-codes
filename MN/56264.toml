@@ -1,6 +1,8 @@
-zip_code = "56264"
-state = "MN"
 city = "Minneota"
 county = "Lyon"
-longitude = -95.954362
 latitude = 44.52307
+longitude = -95.954362
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56264"
+

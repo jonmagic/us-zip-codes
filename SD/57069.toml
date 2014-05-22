@@ -1,6 +1,8 @@
-zip_code = "57069"
-state = "SD"
 city = "Vermillion"
 county = "Clay"
-longitude = -96.973318
 latitude = 42.854124
+longitude = -96.973318
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57069"
+

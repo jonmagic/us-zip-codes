@@ -1,6 +1,8 @@
-zip_code = "81323"
-state = "CO"
 city = "Dolores"
 county = "Montezuma"
-longitude = -108.35245
 latitude = 37.469333
+longitude = -108.35245
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81323"
+

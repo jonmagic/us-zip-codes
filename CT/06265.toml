@@ -1,6 +1,8 @@
-zip_code = "06265"
-state = "CT"
 city = "South Willington"
 county = "Tolland"
-longitude = -72.308779
 latitude = 41.81152
+longitude = -72.308779
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06265"
+

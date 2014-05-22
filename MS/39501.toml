@@ -1,6 +1,8 @@
-zip_code = "39501"
-state = "MS"
 city = "Gulfport"
 county = "Harrison"
-longitude = -89.064103
 latitude = 30.396277
+longitude = -89.064103
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39501"
+

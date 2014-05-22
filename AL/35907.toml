@@ -1,6 +1,8 @@
-zip_code = "35907"
-state = "AL"
 city = "Gadsden"
 county = "Etowah"
-longitude = -85.973173
 latitude = 33.959647
+longitude = -85.973173
+state = ""
+state_code_alpha2 = ""
+zip_code = "35907"
+

@@ -1,6 +1,8 @@
-zip_code = "35442"
-state = "AL"
 city = "Aliceville"
 county = "Pickens"
-longitude = -88.061517
 latitude = 33.236962
+longitude = -88.061517
+state = ""
+state_code_alpha2 = ""
+zip_code = "35442"
+

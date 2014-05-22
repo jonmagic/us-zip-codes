@@ -1,6 +1,8 @@
-zip_code = "23423"
-state = "VA"
 city = "Quinby"
 county = "Accomack"
-longitude = -75.74122
 latitude = 37.542324
+longitude = -75.74122
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23423"
+

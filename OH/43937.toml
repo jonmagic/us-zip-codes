@@ -1,6 +1,8 @@
-zip_code = "43937"
-state = "OH"
 city = "Maynard"
 county = "Belmont"
-longitude = -80.877264
 latitude = 40.130167
+longitude = -80.877264
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43937"
+

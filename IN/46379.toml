@@ -1,6 +1,8 @@
-zip_code = "46379"
-state = "IN"
 city = "Sumava Resorts"
 county = "Newton"
-longitude = -87.43355
 latitude = 41.167119
+longitude = -87.43355
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46379"
+

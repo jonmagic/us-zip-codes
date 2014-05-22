@@ -1,6 +1,8 @@
-zip_code = "25674"
-state = "WV"
 city = "Kermit"
 county = "Mingo"
-longitude = -82.404906
 latitude = 37.827155
+longitude = -82.404906
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25674"
+

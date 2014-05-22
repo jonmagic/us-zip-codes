@@ -1,6 +1,8 @@
-zip_code = "11726"
-state = "NY"
 city = "Copiague"
 county = "Suffolk"
-longitude = -73.394762
 latitude = 40.68022
+longitude = -73.394762
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11726"
+

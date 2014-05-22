@@ -1,6 +1,8 @@
-zip_code = "84657"
-state = "UT"
 city = "Sigurd"
 county = "Sevier"
-longitude = -111.973737
 latitude = 38.848233
+longitude = -111.973737
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84657"
+

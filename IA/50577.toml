@@ -1,6 +1,8 @@
-zip_code = "50577"
-state = "IA"
 city = "Renwick"
 county = "Humboldt"
-longitude = -94.1314
 latitude = 42.844755
+longitude = -94.1314
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50577"
+

@@ -1,6 +1,8 @@
-zip_code = "45304"
-state = "OH"
 city = "Arcanum"
 county = "Darke"
-longitude = -84.539928
 latitude = 40.126915
+longitude = -84.539928
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45304"
+

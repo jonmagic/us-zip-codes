@@ -1,6 +1,8 @@
-zip_code = "24402"
-state = "VA"
 city = "Staunton"
 county = "Staunton City"
-longitude = -79.062858
 latitude = 38.159275
+longitude = -79.062858
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24402"
+

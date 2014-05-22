@@ -1,6 +1,8 @@
-zip_code = "28016"
-state = "NC"
 city = "Bessemer City"
 county = "Gaston"
-longitude = -81.234751
 latitude = 35.319564
+longitude = -81.234751
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28016"
+

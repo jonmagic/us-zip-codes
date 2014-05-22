@@ -1,6 +1,8 @@
-zip_code = "63385"
-state = "MO"
 city = "Wentzville"
 county = "Saint Charles"
-longitude = -90.852228
 latitude = 38.79067
+longitude = -90.852228
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63385"
+

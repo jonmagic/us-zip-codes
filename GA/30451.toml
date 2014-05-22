@@ -1,6 +1,8 @@
-zip_code = "30451"
-state = "GA"
 city = "Pulaski"
 county = "Candler"
-longitude = -82.086658
 latitude = 32.414349
+longitude = -82.086658
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30451"
+

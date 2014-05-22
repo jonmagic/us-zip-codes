@@ -1,6 +1,8 @@
-zip_code = "29324"
-state = "SC"
 city = "Clifton"
 county = "Spartanburg"
-longitude = -81.83271
 latitude = 34.99056
+longitude = -81.83271
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29324"
+

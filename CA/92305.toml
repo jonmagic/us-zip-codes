@@ -1,6 +1,8 @@
-zip_code = "92305"
-state = "CA"
 city = "Angelus Oaks"
 county = "San Bernardino"
-longitude = -116.512262
 latitude = 34.153818
+longitude = -116.512262
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92305"
+

@@ -1,6 +1,8 @@
-zip_code = "57007"
-state = "SD"
 city = "Brookings"
 county = "Brookings"
-longitude = -96.790705
 latitude = 44.369696
+longitude = -96.790705
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57007"
+

@@ -1,6 +1,8 @@
-zip_code = "29172"
-state = "SC"
 city = "West Columbia"
 county = "Lexington"
-longitude = -81.090419
 latitude = 33.901578
+longitude = -81.090419
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29172"
+

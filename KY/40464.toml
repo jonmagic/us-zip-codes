@@ -1,6 +1,8 @@
-zip_code = "40464"
-state = "KY"
 city = "Parksville"
 county = "Boyle"
-longitude = -84.924963
 latitude = 37.571105
+longitude = -84.924963
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40464"
+

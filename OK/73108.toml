@@ -1,6 +1,8 @@
-zip_code = "73108"
-state = "OK"
 city = "Oklahoma City"
 county = "Oklahoma"
-longitude = -97.566497
 latitude = 35.447559
+longitude = -97.566497
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73108"
+

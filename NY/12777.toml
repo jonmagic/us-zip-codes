@@ -1,6 +1,8 @@
-zip_code = "12777"
-state = "NY"
 city = "Forestburgh"
 county = "Sullivan"
-longitude = -74.603366
 latitude = 41.552911
+longitude = -74.603366
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12777"
+

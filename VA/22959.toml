@@ -1,6 +1,8 @@
-zip_code = "22959"
-state = "VA"
 city = "North Garden"
 county = "Albemarle"
-longitude = -78.63511
 latitude = 37.933631
+longitude = -78.63511
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22959"
+

@@ -1,6 +1,8 @@
-zip_code = "18926"
-state = "PA"
 city = "Gardenville"
 county = "Bucks"
-longitude = -75.098468
 latitude = 40.39473
+longitude = -75.098468
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18926"
+

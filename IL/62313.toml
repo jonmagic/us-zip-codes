@@ -1,6 +1,8 @@
-zip_code = "62313"
-state = "IL"
 city = "Basco"
 county = "Hancock"
-longitude = -91.240855
 latitude = 40.31943
+longitude = -91.240855
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62313"
+

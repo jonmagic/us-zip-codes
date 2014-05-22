@@ -1,6 +1,8 @@
-zip_code = "53079"
-state = "WI"
 city = "Saint Cloud"
 county = "Fond Du Lac"
-longitude = -88.201679
 latitude = 43.797531
+longitude = -88.201679
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53079"
+

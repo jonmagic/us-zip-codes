@@ -1,6 +1,8 @@
-zip_code = "49427"
-state = "MI"
 city = "Jamestown"
 county = "Ottawa"
-longitude = -85.844378
 latitude = 42.826676
+longitude = -85.844378
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49427"
+

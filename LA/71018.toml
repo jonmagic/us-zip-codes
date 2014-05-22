@@ -1,6 +1,8 @@
-zip_code = "71018"
-state = "LA"
 city = "Cotton Valley"
 county = "Webster"
-longitude = -93.407704
 latitude = 32.801138
+longitude = -93.407704
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71018"
+

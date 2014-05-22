@@ -1,6 +1,8 @@
-zip_code = "43934"
-state = "OH"
 city = "Lansing"
 county = "Belmont"
-longitude = -80.800316
 latitude = 40.079975
+longitude = -80.800316
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43934"
+

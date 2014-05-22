@@ -1,6 +1,8 @@
-zip_code = "63338"
-state = "MO"
 city = "Cottleville"
 county = "Saint Charles"
-longitude = -90.536784
 latitude = 38.750949
+longitude = -90.536784
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63338"
+

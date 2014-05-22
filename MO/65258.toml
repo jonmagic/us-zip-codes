@@ -1,6 +1,8 @@
-zip_code = "65258"
-state = "MO"
 city = "Holliday"
 county = "Monroe"
-longitude = -92.149089
 latitude = 39.488707
+longitude = -92.149089
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65258"
+

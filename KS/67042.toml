@@ -1,6 +1,8 @@
-zip_code = "67042"
-state = "KS"
 city = "El Dorado"
 county = "Butler"
-longitude = -96.865969
 latitude = 37.830491
+longitude = -96.865969
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67042"
+

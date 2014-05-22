@@ -1,6 +1,8 @@
-zip_code = "24127"
-state = "VA"
 city = "New Castle"
 county = "Craig"
-longitude = -80.138591
 latitude = 37.498957
+longitude = -80.138591
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24127"
+

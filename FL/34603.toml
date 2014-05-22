@@ -1,6 +1,8 @@
-zip_code = "34603"
-state = "FL"
 city = "Brooksville"
 county = "Hernando"
-longitude = -82.416515
 latitude = 28.564167
+longitude = -82.416515
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34603"
+

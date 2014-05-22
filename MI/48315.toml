@@ -1,6 +1,8 @@
-zip_code = "48315"
-state = "MI"
 city = "Utica"
 county = "Macomb"
-longitude = -82.998811
 latitude = 42.671025
+longitude = -82.998811
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48315"
+

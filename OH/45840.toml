@@ -1,6 +1,8 @@
-zip_code = "45840"
-state = "OH"
 city = "Findlay"
 county = "Hancock"
-longitude = -83.664786
 latitude = 41.015219
+longitude = -83.664786
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45840"
+

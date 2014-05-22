@@ -1,6 +1,8 @@
-zip_code = "61850"
-state = "IL"
 city = "Indianola"
 county = "Vermilion"
-longitude = -87.730068
 latitude = 39.939685
+longitude = -87.730068
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61850"
+

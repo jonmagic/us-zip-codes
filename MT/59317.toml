@@ -1,6 +1,8 @@
-zip_code = "59317"
-state = "MT"
 city = "Broadus"
 county = "Powder River"
-longitude = -105.256813
 latitude = 45.25719
+longitude = -105.256813
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59317"
+

@@ -1,6 +1,8 @@
-zip_code = "07054"
-state = "NJ"
 city = "Parsippany"
 county = "Morris"
-longitude = -74.407706
 latitude = 40.852118
+longitude = -74.407706
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07054"
+

@@ -1,6 +1,8 @@
-zip_code = "54960"
-state = "WI"
 city = "Neshkoro"
 county = "Marquette"
-longitude = -89.310982
 latitude = 43.922097
+longitude = -89.310982
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54960"
+

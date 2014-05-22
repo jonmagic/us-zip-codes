@@ -1,6 +1,8 @@
-zip_code = "56033"
-state = "MN"
 city = "Frost"
 county = "Faribault"
-longitude = -93.908248
 latitude = 43.564879
+longitude = -93.908248
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56033"
+

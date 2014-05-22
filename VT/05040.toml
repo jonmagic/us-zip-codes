@@ -1,6 +1,8 @@
-zip_code = "05040"
-state = "VT"
 city = "East Corinth"
 county = "Orange"
-longitude = -72.210962
 latitude = 44.077918
+longitude = -72.210962
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05040"
+

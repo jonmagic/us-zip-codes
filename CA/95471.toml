@@ -1,6 +1,8 @@
-zip_code = "95471"
-state = "CA"
 city = "Rio Nido"
 county = "Sonoma"
-longitude = -122.982142
 latitude = 38.523472
+longitude = -122.982142
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95471"
+

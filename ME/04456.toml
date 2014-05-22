@@ -1,6 +1,8 @@
-zip_code = "04456"
-state = "ME"
 city = "Levant"
 county = "Penobscot"
-longitude = -69.011636
 latitude = 44.871231
+longitude = -69.011636
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04456"
+

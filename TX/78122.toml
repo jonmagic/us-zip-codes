@@ -1,6 +1,8 @@
-zip_code = "78122"
-state = "TX"
 city = "Leesville"
 county = "Gonzales"
-longitude = -97.741358
 latitude = 29.407188
+longitude = -97.741358
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78122"
+

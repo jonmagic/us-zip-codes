@@ -1,6 +1,8 @@
-zip_code = "48621"
-state = "MI"
 city = "Fairview"
 county = "Oscoda"
-longitude = -84.011959
 latitude = 44.689286
+longitude = -84.011959
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48621"
+

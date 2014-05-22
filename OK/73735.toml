@@ -1,6 +1,8 @@
-zip_code = "73735"
-state = "OK"
 city = "Drummond"
 county = "Garfield"
-longitude = -98.04182
 latitude = 36.307449
+longitude = -98.04182
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73735"
+

@@ -1,6 +1,8 @@
-zip_code = "13108"
-state = "NY"
 city = "Marcellus"
 county = "Onondaga"
-longitude = -76.329799
 latitude = 42.948057
+longitude = -76.329799
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13108"
+

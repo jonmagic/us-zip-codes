@@ -1,6 +1,8 @@
-zip_code = "30054"
-state = "GA"
 city = "Oxford"
 county = "Newton"
-longitude = -83.874013
 latitude = 33.670567
+longitude = -83.874013
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30054"
+

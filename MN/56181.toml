@@ -1,6 +1,8 @@
-zip_code = "56181"
-state = "MN"
 city = "Welcome"
 county = "Martin"
-longitude = -94.673433
 latitude = 43.66727
+longitude = -94.673433
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56181"
+

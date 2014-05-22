@@ -1,6 +1,8 @@
-zip_code = "45041"
-state = "OH"
 city = "Miamitown"
 county = "Hamilton"
-longitude = -84.708517
 latitude = 39.176088
+longitude = -84.708517
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45041"
+

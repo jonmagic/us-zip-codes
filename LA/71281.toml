@@ -1,6 +1,8 @@
-zip_code = "71281"
-state = "LA"
 city = "Swartz"
 county = "Ouachita"
-longitude = -92.159354
 latitude = 32.490777
+longitude = -92.159354
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71281"
+

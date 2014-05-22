@@ -1,6 +1,8 @@
-zip_code = "13628"
-state = "NY"
 city = "Deferiet"
 county = "Jefferson"
-longitude = -75.798319
 latitude = 43.885519
+longitude = -75.798319
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13628"
+

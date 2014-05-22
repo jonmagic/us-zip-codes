@@ -1,6 +1,8 @@
-zip_code = "99922"
-state = "AK"
 city = "Hydaburg"
 county = "Prince Wales Ketchikan"
-longitude = -132.825903
 latitude = 55.208706
+longitude = -132.825903
+state = ""
+state_code_alpha2 = ""
+zip_code = "99922"
+

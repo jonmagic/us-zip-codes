@@ -1,6 +1,8 @@
-zip_code = "46171"
-state = "IN"
 city = "Reelsville"
 county = "Putnam"
-longitude = -86.955955
 latitude = 39.543141
+longitude = -86.955955
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46171"
+

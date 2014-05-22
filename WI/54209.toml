@@ -1,6 +1,8 @@
-zip_code = "54209"
-state = "WI"
 city = "Egg Harbor"
 county = "Door"
-longitude = -87.266031
 latitude = 45.012261
+longitude = -87.266031
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54209"
+

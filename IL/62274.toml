@@ -1,6 +1,8 @@
-zip_code = "62274"
-state = "IL"
 city = "Pinckneyville"
 county = "Perry"
-longitude = -89.386589
 latitude = 38.083297
+longitude = -89.386589
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62274"
+

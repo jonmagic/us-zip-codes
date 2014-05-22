@@ -1,6 +1,8 @@
-zip_code = "96786"
-state = "HI"
 city = "Wahiawa"
 county = "Honolulu"
-longitude = -158.047735
 latitude = 21.5324
+longitude = -158.047735
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96786"
+

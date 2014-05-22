@@ -1,6 +1,8 @@
-zip_code = "40813"
-state = "KY"
 city = "Calvin"
 county = "Bell"
-longitude = -83.64046
 latitude = 36.714629
+longitude = -83.64046
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40813"
+

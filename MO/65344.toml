@@ -1,6 +1,8 @@
-zip_code = "65344"
-state = "MO"
 city = "Miami"
 county = "Saline"
-longitude = -93.226114
 latitude = 39.321402
+longitude = -93.226114
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65344"
+

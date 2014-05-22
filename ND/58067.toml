@@ -1,6 +1,8 @@
-zip_code = "58067"
-state = "ND"
 city = "Rutland"
 county = "Sargent"
-longitude = -97.431104
 latitude = 46.036974
+longitude = -97.431104
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58067"
+

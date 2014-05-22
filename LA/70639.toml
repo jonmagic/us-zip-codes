@@ -1,6 +1,8 @@
-zip_code = "70639"
-state = "LA"
 city = "Evans"
 county = "Vernon"
-longitude = -93.520348
 latitude = 30.96842
+longitude = -93.520348
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70639"
+

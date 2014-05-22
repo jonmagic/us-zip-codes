@@ -1,6 +1,8 @@
-zip_code = "12047"
-state = "NY"
 city = "Cohoes"
 county = "Albany"
-longitude = -73.739349
 latitude = 42.647039
+longitude = -73.739349
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12047"
+

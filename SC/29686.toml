@@ -1,6 +1,8 @@
-zip_code = "29686"
-state = "SC"
 city = "Tamassee"
 county = "Oconee"
-longitude = -83.037482
 latitude = 34.897008
+longitude = -83.037482
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29686"
+

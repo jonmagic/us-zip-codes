@@ -1,6 +1,8 @@
-zip_code = "77488"
-state = "TX"
 city = "Wharton"
 county = "Wharton"
-longitude = -96.091123
 latitude = 29.323344
+longitude = -96.091123
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77488"
+

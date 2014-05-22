@@ -1,6 +1,8 @@
-zip_code = "49085"
-state = "MI"
 city = "Saint Joseph"
 county = "Berrien"
-longitude = -86.533144
 latitude = 41.977412
+longitude = -86.533144
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49085"
+

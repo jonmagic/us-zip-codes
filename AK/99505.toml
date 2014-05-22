@@ -1,6 +1,8 @@
-zip_code = "99505"
-state = "AK"
 city = "Fort Richardson"
 county = "Anchorage"
-longitude = -149.690318
 latitude = 61.259092
+longitude = -149.690318
+state = ""
+state_code_alpha2 = ""
+zip_code = "99505"
+

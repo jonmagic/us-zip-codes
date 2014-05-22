@@ -1,6 +1,8 @@
-zip_code = "68666"
-state = "NE"
 city = "Stromsburg"
 county = "Polk"
-longitude = -97.591433
 latitude = 41.114446
+longitude = -97.591433
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68666"
+

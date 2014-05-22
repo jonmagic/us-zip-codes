@@ -1,6 +1,8 @@
-zip_code = "45067"
-state = "OH"
 city = "Trenton"
 county = "Butler"
-longitude = -84.489895
 latitude = 39.48332
+longitude = -84.489895
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45067"
+

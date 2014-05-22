@@ -1,6 +1,8 @@
-zip_code = "30710"
-state = "GA"
 city = "Cohutta"
 county = "Whitfield"
-longitude = -84.919498
 latitude = 34.867821
+longitude = -84.919498
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30710"
+

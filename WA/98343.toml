@@ -1,6 +1,8 @@
-zip_code = "98343"
-state = "WA"
 city = "Joyce"
 county = "Clallam"
-longitude = -123.872972
 latitude = 48.18315
+longitude = -123.872972
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98343"
+

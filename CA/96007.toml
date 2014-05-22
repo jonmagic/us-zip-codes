@@ -1,6 +1,8 @@
-zip_code = "96007"
-state = "CA"
 city = "Anderson"
 county = "Shasta"
-longitude = -122.278404
 latitude = 40.469324
+longitude = -122.278404
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96007"
+

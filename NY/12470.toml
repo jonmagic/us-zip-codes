@@ -1,6 +1,8 @@
-zip_code = "12470"
-state = "NY"
 city = "Purling"
 county = "Greene"
-longitude = -74.018409
 latitude = 42.282915
+longitude = -74.018409
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12470"
+

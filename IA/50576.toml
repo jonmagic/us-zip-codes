@@ -1,6 +1,8 @@
-zip_code = "50576"
-state = "IA"
 city = "Rembrandt"
 county = "Buena Vista"
-longitude = -95.141444
 latitude = 42.825241
+longitude = -95.141444
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50576"
+

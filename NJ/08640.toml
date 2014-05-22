@@ -1,6 +1,8 @@
-zip_code = "08640"
-state = "NJ"
 city = "Trenton"
 county = "Burlington"
-longitude = -74.605198
 latitude = 40.009789
+longitude = -74.605198
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08640"
+

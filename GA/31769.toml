@@ -1,6 +1,8 @@
-zip_code = "31769"
-state = "GA"
 city = "Mystic"
 county = "Irwin"
-longitude = -83.249754
 latitude = 31.620866
+longitude = -83.249754
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31769"
+

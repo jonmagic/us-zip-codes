@@ -1,6 +1,8 @@
-zip_code = "53088"
-state = "WI"
 city = "Stockbridge"
 county = "Calumet"
-longitude = -88.312404
 latitude = 44.080455
+longitude = -88.312404
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53088"
+

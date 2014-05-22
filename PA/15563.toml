@@ -1,6 +1,8 @@
-zip_code = "15563"
-state = "PA"
 city = "Stoystown"
 county = "Somerset"
-longitude = -78.965817
 latitude = 40.094802
+longitude = -78.965817
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15563"
+

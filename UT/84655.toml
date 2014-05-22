@@ -1,6 +1,8 @@
-zip_code = "84655"
-state = "UT"
 city = "Santaquin"
 county = "Utah"
-longitude = -111.812973
 latitude = 40.003254
+longitude = -111.812973
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84655"
+

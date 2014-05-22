@@ -1,6 +1,8 @@
-zip_code = "38336"
-state = "TN"
 city = "Fruitvale"
 county = "Crockett"
-longitude = -89.032672
 latitude = 35.748414
+longitude = -89.032672
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38336"
+

@@ -1,6 +1,8 @@
-zip_code = "65036"
-state = "MO"
 city = "Gasconade"
 county = "Gasconade"
-longitude = -91.559163
 latitude = 38.670303
+longitude = -91.559163
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65036"
+

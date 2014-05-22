@@ -1,6 +1,8 @@
-zip_code = "12177"
-state = "NY"
 city = "Tribes Hill"
 county = "Montgomery"
-longitude = -74.296985
 latitude = 42.95002
+longitude = -74.296985
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12177"
+

@@ -1,6 +1,8 @@
-zip_code = "27874"
-state = "NC"
 city = "Scotland Neck"
 county = "Halifax"
-longitude = -77.608355
 latitude = 36.23245
+longitude = -77.608355
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27874"
+

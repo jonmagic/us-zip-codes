@@ -1,6 +1,8 @@
-zip_code = "68420"
-state = "NE"
 city = "Pawnee City"
 county = "Pawnee"
-longitude = -96.151758
 latitude = 40.111565
+longitude = -96.151758
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68420"
+

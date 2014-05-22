@@ -1,6 +1,8 @@
-zip_code = "49066"
-state = "MI"
 city = "Leonidas"
 county = "Saint Joseph"
-longitude = -85.35224
 latitude = 42.028161
+longitude = -85.35224
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49066"
+

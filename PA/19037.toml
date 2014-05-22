@@ -1,6 +1,8 @@
-zip_code = "19037"
-state = "PA"
 city = "Glen Riddle Lima"
 county = "Delaware"
-longitude = -75.405987
 latitude = 39.934047
+longitude = -75.405987
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19037"
+

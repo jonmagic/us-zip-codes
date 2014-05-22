@@ -1,6 +1,8 @@
-zip_code = "74523"
-state = "OK"
 city = "Antlers"
 county = "Pushmataha"
-longitude = -95.626306
 latitude = 34.215441
+longitude = -95.626306
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74523"
+

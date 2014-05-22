@@ -1,6 +1,8 @@
-zip_code = "68752"
-state = "NE"
 city = "Meadow Grove"
 county = "Madison"
-longitude = -97.782829
 latitude = 42.034395
+longitude = -97.782829
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68752"
+

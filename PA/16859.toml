@@ -1,6 +1,8 @@
-zip_code = "16859"
-state = "PA"
 city = "Moshannon"
 county = "Centre"
-longitude = -78.025894
 latitude = 40.900499
+longitude = -78.025894
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16859"
+

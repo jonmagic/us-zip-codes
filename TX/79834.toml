@@ -1,6 +1,8 @@
-zip_code = "79834"
-state = "TX"
 city = "Big Bend National Park"
 county = "Brewster"
-longitude = -103.060715
 latitude = 29.818742
+longitude = -103.060715
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79834"
+

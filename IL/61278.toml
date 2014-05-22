@@ -1,6 +1,8 @@
-zip_code = "61278"
-state = "IL"
 city = "Rapids City"
 county = "Rock Island"
-longitude = -90.343228
 latitude = 41.585883
+longitude = -90.343228
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61278"
+

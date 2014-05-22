@@ -1,6 +1,8 @@
-zip_code = "00766"
-state = "PR"
 city = "Villalba"
 county = "Villalba"
-longitude = -66.496607
 latitude = 18.120519
+longitude = -66.496607
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00766"
+

@@ -1,6 +1,8 @@
-zip_code = "76364"
-state = "TX"
 city = "Harrold"
 county = "Wilbarger"
-longitude = -99.033787
 latitude = 34.118913
+longitude = -99.033787
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76364"
+

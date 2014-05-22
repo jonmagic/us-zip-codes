@@ -1,6 +1,8 @@
-zip_code = "53540"
-state = "WI"
 city = "Gotham"
 county = "Richland"
-longitude = -90.261804
 latitude = 43.234509
+longitude = -90.261804
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53540"
+

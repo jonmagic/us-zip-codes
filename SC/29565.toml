@@ -1,6 +1,8 @@
-zip_code = "29565"
-state = "SC"
 city = "Latta"
 county = "Dillon"
-longitude = -79.478122
 latitude = 34.384337
+longitude = -79.478122
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29565"
+

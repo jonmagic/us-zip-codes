@@ -1,6 +1,8 @@
-zip_code = "00681"
-state = "PR"
 city = "Mayaguez"
 county = "Mayaguez"
-longitude = -67.508068
 latitude = 18.219023
+longitude = -67.508068
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00681"
+

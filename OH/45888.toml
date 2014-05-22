@@ -1,6 +1,8 @@
-zip_code = "45888"
-state = "OH"
 city = "Uniopolis"
 county = "Auglaize"
-longitude = -84.086022
 latitude = 40.602259
+longitude = -84.086022
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45888"
+

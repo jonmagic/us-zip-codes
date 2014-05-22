@@ -1,6 +1,8 @@
-zip_code = "42021"
-state = "KY"
 city = "Arlington"
 county = "Carlisle"
-longitude = -89.009178
 latitude = 36.789033
+longitude = -89.009178
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42021"
+

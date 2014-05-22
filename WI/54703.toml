@@ -1,6 +1,8 @@
-zip_code = "54703"
-state = "WI"
 city = "Eau Claire"
 county = "Eau Claire"
-longitude = -91.477897
 latitude = 44.80456
+longitude = -91.477897
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54703"
+

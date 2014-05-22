@@ -1,6 +1,8 @@
-zip_code = "43149"
-state = "OH"
 city = "Rockbridge"
 county = "Hocking"
-longitude = -82.606994
 latitude = 39.525792
+longitude = -82.606994
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43149"
+

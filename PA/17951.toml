@@ -1,6 +1,8 @@
-zip_code = "17951"
-state = "PA"
 city = "Mar Lin"
 county = "Schuylkill"
-longitude = -76.238725
 latitude = 40.682985
+longitude = -76.238725
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17951"
+

@@ -1,6 +1,8 @@
-zip_code = "52756"
-state = "IA"
 city = "Long Grove"
 county = "Scott"
-longitude = -90.540219
 latitude = 41.726242
+longitude = -90.540219
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52756"
+

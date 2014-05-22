@@ -1,6 +1,8 @@
-zip_code = "08360"
-state = "NJ"
 city = "Vineland"
 county = "Cumberland"
-longitude = -75.025676
 latitude = 39.392671
+longitude = -75.025676
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08360"
+

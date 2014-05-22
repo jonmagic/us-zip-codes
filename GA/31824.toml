@@ -1,6 +1,8 @@
-zip_code = "31824"
-state = "GA"
 city = "Preston"
 county = "Webster"
-longitude = -84.543517
 latitude = 32.076133
+longitude = -84.543517
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31824"
+

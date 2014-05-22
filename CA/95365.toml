@@ -1,6 +1,8 @@
-zip_code = "95365"
-state = "CA"
 city = "Planada"
 county = "Merced"
-longitude = -120.317156
 latitude = 37.289085
+longitude = -120.317156
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95365"
+

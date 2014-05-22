@@ -1,6 +1,8 @@
-zip_code = "78154"
-state = "TX"
 city = "Schertz"
 county = "Guadalupe"
-longitude = -98.277839
 latitude = 29.578978
+longitude = -98.277839
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78154"
+

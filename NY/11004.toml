@@ -1,6 +1,8 @@
-zip_code = "11004"
-state = "NY"
 city = "Glen Oaks"
 county = "Queens"
-longitude = -73.711159
 latitude = 40.745263
+longitude = -73.711159
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11004"
+

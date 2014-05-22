@@ -1,6 +1,8 @@
-zip_code = "55071"
-state = "MN"
 city = "Saint Paul Park"
 county = "Washington"
-longitude = -92.989204
 latitude = 44.822826
+longitude = -92.989204
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55071"
+

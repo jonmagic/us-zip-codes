@@ -1,6 +1,8 @@
-zip_code = "43964"
-state = "OH"
 city = "Toronto"
 county = "Jefferson"
-longitude = -80.670057
 latitude = 40.477049
+longitude = -80.670057
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43964"
+

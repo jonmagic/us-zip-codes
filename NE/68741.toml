@@ -1,6 +1,8 @@
-zip_code = "68741"
-state = "NE"
 city = "Hubbard"
 county = "Dakota"
-longitude = -96.603097
 latitude = 42.357595
+longitude = -96.603097
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68741"
+

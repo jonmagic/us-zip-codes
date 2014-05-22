@@ -1,6 +1,8 @@
-zip_code = "70633"
-state = "LA"
 city = "Dequincy"
 county = "Calcasieu"
-longitude = -93.268731
 latitude = 30.358944
+longitude = -93.268731
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70633"
+

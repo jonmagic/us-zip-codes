@@ -1,6 +1,8 @@
-zip_code = "28369"
-state = "NC"
 city = "Orrum"
 county = "Robeson"
-longitude = -79.034509
 latitude = 34.473204
+longitude = -79.034509
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28369"
+

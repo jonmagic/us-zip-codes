@@ -1,6 +1,8 @@
-zip_code = "48130"
-state = "MI"
 city = "Dexter"
 county = "Washtenaw"
-longitude = -83.898295
 latitude = 42.353887
+longitude = -83.898295
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48130"
+

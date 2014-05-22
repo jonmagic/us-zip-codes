@@ -1,6 +1,8 @@
-zip_code = "02338"
-state = "MA"
 city = "Halifax"
 county = "Plymouth"
-longitude = -70.860578
 latitude = 41.988351
+longitude = -70.860578
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02338"
+

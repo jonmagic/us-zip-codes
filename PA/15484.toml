@@ -1,6 +1,8 @@
-zip_code = "15484"
-state = "PA"
 city = "Uledi"
 county = "Fayette"
-longitude = -79.785642
 latitude = 39.893625
+longitude = -79.785642
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15484"
+

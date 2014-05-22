@@ -1,6 +1,8 @@
-zip_code = "60110"
-state = "IL"
 city = "Carpentersville"
 county = "Kane"
-longitude = -88.297238
 latitude = 42.125008
+longitude = -88.297238
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60110"
+

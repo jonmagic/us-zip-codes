@@ -1,6 +1,8 @@
-zip_code = "45158"
-state = "OH"
 city = "Newtonsville"
 county = "Clermont"
-longitude = -84.078313
 latitude = 39.18779
+longitude = -84.078313
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45158"
+

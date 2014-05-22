@@ -1,6 +1,8 @@
-zip_code = "59935"
-state = "MT"
 city = "Troy"
 county = "Lincoln"
-longitude = -115.816915
 latitude = 48.580494
+longitude = -115.816915
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59935"
+

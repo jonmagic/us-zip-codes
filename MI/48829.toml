@@ -1,6 +1,8 @@
-zip_code = "48829"
-state = "MI"
 city = "Edmore"
 county = "Montcalm"
-longitude = -85.022308
 latitude = 43.401096
+longitude = -85.022308
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48829"
+

@@ -1,6 +1,8 @@
-zip_code = "63766"
-state = "MO"
 city = "Millersville"
 county = "Cape Girardeau"
-longitude = -89.810954
 latitude = 37.437333
+longitude = -89.810954
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63766"
+

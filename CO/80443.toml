@@ -1,6 +1,8 @@
-zip_code = "80443"
-state = "CO"
 city = "Frisco"
 county = "Summit"
-longitude = -106.133183
 latitude = 39.558929
+longitude = -106.133183
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80443"
+

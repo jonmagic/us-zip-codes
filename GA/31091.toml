@@ -1,6 +1,8 @@
-zip_code = "31091"
-state = "GA"
 city = "Unadilla"
 county = "Dooly"
-longitude = -83.731718
 latitude = 32.219249
+longitude = -83.731718
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31091"
+

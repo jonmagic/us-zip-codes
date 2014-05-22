@@ -1,6 +1,8 @@
-zip_code = "26847"
-state = "WV"
 city = "Petersburg"
 county = "Grant"
-longitude = -79.129301
 latitude = 38.990838
+longitude = -79.129301
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26847"
+

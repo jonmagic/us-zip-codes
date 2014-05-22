@@ -1,6 +1,8 @@
-zip_code = "04332"
-state = "ME"
 city = "Augusta"
 county = "Kennebec"
-longitude = -69.751913
 latitude = 44.414056
+longitude = -69.751913
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04332"
+

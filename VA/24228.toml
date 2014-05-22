@@ -1,6 +1,8 @@
-zip_code = "24228"
-state = "VA"
 city = "Clintwood"
 county = "Dickenson"
-longitude = -82.463069
 latitude = 37.149797
+longitude = -82.463069
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24228"
+

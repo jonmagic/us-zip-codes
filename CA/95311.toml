@@ -1,6 +1,8 @@
-zip_code = "95311"
-state = "CA"
 city = "Coulterville"
 county = "Mariposa"
-longitude = -120.155251
 latitude = 37.700116
+longitude = -120.155251
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95311"
+

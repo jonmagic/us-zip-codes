@@ -1,6 +1,8 @@
-zip_code = "12137"
-state = "NY"
 city = "Pattersonville"
 county = "Schenectady"
-longitude = -74.131734
 latitude = 42.838578
+longitude = -74.131734
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12137"
+

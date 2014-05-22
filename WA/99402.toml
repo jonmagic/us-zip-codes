@@ -1,6 +1,8 @@
-zip_code = "99402"
-state = "WA"
 city = "Asotin"
 county = "Asotin"
-longitude = -117.118489
 latitude = 46.174099
+longitude = -117.118489
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99402"
+

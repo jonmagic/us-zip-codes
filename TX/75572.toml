@@ -1,6 +1,8 @@
-zip_code = "75572"
-state = "TX"
 city = "Queen City"
 county = "Cass"
-longitude = -94.153684
 latitude = 33.155715
+longitude = -94.153684
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75572"
+

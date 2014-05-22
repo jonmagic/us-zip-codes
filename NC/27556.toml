@@ -1,6 +1,8 @@
-zip_code = "27556"
-state = "NC"
 city = "Middleburg"
 county = "Vance"
-longitude = -78.327491
 latitude = 36.413473
+longitude = -78.327491
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27556"
+

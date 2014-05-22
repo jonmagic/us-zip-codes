@@ -1,6 +1,8 @@
-zip_code = "78266"
-state = "TX"
 city = "San Antonio"
 county = "Comal"
-longitude = -98.22843
 latitude = 29.740162
+longitude = -98.22843
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78266"
+

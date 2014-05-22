@@ -1,6 +1,8 @@
-zip_code = "35139"
-state = "AL"
 city = "Sayre"
 county = "Jefferson"
-longitude = -86.975856
 latitude = 33.711096
+longitude = -86.975856
+state = ""
+state_code_alpha2 = ""
+zip_code = "35139"
+

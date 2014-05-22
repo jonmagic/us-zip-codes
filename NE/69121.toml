@@ -1,6 +1,8 @@
-zip_code = "69121"
-state = "NE"
 city = "Arthur"
 county = "Arthur"
-longitude = -101.714495
 latitude = 41.554073
+longitude = -101.714495
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69121"
+

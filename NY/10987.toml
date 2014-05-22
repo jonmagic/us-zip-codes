@@ -1,6 +1,8 @@
-zip_code = "10987"
-state = "NY"
 city = "Tuxedo Park"
 county = "Orange"
-longitude = -74.204924
 latitude = 41.28142
+longitude = -74.204924
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10987"
+

@@ -1,6 +1,8 @@
-zip_code = "30739"
-state = "GA"
 city = "Rock Spring"
 county = "Walker"
-longitude = -85.212809
 latitude = 34.801819
+longitude = -85.212809
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30739"
+

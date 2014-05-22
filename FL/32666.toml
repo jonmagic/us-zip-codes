@@ -1,6 +1,8 @@
-zip_code = "32666"
-state = "FL"
 city = "Melrose"
 county = "Putnam"
-longitude = -81.97397
 latitude = 29.697588
+longitude = -81.97397
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32666"
+

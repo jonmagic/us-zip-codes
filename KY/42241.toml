@@ -1,6 +1,8 @@
-zip_code = "42241"
-state = "KY"
 city = "Hopkinsville"
 county = "Christian"
-longitude = -87.496529
 latitude = 36.898071
+longitude = -87.496529
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42241"
+

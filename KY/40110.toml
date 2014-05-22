@@ -1,6 +1,8 @@
-zip_code = "40110"
-state = "KY"
 city = "Clermont"
 county = "Bullitt"
-longitude = -85.65545
 latitude = 37.93462
+longitude = -85.65545
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40110"
+

@@ -1,6 +1,8 @@
-zip_code = "76043"
-state = "TX"
 city = "Glen Rose"
 county = "Somervell"
-longitude = -97.792155
 latitude = 32.210812
+longitude = -97.792155
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76043"
+

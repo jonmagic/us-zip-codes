@@ -1,6 +1,8 @@
-zip_code = "80551"
-state = "CO"
 city = "Windsor"
 county = "Weld"
-longitude = -104.885116
 latitude = 40.464092
+longitude = -104.885116
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80551"
+

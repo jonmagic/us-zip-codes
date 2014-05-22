@@ -1,6 +1,8 @@
-zip_code = "76246"
-state = "TX"
 city = "Greenwood"
 county = "Wise"
-longitude = -97.609392
 latitude = 33.317914
+longitude = -97.609392
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76246"
+

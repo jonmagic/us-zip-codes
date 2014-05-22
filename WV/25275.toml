@@ -1,6 +1,8 @@
-zip_code = "25275"
-state = "WV"
 city = "Sandyville"
 county = "Jackson"
-longitude = -81.682596
 latitude = 38.889106
+longitude = -81.682596
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25275"
+

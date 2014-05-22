@@ -1,6 +1,8 @@
-zip_code = "70774"
-state = "LA"
 city = "Saint Amant"
 county = "Ascension"
-longitude = -90.827056
 latitude = 30.236364
+longitude = -90.827056
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70774"
+

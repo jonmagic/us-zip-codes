@@ -1,6 +1,8 @@
-zip_code = "86443"
-state = "AZ"
 city = "Temple Bar Marina"
 county = "Mohave"
-longitude = -114.179228
 latitude = 35.210634
+longitude = -114.179228
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86443"
+

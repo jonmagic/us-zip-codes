@@ -1,6 +1,8 @@
-zip_code = "83277"
-state = "ID"
 city = "Springfield"
 county = "Bingham"
-longitude = -112.672955
 latitude = 43.080334
+longitude = -112.672955
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83277"
+

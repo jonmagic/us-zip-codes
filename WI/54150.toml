@@ -1,6 +1,8 @@
-zip_code = "54150"
-state = "WI"
 city = "Neopit"
 county = "Menominee"
-longitude = -88.618552
 latitude = 44.86893
+longitude = -88.618552
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54150"
+

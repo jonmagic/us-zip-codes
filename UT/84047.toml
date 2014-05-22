@@ -1,6 +1,8 @@
-zip_code = "84047"
-state = "UT"
 city = "Midvale"
 county = "Salt Lake"
-longitude = -111.885868
 latitude = 40.608972
+longitude = -111.885868
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84047"
+

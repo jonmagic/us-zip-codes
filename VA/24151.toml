@@ -1,6 +1,8 @@
-zip_code = "24151"
-state = "VA"
 city = "Rocky Mount"
 county = "Franklin"
-longitude = -79.852489
 latitude = 36.995127
+longitude = -79.852489
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24151"
+

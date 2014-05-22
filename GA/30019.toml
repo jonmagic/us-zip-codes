@@ -1,6 +1,8 @@
-zip_code = "30019"
-state = "GA"
 city = "Dacula"
 county = "Gwinnett"
-longitude = -83.879494
 latitude = 33.988309
+longitude = -83.879494
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30019"
+

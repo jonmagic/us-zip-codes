@@ -1,6 +1,8 @@
-zip_code = "22840"
-state = "VA"
 city = "Mc Gaheysville"
 county = "Rockingham"
-longitude = -78.734456
 latitude = 38.400968
+longitude = -78.734456
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22840"
+

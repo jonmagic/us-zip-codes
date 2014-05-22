@@ -1,6 +1,8 @@
-zip_code = "58282"
-state = "ND"
 city = "Walhalla"
 county = "Pembina"
-longitude = -97.797358
 latitude = 48.880795
+longitude = -97.797358
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58282"
+

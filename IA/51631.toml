@@ -1,6 +1,8 @@
-zip_code = "51631"
-state = "IA"
 city = "Braddyville"
 county = "Page"
-longitude = -95.017884
 latitude = 40.604915
+longitude = -95.017884
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51631"
+

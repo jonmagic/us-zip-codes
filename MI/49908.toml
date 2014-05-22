@@ -1,6 +1,8 @@
-zip_code = "49908"
-state = "MI"
 city = "Baraga"
 county = "Baraga"
-longitude = -88.575842
 latitude = 46.80476
+longitude = -88.575842
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49908"
+

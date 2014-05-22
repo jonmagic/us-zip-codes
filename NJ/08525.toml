@@ -1,6 +1,8 @@
-zip_code = "08525"
-state = "NJ"
 city = "Hopewell"
 county = "Mercer"
-longitude = -74.783956
 latitude = 40.389675
+longitude = -74.783956
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08525"
+

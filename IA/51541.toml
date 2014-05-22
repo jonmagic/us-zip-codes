@@ -1,6 +1,8 @@
-zip_code = "51541"
-state = "IA"
 city = "Henderson"
 county = "Mills"
-longitude = -95.453376
 latitude = 41.12933
+longitude = -95.453376
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51541"
+

@@ -1,6 +1,8 @@
-zip_code = "93422"
-state = "CA"
 city = "Atascadero"
 county = "San Luis Obispo"
-longitude = -120.712459
 latitude = 35.464793
+longitude = -120.712459
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93422"
+

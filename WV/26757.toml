@@ -1,6 +1,8 @@
-zip_code = "26757"
-state = "WV"
 city = "Romney"
 county = "Hampshire"
-longitude = -78.758487
 latitude = 39.34487
+longitude = -78.758487
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26757"
+

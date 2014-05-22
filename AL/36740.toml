@@ -1,6 +1,8 @@
-zip_code = "36740"
-state = "AL"
 city = "Forkland"
 county = "Greene"
-longitude = -87.844122
 latitude = 32.610762
+longitude = -87.844122
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36740"
+

@@ -1,6 +1,8 @@
-zip_code = "97917"
-state = "OR"
 city = "Riverside"
 county = "Malheur"
-longitude = -118.098586
 latitude = 43.509919
+longitude = -118.098586
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97917"
+

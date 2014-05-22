@@ -1,6 +1,8 @@
-zip_code = "81020"
-state = "CO"
 city = "Aguilar"
 county = "Las Animas"
-longitude = -104.653809
 latitude = 37.381577
+longitude = -104.653809
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81020"
+

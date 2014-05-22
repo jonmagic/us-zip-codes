@@ -1,6 +1,8 @@
-zip_code = "06022"
-state = "CT"
 city = "Collinsville"
 county = "Hartford"
-longitude = -72.918127
 latitude = 41.851597
+longitude = -72.918127
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06022"
+

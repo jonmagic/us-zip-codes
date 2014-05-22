@@ -1,6 +1,8 @@
-zip_code = "35653"
-state = "AL"
 city = "Russellville"
 county = "Franklin"
-longitude = -87.854726
 latitude = 34.444903
+longitude = -87.854726
+state = ""
+state_code_alpha2 = ""
+zip_code = "35653"
+

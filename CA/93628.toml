@@ -1,6 +1,8 @@
-zip_code = "93628"
-state = "CA"
 city = "Hume"
 county = "Fresno"
-longitude = -118.957494
 latitude = 36.751546
+longitude = -118.957494
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93628"
+

@@ -1,6 +1,8 @@
-zip_code = "46064"
-state = "IN"
 city = "Pendleton"
 county = "Madison"
-longitude = -85.757678
 latitude = 40.107304
+longitude = -85.757678
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46064"
+

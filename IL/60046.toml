@@ -1,6 +1,8 @@
-zip_code = "60046"
-state = "IL"
 city = "Lake Villa"
 county = "Lake"
-longitude = -87.999077
 latitude = 42.381271
+longitude = -87.999077
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60046"
+

@@ -1,6 +1,8 @@
-zip_code = "80808"
-state = "CO"
 city = "Calhan"
 county = "El Paso"
-longitude = -104.282512
 latitude = 38.94043
+longitude = -104.282512
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80808"
+

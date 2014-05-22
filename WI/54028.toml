@@ -1,6 +1,8 @@
-zip_code = "54028"
-state = "WI"
 city = "Woodville"
 county = "Saint Croix"
-longitude = -92.376526
 latitude = 44.946202
+longitude = -92.376526
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54028"
+

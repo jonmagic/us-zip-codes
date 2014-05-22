@@ -1,6 +1,8 @@
-zip_code = "97149"
-state = "OR"
 city = "Neskowin"
 county = "Tillamook"
-longitude = -123.943418
 latitude = 45.097011
+longitude = -123.943418
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97149"
+

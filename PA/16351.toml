@@ -1,6 +1,8 @@
-zip_code = "16351"
-state = "PA"
 city = "Tidioute"
 county = "Warren"
-longitude = -79.229452
 latitude = 41.830662
+longitude = -79.229452
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16351"
+

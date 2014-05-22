@@ -1,6 +1,8 @@
-zip_code = "07866"
-state = "NJ"
 city = "Rockaway"
 county = "Morris"
-longitude = -74.501551
 latitude = 40.960111
+longitude = -74.501551
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07866"
+

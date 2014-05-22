@@ -1,6 +1,8 @@
-zip_code = "23966"
-state = "VA"
 city = "Rice"
 county = "Prince Edward"
-longitude = -78.346836
 latitude = 37.280047
+longitude = -78.346836
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23966"
+

@@ -1,6 +1,8 @@
-zip_code = "18255"
-state = "PA"
 city = "Weatherly"
 county = "Carbon"
-longitude = -75.779007
 latitude = 40.911443
+longitude = -75.779007
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18255"
+

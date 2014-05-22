@@ -1,6 +1,8 @@
-zip_code = "03051"
-state = "NH"
 city = "Hudson"
 county = "Hillsborough"
-longitude = -71.61887
 latitude = 42.766426
+longitude = -71.61887
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03051"
+

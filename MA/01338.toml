@@ -1,6 +1,8 @@
-zip_code = "01338"
-state = "MA"
 city = "Buckland"
 county = "Franklin"
-longitude = -72.769487
 latitude = 42.573832
+longitude = -72.769487
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01338"
+

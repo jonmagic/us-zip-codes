@@ -1,6 +1,8 @@
-zip_code = "49935"
-state = "MI"
 city = "Iron River"
 county = "Iron"
-longitude = -88.618995
 latitude = 46.12047
+longitude = -88.618995
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49935"
+

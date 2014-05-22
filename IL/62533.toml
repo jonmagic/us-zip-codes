@@ -1,6 +1,8 @@
-zip_code = "62533"
-state = "IL"
 city = "Farmersville"
 county = "Montgomery"
-longitude = -89.617023
 latitude = 39.440138
+longitude = -89.617023
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62533"
+

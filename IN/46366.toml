@@ -1,6 +1,8 @@
-zip_code = "46366"
-state = "IN"
 city = "North Judson"
 county = "Starke"
-longitude = -86.735127
 latitude = 41.25163
+longitude = -86.735127
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46366"
+

@@ -1,6 +1,8 @@
-zip_code = "32030"
-state = "FL"
 city = "Doctors Inlet"
 county = "Clay"
-longitude = -81.768964
 latitude = 30.105553
+longitude = -81.768964
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32030"
+

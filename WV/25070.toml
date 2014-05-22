@@ -1,6 +1,8 @@
-zip_code = "25070"
-state = "WV"
 city = "Eleanor"
 county = "Putnam"
-longitude = -81.941425
 latitude = 38.543573
+longitude = -81.941425
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25070"
+

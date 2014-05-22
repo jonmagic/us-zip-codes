@@ -1,6 +1,8 @@
-zip_code = "95531"
-state = "CA"
 city = "Crescent City"
 county = "Del Norte"
-longitude = -124.056897
 latitude = 41.744452
+longitude = -124.056897
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95531"
+

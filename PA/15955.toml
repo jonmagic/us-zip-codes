@@ -1,6 +1,8 @@
-zip_code = "15955"
-state = "PA"
 city = "Sidman"
 county = "Cambria"
-longitude = -78.715511
 latitude = 40.334129
+longitude = -78.715511
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15955"
+

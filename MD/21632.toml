@@ -1,6 +1,8 @@
-zip_code = "21632"
-state = "MD"
 city = "Federalsburg"
 county = "Caroline"
-longitude = -75.825197
 latitude = 38.823318
+longitude = -75.825197
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21632"
+

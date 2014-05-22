@@ -1,6 +1,8 @@
-zip_code = "18618"
-state = "PA"
 city = "Harveys Lake"
 county = "Luzerne"
-longitude = -75.969059
 latitude = 41.37385
+longitude = -75.969059
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18618"
+

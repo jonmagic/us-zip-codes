@@ -1,6 +1,8 @@
-zip_code = "58472"
-state = "ND"
 city = "Montpelier"
 county = "Stutsman"
-longitude = -98.660404
 latitude = 46.681609
+longitude = -98.660404
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58472"
+

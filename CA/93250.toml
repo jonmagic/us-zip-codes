@@ -1,6 +1,8 @@
-zip_code = "93250"
-state = "CA"
 city = "Mc Farland"
 county = "Kern"
-longitude = -118.489938
 latitude = 35.674813
+longitude = -118.489938
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93250"
+

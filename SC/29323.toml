@@ -1,6 +1,8 @@
-zip_code = "29323"
-state = "SC"
 city = "Chesnee"
 county = "Spartanburg"
-longitude = -82.010515
 latitude = 35.109575
+longitude = -82.010515
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29323"
+

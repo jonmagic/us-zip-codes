@@ -1,6 +1,8 @@
-zip_code = "12819"
-state = "NY"
 city = "Clemons"
 county = "Washington"
-longitude = -73.503056
 latitude = 43.614194
+longitude = -73.503056
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12819"
+

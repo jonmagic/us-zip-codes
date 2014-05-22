@@ -1,6 +1,8 @@
-zip_code = "57430"
-state = "SD"
 city = "Britton"
 county = "Marshall"
-longitude = -97.72957
 latitude = 45.761704
+longitude = -97.72957
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57430"
+

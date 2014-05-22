@@ -1,6 +1,8 @@
-zip_code = "72459"
-state = "AR"
 city = "Ravenden"
 county = "Lawrence"
-longitude = -91.223314
 latitude = 36.18246
+longitude = -91.223314
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72459"
+

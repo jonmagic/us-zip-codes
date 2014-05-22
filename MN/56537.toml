@@ -1,6 +1,8 @@
-zip_code = "56537"
-state = "MN"
 city = "Fergus Falls"
 county = "Otter Tail"
-longitude = -95.657003
 latitude = 46.3194
+longitude = -95.657003
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56537"
+

@@ -1,6 +1,8 @@
-zip_code = "23483"
-state = "VA"
 city = "Wattsville"
 county = "Accomack"
-longitude = -75.502306
 latitude = 37.943726
+longitude = -75.502306
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23483"
+

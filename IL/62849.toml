@@ -1,6 +1,8 @@
-zip_code = "62849"
-state = "IL"
 city = "Iuka"
 county = "Marion"
-longitude = -88.809517
 latitude = 38.595441
+longitude = -88.809517
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62849"
+

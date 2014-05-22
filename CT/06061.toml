@@ -1,6 +1,8 @@
-zip_code = "06061"
-state = "CT"
 city = "Pine Meadow"
 county = "Litchfield"
-longitude = -72.967958
 latitude = 41.874382
+longitude = -72.967958
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06061"
+

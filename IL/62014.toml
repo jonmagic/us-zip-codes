@@ -1,6 +1,8 @@
-zip_code = "62014"
-state = "IL"
 city = "Bunker Hill"
 county = "Macoupin"
-longitude = -89.980834
 latitude = 39.049428
+longitude = -89.980834
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62014"
+

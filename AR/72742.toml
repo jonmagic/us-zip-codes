@@ -1,6 +1,8 @@
-zip_code = "72742"
-state = "AR"
 city = "Kingston"
 county = "Madison"
-longitude = -93.704255
 latitude = 36.033601
+longitude = -93.704255
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72742"
+

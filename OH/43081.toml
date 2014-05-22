@@ -1,6 +1,8 @@
-zip_code = "43081"
-state = "OH"
 city = "Westerville"
 county = "Franklin"
-longitude = -82.896457
 latitude = 40.10447
+longitude = -82.896457
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43081"
+

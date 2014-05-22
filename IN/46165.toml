@@ -1,6 +1,8 @@
-zip_code = "46165"
-state = "IN"
 city = "North Salem"
 county = "Hendricks"
-longitude = -86.640794
 latitude = 39.839162
+longitude = -86.640794
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46165"
+

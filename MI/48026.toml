@@ -1,6 +1,8 @@
-zip_code = "48026"
-state = "MI"
 city = "Fraser"
 county = "Macomb"
-longitude = -82.949421
 latitude = 42.538702
+longitude = -82.949421
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48026"
+

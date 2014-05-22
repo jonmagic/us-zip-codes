@@ -1,6 +1,8 @@
-zip_code = "01260"
-state = "MA"
 city = "South Lee"
 county = "Berkshire"
-longitude = -73.313274
 latitude = 42.286586
+longitude = -73.313274
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01260"
+

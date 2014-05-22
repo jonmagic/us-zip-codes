@@ -1,6 +1,8 @@
-zip_code = "92268"
-state = "CA"
 city = "Pioneertown"
 county = "San Bernardino"
-longitude = -116.504806
 latitude = 34.188703
+longitude = -116.504806
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92268"
+

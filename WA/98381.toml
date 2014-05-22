@@ -1,6 +1,8 @@
-zip_code = "98381"
-state = "WA"
 city = "Sekiu"
 county = "Clallam"
-longitude = -124.397803
 latitude = 48.288633
+longitude = -124.397803
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98381"
+

@@ -1,6 +1,8 @@
-zip_code = "12956"
-state = "NY"
 city = "Mineville"
 county = "Essex"
-longitude = -73.491335
 latitude = 44.12404
+longitude = -73.491335
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12956"
+

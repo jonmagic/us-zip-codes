@@ -1,6 +1,8 @@
-zip_code = "54828"
-state = "WI"
 city = "Couderay"
 county = "Sawyer"
-longitude = -91.291784
 latitude = 45.837967
+longitude = -91.291784
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54828"
+

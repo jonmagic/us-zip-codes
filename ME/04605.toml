@@ -1,6 +1,8 @@
-zip_code = "04605"
-state = "ME"
 city = "Ellsworth"
 county = "Hancock"
-longitude = -68.356311
 latitude = 44.477935
+longitude = -68.356311
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04605"
+

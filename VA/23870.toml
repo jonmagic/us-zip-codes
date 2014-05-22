@@ -1,6 +1,8 @@
-zip_code = "23870"
-state = "VA"
 city = "Jarratt"
 county = "Greensville"
-longitude = -77.531996
 latitude = 36.721471
+longitude = -77.531996
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23870"
+

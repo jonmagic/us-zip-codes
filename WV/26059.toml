@@ -1,6 +1,8 @@
-zip_code = "26059"
-state = "WV"
 city = "Triadelphia"
 county = "Ohio"
-longitude = -80.59733
 latitude = 40.081064
+longitude = -80.59733
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26059"
+

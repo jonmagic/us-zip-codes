@@ -1,6 +1,8 @@
-zip_code = "06268"
-state = "CT"
 city = "Storrs Mansfield"
 county = "Tolland"
-longitude = -72.25248
 latitude = 41.787937
+longitude = -72.25248
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06268"
+

@@ -1,6 +1,8 @@
-zip_code = "95249"
-state = "CA"
 city = "San Andreas"
 county = "Calaveras"
-longitude = -120.616052
 latitude = 38.190106
+longitude = -120.616052
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95249"
+

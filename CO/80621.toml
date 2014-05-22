@@ -1,6 +1,8 @@
-zip_code = "80621"
-state = "CO"
 city = "Fort Lupton"
 county = "Weld"
-longitude = -104.650827
 latitude = 40.363977
+longitude = -104.650827
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80621"
+

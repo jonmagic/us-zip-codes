@@ -1,6 +1,8 @@
-zip_code = "13331"
-state = "NY"
 city = "Eagle Bay"
 county = "Herkimer"
-longitude = -74.886163
 latitude = 43.816675
+longitude = -74.886163
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13331"
+

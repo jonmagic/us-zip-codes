@@ -1,6 +1,8 @@
-zip_code = "24055"
-state = "VA"
 city = "Bassett"
 county = "Henry"
-longitude = -79.975528
 latitude = 36.735045
+longitude = -79.975528
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24055"
+

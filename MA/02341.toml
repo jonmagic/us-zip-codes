@@ -1,6 +1,8 @@
-zip_code = "02341"
-state = "MA"
 city = "Hanson"
 county = "Plymouth"
-longitude = -70.875936
 latitude = 42.055701
+longitude = -70.875936
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02341"
+

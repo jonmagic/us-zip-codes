@@ -1,6 +1,8 @@
-zip_code = "06019"
-state = "CT"
 city = "Canton"
 county = "Hartford"
-longitude = -72.899645
 latitude = 41.842882
+longitude = -72.899645
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06019"
+

@@ -1,6 +1,8 @@
-zip_code = "07823"
-state = "NJ"
 city = "Belvidere"
 county = "Warren"
-longitude = -75.030961
 latitude = 40.819772
+longitude = -75.030961
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07823"
+

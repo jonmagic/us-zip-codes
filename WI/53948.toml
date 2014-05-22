@@ -1,6 +1,8 @@
-zip_code = "53948"
-state = "WI"
 city = "Mauston"
 county = "Juneau"
-longitude = -90.07242
 latitude = 43.908679
+longitude = -90.07242
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53948"
+

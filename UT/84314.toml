@@ -1,6 +1,8 @@
-zip_code = "84314"
-state = "UT"
 city = "Honeyville"
 county = "Box Elder"
-longitude = -112.104979
 latitude = 41.651978
+longitude = -112.104979
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84314"
+

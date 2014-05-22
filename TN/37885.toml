@@ -1,6 +1,8 @@
-zip_code = "37885"
-state = "TN"
 city = "Vonore"
 county = "Monroe"
-longitude = -84.225767
 latitude = 35.531891
+longitude = -84.225767
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37885"
+

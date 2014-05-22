@@ -1,6 +1,8 @@
-zip_code = "53963"
-state = "WI"
 city = "Waupun"
 county = "Dodge"
-longitude = -88.754483
 latitude = 43.459309
+longitude = -88.754483
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53963"
+

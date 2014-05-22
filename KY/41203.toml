@@ -1,6 +1,8 @@
-zip_code = "41203"
-state = "KY"
 city = "Beauty"
 county = "Martin"
-longitude = -82.622288
 latitude = 37.761149
+longitude = -82.622288
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41203"
+

@@ -1,6 +1,8 @@
-zip_code = "62202"
-state = "IL"
 city = "East Saint Louis"
 county = "Saint Clair"
-longitude = -90.159059
 latitude = 38.6163
+longitude = -90.159059
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62202"
+

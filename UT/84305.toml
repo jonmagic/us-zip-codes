@@ -1,6 +1,8 @@
-zip_code = "84305"
-state = "UT"
 city = "Clarkston"
 county = "Cache"
-longitude = -112.030254
 latitude = 41.919726
+longitude = -112.030254
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84305"
+

@@ -1,6 +1,8 @@
-zip_code = "75567"
-state = "TX"
 city = "Maud"
 county = "Bowie"
-longitude = -94.317527
 latitude = 33.340864
+longitude = -94.317527
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75567"
+

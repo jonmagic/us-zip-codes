@@ -1,6 +1,8 @@
-zip_code = "26050"
-state = "WV"
 city = "Newell"
 county = "Hancock"
-longitude = -80.613199
 latitude = 40.608776
+longitude = -80.613199
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26050"
+

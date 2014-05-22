@@ -1,6 +1,8 @@
-zip_code = "70651"
-state = "LA"
 city = "Leblanc"
 county = "Allen"
-longitude = -92.980987
 latitude = 30.512276
+longitude = -92.980987
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70651"
+

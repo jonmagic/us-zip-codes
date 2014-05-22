@@ -1,6 +1,8 @@
-zip_code = "62854"
-state = "IL"
 city = "Kinmundy"
 county = "Marion"
-longitude = -88.91335
 latitude = 38.657892
+longitude = -88.91335
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62854"
+

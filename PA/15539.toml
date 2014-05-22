@@ -1,6 +1,8 @@
-zip_code = "15539"
-state = "PA"
 city = "Fishertown"
 county = "Bedford"
-longitude = -78.591457
 latitude = 40.130173
+longitude = -78.591457
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15539"
+

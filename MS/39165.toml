@@ -1,6 +1,8 @@
-zip_code = "39165"
-state = "MS"
 city = "Sibley"
 county = "Adams"
-longitude = -91.404404
 latitude = 31.470602
+longitude = -91.404404
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39165"
+

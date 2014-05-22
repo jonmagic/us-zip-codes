@@ -1,6 +1,8 @@
-zip_code = "04072"
-state = "ME"
 city = "Saco"
 county = "York"
-longitude = -70.666387
 latitude = 43.541241
+longitude = -70.666387
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04072"
+

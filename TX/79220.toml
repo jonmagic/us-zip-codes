@@ -1,6 +1,8 @@
-zip_code = "79220"
-state = "TX"
 city = "Afton"
 county = "Dickens"
-longitude = -100.779303
 latitude = 33.616428
+longitude = -100.779303
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79220"
+

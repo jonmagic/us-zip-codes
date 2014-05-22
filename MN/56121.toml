@@ -1,6 +1,8 @@
-zip_code = "56121"
-state = "MN"
 city = "Ceylon"
 county = "Martin"
-longitude = -94.606517
 latitude = 43.584995
+longitude = -94.606517
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56121"
+

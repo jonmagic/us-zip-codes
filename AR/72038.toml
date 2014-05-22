@@ -1,6 +1,8 @@
-zip_code = "72038"
-state = "AR"
 city = "Crocketts Bluff"
 county = "Arkansas"
-longitude = -91.317774
 latitude = 34.459355
+longitude = -91.317774
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72038"
+

@@ -1,6 +1,8 @@
-zip_code = "64664"
-state = "MO"
 city = "Mooresville"
 county = "Livingston"
-longitude = -93.667032
 latitude = 39.729002
+longitude = -93.667032
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64664"
+

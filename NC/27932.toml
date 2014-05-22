@@ -1,6 +1,8 @@
-zip_code = "27932"
-state = "NC"
 city = "Edenton"
 county = "Chowan"
-longitude = -76.580107
 latitude = 36.135621
+longitude = -76.580107
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27932"
+

@@ -1,6 +1,8 @@
-zip_code = "25180"
-state = "WV"
 city = "Saxon"
 county = "Raleigh"
-longitude = -81.384755
 latitude = 37.793057
+longitude = -81.384755
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25180"
+

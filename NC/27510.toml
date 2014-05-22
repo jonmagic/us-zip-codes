@@ -1,6 +1,8 @@
-zip_code = "27510"
-state = "NC"
 city = "Carrboro"
 county = "Orange"
-longitude = -79.090077
 latitude = 35.905477
+longitude = -79.090077
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27510"
+

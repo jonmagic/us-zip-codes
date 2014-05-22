@@ -1,6 +1,8 @@
-zip_code = "21047"
-state = "MD"
 city = "Fallston"
 county = "Harford"
-longitude = -76.439035
 latitude = 39.531206
+longitude = -76.439035
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21047"
+

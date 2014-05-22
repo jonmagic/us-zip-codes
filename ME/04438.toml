@@ -1,6 +1,8 @@
-zip_code = "04438"
-state = "ME"
 city = "Frankfort"
 county = "Waldo"
-longitude = -68.849975
 latitude = 44.632657
+longitude = -68.849975
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04438"
+

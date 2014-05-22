@@ -1,6 +1,8 @@
-zip_code = "39087"
-state = "MS"
 city = "Hillsboro"
 county = "Scott"
-longitude = -89.517069
 latitude = 32.470606
+longitude = -89.517069
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39087"
+

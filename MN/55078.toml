@@ -1,6 +1,8 @@
-zip_code = "55078"
-state = "MN"
 city = "Stacy"
 county = "Chisago"
-longitude = -92.894239
 latitude = 45.513447
+longitude = -92.894239
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55078"
+

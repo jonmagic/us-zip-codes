@@ -1,6 +1,8 @@
-zip_code = "04558"
-state = "ME"
 city = "Pemaquid"
 county = "Lincoln"
-longitude = -69.509282
 latitude = 43.896727
+longitude = -69.509282
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04558"
+

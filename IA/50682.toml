@@ -1,6 +1,8 @@
-zip_code = "50682"
-state = "IA"
 city = "Winthrop"
 county = "Buchanan"
-longitude = -91.831019
 latitude = 42.433855
+longitude = -91.831019
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50682"
+

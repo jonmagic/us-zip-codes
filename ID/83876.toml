@@ -1,6 +1,8 @@
-zip_code = "83876"
-state = "ID"
 city = "Worley"
 county = "Kootenai"
-longitude = -116.898603
 latitude = 47.456856
+longitude = -116.898603
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83876"
+

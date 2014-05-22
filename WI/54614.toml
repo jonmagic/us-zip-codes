@@ -1,6 +1,8 @@
-zip_code = "54614"
-state = "WI"
 city = "Bangor"
 county = "La Crosse"
-longitude = -91.081457
 latitude = 43.919308
+longitude = -91.081457
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54614"
+

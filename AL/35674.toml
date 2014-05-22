@@ -1,6 +1,8 @@
-zip_code = "35674"
-state = "AL"
 city = "Tuscumbia"
 county = "Colbert"
-longitude = -87.749232
 latitude = 34.66604
+longitude = -87.749232
+state = ""
+state_code_alpha2 = ""
+zip_code = "35674"
+

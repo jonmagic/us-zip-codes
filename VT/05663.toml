@@ -1,6 +1,8 @@
-zip_code = "05663"
-state = "VT"
 city = "Northfield"
 county = "Washington"
-longitude = -72.678854
 latitude = 44.180906
+longitude = -72.678854
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05663"
+

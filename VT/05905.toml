@@ -1,6 +1,8 @@
-zip_code = "05905"
-state = "VT"
 city = "Guildhall"
 county = "Essex"
-longitude = -71.662213
 latitude = 44.671187
+longitude = -71.662213
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05905"
+

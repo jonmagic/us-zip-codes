@@ -1,6 +1,8 @@
-zip_code = "06035"
-state = "CT"
 city = "Granby"
 county = "Hartford"
-longitude = -72.796407
 latitude = 41.966062
+longitude = -72.796407
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06035"
+

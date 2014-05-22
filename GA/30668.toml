@@ -1,6 +1,8 @@
-zip_code = "30668"
-state = "GA"
 city = "Tignall"
 county = "Wilkes"
-longitude = -82.747023
 latitude = 33.877751
+longitude = -82.747023
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30668"
+

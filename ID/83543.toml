@@ -1,6 +1,8 @@
-zip_code = "83543"
-state = "ID"
 city = "Nezperce"
 county = "Lewis"
-longitude = -116.264274
 latitude = 46.296282
+longitude = -116.264274
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83543"
+

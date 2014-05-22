@@ -1,6 +1,8 @@
-zip_code = "45744"
-state = "OH"
 city = "Lowell"
 county = "Washington"
-longitude = -81.47884
 latitude = 39.538823
+longitude = -81.47884
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45744"
+

@@ -1,6 +1,8 @@
-zip_code = "32541"
-state = "FL"
 city = "Destin"
 county = "Okaloosa"
-longitude = -86.57345
 latitude = 30.582064
+longitude = -86.57345
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32541"
+

@@ -1,6 +1,8 @@
-zip_code = "59260"
-state = "MT"
 city = "Richland"
 county = "Valley"
-longitude = -106.119229
 latitude = 48.650714
+longitude = -106.119229
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59260"
+

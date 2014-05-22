@@ -1,6 +1,8 @@
-zip_code = "66830"
-state = "KS"
 city = "Admire"
 county = "Lyon"
-longitude = -96.108283
 latitude = 38.608394
+longitude = -96.108283
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66830"
+

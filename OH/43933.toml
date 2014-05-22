@@ -1,6 +1,8 @@
-zip_code = "43933"
-state = "OH"
 city = "Jacobsburg"
 county = "Belmont"
-longitude = -80.888014
 latitude = 39.937228
+longitude = -80.888014
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43933"
+

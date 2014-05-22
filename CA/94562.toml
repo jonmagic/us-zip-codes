@@ -1,6 +1,8 @@
-zip_code = "94562"
-state = "CA"
 city = "Oakville"
 county = "Napa"
-longitude = -122.399101
 latitude = 38.437887
+longitude = -122.399101
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94562"
+

@@ -1,6 +1,8 @@
-zip_code = "38668"
-state = "MS"
 city = "Senatobia"
 county = "Tate"
-longitude = -89.930083
 latitude = 34.621336
+longitude = -89.930083
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38668"
+

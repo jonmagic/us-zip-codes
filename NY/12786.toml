@@ -1,6 +1,8 @@
-zip_code = "12786"
-state = "NY"
 city = "White Lake"
 county = "Sullivan"
-longitude = -74.811773
 latitude = 41.64788
+longitude = -74.811773
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12786"
+

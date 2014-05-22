@@ -1,6 +1,8 @@
-zip_code = "60301"
-state = "IL"
 city = "Oak Park"
 county = "Cook"
-longitude = -87.68732
 latitude = 41.811929
+longitude = -87.68732
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60301"
+

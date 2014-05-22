@@ -1,6 +1,8 @@
-zip_code = "92312"
-state = "CA"
 city = "Barstow"
 county = "San Bernardino"
-longitude = -116.906215
 latitude = 34.201638
+longitude = -116.906215
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92312"
+

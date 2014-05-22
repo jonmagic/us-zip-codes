@@ -1,6 +1,8 @@
-zip_code = "13303"
-state = "NY"
 city = "Ava"
 county = "Oneida"
-longitude = -75.468514
 latitude = 43.364242
+longitude = -75.468514
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13303"
+

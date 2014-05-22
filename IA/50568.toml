@@ -1,6 +1,8 @@
-zip_code = "50568"
-state = "IA"
 city = "Newell"
 county = "Buena Vista"
-longitude = -95.003782
 latitude = 42.705762
+longitude = -95.003782
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50568"
+

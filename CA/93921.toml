@@ -1,6 +1,8 @@
-zip_code = "93921"
-state = "CA"
 city = "Carmel"
 county = "Monterey"
-longitude = -121.922515
 latitude = 36.549729
+longitude = -121.922515
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93921"
+

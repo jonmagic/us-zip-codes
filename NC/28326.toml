@@ -1,6 +1,8 @@
-zip_code = "28326"
-state = "NC"
 city = "Cameron"
 county = "Moore"
-longitude = -79.347244
 latitude = 35.310584
+longitude = -79.347244
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28326"
+

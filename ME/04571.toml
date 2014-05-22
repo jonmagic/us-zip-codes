@@ -1,6 +1,8 @@
-zip_code = "04571"
-state = "ME"
 city = "Trevett"
 county = "Lincoln"
-longitude = -69.680144
 latitude = 43.88261
+longitude = -69.680144
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04571"
+

@@ -1,6 +1,8 @@
-zip_code = "79035"
-state = "TX"
 city = "Friona"
 county = "Parmer"
-longitude = -102.784361
 latitude = 34.627408
+longitude = -102.784361
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79035"
+

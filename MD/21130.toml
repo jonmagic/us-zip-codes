@@ -1,6 +1,8 @@
-zip_code = "21130"
-state = "MD"
 city = "Perryman"
 county = "Harford"
-longitude = -76.211676
 latitude = 39.471559
+longitude = -76.211676
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21130"
+

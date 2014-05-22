@@ -1,6 +1,8 @@
-zip_code = "97051"
-state = "OR"
 city = "Saint Helens"
 county = "Columbia"
-longitude = -122.919935
 latitude = 45.887794
+longitude = -122.919935
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97051"
+

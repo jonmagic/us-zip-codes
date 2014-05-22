@@ -1,6 +1,8 @@
-zip_code = "41847"
-state = "KY"
 city = "Redfox"
 county = "Knott"
-longitude = -82.942357
 latitude = 37.217206
+longitude = -82.942357
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41847"
+

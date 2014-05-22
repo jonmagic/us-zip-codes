@@ -1,6 +1,8 @@
-zip_code = "59638"
-state = "MT"
 city = "Jefferson City"
 county = "Jefferson"
-longitude = -112.023155
 latitude = 46.367883
+longitude = -112.023155
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59638"
+

@@ -1,6 +1,8 @@
-zip_code = "40121"
-state = "KY"
 city = "Fort Knox"
 county = "Hardin"
-longitude = -85.952833
 latitude = 37.899466
+longitude = -85.952833
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40121"
+

@@ -1,6 +1,8 @@
-zip_code = "60016"
-state = "IL"
 city = "Des Plaines"
 county = "Cook"
-longitude = -87.890466
 latitude = 42.048278
+longitude = -87.890466
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60016"
+

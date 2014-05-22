@@ -1,6 +1,8 @@
-zip_code = "46368"
-state = "IN"
 city = "Portage"
 county = "Porter"
-longitude = -87.12927
 latitude = 41.473367
+longitude = -87.12927
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46368"
+

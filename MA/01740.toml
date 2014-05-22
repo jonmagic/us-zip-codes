@@ -1,6 +1,8 @@
-zip_code = "01740"
-state = "MA"
 city = "Bolton"
 county = "Worcester"
-longitude = -71.605916
 latitude = 42.436043
+longitude = -71.605916
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01740"
+

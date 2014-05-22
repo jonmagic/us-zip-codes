@@ -1,6 +1,8 @@
-zip_code = "65076"
-state = "MO"
 city = "Saint Thomas"
 county = "Cole"
-longitude = -92.317745
 latitude = 38.421857
+longitude = -92.317745
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65076"
+

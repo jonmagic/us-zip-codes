@@ -1,6 +1,8 @@
-zip_code = "73703"
-state = "OK"
 city = "Enid"
 county = "Garfield"
-longitude = -97.943813
 latitude = 36.398065
+longitude = -97.943813
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73703"
+

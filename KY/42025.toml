@@ -1,6 +1,8 @@
-zip_code = "42025"
-state = "KY"
 city = "Benton"
 county = "Marshall"
-longitude = -88.305502
 latitude = 36.888765
+longitude = -88.305502
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42025"
+

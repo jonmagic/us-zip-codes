@@ -1,6 +1,8 @@
-zip_code = "03455"
-state = "NH"
 city = "Marlborough"
 county = "Cheshire"
-longitude = -72.279638
 latitude = 42.88825
+longitude = -72.279638
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03455"
+

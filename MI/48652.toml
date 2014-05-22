@@ -1,6 +1,8 @@
-zip_code = "48652"
-state = "MI"
 city = "Rhodes"
 county = "Gladwin"
-longitude = -84.228499
 latitude = 43.868833
+longitude = -84.228499
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48652"
+

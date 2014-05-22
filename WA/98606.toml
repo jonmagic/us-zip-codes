@@ -1,6 +1,8 @@
-zip_code = "98606"
-state = "WA"
 city = "Brush Prairie"
 county = "Clark"
-longitude = -122.477093
 latitude = 45.731631
+longitude = -122.477093
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98606"
+

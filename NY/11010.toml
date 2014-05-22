@@ -1,6 +1,8 @@
-zip_code = "11010"
-state = "NY"
 city = "Franklin Square"
 county = "Nassau"
-longitude = -73.674074
 latitude = 40.700101
+longitude = -73.674074
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11010"
+

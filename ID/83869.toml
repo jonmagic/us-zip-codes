@@ -1,6 +1,8 @@
-zip_code = "83869"
-state = "ID"
 city = "Spirit Lake"
 county = "Kootenai"
-longitude = -116.811536
 latitude = 47.944549
+longitude = -116.811536
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83869"
+

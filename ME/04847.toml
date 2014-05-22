@@ -1,6 +1,8 @@
-zip_code = "04847"
-state = "ME"
 city = "Hope"
 county = "Knox"
-longitude = -69.203015
 latitude = 44.241072
+longitude = -69.203015
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04847"
+

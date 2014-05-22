@@ -1,6 +1,8 @@
-zip_code = "43926"
-state = "OH"
 city = "Empire"
 county = "Jefferson"
-longitude = -80.624051
 latitude = 40.509225
+longitude = -80.624051
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43926"
+

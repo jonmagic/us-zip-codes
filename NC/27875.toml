@@ -1,6 +1,8 @@
-zip_code = "27875"
-state = "NC"
 city = "Scranton"
 county = "Hyde"
-longitude = -76.495091
 latitude = 35.471657
+longitude = -76.495091
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27875"
+

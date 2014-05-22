@@ -1,6 +1,8 @@
-zip_code = "28667"
-state = "NC"
 city = "Rhodhiss"
 county = "Caldwell"
-longitude = -81.43023
 latitude = 35.777241
+longitude = -81.43023
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28667"
+

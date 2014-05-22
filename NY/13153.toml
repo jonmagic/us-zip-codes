@@ -1,6 +1,8 @@
-zip_code = "13153"
-state = "NY"
 city = "Skaneateles Falls"
 county = "Onondaga"
-longitude = -76.451147
 latitude = 42.991112
+longitude = -76.451147
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13153"
+

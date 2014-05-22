@@ -1,6 +1,8 @@
-zip_code = "15536"
-state = "PA"
 city = "Crystal Spring"
 county = "Fulton"
-longitude = -78.122265
 latitude = 39.943762
+longitude = -78.122265
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15536"
+

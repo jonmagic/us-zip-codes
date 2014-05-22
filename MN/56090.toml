@@ -1,6 +1,8 @@
-zip_code = "56090"
-state = "MN"
 city = "Vernon Center"
 county = "Blue Earth"
-longitude = -94.233683
 latitude = 43.925892
+longitude = -94.233683
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56090"
+

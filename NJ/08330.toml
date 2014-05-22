@@ -1,6 +1,8 @@
-zip_code = "08330"
-state = "NJ"
 city = "Mays Landing"
 county = "Atlantic"
-longitude = -74.71588
 latitude = 39.47204
+longitude = -74.71588
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08330"
+

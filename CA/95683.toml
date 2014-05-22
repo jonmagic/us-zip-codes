@@ -1,6 +1,8 @@
-zip_code = "95683"
-state = "CA"
 city = "Sloughhouse"
 county = "Sacramento"
-longitude = -121.125431
 latitude = 38.51858
+longitude = -121.125431
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95683"
+

@@ -1,6 +1,8 @@
-zip_code = "36279"
-state = "AL"
 city = "Wellington"
 county = "Calhoun"
-longitude = -85.87097
 latitude = 33.866182
+longitude = -85.87097
+state = ""
+state_code_alpha2 = ""
+zip_code = "36279"
+

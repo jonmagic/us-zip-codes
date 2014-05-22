@@ -1,6 +1,8 @@
-zip_code = "55787"
-state = "MN"
 city = "Tamarack"
 county = "Aitkin"
-longitude = -93.213416
 latitude = 46.630318
+longitude = -93.213416
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55787"
+

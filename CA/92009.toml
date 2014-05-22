@@ -1,6 +1,8 @@
-zip_code = "92009"
-state = "CA"
 city = "Carlsbad"
 county = "San Diego"
-longitude = -117.267169
 latitude = 33.082192
+longitude = -117.267169
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92009"
+

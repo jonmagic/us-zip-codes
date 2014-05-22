@@ -1,6 +1,8 @@
-zip_code = "07620"
-state = "NJ"
 city = "Alpine"
 county = "Bergen"
-longitude = -73.927906
 latitude = 40.958975
+longitude = -73.927906
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07620"
+

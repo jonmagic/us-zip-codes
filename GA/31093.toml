@@ -1,6 +1,8 @@
-zip_code = "31093"
-state = "GA"
 city = "Warner Robins"
 county = "Houston"
-longitude = -83.658174
 latitude = 32.587303
+longitude = -83.658174
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31093"
+

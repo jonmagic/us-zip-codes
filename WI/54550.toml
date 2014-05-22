@@ -1,6 +1,8 @@
-zip_code = "54550"
-state = "WI"
 city = "Montreal"
 county = "Iron"
-longitude = -90.309085
 latitude = 46.396613
+longitude = -90.309085
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54550"
+

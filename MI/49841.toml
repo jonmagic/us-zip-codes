@@ -1,6 +1,8 @@
-zip_code = "49841"
-state = "MI"
 city = "Gwinn"
 county = "Marquette"
-longitude = -87.439658
 latitude = 46.331119
+longitude = -87.439658
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49841"
+

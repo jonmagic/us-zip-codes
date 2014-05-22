@@ -1,6 +1,8 @@
-zip_code = "61443"
-state = "IL"
 city = "Kewanee"
 county = "Henry"
-longitude = -90.118355
 latitude = 41.257262
+longitude = -90.118355
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61443"
+

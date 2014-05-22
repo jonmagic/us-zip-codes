@@ -1,6 +1,8 @@
-zip_code = "58479"
-state = "ND"
 city = "Rogers"
 county = "Barnes"
-longitude = -98.213603
 latitude = 47.074088
+longitude = -98.213603
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58479"
+

@@ -1,6 +1,8 @@
-zip_code = "40855"
-state = "KY"
 city = "Lynch"
 county = "Harlan"
-longitude = -82.919767
 latitude = 36.960303
+longitude = -82.919767
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40855"
+

@@ -1,6 +1,8 @@
-zip_code = "35448"
-state = "AL"
 city = "Clinton"
 county = "Greene"
-longitude = -87.956884
 latitude = 32.835692
+longitude = -87.956884
+state = ""
+state_code_alpha2 = ""
+zip_code = "35448"
+

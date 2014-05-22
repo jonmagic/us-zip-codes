@@ -1,6 +1,8 @@
-zip_code = "35068"
-state = "AL"
 city = "Fultondale"
 county = "Jefferson"
-longitude = -86.826491
 latitude = 33.601739
+longitude = -86.826491
+state = ""
+state_code_alpha2 = ""
+zip_code = "35068"
+

@@ -1,6 +1,8 @@
-zip_code = "18603"
-state = "PA"
 city = "Berwick"
 county = "Columbia"
-longitude = -76.299844
 latitude = 41.056142
+longitude = -76.299844
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18603"
+

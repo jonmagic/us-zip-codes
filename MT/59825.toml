@@ -1,6 +1,8 @@
-zip_code = "59825"
-state = "MT"
 city = "Clinton"
 county = "Missoula"
-longitude = -113.683052
 latitude = 46.778468
+longitude = -113.683052
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59825"
+

@@ -1,6 +1,8 @@
-zip_code = "81416"
-state = "CO"
 city = "Delta"
 county = "Delta"
-longitude = -107.97078
 latitude = 38.785768
+longitude = -107.97078
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81416"
+

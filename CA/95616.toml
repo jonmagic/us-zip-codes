@@ -1,6 +1,8 @@
-zip_code = "95616"
-state = "CA"
 city = "Davis"
 county = "Yolo"
-longitude = -121.749016
 latitude = 38.521776
+longitude = -121.749016
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95616"
+

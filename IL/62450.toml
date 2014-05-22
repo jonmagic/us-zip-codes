@@ -1,6 +1,8 @@
-zip_code = "62450"
-state = "IL"
 city = "Olney"
 county = "Richland"
-longitude = -88.085204
 latitude = 38.709154
+longitude = -88.085204
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62450"
+

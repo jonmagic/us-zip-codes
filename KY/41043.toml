@@ -1,6 +1,8 @@
-zip_code = "41043"
-state = "KY"
 city = "Foster"
 county = "Bracken"
-longitude = -84.171226
 latitude = 38.766691
+longitude = -84.171226
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41043"
+

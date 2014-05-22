@@ -1,6 +1,8 @@
-zip_code = "43501"
-state = "OH"
 city = "Alvordton"
 county = "Williams"
-longitude = -84.584125
 latitude = 41.577786
+longitude = -84.584125
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43501"
+

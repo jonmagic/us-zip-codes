@@ -1,6 +1,8 @@
-zip_code = "75928"
-state = "TX"
 city = "Bon Wier"
 county = "Newton"
-longitude = -93.709628
 latitude = 30.714636
+longitude = -93.709628
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75928"
+

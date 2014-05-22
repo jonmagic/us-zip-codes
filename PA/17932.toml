@@ -1,6 +1,8 @@
-zip_code = "17932"
-state = "PA"
 city = "Frackville"
 county = "Schuylkill"
-longitude = -76.503339
 latitude = 40.649109
+longitude = -76.503339
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17932"
+

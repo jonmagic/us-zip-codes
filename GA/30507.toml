@@ -1,6 +1,8 @@
-zip_code = "30507"
-state = "GA"
 city = "Gainesville"
 county = "Hall"
-longitude = -83.824574
 latitude = 34.257212
+longitude = -83.824574
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30507"
+

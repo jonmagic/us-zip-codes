@@ -1,6 +1,8 @@
-zip_code = "59759"
-state = "MT"
 city = "Whitehall"
 county = "Jefferson"
-longitude = -112.088845
 latitude = 45.996345
+longitude = -112.088845
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59759"
+

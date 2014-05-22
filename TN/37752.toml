@@ -1,6 +1,8 @@
-zip_code = "37752"
-state = "TN"
 city = "Harrogate"
 county = "Claiborne"
-longitude = -83.573282
 latitude = 36.532527
+longitude = -83.573282
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37752"
+

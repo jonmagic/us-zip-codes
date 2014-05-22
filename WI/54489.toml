@@ -1,6 +1,8 @@
-zip_code = "54489"
-state = "WI"
 city = "Vesper"
 county = "Wood"
-longitude = -90.003283
 latitude = 44.462338
+longitude = -90.003283
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54489"
+

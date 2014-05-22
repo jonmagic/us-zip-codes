@@ -1,6 +1,8 @@
-zip_code = "43113"
-state = "OH"
 city = "Circleville"
 county = "Pickaway"
-longitude = -82.945899
 latitude = 39.597084
+longitude = -82.945899
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43113"
+

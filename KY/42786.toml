@@ -1,6 +1,8 @@
-zip_code = "42786"
-state = "KY"
 city = "Waterview"
 county = "Cumberland"
-longitude = -85.462435
 latitude = 36.819839
+longitude = -85.462435
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42786"
+

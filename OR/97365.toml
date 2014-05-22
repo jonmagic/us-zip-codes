@@ -1,6 +1,8 @@
-zip_code = "97365"
-state = "OR"
 city = "Newport"
 county = "Lincoln"
-longitude = -124.024426
 latitude = 44.552413
+longitude = -124.024426
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97365"
+

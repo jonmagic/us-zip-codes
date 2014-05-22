@@ -1,6 +1,8 @@
-zip_code = "37878"
-state = "TN"
 city = "Tallassee"
 county = "Blount"
-longitude = -83.992315
 latitude = 35.584404
+longitude = -83.992315
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37878"
+

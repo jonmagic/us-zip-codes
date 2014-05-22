@@ -1,6 +1,8 @@
-zip_code = "99759"
-state = "AK"
 city = "Point Lay"
 county = "North Slope"
-longitude = -164.249713
 latitude = 68.887048
+longitude = -164.249713
+state = ""
+state_code_alpha2 = ""
+zip_code = "99759"
+

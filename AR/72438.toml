@@ -1,6 +1,8 @@
-zip_code = "72438"
-state = "AR"
 city = "Leachville"
 county = "Mississippi"
-longitude = -90.210167
 latitude = 35.884302
+longitude = -90.210167
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72438"
+

@@ -1,6 +1,8 @@
-zip_code = "20660"
-state = "MD"
 city = "Morganza"
 county = "Saint Marys"
-longitude = -76.694102
 latitude = 38.363994
+longitude = -76.694102
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20660"
+

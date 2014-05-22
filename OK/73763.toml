@@ -1,6 +1,8 @@
-zip_code = "73763"
-state = "OK"
 city = "Okeene"
 county = "Blaine"
-longitude = -98.42913
 latitude = 36.122914
+longitude = -98.42913
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73763"
+

@@ -1,6 +1,8 @@
-zip_code = "41824"
-state = "KY"
 city = "Isom"
 county = "Letcher"
-longitude = -82.875397
 latitude = 37.193211
+longitude = -82.875397
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41824"
+

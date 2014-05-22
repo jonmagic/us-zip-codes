@@ -1,6 +1,8 @@
-zip_code = "04078"
-state = "ME"
 city = "South Freeport"
 county = "Cumberland"
-longitude = -70.120781
 latitude = 43.820774
+longitude = -70.120781
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04078"
+

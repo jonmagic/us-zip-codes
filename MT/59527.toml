@@ -1,6 +1,8 @@
-zip_code = "59527"
-state = "MT"
 city = "Hays"
 county = "Blaine"
-longitude = -108.89392
 latitude = 48.360516
+longitude = -108.89392
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59527"
+

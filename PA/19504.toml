@@ -1,6 +1,8 @@
-zip_code = "19504"
-state = "PA"
 city = "Barto"
 county = "Berks"
-longitude = -75.720131
 latitude = 40.335395
+longitude = -75.720131
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19504"
+

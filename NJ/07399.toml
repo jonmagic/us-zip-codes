@@ -1,6 +1,8 @@
-zip_code = "07399"
-state = "NJ"
 city = "Jersey City"
 county = "Hudson"
-longitude = -74.075391
 latitude = 40.73235
+longitude = -74.075391
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07399"
+

@@ -1,6 +1,8 @@
-zip_code = "12580"
-state = "NY"
 city = "Staatsburg"
 county = "Dutchess"
-longitude = -73.72455
 latitude = 41.881636
+longitude = -73.72455
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12580"
+

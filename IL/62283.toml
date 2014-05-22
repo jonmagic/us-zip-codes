@@ -1,6 +1,8 @@
-zip_code = "62283"
-state = "IL"
 city = "Shattuc"
 county = "Clinton"
-longitude = -89.214562
 latitude = 38.652071
+longitude = -89.214562
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62283"
+

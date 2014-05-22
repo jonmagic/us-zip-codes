@@ -1,6 +1,8 @@
-zip_code = "29353"
-state = "SC"
 city = "Jonesville"
 county = "Union"
-longitude = -81.64306
 latitude = 34.81248
+longitude = -81.64306
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29353"
+

@@ -1,6 +1,8 @@
-zip_code = "66742"
-state = "KS"
 city = "Gas"
 county = "Allen"
-longitude = -95.346697
 latitude = 37.923162
+longitude = -95.346697
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66742"
+

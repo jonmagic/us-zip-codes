@@ -1,6 +1,8 @@
-zip_code = "64486"
-state = "MO"
 city = "Sheridan"
 county = "Worth"
-longitude = -94.61484
 latitude = 40.517058
+longitude = -94.61484
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64486"
+

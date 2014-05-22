@@ -1,6 +1,8 @@
-zip_code = "04841"
-state = "ME"
 city = "Rockland"
 county = "Knox"
-longitude = -69.068648
 latitude = 44.128607
+longitude = -69.068648
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04841"
+

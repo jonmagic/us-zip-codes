@@ -1,6 +1,8 @@
-zip_code = "71457"
-state = "LA"
 city = "Natchitoches"
 county = "Natchitoches"
-longitude = -93.109141
 latitude = 31.70988
+longitude = -93.109141
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71457"
+

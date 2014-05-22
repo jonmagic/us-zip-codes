@@ -1,6 +1,8 @@
-zip_code = "68956"
-state = "NE"
 city = "Kenesaw"
 county = "Adams"
-longitude = -98.610696
 latitude = 40.611581
+longitude = -98.610696
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68956"
+

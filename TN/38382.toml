@@ -1,6 +1,8 @@
-zip_code = "38382"
-state = "TN"
 city = "Trenton"
 county = "Gibson"
-longitude = -88.9815
 latitude = 35.96713
+longitude = -88.9815
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38382"
+

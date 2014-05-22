@@ -1,6 +1,8 @@
-zip_code = "04785"
-state = "ME"
 city = "Van Buren"
 county = "Aroostook"
-longitude = -68.042433
 latitude = 46.986075
+longitude = -68.042433
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04785"
+

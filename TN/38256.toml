@@ -1,6 +1,8 @@
-zip_code = "38256"
-state = "TN"
 city = "Springville"
 county = "Henry"
-longitude = -88.157201
 latitude = 36.295353
+longitude = -88.157201
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38256"
+

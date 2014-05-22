@@ -1,6 +1,8 @@
-zip_code = "80862"
-state = "CO"
 city = "Wild Horse"
 county = "Cheyenne"
-longitude = -103.079761
 latitude = 38.804111
+longitude = -103.079761
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80862"
+

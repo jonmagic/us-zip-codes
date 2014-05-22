@@ -1,6 +1,8 @@
-zip_code = "86022"
-state = "AZ"
 city = "Fredonia"
 county = "Coconino"
-longitude = -112.524696
 latitude = 36.96649
+longitude = -112.524696
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86022"
+

@@ -1,6 +1,8 @@
-zip_code = "03469"
-state = "NH"
 city = "West Swanzey"
 county = "Cheshire"
-longitude = -72.31509
 latitude = 42.87341
+longitude = -72.31509
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03469"
+

@@ -1,6 +1,8 @@
-zip_code = "95310"
-state = "CA"
 city = "Columbia"
 county = "Tuolumne"
-longitude = -120.363545
 latitude = 38.061003
+longitude = -120.363545
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95310"
+

@@ -1,6 +1,8 @@
-zip_code = "17349"
-state = "PA"
 city = "New Freedom"
 county = "York"
-longitude = -76.633324
 latitude = 39.866988
+longitude = -76.633324
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17349"
+

@@ -1,6 +1,8 @@
-zip_code = "21658"
-state = "MD"
 city = "Queenstown"
 county = "Queen Annes"
-longitude = -76.142374
 latitude = 39.00255
+longitude = -76.142374
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21658"
+

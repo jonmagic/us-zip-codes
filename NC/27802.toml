@@ -1,6 +1,8 @@
-zip_code = "27802"
-state = "NC"
 city = "Rocky Mount"
 county = "Edgecombe"
-longitude = -77.78077
 latitude = 35.935563
+longitude = -77.78077
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27802"
+

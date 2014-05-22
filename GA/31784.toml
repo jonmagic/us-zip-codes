@@ -1,6 +1,8 @@
-zip_code = "31784"
-state = "GA"
 city = "Sale City"
 county = "Mitchell"
-longitude = -84.047656
 latitude = 31.27433
+longitude = -84.047656
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31784"
+

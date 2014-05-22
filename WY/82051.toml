@@ -1,6 +1,8 @@
-zip_code = "82051"
-state = "WY"
 city = "Bosler"
 county = "Albany"
-longitude = -105.676771
 latitude = 41.464065
+longitude = -105.676771
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82051"
+

@@ -1,6 +1,8 @@
-zip_code = "54957"
-state = "WI"
 city = "Neenah"
 county = "Winnebago"
-longitude = -88.678863
 latitude = 44.198944
+longitude = -88.678863
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54957"
+

@@ -1,6 +1,8 @@
-zip_code = "17055"
-state = "PA"
 city = "Mechanicsburg"
 county = "Cumberland"
-longitude = -77.177086
 latitude = 40.180953
+longitude = -77.177086
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17055"
+

@@ -1,6 +1,8 @@
-zip_code = "61465"
-state = "IL"
 city = "New Windsor"
 county = "Mercer"
-longitude = -90.687247
 latitude = 41.176867
+longitude = -90.687247
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61465"
+

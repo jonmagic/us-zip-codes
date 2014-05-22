@@ -1,6 +1,8 @@
-zip_code = "36049"
-state = "AL"
 city = "Luverne"
 county = "Crenshaw"
-longitude = -86.291595
 latitude = 31.754655
+longitude = -86.291595
+state = ""
+state_code_alpha2 = ""
+zip_code = "36049"
+

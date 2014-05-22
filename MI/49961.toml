@@ -1,6 +1,8 @@
-zip_code = "49961"
-state = "MI"
 city = "Sidnaw"
 county = "Houghton"
-longitude = -88.79715
 latitude = 46.501487
+longitude = -88.79715
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49961"
+

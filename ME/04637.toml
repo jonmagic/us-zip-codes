@@ -1,6 +1,8 @@
-zip_code = "04637"
-state = "ME"
 city = "Grand Lake Stream"
 county = "Washington"
-longitude = -67.601026
 latitude = 45.185635
+longitude = -67.601026
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04637"
+

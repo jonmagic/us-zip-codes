@@ -1,6 +1,8 @@
-zip_code = "35031"
-state = "AL"
 city = "Blountsville"
 county = "Blount"
-longitude = -86.559625
 latitude = 34.091285
+longitude = -86.559625
+state = ""
+state_code_alpha2 = ""
+zip_code = "35031"
+

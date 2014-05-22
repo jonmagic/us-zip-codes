@@ -1,6 +1,8 @@
-zip_code = "77984"
-state = "TX"
 city = "Shiner"
 county = "Lavaca"
-longitude = -97.153946
 latitude = 29.42254
+longitude = -97.153946
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77984"
+

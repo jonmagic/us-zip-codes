@@ -1,6 +1,8 @@
-zip_code = "72834"
-state = "AR"
 city = "Dardanelle"
 county = "Yell"
-longitude = -93.184774
 latitude = 35.235025
+longitude = -93.184774
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72834"
+

@@ -1,6 +1,8 @@
-zip_code = "13863"
-state = "NY"
 city = "Willet"
 county = "Cortland"
-longitude = -75.924813
 latitude = 42.449946
+longitude = -75.924813
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13863"
+

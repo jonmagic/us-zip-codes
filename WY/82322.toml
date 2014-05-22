@@ -1,6 +1,8 @@
-zip_code = "82322"
-state = "WY"
 city = "Bairoil"
 county = "Sweetwater"
-longitude = -107.558882
 latitude = 42.239404
+longitude = -107.558882
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82322"
+

@@ -1,6 +1,8 @@
-zip_code = "93561"
-state = "CA"
 city = "Tehachapi"
 county = "Kern"
-longitude = -118.502209
 latitude = 35.043028
+longitude = -118.502209
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93561"
+

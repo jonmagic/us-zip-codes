@@ -1,6 +1,8 @@
-zip_code = "55314"
-state = "MN"
 city = "Buffalo Lake"
 county = "Renville"
-longitude = -94.752767
 latitude = 44.71031
+longitude = -94.752767
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55314"
+

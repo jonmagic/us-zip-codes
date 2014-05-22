@@ -1,6 +1,8 @@
-zip_code = "24050"
-state = "VA"
 city = "Roanoke"
 county = "Botetourt"
-longitude = -79.786151
 latitude = 37.555083
+longitude = -79.786151
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24050"
+

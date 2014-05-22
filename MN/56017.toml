@@ -1,6 +1,8 @@
-zip_code = "56017"
-state = "MN"
 city = "Cleveland"
 county = "Le Sueur"
-longitude = -93.817622
 latitude = 44.298188
+longitude = -93.817622
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56017"
+

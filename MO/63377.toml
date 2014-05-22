@@ -1,6 +1,8 @@
-zip_code = "63377"
-state = "MO"
 city = "Silex"
 county = "Lincoln"
-longitude = -90.996268
 latitude = 39.076463
+longitude = -90.996268
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63377"
+

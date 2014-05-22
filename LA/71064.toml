@@ -1,6 +1,8 @@
-zip_code = "71064"
-state = "LA"
 city = "Plain Dealing"
 county = "Bossier"
-longitude = -93.647824
 latitude = 32.768412
+longitude = -93.647824
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71064"
+

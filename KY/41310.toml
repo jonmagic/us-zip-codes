@@ -1,6 +1,8 @@
-zip_code = "41310"
-state = "KY"
 city = "Bays"
 county = "Breathitt"
-longitude = -83.244088
 latitude = 37.640513
+longitude = -83.244088
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41310"
+

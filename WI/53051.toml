@@ -1,6 +1,8 @@
-zip_code = "53051"
-state = "WI"
 city = "Menomonee Falls"
 county = "Waukesha"
-longitude = -88.227543
 latitude = 43.124189
+longitude = -88.227543
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53051"
+

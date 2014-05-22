@@ -1,6 +1,8 @@
-zip_code = "87053"
-state = "NM"
 city = "San Ysidro"
 county = "Sandoval"
-longitude = -106.988531
 latitude = 35.668248
+longitude = -106.988531
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87053"
+

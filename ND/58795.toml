@@ -1,6 +1,8 @@
-zip_code = "58795"
-state = "ND"
 city = "Wildrose"
 county = "Williams"
-longitude = -103.153622
 latitude = 48.567814
+longitude = -103.153622
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58795"
+

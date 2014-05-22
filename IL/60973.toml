@@ -1,6 +1,8 @@
-zip_code = "60973"
-state = "IL"
 city = "Wellington"
 county = "Iroquois"
-longitude = -87.658329
 latitude = 40.633196
+longitude = -87.658329
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60973"
+

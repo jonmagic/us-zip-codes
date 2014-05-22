@@ -1,6 +1,8 @@
-zip_code = "41604"
-state = "KY"
 city = "Beaver"
 county = "Floyd"
-longitude = -82.686866
 latitude = 37.377377
+longitude = -82.686866
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41604"
+

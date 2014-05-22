@@ -1,6 +1,8 @@
-zip_code = "56093"
-state = "MN"
 city = "Waseca"
 county = "Waseca"
-longitude = -93.550495
 latitude = 44.065547
+longitude = -93.550495
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56093"
+

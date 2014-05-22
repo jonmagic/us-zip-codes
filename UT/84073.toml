@@ -1,6 +1,8 @@
-zip_code = "84073"
-state = "UT"
 city = "Talmage"
 county = "Duchesne"
-longitude = -110.435974
 latitude = 40.320728
+longitude = -110.435974
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84073"
+

@@ -1,6 +1,8 @@
-zip_code = "78359"
-state = "TX"
 city = "Gregory"
 county = "San Patricio"
-longitude = -97.245888
 latitude = 27.945389
+longitude = -97.245888
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78359"
+

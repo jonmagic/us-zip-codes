@@ -1,6 +1,8 @@
-zip_code = "68873"
-state = "NE"
 city = "Saint Paul"
 county = "Howard"
-longitude = -98.503283
 latitude = 41.232405
+longitude = -98.503283
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68873"
+

@@ -1,6 +1,8 @@
-zip_code = "17517"
-state = "PA"
 city = "Denver"
 county = "Lancaster"
-longitude = -76.337734
 latitude = 40.188445
+longitude = -76.337734
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17517"
+

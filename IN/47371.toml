@@ -1,6 +1,8 @@
-zip_code = "47371"
-state = "IN"
 city = "Portland"
 county = "Jay"
-longitude = -84.983015
 latitude = 40.431634
+longitude = -84.983015
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47371"
+

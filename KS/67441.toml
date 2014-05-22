@@ -1,6 +1,8 @@
-zip_code = "67441"
-state = "KS"
 city = "Enterprise"
 county = "Dickinson"
-longitude = -97.09319
 latitude = 38.889721
+longitude = -97.09319
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67441"
+

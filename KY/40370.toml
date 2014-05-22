@@ -1,6 +1,8 @@
-zip_code = "40370"
-state = "KY"
 city = "Sadieville"
 county = "Scott"
-longitude = -84.553016
 latitude = 38.383618
+longitude = -84.553016
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40370"
+

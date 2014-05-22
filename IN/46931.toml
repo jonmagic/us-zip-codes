@@ -1,6 +1,8 @@
-zip_code = "46931"
-state = "IN"
 city = "Fulton"
 county = "Fulton"
-longitude = -86.265814
 latitude = 40.948405
+longitude = -86.265814
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46931"
+

@@ -1,6 +1,8 @@
-zip_code = "71450"
-state = "LA"
 city = "Marthaville"
 county = "Natchitoches"
-longitude = -93.361235
 latitude = 31.78699
+longitude = -93.361235
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71450"
+

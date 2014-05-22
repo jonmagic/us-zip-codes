@@ -1,6 +1,8 @@
-zip_code = "88124"
-state = "NM"
 city = "Melrose"
 county = "Curry"
-longitude = -103.564506
 latitude = 34.50512
+longitude = -103.564506
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88124"
+

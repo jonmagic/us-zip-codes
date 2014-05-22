@@ -1,6 +1,8 @@
-zip_code = "69357"
-state = "NE"
 city = "Mitchell"
 county = "Scotts Bluff"
-longitude = -103.803504
 latitude = 41.874333
+longitude = -103.803504
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69357"
+

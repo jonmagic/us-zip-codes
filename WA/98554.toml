@@ -1,6 +1,8 @@
-zip_code = "98554"
-state = "WA"
 city = "Lebam"
 county = "Pacific"
-longitude = -123.54788
 latitude = 46.561375
+longitude = -123.54788
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98554"
+

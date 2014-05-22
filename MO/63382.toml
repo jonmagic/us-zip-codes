@@ -1,6 +1,8 @@
-zip_code = "63382"
-state = "MO"
 city = "Vandalia"
 county = "Audrain"
-longitude = -91.530807
 latitude = 39.251403
+longitude = -91.530807
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63382"
+

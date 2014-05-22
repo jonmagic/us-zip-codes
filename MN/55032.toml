@@ -1,6 +1,8 @@
-zip_code = "55032"
-state = "MN"
 city = "Harris"
 county = "Chisago"
-longitude = -92.998865
 latitude = 45.593629
+longitude = -92.998865
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55032"
+

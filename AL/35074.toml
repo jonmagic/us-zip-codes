@@ -1,6 +1,8 @@
-zip_code = "35074"
-state = "AL"
 city = "Green Pond"
 county = "Bibb"
-longitude = -87.118044
 latitude = 33.202691
+longitude = -87.118044
+state = ""
+state_code_alpha2 = ""
+zip_code = "35074"
+

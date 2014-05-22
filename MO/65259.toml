@@ -1,6 +1,8 @@
-zip_code = "65259"
-state = "MO"
 city = "Huntsville"
 county = "Randolph"
-longitude = -92.504087
 latitude = 39.470411
+longitude = -92.504087
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65259"
+

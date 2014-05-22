@@ -1,6 +1,8 @@
-zip_code = "30756"
-state = "GA"
 city = "Varnell"
 county = "Whitfield"
-longitude = -84.988536
 latitude = 34.9298
+longitude = -84.988536
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30756"
+

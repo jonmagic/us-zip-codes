@@ -1,6 +1,8 @@
-zip_code = "49096"
-state = "MI"
 city = "Vermontville"
 county = "Eaton"
-longitude = -85.004661
 latitude = 42.639932
+longitude = -85.004661
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49096"
+

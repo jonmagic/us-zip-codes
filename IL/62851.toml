@@ -1,6 +1,8 @@
-zip_code = "62851"
-state = "IL"
 city = "Keenes"
 county = "Wayne"
-longitude = -88.424978
 latitude = 38.431273
+longitude = -88.424978
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62851"
+

@@ -1,6 +1,8 @@
-zip_code = "17030"
-state = "PA"
 city = "Gratz"
 county = "Dauphin"
-longitude = -76.737545
 latitude = 40.608245
+longitude = -76.737545
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17030"
+

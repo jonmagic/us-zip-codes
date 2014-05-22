@@ -1,6 +1,8 @@
-zip_code = "62818"
-state = "IL"
 city = "Browns"
 county = "Edwards"
-longitude = -88.043941
 latitude = 38.413149
+longitude = -88.043941
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62818"
+

@@ -1,6 +1,8 @@
-zip_code = "12953"
-state = "NY"
 city = "Malone"
 county = "Franklin"
-longitude = -74.288237
 latitude = 44.859117
+longitude = -74.288237
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12953"
+

@@ -1,6 +1,8 @@
-zip_code = "04854"
-state = "ME"
 city = "Owls Head"
 county = "Knox"
-longitude = -69.085574
 latitude = 44.07951
+longitude = -69.085574
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04854"
+

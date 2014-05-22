@@ -1,6 +1,8 @@
-zip_code = "30426"
-state = "GA"
 city = "Girard"
 county = "Burke"
-longitude = -81.684489
 latitude = 33.05387
+longitude = -81.684489
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30426"
+

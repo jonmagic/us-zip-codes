@@ -1,6 +1,8 @@
-zip_code = "76841"
-state = "TX"
 city = "Fort Mc Kavett"
 county = "Menard"
-longitude = -99.827483
 latitude = 30.931395
+longitude = -99.827483
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76841"
+

@@ -1,6 +1,8 @@
-zip_code = "87006"
-state = "NM"
 city = "Bosque"
 county = "Valencia"
-longitude = -106.786042
 latitude = 34.613133
+longitude = -106.786042
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87006"
+

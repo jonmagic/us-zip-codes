@@ -1,6 +1,8 @@
-zip_code = "12839"
-state = "NY"
 city = "Hudson Falls"
 county = "Washington"
-longitude = -73.468589
 latitude = 43.203596
+longitude = -73.468589
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12839"
+

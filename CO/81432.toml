@@ -1,6 +1,8 @@
-zip_code = "81432"
-state = "CO"
 city = "Ridgway"
 county = "Ouray"
-longitude = -107.72736
 latitude = 38.177464
+longitude = -107.72736
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81432"
+

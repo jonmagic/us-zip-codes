@@ -1,6 +1,8 @@
-zip_code = "19503"
-state = "PA"
 city = "Bally"
 county = "Berks"
-longitude = -75.708672
 latitude = 40.447833
+longitude = -75.708672
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19503"
+

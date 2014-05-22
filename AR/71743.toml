@@ -1,6 +1,8 @@
-zip_code = "71743"
-state = "AR"
 city = "Gurdon"
 county = "Clark"
-longitude = -93.129994
 latitude = 33.930011
+longitude = -93.129994
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71743"
+

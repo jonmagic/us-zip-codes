@@ -1,6 +1,8 @@
-zip_code = "38828"
-state = "MS"
 city = "Blue Springs"
 county = "Union"
-longitude = -88.958608
 latitude = 34.464253
+longitude = -88.958608
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38828"
+

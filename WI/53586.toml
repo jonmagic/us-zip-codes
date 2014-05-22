@@ -1,6 +1,8 @@
-zip_code = "53586"
-state = "WI"
 city = "Shullsburg"
 county = "Lafayette"
-longitude = -90.113635
 latitude = 42.605221
+longitude = -90.113635
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53586"
+

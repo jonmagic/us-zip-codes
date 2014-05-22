@@ -1,6 +1,8 @@
-zip_code = "14881"
-state = "NY"
 city = "Slaterville Springs"
 county = "Tompkins"
-longitude = -76.360782
 latitude = 42.402463
+longitude = -76.360782
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14881"
+

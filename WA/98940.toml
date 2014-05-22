@@ -1,6 +1,8 @@
-zip_code = "98940"
-state = "WA"
 city = "Ronald"
 county = "Kittitas"
-longitude = -121.045575
 latitude = 47.250307
+longitude = -121.045575
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98940"
+

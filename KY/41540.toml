@@ -1,6 +1,8 @@
-zip_code = "41540"
-state = "KY"
 city = "Lick Creek"
 county = "Pike"
-longitude = -82.309224
 latitude = 37.359184
+longitude = -82.309224
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41540"
+

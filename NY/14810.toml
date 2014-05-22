@@ -1,6 +1,8 @@
-zip_code = "14810"
-state = "NY"
 city = "Bath"
 county = "Steuben"
-longitude = -77.302789
 latitude = 42.357464
+longitude = -77.302789
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14810"
+

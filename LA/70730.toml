@@ -1,6 +1,8 @@
-zip_code = "70730"
-state = "LA"
 city = "Ethel"
 county = "East Feliciana"
-longitude = -91.124098
 latitude = 30.828705
+longitude = -91.124098
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70730"
+

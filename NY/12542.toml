@@ -1,6 +1,8 @@
-zip_code = "12542"
-state = "NY"
 city = "Marlboro"
 county = "Ulster"
-longitude = -74.002802
 latitude = 41.612647
+longitude = -74.002802
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12542"
+

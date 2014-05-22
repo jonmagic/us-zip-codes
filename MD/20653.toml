@@ -1,6 +1,8 @@
-zip_code = "20653"
-state = "MD"
 city = "Lexington Park"
 county = "Saint Marys"
-longitude = -76.430853
 latitude = 38.232909
+longitude = -76.430853
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20653"
+

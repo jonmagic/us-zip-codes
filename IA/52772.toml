@@ -1,6 +1,8 @@
-zip_code = "52772"
-state = "IA"
 city = "Tipton"
 county = "Cedar"
-longitude = -91.13248
 latitude = 41.772503
+longitude = -91.13248
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52772"
+

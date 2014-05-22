@@ -1,6 +1,8 @@
-zip_code = "63369"
-state = "MO"
 city = "Old Monroe"
 county = "Lincoln"
-longitude = -90.8106
 latitude = 38.94773
+longitude = -90.8106
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63369"
+

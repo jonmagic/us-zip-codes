@@ -1,6 +1,8 @@
-zip_code = "06233"
-state = "CT"
 city = "Ballouville"
 county = "Windham"
-longitude = -72.020137
 latitude = 41.831565
+longitude = -72.020137
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06233"
+

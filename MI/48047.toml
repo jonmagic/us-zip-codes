@@ -1,6 +1,8 @@
-zip_code = "48047"
-state = "MI"
 city = "New Baltimore"
 county = "Macomb"
-longitude = -82.821874
 latitude = 42.601469
+longitude = -82.821874
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48047"
+

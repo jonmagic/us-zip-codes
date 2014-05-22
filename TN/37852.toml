@@ -1,6 +1,8 @@
-zip_code = "37852"
-state = "TN"
 city = "Robbins"
 county = "Scott"
-longitude = -84.581147
 latitude = 36.377044
+longitude = -84.581147
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37852"
+

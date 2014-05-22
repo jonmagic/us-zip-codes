@@ -1,6 +1,8 @@
-zip_code = "35620"
-state = "AL"
 city = "Elkmont"
 county = "Limestone"
-longitude = -86.972554
 latitude = 34.899993
+longitude = -86.972554
+state = ""
+state_code_alpha2 = ""
+zip_code = "35620"
+

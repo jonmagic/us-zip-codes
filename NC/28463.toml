@@ -1,6 +1,8 @@
-zip_code = "28463"
-state = "NC"
 city = "Tabor City"
 county = "Columbus"
-longitude = -78.635372
 latitude = 34.153412
+longitude = -78.635372
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28463"
+

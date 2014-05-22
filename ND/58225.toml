@@ -1,6 +1,8 @@
-zip_code = "58225"
-state = "ND"
 city = "Drayton"
 county = "Pembina"
-longitude = -97.362726
 latitude = 48.668146
+longitude = -97.362726
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58225"
+

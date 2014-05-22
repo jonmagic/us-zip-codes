@@ -1,6 +1,8 @@
-zip_code = "40004"
-state = "KY"
 city = "Bardstown"
 county = "Nelson"
-longitude = -85.466944
 latitude = 37.822585
+longitude = -85.466944
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40004"
+

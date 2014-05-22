@@ -1,6 +1,8 @@
-zip_code = "43347"
-state = "OH"
 city = "Rushsylvania"
 county = "Logan"
-longitude = -83.650983
 latitude = 40.474334
+longitude = -83.650983
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43347"
+

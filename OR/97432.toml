@@ -1,6 +1,8 @@
-zip_code = "97432"
-state = "OR"
 city = "Dillard"
 county = "Douglas"
-longitude = -123.418068
 latitude = 43.113502
+longitude = -123.418068
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97432"
+

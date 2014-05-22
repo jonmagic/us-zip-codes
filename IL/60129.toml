@@ -1,6 +1,8 @@
-zip_code = "60129"
-state = "IL"
 city = "Esmond"
 county = "De Kalb"
-longitude = -88.919791
 latitude = 42.042932
+longitude = -88.919791
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60129"
+

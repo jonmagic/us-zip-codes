@@ -1,6 +1,8 @@
-zip_code = "70079"
-state = "LA"
 city = "Norco"
 county = "Saint Charles"
-longitude = -90.404699
 latitude = 29.973479
+longitude = -90.404699
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70079"
+

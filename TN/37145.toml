@@ -1,6 +1,8 @@
-zip_code = "37145"
-state = "TN"
 city = "Pleasant Shade"
 county = "Smith"
-longitude = -85.918944
 latitude = 36.346164
+longitude = -85.918944
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37145"
+

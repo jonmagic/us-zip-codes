@@ -1,6 +1,8 @@
-zip_code = "33471"
-state = "FL"
 city = "Moore Haven"
 county = "Glades"
-longitude = -81.195575
 latitude = 26.886471
+longitude = -81.195575
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33471"
+

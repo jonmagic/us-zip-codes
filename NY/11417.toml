@@ -1,6 +1,8 @@
-zip_code = "11417"
-state = "NY"
 city = "Ozone Park"
 county = "Queens"
-longitude = -73.844315
 latitude = 40.675056
+longitude = -73.844315
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11417"
+

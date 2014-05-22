@@ -1,6 +1,8 @@
-zip_code = "43549"
-state = "OH"
 city = "Ney"
 county = "Defiance"
-longitude = -84.51582
 latitude = 41.361864
+longitude = -84.51582
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43549"
+

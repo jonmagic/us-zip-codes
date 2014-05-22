@@ -1,6 +1,8 @@
-zip_code = "41630"
-state = "KY"
 city = "Garrett"
 county = "Floyd"
-longitude = -82.834287
 latitude = 37.472094
+longitude = -82.834287
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41630"
+

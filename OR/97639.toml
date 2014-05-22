@@ -1,6 +1,8 @@
-zip_code = "97639"
-state = "OR"
 city = "Sprague River"
 county = "Klamath"
-longitude = -121.531087
 latitude = 42.486975
+longitude = -121.531087
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97639"
+

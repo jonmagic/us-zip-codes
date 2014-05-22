@@ -1,6 +1,8 @@
-zip_code = "12160"
-state = "NY"
 city = "Sloansville"
 county = "Schoharie"
-longitude = -74.317361
 latitude = 42.756876
+longitude = -74.317361
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12160"
+

@@ -1,6 +1,8 @@
-zip_code = "21671"
-state = "MD"
 city = "Tilghman"
 county = "Talbot"
-longitude = -76.332647
 latitude = 38.704729
+longitude = -76.332647
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21671"
+

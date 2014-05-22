@@ -1,6 +1,8 @@
-zip_code = "70310"
-state = "LA"
 city = "Thibodaux"
 county = "Lafourche"
-longitude = -90.816914
 latitude = 29.803282
+longitude = -90.816914
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70310"
+

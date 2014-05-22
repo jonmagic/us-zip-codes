@@ -1,6 +1,8 @@
-zip_code = "97481"
-state = "OR"
 city = "Tenmile"
 county = "Douglas"
-longitude = -123.529417
 latitude = 43.11405
+longitude = -123.529417
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97481"
+

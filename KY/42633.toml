@@ -1,6 +1,8 @@
-zip_code = "42633"
-state = "KY"
 city = "Monticello"
 county = "Wayne"
-longitude = -84.8254
 latitude = 36.8674
+longitude = -84.8254
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42633"
+

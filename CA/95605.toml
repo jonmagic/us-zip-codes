@@ -1,6 +1,8 @@
-zip_code = "95605"
-state = "CA"
 city = "West Sacramento"
 county = "Yolo"
-longitude = -121.537801
 latitude = 38.591854
+longitude = -121.537801
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95605"
+

@@ -1,6 +1,8 @@
-zip_code = "55041"
-state = "MN"
 city = "Lake City"
 county = "Wabasha"
-longitude = -92.232221
 latitude = 44.421753
+longitude = -92.232221
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55041"
+

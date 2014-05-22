@@ -1,6 +1,8 @@
-zip_code = "60952"
-state = "IL"
 city = "Melvin"
 county = "Ford"
-longitude = -88.299338
 latitude = 40.537915
+longitude = -88.299338
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60952"
+

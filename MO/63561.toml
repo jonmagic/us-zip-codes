@@ -1,6 +1,8 @@
-zip_code = "63561"
-state = "MO"
 city = "Queen City"
 county = "Schuyler"
-longitude = -92.569221
 latitude = 40.409719
+longitude = -92.569221
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63561"
+

@@ -1,6 +1,8 @@
-zip_code = "68442"
-state = "NE"
 city = "Stella"
 county = "Richardson"
-longitude = -95.77285
 latitude = 40.23102
+longitude = -95.77285
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68442"
+

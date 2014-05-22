@@ -1,6 +1,8 @@
-zip_code = "67342"
-state = "KS"
 city = "Edna"
 county = "Labette"
-longitude = -95.347225
 latitude = 37.071835
+longitude = -95.347225
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67342"
+

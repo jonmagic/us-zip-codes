@@ -1,6 +1,8 @@
-zip_code = "23416"
-state = "VA"
 city = "Oak Hall"
 county = "Accomack"
-longitude = -75.538591
 latitude = 37.922866
+longitude = -75.538591
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23416"
+

@@ -1,6 +1,8 @@
-zip_code = "71247"
-state = "LA"
 city = "Hodge"
 county = "Jackson"
-longitude = -92.71463
 latitude = 32.280774
+longitude = -92.71463
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71247"
+

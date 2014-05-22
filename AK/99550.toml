@@ -1,6 +1,8 @@
-zip_code = "99550"
-state = "AK"
 city = "Port Lions"
 county = "Kodiak Island"
-longitude = -153.505567
 latitude = 57.701171
+longitude = -153.505567
+state = ""
+state_code_alpha2 = ""
+zip_code = "99550"
+

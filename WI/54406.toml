@@ -1,6 +1,8 @@
-zip_code = "54406"
-state = "WI"
 city = "Amherst"
 county = "Portage"
-longitude = -89.335313
 latitude = 44.393087
+longitude = -89.335313
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54406"
+

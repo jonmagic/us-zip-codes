@@ -1,6 +1,8 @@
-zip_code = "87319"
-state = "NM"
 city = "Mentmore"
 county = "Mckinley"
-longitude = -108.831686
 latitude = 35.50425
+longitude = -108.831686
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87319"
+

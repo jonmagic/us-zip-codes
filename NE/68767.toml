@@ -1,6 +1,8 @@
-zip_code = "68767"
-state = "NE"
 city = "Pierce"
 county = "Pierce"
-longitude = -97.581551
 latitude = 42.224218
+longitude = -97.581551
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68767"
+

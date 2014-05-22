@@ -1,6 +1,8 @@
-zip_code = "23846"
-state = "VA"
 city = "Elberon"
 county = "Surry"
-longitude = -76.856852
 latitude = 37.07295
+longitude = -76.856852
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23846"
+

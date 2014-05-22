@@ -1,6 +1,8 @@
-zip_code = "06878"
-state = "CT"
 city = "Riverside"
 county = "Fairfield"
-longitude = -73.580241
 latitude = 41.035596
+longitude = -73.580241
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06878"
+

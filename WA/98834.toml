@@ -1,6 +1,8 @@
-zip_code = "98834"
-state = "WA"
 city = "Methow"
 county = "Okanogan"
-longitude = -120.046348
 latitude = 48.139518
+longitude = -120.046348
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98834"
+

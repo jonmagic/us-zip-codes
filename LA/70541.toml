@@ -1,6 +1,8 @@
-zip_code = "70541"
-state = "LA"
 city = "Grand Coteau"
 county = "Saint Landry"
-longitude = -92.031178
 latitude = 30.417402
+longitude = -92.031178
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70541"
+

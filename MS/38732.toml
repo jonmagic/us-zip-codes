@@ -1,6 +1,8 @@
-zip_code = "38732"
-state = "MS"
 city = "Cleveland"
 county = "Bolivar"
-longitude = -90.84313
 latitude = 33.847591
+longitude = -90.84313
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38732"
+

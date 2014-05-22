@@ -1,6 +1,8 @@
-zip_code = "52206"
-state = "IA"
 city = "Atkins"
 county = "Benton"
-longitude = -92.058526
 latitude = 42.057516
+longitude = -92.058526
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52206"
+

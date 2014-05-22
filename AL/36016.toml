@@ -1,6 +1,8 @@
-zip_code = "36016"
-state = "AL"
 city = "Clayton"
 county = "Barbour"
-longitude = -85.421299
 latitude = 31.805322
+longitude = -85.421299
+state = ""
+state_code_alpha2 = ""
+zip_code = "36016"
+

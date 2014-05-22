@@ -1,6 +1,8 @@
-zip_code = "12136"
-state = "NY"
 city = "Old Chatham"
 county = "Columbia"
-longitude = -73.561172
 latitude = 42.434992
+longitude = -73.561172
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12136"
+

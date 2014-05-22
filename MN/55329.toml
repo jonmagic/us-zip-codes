@@ -1,6 +1,8 @@
-zip_code = "55329"
-state = "MN"
 city = "Eden Valley"
 county = "Meeker"
-longitude = -94.524712
 latitude = 45.282592
+longitude = -94.524712
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55329"
+

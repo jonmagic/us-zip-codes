@@ -1,6 +1,8 @@
-zip_code = "65078"
-state = "MO"
 city = "Stover"
 county = "Morgan"
-longitude = -92.995989
 latitude = 38.437941
+longitude = -92.995989
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65078"
+

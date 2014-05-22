@@ -1,6 +1,8 @@
-zip_code = "49874"
-state = "MI"
 city = "Powers"
 county = "Menominee"
-longitude = -87.512409
 latitude = 45.703409
+longitude = -87.512409
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49874"
+

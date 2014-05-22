@@ -1,6 +1,8 @@
-zip_code = "50604"
-state = "IA"
 city = "Aplington"
 county = "Butler"
-longitude = -92.895287
 latitude = 42.657249
+longitude = -92.895287
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50604"
+

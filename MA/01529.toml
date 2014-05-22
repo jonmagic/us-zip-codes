@@ -1,6 +1,8 @@
-zip_code = "01529"
-state = "MA"
 city = "Millville"
 county = "Worcester"
-longitude = -71.846943
 latitude = 42.124662
+longitude = -71.846943
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01529"
+

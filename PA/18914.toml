@@ -1,6 +1,8 @@
-zip_code = "18914"
-state = "PA"
 city = "Chalfont"
 county = "Bucks"
-longitude = -75.201848
 latitude = 40.288277
+longitude = -75.201848
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18914"
+

@@ -1,6 +1,8 @@
-zip_code = "38621"
-state = "MS"
 city = "Crenshaw"
 county = "Panola"
-longitude = -90.101204
 latitude = 34.447051
+longitude = -90.101204
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38621"
+

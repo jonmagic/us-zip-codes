@@ -1,6 +1,8 @@
-zip_code = "77514"
-state = "TX"
 city = "Anahuac"
 county = "Chambers"
-longitude = -94.592995
 latitude = 29.662044
+longitude = -94.592995
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77514"
+

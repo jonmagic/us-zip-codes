@@ -1,6 +1,8 @@
-zip_code = "64011"
-state = "MO"
 city = "Bates City"
 county = "Lafayette"
-longitude = -94.063718
 latitude = 38.974639
+longitude = -94.063718
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64011"
+

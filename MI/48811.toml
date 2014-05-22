@@ -1,6 +1,8 @@
-zip_code = "48811"
-state = "MI"
 city = "Carson City"
 county = "Montcalm"
-longitude = -85.05493
 latitude = 43.279958
+longitude = -85.05493
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48811"
+

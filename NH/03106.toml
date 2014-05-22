@@ -1,6 +1,8 @@
-zip_code = "03106"
-state = "NH"
 city = "Hooksett"
 county = "Merrimack"
-longitude = -71.443616
 latitude = 43.065097
+longitude = -71.443616
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03106"
+

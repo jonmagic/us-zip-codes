@@ -1,6 +1,8 @@
-zip_code = "71968"
-state = "AR"
 city = "Royal"
 county = "Garland"
-longitude = -93.282723
 latitude = 34.514125
+longitude = -93.282723
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71968"
+

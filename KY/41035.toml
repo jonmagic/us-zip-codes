@@ -1,6 +1,8 @@
-zip_code = "41035"
-state = "KY"
 city = "Dry Ridge"
 county = "Grant"
-longitude = -84.650966
 latitude = 38.691789
+longitude = -84.650966
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41035"
+

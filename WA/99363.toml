@@ -1,6 +1,8 @@
-zip_code = "99363"
-state = "WA"
 city = "Wallula"
 county = "Walla Walla"
-longitude = -118.906079
 latitude = 46.084584
+longitude = -118.906079
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99363"
+

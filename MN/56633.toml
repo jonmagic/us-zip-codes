@@ -1,6 +1,8 @@
-zip_code = "56633"
-state = "MN"
 city = "Cass Lake"
 county = "Cass"
-longitude = -94.476853
 latitude = 47.327719
+longitude = -94.476853
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56633"
+

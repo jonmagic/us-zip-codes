@@ -1,6 +1,8 @@
-zip_code = "78949"
-state = "TX"
 city = "Muldoon"
 county = "Fayette"
-longitude = -97.073122
 latitude = 29.828348
+longitude = -97.073122
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78949"
+

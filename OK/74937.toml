@@ -1,6 +1,8 @@
-zip_code = "74937"
-state = "OK"
 city = "Heavener"
 county = "Le Flore"
-longitude = -94.662657
 latitude = 34.967535
+longitude = -94.662657
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74937"
+

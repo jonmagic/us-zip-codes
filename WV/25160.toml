@@ -1,6 +1,8 @@
-zip_code = "25160"
-state = "WV"
 city = "Pond Gap"
 county = "Kanawha"
-longitude = -81.277293
 latitude = 38.290746
+longitude = -81.277293
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25160"
+

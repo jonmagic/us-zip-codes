@@ -1,6 +1,8 @@
-zip_code = "24212"
-state = "VA"
 city = "Abingdon"
 county = "Washington"
-longitude = -81.970764
 latitude = 36.690942
+longitude = -81.970764
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24212"
+

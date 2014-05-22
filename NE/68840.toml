@@ -1,6 +1,8 @@
-zip_code = "68840"
-state = "NE"
 city = "Gibbon"
 county = "Buffalo"
-longitude = -98.882818
 latitude = 40.770884
+longitude = -98.882818
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68840"
+

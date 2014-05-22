@@ -1,6 +1,8 @@
-zip_code = "07045"
-state = "NJ"
 city = "Montville"
 county = "Morris"
-longitude = -74.363231
 latitude = 40.906311
+longitude = -74.363231
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07045"
+

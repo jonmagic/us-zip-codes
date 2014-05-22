@@ -1,6 +1,8 @@
-zip_code = "39470"
-state = "MS"
 city = "Poplarville"
 county = "Pearl River"
-longitude = -89.58072
 latitude = 30.756774
+longitude = -89.58072
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39470"
+

@@ -1,6 +1,8 @@
-zip_code = "17372"
-state = "PA"
 city = "York Springs"
 county = "Adams"
-longitude = -77.100231
 latitude = 40.007937
+longitude = -77.100231
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17372"
+

@@ -1,6 +1,8 @@
-zip_code = "28906"
-state = "NC"
 city = "Murphy"
 county = "Cherokee"
-longitude = -84.038776
 latitude = 35.131159
+longitude = -84.038776
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28906"
+

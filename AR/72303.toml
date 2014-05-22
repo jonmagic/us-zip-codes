@@ -1,6 +1,8 @@
-zip_code = "72303"
-state = "AR"
 city = "West Memphis"
 county = "Crittenden"
-longitude = -90.285543
 latitude = 35.137366
+longitude = -90.285543
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72303"
+

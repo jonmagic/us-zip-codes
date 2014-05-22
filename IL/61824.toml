@@ -1,6 +1,8 @@
-zip_code = "61824"
-state = "IL"
 city = "Champaign"
 county = "Champaign"
-longitude = -88.196102
 latitude = 40.139946
+longitude = -88.196102
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61824"
+

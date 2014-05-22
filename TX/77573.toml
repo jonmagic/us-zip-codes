@@ -1,6 +1,8 @@
-zip_code = "77573"
-state = "TX"
 city = "League City"
 county = "Galveston"
-longitude = -95.052262
 latitude = 29.496451
+longitude = -95.052262
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77573"
+

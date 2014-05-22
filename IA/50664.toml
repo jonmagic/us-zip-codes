@@ -1,6 +1,8 @@
-zip_code = "50664"
-state = "IA"
 city = "Oran"
 county = "Fayette"
-longitude = -91.843639
 latitude = 42.862275
+longitude = -91.843639
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50664"
+

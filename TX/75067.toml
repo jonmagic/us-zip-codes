@@ -1,6 +1,8 @@
-zip_code = "75067"
-state = "TX"
 city = "Lewisville"
 county = "Denton"
-longitude = -97.050897
 latitude = 33.047871
+longitude = -97.050897
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75067"
+

@@ -1,6 +1,8 @@
-zip_code = "70464"
-state = "LA"
 city = "Talisheek"
 county = "Saint Tammany"
-longitude = -89.885927
 latitude = 30.534697
+longitude = -89.885927
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70464"
+

@@ -1,6 +1,8 @@
-zip_code = "01566"
-state = "MA"
 city = "Sturbridge"
 county = "Worcester"
-longitude = -72.080996
 latitude = 42.10273
+longitude = -72.080996
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01566"
+

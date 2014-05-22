@@ -1,6 +1,8 @@
-zip_code = "05702"
-state = "VT"
 city = "Rutland"
 county = "Rutland"
-longitude = -72.990632
 latitude = 43.412792
+longitude = -72.990632
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05702"
+

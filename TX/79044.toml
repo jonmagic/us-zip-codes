@@ -1,6 +1,8 @@
-zip_code = "79044"
-state = "TX"
 city = "Hartley"
 county = "Hartley"
-longitude = -102.392664
 latitude = 35.891634
+longitude = -102.392664
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79044"
+

@@ -1,6 +1,8 @@
-zip_code = "43037"
-state = "OH"
 city = "Martinsburg"
 county = "Knox"
-longitude = -82.322187
 latitude = 40.29519
+longitude = -82.322187
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43037"
+

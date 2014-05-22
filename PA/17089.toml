@@ -1,6 +1,8 @@
-zip_code = "17089"
-state = "PA"
 city = "Camp Hill"
 county = "Cumberland"
-longitude = -76.936046
 latitude = 40.269738
+longitude = -76.936046
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17089"
+

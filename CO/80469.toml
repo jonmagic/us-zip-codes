@@ -1,6 +1,8 @@
-zip_code = "80469"
-state = "CO"
 city = "Phippsburg"
 county = "Routt"
-longitude = -106.973513
 latitude = 40.190711
+longitude = -106.973513
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80469"
+

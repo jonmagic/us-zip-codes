@@ -1,6 +1,8 @@
-zip_code = "47918"
-state = "IN"
 city = "Attica"
 county = "Fountain"
-longitude = -87.213921
 latitude = 40.240204
+longitude = -87.213921
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47918"
+

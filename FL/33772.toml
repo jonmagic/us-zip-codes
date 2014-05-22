@@ -1,6 +1,8 @@
-zip_code = "33772"
-state = "FL"
 city = "Seminole"
 county = "Pinellas"
-longitude = -82.795385
 latitude = 27.846601
+longitude = -82.795385
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33772"
+

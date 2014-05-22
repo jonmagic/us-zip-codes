@@ -1,6 +1,8 @@
-zip_code = "73018"
-state = "OK"
 city = "Chickasha"
 county = "Grady"
-longitude = -97.937083
 latitude = 35.127804
+longitude = -97.937083
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73018"
+

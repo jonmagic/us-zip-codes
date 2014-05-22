@@ -1,6 +1,8 @@
-zip_code = "64458"
-state = "MO"
 city = "Hatfield"
 county = "Harrison"
-longitude = -94.141837
 latitude = 40.50452
+longitude = -94.141837
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64458"
+

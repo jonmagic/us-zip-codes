@@ -1,6 +1,8 @@
-zip_code = "43822"
-state = "OH"
 city = "Frazeysburg"
 county = "Muskingum"
-longitude = -82.103212
 latitude = 40.108668
+longitude = -82.103212
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43822"
+

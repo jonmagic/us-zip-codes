@@ -1,6 +1,8 @@
-zip_code = "34215"
-state = "FL"
 city = "Cortez"
 county = "Manatee"
-longitude = -82.682262
 latitude = 27.471256
+longitude = -82.682262
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34215"
+

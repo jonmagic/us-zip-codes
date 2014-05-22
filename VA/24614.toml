@@ -1,6 +1,8 @@
-zip_code = "24614"
-state = "VA"
 city = "Grundy"
 county = "Buchanan"
-longitude = -82.100073
 latitude = 37.257171
+longitude = -82.100073
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24614"
+

@@ -1,6 +1,8 @@
-zip_code = "96124"
-state = "CA"
 city = "Calpine"
 county = "Sierra"
-longitude = -120.404625
 latitude = 39.613937
+longitude = -120.404625
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96124"
+

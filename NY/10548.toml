@@ -1,6 +1,8 @@
-zip_code = "10548"
-state = "NY"
 city = "Montrose"
 county = "Westchester"
-longitude = -73.942877
 latitude = 41.25126
+longitude = -73.942877
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10548"
+

@@ -1,6 +1,8 @@
-zip_code = "25524"
-state = "WV"
 city = "Harts"
 county = "Lincoln"
-longitude = -82.100836
 latitude = 38.034057
+longitude = -82.100836
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25524"
+

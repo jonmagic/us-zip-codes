@@ -1,6 +1,8 @@
-zip_code = "64862"
-state = "MO"
 city = "Sarcoxie"
 county = "Jasper"
-longitude = -94.156371
 latitude = 37.159934
+longitude = -94.156371
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64862"
+

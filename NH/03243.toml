@@ -1,6 +1,8 @@
-zip_code = "03243"
-state = "NH"
 city = "Hill"
 county = "Merrimack"
-longitude = -71.762631
 latitude = 43.443473
+longitude = -71.762631
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03243"
+

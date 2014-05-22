@@ -1,6 +1,8 @@
-zip_code = "17039"
-state = "PA"
 city = "Kleinfeltersville"
 county = "Lebanon"
-longitude = -76.258399
 latitude = 40.300505
+longitude = -76.258399
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17039"
+

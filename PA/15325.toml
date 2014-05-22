@@ -1,6 +1,8 @@
-zip_code = "15325"
-state = "PA"
 city = "Crucible"
 county = "Greene"
-longitude = -79.967626
 latitude = 39.95017
+longitude = -79.967626
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15325"
+

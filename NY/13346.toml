@@ -1,6 +1,8 @@
-zip_code = "13346"
-state = "NY"
 city = "Hamilton"
 county = "Madison"
-longitude = -75.553153
 latitude = 42.822667
+longitude = -75.553153
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13346"
+

@@ -1,6 +1,8 @@
-zip_code = "27045"
-state = "NC"
 city = "Rural Hall"
 county = "Forsyth"
-longitude = -80.329602
 latitude = 36.230211
+longitude = -80.329602
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27045"
+

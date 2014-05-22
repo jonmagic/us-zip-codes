@@ -1,6 +1,8 @@
-zip_code = "32514"
-state = "FL"
 city = "Pensacola"
 county = "Escambia"
-longitude = -87.241202
 latitude = 30.537068
+longitude = -87.241202
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32514"
+

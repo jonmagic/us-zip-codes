@@ -1,6 +1,8 @@
-zip_code = "47854"
-state = "IN"
 city = "Hillsdale"
 county = "Vermillion"
-longitude = -87.424521
 latitude = 39.808476
+longitude = -87.424521
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47854"
+

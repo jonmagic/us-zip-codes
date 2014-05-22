@@ -1,6 +1,8 @@
-zip_code = "66406"
-state = "KS"
 city = "Beattie"
 county = "Marshall"
-longitude = -96.416779
 latitude = 39.906945
+longitude = -96.416779
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66406"
+

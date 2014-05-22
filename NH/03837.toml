@@ -1,6 +1,8 @@
-zip_code = "03837"
-state = "NH"
 city = "Gilmanton Iron Works"
 county = "Belknap"
-longitude = -71.299456
 latitude = 43.446567
+longitude = -71.299456
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03837"
+

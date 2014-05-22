@@ -1,6 +1,8 @@
-zip_code = "17057"
-state = "PA"
 city = "Middletown"
 county = "Dauphin"
-longitude = -76.720142
 latitude = 40.191241
+longitude = -76.720142
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17057"
+

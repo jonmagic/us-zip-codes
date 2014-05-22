@@ -1,6 +1,8 @@
-zip_code = "07970"
-state = "NJ"
 city = "Mount Freedom"
 county = "Morris"
-longitude = -74.573832
 latitude = 40.805549
+longitude = -74.573832
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07970"
+

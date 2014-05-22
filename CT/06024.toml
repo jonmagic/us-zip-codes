@@ -1,6 +1,8 @@
-zip_code = "06024"
-state = "CT"
 city = "East Canaan"
 county = "Litchfield"
-longitude = -73.291299
 latitude = 42.015806
+longitude = -73.291299
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06024"
+

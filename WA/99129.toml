@@ -1,6 +1,8 @@
-zip_code = "99129"
-state = "WA"
 city = "Fruitland"
 county = "Stevens"
-longitude = -118.228564
 latitude = 48.005075
+longitude = -118.228564
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99129"
+

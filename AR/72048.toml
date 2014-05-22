@@ -1,6 +1,8 @@
-zip_code = "72048"
-state = "AR"
 city = "Ethel"
 county = "Arkansas"
-longitude = -91.1484
 latitude = 34.298173
+longitude = -91.1484
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72048"
+

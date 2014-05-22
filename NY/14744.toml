@@ -1,6 +1,8 @@
-zip_code = "14744"
-state = "NY"
 city = "Houghton"
 county = "Allegany"
-longitude = -78.206289
 latitude = 42.422827
+longitude = -78.206289
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14744"
+

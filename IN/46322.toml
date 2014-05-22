@@ -1,6 +1,8 @@
-zip_code = "46322"
-state = "IN"
 city = "Highland"
 county = "Lake"
-longitude = -87.47744
 latitude = 41.577699
+longitude = -87.47744
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46322"
+

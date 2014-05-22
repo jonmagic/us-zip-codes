@@ -1,6 +1,8 @@
-zip_code = "92118"
-state = "CA"
 city = "Coronado"
 county = "San Diego"
-longitude = -117.160815
 latitude = 32.656176
+longitude = -117.160815
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92118"
+

@@ -1,6 +1,8 @@
-zip_code = "16920"
-state = "PA"
 city = "Elkland"
 county = "Tioga"
-longitude = -77.370183
 latitude = 41.979118
+longitude = -77.370183
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16920"
+

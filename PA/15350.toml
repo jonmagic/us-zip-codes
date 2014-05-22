@@ -1,6 +1,8 @@
-zip_code = "15350"
-state = "PA"
 city = "Muse"
 county = "Washington"
-longitude = -80.200484
 latitude = 40.293731
+longitude = -80.200484
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15350"
+

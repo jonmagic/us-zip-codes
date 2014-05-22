@@ -1,6 +1,8 @@
-zip_code = "04051"
-state = "ME"
 city = "Lovell"
 county = "Oxford"
-longitude = -70.886741
 latitude = 44.139839
+longitude = -70.886741
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04051"
+

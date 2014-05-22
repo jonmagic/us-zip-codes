@@ -1,6 +1,8 @@
-zip_code = "20816"
-state = "MD"
 city = "Bethesda"
 county = "Montgomery"
-longitude = -77.1165
 latitude = 38.955907
+longitude = -77.1165
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20816"
+

@@ -1,6 +1,8 @@
-zip_code = "83530"
-state = "ID"
 city = "Grangeville"
 county = "Idaho"
-longitude = -116.19729
 latitude = 45.869801
+longitude = -116.19729
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83530"
+

@@ -1,6 +1,8 @@
-zip_code = "74002"
-state = "OK"
 city = "Barnsdall"
 county = "Osage"
-longitude = -96.162409
 latitude = 36.561588
+longitude = -96.162409
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74002"
+

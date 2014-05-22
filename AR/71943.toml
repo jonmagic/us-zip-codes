@@ -1,6 +1,8 @@
-zip_code = "71943"
-state = "AR"
 city = "Glenwood"
 county = "Pike"
-longitude = -93.589297
 latitude = 34.206025
+longitude = -93.589297
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71943"
+

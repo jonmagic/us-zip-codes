@@ -1,6 +1,8 @@
-zip_code = "52537"
-state = "IA"
 city = "Bloomfield"
 county = "Davis"
-longitude = -92.406245
 latitude = 40.746315
+longitude = -92.406245
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52537"
+

@@ -1,6 +1,8 @@
-zip_code = "38839"
-state = "MS"
 city = "Derma"
 county = "Calhoun"
-longitude = -89.303214
 latitude = 33.856165
+longitude = -89.303214
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38839"
+

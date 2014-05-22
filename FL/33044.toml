@@ -1,6 +1,8 @@
-zip_code = "33044"
-state = "FL"
 city = "Sugarloaf Shores"
 county = "Monroe"
-longitude = -81.565319
 latitude = 24.664649
+longitude = -81.565319
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33044"
+

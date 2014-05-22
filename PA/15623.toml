@@ -1,6 +1,8 @@
-zip_code = "15623"
-state = "PA"
 city = "Claridge"
 county = "Westmoreland"
-longitude = -79.619012
 latitude = 40.36921
+longitude = -79.619012
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15623"
+

@@ -1,6 +1,8 @@
-zip_code = "06855"
-state = "CT"
 city = "Norwalk"
 county = "Fairfield"
-longitude = -73.398362
 latitude = 41.099196
+longitude = -73.398362
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06855"
+

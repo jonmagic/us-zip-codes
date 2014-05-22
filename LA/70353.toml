@@ -1,6 +1,8 @@
-zip_code = "70353"
-state = "LA"
 city = "Dulac"
 county = "Terrebonne"
-longitude = -90.712335
 latitude = 29.369707
+longitude = -90.712335
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70353"
+

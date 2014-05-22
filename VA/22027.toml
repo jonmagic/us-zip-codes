@@ -1,6 +1,8 @@
-zip_code = "22027"
-state = "VA"
 city = "Dunn Loring"
 county = "Fairfax"
-longitude = -77.221453
 latitude = 38.895078
+longitude = -77.221453
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22027"
+

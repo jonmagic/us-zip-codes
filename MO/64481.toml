@@ -1,6 +1,8 @@
-zip_code = "64481"
-state = "MO"
 city = "Ridgeway"
 county = "Harrison"
-longitude = -93.935114
 latitude = 40.366488
+longitude = -93.935114
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64481"
+

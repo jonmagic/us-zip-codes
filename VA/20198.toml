@@ -1,6 +1,8 @@
-zip_code = "20198"
-state = "VA"
 city = "The Plains"
 county = "Fauquier"
-longitude = -77.760779
 latitude = 38.870681
+longitude = -77.760779
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20198"
+

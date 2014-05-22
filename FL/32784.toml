@@ -1,6 +1,8 @@
-zip_code = "32784"
-state = "FL"
 city = "Umatilla"
 county = "Lake"
-longitude = -81.680144
 latitude = 28.925371
+longitude = -81.680144
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32784"
+

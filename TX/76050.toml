@@ -1,6 +1,8 @@
-zip_code = "76050"
-state = "TX"
 city = "Grandview"
 county = "Johnson"
-longitude = -97.311068
 latitude = 32.336003
+longitude = -97.311068
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76050"
+

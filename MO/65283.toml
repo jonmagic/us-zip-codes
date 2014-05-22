@@ -1,6 +1,8 @@
-zip_code = "65283"
-state = "MO"
 city = "Stoutsville"
 county = "Monroe"
-longitude = -91.848796
 latitude = 39.481463
+longitude = -91.848796
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65283"
+

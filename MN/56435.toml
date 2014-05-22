@@ -1,6 +1,8 @@
-zip_code = "56435"
-state = "MN"
 city = "Backus"
 county = "Cass"
-longitude = -94.521914
 latitude = 46.803348
+longitude = -94.521914
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56435"
+

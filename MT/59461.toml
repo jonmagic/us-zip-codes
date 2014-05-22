@@ -1,6 +1,8 @@
-zip_code = "59461"
-state = "MT"
 city = "Lothair"
 county = "Liberty"
-longitude = -111.731852
 latitude = 48.609072
+longitude = -111.731852
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59461"
+

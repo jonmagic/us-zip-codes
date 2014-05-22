@@ -1,6 +1,8 @@
-zip_code = "19954"
-state = "DE"
 city = "Houston"
 county = "Kent"
-longitude = -75.520078
 latitude = 38.894017
+longitude = -75.520078
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19954"
+

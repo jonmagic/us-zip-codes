@@ -1,6 +1,8 @@
-zip_code = "69133"
-state = "NE"
 city = "Dix"
 county = "Kimball"
-longitude = -103.714501
 latitude = 41.19801
+longitude = -103.714501
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69133"
+

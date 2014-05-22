@@ -1,6 +1,8 @@
-zip_code = "53151"
-state = "WI"
 city = "New Berlin"
 county = "Waukesha"
-longitude = -88.127689
 latitude = 42.973459
+longitude = -88.127689
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53151"
+

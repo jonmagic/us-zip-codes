@@ -1,6 +1,8 @@
-zip_code = "78618"
-state = "TX"
 city = "Doss"
 county = "Gillespie"
-longitude = -99.096213
 latitude = 30.373945
+longitude = -99.096213
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78618"
+

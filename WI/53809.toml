@@ -1,6 +1,8 @@
-zip_code = "53809"
-state = "WI"
 city = "Fennimore"
 county = "Grant"
-longitude = -90.677324
 latitude = 42.806387
+longitude = -90.677324
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53809"
+

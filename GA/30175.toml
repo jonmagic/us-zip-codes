@@ -1,6 +1,8 @@
-zip_code = "30175"
-state = "GA"
 city = "Talking Rock"
 county = "Pickens"
-longitude = -84.523407
 latitude = 34.515653
+longitude = -84.523407
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30175"
+

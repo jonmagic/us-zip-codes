@@ -1,6 +1,8 @@
-zip_code = "59484"
-state = "MT"
 city = "Sweet Grass"
 county = "Toole"
-longitude = -111.849008
 latitude = 48.940067
+longitude = -111.849008
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59484"
+

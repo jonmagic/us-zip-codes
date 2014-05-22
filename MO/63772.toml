@@ -1,6 +1,8 @@
-zip_code = "63772"
-state = "MO"
 city = "Painton"
 county = "Stoddard"
-longitude = -89.779248
 latitude = 37.04613
+longitude = -89.779248
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63772"
+

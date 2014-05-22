@@ -1,6 +1,8 @@
-zip_code = "11740"
-state = "NY"
 city = "Greenlawn"
 county = "Suffolk"
-longitude = -73.362512
 latitude = 40.866948
+longitude = -73.362512
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11740"
+

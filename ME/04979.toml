@@ -1,6 +1,8 @@
-zip_code = "04979"
-state = "ME"
 city = "Solon"
 county = "Somerset"
-longitude = -69.834764
 latitude = 44.931415
+longitude = -69.834764
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04979"
+

@@ -1,6 +1,8 @@
-zip_code = "48413"
-state = "MI"
 city = "Bad Axe"
 county = "Huron"
-longitude = -82.949138
 latitude = 43.79455
+longitude = -82.949138
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48413"
+

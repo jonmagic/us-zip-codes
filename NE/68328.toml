@@ -1,6 +1,8 @@
-zip_code = "68328"
-state = "NE"
 city = "Clatonia"
 county = "Gage"
-longitude = -96.850863
 latitude = 40.466038
+longitude = -96.850863
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68328"
+

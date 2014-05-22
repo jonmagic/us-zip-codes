@@ -1,6 +1,8 @@
-zip_code = "53523"
-state = "WI"
 city = "Cambridge"
 county = "Dane"
-longitude = -89.080742
 latitude = 42.987505
+longitude = -89.080742
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53523"
+

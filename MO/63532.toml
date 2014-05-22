@@ -1,6 +1,8 @@
-zip_code = "63532"
-state = "MO"
 city = "Bevier"
 county = "Macon"
-longitude = -92.576944
 latitude = 39.752572
+longitude = -92.576944
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63532"
+

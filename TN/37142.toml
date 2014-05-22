@@ -1,6 +1,8 @@
-zip_code = "37142"
-state = "TN"
 city = "Palmyra"
 county = "Montgomery"
-longitude = -87.492837
 latitude = 36.402215
+longitude = -87.492837
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37142"
+

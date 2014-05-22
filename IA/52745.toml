@@ -1,6 +1,8 @@
-zip_code = "52745"
-state = "IA"
 city = "Dixon"
 county = "Scott"
-longitude = -90.75534
 latitude = 41.711283
+longitude = -90.75534
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52745"
+

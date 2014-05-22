@@ -1,6 +1,8 @@
-zip_code = "75418"
-state = "TX"
 city = "Bonham"
 county = "Fannin"
-longitude = -96.172998
 latitude = 33.527267
+longitude = -96.172998
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75418"
+

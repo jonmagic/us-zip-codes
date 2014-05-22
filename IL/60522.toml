@@ -1,6 +1,8 @@
-zip_code = "60522"
-state = "IL"
 city = "Hinsdale"
 county = "Du Page"
-longitude = -88.088716
 latitude = 41.839679
+longitude = -88.088716
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60522"
+

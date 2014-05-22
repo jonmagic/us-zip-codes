@@ -1,6 +1,8 @@
-zip_code = "49127"
-state = "MI"
 city = "Stevensville"
 county = "Berrien"
-longitude = -86.508146
 latitude = 42.00743
+longitude = -86.508146
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49127"
+

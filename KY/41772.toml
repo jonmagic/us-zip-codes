@@ -1,6 +1,8 @@
-zip_code = "41772"
-state = "KY"
 city = "Vest"
 county = "Knott"
-longitude = -83.01531
 latitude = 37.407264
+longitude = -83.01531
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41772"
+

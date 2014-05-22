@@ -1,6 +1,8 @@
-zip_code = "01354"
-state = "MA"
 city = "Northfield"
 county = "Franklin"
-longitude = -72.624164
 latitude = 42.522178
+longitude = -72.624164
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01354"
+

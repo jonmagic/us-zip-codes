@@ -1,6 +1,8 @@
-zip_code = "36919"
-state = "AL"
 city = "Silas"
 county = "Choctaw"
-longitude = -88.32911
 latitude = 31.947815
+longitude = -88.32911
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36919"
+

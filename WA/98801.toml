@@ -1,6 +1,8 @@
-zip_code = "98801"
-state = "WA"
 city = "Wenatchee"
 county = "Chelan"
-longitude = -120.351884
 latitude = 47.573816
+longitude = -120.351884
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98801"
+

@@ -1,6 +1,8 @@
-zip_code = "45783"
-state = "OH"
 city = "Tuppers Plains"
 county = "Meigs"
-longitude = -81.842313
 latitude = 39.168349
+longitude = -81.842313
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45783"
+

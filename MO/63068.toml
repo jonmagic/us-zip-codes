@@ -1,6 +1,8 @@
-zip_code = "63068"
-state = "MO"
 city = "New Haven"
 county = "Franklin"
-longitude = -91.247283
 latitude = 38.558487
+longitude = -91.247283
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63068"
+

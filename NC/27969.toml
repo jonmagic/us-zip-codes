@@ -1,6 +1,8 @@
-zip_code = "27969"
-state = "NC"
 city = "Roduco"
 county = "Gates"
-longitude = -76.702125
 latitude = 36.424152
+longitude = -76.702125
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27969"
+

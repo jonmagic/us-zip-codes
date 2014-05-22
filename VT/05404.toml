@@ -1,6 +1,8 @@
-zip_code = "05404"
-state = "VT"
 city = "Winooski"
 county = "Chittenden"
-longitude = -73.182158
 latitude = 44.498032
+longitude = -73.182158
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05404"
+

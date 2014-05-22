@@ -1,6 +1,8 @@
-zip_code = "39327"
-state = "MS"
 city = "Decatur"
 county = "Newton"
-longitude = -89.092952
 latitude = 32.427135
+longitude = -89.092952
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39327"
+

@@ -1,6 +1,8 @@
-zip_code = "29708"
-state = "SC"
 city = "Fort Mill"
 county = "York"
-longitude = -80.990828
 latitude = 35.050243
+longitude = -80.990828
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29708"
+

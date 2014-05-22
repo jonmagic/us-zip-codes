@@ -1,6 +1,8 @@
-zip_code = "71263"
-state = "LA"
 city = "Oak Grove"
 county = "West Carroll"
-longitude = -91.430209
 latitude = 32.873125
+longitude = -91.430209
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71263"
+

@@ -1,6 +1,8 @@
-zip_code = "29849"
-state = "SC"
 city = "Ulmer"
 county = "Allendale"
-longitude = -81.206789
 latitude = 33.098848
+longitude = -81.206789
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29849"
+

@@ -1,6 +1,8 @@
-zip_code = "08110"
-state = "NJ"
 city = "Pennsauken"
 county = "Camden"
-longitude = -74.945624
 latitude = 39.839405
+longitude = -74.945624
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08110"
+

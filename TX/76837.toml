@@ -1,6 +1,8 @@
-zip_code = "76837"
-state = "TX"
 city = "Eden"
 county = "Concho"
-longitude = -99.876368
 latitude = 31.174061
+longitude = -99.876368
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76837"
+

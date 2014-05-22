@@ -1,6 +1,8 @@
-zip_code = "23844"
-state = "VA"
 city = "Drewryville"
 county = "Southampton"
-longitude = -77.335713
 latitude = 36.662286
+longitude = -77.335713
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23844"
+

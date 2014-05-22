@@ -1,6 +1,8 @@
-zip_code = "51550"
-state = "IA"
 city = "Magnolia"
 county = "Harrison"
-longitude = -95.889638
 latitude = 41.693412
+longitude = -95.889638
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51550"
+

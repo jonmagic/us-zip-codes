@@ -1,6 +1,8 @@
-zip_code = "32955"
-state = "FL"
 city = "Rockledge"
 county = "Brevard"
-longitude = -80.723065
 latitude = 28.28714
+longitude = -80.723065
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32955"
+

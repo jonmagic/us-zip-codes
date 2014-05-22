@@ -1,6 +1,8 @@
-zip_code = "49834"
-state = "MI"
 city = "Foster City"
 county = "Dickinson"
-longitude = -87.805995
 latitude = 45.939891
+longitude = -87.805995
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49834"
+

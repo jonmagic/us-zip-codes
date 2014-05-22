@@ -1,6 +1,8 @@
-zip_code = "04786"
-state = "ME"
 city = "Washburn"
 county = "Aroostook"
-longitude = -68.105233
 latitude = 46.793032
+longitude = -68.105233
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04786"
+

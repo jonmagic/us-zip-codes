@@ -1,6 +1,8 @@
-zip_code = "77374"
-state = "TX"
 city = "Thicket"
 county = "Hardin"
-longitude = -94.401843
 latitude = 30.312185
+longitude = -94.401843
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77374"
+

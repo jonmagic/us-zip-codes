@@ -1,6 +1,8 @@
-zip_code = "59070"
-state = "MT"
 city = "Roberts"
 county = "Carbon"
-longitude = -109.207199
 latitude = 45.354073
+longitude = -109.207199
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59070"
+

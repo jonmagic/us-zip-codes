@@ -1,6 +1,8 @@
-zip_code = "87421"
-state = "NM"
 city = "Waterflow"
 county = "San Juan"
-longitude = -108.203152
 latitude = 36.750745
+longitude = -108.203152
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87421"
+

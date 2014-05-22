@@ -1,6 +1,8 @@
-zip_code = "80476"
-state = "CO"
 city = "Silver Plume"
 county = "Clear Creek"
-longitude = -105.75074
 latitude = 39.699631
+longitude = -105.75074
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80476"
+

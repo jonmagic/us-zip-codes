@@ -1,6 +1,8 @@
-zip_code = "48179"
-state = "MI"
 city = "South Rockwood"
 county = "Monroe"
-longitude = -83.27095
 latitude = 42.051135
+longitude = -83.27095
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48179"
+

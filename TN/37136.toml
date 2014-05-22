@@ -1,6 +1,8 @@
-zip_code = "37136"
-state = "TN"
 city = "Norene"
 county = "Wilson"
-longitude = -86.304922
 latitude = 36.156231
+longitude = -86.304922
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37136"
+

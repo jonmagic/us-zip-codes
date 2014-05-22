@@ -1,6 +1,8 @@
-zip_code = "61313"
-state = "IL"
 city = "Blackstone"
 county = "Livingston"
-longitude = -88.680876
 latitude = 41.063241
+longitude = -88.680876
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61313"
+

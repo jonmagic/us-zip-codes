@@ -1,6 +1,8 @@
-zip_code = "65441"
-state = "MO"
 city = "Bourbon"
 county = "Crawford"
-longitude = -91.248694
 latitude = 38.10595
+longitude = -91.248694
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65441"
+

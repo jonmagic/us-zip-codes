@@ -1,6 +1,8 @@
-zip_code = "43080"
-state = "OH"
 city = "Utica"
 county = "Licking"
-longitude = -82.444279
 latitude = 40.17595
+longitude = -82.444279
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43080"
+

@@ -1,6 +1,8 @@
-zip_code = "43735"
-state = "OH"
 city = "East Fultonham"
 county = "Muskingum"
-longitude = -82.121262
 latitude = 39.853931
+longitude = -82.121262
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43735"
+

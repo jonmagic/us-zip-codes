@@ -1,6 +1,8 @@
-zip_code = "92283"
-state = "CA"
 city = "Winterhaven"
 county = "Imperial"
-longitude = -114.685417
 latitude = 32.981774
+longitude = -114.685417
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92283"
+

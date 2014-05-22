@@ -1,6 +1,8 @@
-zip_code = "49745"
-state = "MI"
 city = "Hessel"
 county = "Mackinac"
-longitude = -84.42845
 latitude = 46.021715
+longitude = -84.42845
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49745"
+

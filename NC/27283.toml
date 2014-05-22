@@ -1,6 +1,8 @@
-zip_code = "27283"
-state = "NC"
 city = "Julian"
 county = "Guilford"
-longitude = -79.636747
 latitude = 35.952564
+longitude = -79.636747
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27283"
+

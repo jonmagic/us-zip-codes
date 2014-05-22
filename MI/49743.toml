@@ -1,6 +1,8 @@
-zip_code = "49743"
-state = "MI"
 city = "Hawks"
 county = "Presque Isle"
-longitude = -83.873719
 latitude = 45.283467
+longitude = -83.873719
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49743"
+

@@ -1,6 +1,8 @@
-zip_code = "85321"
-state = "AZ"
 city = "Ajo"
 county = "Pima"
-longitude = -111.890713
 latitude = 31.970131
+longitude = -111.890713
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85321"
+

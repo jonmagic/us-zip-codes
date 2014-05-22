@@ -1,6 +1,8 @@
-zip_code = "71362"
-state = "LA"
 city = "Plaucheville"
 county = "Avoyelles"
-longitude = -92.001767
 latitude = 30.992478
+longitude = -92.001767
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71362"
+

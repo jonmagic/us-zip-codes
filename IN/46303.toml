@@ -1,6 +1,8 @@
-zip_code = "46303"
-state = "IN"
 city = "Cedar Lake"
 county = "Lake"
-longitude = -87.41665
 latitude = 41.311861
+longitude = -87.41665
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46303"
+

@@ -1,6 +1,8 @@
-zip_code = "68928"
-state = "NE"
 city = "Bladen"
 county = "Webster"
-longitude = -98.597026
 latitude = 40.323796
+longitude = -98.597026
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68928"
+

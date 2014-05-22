@@ -1,6 +1,8 @@
-zip_code = "29914"
-state = "SC"
 city = "Dale"
 county = "Beaufort"
-longitude = -80.677001
 latitude = 32.552652
+longitude = -80.677001
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29914"
+

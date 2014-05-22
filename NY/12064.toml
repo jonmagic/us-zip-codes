@@ -1,6 +1,8 @@
-zip_code = "12064"
-state = "NY"
 city = "East Worcester"
 county = "Otsego"
-longitude = -74.667368
 latitude = 42.632058
+longitude = -74.667368
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12064"
+

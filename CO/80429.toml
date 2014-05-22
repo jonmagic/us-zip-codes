@@ -1,6 +1,8 @@
-zip_code = "80429"
-state = "CO"
 city = "Climax"
 county = "Lake"
-longitude = -106.311697
 latitude = 39.225758
+longitude = -106.311697
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80429"
+

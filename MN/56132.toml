@@ -1,6 +1,8 @@
-zip_code = "56132"
-state = "MN"
 city = "Garvin"
 county = "Lyon"
-longitude = -95.86177
 latitude = 44.305584
+longitude = -95.86177
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56132"
+

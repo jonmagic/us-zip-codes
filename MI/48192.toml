@@ -1,6 +1,8 @@
-zip_code = "48192"
-state = "MI"
 city = "Wyandotte"
 county = "Wayne"
-longitude = -83.206572
 latitude = 42.19499
+longitude = -83.206572
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48192"
+

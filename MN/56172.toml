@@ -1,6 +1,8 @@
-zip_code = "56172"
-state = "MN"
 city = "Slayton"
 county = "Murray"
-longitude = -95.763493
 latitude = 43.993479
+longitude = -95.763493
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56172"
+

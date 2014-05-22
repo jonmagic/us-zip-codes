@@ -1,6 +1,8 @@
-zip_code = "62310"
-state = "IL"
 city = "Adrian"
 county = "Hancock"
-longitude = -91.205805
 latitude = 40.416145
+longitude = -91.205805
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62310"
+

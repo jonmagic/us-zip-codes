@@ -1,6 +1,8 @@
-zip_code = "49050"
-state = "MI"
 city = "Dowling"
 county = "Barry"
-longitude = -85.339902
 latitude = 42.605588
+longitude = -85.339902
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49050"
+

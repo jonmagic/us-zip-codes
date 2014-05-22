@@ -1,6 +1,8 @@
-zip_code = "54232"
-state = "WI"
 city = "Saint Nazianz"
 county = "Manitowoc"
-longitude = -87.922351
 latitude = 44.005714
+longitude = -87.922351
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54232"
+

@@ -1,6 +1,8 @@
-zip_code = "72845"
-state = "AR"
 city = "Knoxville"
 county = "Johnson"
-longitude = -93.335178
 latitude = 35.385081
+longitude = -93.335178
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72845"
+

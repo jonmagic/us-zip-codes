@@ -1,6 +1,8 @@
-zip_code = "97437"
-state = "OR"
 city = "Elmira"
 county = "Lane"
-longitude = -123.388216
 latitude = 44.097363
+longitude = -123.388216
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97437"
+

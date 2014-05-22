@@ -1,6 +1,8 @@
-zip_code = "16438"
-state = "PA"
 city = "Union City"
 county = "Erie"
-longitude = -79.845963
 latitude = 41.941617
+longitude = -79.845963
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16438"
+

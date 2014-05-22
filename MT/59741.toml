@@ -1,6 +1,8 @@
-zip_code = "59741"
-state = "MT"
 city = "Manhattan"
 county = "Gallatin"
-longitude = -111.374118
 latitude = 45.771228
+longitude = -111.374118
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59741"
+

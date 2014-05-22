@@ -1,6 +1,8 @@
-zip_code = "61232"
-state = "IL"
 city = "Andalusia"
 county = "Rock Island"
-longitude = -90.742806
 latitude = 41.440131
+longitude = -90.742806
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61232"
+

@@ -1,6 +1,8 @@
-zip_code = "56123"
-state = "MN"
 city = "Currie"
 county = "Murray"
-longitude = -95.704397
 latitude = 44.048028
+longitude = -95.704397
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56123"
+

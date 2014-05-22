@@ -1,6 +1,8 @@
-zip_code = "02878"
-state = "RI"
 city = "Tiverton"
 county = "Newport"
-longitude = -71.175183
 latitude = 41.61018
+longitude = -71.175183
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02878"
+

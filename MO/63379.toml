@@ -1,6 +1,8 @@
-zip_code = "63379"
-state = "MO"
 city = "Troy"
 county = "Lincoln"
-longitude = -90.940268
 latitude = 39.016299
+longitude = -90.940268
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63379"
+

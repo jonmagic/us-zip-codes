@@ -1,6 +1,8 @@
-zip_code = "04562"
-state = "ME"
 city = "Phippsburg"
 county = "Sagadahoc"
-longitude = -69.810821
 latitude = 43.789616
+longitude = -69.810821
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04562"
+

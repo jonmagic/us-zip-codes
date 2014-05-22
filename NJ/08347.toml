@@ -1,6 +1,8 @@
-zip_code = "08347"
-state = "NJ"
 city = "Norma"
 county = "Salem"
-longitude = -75.082022
 latitude = 39.499765
+longitude = -75.082022
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08347"
+

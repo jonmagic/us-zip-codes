@@ -1,6 +1,8 @@
-zip_code = "67632"
-state = "KS"
 city = "Damar"
 county = "Rooks"
-longitude = -99.39947
 latitude = 39.334908
+longitude = -99.39947
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67632"
+

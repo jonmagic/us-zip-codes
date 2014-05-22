@@ -1,6 +1,8 @@
-zip_code = "94561"
-state = "CA"
 city = "Oakley"
 county = "Contra Costa"
-longitude = -121.68972
 latitude = 37.996516
+longitude = -121.68972
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94561"
+

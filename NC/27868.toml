@@ -1,6 +1,8 @@
-zip_code = "27868"
-state = "NC"
 city = "Red Oak"
 county = "Nash"
-longitude = -77.911635
 latitude = 36.054832
+longitude = -77.911635
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27868"
+

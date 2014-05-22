@@ -1,6 +1,8 @@
-zip_code = "34266"
-state = "FL"
 city = "Arcadia"
 county = "De Soto"
-longitude = -81.866661
 latitude = 27.186075
+longitude = -81.866661
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34266"
+

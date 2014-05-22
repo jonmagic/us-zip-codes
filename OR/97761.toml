@@ -1,6 +1,8 @@
-zip_code = "97761"
-state = "OR"
 city = "Warm Springs"
 county = "Jefferson"
-longitude = -121.334786
 latitude = 44.771108
+longitude = -121.334786
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97761"
+

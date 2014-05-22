@@ -1,6 +1,8 @@
-zip_code = "41669"
-state = "KY"
 city = "Wheelwright"
 county = "Floyd"
-longitude = -82.715606
 latitude = 37.331441
+longitude = -82.715606
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41669"
+

@@ -1,6 +1,8 @@
-zip_code = "13624"
-state = "NY"
 city = "Clayton"
 county = "Jefferson"
-longitude = -76.062002
 latitude = 44.144238
+longitude = -76.062002
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13624"
+

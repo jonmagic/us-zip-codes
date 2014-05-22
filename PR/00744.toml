@@ -1,6 +1,8 @@
-zip_code = "00744"
-state = "PR"
 city = "Rio Blanco"
 county = "Naguabo"
-longitude = -65.743058
 latitude = 18.206329
+longitude = -65.743058
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00744"
+

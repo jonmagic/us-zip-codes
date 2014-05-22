@@ -1,6 +1,8 @@
-zip_code = "28319"
-state = "NC"
 city = "Barnesville"
 county = "Robeson"
-longitude = -79.197058
 latitude = 34.595364
+longitude = -79.197058
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28319"
+

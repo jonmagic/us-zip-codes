@@ -1,6 +1,8 @@
-zip_code = "67638"
-state = "KS"
 city = "Gaylord"
 county = "Smith"
-longitude = -98.846513
 latitude = 39.64705
+longitude = -98.846513
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67638"
+

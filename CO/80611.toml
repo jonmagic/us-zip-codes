@@ -1,6 +1,8 @@
-zip_code = "80611"
-state = "CO"
 city = "Briggsdale"
 county = "Weld"
-longitude = -104.240542
 latitude = 40.443596
+longitude = -104.240542
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80611"
+

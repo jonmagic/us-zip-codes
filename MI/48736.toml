@@ -1,6 +1,8 @@
-zip_code = "48736"
-state = "MI"
 city = "Gilford"
 county = "Tuscola"
-longitude = -83.624431
 latitude = 43.49442
+longitude = -83.624431
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48736"
+

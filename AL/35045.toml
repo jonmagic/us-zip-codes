@@ -1,6 +1,8 @@
-zip_code = "35045"
-state = "AL"
 city = "Clanton"
 county = "Chilton"
-longitude = -86.652875
 latitude = 32.856632
+longitude = -86.652875
+state = ""
+state_code_alpha2 = ""
+zip_code = "35045"
+

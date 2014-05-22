@@ -1,6 +1,8 @@
-zip_code = "68008"
-state = "NE"
 city = "Blair"
 county = "Washington"
-longitude = -96.17653
 latitude = 41.543582
+longitude = -96.17653
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68008"
+

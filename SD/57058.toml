@@ -1,6 +1,8 @@
-zip_code = "57058"
-state = "SD"
 city = "Salem"
 county = "Mccook"
-longitude = -97.343417
 latitude = 43.639298
+longitude = -97.343417
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57058"
+

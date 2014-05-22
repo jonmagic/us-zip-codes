@@ -1,6 +1,8 @@
-zip_code = "75948"
-state = "TX"
 city = "Hemphill"
 county = "Sabine"
-longitude = -93.773671
 latitude = 31.329084
+longitude = -93.773671
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75948"
+

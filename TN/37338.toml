@@ -1,6 +1,8 @@
-zip_code = "37338"
-state = "TN"
 city = "Graysville"
 county = "Rhea"
-longitude = -84.998978
 latitude = 35.602658
+longitude = -84.998978
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37338"
+

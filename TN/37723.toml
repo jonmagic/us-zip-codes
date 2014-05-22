@@ -1,6 +1,8 @@
-zip_code = "37723"
-state = "TN"
 city = "Crab Orchard"
 county = "Cumberland"
-longitude = -84.812093
 latitude = 35.951478
+longitude = -84.812093
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37723"
+

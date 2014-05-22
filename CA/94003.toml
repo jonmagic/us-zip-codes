@@ -1,6 +1,8 @@
-zip_code = "94003"
-state = "CA"
 city = "Belmont"
 county = "San Mateo"
-longitude = -122.334825
 latitude = 37.381144
+longitude = -122.334825
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94003"
+

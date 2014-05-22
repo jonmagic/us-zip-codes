@@ -1,6 +1,8 @@
-zip_code = "58778"
-state = "ND"
 city = "Ruso"
 county = "Mclean"
-longitude = -100.931173
 latitude = 47.746583
+longitude = -100.931173
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58778"
+

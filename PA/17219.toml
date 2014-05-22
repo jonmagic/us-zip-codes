@@ -1,6 +1,8 @@
-zip_code = "17219"
-state = "PA"
 city = "Doylesburg"
 county = "Franklin"
-longitude = -77.679713
 latitude = 40.218448
+longitude = -77.679713
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17219"
+

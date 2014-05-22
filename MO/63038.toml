@@ -1,6 +1,8 @@
-zip_code = "63038"
-state = "MO"
 city = "Glencoe"
 county = "Saint Louis"
-longitude = -90.663876
 latitude = 38.587752
+longitude = -90.663876
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63038"
+

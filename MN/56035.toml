@@ -1,6 +1,8 @@
-zip_code = "56035"
-state = "MN"
 city = "Geneva"
 county = "Freeborn"
-longitude = -93.348869
 latitude = 43.673904
+longitude = -93.348869
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56035"
+

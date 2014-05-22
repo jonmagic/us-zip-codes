@@ -1,6 +1,8 @@
-zip_code = "52751"
-state = "IA"
 city = "Grand Mound"
 county = "Clinton"
-longitude = -90.669527
 latitude = 41.850144
+longitude = -90.669527
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52751"
+

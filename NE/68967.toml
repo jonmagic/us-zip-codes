@@ -1,6 +1,8 @@
-zip_code = "68967"
-state = "NE"
 city = "Oxford"
 county = "Furnas"
-longitude = -99.637884
 latitude = 40.254078
+longitude = -99.637884
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68967"
+

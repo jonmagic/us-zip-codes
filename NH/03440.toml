@@ -1,6 +1,8 @@
-zip_code = "03440"
-state = "NH"
 city = "Antrim"
 county = "Hillsborough"
-longitude = -71.971353
 latitude = 43.044535
+longitude = -71.971353
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03440"
+

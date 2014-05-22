@@ -1,6 +1,8 @@
-zip_code = "60029"
-state = "IL"
 city = "Golf"
 county = "Cook"
-longitude = -87.791636
 latitude = 42.058029
+longitude = -87.791636
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60029"
+

@@ -1,6 +1,8 @@
-zip_code = "74837"
-state = "OK"
 city = "Cromwell"
 county = "Seminole"
-longitude = -96.454578
 latitude = 35.340458
+longitude = -96.454578
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74837"
+

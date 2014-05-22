@@ -1,6 +1,8 @@
-zip_code = "01355"
-state = "MA"
 city = "New Salem"
 county = "Franklin"
-longitude = -72.534371
 latitude = 42.518718
+longitude = -72.534371
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01355"
+

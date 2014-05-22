@@ -1,6 +1,8 @@
-zip_code = "48620"
-state = "MI"
 city = "Edenville"
 county = "Midland"
-longitude = -84.381307
 latitude = 43.777368
+longitude = -84.381307
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48620"
+

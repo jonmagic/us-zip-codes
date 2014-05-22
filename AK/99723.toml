@@ -1,6 +1,8 @@
-zip_code = "99723"
-state = "AK"
 city = "Barrow"
 county = "North Slope"
-longitude = -150.238942
 latitude = 70.220472
+longitude = -150.238942
+state = ""
+state_code_alpha2 = ""
+zip_code = "99723"
+

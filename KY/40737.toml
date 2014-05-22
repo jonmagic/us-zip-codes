@@ -1,6 +1,8 @@
-zip_code = "40737"
-state = "KY"
 city = "Keavy"
 county = "Laurel"
-longitude = -84.129021
 latitude = 36.997587
+longitude = -84.129021
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40737"
+

@@ -1,6 +1,8 @@
-zip_code = "62411"
-state = "IL"
 city = "Altamont"
 county = "Effingham"
-longitude = -88.719754
 latitude = 39.053436
+longitude = -88.719754
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62411"
+

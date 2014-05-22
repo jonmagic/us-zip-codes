@@ -1,6 +1,8 @@
-zip_code = "02573"
-state = "MA"
 city = "West Chop"
 county = "Dukes"
-longitude = -70.643092
 latitude = 41.379836
+longitude = -70.643092
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02573"
+

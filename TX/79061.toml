@@ -1,6 +1,8 @@
-zip_code = "79061"
-state = "TX"
 city = "Mobeetie"
 county = "Wheeler"
-longitude = -100.414781
 latitude = 35.515434
+longitude = -100.414781
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79061"
+

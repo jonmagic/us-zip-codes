@@ -1,6 +1,8 @@
-zip_code = "38077"
-state = "TN"
 city = "Wynnburg"
 county = "Lake"
-longitude = -89.522851
 latitude = 36.344296
+longitude = -89.522851
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38077"
+

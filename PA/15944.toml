@@ -1,6 +1,8 @@
-zip_code = "15944"
-state = "PA"
 city = "New Florence"
 county = "Westmoreland"
-longitude = -79.101925
 latitude = 40.326182
+longitude = -79.101925
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15944"
+

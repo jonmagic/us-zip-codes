@@ -1,6 +1,8 @@
-zip_code = "67062"
-state = "KS"
 city = "Hesston"
 county = "Harvey"
-longitude = -97.443222
 latitude = 38.137404
+longitude = -97.443222
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67062"
+

@@ -1,6 +1,8 @@
-zip_code = "24620"
-state = "VA"
 city = "Hurley"
 county = "Buchanan"
-longitude = -82.027408
 latitude = 37.287992
+longitude = -82.027408
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24620"
+

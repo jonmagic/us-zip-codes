@@ -1,6 +1,8 @@
-zip_code = "84723"
-state = "UT"
 city = "Circleville"
 county = "Piute"
-longitude = -112.232857
 latitude = 38.182708
+longitude = -112.232857
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84723"
+

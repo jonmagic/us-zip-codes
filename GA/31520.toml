@@ -1,6 +1,8 @@
-zip_code = "31520"
-state = "GA"
 city = "Brunswick"
 county = "Glynn"
-longitude = -81.492883
 latitude = 31.230428
+longitude = -81.492883
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31520"
+

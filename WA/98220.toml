@@ -1,6 +1,8 @@
-zip_code = "98220"
-state = "WA"
 city = "Acme"
 county = "Whatcom"
-longitude = -122.186966
 latitude = 48.688554
+longitude = -122.186966
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98220"
+

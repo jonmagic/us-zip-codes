@@ -1,6 +1,8 @@
-zip_code = "27016"
-state = "NC"
 city = "Danbury"
 county = "Stokes"
-longitude = -80.220095
 latitude = 36.446831
+longitude = -80.220095
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27016"
+

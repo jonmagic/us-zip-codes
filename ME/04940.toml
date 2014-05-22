@@ -1,6 +1,8 @@
-zip_code = "04940"
-state = "ME"
 city = "Farmington Falls"
 county = "Franklin"
-longitude = -70.075178
 latitude = 44.622563
+longitude = -70.075178
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04940"
+

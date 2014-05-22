@@ -1,6 +1,8 @@
-zip_code = "06098"
-state = "CT"
 city = "Winsted"
 county = "Litchfield"
-longitude = -73.058157
 latitude = 41.925671
+longitude = -73.058157
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06098"
+

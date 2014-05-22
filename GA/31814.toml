@@ -1,6 +1,8 @@
-zip_code = "31814"
-state = "GA"
 city = "Louvale"
 county = "Stewart"
-longitude = -84.849724
 latitude = 32.07663
+longitude = -84.849724
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31814"
+

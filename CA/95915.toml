@@ -1,6 +1,8 @@
-zip_code = "95915"
-state = "CA"
 city = "Belden"
 county = "Plumas"
-longitude = -120.834958
 latitude = 39.912222
+longitude = -120.834958
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95915"
+

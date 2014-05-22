@@ -1,6 +1,8 @@
-zip_code = "38876"
-state = "MS"
 city = "Tremont"
 county = "Itawamba"
-longitude = -88.333454
 latitude = 34.235149
+longitude = -88.333454
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38876"
+

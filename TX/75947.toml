@@ -1,6 +1,8 @@
-zip_code = "75947"
-state = "TX"
 city = "Geneva"
 county = "Sabine"
-longitude = -93.821948
 latitude = 31.373062
+longitude = -93.821948
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75947"
+

@@ -1,6 +1,8 @@
-zip_code = "58006"
-state = "ND"
 city = "Arthur"
 county = "Cass"
-longitude = -97.140334
 latitude = 47.102334
+longitude = -97.140334
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58006"
+

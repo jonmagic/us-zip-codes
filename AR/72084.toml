@@ -1,6 +1,8 @@
-zip_code = "72084"
-state = "AR"
 city = "Leola"
 county = "Grant"
-longitude = -92.613185
 latitude = 34.218652
+longitude = -92.613185
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72084"
+

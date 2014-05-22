@@ -1,6 +1,8 @@
-zip_code = "73567"
-state = "OK"
 city = "Sterling"
 county = "Comanche"
-longitude = -98.167941
 latitude = 34.749594
+longitude = -98.167941
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73567"
+

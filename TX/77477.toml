@@ -1,6 +1,8 @@
-zip_code = "77477"
-state = "TX"
 city = "Stafford"
 county = "Fort Bend"
-longitude = -95.996865
 latitude = 29.450518
+longitude = -95.996865
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77477"
+

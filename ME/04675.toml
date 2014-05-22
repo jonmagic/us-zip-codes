@@ -1,6 +1,8 @@
-zip_code = "04675"
-state = "ME"
 city = "Seal Harbor"
 county = "Hancock"
-longitude = -68.246314
 latitude = 44.299037
+longitude = -68.246314
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04675"
+

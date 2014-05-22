@@ -1,6 +1,8 @@
-zip_code = "02825"
-state = "RI"
 city = "Foster"
 county = "Providence"
-longitude = -71.70644
 latitude = 41.790569
+longitude = -71.70644
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02825"
+

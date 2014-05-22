@@ -1,6 +1,8 @@
-zip_code = "18657"
-state = "PA"
 city = "Tunkhannock"
 county = "Wyoming"
-longitude = -75.975715
 latitude = 41.566386
+longitude = -75.975715
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18657"
+

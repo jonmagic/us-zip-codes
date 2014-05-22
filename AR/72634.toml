@@ -1,6 +1,8 @@
-zip_code = "72634"
-state = "AR"
 city = "Flippin"
 county = "Marion"
-longitude = -92.595011
 latitude = 36.317483
+longitude = -92.595011
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72634"
+

@@ -1,6 +1,8 @@
-zip_code = "72553"
-state = "AR"
 city = "Magness"
 county = "Independence"
-longitude = -91.474841
 latitude = 35.707658
+longitude = -91.474841
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72553"
+

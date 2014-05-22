@@ -1,6 +1,8 @@
-zip_code = "76635"
-state = "TX"
 city = "Coolidge"
 county = "Limestone"
-longitude = -96.586919
 latitude = 31.695145
+longitude = -96.586919
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76635"
+

@@ -1,6 +1,8 @@
-zip_code = "42127"
-state = "KY"
 city = "Cave City"
 county = "Barren"
-longitude = -85.908887
 latitude = 37.10279
+longitude = -85.908887
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42127"
+

@@ -1,6 +1,8 @@
-zip_code = "48049"
-state = "MI"
 city = "North Street"
 county = "Saint Clair"
-longitude = -82.574831
 latitude = 43.034915
+longitude = -82.574831
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48049"
+

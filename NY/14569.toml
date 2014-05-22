@@ -1,6 +1,8 @@
-zip_code = "14569"
-state = "NY"
 city = "Warsaw"
 county = "Wyoming"
-longitude = -78.164804
 latitude = 42.740223
+longitude = -78.164804
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14569"
+

@@ -1,6 +1,8 @@
-zip_code = "01420"
-state = "MA"
 city = "Fitchburg"
 county = "Worcester"
-longitude = -71.816767
 latitude = 42.583689
+longitude = -71.816767
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01420"
+

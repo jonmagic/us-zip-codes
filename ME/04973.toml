@@ -1,6 +1,8 @@
-zip_code = "04973"
-state = "ME"
 city = "Searsmont"
 county = "Waldo"
-longitude = -69.215906
 latitude = 44.357201
+longitude = -69.215906
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04973"
+

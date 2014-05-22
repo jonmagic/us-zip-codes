@@ -1,6 +1,8 @@
-zip_code = "78147"
-state = "TX"
 city = "Poth"
 county = "Wilson"
-longitude = -98.106249
 latitude = 29.080236
+longitude = -98.106249
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78147"
+

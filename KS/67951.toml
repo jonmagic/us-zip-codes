@@ -1,6 +1,8 @@
-zip_code = "67951"
-state = "KS"
 city = "Hugoton"
 county = "Stevens"
-longitude = -101.281684
 latitude = 37.243161
+longitude = -101.281684
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67951"
+

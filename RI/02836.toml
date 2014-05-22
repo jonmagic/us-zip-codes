@@ -1,6 +1,8 @@
-zip_code = "02836"
-state = "RI"
 city = "Kenyon"
 county = "Washington"
-longitude = -71.620432
 latitude = 41.447427
+longitude = -71.620432
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02836"
+

@@ -1,6 +1,8 @@
-zip_code = "02337"
-state = "MA"
 city = "Elmwood"
 county = "Plymouth"
-longitude = -70.931588
 latitude = 42.022225
+longitude = -70.931588
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02337"
+

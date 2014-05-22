@@ -1,6 +1,8 @@
-zip_code = "28012"
-state = "NC"
 city = "Belmont"
 county = "Gaston"
-longitude = -81.197088
 latitude = 35.278438
+longitude = -81.197088
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28012"
+

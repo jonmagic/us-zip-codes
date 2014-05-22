@@ -1,6 +1,8 @@
-zip_code = "17772"
-state = "PA"
 city = "Turbotville"
 county = "Northumberland"
-longitude = -76.823084
 latitude = 41.10285
+longitude = -76.823084
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17772"
+

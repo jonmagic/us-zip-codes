@@ -1,6 +1,8 @@
-zip_code = "30582"
-state = "GA"
 city = "Young Harris"
 county = "Towns"
-longitude = -83.828504
 latitude = 34.934417
+longitude = -83.828504
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30582"
+

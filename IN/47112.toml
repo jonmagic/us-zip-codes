@@ -1,6 +1,8 @@
-zip_code = "47112"
-state = "IN"
 city = "Corydon"
 county = "Harrison"
-longitude = -86.145211
 latitude = 38.1863
+longitude = -86.145211
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47112"
+

@@ -1,6 +1,8 @@
-zip_code = "60181"
-state = "IL"
 city = "Villa Park"
 county = "Du Page"
-longitude = -87.97643
 latitude = 41.875379
+longitude = -87.97643
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60181"
+

@@ -1,6 +1,8 @@
-zip_code = "01074"
-state = "MA"
 city = "South Barre"
 county = "Worcester"
-longitude = -72.149388
 latitude = 42.375998
+longitude = -72.149388
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01074"
+

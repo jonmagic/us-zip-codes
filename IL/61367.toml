@@ -1,6 +1,8 @@
-zip_code = "61367"
-state = "IL"
 city = "Sublette"
 county = "Lee"
-longitude = -89.274356
 latitude = 41.628086
+longitude = -89.274356
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61367"
+

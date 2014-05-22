@@ -1,6 +1,8 @@
-zip_code = "98811"
-state = "WA"
 city = "Ardenvoir"
 county = "Chelan"
-longitude = -120.329107
 latitude = 47.708473
+longitude = -120.329107
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98811"
+

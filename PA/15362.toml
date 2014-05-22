@@ -1,6 +1,8 @@
-zip_code = "15362"
-state = "PA"
 city = "Spraggs"
 county = "Greene"
-longitude = -80.214471
 latitude = 39.744657
+longitude = -80.214471
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15362"
+

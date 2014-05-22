@@ -1,6 +1,8 @@
-zip_code = "40048"
-state = "KY"
 city = "Nazareth"
 county = "Nelson"
-longitude = -85.44671
 latitude = 37.756941
+longitude = -85.44671
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40048"
+

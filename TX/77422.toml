@@ -1,6 +1,8 @@
-zip_code = "77422"
-state = "TX"
 city = "Brazoria"
 county = "Brazoria"
-longitude = -95.520413
 latitude = 28.995948
+longitude = -95.520413
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77422"
+

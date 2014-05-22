@@ -1,6 +1,8 @@
-zip_code = "28669"
-state = "NC"
 city = "Roaring River"
 county = "Wilkes"
-longitude = -80.998644
 latitude = 36.227255
+longitude = -80.998644
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28669"
+

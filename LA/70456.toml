@@ -1,6 +1,8 @@
-zip_code = "70456"
-state = "LA"
 city = "Roseland"
 county = "Tangipahoa"
-longitude = -90.501975
 latitude = 30.654562
+longitude = -90.501975
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70456"
+

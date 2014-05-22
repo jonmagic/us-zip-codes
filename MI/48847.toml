@@ -1,6 +1,8 @@
-zip_code = "48847"
-state = "MI"
 city = "Ithaca"
 county = "Gratiot"
-longitude = -84.60379
 latitude = 43.249453
+longitude = -84.60379
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48847"
+

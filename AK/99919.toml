@@ -1,6 +1,8 @@
-zip_code = "99919"
-state = "AK"
 city = "Thorne Bay"
 county = "Prince Wales Ketchikan"
-longitude = -131.580407
 latitude = 55.126774
+longitude = -131.580407
+state = ""
+state_code_alpha2 = ""
+zip_code = "99919"
+

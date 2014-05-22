@@ -1,6 +1,8 @@
-zip_code = "95442"
-state = "CA"
 city = "Glen Ellen"
 county = "Sonoma"
-longitude = -122.557253
 latitude = 38.383854
+longitude = -122.557253
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95442"
+

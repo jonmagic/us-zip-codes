@@ -1,6 +1,8 @@
-zip_code = "12816"
-state = "NY"
 city = "Cambridge"
 county = "Washington"
-longitude = -73.392229
 latitude = 43.068526
+longitude = -73.392229
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12816"
+

@@ -1,6 +1,8 @@
-zip_code = "01027"
-state = "MA"
 city = "Easthampton"
 county = "Hampshire"
-longitude = -72.768839
 latitude = 42.368303
+longitude = -72.768839
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01027"
+

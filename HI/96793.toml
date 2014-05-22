@@ -1,6 +1,8 @@
-zip_code = "96793"
-state = "HI"
 city = "Wailuku"
 county = "Maui"
-longitude = -156.566493
 latitude = 20.901536
+longitude = -156.566493
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96793"
+

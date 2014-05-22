@@ -1,6 +1,8 @@
-zip_code = "08031"
-state = "NJ"
 city = "Bellmawr"
 county = "Camden"
-longitude = -75.067729
 latitude = 39.805543
+longitude = -75.067729
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08031"
+

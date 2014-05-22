@@ -1,6 +1,8 @@
-zip_code = "37840"
-state = "TN"
 city = "Oliver Springs"
 county = "Roane"
-longitude = -84.440586
 latitude = 36.049427
+longitude = -84.440586
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37840"
+

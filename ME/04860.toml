@@ -1,6 +1,8 @@
-zip_code = "04860"
-state = "ME"
 city = "Tenants Harbor"
 county = "Knox"
-longitude = -69.213329
 latitude = 43.963129
+longitude = -69.213329
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04860"
+

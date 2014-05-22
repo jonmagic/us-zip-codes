@@ -1,6 +1,8 @@
-zip_code = "37146"
-state = "TN"
 city = "Pleasant View"
 county = "Cheatham"
-longitude = -87.047966
 latitude = 36.271077
+longitude = -87.047966
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37146"
+

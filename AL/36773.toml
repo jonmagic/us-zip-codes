@@ -1,6 +1,8 @@
-zip_code = "36773"
-state = "AL"
 city = "Safford"
 county = "Dallas"
-longitude = -87.376446
 latitude = 32.322859
+longitude = -87.376446
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36773"
+

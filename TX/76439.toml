@@ -1,6 +1,8 @@
-zip_code = "76439"
-state = "TX"
 city = "Dennis"
 county = "Parker"
-longitude = -97.957483
 latitude = 32.632495
+longitude = -97.957483
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76439"
+

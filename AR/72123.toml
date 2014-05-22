@@ -1,6 +1,8 @@
-zip_code = "72123"
-state = "AR"
 city = "Patterson"
 county = "Woodruff"
-longitude = -91.236983
 latitude = 35.25881
+longitude = -91.236983
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72123"
+

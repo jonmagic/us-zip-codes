@@ -1,6 +1,8 @@
-zip_code = "68350"
-state = "NE"
 city = "Endicott"
 county = "Jefferson"
-longitude = -97.081254
 latitude = 40.049596
+longitude = -97.081254
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68350"
+

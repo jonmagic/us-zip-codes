@@ -1,6 +1,8 @@
-zip_code = "53032"
-state = "WI"
 city = "Horicon"
 county = "Dodge"
-longitude = -88.624268
 latitude = 43.422045
+longitude = -88.624268
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53032"
+

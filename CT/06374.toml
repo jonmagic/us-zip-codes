@@ -1,6 +1,8 @@
-zip_code = "06374"
-state = "CT"
 city = "Plainfield"
 county = "Windham"
-longitude = -71.884113
 latitude = 41.688121
+longitude = -71.884113
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06374"
+

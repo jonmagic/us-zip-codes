@@ -1,6 +1,8 @@
-zip_code = "02180"
-state = "MA"
 city = "Stoneham"
 county = "Middlesex"
-longitude = -71.098146
 latitude = 42.474595
+longitude = -71.098146
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02180"
+

@@ -1,6 +1,8 @@
-zip_code = "50848"
-state = "IA"
 city = "Gravity"
 county = "Taylor"
-longitude = -94.737189
 latitude = 40.772971
+longitude = -94.737189
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50848"
+

@@ -1,6 +1,8 @@
-zip_code = "66552"
-state = "KS"
 city = "Whiting"
 county = "Jackson"
-longitude = -95.639154
 latitude = 39.59411
+longitude = -95.639154
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66552"
+

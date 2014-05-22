@@ -1,6 +1,8 @@
-zip_code = "71375"
-state = "LA"
 city = "Waterproof"
 county = "Tensas"
-longitude = -91.38711
 latitude = 31.805761
+longitude = -91.38711
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71375"
+

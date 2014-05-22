@@ -1,6 +1,8 @@
-zip_code = "35456"
-state = "AL"
 city = "Duncanville"
 county = "Tuscaloosa"
-longitude = -87.432921
 latitude = 33.072735
+longitude = -87.432921
+state = ""
+state_code_alpha2 = ""
+zip_code = "35456"
+

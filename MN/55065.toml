@@ -1,6 +1,8 @@
-zip_code = "55065"
-state = "MN"
 city = "Randolph"
 county = "Dakota"
-longitude = -93.02496
 latitude = 44.545066
+longitude = -93.02496
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55065"
+

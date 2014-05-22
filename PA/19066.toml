@@ -1,6 +1,8 @@
-zip_code = "19066"
-state = "PA"
 city = "Merion Station"
 county = "Montgomery"
-longitude = -75.249476
 latitude = 40.003412
+longitude = -75.249476
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19066"
+

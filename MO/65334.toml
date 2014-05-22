@@ -1,6 +1,8 @@
-zip_code = "65334"
-state = "MO"
 city = "Hughesville"
 county = "Pettis"
-longitude = -93.22994
 latitude = 38.826683
+longitude = -93.22994
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65334"
+

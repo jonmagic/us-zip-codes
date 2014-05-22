@@ -1,6 +1,8 @@
-zip_code = "53543"
-state = "WI"
 city = "Highland"
 county = "Iowa"
-longitude = -90.133812
 latitude = 42.991078
+longitude = -90.133812
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53543"
+

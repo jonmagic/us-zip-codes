@@ -1,6 +1,8 @@
-zip_code = "44845"
-state = "OH"
 city = "Melmore"
 county = "Seneca"
-longitude = -83.109783
 latitude = 41.024204
+longitude = -83.109783
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44845"
+

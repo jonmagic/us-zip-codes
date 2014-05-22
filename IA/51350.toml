@@ -1,6 +1,8 @@
-zip_code = "51350"
-state = "IA"
 city = "Melvin"
 county = "Osceola"
-longitude = -95.614641
 latitude = 43.315953
+longitude = -95.614641
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51350"
+

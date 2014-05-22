@@ -1,6 +1,8 @@
-zip_code = "73447"
-state = "OK"
 city = "Mannsville"
 county = "Johnston"
-longitude = -96.878673
 latitude = 34.183418
+longitude = -96.878673
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73447"
+

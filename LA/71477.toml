@@ -1,6 +1,8 @@
-zip_code = "71477"
-state = "LA"
 city = "Tioga"
 county = "Rapides"
-longitude = -92.604193
 latitude = 31.399855
+longitude = -92.604193
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71477"
+

@@ -1,6 +1,8 @@
-zip_code = "76457"
-state = "TX"
 city = "Hico"
 county = "Hamilton"
-longitude = -98.032562
 latitude = 31.939212
+longitude = -98.032562
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76457"
+

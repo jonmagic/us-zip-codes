@@ -1,6 +1,8 @@
-zip_code = "42783"
-state = "KY"
 city = "Summit"
 county = "Hardin"
-longitude = -86.085259
 latitude = 37.567134
+longitude = -86.085259
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42783"
+

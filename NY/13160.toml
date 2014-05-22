@@ -1,6 +1,8 @@
-zip_code = "13160"
-state = "NY"
 city = "Union Springs"
 county = "Cayuga"
-longitude = -76.649164
 latitude = 42.847447
+longitude = -76.649164
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13160"
+

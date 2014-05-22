@@ -1,6 +1,8 @@
-zip_code = "25421"
-state = "WV"
 city = "Glengary"
 county = "Berkeley"
-longitude = -78.143466
 latitude = 39.381345
+longitude = -78.143466
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25421"
+

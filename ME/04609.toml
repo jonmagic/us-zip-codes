@@ -1,6 +1,8 @@
-zip_code = "04609"
-state = "ME"
 city = "Bar Harbor"
 county = "Hancock"
-longitude = -68.305513
 latitude = 44.362323
+longitude = -68.305513
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04609"
+

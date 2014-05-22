@@ -1,6 +1,8 @@
-zip_code = "07731"
-state = "NJ"
 city = "Howell"
 county = "Monmouth"
-longitude = -74.19678
 latitude = 40.258361
+longitude = -74.19678
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07731"
+

@@ -1,6 +1,8 @@
-zip_code = "08095"
-state = "NJ"
 city = "Winslow"
 county = "Camden"
-longitude = -74.868531
 latitude = 39.654885
+longitude = -74.868531
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08095"
+

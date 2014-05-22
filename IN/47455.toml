@@ -1,6 +1,8 @@
-zip_code = "47455"
-state = "IN"
 city = "Patricksburg"
 county = "Owen"
-longitude = -86.842743
 latitude = 39.319527
+longitude = -86.842743
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47455"
+

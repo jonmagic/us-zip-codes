@@ -1,6 +1,8 @@
-zip_code = "21911"
-state = "MD"
 city = "Rising Sun"
 county = "Cecil"
-longitude = -76.056651
 latitude = 39.671572
+longitude = -76.056651
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21911"
+

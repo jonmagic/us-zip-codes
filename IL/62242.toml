@@ -1,6 +1,8 @@
-zip_code = "62242"
-state = "IL"
 city = "Evansville"
 county = "Randolph"
-longitude = -89.943684
 latitude = 38.10828
+longitude = -89.943684
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62242"
+

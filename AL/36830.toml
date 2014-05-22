@@ -1,6 +1,8 @@
-zip_code = "36830"
-state = "AL"
 city = "Auburn"
 county = "Lee"
-longitude = -85.468222
 latitude = 32.547542
+longitude = -85.468222
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36830"
+

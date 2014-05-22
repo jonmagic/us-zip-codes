@@ -1,6 +1,8 @@
-zip_code = "63540"
-state = "MO"
 city = "Gibbs"
 county = "Adair"
-longitude = -92.600838
 latitude = 40.191837
+longitude = -92.600838
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63540"
+

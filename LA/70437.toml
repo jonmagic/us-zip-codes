@@ -1,6 +1,8 @@
-zip_code = "70437"
-state = "LA"
 city = "Folsom"
 county = "Saint Tammany"
-longitude = -90.144908
 latitude = 30.593426
+longitude = -90.144908
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70437"
+

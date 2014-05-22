@@ -1,6 +1,8 @@
-zip_code = "88202"
-state = "NM"
 city = "Roswell"
 county = "Chaves"
-longitude = -104.431788
 latitude = 33.303825
+longitude = -104.431788
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88202"
+

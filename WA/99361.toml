@@ -1,6 +1,8 @@
-zip_code = "99361"
-state = "WA"
 city = "Waitsburg"
 county = "Walla Walla"
-longitude = -118.139822
 latitude = 46.159844
+longitude = -118.139822
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99361"
+

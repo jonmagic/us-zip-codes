@@ -1,6 +1,8 @@
-zip_code = "59103"
-state = "MT"
 city = "Billings"
 county = "Yellowstone"
-longitude = -108.194508
 latitude = 45.978288
+longitude = -108.194508
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59103"
+

@@ -1,6 +1,8 @@
-zip_code = "98270"
-state = "WA"
 city = "Marysville"
 county = "Snohomish"
-longitude = -122.161951
 latitude = 48.049576
+longitude = -122.161951
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98270"
+

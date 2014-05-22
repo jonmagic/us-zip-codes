@@ -1,6 +1,8 @@
-zip_code = "14894"
-state = "NY"
 city = "Wellsburg"
 county = "Chemung"
-longitude = -76.764516
 latitude = 42.027102
+longitude = -76.764516
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14894"
+

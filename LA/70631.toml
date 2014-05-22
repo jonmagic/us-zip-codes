@@ -1,6 +1,8 @@
-zip_code = "70631"
-state = "LA"
 city = "Cameron"
 county = "Cameron"
-longitude = -93.437979
 latitude = 29.791099
+longitude = -93.437979
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70631"
+

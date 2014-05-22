@@ -1,6 +1,8 @@
-zip_code = "55368"
-state = "MN"
 city = "Norwood"
 county = "Carver"
-longitude = -93.89995
 latitude = 44.738862
+longitude = -93.89995
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55368"
+

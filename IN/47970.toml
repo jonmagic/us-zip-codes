@@ -1,6 +1,8 @@
-zip_code = "47970"
-state = "IN"
 city = "Otterbein"
 county = "Benton"
-longitude = -87.13607
 latitude = 40.598666
+longitude = -87.13607
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47970"
+

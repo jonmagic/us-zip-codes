@@ -1,6 +1,8 @@
-zip_code = "37303"
-state = "TN"
 city = "Athens"
 county = "Mcminn"
-longitude = -84.63982
 latitude = 35.457491
+longitude = -84.63982
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37303"
+

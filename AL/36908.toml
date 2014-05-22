@@ -1,6 +1,8 @@
-zip_code = "36908"
-state = "AL"
 city = "Gilbertown"
 county = "Choctaw"
-longitude = -88.323669
 latitude = 31.922384
+longitude = -88.323669
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36908"
+

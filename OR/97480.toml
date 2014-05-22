@@ -1,6 +1,8 @@
-zip_code = "97480"
-state = "OR"
 city = "Swisshome"
 county = "Lane"
-longitude = -123.732051
 latitude = 44.101084
+longitude = -123.732051
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97480"
+

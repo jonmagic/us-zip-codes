@@ -1,6 +1,8 @@
-zip_code = "12083"
-state = "NY"
 city = "Greenville"
 county = "Greene"
-longitude = -73.951259
 latitude = 42.382594
+longitude = -73.951259
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12083"
+

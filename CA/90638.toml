@@ -1,6 +1,8 @@
-zip_code = "90638"
-state = "CA"
 city = "La Mirada"
 county = "Los Angeles"
-longitude = -118.007297
 latitude = 33.900863
+longitude = -118.007297
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90638"
+

@@ -1,6 +1,8 @@
-zip_code = "75631"
-state = "TX"
 city = "Beckville"
 county = "Panola"
-longitude = -94.456952
 latitude = 32.233362
+longitude = -94.456952
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75631"
+

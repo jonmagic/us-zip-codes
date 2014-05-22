@@ -1,6 +1,8 @@
-zip_code = "03848"
-state = "NH"
 city = "Kingston"
 county = "Rockingham"
-longitude = -71.102933
 latitude = 42.909731
+longitude = -71.102933
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03848"
+

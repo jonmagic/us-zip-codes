@@ -1,6 +1,8 @@
-zip_code = "59532"
-state = "MT"
 city = "Kremlin"
 county = "Hill"
-longitude = -110.106003
 latitude = 48.449359
+longitude = -110.106003
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59532"
+

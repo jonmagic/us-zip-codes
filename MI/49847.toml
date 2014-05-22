@@ -1,6 +1,8 @@
-zip_code = "49847"
-state = "MI"
 city = "Hermansville"
 county = "Menominee"
-longitude = -87.642374
 latitude = 45.700102
+longitude = -87.642374
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49847"
+

@@ -1,6 +1,8 @@
-zip_code = "66520"
-state = "KS"
 city = "Olsburg"
 county = "Pottawatomie"
-longitude = -96.439613
 latitude = 39.411089
+longitude = -96.439613
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66520"
+

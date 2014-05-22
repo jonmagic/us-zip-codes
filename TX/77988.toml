@@ -1,6 +1,8 @@
-zip_code = "77988"
-state = "TX"
 city = "Telferner"
 county = "Victoria"
-longitude = -96.887217
 latitude = 28.838353
+longitude = -96.887217
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77988"
+

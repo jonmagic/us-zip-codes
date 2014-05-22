@@ -1,6 +1,8 @@
-zip_code = "70640"
-state = "LA"
 city = "Fenton"
 county = "Jefferson Davis"
-longitude = -92.946269
 latitude = 30.35502
+longitude = -92.946269
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70640"
+

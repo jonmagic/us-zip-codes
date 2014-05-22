@@ -1,6 +1,8 @@
-zip_code = "41144"
-state = "KY"
 city = "Greenup"
 county = "Greenup"
-longitude = -82.839401
 latitude = 38.617863
+longitude = -82.839401
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41144"
+

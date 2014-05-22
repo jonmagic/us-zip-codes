@@ -1,6 +1,8 @@
-zip_code = "62914"
-state = "IL"
 city = "Cairo"
 county = "Alexander"
-longitude = -89.192754
 latitude = 37.028797
+longitude = -89.192754
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62914"
+

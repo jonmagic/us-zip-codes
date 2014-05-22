@@ -1,6 +1,8 @@
-zip_code = "11552"
-state = "NY"
 city = "West Hempstead"
 county = "Nassau"
-longitude = -73.653023
 latitude = 40.690251
+longitude = -73.653023
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11552"
+

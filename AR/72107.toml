@@ -1,6 +1,8 @@
-zip_code = "72107"
-state = "AR"
 city = "Menifee"
 county = "Conway"
-longitude = -92.552168
 latitude = 35.153852
+longitude = -92.552168
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72107"
+

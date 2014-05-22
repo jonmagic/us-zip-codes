@@ -1,6 +1,8 @@
-zip_code = "38916"
-state = "MS"
 city = "Calhoun City"
 county = "Calhoun"
-longitude = -89.352482
 latitude = 33.857172
+longitude = -89.352482
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38916"
+

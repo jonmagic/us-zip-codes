@@ -1,6 +1,8 @@
-zip_code = "22193"
-state = "VA"
 city = "Woodbridge"
 county = "Prince William"
-longitude = -77.345106
 latitude = 38.643765
+longitude = -77.345106
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22193"
+

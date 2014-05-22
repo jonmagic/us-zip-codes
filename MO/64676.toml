@@ -1,6 +1,8 @@
-zip_code = "64676"
-state = "MO"
 city = "Rothville"
 county = "Chariton"
-longitude = -93.062349
 latitude = 39.653615
+longitude = -93.062349
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64676"
+

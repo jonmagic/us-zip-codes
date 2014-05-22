@@ -1,6 +1,8 @@
-zip_code = "68647"
-state = "NE"
 city = "Monroe"
 county = "Platte"
-longitude = -97.625525
 latitude = 41.465573
+longitude = -97.625525
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68647"
+

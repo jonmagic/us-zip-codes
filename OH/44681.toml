@@ -1,6 +1,8 @@
-zip_code = "44681"
-state = "OH"
 city = "Sugarcreek"
 county = "Tuscarawas"
-longitude = -81.553581
 latitude = 40.473446
+longitude = -81.553581
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44681"
+

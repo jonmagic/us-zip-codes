@@ -1,6 +1,8 @@
-zip_code = "65645"
-state = "MO"
 city = "Eudora"
 county = "Polk"
-longitude = -93.539707
 latitude = 37.476695
+longitude = -93.539707
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65645"
+

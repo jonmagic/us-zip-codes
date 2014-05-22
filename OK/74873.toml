@@ -1,6 +1,8 @@
-zip_code = "74873"
-state = "OK"
 city = "Tecumseh"
 county = "Pottawatomie"
-longitude = -96.959439
 latitude = 35.183973
+longitude = -96.959439
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74873"
+

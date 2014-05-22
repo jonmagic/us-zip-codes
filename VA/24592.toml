@@ -1,6 +1,8 @@
-zip_code = "24592"
-state = "VA"
 city = "South Boston"
 county = "Halifax"
-longitude = -78.952947
 latitude = 36.679767
+longitude = -78.952947
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24592"
+

@@ -1,6 +1,8 @@
-zip_code = "48390"
-state = "MI"
 city = "Walled Lake"
 county = "Oakland"
-longitude = -83.47726
 latitude = 42.558183
+longitude = -83.47726
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48390"
+

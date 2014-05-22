@@ -1,6 +1,8 @@
-zip_code = "56180"
-state = "MN"
 city = "Walnut Grove"
 county = "Redwood"
-longitude = -95.48189
 latitude = 44.283007
+longitude = -95.48189
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56180"
+

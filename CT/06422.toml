@@ -1,6 +1,8 @@
-zip_code = "06422"
-state = "CT"
 city = "Durham"
 county = "Middlesex"
-longitude = -72.682297
 latitude = 41.462468
+longitude = -72.682297
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06422"
+

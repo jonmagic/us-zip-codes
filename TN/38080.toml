@@ -1,6 +1,8 @@
-zip_code = "38080"
-state = "TN"
 city = "Ridgely"
 county = "Lake"
-longitude = -89.465379
 latitude = 36.25973
+longitude = -89.465379
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38080"
+

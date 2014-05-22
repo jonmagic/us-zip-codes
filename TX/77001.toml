@@ -1,6 +1,8 @@
-zip_code = "77001"
-state = "TX"
 city = "Houston"
 county = "Harris"
-longitude = -95.309789
 latitude = 29.813142
+longitude = -95.309789
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77001"
+

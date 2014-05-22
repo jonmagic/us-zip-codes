@@ -1,6 +1,8 @@
-zip_code = "74545"
-state = "OK"
 city = "Gowen"
 county = "Latimer"
-longitude = -95.221099
 latitude = 34.869457
+longitude = -95.221099
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74545"
+

@@ -1,6 +1,8 @@
-zip_code = "54926"
-state = "WI"
 city = "Big Falls"
 county = "Waupaca"
-longitude = -89.016622
 latitude = 44.617819
+longitude = -89.016622
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54926"
+

@@ -1,6 +1,8 @@
-zip_code = "60037"
-state = "IL"
 city = "Fort Sheridan"
 county = "Lake"
-longitude = -87.818268
 latitude = 42.255073
+longitude = -87.818268
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60037"
+

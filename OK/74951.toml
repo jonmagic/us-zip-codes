@@ -1,6 +1,8 @@
-zip_code = "74951"
-state = "OK"
 city = "Panama"
 county = "Le Flore"
-longitude = -94.670941
 latitude = 35.153493
+longitude = -94.670941
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74951"
+

@@ -1,6 +1,8 @@
-zip_code = "62550"
-state = "IL"
 city = "Moweaqua"
 county = "Shelby"
-longitude = -88.889483
 latitude = 39.575086
+longitude = -88.889483
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62550"
+

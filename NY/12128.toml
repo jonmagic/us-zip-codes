@@ -1,6 +1,8 @@
-zip_code = "12128"
-state = "NY"
 city = "Newtonville"
 county = "Albany"
-longitude = -73.764296
 latitude = 42.724978
+longitude = -73.764296
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12128"
+

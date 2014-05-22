@@ -1,6 +1,8 @@
-zip_code = "07704"
-state = "NJ"
 city = "Fair Haven"
 county = "Monmouth"
-longitude = -74.036433
 latitude = 40.358459
+longitude = -74.036433
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07704"
+

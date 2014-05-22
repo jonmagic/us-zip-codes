@@ -1,6 +1,8 @@
-zip_code = "27583"
-state = "NC"
 city = "Timberlake"
 county = "Person"
-longitude = -78.92292
 latitude = 36.311201
+longitude = -78.92292
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27583"
+

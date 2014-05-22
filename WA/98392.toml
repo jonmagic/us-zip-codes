@@ -1,6 +1,8 @@
-zip_code = "98392"
-state = "WA"
 city = "Suquamish"
 county = "Kitsap"
-longitude = -122.564557
 latitude = 47.732624
+longitude = -122.564557
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98392"
+

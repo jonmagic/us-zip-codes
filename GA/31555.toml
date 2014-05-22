@@ -1,6 +1,8 @@
-zip_code = "31555"
-state = "GA"
 city = "Odum"
 county = "Wayne"
-longitude = -82.037562
 latitude = 31.685101
+longitude = -82.037562
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31555"
+

@@ -1,6 +1,8 @@
-zip_code = "65720"
-state = "MO"
 city = "Oldfield"
 county = "Christian"
-longitude = -93.096909
 latitude = 36.972932
+longitude = -93.096909
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65720"
+

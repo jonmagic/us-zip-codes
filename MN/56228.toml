@@ -1,6 +1,8 @@
-zip_code = "56228"
-state = "MN"
 city = "Cosmos"
 county = "Meeker"
-longitude = -94.660884
 latitude = 45.022087
+longitude = -94.660884
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56228"
+

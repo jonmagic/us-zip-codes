@@ -1,6 +1,8 @@
-zip_code = "96065"
-state = "CA"
 city = "Montgomery Creek"
 county = "Shasta"
-longitude = -121.916728
 latitude = 40.900945
+longitude = -121.916728
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96065"
+

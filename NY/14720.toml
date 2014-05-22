@@ -1,6 +1,8 @@
-zip_code = "14720"
-state = "NY"
 city = "Celoron"
 county = "Chautauqua"
-longitude = -79.27912
 latitude = 42.105907
+longitude = -79.27912
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14720"
+

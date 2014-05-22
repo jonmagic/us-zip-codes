@@ -1,6 +1,8 @@
-zip_code = "63077"
-state = "MO"
 city = "Saint Clair"
 county = "Franklin"
-longitude = -90.968672
 latitude = 38.363431
+longitude = -90.968672
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63077"
+

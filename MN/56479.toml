@@ -1,6 +1,8 @@
-zip_code = "56479"
-state = "MN"
 city = "Staples"
 county = "Todd"
-longitude = -94.934361
 latitude = 46.250882
+longitude = -94.934361
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56479"
+

@@ -1,6 +1,8 @@
-zip_code = "25286"
-state = "WV"
 city = "Walton"
 county = "Roane"
-longitude = -81.419262
 latitude = 38.608737
+longitude = -81.419262
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25286"
+

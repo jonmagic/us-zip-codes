@@ -1,6 +1,8 @@
-zip_code = "73068"
-state = "OK"
 city = "Noble"
 county = "Cleveland"
-longitude = -97.276226
 latitude = 35.152314
+longitude = -97.276226
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73068"
+

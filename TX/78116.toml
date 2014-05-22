@@ -1,6 +1,8 @@
-zip_code = "78116"
-state = "TX"
 city = "Gillett"
 county = "Karnes"
-longitude = -97.843908
 latitude = 29.092731
+longitude = -97.843908
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78116"
+

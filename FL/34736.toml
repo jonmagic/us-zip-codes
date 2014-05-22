@@ -1,6 +1,8 @@
-zip_code = "34736"
-state = "FL"
 city = "Groveland"
 county = "Lake"
-longitude = -81.870269
 latitude = 28.587996
+longitude = -81.870269
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34736"
+

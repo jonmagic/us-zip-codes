@@ -1,6 +1,8 @@
-zip_code = "43733"
-state = "OH"
 city = "Derwent"
 county = "Guernsey"
-longitude = -81.542965
 latitude = 39.923616
+longitude = -81.542965
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43733"
+

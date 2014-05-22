@@ -1,6 +1,8 @@
-zip_code = "47125"
-state = "IN"
 city = "Hardinsburg"
 county = "Washington"
-longitude = -86.244689
 latitude = 38.500408
+longitude = -86.244689
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47125"
+

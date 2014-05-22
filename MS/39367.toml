@@ -1,6 +1,8 @@
-zip_code = "39367"
-state = "MS"
 city = "Waynesboro"
 county = "Wayne"
-longitude = -88.704113
 latitude = 31.659327
+longitude = -88.704113
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39367"
+

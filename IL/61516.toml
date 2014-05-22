@@ -1,6 +1,8 @@
-zip_code = "61516"
-state = "IL"
 city = "Benson"
 county = "Woodford"
-longitude = -89.131937
 latitude = 40.853248
+longitude = -89.131937
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61516"
+

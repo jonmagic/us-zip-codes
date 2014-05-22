@@ -1,6 +1,8 @@
-zip_code = "93225"
-state = "CA"
 city = "Frazier Park"
 county = "Kern"
-longitude = -118.475381
 latitude = 35.674205
+longitude = -118.475381
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93225"
+

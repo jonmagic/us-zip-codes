@@ -1,6 +1,8 @@
-zip_code = "41840"
-state = "KY"
 city = "Neon"
 county = "Letcher"
-longitude = -82.711046
 latitude = 37.187588
+longitude = -82.711046
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41840"
+

@@ -1,6 +1,8 @@
-zip_code = "23146"
-state = "VA"
 city = "Rockville"
 county = "Hanover"
-longitude = -77.708072
 latitude = 37.739029
+longitude = -77.708072
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23146"
+

@@ -1,6 +1,8 @@
-zip_code = "93906"
-state = "CA"
 city = "Salinas"
 county = "Monterey"
-longitude = -121.487916
 latitude = 36.620989
+longitude = -121.487916
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93906"
+

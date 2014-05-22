@@ -1,6 +1,8 @@
-zip_code = "47036"
-state = "IN"
 city = "Oldenburg"
 county = "Franklin"
-longitude = -85.238529
 latitude = 39.386175
+longitude = -85.238529
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47036"
+

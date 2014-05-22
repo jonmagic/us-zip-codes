@@ -1,6 +1,8 @@
-zip_code = "43164"
-state = "OH"
 city = "Williamsport"
 county = "Pickaway"
-longitude = -83.126646
 latitude = 39.604282
+longitude = -83.126646
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43164"
+

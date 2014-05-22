@@ -1,6 +1,8 @@
-zip_code = "67554"
-state = "KS"
 city = "Lyons"
 county = "Rice"
-longitude = -98.193184
 latitude = 38.376979
+longitude = -98.193184
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67554"
+

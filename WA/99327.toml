@@ -1,6 +1,8 @@
-zip_code = "99327"
-state = "WA"
 city = "Cunningham"
 county = "Adams"
-longitude = -118.829153
 latitude = 46.828931
+longitude = -118.829153
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99327"
+

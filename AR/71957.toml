@@ -1,6 +1,8 @@
-zip_code = "71957"
-state = "AR"
 city = "Mount Ida"
 county = "Montgomery"
-longitude = -93.585206
 latitude = 34.550661
+longitude = -93.585206
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71957"
+

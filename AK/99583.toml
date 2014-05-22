@@ -1,6 +1,8 @@
-zip_code = "99583"
-state = "AK"
 city = "False Pass"
 county = "Aleutians East"
-longitude = -162.55813
 latitude = 55.430594
+longitude = -162.55813
+state = ""
+state_code_alpha2 = ""
+zip_code = "99583"
+

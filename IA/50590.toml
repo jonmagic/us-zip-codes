@@ -1,6 +1,8 @@
-zip_code = "50590"
-state = "IA"
 city = "Swea City"
 county = "Kossuth"
-longitude = -94.295584
 latitude = 43.283285
+longitude = -94.295584
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50590"
+

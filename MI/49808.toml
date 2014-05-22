@@ -1,6 +1,8 @@
-zip_code = "49808"
-state = "MI"
 city = "Big Bay"
 county = "Marquette"
-longitude = -87.672566
 latitude = 46.770788
+longitude = -87.672566
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49808"
+

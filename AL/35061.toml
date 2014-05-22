@@ -1,6 +1,8 @@
-zip_code = "35061"
-state = "AL"
 city = "Dolomite"
 county = "Jefferson"
-longitude = -86.960864
 latitude = 33.460807
+longitude = -86.960864
+state = ""
+state_code_alpha2 = ""
+zip_code = "35061"
+

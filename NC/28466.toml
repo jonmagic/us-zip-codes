@@ -1,6 +1,8 @@
-zip_code = "28466"
-state = "NC"
 city = "Wallace"
 county = "Duplin"
-longitude = -77.940027
 latitude = 34.76743
+longitude = -77.940027
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28466"
+

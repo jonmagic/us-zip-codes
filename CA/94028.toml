@@ -1,6 +1,8 @@
-zip_code = "94028"
-state = "CA"
 city = "Portola Valley"
 county = "San Mateo"
-longitude = -122.218176
 latitude = 37.370194
+longitude = -122.218176
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94028"
+

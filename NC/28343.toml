@@ -1,6 +1,8 @@
-zip_code = "28343"
-state = "NC"
 city = "Gibson"
 county = "Scotland"
-longitude = -79.577405
 latitude = 34.795061
+longitude = -79.577405
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28343"
+

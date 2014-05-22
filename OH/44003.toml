@@ -1,6 +1,8 @@
-zip_code = "44003"
-state = "OH"
 city = "Andover"
 county = "Ashtabula"
-longitude = -80.602278
 latitude = 41.740136
+longitude = -80.602278
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44003"
+

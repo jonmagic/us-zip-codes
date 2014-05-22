@@ -1,6 +1,8 @@
-zip_code = "78591"
-state = "TX"
 city = "Santa Elena"
 county = "Starr"
-longitude = -98.583016
 latitude = 26.749896
+longitude = -98.583016
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78591"
+

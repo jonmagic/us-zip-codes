@@ -1,6 +1,8 @@
-zip_code = "59522"
-state = "MT"
 city = "Chester"
 county = "Liberty"
-longitude = -110.967372
 latitude = 48.510659
+longitude = -110.967372
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59522"
+

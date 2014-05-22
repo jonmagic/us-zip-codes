@@ -1,6 +1,8 @@
-zip_code = "46319"
-state = "IN"
 city = "Griffith"
 county = "Lake"
-longitude = -87.390338
 latitude = 41.522129
+longitude = -87.390338
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46319"
+

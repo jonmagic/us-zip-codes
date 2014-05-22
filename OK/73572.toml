@@ -1,6 +1,8 @@
-zip_code = "73572"
-state = "OK"
 city = "Walters"
 county = "Cotton"
-longitude = -98.319264
 latitude = 34.321541
+longitude = -98.319264
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73572"
+

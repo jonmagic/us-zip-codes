@@ -1,6 +1,8 @@
-zip_code = "41862"
-state = "KY"
 city = "Topmost"
 county = "Knott"
-longitude = -82.792578
 latitude = 37.348498
+longitude = -82.792578
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41862"
+

@@ -1,6 +1,8 @@
-zip_code = "70360"
-state = "LA"
 city = "Houma"
 county = "Terrebonne"
-longitude = -90.852551
 latitude = 29.6421
+longitude = -90.852551
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70360"
+

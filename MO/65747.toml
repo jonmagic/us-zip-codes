@@ -1,6 +1,8 @@
-zip_code = "65747"
-state = "MO"
 city = "Shell Knob"
 county = "Barry"
-longitude = -93.825497
 latitude = 36.715249
+longitude = -93.825497
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65747"
+

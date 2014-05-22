@@ -1,6 +1,8 @@
-zip_code = "76557"
-state = "TX"
 city = "Moody"
 county = "Mclennan"
-longitude = -97.336265
 latitude = 31.335232
+longitude = -97.336265
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76557"
+

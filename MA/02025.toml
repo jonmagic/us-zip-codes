@@ -1,6 +1,8 @@
-zip_code = "02025"
-state = "MA"
 city = "Cohasset"
 county = "Norfolk"
-longitude = -70.815826
 latitude = 42.233938
+longitude = -70.815826
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02025"
+

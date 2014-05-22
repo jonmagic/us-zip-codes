@@ -1,6 +1,8 @@
-zip_code = "36005"
-state = "AL"
 city = "Banks"
 county = "Pike"
-longitude = -85.928538
 latitude = 31.839131
+longitude = -85.928538
+state = ""
+state_code_alpha2 = ""
+zip_code = "36005"
+

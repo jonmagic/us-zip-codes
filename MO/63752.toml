@@ -1,6 +1,8 @@
-zip_code = "63752"
-state = "MO"
 city = "Gordonville"
 county = "Cape Girardeau"
-longitude = -89.69889
 latitude = 37.30925
+longitude = -89.69889
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63752"
+

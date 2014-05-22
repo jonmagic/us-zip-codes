@@ -1,6 +1,8 @@
-zip_code = "85671"
-state = "AZ"
 city = "Sierra Vista"
 county = "Cochise"
-longitude = -109.754263
 latitude = 31.880077
+longitude = -109.754263
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85671"
+

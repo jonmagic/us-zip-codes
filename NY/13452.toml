@@ -1,6 +1,8 @@
-zip_code = "13452"
-state = "NY"
 city = "Saint Johnsville"
 county = "Montgomery"
-longitude = -74.657384
 latitude = 42.975134
+longitude = -74.657384
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13452"
+

@@ -1,6 +1,8 @@
-zip_code = "04087"
-state = "ME"
 city = "Waterboro"
 county = "York"
-longitude = -70.749181
 latitude = 43.573684
+longitude = -70.749181
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04087"
+

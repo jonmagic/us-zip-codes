@@ -1,6 +1,8 @@
-zip_code = "41804"
-state = "KY"
 city = "Blackey"
 county = "Letcher"
-longitude = -82.995605
 latitude = 37.155055
+longitude = -82.995605
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41804"
+

@@ -1,6 +1,8 @@
-zip_code = "70559"
-state = "LA"
 city = "Morse"
 county = "Acadia"
-longitude = -92.476684
 latitude = 30.129756
+longitude = -92.476684
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70559"
+

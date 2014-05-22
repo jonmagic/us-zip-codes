@@ -1,6 +1,8 @@
-zip_code = "56215"
-state = "MN"
 city = "Benson"
 county = "Swift"
-longitude = -95.672102
 latitude = 45.281669
+longitude = -95.672102
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56215"
+

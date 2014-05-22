@@ -1,6 +1,8 @@
-zip_code = "32640"
-state = "FL"
 city = "Hawthorne"
 county = "Alachua"
-longitude = -82.327515
 latitude = 29.642025
+longitude = -82.327515
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32640"
+

@@ -1,6 +1,8 @@
-zip_code = "28441"
-state = "NC"
 city = "Garland"
 county = "Sampson"
-longitude = -78.323226
 latitude = 34.822898
+longitude = -78.323226
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28441"
+

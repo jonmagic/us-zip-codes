@@ -1,6 +1,8 @@
-zip_code = "30127"
-state = "GA"
 city = "Powder Springs"
 county = "Cobb"
-longitude = -84.685885
 latitude = 33.91351
+longitude = -84.685885
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30127"
+

@@ -1,6 +1,8 @@
-zip_code = "99034"
-state = "WA"
 city = "Tumtum"
 county = "Stevens"
-longitude = -117.753629
 latitude = 47.894108
+longitude = -117.753629
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99034"
+

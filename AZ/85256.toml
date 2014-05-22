@@ -1,6 +1,8 @@
-zip_code = "85256"
-state = "AZ"
 city = "Scottsdale"
 county = "Maricopa"
-longitude = -111.80033
 latitude = 33.507744
+longitude = -111.80033
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85256"
+

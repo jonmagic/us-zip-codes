@@ -1,6 +1,8 @@
-zip_code = "55962"
-state = "MN"
 city = "Peterson"
 county = "Fillmore"
-longitude = -92.048539
 latitude = 43.747262
+longitude = -92.048539
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55962"
+

@@ -1,6 +1,8 @@
-zip_code = "13064"
-state = "NY"
 city = "Fair Haven"
 county = "Oswego"
-longitude = -76.200448
 latitude = 43.431311
+longitude = -76.200448
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13064"
+

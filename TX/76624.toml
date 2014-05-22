@@ -1,6 +1,8 @@
-zip_code = "76624"
-state = "TX"
 city = "Axtell"
 county = "Mclennan"
-longitude = -96.986233
 latitude = 31.687303
+longitude = -96.986233
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76624"
+

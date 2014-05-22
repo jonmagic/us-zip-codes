@@ -1,6 +1,8 @@
-zip_code = "14882"
-state = "NY"
 city = "Lansing"
 county = "Tompkins"
-longitude = -76.552378
 latitude = 42.573453
+longitude = -76.552378
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14882"
+

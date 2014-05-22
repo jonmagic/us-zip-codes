@@ -1,6 +1,8 @@
-zip_code = "85645"
-state = "AZ"
 city = "Amado"
 county = "Santa Cruz"
-longitude = -111.09862
 latitude = 31.672252
+longitude = -111.09862
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85645"
+

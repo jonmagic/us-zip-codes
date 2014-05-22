@@ -1,6 +1,8 @@
-zip_code = "27317"
-state = "NC"
 city = "Randleman"
 county = "Randolph"
-longitude = -79.712537
 latitude = 35.823611
+longitude = -79.712537
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27317"
+

@@ -1,6 +1,8 @@
-zip_code = "56056"
-state = "MN"
 city = "La Salle"
 county = "Watonwan"
-longitude = -94.614361
 latitude = 43.978335
+longitude = -94.614361
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56056"
+

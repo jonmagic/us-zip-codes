@@ -1,6 +1,8 @@
-zip_code = "04048"
-state = "ME"
 city = "Limerick"
 county = "York"
-longitude = -70.83448
 latitude = 43.661222
+longitude = -70.83448
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04048"
+

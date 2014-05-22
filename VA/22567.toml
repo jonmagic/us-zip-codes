@@ -1,6 +1,8 @@
-zip_code = "22567"
-state = "VA"
 city = "Unionville"
 county = "Orange"
-longitude = -77.917753
 latitude = 38.242901
+longitude = -77.917753
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22567"
+

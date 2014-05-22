@@ -1,6 +1,8 @@
-zip_code = "22538"
-state = "VA"
 city = "Rappahannock Academy"
 county = "Caroline"
-longitude = -77.2502
 latitude = 38.207873
+longitude = -77.2502
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22538"
+

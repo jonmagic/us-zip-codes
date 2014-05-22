@@ -1,6 +1,8 @@
-zip_code = "29511"
-state = "SC"
 city = "Aynor"
 county = "Horry"
-longitude = -79.041027
 latitude = 33.939968
+longitude = -79.041027
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29511"
+

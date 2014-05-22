@@ -1,6 +1,8 @@
-zip_code = "17603"
-state = "PA"
 city = "Lancaster"
 county = "Lancaster"
-longitude = -76.367132
 latitude = 40.009147
+longitude = -76.367132
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17603"
+

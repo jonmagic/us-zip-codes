@@ -1,6 +1,8 @@
-zip_code = "32181"
-state = "FL"
 city = "Pomona Park"
 county = "Putnam"
-longitude = -81.613183
 latitude = 29.539751
+longitude = -81.613183
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32181"
+

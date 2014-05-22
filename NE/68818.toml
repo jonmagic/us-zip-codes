@@ -1,6 +1,8 @@
-zip_code = "68818"
-state = "NE"
 city = "Aurora"
 county = "Hamilton"
-longitude = -98.054272
 latitude = 40.850832
+longitude = -98.054272
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68818"
+

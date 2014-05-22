@@ -1,6 +1,8 @@
-zip_code = "78056"
-state = "TX"
 city = "Mico"
 county = "Medina"
-longitude = -98.938654
 latitude = 29.511723
+longitude = -98.938654
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78056"
+

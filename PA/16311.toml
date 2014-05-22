@@ -1,6 +1,8 @@
-zip_code = "16311"
-state = "PA"
 city = "Carlton"
 county = "Mercer"
-longitude = -80.043012
 latitude = 41.456666
+longitude = -80.043012
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16311"
+

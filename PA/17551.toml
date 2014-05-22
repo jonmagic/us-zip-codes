@@ -1,6 +1,8 @@
-zip_code = "17551"
-state = "PA"
 city = "Millersville"
 county = "Lancaster"
-longitude = -76.236823
 latitude = 40.031882
+longitude = -76.236823
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17551"
+

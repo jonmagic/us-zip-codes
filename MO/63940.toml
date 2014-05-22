@@ -1,6 +1,8 @@
-zip_code = "63940"
-state = "MO"
 city = "Fisk"
 county = "Butler"
-longitude = -90.207712
 latitude = 36.782328
+longitude = -90.207712
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63940"
+

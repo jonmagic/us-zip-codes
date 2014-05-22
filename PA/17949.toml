@@ -1,6 +1,8 @@
-zip_code = "17949"
-state = "PA"
 city = "Mahanoy Plane"
 county = "Schuylkill"
-longitude = -76.243323
 latitude = 40.794007
+longitude = -76.243323
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17949"
+

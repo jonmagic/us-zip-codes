@@ -1,6 +1,8 @@
-zip_code = "49401"
-state = "MI"
 city = "Allendale"
 county = "Ottawa"
-longitude = -85.93927
 latitude = 42.979522
+longitude = -85.93927
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49401"
+

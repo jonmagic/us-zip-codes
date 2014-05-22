@@ -1,6 +1,8 @@
-zip_code = "01266"
-state = "MA"
 city = "West Stockbridge"
 county = "Berkshire"
-longitude = -73.265354
 latitude = 42.360482
+longitude = -73.265354
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01266"
+

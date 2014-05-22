@@ -1,6 +1,8 @@
-zip_code = "35062"
-state = "AL"
 city = "Dora"
 county = "Walker"
-longitude = -87.054641
 latitude = 33.735709
+longitude = -87.054641
+state = ""
+state_code_alpha2 = ""
+zip_code = "35062"
+

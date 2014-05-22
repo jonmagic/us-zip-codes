@@ -1,6 +1,8 @@
-zip_code = "66053"
-state = "KS"
 city = "Louisburg"
 county = "Miami"
-longitude = -94.689876
 latitude = 38.587195
+longitude = -94.689876
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66053"
+

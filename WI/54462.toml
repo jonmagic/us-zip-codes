@@ -1,6 +1,8 @@
-zip_code = "54462"
-state = "WI"
 city = "Pearson"
 county = "Langlade"
-longitude = -88.971242
 latitude = 45.386148
+longitude = -88.971242
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54462"
+

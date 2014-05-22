@@ -1,6 +1,8 @@
-zip_code = "37753"
-state = "TN"
 city = "Hartford"
 county = "Cocke"
-longitude = -83.098214
 latitude = 35.82414
+longitude = -83.098214
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37753"
+

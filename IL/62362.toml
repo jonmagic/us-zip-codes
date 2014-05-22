@@ -1,6 +1,8 @@
-zip_code = "62362"
-state = "IL"
 city = "Perry"
 county = "Pike"
-longitude = -90.747978
 latitude = 39.78247
+longitude = -90.747978
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62362"
+

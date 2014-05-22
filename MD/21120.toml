@@ -1,6 +1,8 @@
-zip_code = "21120"
-state = "MD"
 city = "Parkton"
 county = "Baltimore"
-longitude = -76.673693
 latitude = 39.642203
+longitude = -76.673693
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21120"
+

@@ -1,6 +1,8 @@
-zip_code = "97128"
-state = "OR"
 city = "Mcminnville"
 county = "Yamhill"
-longitude = -123.237145
 latitude = 45.187444
+longitude = -123.237145
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97128"
+

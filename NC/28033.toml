@@ -1,6 +1,8 @@
-zip_code = "28033"
-state = "NC"
 city = "Crouse"
 county = "Lincoln"
-longitude = -81.33848
 latitude = 35.435922
+longitude = -81.33848
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28033"
+

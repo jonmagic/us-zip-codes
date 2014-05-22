@@ -1,6 +1,8 @@
-zip_code = "46783"
-state = "IN"
 city = "Roanoke"
 county = "Huntington"
-longitude = -85.393868
 latitude = 40.954446
+longitude = -85.393868
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46783"
+

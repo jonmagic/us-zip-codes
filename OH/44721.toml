@@ -1,6 +1,8 @@
-zip_code = "44721"
-state = "OH"
 city = "Canton"
 county = "Stark"
-longitude = -81.318381
 latitude = 40.891608
+longitude = -81.318381
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44721"
+

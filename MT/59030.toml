@@ -1,6 +1,8 @@
-zip_code = "59030"
-state = "MT"
 city = "Gardiner"
 county = "Park"
-longitude = -110.809991
 latitude = 45.114735
+longitude = -110.809991
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59030"
+

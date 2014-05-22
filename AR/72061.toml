@@ -1,6 +1,8 @@
-zip_code = "72061"
-state = "AR"
 city = "Guy"
 county = "Faulkner"
-longitude = -92.334843
 latitude = 35.322662
+longitude = -92.334843
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72061"
+

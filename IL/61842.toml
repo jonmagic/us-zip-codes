@@ -1,6 +1,8 @@
-zip_code = "61842"
-state = "IL"
 city = "Farmer City"
 county = "Dewitt"
-longitude = -88.69107
 latitude = 40.18631
+longitude = -88.69107
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61842"
+

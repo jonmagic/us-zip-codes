@@ -1,6 +1,8 @@
-zip_code = "04224"
-state = "ME"
 city = "Dixfield"
 county = "Oxford"
-longitude = -70.422541
 latitude = 44.553968
+longitude = -70.422541
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04224"
+

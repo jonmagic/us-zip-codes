@@ -1,6 +1,8 @@
-zip_code = "49646"
-state = "MI"
 city = "Kalkaska"
 county = "Kalkaska"
-longitude = -85.092905
 latitude = 44.697144
+longitude = -85.092905
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49646"
+

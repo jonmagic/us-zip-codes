@@ -1,6 +1,8 @@
-zip_code = "26743"
-state = "WV"
 city = "New Creek"
 county = "Mineral"
-longitude = -79.045902
 latitude = 39.32047
+longitude = -79.045902
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26743"
+

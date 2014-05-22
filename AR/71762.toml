@@ -1,6 +1,8 @@
-zip_code = "71762"
-state = "AR"
 city = "Smackover"
 county = "Union"
-longitude = -92.523809
 latitude = 33.194725
+longitude = -92.523809
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71762"
+

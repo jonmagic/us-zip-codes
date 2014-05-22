@@ -1,6 +1,8 @@
-zip_code = "59225"
-state = "MT"
 city = "Frazer"
 county = "Valley"
-longitude = -106.032354
 latitude = 48.295916
+longitude = -106.032354
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59225"
+

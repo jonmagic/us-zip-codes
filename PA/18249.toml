@@ -1,6 +1,8 @@
-zip_code = "18249"
-state = "PA"
 city = "Sugarloaf"
 county = "Luzerne"
-longitude = -76.0845
 latitude = 40.975202
+longitude = -76.0845
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18249"
+

@@ -1,6 +1,8 @@
-zip_code = "22545"
-state = "VA"
 city = "Ruby"
 county = "Stafford"
-longitude = -77.542957
 latitude = 38.508611
+longitude = -77.542957
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22545"
+

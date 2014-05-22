@@ -1,6 +1,8 @@
-zip_code = "34755"
-state = "FL"
 city = "Minneola"
 county = "Lake"
-longitude = -81.831883
 latitude = 28.578234
+longitude = -81.831883
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34755"
+

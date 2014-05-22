@@ -1,6 +1,8 @@
-zip_code = "96080"
-state = "CA"
 city = "Red Bluff"
 county = "Tehama"
-longitude = -122.340888
 latitude = 40.142907
+longitude = -122.340888
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96080"
+

@@ -1,6 +1,8 @@
-zip_code = "25202"
-state = "WV"
 city = "Tornado"
 county = "Kanawha"
-longitude = -81.8563
 latitude = 38.332069
+longitude = -81.8563
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25202"
+

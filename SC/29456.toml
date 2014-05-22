@@ -1,6 +1,8 @@
-zip_code = "29456"
-state = "SC"
 city = "Ladson"
 county = "Berkeley"
-longitude = -80.107174
 latitude = 33.01317
+longitude = -80.107174
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29456"
+

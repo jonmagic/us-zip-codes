@@ -1,6 +1,8 @@
-zip_code = "74331"
-state = "OK"
 city = "Afton"
 county = "Ottawa"
-longitude = -94.916222
 latitude = 36.82215
+longitude = -94.916222
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74331"
+

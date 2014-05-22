@@ -1,6 +1,8 @@
-zip_code = "29681"
-state = "SC"
 city = "Simpsonville"
 county = "Greenville"
-longitude = -82.266734
 latitude = 34.80728
+longitude = -82.266734
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29681"
+

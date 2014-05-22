@@ -1,6 +1,8 @@
-zip_code = "23898"
-state = "VA"
 city = "Zuni"
 county = "Isle Of Wight"
-longitude = -76.817727
 latitude = 36.833708
+longitude = -76.817727
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23898"
+

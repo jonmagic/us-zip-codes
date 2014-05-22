@@ -1,6 +1,8 @@
-zip_code = "67360"
-state = "KS"
 city = "Peru"
 county = "Chautauqua"
-longitude = -96.07768
 latitude = 37.048401
+longitude = -96.07768
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67360"
+

@@ -1,6 +1,8 @@
-zip_code = "77434"
-state = "TX"
 city = "Eagle Lake"
 county = "Colorado"
-longitude = -96.35207
 latitude = 29.590148
+longitude = -96.35207
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77434"
+

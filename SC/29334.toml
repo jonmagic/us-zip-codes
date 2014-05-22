@@ -1,6 +1,8 @@
-zip_code = "29334"
-state = "SC"
 city = "Duncan"
 county = "Spartanburg"
-longitude = -81.992532
 latitude = 34.935427
+longitude = -81.992532
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29334"
+

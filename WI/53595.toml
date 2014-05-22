@@ -1,6 +1,8 @@
-zip_code = "53595"
-state = "WI"
 city = "Dodgeville"
 county = "Iowa"
-longitude = -90.141299
 latitude = 42.976078
+longitude = -90.141299
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53595"
+

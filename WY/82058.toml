@@ -1,6 +1,8 @@
-zip_code = "82058"
-state = "WY"
 city = "Garrett"
 county = "Albany"
-longitude = -105.677952
 latitude = 42.203504
+longitude = -105.677952
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82058"
+

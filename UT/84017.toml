@@ -1,6 +1,8 @@
-zip_code = "84017"
-state = "UT"
 city = "Coalville"
 county = "Summit"
-longitude = -111.322754
 latitude = 40.840518
+longitude = -111.322754
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84017"
+

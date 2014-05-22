@@ -1,6 +1,8 @@
-zip_code = "12885"
-state = "NY"
 city = "Warrensburg"
 county = "Warren"
-longitude = -73.859928
 latitude = 43.570457
+longitude = -73.859928
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12885"
+

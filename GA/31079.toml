@@ -1,6 +1,8 @@
-zip_code = "31079"
-state = "GA"
 city = "Rochelle"
 county = "Wilcox"
-longitude = -83.453578
 latitude = 31.948411
+longitude = -83.453578
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31079"
+

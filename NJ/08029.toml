@@ -1,6 +1,8 @@
-zip_code = "08029"
-state = "NJ"
 city = "Glendora"
 county = "Camden"
-longitude = -75.062315
 latitude = 39.837113
+longitude = -75.062315
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08029"
+

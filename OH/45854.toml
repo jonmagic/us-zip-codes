@@ -1,6 +1,8 @@
-zip_code = "45854"
-state = "OH"
 city = "Lafayette"
 county = "Allen"
-longitude = -83.949934
 latitude = 40.758211
+longitude = -83.949934
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45854"
+

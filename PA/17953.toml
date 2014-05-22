@@ -1,6 +1,8 @@
-zip_code = "17953"
-state = "PA"
 city = "Middleport"
 county = "Schuylkill"
-longitude = -76.085783
 latitude = 40.733072
+longitude = -76.085783
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17953"
+

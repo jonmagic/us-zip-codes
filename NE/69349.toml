@@ -1,6 +1,8 @@
-zip_code = "69349"
-state = "NE"
 city = "Henry"
 county = "Scotts Bluff"
-longitude = -104.045244
 latitude = 41.987327
+longitude = -104.045244
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69349"
+

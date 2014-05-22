@@ -1,6 +1,8 @@
-zip_code = "28681"
-state = "NC"
 city = "Taylorsville"
 county = "Alexander"
-longitude = -81.209656
 latitude = 35.916914
+longitude = -81.209656
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28681"
+

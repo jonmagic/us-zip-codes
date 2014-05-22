@@ -1,6 +1,8 @@
-zip_code = "04344"
-state = "ME"
 city = "Farmingdale"
 county = "Kennebec"
-longitude = -69.797105
 latitude = 44.256614
+longitude = -69.797105
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04344"
+

@@ -1,6 +1,8 @@
-zip_code = "71725"
-state = "AR"
 city = "Carthage"
 county = "Dallas"
-longitude = -92.516827
 latitude = 34.101037
+longitude = -92.516827
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71725"
+

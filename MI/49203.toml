@@ -1,6 +1,8 @@
-zip_code = "49203"
-state = "MI"
 city = "Jackson"
 county = "Jackson"
-longitude = -84.46471
 latitude = 42.186861
+longitude = -84.46471
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49203"
+

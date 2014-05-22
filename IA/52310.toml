@@ -1,6 +1,8 @@
-zip_code = "52310"
-state = "IA"
 city = "Monticello"
 county = "Jones"
-longitude = -91.158852
 latitude = 42.139945
+longitude = -91.158852
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52310"
+

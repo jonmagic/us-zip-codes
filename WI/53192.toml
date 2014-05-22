@@ -1,6 +1,8 @@
-zip_code = "53192"
-state = "WI"
 city = "Wilmot"
 county = "Kenosha"
-longitude = -88.191337
 latitude = 42.507165
+longitude = -88.191337
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53192"
+

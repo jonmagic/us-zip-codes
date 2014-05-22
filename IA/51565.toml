@@ -1,6 +1,8 @@
-zip_code = "51565"
-state = "IA"
 city = "Portsmouth"
 county = "Shelby"
-longitude = -95.44989
 latitude = 41.708156
+longitude = -95.44989
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51565"
+

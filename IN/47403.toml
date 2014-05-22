@@ -1,6 +1,8 @@
-zip_code = "47403"
-state = "IN"
 city = "Bloomington"
 county = "Monroe"
-longitude = -86.592389
 latitude = 39.07884
+longitude = -86.592389
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47403"
+

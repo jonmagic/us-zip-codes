@@ -1,6 +1,8 @@
-zip_code = "81210"
-state = "CO"
 city = "Almont"
 county = "Gunnison"
-longitude = -106.660278
 latitude = 38.820006
+longitude = -106.660278
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81210"
+

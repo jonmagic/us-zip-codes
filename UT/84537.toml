@@ -1,6 +1,8 @@
-zip_code = "84537"
-state = "UT"
 city = "Orangeville"
 county = "Emery"
-longitude = -111.051827
 latitude = 39.230155
+longitude = -111.051827
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84537"
+

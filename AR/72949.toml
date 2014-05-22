@@ -1,6 +1,8 @@
-zip_code = "72949"
-state = "AR"
 city = "Ozark"
 county = "Franklin"
-longitude = -93.909428
 latitude = 35.405649
+longitude = -93.909428
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72949"
+

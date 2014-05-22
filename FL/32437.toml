@@ -1,6 +1,8 @@
-zip_code = "32437"
-state = "FL"
 city = "Ebro"
 county = "Washington"
-longitude = -85.872398
 latitude = 30.451272
+longitude = -85.872398
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32437"
+

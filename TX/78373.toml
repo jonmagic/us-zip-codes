@@ -1,6 +1,8 @@
-zip_code = "78373"
-state = "TX"
 city = "Port Aransas"
 county = "Nueces"
-longitude = -97.105137
 latitude = 27.770678
+longitude = -97.105137
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78373"
+

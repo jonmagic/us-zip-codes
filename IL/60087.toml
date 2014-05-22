@@ -1,6 +1,8 @@
-zip_code = "60087"
-state = "IL"
 city = "Waukegan"
 county = "Lake"
-longitude = -87.868471
 latitude = 42.372921
+longitude = -87.868471
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60087"
+

@@ -1,6 +1,8 @@
-zip_code = "68787"
-state = "NE"
 city = "Wayne"
 county = "Wayne"
-longitude = -96.979049
 latitude = 42.206417
+longitude = -96.979049
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68787"
+

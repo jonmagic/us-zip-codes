@@ -1,6 +1,8 @@
-zip_code = "58054"
-state = "ND"
 city = "Lisbon"
 county = "Ransom"
-longitude = -97.636917
 latitude = 46.455974
+longitude = -97.636917
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58054"
+

@@ -1,6 +1,8 @@
-zip_code = "49239"
-state = "MI"
 city = "Frontier"
 county = "Hillsdale"
-longitude = -84.604662
 latitude = 41.782499
+longitude = -84.604662
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49239"
+

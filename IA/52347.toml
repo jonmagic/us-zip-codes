@@ -1,6 +1,8 @@
-zip_code = "52347"
-state = "IA"
 city = "Victor"
 county = "Iowa"
-longitude = -92.25127
 latitude = 41.706644
+longitude = -92.25127
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52347"
+

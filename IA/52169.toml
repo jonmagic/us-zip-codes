@@ -1,6 +1,8 @@
-zip_code = "52169"
-state = "IA"
 city = "Wadena"
 county = "Fayette"
-longitude = -91.674168
 latitude = 42.841014
+longitude = -91.674168
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52169"
+

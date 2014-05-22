@@ -1,6 +1,8 @@
-zip_code = "56374"
-state = "MN"
 city = "Saint Joseph"
 county = "Stearns"
-longitude = -94.350962
 latitude = 45.614235
+longitude = -94.350962
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56374"
+

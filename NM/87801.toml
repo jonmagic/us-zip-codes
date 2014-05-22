@@ -1,6 +1,8 @@
-zip_code = "87801"
-state = "NM"
 city = "Socorro"
 county = "Socorro"
-longitude = -107.03802
 latitude = 34.035975
+longitude = -107.03802
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87801"
+

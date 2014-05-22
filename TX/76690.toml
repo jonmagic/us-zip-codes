@@ -1,6 +1,8 @@
-zip_code = "76690"
-state = "TX"
 city = "Walnut Springs"
 county = "Bosque"
-longitude = -97.750239
 latitude = 32.043524
+longitude = -97.750239
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76690"
+

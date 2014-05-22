@@ -1,6 +1,8 @@
-zip_code = "52742"
-state = "IA"
 city = "De Witt"
 county = "Clinton"
-longitude = -90.55621
 latitude = 41.841735
+longitude = -90.55621
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52742"
+

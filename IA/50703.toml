@@ -1,6 +1,8 @@
-zip_code = "50703"
-state = "IA"
 city = "Waterloo"
 county = "Black Hawk"
-longitude = -92.258493
 latitude = 42.549802
+longitude = -92.258493
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50703"
+

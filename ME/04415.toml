@@ -1,6 +1,8 @@
-zip_code = "04415"
-state = "ME"
 city = "Brownville Junction"
 county = "Piscataquis"
-longitude = -69.058062
 latitude = 45.351184
+longitude = -69.058062
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04415"
+

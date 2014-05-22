@@ -1,6 +1,8 @@
-zip_code = "49756"
-state = "MI"
 city = "Lewiston"
 county = "Montmorency"
-longitude = -84.21857
 latitude = 44.91306
+longitude = -84.21857
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49756"
+

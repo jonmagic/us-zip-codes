@@ -1,6 +1,8 @@
-zip_code = "25181"
-state = "WV"
 city = "Seth"
 county = "Boone"
-longitude = -81.622894
 latitude = 38.085024
+longitude = -81.622894
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25181"
+

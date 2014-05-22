@@ -1,6 +1,8 @@
-zip_code = "30564"
-state = "GA"
 city = "Murrayville"
 county = "Hall"
-longitude = -83.906516
 latitude = 34.445369
+longitude = -83.906516
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30564"
+

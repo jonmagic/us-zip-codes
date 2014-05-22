@@ -1,6 +1,8 @@
-zip_code = "06758"
-state = "CT"
 city = "Lakeside"
 county = "Litchfield"
-longitude = -73.222981
 latitude = 41.739889
+longitude = -73.222981
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06758"
+

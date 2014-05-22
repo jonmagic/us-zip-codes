@@ -1,6 +1,8 @@
-zip_code = "25649"
-state = "WV"
 city = "Verdunville"
 county = "Logan"
-longitude = -82.048823
 latitude = 37.88911
+longitude = -82.048823
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25649"
+

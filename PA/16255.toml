@@ -1,6 +1,8 @@
-zip_code = "16255"
-state = "PA"
 city = "Sligo"
 county = "Clarion"
-longitude = -79.489973
 latitude = 41.105702
+longitude = -79.489973
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16255"
+

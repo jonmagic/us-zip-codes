@@ -1,6 +1,8 @@
-zip_code = "66032"
-state = "KS"
 city = "Garnett"
 county = "Anderson"
-longitude = -95.286458
 latitude = 38.232767
+longitude = -95.286458
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66032"
+

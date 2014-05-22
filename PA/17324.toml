@@ -1,6 +1,8 @@
-zip_code = "17324"
-state = "PA"
 city = "Gardners"
 county = "Adams"
-longitude = -77.193663
 latitude = 40.017772
+longitude = -77.193663
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17324"
+

@@ -1,6 +1,8 @@
-zip_code = "35652"
-state = "AL"
 city = "Rogersville"
 county = "Lauderdale"
-longitude = -87.321426
 latitude = 34.844868
+longitude = -87.321426
+state = ""
+state_code_alpha2 = ""
+zip_code = "35652"
+

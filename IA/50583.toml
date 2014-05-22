@@ -1,6 +1,8 @@
-zip_code = "50583"
-state = "IA"
 city = "Sac City"
 county = "Sac"
-longitude = -94.992967
 latitude = 42.439752
+longitude = -94.992967
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50583"
+

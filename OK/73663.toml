@@ -1,6 +1,8 @@
-zip_code = "73663"
-state = "OK"
 city = "Seiling"
 county = "Dewey"
-longitude = -98.94537
 latitude = 36.100391
+longitude = -98.94537
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73663"
+

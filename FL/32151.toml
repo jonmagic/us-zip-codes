@@ -1,6 +1,8 @@
-zip_code = "32151"
-state = "FL"
 city = "Flagler Beach"
 county = "Flagler"
-longitude = -81.282815
 latitude = 29.466085
+longitude = -81.282815
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32151"
+

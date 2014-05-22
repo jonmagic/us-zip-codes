@@ -1,6 +1,8 @@
-zip_code = "83627"
-state = "ID"
 city = "Hammett"
 county = "Elmore"
-longitude = -115.38369
 latitude = 42.948206
+longitude = -115.38369
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83627"
+

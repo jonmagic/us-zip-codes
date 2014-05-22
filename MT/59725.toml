@@ -1,6 +1,8 @@
-zip_code = "59725"
-state = "MT"
 city = "Dillon"
 county = "Beaverhead"
-longitude = -112.99687
 latitude = 45.244373
+longitude = -112.99687
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59725"
+

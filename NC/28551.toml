@@ -1,6 +1,8 @@
-zip_code = "28551"
-state = "NC"
 city = "La Grange"
 county = "Lenoir"
-longitude = -77.631048
 latitude = 35.215944
+longitude = -77.631048
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28551"
+

@@ -1,6 +1,8 @@
-zip_code = "13088"
-state = "NY"
 city = "Liverpool"
 county = "Onondaga"
-longitude = -76.207867
 latitude = 43.124866
+longitude = -76.207867
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13088"
+

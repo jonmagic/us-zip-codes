@@ -1,6 +1,8 @@
-zip_code = "11580"
-state = "NY"
 city = "Valley Stream"
 county = "Nassau"
-longitude = -73.697828
 latitude = 40.676052
+longitude = -73.697828
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11580"
+

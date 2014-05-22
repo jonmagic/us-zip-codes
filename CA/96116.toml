@@ -1,6 +1,8 @@
-zip_code = "96116"
-state = "CA"
 city = "Likely"
 county = "Modoc"
-longitude = -120.507888
 latitude = 41.232908
+longitude = -120.507888
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96116"
+

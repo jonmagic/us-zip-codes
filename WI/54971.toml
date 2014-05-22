@@ -1,6 +1,8 @@
-zip_code = "54971"
-state = "WI"
 city = "Ripon"
 county = "Fond Du Lac"
-longitude = -88.533445
 latitude = 43.782526
+longitude = -88.533445
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54971"
+

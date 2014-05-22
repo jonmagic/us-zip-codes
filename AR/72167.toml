@@ -1,6 +1,8 @@
-zip_code = "72167"
-state = "AR"
 city = "Traskwood"
 county = "Saline"
-longitude = -92.658212
 latitude = 34.469233
+longitude = -92.658212
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72167"
+

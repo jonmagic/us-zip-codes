@@ -1,6 +1,8 @@
-zip_code = "99116"
-state = "WA"
 city = "Coulee Dam"
 county = "Okanogan"
-longitude = -118.941876
 latitude = 48.037889
+longitude = -118.941876
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99116"
+

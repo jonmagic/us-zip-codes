@@ -1,6 +1,8 @@
-zip_code = "83615"
-state = "ID"
 city = "Donnelly"
 county = "Valley"
-longitude = -116.036911
 latitude = 44.665905
+longitude = -116.036911
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83615"
+

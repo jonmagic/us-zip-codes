@@ -1,6 +1,8 @@
-zip_code = "54513"
-state = "WI"
 city = "Brantwood"
 county = "Price"
-longitude = -90.166914
 latitude = 45.584525
+longitude = -90.166914
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54513"
+

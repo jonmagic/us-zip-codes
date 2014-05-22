@@ -1,6 +1,8 @@
-zip_code = "98596"
-state = "WA"
 city = "Winlock"
 county = "Lewis"
-longitude = -122.879917
 latitude = 46.490874
+longitude = -122.879917
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98596"
+

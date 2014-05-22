@@ -1,6 +1,8 @@
-zip_code = "49315"
-state = "MI"
 city = "Byron Center"
 county = "Kent"
-longitude = -85.664425
 latitude = 42.835828
+longitude = -85.664425
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49315"
+

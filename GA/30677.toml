@@ -1,6 +1,8 @@
-zip_code = "30677"
-state = "GA"
 city = "Watkinsville"
 county = "Oconee"
-longitude = -83.43347
 latitude = 33.81673
+longitude = -83.43347
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30677"
+

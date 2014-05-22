@@ -1,6 +1,8 @@
-zip_code = "56378"
-state = "MN"
 city = "Sauk Centre"
 county = "Stearns"
-longitude = -94.974275
 latitude = 45.638568
+longitude = -94.974275
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56378"
+

@@ -1,6 +1,8 @@
-zip_code = "69146"
-state = "NE"
 city = "Lemoyne"
 county = "Keith"
-longitude = -101.767329
 latitude = 41.323607
+longitude = -101.767329
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69146"
+

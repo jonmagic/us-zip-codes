@@ -1,6 +1,8 @@
-zip_code = "23030"
-state = "VA"
 city = "Charles City"
 county = "Charles City"
-longitude = -77.073103
 latitude = 37.354115
+longitude = -77.073103
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23030"
+

@@ -1,6 +1,8 @@
-zip_code = "72047"
-state = "AR"
 city = "Enola"
 county = "Faulkner"
-longitude = -92.202242
 latitude = 35.230211
+longitude = -92.202242
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72047"
+

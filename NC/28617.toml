@@ -1,6 +1,8 @@
-zip_code = "28617"
-state = "NC"
 city = "Crumpler"
 county = "Ashe"
-longitude = -81.385406
 latitude = 36.494803
+longitude = -81.385406
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28617"
+

@@ -1,6 +1,8 @@
-zip_code = "21040"
-state = "MD"
 city = "Edgewood"
 county = "Harford"
-longitude = -76.293579
 latitude = 39.434799
+longitude = -76.293579
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21040"
+

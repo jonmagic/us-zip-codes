@@ -1,6 +1,8 @@
-zip_code = "93241"
-state = "CA"
 city = "Lamont"
 county = "Kern"
-longitude = -118.699098
 latitude = 35.405369
+longitude = -118.699098
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93241"
+

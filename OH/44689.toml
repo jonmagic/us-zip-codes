@@ -1,6 +1,8 @@
-zip_code = "44689"
-state = "OH"
 city = "Wilmot"
 county = "Stark"
-longitude = -81.638348
 latitude = 40.657981
+longitude = -81.638348
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44689"
+

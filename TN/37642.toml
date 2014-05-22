@@ -1,6 +1,8 @@
-zip_code = "37642"
-state = "TN"
 city = "Church Hill"
 county = "Hawkins"
-longitude = -82.732009
 latitude = 36.495148
+longitude = -82.732009
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37642"
+

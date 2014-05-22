@@ -1,6 +1,8 @@
-zip_code = "93435"
-state = "CA"
 city = "Harmony"
 county = "San Luis Obispo"
-longitude = -120.976259
 latitude = 35.491888
+longitude = -120.976259
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93435"
+

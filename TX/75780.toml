@@ -1,6 +1,8 @@
-zip_code = "75780"
-state = "TX"
 city = "New Summerfield"
 county = "Cherokee"
-longitude = -95.164021
 latitude = 31.782048
+longitude = -95.164021
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75780"
+

@@ -1,6 +1,8 @@
-zip_code = "47240"
-state = "IN"
 city = "Greensburg"
 county = "Decatur"
-longitude = -85.491781
 latitude = 39.299802
+longitude = -85.491781
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47240"
+

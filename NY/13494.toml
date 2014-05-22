@@ -1,6 +1,8 @@
-zip_code = "13494"
-state = "NY"
 city = "Woodgate"
 county = "Oneida"
-longitude = -75.142771
 latitude = 43.524904
+longitude = -75.142771
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13494"
+

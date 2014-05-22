@@ -1,6 +1,8 @@
-zip_code = "39347"
-state = "MS"
 city = "Pachuta"
 county = "Clarke"
-longitude = -88.885093
 latitude = 32.021692
+longitude = -88.885093
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39347"
+

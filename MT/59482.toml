@@ -1,6 +1,8 @@
-zip_code = "59482"
-state = "MT"
 city = "Sunburst"
 county = "Toole"
-longitude = -111.735136
 latitude = 48.879199
+longitude = -111.735136
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59482"
+

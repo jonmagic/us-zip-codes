@@ -1,6 +1,8 @@
-zip_code = "66951"
-state = "KS"
 city = "Kensington"
 county = "Smith"
-longitude = -98.796287
 latitude = 39.783621
+longitude = -98.796287
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66951"
+

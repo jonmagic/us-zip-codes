@@ -1,6 +1,8 @@
-zip_code = "74901"
-state = "OK"
 city = "Arkoma"
 county = "Le Flore"
-longitude = -94.551914
 latitude = 35.202297
+longitude = -94.551914
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74901"
+

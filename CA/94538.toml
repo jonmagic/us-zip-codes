@@ -1,6 +1,8 @@
-zip_code = "94538"
-state = "CA"
 city = "Fremont"
 county = "Alameda"
-longitude = -121.95832
 latitude = 37.509453
+longitude = -121.95832
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94538"
+

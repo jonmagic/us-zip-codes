@@ -1,6 +1,8 @@
-zip_code = "25007"
-state = "WV"
 city = "Arnett"
 county = "Raleigh"
-longitude = -81.409586
 latitude = 37.82156
+longitude = -81.409586
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25007"
+

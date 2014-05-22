@@ -1,6 +1,8 @@
-zip_code = "06082"
-state = "CT"
 city = "Enfield"
 county = "Hartford"
-longitude = -72.557731
 latitude = 41.984646
+longitude = -72.557731
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06082"
+

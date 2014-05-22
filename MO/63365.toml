@@ -1,6 +1,8 @@
-zip_code = "63365"
-state = "MO"
 city = "New Melle"
 county = "Saint Charles"
-longitude = -90.875127
 latitude = 38.716287
+longitude = -90.875127
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63365"
+

@@ -1,6 +1,8 @@
-zip_code = "00733"
-state = "PR"
 city = "Ponce"
 county = "Ponce"
-longitude = -66.619165
 latitude = 18.019331
+longitude = -66.619165
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00733"
+

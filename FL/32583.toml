@@ -1,6 +1,8 @@
-zip_code = "32583"
-state = "FL"
 city = "Milton"
 county = "Santa Rosa"
-longitude = -86.966835
 latitude = 30.577638
+longitude = -86.966835
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32583"
+

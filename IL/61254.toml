@@ -1,6 +1,8 @@
-zip_code = "61254"
-state = "IL"
 city = "Geneseo"
 county = "Henry"
-longitude = -90.158163
 latitude = 41.437746
+longitude = -90.158163
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61254"
+

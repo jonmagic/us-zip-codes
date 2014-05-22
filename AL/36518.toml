@@ -1,6 +1,8 @@
-zip_code = "36518"
-state = "AL"
 city = "Chatom"
 county = "Washington"
-longitude = -88.245363
 latitude = 31.436682
+longitude = -88.245363
+state = ""
+state_code_alpha2 = ""
+zip_code = "36518"
+

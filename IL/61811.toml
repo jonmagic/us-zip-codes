@@ -1,6 +1,8 @@
-zip_code = "61811"
-state = "IL"
 city = "Alvin"
 county = "Vermilion"
-longitude = -87.632675
 latitude = 40.285456
+longitude = -87.632675
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61811"
+

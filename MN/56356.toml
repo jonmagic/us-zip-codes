@@ -1,6 +1,8 @@
-zip_code = "56356"
-state = "MN"
 city = "New Munich"
 county = "Stearns"
-longitude = -94.751937
 latitude = 45.62974
+longitude = -94.751937
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56356"
+

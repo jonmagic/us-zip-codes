@@ -1,6 +1,8 @@
-zip_code = "22974"
-state = "VA"
 city = "Troy"
 county = "Fluvanna"
-longitude = -78.276599
 latitude = 37.95591
+longitude = -78.276599
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22974"
+

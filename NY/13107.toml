@@ -1,6 +1,8 @@
-zip_code = "13107"
-state = "NY"
 city = "Maple View"
 county = "Oswego"
-longitude = -76.153442
 latitude = 43.457798
+longitude = -76.153442
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13107"
+

@@ -1,6 +1,8 @@
-zip_code = "83645"
-state = "ID"
 city = "Midvale"
 county = "Washington"
-longitude = -116.651974
 latitude = 44.38304
+longitude = -116.651974
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83645"
+

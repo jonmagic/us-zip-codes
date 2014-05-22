@@ -1,6 +1,8 @@
-zip_code = "74471"
-state = "OK"
 city = "Welling"
 county = "Cherokee"
-longitude = -94.881607
 latitude = 35.764427
+longitude = -94.881607
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74471"
+

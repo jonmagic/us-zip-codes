@@ -1,6 +1,8 @@
-zip_code = "24301"
-state = "VA"
 city = "Pulaski"
 county = "Pulaski"
-longitude = -80.771241
 latitude = 37.064714
+longitude = -80.771241
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24301"
+

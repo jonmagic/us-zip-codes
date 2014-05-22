@@ -1,6 +1,8 @@
-zip_code = "43138"
-state = "OH"
 city = "Logan"
 county = "Hocking"
-longitude = -82.437424
 latitude = 39.52535
+longitude = -82.437424
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43138"
+

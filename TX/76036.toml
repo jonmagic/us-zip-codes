@@ -1,6 +1,8 @@
-zip_code = "76036"
-state = "TX"
 city = "Crowley"
 county = "Tarrant"
-longitude = -97.291484
 latitude = 32.771419
+longitude = -97.291484
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76036"
+

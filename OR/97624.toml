@@ -1,6 +1,8 @@
-zip_code = "97624"
-state = "OR"
 city = "Chiloquin"
 county = "Klamath"
-longitude = -121.878916
 latitude = 42.72222
+longitude = -121.878916
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97624"
+

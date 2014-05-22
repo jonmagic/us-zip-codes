@@ -1,6 +1,8 @@
-zip_code = "67672"
-state = "KS"
 city = "Wa Keeney"
 county = "Trego"
-longitude = -99.888083
 latitude = 39.020792
+longitude = -99.888083
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67672"
+

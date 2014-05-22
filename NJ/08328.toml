@@ -1,6 +1,8 @@
-zip_code = "08328"
-state = "NJ"
 city = "Malaga"
 county = "Gloucester"
-longitude = -75.055482
 latitude = 39.58101
+longitude = -75.055482
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08328"
+

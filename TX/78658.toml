@@ -1,6 +1,8 @@
-zip_code = "78658"
-state = "TX"
 city = "Ottine"
 county = "Gonzales"
-longitude = -97.494649
 latitude = 29.447211
+longitude = -97.494649
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78658"
+

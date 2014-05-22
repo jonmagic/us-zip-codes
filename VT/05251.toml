@@ -1,6 +1,8 @@
-zip_code = "05251"
-state = "VT"
 city = "Dorset"
 county = "Bennington"
-longitude = -73.139173
 latitude = 43.261817
+longitude = -73.139173
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05251"
+

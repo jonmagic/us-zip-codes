@@ -1,6 +1,8 @@
-zip_code = "36850"
-state = "AL"
 city = "Camp Hill"
 county = "Tallapoosa"
-longitude = -85.703776
 latitude = 32.808407
+longitude = -85.703776
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36850"
+

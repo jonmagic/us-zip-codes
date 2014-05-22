@@ -1,6 +1,8 @@
-zip_code = "85936"
-state = "AZ"
 city = "Saint Johns"
 county = "Apache"
-longitude = -109.481543
 latitude = 34.497709
+longitude = -109.481543
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85936"
+

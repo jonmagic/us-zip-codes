@@ -1,6 +1,8 @@
-zip_code = "05454"
-state = "VT"
 city = "Fairfax"
 county = "Franklin"
-longitude = -72.953478
 latitude = 44.733486
+longitude = -72.953478
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05454"
+

@@ -1,6 +1,8 @@
-zip_code = "96093"
-state = "CA"
 city = "Weaverville"
 county = "Trinity"
-longitude = -122.956559
 latitude = 40.704907
+longitude = -122.956559
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96093"
+

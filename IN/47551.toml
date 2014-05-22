@@ -1,6 +1,8 @@
-zip_code = "47551"
-state = "IN"
 city = "Leopold"
 county = "Perry"
-longitude = -86.570969
 latitude = 38.127658
+longitude = -86.570969
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47551"
+

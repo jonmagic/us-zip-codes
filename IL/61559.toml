@@ -1,6 +1,8 @@
-zip_code = "61559"
-state = "IL"
 city = "Princeville"
 county = "Stark"
-longitude = -89.747439
 latitude = 40.99564
+longitude = -89.747439
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61559"
+

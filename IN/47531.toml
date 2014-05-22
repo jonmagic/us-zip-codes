@@ -1,6 +1,8 @@
-zip_code = "47531"
-state = "IN"
 city = "Evanston"
 county = "Spencer"
-longitude = -86.864745
 latitude = 38.045062
+longitude = -86.864745
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47531"
+

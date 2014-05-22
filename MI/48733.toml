@@ -1,6 +1,8 @@
-zip_code = "48733"
-state = "MI"
 city = "Fairgrove"
 county = "Tuscola"
-longitude = -83.573677
 latitude = 43.534504
+longitude = -83.573677
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48733"
+

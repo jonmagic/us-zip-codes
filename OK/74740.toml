@@ -1,6 +1,8 @@
-zip_code = "74740"
-state = "OK"
 city = "Haworth"
 county = "Mccurtain"
-longitude = -94.733795
 latitude = 33.851471
+longitude = -94.733795
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74740"
+

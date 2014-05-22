@@ -1,6 +1,8 @@
-zip_code = "69358"
-state = "NE"
 city = "Morrill"
 county = "Scotts Bluff"
-longitude = -103.950162
 latitude = 41.929379
+longitude = -103.950162
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69358"
+

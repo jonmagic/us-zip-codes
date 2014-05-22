@@ -1,6 +1,8 @@
-zip_code = "31836"
-state = "GA"
 city = "Woodland"
 county = "Talbot"
-longitude = -84.56542
 latitude = 32.790007
+longitude = -84.56542
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31836"
+

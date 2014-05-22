@@ -1,6 +1,8 @@
-zip_code = "57791"
-state = "SD"
 city = "Wasta"
 county = "Pennington"
-longitude = -102.59866
 latitude = 44.016848
+longitude = -102.59866
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57791"
+

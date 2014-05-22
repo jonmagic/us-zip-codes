@@ -1,6 +1,8 @@
-zip_code = "70630"
-state = "LA"
 city = "Bell City"
 county = "Calcasieu"
-longitude = -93.037173
 latitude = 30.105386
+longitude = -93.037173
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70630"
+

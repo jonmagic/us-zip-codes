@@ -1,6 +1,8 @@
-zip_code = "28772"
-state = "NC"
 city = "Rosman"
 county = "Transylvania"
-longitude = -82.83832
 latitude = 35.159152
+longitude = -82.83832
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28772"
+

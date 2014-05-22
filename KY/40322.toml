@@ -1,6 +1,8 @@
-zip_code = "40322"
-state = "KY"
 city = "Frenchburg"
 county = "Menifee"
-longitude = -83.608449
 latitude = 37.947025
+longitude = -83.608449
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40322"
+

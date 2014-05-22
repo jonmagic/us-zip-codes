@@ -1,6 +1,8 @@
-zip_code = "45040"
-state = "OH"
 city = "Mason"
 county = "Warren"
-longitude = -84.180906
 latitude = 39.397999
+longitude = -84.180906
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45040"
+

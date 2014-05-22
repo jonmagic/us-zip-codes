@@ -1,6 +1,8 @@
-zip_code = "72330"
-state = "AR"
 city = "Dyess"
 county = "Mississippi"
-longitude = -90.21404
 latitude = 35.593098
+longitude = -90.21404
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72330"
+

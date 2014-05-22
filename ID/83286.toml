@@ -1,6 +1,8 @@
-zip_code = "83286"
-state = "ID"
 city = "Weston"
 county = "Franklin"
-longitude = -112.013197
 latitude = 42.060353
+longitude = -112.013197
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83286"
+

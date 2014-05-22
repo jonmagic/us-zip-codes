@@ -1,6 +1,8 @@
-zip_code = "84049"
-state = "UT"
 city = "Midway"
 county = "Wasatch"
-longitude = -111.485127
 latitude = 40.489378
+longitude = -111.485127
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84049"
+

@@ -1,6 +1,8 @@
-zip_code = "52727"
-state = "IA"
 city = "Bryant"
 county = "Clinton"
-longitude = -90.326961
 latitude = 41.953426
+longitude = -90.326961
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52727"
+

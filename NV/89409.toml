@@ -1,6 +1,8 @@
-zip_code = "89409"
-state = "NV"
 city = "Gabbs"
 county = "Nye"
-longitude = -117.928173
 latitude = 38.863664
+longitude = -117.928173
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89409"
+

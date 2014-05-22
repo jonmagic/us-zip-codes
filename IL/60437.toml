@@ -1,6 +1,8 @@
-zip_code = "60437"
-state = "IL"
 city = "Kinsman"
 county = "Grundy"
-longitude = -88.472407
 latitude = 41.188078
+longitude = -88.472407
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60437"
+

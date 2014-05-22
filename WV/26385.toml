@@ -1,6 +1,8 @@
-zip_code = "26385"
-state = "WV"
 city = "Lost Creek"
 county = "Harrison"
-longitude = -80.357602
 latitude = 39.152121
+longitude = -80.357602
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26385"
+

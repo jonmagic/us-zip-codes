@@ -1,6 +1,8 @@
-zip_code = "73562"
-state = "OK"
 city = "Randlett"
 county = "Cotton"
-longitude = -98.40044
 latitude = 34.284738
+longitude = -98.40044
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73562"
+

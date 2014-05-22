@@ -1,6 +1,8 @@
-zip_code = "37721"
-state = "TN"
 city = "Corryton"
 county = "Knox"
-longitude = -83.817508
 latitude = 36.029286
+longitude = -83.817508
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37721"
+

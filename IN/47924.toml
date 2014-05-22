@@ -1,6 +1,8 @@
-zip_code = "47924"
-state = "IN"
 city = "Buck Creek"
 county = "Tippecanoe"
-longitude = -86.763111
 latitude = 40.487603
+longitude = -86.763111
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47924"
+

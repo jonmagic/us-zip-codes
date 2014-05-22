@@ -1,6 +1,8 @@
-zip_code = "21029"
-state = "MD"
 city = "Clarksville"
 county = "Howard"
-longitude = -76.951498
 latitude = 39.212456
+longitude = -76.951498
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21029"
+

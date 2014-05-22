@@ -1,6 +1,8 @@
-zip_code = "54203"
-state = "WI"
 city = "Branch"
 county = "Manitowoc"
-longitude = -87.483874
 latitude = 44.109853
+longitude = -87.483874
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54203"
+

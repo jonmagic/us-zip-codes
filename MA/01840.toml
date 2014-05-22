@@ -1,6 +1,8 @@
-zip_code = "01840"
-state = "MA"
 city = "Lawrence"
 county = "Essex"
-longitude = -71.161052
 latitude = 42.70734
+longitude = -71.161052
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01840"
+

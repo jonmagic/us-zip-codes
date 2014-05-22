@@ -1,6 +1,8 @@
-zip_code = "67869"
-state = "KS"
 city = "Plains"
 county = "Meade"
-longitude = -100.435253
 latitude = 37.2419
+longitude = -100.435253
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67869"
+

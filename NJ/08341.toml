@@ -1,6 +1,8 @@
-zip_code = "08341"
-state = "NJ"
 city = "Minotola"
 county = "Atlantic"
-longitude = -74.940036
 latitude = 39.530779
+longitude = -74.940036
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08341"
+

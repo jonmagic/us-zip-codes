@@ -1,6 +1,8 @@
-zip_code = "45315"
-state = "OH"
 city = "Clayton"
 county = "Montgomery"
-longitude = -84.340345
 latitude = 39.854454
+longitude = -84.340345
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45315"
+

@@ -1,6 +1,8 @@
-zip_code = "49008"
-state = "MI"
 city = "Kalamazoo"
 county = "Kalamazoo"
-longitude = -85.618046
 latitude = 42.263007
+longitude = -85.618046
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49008"
+

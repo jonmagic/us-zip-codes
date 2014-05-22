@@ -1,6 +1,8 @@
-zip_code = "74852"
-state = "OK"
 city = "Macomb"
 county = "Pottawatomie"
-longitude = -97.01139
 latitude = 35.116442
+longitude = -97.01139
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74852"
+

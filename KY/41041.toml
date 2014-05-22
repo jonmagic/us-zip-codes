@@ -1,6 +1,8 @@
-zip_code = "41041"
-state = "KY"
 city = "Flemingsburg"
 county = "Fleming"
-longitude = -83.732284
 latitude = 38.438363
+longitude = -83.732284
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41041"
+

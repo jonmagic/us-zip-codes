@@ -1,6 +1,8 @@
-zip_code = "17049"
-state = "PA"
 city = "Mc Alisterville"
 county = "Juniata"
-longitude = -77.306056
 latitude = 40.651725
+longitude = -77.306056
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17049"
+

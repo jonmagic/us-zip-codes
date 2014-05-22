@@ -1,6 +1,8 @@
-zip_code = "35958"
-state = "AL"
 city = "Bryant"
 county = "Jackson"
-longitude = -85.64924
 latitude = 34.917606
+longitude = -85.64924
+state = ""
+state_code_alpha2 = ""
+zip_code = "35958"
+

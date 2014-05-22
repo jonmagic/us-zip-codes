@@ -1,6 +1,8 @@
-zip_code = "54922"
-state = "WI"
 city = "Bear Creek"
 county = "Outagamie"
-longitude = -88.559628
 latitude = 44.432373
+longitude = -88.559628
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54922"
+

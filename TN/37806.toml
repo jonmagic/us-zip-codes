@@ -1,6 +1,8 @@
-zip_code = "37806"
-state = "TN"
 city = "Mascot"
 county = "Knox"
-longitude = -83.737262
 latitude = 36.085904
+longitude = -83.737262
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37806"
+

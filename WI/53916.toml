@@ -1,6 +1,8 @@
-zip_code = "53916"
-state = "WI"
 city = "Beaver Dam"
 county = "Dodge"
-longitude = -88.862852
 latitude = 43.466482
+longitude = -88.862852
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53916"
+

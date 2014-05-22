@@ -1,6 +1,8 @@
-zip_code = "47994"
-state = "IN"
 city = "Wingate"
 county = "Montgomery"
-longitude = -86.964894
 latitude = 40.118361
+longitude = -86.964894
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47994"
+

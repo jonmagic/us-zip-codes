@@ -1,6 +1,8 @@
-zip_code = "52221"
-state = "IA"
 city = "Guernsey"
 county = "Poweshiek"
-longitude = -92.347941
 latitude = 41.637767
+longitude = -92.347941
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52221"
+

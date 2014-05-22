@@ -1,6 +1,8 @@
-zip_code = "98822"
-state = "WA"
 city = "Entiat"
 county = "Chelan"
-longitude = -120.356279
 latitude = 47.774872
+longitude = -120.356279
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98822"
+

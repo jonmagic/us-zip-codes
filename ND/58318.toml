@@ -1,6 +1,8 @@
-zip_code = "58318"
-state = "ND"
 city = "Bottineau"
 county = "Bottineau"
-longitude = -100.601174
 latitude = 48.830347
+longitude = -100.601174
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58318"
+

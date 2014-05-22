@@ -1,6 +1,8 @@
-zip_code = "30056"
-state = "GA"
 city = "Newborn"
 county = "Newton"
-longitude = -83.70718
 latitude = 33.514898
+longitude = -83.70718
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30056"
+

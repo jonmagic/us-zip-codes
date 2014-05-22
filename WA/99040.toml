@@ -1,6 +1,8 @@
-zip_code = "99040"
-state = "WA"
 city = "Wellpinit"
 county = "Stevens"
-longitude = -117.933742
 latitude = 47.881367
+longitude = -117.933742
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99040"
+

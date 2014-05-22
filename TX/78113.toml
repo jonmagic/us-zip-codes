@@ -1,6 +1,8 @@
-zip_code = "78113"
-state = "TX"
 city = "Falls City"
 county = "Karnes"
-longitude = -98.015225
 latitude = 28.967642
+longitude = -98.015225
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78113"
+

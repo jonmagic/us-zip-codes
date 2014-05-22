@@ -1,6 +1,8 @@
-zip_code = "92536"
-state = "CA"
 city = "Aguanga"
 county = "Riverside"
-longitude = -116.802625
 latitude = 33.519176
+longitude = -116.802625
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92536"
+

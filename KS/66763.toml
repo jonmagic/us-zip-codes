@@ -1,6 +1,8 @@
-zip_code = "66763"
-state = "KS"
 city = "Frontenac"
 county = "Crawford"
-longitude = -94.691566
 latitude = 37.446615
+longitude = -94.691566
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66763"
+

@@ -1,6 +1,8 @@
-zip_code = "25573"
-state = "WV"
 city = "Yawkey"
 county = "Lincoln"
-longitude = -81.942329
 latitude = 38.231798
+longitude = -81.942329
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25573"
+

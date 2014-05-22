@@ -1,6 +1,8 @@
-zip_code = "66861"
-state = "KS"
 city = "Marion"
 county = "Marion"
-longitude = -96.965255
 latitude = 38.284561
+longitude = -96.965255
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66861"
+

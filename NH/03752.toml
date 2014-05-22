@@ -1,6 +1,8 @@
-zip_code = "03752"
-state = "NH"
 city = "Goshen"
 county = "Sullivan"
-longitude = -72.196718
 latitude = 43.417705
+longitude = -72.196718
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03752"
+

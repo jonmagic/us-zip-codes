@@ -1,6 +1,8 @@
-zip_code = "55735"
-state = "MN"
 city = "Finlayson"
 county = "Pine"
-longitude = -92.950358
 latitude = 46.23792
+longitude = -92.950358
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55735"
+

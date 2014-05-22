@@ -1,6 +1,8 @@
-zip_code = "11357"
-state = "NY"
 city = "Whitestone"
 county = "Queens"
-longitude = -73.819069
 latitude = 40.786173
+longitude = -73.819069
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11357"
+

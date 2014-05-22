@@ -1,6 +1,8 @@
-zip_code = "97439"
-state = "OR"
 city = "Florence"
 county = "Lane"
-longitude = -123.996747
 latitude = 44.064723
+longitude = -123.996747
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97439"
+

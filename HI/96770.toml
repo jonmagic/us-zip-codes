@@ -1,6 +1,8 @@
-zip_code = "96770"
-state = "HI"
 city = "Maunaloa"
 county = "Maui"
-longitude = -157.257157
 latitude = 21.176357
+longitude = -157.257157
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96770"
+

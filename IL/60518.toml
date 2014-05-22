@@ -1,6 +1,8 @@
-zip_code = "60518"
-state = "IL"
 city = "Earlville"
 county = "La Salle"
-longitude = -88.935981
 latitude = 41.549922
+longitude = -88.935981
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60518"
+

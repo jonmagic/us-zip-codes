@@ -1,6 +1,8 @@
-zip_code = "61422"
-state = "IL"
 city = "Bushnell"
 county = "Mcdonough"
-longitude = -90.657031
 latitude = 40.548189
+longitude = -90.657031
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61422"
+

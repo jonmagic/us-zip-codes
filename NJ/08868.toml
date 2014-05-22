@@ -1,6 +1,8 @@
-zip_code = "08868"
-state = "NJ"
 city = "Quakertown"
 county = "Hunterdon"
-longitude = -74.938931
 latitude = 40.565493
+longitude = -74.938931
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08868"
+

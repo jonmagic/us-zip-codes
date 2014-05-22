@@ -1,6 +1,8 @@
-zip_code = "64090"
-state = "MO"
 city = "Strasburg"
 county = "Cass"
-longitude = -94.160854
 latitude = 38.765833
+longitude = -94.160854
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64090"
+

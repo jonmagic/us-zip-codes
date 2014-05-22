@@ -1,6 +1,8 @@
-zip_code = "73042"
-state = "OK"
 city = "Gracemont"
 county = "Caddo"
-longitude = -98.233336
 latitude = 35.042316
+longitude = -98.233336
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73042"
+

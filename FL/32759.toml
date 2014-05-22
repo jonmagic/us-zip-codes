@@ -1,6 +1,8 @@
-zip_code = "32759"
-state = "FL"
 city = "Oak Hill"
 county = "Volusia"
-longitude = -80.993118
 latitude = 28.853312
+longitude = -80.993118
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32759"
+

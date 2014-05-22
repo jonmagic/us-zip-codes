@@ -1,6 +1,8 @@
-zip_code = "50226"
-state = "IA"
 city = "Polk City"
 county = "Polk"
-longitude = -93.698063
 latitude = 41.75673
+longitude = -93.698063
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50226"
+

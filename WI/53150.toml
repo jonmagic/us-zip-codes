@@ -1,6 +1,8 @@
-zip_code = "53150"
-state = "WI"
 city = "Muskego"
 county = "Waukesha"
-longitude = -88.132708
 latitude = 42.88799
+longitude = -88.132708
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53150"
+

@@ -1,6 +1,8 @@
-zip_code = "98942"
-state = "WA"
 city = "Selah"
 county = "Yakima"
-longitude = -120.396038
 latitude = 46.544316
+longitude = -120.396038
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98942"
+

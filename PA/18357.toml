@@ -1,6 +1,8 @@
-zip_code = "18357"
-state = "PA"
 city = "Skytop"
 county = "Monroe"
-longitude = -75.238879
 latitude = 41.233562
+longitude = -75.238879
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18357"
+

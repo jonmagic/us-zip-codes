@@ -1,6 +1,8 @@
-zip_code = "93313"
-state = "CA"
 city = "Bakersfield"
 county = "Kern"
-longitude = -119.013543
 latitude = 35.27581
+longitude = -119.013543
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93313"
+

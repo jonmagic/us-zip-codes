@@ -1,6 +1,8 @@
-zip_code = "07920"
-state = "NJ"
 city = "Basking Ridge"
 county = "Somerset"
-longitude = -74.573001
 latitude = 40.682651
+longitude = -74.573001
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07920"
+

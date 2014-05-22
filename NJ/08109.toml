@@ -1,6 +1,8 @@
-zip_code = "08109"
-state = "NJ"
 city = "Merchantville"
 county = "Camden"
-longitude = -75.059916
 latitude = 39.950312
+longitude = -75.059916
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08109"
+

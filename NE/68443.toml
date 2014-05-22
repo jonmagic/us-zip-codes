@@ -1,6 +1,8 @@
-zip_code = "68443"
-state = "NE"
 city = "Sterling"
 county = "Johnson"
-longitude = -96.378249
 latitude = 40.463451
+longitude = -96.378249
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68443"
+

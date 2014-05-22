@@ -1,6 +1,8 @@
-zip_code = "15727"
-state = "PA"
 city = "Clune"
 county = "Indiana"
-longitude = -79.323745
 latitude = 40.55027
+longitude = -79.323745
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15727"
+

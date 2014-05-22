@@ -1,6 +1,8 @@
-zip_code = "76203"
-state = "TX"
 city = "Denton"
 county = "Denton"
-longitude = -97.127027
 latitude = 33.246457
+longitude = -97.127027
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76203"
+

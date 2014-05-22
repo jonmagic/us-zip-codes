@@ -1,6 +1,8 @@
-zip_code = "52658"
-state = "IA"
 city = "Wever"
 county = "Lee"
-longitude = -91.23819
 latitude = 40.7129
+longitude = -91.23819
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52658"
+

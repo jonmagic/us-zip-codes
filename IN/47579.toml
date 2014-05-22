@@ -1,6 +1,8 @@
-zip_code = "47579"
-state = "IN"
 city = "Santa Claus"
 county = "Spencer"
-longitude = -86.928645
 latitude = 38.117579
+longitude = -86.928645
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47579"
+

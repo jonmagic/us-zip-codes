@@ -1,6 +1,8 @@
-zip_code = "71676"
-state = "AR"
 city = "Wilmot"
 county = "Ashley"
-longitude = -91.559968
 latitude = 33.151992
+longitude = -91.559968
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71676"
+

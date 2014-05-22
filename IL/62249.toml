@@ -1,6 +1,8 @@
-zip_code = "62249"
-state = "IL"
 city = "Highland"
 county = "Madison"
-longitude = -89.741694
 latitude = 38.758429
+longitude = -89.741694
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62249"
+

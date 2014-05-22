@@ -1,6 +1,8 @@
-zip_code = "49258"
-state = "MI"
 city = "Mosherville"
 county = "Hillsdale"
-longitude = -84.593491
 latitude = 41.884795
+longitude = -84.593491
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49258"
+

@@ -1,6 +1,8 @@
-zip_code = "15935"
-state = "PA"
 city = "Hollsopple"
 county = "Somerset"
-longitude = -78.958371
 latitude = 40.20137
+longitude = -78.958371
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15935"
+

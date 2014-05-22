@@ -1,6 +1,8 @@
-zip_code = "78339"
-state = "TX"
 city = "Banquete"
 county = "Nueces"
-longitude = -97.80874
 latitude = 27.804485
+longitude = -97.80874
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78339"
+

@@ -1,6 +1,8 @@
-zip_code = "78683"
-state = "TX"
 city = "Round Rock"
 county = "Williamson"
-longitude = -97.602552
 latitude = 30.656817
+longitude = -97.602552
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78683"
+

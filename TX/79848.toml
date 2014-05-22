@@ -1,6 +1,8 @@
-zip_code = "79848"
-state = "TX"
 city = "Sanderson"
 county = "Terrell"
-longitude = -102.162882
 latitude = 30.252946
+longitude = -102.162882
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79848"
+

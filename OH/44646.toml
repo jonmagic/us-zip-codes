@@ -1,6 +1,8 @@
-zip_code = "44646"
-state = "OH"
 city = "Massillon"
 county = "Stark"
-longitude = -81.43535
 latitude = 40.850643
+longitude = -81.43535
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44646"
+

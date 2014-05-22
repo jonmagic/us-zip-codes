@@ -1,6 +1,8 @@
-zip_code = "36874"
-state = "AL"
 city = "Salem"
 county = "Lee"
-longitude = -85.217224
 latitude = 32.580449
+longitude = -85.217224
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36874"
+

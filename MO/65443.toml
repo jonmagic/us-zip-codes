@@ -1,6 +1,8 @@
-zip_code = "65443"
-state = "MO"
 city = "Brinktown"
 county = "Maries"
-longitude = -92.101525
 latitude = 38.148315
+longitude = -92.101525
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65443"
+

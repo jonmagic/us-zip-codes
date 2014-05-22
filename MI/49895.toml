@@ -1,6 +1,8 @@
-zip_code = "49895"
-state = "MI"
 city = "Wetmore"
 county = "Alger"
-longitude = -86.671351
 latitude = 46.291471
+longitude = -86.671351
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49895"
+

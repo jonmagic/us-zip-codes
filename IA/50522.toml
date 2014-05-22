@@ -1,6 +1,8 @@
-zip_code = "50522"
-state = "IA"
 city = "Burt"
 county = "Kossuth"
-longitude = -94.177422
 latitude = 43.183395
+longitude = -94.177422
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50522"
+

@@ -1,6 +1,8 @@
-zip_code = "59047"
-state = "MT"
 city = "Livingston"
 county = "Park"
-longitude = -110.369054
 latitude = 45.530664
+longitude = -110.369054
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59047"
+

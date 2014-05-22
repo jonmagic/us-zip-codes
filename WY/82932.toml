@@ -1,6 +1,8 @@
-zip_code = "82932"
-state = "WY"
 city = "Farson"
 county = "Sweetwater"
-longitude = -109.418358
 latitude = 42.083362
+longitude = -109.418358
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82932"
+

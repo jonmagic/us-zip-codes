@@ -1,6 +1,8 @@
-zip_code = "15012"
-state = "PA"
 city = "Belle Vernon"
 county = "Fayette"
-longitude = -79.603426
 latitude = 40.070268
+longitude = -79.603426
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15012"
+

@@ -1,6 +1,8 @@
-zip_code = "07419"
-state = "NJ"
 city = "Hamburg"
 county = "Sussex"
-longitude = -74.57688
 latitude = 41.159187
+longitude = -74.57688
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07419"
+

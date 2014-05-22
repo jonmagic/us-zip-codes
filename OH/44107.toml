@@ -1,6 +1,8 @@
-zip_code = "44107"
-state = "OH"
 city = "Lakewood"
 county = "Cuyahoga"
-longitude = -81.637249
 latitude = 41.514849
+longitude = -81.637249
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44107"
+

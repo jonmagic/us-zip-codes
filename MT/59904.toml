@@ -1,6 +1,8 @@
-zip_code = "59904"
-state = "MT"
 city = "Kalispell"
 county = "Flathead"
-longitude = -114.256123
 latitude = 48.240382
+longitude = -114.256123
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59904"
+

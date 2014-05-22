@@ -1,6 +1,8 @@
-zip_code = "72685"
-state = "AR"
 city = "Western Grove"
 county = "Newton"
-longitude = -92.961082
 latitude = 36.098936
+longitude = -92.961082
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72685"
+

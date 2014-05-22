@@ -1,6 +1,8 @@
-zip_code = "70083"
-state = "LA"
 city = "Port Sulphur"
 county = "Plaquemines"
-longitude = -89.69023
 latitude = 29.502725
+longitude = -89.69023
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70083"
+

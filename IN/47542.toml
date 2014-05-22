@@ -1,6 +1,8 @@
-zip_code = "47542"
-state = "IN"
 city = "Huntingburg"
 county = "Dubois"
-longitude = -86.952413
 latitude = 38.298972
+longitude = -86.952413
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47542"
+

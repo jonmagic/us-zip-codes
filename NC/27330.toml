@@ -1,6 +1,8 @@
-zip_code = "27330"
-state = "NC"
 city = "Sanford"
 county = "Lee"
-longitude = -79.171723
 latitude = 35.469782
+longitude = -79.171723
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27330"
+

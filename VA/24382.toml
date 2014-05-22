@@ -1,6 +1,8 @@
-zip_code = "24382"
-state = "VA"
 city = "Wytheville"
 county = "Wythe"
-longitude = -81.146559
 latitude = 36.92855
+longitude = -81.146559
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24382"
+

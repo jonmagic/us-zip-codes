@@ -1,6 +1,8 @@
-zip_code = "68419"
-state = "NE"
 city = "Panama"
 county = "Lancaster"
-longitude = -96.512915
 latitude = 40.599807
+longitude = -96.512915
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68419"
+

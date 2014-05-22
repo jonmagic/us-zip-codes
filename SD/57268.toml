@@ -1,6 +1,8 @@
-zip_code = "57268"
-state = "SD"
 city = "Toronto"
 county = "Deuel"
-longitude = -96.59444
 latitude = 44.567419
+longitude = -96.59444
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57268"
+

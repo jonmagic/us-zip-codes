@@ -1,6 +1,8 @@
-zip_code = "04221"
-state = "ME"
 city = "Canton"
 county = "Oxford"
-longitude = -70.311314
 latitude = 44.38575
+longitude = -70.311314
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04221"
+

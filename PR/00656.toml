@@ -1,6 +1,8 @@
-zip_code = "00656"
-state = "PR"
 city = "Guayanilla"
 county = "Guayanilla"
-longitude = -66.786909
 latitude = 18.02328
+longitude = -66.786909
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00656"
+

@@ -1,6 +1,8 @@
-zip_code = "52334"
-state = "IA"
 city = "South Amana"
 county = "Iowa"
-longitude = -91.939343
 latitude = 41.724365
+longitude = -91.939343
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52334"
+

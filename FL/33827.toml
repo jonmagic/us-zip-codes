@@ -1,6 +1,8 @@
-zip_code = "33827"
-state = "FL"
 city = "Babson Park"
 county = "Polk"
-longitude = -81.549715
 latitude = 27.906571
+longitude = -81.549715
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33827"
+

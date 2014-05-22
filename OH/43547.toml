@@ -1,6 +1,8 @@
-zip_code = "43547"
-state = "OH"
 city = "Neapolis"
 county = "Lucas"
-longitude = -83.870598
 latitude = 41.491952
+longitude = -83.870598
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43547"
+

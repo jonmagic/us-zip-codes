@@ -1,6 +1,8 @@
-zip_code = "41385"
-state = "KY"
 city = "Vancleve"
 county = "Breathitt"
-longitude = -83.360738
 latitude = 37.628827
+longitude = -83.360738
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41385"
+

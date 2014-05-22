@@ -1,6 +1,8 @@
-zip_code = "65622"
-state = "MO"
 city = "Buffalo"
 county = "Dallas"
-longitude = -93.090618
 latitude = 37.642882
+longitude = -93.090618
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65622"
+

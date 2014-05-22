@@ -1,6 +1,8 @@
-zip_code = "75550"
-state = "TX"
 city = "Annona"
 county = "Red River"
-longitude = -94.915595
 latitude = 33.582918
+longitude = -94.915595
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75550"
+

@@ -1,6 +1,8 @@
-zip_code = "46974"
-state = "IN"
 city = "Roann"
 county = "Wabash"
-longitude = -85.854151
 latitude = 40.951589
+longitude = -85.854151
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46974"
+

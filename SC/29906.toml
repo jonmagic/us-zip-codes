@@ -1,6 +1,8 @@
-zip_code = "29906"
-state = "SC"
 city = "Beaufort"
 county = "Beaufort"
-longitude = -80.760332
 latitude = 32.382327
+longitude = -80.760332
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29906"
+

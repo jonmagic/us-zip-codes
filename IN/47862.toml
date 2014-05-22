@@ -1,6 +1,8 @@
-zip_code = "47862"
-state = "IN"
 city = "Montezuma"
 county = "Parke"
-longitude = -87.369135
 latitude = 39.791725
+longitude = -87.369135
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47862"
+

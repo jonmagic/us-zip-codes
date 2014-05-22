@@ -1,6 +1,8 @@
-zip_code = "06095"
-state = "CT"
 city = "Windsor"
 county = "Hartford"
-longitude = -72.804935
 latitude = 41.909988
+longitude = -72.804935
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06095"
+

@@ -1,6 +1,8 @@
-zip_code = "17777"
-state = "PA"
 city = "Watsontown"
 county = "Northumberland"
-longitude = -76.850306
 latitude = 41.097981
+longitude = -76.850306
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17777"
+

@@ -1,6 +1,8 @@
-zip_code = "07442"
-state = "NJ"
 city = "Pompton Lakes"
 county = "Passaic"
-longitude = -74.297725
 latitude = 40.999597
+longitude = -74.297725
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07442"
+

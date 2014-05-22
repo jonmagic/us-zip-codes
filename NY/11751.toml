@@ -1,6 +1,8 @@
-zip_code = "11751"
-state = "NY"
 city = "Islip"
 county = "Suffolk"
-longitude = -73.217871
 latitude = 40.72813
+longitude = -73.217871
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11751"
+

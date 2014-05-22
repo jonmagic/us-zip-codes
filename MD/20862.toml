@@ -1,6 +1,8 @@
-zip_code = "20862"
-state = "MD"
 city = "Brinklow"
 county = "Montgomery"
-longitude = -77.020626
 latitude = 39.175506
+longitude = -77.020626
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20862"
+

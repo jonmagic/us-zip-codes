@@ -1,6 +1,8 @@
-zip_code = "47977"
-state = "IN"
 city = "Remington"
 county = "Jasper"
-longitude = -87.140991
 latitude = 40.903837
+longitude = -87.140991
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47977"
+

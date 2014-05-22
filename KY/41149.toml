@@ -1,6 +1,8 @@
-zip_code = "41149"
-state = "KY"
 city = "Isonville"
 county = "Elliott"
-longitude = -83.079708
 latitude = 38.131568
+longitude = -83.079708
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41149"
+

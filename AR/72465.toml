@@ -1,6 +1,8 @@
-zip_code = "72465"
-state = "AR"
 city = "Sedgwick"
 county = "Lawrence"
-longitude = -90.895421
 latitude = 35.964317
+longitude = -90.895421
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72465"
+

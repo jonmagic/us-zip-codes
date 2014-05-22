@@ -1,6 +1,8 @@
-zip_code = "78014"
-state = "TX"
 city = "Cotulla"
 county = "La Salle"
-longitude = -99.278563
 latitude = 28.243436
+longitude = -99.278563
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78014"
+

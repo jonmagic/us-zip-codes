@@ -1,6 +1,8 @@
-zip_code = "67648"
-state = "KS"
 city = "Lucas"
 county = "Russell"
-longitude = -98.754407
 latitude = 39.008115
+longitude = -98.754407
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67648"
+

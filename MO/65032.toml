@@ -1,6 +1,8 @@
-zip_code = "65032"
-state = "MO"
 city = "Eugene"
 county = "Cole"
-longitude = -92.363038
 latitude = 38.393423
+longitude = -92.363038
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65032"
+

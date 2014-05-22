@@ -1,6 +1,8 @@
-zip_code = "63015"
-state = "MO"
 city = "Catawissa"
 county = "Franklin"
-longitude = -90.780631
 latitude = 38.404667
+longitude = -90.780631
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63015"
+

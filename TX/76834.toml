@@ -1,6 +1,8 @@
-zip_code = "76834"
-state = "TX"
 city = "Coleman"
 county = "Coleman"
-longitude = -99.400197
 latitude = 31.896653
+longitude = -99.400197
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76834"
+

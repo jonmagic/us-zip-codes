@@ -1,6 +1,8 @@
-zip_code = "18336"
-state = "PA"
 city = "Matamoras"
 county = "Pike"
-longitude = -74.736057
 latitude = 41.370358
+longitude = -74.736057
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18336"
+

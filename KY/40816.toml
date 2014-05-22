@@ -1,6 +1,8 @@
-zip_code = "40816"
-state = "KY"
 city = "Chappell"
 county = "Leslie"
-longitude = -83.349418
 latitude = 37.009799
+longitude = -83.349418
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40816"
+

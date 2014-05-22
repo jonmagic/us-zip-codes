@@ -1,6 +1,8 @@
-zip_code = "38720"
-state = "MS"
 city = "Alligator"
 county = "Bolivar"
-longitude = -90.75974
 latitude = 34.074216
+longitude = -90.75974
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38720"
+

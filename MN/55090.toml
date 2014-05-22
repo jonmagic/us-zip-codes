@@ -1,6 +1,8 @@
-zip_code = "55090"
-state = "MN"
 city = "Willernie"
 county = "Washington"
-longitude = -92.957034
 latitude = 45.053466
+longitude = -92.957034
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55090"
+

@@ -1,6 +1,8 @@
-zip_code = "97022"
-state = "OR"
 city = "Eagle Creek"
 county = "Clackamas"
-longitude = -122.312496
 latitude = 45.346076
+longitude = -122.312496
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97022"
+

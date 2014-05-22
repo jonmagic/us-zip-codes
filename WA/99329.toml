@@ -1,6 +1,8 @@
-zip_code = "99329"
-state = "WA"
 city = "Dixie"
 county = "Walla Walla"
-longitude = -118.153064
 latitude = 46.140821
+longitude = -118.153064
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99329"
+

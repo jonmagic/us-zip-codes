@@ -1,6 +1,8 @@
-zip_code = "16853"
-state = "PA"
 city = "Milesburg"
 county = "Centre"
-longitude = -77.781465
 latitude = 40.95408
+longitude = -77.781465
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16853"
+

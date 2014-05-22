@@ -1,6 +1,8 @@
-zip_code = "53031"
-state = "WI"
 city = "Hingham"
 county = "Sheboygan"
-longitude = -87.915705
 latitude = 43.639395
+longitude = -87.915705
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53031"
+

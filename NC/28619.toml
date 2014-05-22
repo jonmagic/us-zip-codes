@@ -1,6 +1,8 @@
-zip_code = "28619"
-state = "NC"
 city = "Drexel"
 county = "Burke"
-longitude = -81.640557
 latitude = 35.717868
+longitude = -81.640557
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28619"
+

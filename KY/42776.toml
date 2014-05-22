@@ -1,6 +1,8 @@
-zip_code = "42776"
-state = "KY"
 city = "Sonora"
 county = "Hardin"
-longitude = -85.950238
 latitude = 37.515024
+longitude = -85.950238
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42776"
+

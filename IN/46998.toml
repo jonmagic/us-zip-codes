@@ -1,6 +1,8 @@
-zip_code = "46998"
-state = "IN"
 city = "Young America"
 county = "Cass"
-longitude = -86.225982
 latitude = 40.866023
+longitude = -86.225982
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46998"
+

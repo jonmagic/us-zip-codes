@@ -1,6 +1,8 @@
-zip_code = "50535"
-state = "IA"
 city = "Early"
 county = "Sac"
-longitude = -95.16624
 latitude = 42.458243
+longitude = -95.16624
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50535"
+

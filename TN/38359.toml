@@ -1,6 +1,8 @@
-zip_code = "38359"
-state = "TN"
 city = "Milledgeville"
 county = "Mcnairy"
-longitude = -88.388143
 latitude = 35.367207
+longitude = -88.388143
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38359"
+

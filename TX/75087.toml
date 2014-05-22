@@ -1,6 +1,8 @@
-zip_code = "75087"
-state = "TX"
 city = "Rockwall"
 county = "Rockwall"
-longitude = -96.42713
 latitude = 32.897823
+longitude = -96.42713
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75087"
+

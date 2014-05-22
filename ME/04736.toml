@@ -1,6 +1,8 @@
-zip_code = "04736"
-state = "ME"
 city = "Caribou"
 county = "Aroostook"
-longitude = -68.025442
 latitude = 46.871355
+longitude = -68.025442
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04736"
+

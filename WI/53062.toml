@@ -1,6 +1,8 @@
-zip_code = "53062"
-state = "WI"
 city = "New Holstein"
 county = "Calumet"
-longitude = -88.223131
 latitude = 44.067942
+longitude = -88.223131
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53062"
+

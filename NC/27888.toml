@@ -1,6 +1,8 @@
-zip_code = "27888"
-state = "NC"
 city = "Walstonburg"
 county = "Greene"
-longitude = -77.713073
 latitude = 35.609289
+longitude = -77.713073
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27888"
+

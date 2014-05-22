@@ -1,6 +1,8 @@
-zip_code = "72341"
-state = "AR"
 city = "Haynes"
 county = "Lee"
-longitude = -90.750779
 latitude = 34.894534
+longitude = -90.750779
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72341"
+

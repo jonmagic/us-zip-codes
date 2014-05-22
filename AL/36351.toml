@@ -1,6 +1,8 @@
-zip_code = "36351"
-state = "AL"
 city = "New Brockton"
 county = "Coffee"
-longitude = -85.927933
 latitude = 31.398322
+longitude = -85.927933
+state = ""
+state_code_alpha2 = ""
+zip_code = "36351"
+

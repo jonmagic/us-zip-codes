@@ -1,6 +1,8 @@
-zip_code = "36047"
-state = "AL"
 city = "Letohatchee"
 county = "Lowndes"
-longitude = -86.510331
 latitude = 32.072616
+longitude = -86.510331
+state = ""
+state_code_alpha2 = ""
+zip_code = "36047"
+

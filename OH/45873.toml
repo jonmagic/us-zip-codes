@@ -1,6 +1,8 @@
-zip_code = "45873"
-state = "OH"
 city = "Oakwood"
 county = "Paulding"
-longitude = -84.534212
 latitude = 41.121548
+longitude = -84.534212
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45873"
+

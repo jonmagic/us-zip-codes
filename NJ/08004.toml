@@ -1,6 +1,8 @@
-zip_code = "08004"
-state = "NJ"
 city = "Atco"
 county = "Camden"
-longitude = -74.866534
 latitude = 39.760048
+longitude = -74.866534
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08004"
+

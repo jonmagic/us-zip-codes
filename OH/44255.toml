@@ -1,6 +1,8 @@
-zip_code = "44255"
-state = "OH"
 city = "Mantua"
 county = "Portage"
-longitude = -81.229924
 latitude = 41.282355
+longitude = -81.229924
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44255"
+

@@ -1,6 +1,8 @@
-zip_code = "61270"
-state = "IL"
 city = "Morrison"
 county = "Whiteside"
-longitude = -90.002217
 latitude = 41.781381
+longitude = -90.002217
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61270"
+

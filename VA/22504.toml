@@ -1,6 +1,8 @@
-zip_code = "22504"
-state = "VA"
 city = "Laneview"
 county = "Essex"
-longitude = -76.712135
 latitude = 37.76914
+longitude = -76.712135
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22504"
+

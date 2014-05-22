@@ -1,6 +1,8 @@
-zip_code = "72354"
-state = "AR"
 city = "Lepanto"
 county = "Poinsett"
-longitude = -90.340023
 latitude = 35.596339
+longitude = -90.340023
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72354"
+

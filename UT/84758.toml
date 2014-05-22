@@ -1,6 +1,8 @@
-zip_code = "84758"
-state = "UT"
 city = "Orderville"
 county = "Kane"
-longitude = -112.716919
 latitude = 37.272395
+longitude = -112.716919
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84758"
+

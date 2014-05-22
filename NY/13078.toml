@@ -1,6 +1,8 @@
-zip_code = "13078"
-state = "NY"
 city = "Jamesville"
 county = "Onondaga"
-longitude = -76.057658
 latitude = 42.966136
+longitude = -76.057658
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13078"
+

@@ -1,6 +1,8 @@
-zip_code = "84667"
-state = "UT"
 city = "Wales"
 county = "Sanpete"
-longitude = -111.634051
 latitude = 39.488381
+longitude = -111.634051
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84667"
+

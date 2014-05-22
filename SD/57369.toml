@@ -1,6 +1,8 @@
-zip_code = "57369"
-state = "SD"
 city = "Platte"
 county = "Charles Mix"
-longitude = -98.767186
 latitude = 43.2916
+longitude = -98.767186
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57369"
+

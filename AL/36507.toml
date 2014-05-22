@@ -1,6 +1,8 @@
-zip_code = "36507"
-state = "AL"
 city = "Bay Minette"
 county = "Baldwin"
-longitude = -87.756371
 latitude = 30.763492
+longitude = -87.756371
+state = ""
+state_code_alpha2 = ""
+zip_code = "36507"
+

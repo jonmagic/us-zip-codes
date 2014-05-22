@@ -1,6 +1,8 @@
-zip_code = "14108"
-state = "NY"
 city = "Newfane"
 county = "Niagara"
-longitude = -78.724806
 latitude = 43.271156
+longitude = -78.724806
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14108"
+

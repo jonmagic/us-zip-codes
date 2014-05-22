@@ -1,6 +1,8 @@
-zip_code = "74865"
-state = "OK"
 city = "Roff"
 county = "Pontotoc"
-longitude = -96.841231
 latitude = 34.626335
+longitude = -96.841231
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74865"
+

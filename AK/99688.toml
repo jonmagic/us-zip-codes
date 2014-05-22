@@ -1,6 +1,8 @@
-zip_code = "99688"
-state = "AK"
 city = "Willow"
 county = "Matanuska Susitna"
-longitude = -150.003758
 latitude = 61.896608
+longitude = -150.003758
+state = ""
+state_code_alpha2 = ""
+zip_code = "99688"
+

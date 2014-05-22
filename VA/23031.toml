@@ -1,6 +1,8 @@
-zip_code = "23031"
-state = "VA"
 city = "Christchurch"
 county = "Middlesex"
-longitude = -76.447551
 latitude = 37.598391
+longitude = -76.447551
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23031"
+

@@ -1,6 +1,8 @@
-zip_code = "19090"
-state = "PA"
 city = "Willow Grove"
 county = "Montgomery"
-longitude = -75.10897
 latitude = 40.161856
+longitude = -75.10897
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19090"
+

@@ -1,6 +1,8 @@
-zip_code = "85235"
-state = "AZ"
 city = "Hayden"
 county = "Gila"
-longitude = -110.855618
 latitude = 33.576401
+longitude = -110.855618
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85235"
+

@@ -1,6 +1,8 @@
-zip_code = "78673"
-state = "TX"
 city = "Walburg"
 county = "Williamson"
-longitude = -97.589147
 latitude = 30.741495
+longitude = -97.589147
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78673"
+

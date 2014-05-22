@@ -1,6 +1,8 @@
-zip_code = "32221"
-state = "FL"
 city = "Jacksonville"
 county = "Duval"
-longitude = -81.848561
 latitude = 30.259438
+longitude = -81.848561
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32221"
+

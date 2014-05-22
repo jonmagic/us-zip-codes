@@ -1,6 +1,8 @@
-zip_code = "26411"
-state = "WV"
 city = "New Milton"
 county = "Doddridge"
-longitude = -80.719742
 latitude = 39.270846
+longitude = -80.719742
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26411"
+

@@ -1,6 +1,8 @@
-zip_code = "67546"
-state = "KS"
 city = "Inman"
 county = "Mcpherson"
-longitude = -97.795694
 latitude = 38.246179
+longitude = -97.795694
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67546"
+

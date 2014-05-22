@@ -1,6 +1,8 @@
-zip_code = "15927"
-state = "PA"
 city = "Colver"
 county = "Cambria"
-longitude = -78.786549
 latitude = 40.538311
+longitude = -78.786549
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15927"
+

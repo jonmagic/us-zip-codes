@@ -1,6 +1,8 @@
-zip_code = "46123"
-state = "IN"
 city = "Avon"
 county = "Hendricks"
-longitude = -86.488881
 latitude = 39.721434
+longitude = -86.488881
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46123"
+

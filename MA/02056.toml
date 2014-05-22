@@ -1,6 +1,8 @@
-zip_code = "02056"
-state = "MA"
 city = "Norfolk"
 county = "Norfolk"
-longitude = -71.331793
 latitude = 42.117511
+longitude = -71.331793
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02056"
+

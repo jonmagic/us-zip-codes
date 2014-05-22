@@ -1,6 +1,8 @@
-zip_code = "44276"
-state = "OH"
 city = "Sterling"
 county = "Wayne"
-longitude = -81.830515
 latitude = 40.936853
+longitude = -81.830515
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44276"
+

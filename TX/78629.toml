@@ -1,6 +1,8 @@
-zip_code = "78629"
-state = "TX"
 city = "Gonzales"
 county = "Gonzales"
-longitude = -97.543969
 latitude = 29.543029
+longitude = -97.543969
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78629"
+

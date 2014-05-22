@@ -1,6 +1,8 @@
-zip_code = "10547"
-state = "NY"
 city = "Mohegan Lake"
 county = "Westchester"
-longitude = -73.797555
 latitude = 41.281975
+longitude = -73.797555
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10547"
+

@@ -1,6 +1,8 @@
-zip_code = "06804"
-state = "CT"
 city = "Brookfield"
 county = "Fairfield"
-longitude = -73.275562
 latitude = 41.404799
+longitude = -73.275562
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06804"
+

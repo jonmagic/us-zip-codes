@@ -1,6 +1,8 @@
-zip_code = "41740"
-state = "KY"
 city = "Emmalena"
 county = "Knott"
-longitude = -83.047116
 latitude = 37.349857
+longitude = -83.047116
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41740"
+

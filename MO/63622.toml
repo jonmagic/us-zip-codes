@@ -1,6 +1,8 @@
-zip_code = "63622"
-state = "MO"
 city = "Belgrade"
 county = "Washington"
-longitude = -90.846322
 latitude = 37.789859
+longitude = -90.846322
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63622"
+

@@ -1,6 +1,8 @@
-zip_code = "68423"
-state = "NE"
 city = "Pleasant Dale"
 county = "Seward"
-longitude = -96.968018
 latitude = 40.813869
+longitude = -96.968018
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68423"
+

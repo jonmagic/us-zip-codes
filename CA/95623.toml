@@ -1,6 +1,8 @@
-zip_code = "95623"
-state = "CA"
 city = "El Dorado"
 county = "El Dorado"
-longitude = -120.84598
 latitude = 38.676272
+longitude = -120.84598
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95623"
+

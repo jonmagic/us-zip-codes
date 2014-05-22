@@ -1,6 +1,8 @@
-zip_code = "60180"
-state = "IL"
 city = "Union"
 county = "Mchenry"
-longitude = -88.525091
 latitude = 42.222569
+longitude = -88.525091
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60180"
+

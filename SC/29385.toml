@@ -1,6 +1,8 @@
-zip_code = "29385"
-state = "SC"
 city = "Wellford"
 county = "Spartanburg"
-longitude = -82.009137
 latitude = 34.834143
+longitude = -82.009137
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29385"
+

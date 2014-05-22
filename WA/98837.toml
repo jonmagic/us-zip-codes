@@ -1,6 +1,8 @@
-zip_code = "98837"
-state = "WA"
 city = "Moses Lake"
 county = "Grant"
-longitude = -119.298979
 latitude = 47.180684
+longitude = -119.298979
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98837"
+

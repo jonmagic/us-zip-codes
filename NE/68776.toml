@@ -1,6 +1,8 @@
-zip_code = "68776"
-state = "NE"
 city = "South Sioux City"
 county = "Dakota"
-longitude = -96.457068
 latitude = 42.459711
+longitude = -96.457068
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68776"
+

@@ -1,6 +1,8 @@
-zip_code = "82431"
-state = "WY"
 city = "Lovell"
 county = "Big Horn"
-longitude = -108.264522
 latitude = 44.584242
+longitude = -108.264522
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82431"
+

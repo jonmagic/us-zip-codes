@@ -1,6 +1,8 @@
-zip_code = "43356"
-state = "OH"
 city = "Waldo"
 county = "Marion"
-longitude = -83.048607
 latitude = 40.475651
+longitude = -83.048607
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43356"
+

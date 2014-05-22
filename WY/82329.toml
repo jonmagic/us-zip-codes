@@ -1,6 +1,8 @@
-zip_code = "82329"
-state = "WY"
 city = "Medicine Bow"
 county = "Carbon"
-longitude = -106.180829
 latitude = 41.834011
+longitude = -106.180829
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82329"
+

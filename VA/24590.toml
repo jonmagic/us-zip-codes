@@ -1,6 +1,8 @@
-zip_code = "24590"
-state = "VA"
 city = "Scottsville"
 county = "Albemarle"
-longitude = -78.529827
 latitude = 37.846277
+longitude = -78.529827
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24590"
+

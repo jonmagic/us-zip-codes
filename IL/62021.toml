@@ -1,6 +1,8 @@
-zip_code = "62021"
-state = "IL"
 city = "Dorsey"
 county = "Madison"
-longitude = -89.97814
 latitude = 38.964212
+longitude = -89.97814
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62021"
+

@@ -1,6 +1,8 @@
-zip_code = "03850"
-state = "NH"
 city = "Melvin Village"
 county = "Carroll"
-longitude = -71.301681
 latitude = 43.707657
+longitude = -71.301681
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03850"
+

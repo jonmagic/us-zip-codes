@@ -1,6 +1,8 @@
-zip_code = "29519"
-state = "SC"
 city = "Centenary"
 county = "Marion"
-longitude = -79.353715
 latitude = 34.026958
+longitude = -79.353715
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29519"
+

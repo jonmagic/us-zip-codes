@@ -1,6 +1,8 @@
-zip_code = "77458"
-state = "TX"
 city = "Midfield"
 county = "Matagorda"
-longitude = -96.217884
 latitude = 28.941283
+longitude = -96.217884
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77458"
+

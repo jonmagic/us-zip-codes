@@ -1,6 +1,8 @@
-zip_code = "43903"
-state = "OH"
 city = "Amsterdam"
 county = "Jefferson"
-longitude = -80.84505
 latitude = 40.486354
+longitude = -80.84505
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43903"
+

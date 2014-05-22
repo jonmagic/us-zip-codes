@@ -1,6 +1,8 @@
-zip_code = "40145"
-state = "KY"
 city = "Hudson"
 county = "Breckinridge"
-longitude = -86.321158
 latitude = 37.606992
+longitude = -86.321158
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40145"
+

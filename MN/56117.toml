@@ -1,6 +1,8 @@
-zip_code = "56117"
-state = "MN"
 city = "Bigelow"
 county = "Nobles"
-longitude = -95.687951
 latitude = 43.540643
+longitude = -95.687951
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56117"
+

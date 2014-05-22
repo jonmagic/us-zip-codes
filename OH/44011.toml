@@ -1,6 +1,8 @@
-zip_code = "44011"
-state = "OH"
 city = "Avon"
 county = "Lorain"
-longitude = -82.019866
 latitude = 41.448492
+longitude = -82.019866
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44011"
+

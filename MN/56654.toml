@@ -1,6 +1,8 @@
-zip_code = "56654"
-state = "MN"
 city = "Loman"
 county = "Koochiching"
-longitude = -93.840769
 latitude = 48.538803
+longitude = -93.840769
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56654"
+

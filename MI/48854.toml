@@ -1,6 +1,8 @@
-zip_code = "48854"
-state = "MI"
 city = "Mason"
 county = "Ingham"
-longitude = -84.460273
 latitude = 42.574335
+longitude = -84.460273
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48854"
+

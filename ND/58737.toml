@@ -1,6 +1,8 @@
-zip_code = "58737"
-state = "ND"
 city = "Flaxton"
 county = "Burke"
-longitude = -102.382327
 latitude = 48.877183
+longitude = -102.382327
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58737"
+

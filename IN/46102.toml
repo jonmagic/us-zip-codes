@@ -1,6 +1,8 @@
-zip_code = "46102"
-state = "IN"
 city = "Advance"
 county = "Boone"
-longitude = -86.619774
 latitude = 39.995599
+longitude = -86.619774
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46102"
+

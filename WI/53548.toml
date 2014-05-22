@@ -1,6 +1,8 @@
-zip_code = "53548"
-state = "WI"
 city = "Janesville"
 county = "Rock"
-longitude = -89.030111
 latitude = 42.729359
+longitude = -89.030111
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53548"
+

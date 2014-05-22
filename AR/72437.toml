@@ -1,6 +1,8 @@
-zip_code = "72437"
-state = "AR"
 city = "Lake City"
 county = "Craighead"
-longitude = -90.510018
 latitude = 35.824808
+longitude = -90.510018
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72437"
+

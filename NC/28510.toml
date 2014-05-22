@@ -1,6 +1,8 @@
-zip_code = "28510"
-state = "NC"
 city = "Arapahoe"
 county = "Pamlico"
-longitude = -76.798574
 latitude = 35.034156
+longitude = -76.798574
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28510"
+

@@ -1,6 +1,8 @@
-zip_code = "37061"
-state = "TN"
 city = "Erin"
 county = "Houston"
-longitude = -87.749245
 latitude = 36.288768
+longitude = -87.749245
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37061"
+

@@ -1,6 +1,8 @@
-zip_code = "86021"
-state = "AZ"
 city = "Colorado City"
 county = "Mohave"
-longitude = -112.978914
 latitude = 36.974658
+longitude = -112.978914
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86021"
+

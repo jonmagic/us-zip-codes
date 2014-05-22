@@ -1,6 +1,8 @@
-zip_code = "12020"
-state = "NY"
 city = "Ballston Spa"
 county = "Saratoga"
-longitude = -73.882538
 latitude = 42.983588
+longitude = -73.882538
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12020"
+

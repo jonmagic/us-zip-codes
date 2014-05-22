@@ -1,6 +1,8 @@
-zip_code = "48840"
-state = "MI"
 city = "Haslett"
 county = "Ingham"
-longitude = -84.378655
 latitude = 42.750324
+longitude = -84.378655
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48840"
+

@@ -1,6 +1,8 @@
-zip_code = "67041"
-state = "KS"
 city = "Elbing"
 county = "Butler"
-longitude = -97.128356
 latitude = 38.054538
+longitude = -97.128356
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67041"
+

@@ -1,6 +1,8 @@
-zip_code = "05061"
-state = "VT"
 city = "Randolph Center"
 county = "Orange"
-longitude = -72.569113
 latitude = 43.928552
+longitude = -72.569113
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05061"
+

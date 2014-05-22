@@ -1,6 +1,8 @@
-zip_code = "03048"
-state = "NH"
 city = "Greenville"
 county = "Hillsborough"
-longitude = -71.717548
 latitude = 42.875116
+longitude = -71.717548
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03048"
+

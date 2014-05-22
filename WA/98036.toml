@@ -1,6 +1,8 @@
-zip_code = "98036"
-state = "WA"
 city = "Lynnwood"
 county = "Snohomish"
-longitude = -122.285481
 latitude = 47.804869
+longitude = -122.285481
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98036"
+

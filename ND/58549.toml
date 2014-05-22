@@ -1,6 +1,8 @@
-zip_code = "58549"
-state = "ND"
 city = "Kintyre"
 county = "Emmons"
-longitude = -99.969631
 latitude = 46.455044
+longitude = -99.969631
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58549"
+

@@ -1,6 +1,8 @@
-zip_code = "44503"
-state = "OH"
 city = "Youngstown"
 county = "Mahoning"
-longitude = -80.655146
 latitude = 41.099258
+longitude = -80.655146
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44503"
+

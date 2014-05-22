@@ -1,6 +1,8 @@
-zip_code = "22627"
-state = "VA"
 city = "Flint Hill"
 county = "Rappahannock"
-longitude = -78.083739
 latitude = 38.787434
+longitude = -78.083739
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22627"
+

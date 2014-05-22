@@ -1,6 +1,8 @@
-zip_code = "12496"
-state = "NY"
 city = "Windham"
 county = "Greene"
-longitude = -74.231589
 latitude = 42.320273
+longitude = -74.231589
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12496"
+

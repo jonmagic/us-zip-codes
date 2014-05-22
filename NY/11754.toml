@@ -1,6 +1,8 @@
-zip_code = "11754"
-state = "NY"
 city = "Kings Park"
 county = "Suffolk"
-longitude = -73.30485
 latitude = 40.80323
+longitude = -73.30485
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11754"
+

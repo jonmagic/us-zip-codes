@@ -1,6 +1,8 @@
-zip_code = "56580"
-state = "MN"
 city = "Sabin"
 county = "Clay"
-longitude = -96.651185
 latitude = 46.779487
+longitude = -96.651185
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56580"
+

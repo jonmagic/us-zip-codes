@@ -1,6 +1,8 @@
-zip_code = "68038"
-state = "NE"
 city = "Lyons"
 county = "Burt"
-longitude = -96.450944
 latitude = 41.951479
+longitude = -96.450944
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68038"
+

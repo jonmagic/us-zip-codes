@@ -1,6 +1,8 @@
-zip_code = "69033"
-state = "NE"
 city = "Imperial"
 county = "Chase"
-longitude = -101.632038
 latitude = 40.515114
+longitude = -101.632038
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69033"
+

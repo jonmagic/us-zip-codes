@@ -1,6 +1,8 @@
-zip_code = "35621"
-state = "AL"
 city = "Eva"
 county = "Morgan"
-longitude = -86.73641
 latitude = 34.367528
+longitude = -86.73641
+state = ""
+state_code_alpha2 = ""
+zip_code = "35621"
+

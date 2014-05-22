@@ -1,6 +1,8 @@
-zip_code = "79042"
-state = "TX"
 city = "Happy"
 county = "Swisher"
-longitude = -101.857175
 latitude = 34.741789
+longitude = -101.857175
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79042"
+

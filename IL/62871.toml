@@ -1,6 +1,8 @@
-zip_code = "62871"
-state = "IL"
 city = "Omaha"
 county = "Gallatin"
-longitude = -88.240226
 latitude = 37.845963
+longitude = -88.240226
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62871"
+

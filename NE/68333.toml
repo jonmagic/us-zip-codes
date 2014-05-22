@@ -1,6 +1,8 @@
-zip_code = "68333"
-state = "NE"
 city = "Crete"
 county = "Saline"
-longitude = -97.016925
 latitude = 40.628937
+longitude = -97.016925
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68333"
+

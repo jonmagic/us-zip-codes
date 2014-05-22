@@ -1,6 +1,8 @@
-zip_code = "08555"
-state = "NJ"
 city = "Roosevelt"
 county = "Monmouth"
-longitude = -74.474745
 latitude = 40.22136
+longitude = -74.474745
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08555"
+

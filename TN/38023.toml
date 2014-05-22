@@ -1,6 +1,8 @@
-zip_code = "38023"
-state = "TN"
 city = "Drummonds"
 county = "Tipton"
-longitude = -89.93429
 latitude = 35.460696
+longitude = -89.93429
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38023"
+

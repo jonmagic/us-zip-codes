@@ -1,6 +1,8 @@
-zip_code = "38371"
-state = "TN"
 city = "Sardis"
 county = "Henderson"
-longitude = -88.298898
 latitude = 35.467143
+longitude = -88.298898
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38371"
+

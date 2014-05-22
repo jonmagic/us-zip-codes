@@ -1,6 +1,8 @@
-zip_code = "78009"
-state = "TX"
 city = "Castroville"
 county = "Medina"
-longitude = -98.909219
 latitude = 29.364948
+longitude = -98.909219
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78009"
+

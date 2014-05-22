@@ -1,6 +1,8 @@
-zip_code = "80113"
-state = "CO"
 city = "Englewood"
 county = "Arapahoe"
-longitude = -104.862194
 latitude = 39.581238
+longitude = -104.862194
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80113"
+

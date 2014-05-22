@@ -1,6 +1,8 @@
-zip_code = "29824"
-state = "SC"
 city = "Edgefield"
 county = "Edgefield"
-longitude = -81.987524
 latitude = 33.767808
+longitude = -81.987524
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29824"
+

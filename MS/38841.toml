@@ -1,6 +1,8 @@
-zip_code = "38841"
-state = "MS"
 city = "Ecru"
 county = "Pontotoc"
-longitude = -89.010873
 latitude = 34.336606
+longitude = -89.010873
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38841"
+

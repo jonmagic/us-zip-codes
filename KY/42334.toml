@@ -1,6 +1,8 @@
-zip_code = "42334"
-state = "KY"
 city = "Curdsville"
 county = "Daviess"
-longitude = -87.112823
 latitude = 37.745491
+longitude = -87.112823
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42334"
+

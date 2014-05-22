@@ -1,6 +1,8 @@
-zip_code = "79846"
-state = "TX"
 city = "Redford"
 county = "Presidio"
-longitude = -104.386683
 latitude = 29.943719
+longitude = -104.386683
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79846"
+

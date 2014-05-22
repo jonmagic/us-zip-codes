@@ -1,6 +1,8 @@
-zip_code = "54556"
-state = "WI"
 city = "Prentice"
 county = "Price"
-longitude = -90.28166
 latitude = 45.532944
+longitude = -90.28166
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54556"
+

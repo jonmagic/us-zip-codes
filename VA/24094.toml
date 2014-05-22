@@ -1,6 +1,8 @@
-zip_code = "24094"
-state = "VA"
 city = "Goldbond"
 county = "Giles"
-longitude = -80.590627
 latitude = 37.385257
+longitude = -80.590627
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24094"
+

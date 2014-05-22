@@ -1,6 +1,8 @@
-zip_code = "37101"
-state = "TN"
 city = "Mc Ewen"
 county = "Humphreys"
-longitude = -87.659245
 latitude = 36.066188
+longitude = -87.659245
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37101"
+

@@ -1,6 +1,8 @@
-zip_code = "13844"
-state = "NY"
 city = "South Plymouth"
 county = "Chenango"
-longitude = -75.652767
 latitude = 42.624833
+longitude = -75.652767
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13844"
+

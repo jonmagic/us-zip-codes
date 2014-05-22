@@ -1,6 +1,8 @@
-zip_code = "64671"
-state = "MO"
 city = "Polo"
 county = "Caldwell"
-longitude = -94.050144
 latitude = 39.579927
+longitude = -94.050144
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64671"
+

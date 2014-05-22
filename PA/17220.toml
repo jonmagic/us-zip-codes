@@ -1,6 +1,8 @@
-zip_code = "17220"
-state = "PA"
 city = "Dry Run"
 county = "Franklin"
-longitude = -77.735336
 latitude = 40.178081
+longitude = -77.735336
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17220"
+

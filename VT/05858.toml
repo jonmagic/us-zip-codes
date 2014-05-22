@@ -1,6 +1,8 @@
-zip_code = "05858"
-state = "VT"
 city = "North Concord"
 county = "Essex"
-longitude = -71.795986
 latitude = 44.512087
+longitude = -71.795986
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05858"
+

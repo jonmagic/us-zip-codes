@@ -1,6 +1,8 @@
-zip_code = "83848"
-state = "ID"
 city = "Nordman"
 county = "Bonner"
-longitude = -116.925844
 latitude = 48.614631
+longitude = -116.925844
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83848"
+

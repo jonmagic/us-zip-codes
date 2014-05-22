@@ -1,6 +1,8 @@
-zip_code = "02647"
-state = "MA"
 city = "Hyannis Port"
 county = "Barnstable"
-longitude = -70.306336
 latitude = 41.635004
+longitude = -70.306336
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02647"
+

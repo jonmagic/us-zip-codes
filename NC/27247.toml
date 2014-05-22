@@ -1,6 +1,8 @@
-zip_code = "27247"
-state = "NC"
 city = "Ether"
 county = "Montgomery"
-longitude = -79.783404
 latitude = 35.451411
+longitude = -79.783404
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27247"
+

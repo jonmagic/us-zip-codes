@@ -1,6 +1,8 @@
-zip_code = "62222"
-state = "IL"
 city = "Belleville"
 county = "Saint Clair"
-longitude = -89.983521
 latitude = 38.439983
+longitude = -89.983521
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62222"
+

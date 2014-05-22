@@ -1,6 +1,8 @@
-zip_code = "92653"
-state = "CA"
 city = "Laguna Hills"
 county = "Orange"
-longitude = -117.715535
 latitude = 33.595714
+longitude = -117.715535
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92653"
+

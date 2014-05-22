@@ -1,6 +1,8 @@
-zip_code = "38487"
-state = "TN"
 city = "Williamsport"
 county = "Maury"
-longitude = -87.212698
 latitude = 35.722628
+longitude = -87.212698
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38487"
+

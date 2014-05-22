@@ -1,6 +1,8 @@
-zip_code = "54934"
-state = "WI"
 city = "Eureka"
 county = "Winnebago"
-longitude = -88.839692
 latitude = 44.003153
+longitude = -88.839692
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54934"
+

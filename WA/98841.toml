@@ -1,6 +1,8 @@
-zip_code = "98841"
-state = "WA"
 city = "Omak"
 county = "Okanogan"
-longitude = -119.560672
 latitude = 48.426942
+longitude = -119.560672
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98841"
+

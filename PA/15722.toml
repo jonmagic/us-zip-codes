@@ -1,6 +1,8 @@
-zip_code = "15722"
-state = "PA"
 city = "Carrolltown"
 county = "Cambria"
-longitude = -78.728455
 latitude = 40.583025
+longitude = -78.728455
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15722"
+

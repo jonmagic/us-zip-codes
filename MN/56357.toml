@@ -1,6 +1,8 @@
-zip_code = "56357"
-state = "MN"
 city = "Oak Park"
 county = "Benton"
-longitude = -93.816445
 latitude = 45.702225
+longitude = -93.816445
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56357"
+

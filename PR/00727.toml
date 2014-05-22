@@ -1,6 +1,8 @@
-zip_code = "00727"
-state = "PR"
 city = "Caguas"
 county = "Caguas"
-longitude = -66.058033
 latitude = 18.212965
+longitude = -66.058033
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00727"
+

@@ -1,6 +1,8 @@
-zip_code = "19456"
-state = "PA"
 city = "Oaks"
 county = "Montgomery"
-longitude = -75.453631
 latitude = 40.133355
+longitude = -75.453631
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19456"
+

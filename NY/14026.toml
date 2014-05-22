@@ -1,6 +1,8 @@
-zip_code = "14026"
-state = "NY"
 city = "Bowmansville"
 county = "Erie"
-longitude = -78.688009
 latitude = 42.941008
+longitude = -78.688009
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14026"
+

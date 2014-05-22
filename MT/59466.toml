@@ -1,6 +1,8 @@
-zip_code = "59466"
-state = "MT"
 city = "Oilmont"
 county = "Toole"
-longitude = -111.691145
 latitude = 48.825895
+longitude = -111.691145
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59466"
+

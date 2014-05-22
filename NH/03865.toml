@@ -1,6 +1,8 @@
-zip_code = "03865"
-state = "NH"
 city = "Plaistow"
 county = "Rockingham"
-longitude = -70.926206
 latitude = 42.937838
+longitude = -70.926206
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03865"
+

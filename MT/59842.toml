@@ -1,6 +1,8 @@
-zip_code = "59842"
-state = "MT"
 city = "Haugan"
 county = "Mineral"
-longitude = -115.516347
 latitude = 47.402824
+longitude = -115.516347
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59842"
+

@@ -1,6 +1,8 @@
-zip_code = "17857"
-state = "PA"
 city = "Northumberland"
 county = "Northumberland"
-longitude = -76.784197
 latitude = 40.90805
+longitude = -76.784197
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17857"
+

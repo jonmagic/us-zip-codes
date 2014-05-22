@@ -1,6 +1,8 @@
-zip_code = "37349"
-state = "TN"
 city = "Manchester"
 county = "Coffee"
-longitude = -86.07482
 latitude = 35.497637
+longitude = -86.07482
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37349"
+

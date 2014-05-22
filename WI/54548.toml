@@ -1,6 +1,8 @@
-zip_code = "54548"
-state = "WI"
 city = "Minocqua"
 county = "Oneida"
-longitude = -89.824294
 latitude = 45.827583
+longitude = -89.824294
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54548"
+

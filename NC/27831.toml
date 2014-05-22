@@ -1,6 +1,8 @@
-zip_code = "27831"
-state = "NC"
 city = "Garysburg"
 county = "Northampton"
-longitude = -77.568112
 latitude = 36.482084
+longitude = -77.568112
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27831"
+

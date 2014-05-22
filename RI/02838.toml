@@ -1,6 +1,8 @@
-zip_code = "02838"
-state = "RI"
 city = "Manville"
 county = "Providence"
-longitude = -71.475604
 latitude = 41.967848
+longitude = -71.475604
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02838"
+

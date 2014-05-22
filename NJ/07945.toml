@@ -1,6 +1,8 @@
-zip_code = "07945"
-state = "NJ"
 city = "Mendham"
 county = "Morris"
-longitude = -74.5938
 latitude = 40.786699
+longitude = -74.5938
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07945"
+

@@ -1,6 +1,8 @@
-zip_code = "70401"
-state = "LA"
 city = "Hammond"
 county = "Tangipahoa"
-longitude = -90.464466
 latitude = 30.549037
+longitude = -90.464466
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70401"
+

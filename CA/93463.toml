@@ -1,6 +1,8 @@
-zip_code = "93463"
-state = "CA"
 city = "Solvang"
 county = "Santa Barbara"
-longitude = -120.170111
 latitude = 34.648841
+longitude = -120.170111
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93463"
+

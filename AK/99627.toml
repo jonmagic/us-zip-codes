@@ -1,6 +1,8 @@
-zip_code = "99627"
-state = "AK"
 city = "Mc Grath"
 county = "Yukon Koyukuk"
-longitude = -155.5712
 latitude = 62.945716
+longitude = -155.5712
+state = ""
+state_code_alpha2 = ""
+zip_code = "99627"
+

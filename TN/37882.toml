@@ -1,6 +1,8 @@
-zip_code = "37882"
-state = "TN"
 city = "Townsend"
 county = "Blount"
-longitude = -83.751242
 latitude = 35.682298
+longitude = -83.751242
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37882"
+

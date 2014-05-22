@@ -1,6 +1,8 @@
-zip_code = "31546"
-state = "GA"
 city = "Jesup"
 county = "Wayne"
-longitude = -81.804924
 latitude = 31.531938
+longitude = -81.804924
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31546"
+

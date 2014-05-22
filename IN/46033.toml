@@ -1,6 +1,8 @@
-zip_code = "46033"
-state = "IN"
 city = "Carmel"
 county = "Hamilton"
-longitude = -86.082936
 latitude = 39.974404
+longitude = -86.082936
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46033"
+

@@ -1,6 +1,8 @@
-zip_code = "39560"
-state = "MS"
 city = "Long Beach"
 county = "Harrison"
-longitude = -89.177143
 latitude = 30.374646
+longitude = -89.177143
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39560"
+

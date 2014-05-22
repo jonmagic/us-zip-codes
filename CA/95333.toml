@@ -1,6 +1,8 @@
-zip_code = "95333"
-state = "CA"
 city = "Le Grand"
 county = "Merced"
-longitude = -120.231843
 latitude = 37.264851
+longitude = -120.231843
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95333"
+

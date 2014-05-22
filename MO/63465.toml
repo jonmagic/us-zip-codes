@@ -1,6 +1,8 @@
-zip_code = "63465"
-state = "MO"
 city = "Revere"
 county = "Clark"
-longitude = -91.695843
 latitude = 40.45696
+longitude = -91.695843
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63465"
+

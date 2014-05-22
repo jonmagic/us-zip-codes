@@ -1,6 +1,8 @@
-zip_code = "72394"
-state = "AR"
 city = "Widener"
 county = "Saint Francis"
-longitude = -90.800681
 latitude = 35.030375
+longitude = -90.800681
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72394"
+

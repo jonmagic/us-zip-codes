@@ -1,6 +1,8 @@
-zip_code = "68825"
-state = "NE"
 city = "Callaway"
 county = "Custer"
-longitude = -99.921245
 latitude = 41.290502
+longitude = -99.921245
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68825"
+

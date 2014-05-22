@@ -1,6 +1,8 @@
-zip_code = "97908"
-state = "OR"
 city = "Ironside"
 county = "Malheur"
-longitude = -117.818949
 latitude = 44.341058
+longitude = -117.818949
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97908"
+

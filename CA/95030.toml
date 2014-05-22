@@ -1,6 +1,8 @@
-zip_code = "95030"
-state = "CA"
 city = "Los Gatos"
 county = "Santa Clara"
-longitude = -121.842064
 latitude = 37.107647
+longitude = -121.842064
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95030"
+

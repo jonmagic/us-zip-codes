@@ -1,6 +1,8 @@
-zip_code = "11768"
-state = "NY"
 city = "Northport"
 county = "Suffolk"
-longitude = -73.33268
 latitude = 40.914289
+longitude = -73.33268
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11768"
+

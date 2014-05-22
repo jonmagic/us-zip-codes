@@ -1,6 +1,8 @@
-zip_code = "62839"
-state = "IL"
 city = "Flora"
 county = "Clay"
-longitude = -88.493686
 latitude = 38.710797
+longitude = -88.493686
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62839"
+

@@ -1,6 +1,8 @@
-zip_code = "76088"
-state = "TX"
 city = "Weatherford"
 county = "Parker"
-longitude = -97.860618
 latitude = 32.847803
+longitude = -97.860618
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76088"
+

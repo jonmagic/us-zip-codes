@@ -1,6 +1,8 @@
-zip_code = "64857"
-state = "MO"
 city = "Purcell"
 county = "Jasper"
-longitude = -94.374764
 latitude = 37.216855
+longitude = -94.374764
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64857"
+

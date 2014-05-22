@@ -1,6 +1,8 @@
-zip_code = "19465"
-state = "PA"
 city = "Pottstown"
 county = "Chester"
-longitude = -75.66531
 latitude = 40.191907
+longitude = -75.66531
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19465"
+

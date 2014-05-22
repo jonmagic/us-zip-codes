@@ -1,6 +1,8 @@
-zip_code = "24604"
-state = "VA"
 city = "Bishop"
 county = "Tazewell"
-longitude = -81.557499
 latitude = 37.203317
+longitude = -81.557499
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24604"
+

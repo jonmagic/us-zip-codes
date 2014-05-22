@@ -1,6 +1,8 @@
-zip_code = "14042"
-state = "NY"
 city = "Delevan"
 county = "Cattaraugus"
-longitude = -78.494065
 latitude = 42.473934
+longitude = -78.494065
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14042"
+

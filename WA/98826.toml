@@ -1,6 +1,8 @@
-zip_code = "98826"
-state = "WA"
 city = "Leavenworth"
 county = "Chelan"
-longitude = -120.799413
 latitude = 47.695101
+longitude = -120.799413
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98826"
+

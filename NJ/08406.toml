@@ -1,6 +1,8 @@
-zip_code = "08406"
-state = "NJ"
 city = "Ventnor City"
 county = "Atlantic"
-longitude = -74.66415
 latitude = 39.414646
+longitude = -74.66415
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08406"
+

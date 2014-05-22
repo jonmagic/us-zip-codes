@@ -1,6 +1,8 @@
-zip_code = "02812"
-state = "RI"
 city = "Carolina"
 county = "Washington"
-longitude = -71.675092
 latitude = 41.469148
+longitude = -71.675092
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02812"
+

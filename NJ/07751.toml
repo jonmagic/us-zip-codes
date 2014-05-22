@@ -1,6 +1,8 @@
-zip_code = "07751"
-state = "NJ"
 city = "Morganville"
 county = "Monmouth"
-longitude = -74.214488
 latitude = 40.319979
+longitude = -74.214488
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07751"
+

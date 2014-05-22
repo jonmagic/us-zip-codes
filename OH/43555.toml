@@ -1,6 +1,8 @@
-zip_code = "43555"
-state = "OH"
 city = "Ridgeville Corners"
 county = "Henry"
-longitude = -84.254414
 latitude = 41.435059
+longitude = -84.254414
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43555"
+

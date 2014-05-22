@@ -1,6 +1,8 @@
-zip_code = "72342"
-state = "AR"
 city = "Helena"
 county = "Phillips"
-longitude = -90.751249
 latitude = 34.45192
+longitude = -90.751249
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72342"
+

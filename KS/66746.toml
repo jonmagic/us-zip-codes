@@ -1,6 +1,8 @@
-zip_code = "66746"
-state = "KS"
 city = "Hepler"
 county = "Crawford"
-longitude = -94.942113
 latitude = 37.638333
+longitude = -94.942113
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66746"
+

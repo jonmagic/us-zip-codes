@@ -1,6 +1,8 @@
-zip_code = "14745"
-state = "NY"
 city = "Hume"
 county = "Allegany"
-longitude = -78.140343
 latitude = 42.4777
+longitude = -78.140343
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14745"
+

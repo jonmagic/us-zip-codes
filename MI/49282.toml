@@ -1,6 +1,8 @@
-zip_code = "49282"
-state = "MI"
 city = "Somerset Center"
 county = "Hillsdale"
-longitude = -84.392191
 latitude = 42.050199
+longitude = -84.392191
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49282"
+

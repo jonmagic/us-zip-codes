@@ -1,6 +1,8 @@
-zip_code = "54009"
-state = "WI"
 city = "Dresser"
 county = "Polk"
-longitude = -92.549952
 latitude = 45.36179
+longitude = -92.549952
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54009"
+

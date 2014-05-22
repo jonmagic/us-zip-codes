@@ -1,6 +1,8 @@
-zip_code = "48755"
-state = "MI"
 city = "Pigeon"
 county = "Huron"
-longitude = -83.241886
 latitude = 43.84452
+longitude = -83.241886
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48755"
+

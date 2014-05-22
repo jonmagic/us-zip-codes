@@ -1,6 +1,8 @@
-zip_code = "66550"
-state = "KS"
 city = "Wetmore"
 county = "Nemaha"
-longitude = -95.811894
 latitude = 39.636115
+longitude = -95.811894
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66550"
+

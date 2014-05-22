@@ -1,6 +1,8 @@
-zip_code = "37018"
-state = "TN"
 city = "Beechgrove"
 county = "Coffee"
-longitude = -86.183248
 latitude = 35.643787
+longitude = -86.183248
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37018"
+

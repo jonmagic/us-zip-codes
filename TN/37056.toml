@@ -1,6 +1,8 @@
-zip_code = "37056"
-state = "TN"
 city = "Dickson"
 county = "Dickson"
-longitude = -87.352971
 latitude = 36.146949
+longitude = -87.352971
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37056"
+

@@ -1,6 +1,8 @@
-zip_code = "24090"
-state = "VA"
 city = "Fincastle"
 county = "Botetourt"
-longitude = -79.834474
 latitude = 37.527349
+longitude = -79.834474
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24090"
+

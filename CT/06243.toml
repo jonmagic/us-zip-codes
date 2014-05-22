@@ -1,6 +1,8 @@
-zip_code = "06243"
-state = "CT"
 city = "East Killingly"
 county = "Windham"
-longitude = -71.818941
 latitude = 41.844885
+longitude = -71.818941
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06243"
+

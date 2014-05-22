@@ -1,6 +1,8 @@
-zip_code = "13302"
-state = "NY"
 city = "Altmar"
 county = "Oswego"
-longitude = -75.988154
 latitude = 43.497512
+longitude = -75.988154
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13302"
+

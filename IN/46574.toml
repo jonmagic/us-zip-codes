@@ -1,6 +1,8 @@
-zip_code = "46574"
-state = "IN"
 city = "Walkerton"
 county = "St Joseph"
-longitude = -86.446734
 latitude = 41.488957
+longitude = -86.446734
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46574"
+

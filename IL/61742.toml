@@ -1,6 +1,8 @@
-zip_code = "61742"
-state = "IL"
 city = "Goodfield"
 county = "Woodford"
-longitude = -89.289652
 latitude = 40.661248
+longitude = -89.289652
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61742"
+

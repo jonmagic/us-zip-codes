@@ -1,6 +1,8 @@
-zip_code = "29074"
-state = "SC"
 city = "Liberty Hill"
 county = "Kershaw"
-longitude = -80.789236
 latitude = 34.456984
+longitude = -80.789236
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29074"
+

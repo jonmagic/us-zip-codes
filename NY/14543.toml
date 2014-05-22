@@ -1,6 +1,8 @@
-zip_code = "14543"
-state = "NY"
 city = "Rush"
 county = "Monroe"
-longitude = -77.666524
 latitude = 42.996613
+longitude = -77.666524
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14543"
+

@@ -1,6 +1,8 @@
-zip_code = "28457"
-state = "NC"
 city = "Rocky Point"
 county = "Pender"
-longitude = -77.816971
 latitude = 34.477635
+longitude = -77.816971
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28457"
+

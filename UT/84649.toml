@@ -1,6 +1,8 @@
-zip_code = "84649"
-state = "UT"
 city = "Oak City"
 county = "Millard"
-longitude = -112.328797
 latitude = 39.372902
+longitude = -112.328797
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84649"
+

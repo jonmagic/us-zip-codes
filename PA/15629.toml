@@ -1,6 +1,8 @@
-zip_code = "15629"
-state = "PA"
 city = "East Vandergrift"
 county = "Westmoreland"
-longitude = -79.562383
 latitude = 40.598047
+longitude = -79.562383
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15629"
+

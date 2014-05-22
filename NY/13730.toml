@@ -1,6 +1,8 @@
-zip_code = "13730"
-state = "NY"
 city = "Afton"
 county = "Chenango"
-longitude = -75.533335
 latitude = 42.255147
+longitude = -75.533335
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13730"
+

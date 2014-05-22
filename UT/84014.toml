@@ -1,6 +1,8 @@
-zip_code = "84014"
-state = "UT"
 city = "Centerville"
 county = "Davis"
-longitude = -111.889651
 latitude = 40.929547
+longitude = -111.889651
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84014"
+

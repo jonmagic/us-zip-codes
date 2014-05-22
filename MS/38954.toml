@@ -1,6 +1,8 @@
-zip_code = "38954"
-state = "MS"
 city = "Sidon"
 county = "Carroll"
-longitude = -89.910076
 latitude = 33.445684
+longitude = -89.910076
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38954"
+

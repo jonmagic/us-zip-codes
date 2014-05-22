@@ -1,6 +1,8 @@
-zip_code = "73455"
-state = "OK"
 city = "Ravia"
 county = "Johnston"
-longitude = -96.752906
 latitude = 34.244023
+longitude = -96.752906
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73455"
+

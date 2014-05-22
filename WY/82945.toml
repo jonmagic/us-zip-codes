@@ -1,6 +1,8 @@
-zip_code = "82945"
-state = "WY"
 city = "Superior"
 county = "Sweetwater"
-longitude = -108.968062
 latitude = 41.7643
+longitude = -108.968062
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82945"
+

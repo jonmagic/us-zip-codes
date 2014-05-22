@@ -1,6 +1,8 @@
-zip_code = "62888"
-state = "IL"
 city = "Tamaroa"
 county = "Perry"
-longitude = -89.217309
 latitude = 38.133323
+longitude = -89.217309
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62888"
+

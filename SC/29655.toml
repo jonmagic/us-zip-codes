@@ -1,6 +1,8 @@
-zip_code = "29655"
-state = "SC"
 city = "Iva"
 county = "Anderson"
-longitude = -82.608768
 latitude = 34.420766
+longitude = -82.608768
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29655"
+

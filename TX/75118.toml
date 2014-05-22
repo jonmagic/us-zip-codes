@@ -1,6 +1,8 @@
-zip_code = "75118"
-state = "TX"
 city = "Elmo"
 county = "Kaufman"
-longitude = -96.302743
 latitude = 32.599614
+longitude = -96.302743
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75118"
+

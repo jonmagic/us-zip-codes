@@ -1,6 +1,8 @@
-zip_code = "67009"
-state = "KS"
 city = "Attica"
 county = "Harper"
-longitude = -98.210087
 latitude = 37.224885
+longitude = -98.210087
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67009"
+

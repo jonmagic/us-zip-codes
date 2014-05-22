@@ -1,6 +1,8 @@
-zip_code = "77655"
-state = "TX"
 city = "Sabine Pass"
 county = "Jefferson"
-longitude = -94.091127
 latitude = 29.782283
+longitude = -94.091127
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77655"
+

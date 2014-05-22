@@ -1,6 +1,8 @@
-zip_code = "68748"
-state = "NE"
 city = "Madison"
 county = "Madison"
-longitude = -97.48448
 latitude = 41.881046
+longitude = -97.48448
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68748"
+

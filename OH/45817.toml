@@ -1,6 +1,8 @@
-zip_code = "45817"
-state = "OH"
 city = "Bluffton"
 county = "Allen"
-longitude = -83.928268
 latitude = 40.78635
+longitude = -83.928268
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45817"
+

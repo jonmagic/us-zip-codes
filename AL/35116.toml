@@ -1,6 +1,8 @@
-zip_code = "35116"
-state = "AL"
 city = "Morris"
 county = "Jefferson"
-longitude = -86.763967
 latitude = 33.727106
+longitude = -86.763967
+state = ""
+state_code_alpha2 = ""
+zip_code = "35116"
+

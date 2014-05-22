@@ -1,6 +1,8 @@
-zip_code = "74556"
-state = "OK"
 city = "Lehigh"
 county = "Coal"
-longitude = -96.303069
 latitude = 34.592949
+longitude = -96.303069
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74556"
+

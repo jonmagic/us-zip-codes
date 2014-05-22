@@ -1,6 +1,8 @@
-zip_code = "37809"
-state = "TN"
 city = "Midway"
 county = "Greene"
-longitude = -82.994077
 latitude = 36.154227
+longitude = -82.994077
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37809"
+

@@ -1,6 +1,8 @@
-zip_code = "59024"
-state = "MT"
 city = "Custer"
 county = "Yellowstone"
-longitude = -107.693279
 latitude = 46.212579
+longitude = -107.693279
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59024"
+

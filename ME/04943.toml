@@ -1,6 +1,8 @@
-zip_code = "04943"
-state = "ME"
 city = "Hartland"
 county = "Somerset"
-longitude = -69.464092
 latitude = 44.896404
+longitude = -69.464092
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04943"
+

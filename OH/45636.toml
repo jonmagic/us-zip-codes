@@ -1,6 +1,8 @@
-zip_code = "45636"
-state = "OH"
 city = "Haverhill"
 county = "Scioto"
-longitude = -82.828817
 latitude = 38.592446
+longitude = -82.828817
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45636"
+

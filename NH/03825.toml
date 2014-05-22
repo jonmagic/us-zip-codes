@@ -1,6 +1,8 @@
-zip_code = "03825"
-state = "NH"
 city = "Barrington"
 county = "Strafford"
-longitude = -71.097423
 latitude = 43.29779
+longitude = -71.097423
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03825"
+

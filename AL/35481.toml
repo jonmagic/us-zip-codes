@@ -1,6 +1,8 @@
-zip_code = "35481"
-state = "AL"
 city = "Reform"
 county = "Pickens"
-longitude = -88.042923
 latitude = 33.314928
+longitude = -88.042923
+state = ""
+state_code_alpha2 = ""
+zip_code = "35481"
+

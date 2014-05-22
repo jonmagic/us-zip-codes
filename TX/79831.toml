@@ -1,6 +1,8 @@
-zip_code = "79831"
-state = "TX"
 city = "Alpine"
 county = "Brewster"
-longitude = -103.70439
 latitude = 30.436562
+longitude = -103.70439
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79831"
+

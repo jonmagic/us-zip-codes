@@ -1,6 +1,8 @@
-zip_code = "65322"
-state = "MO"
 city = "Blackwater"
 county = "Cooper"
-longitude = -92.868132
 latitude = 38.940391
+longitude = -92.868132
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65322"
+

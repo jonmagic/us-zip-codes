@@ -1,6 +1,8 @@
-zip_code = "24226"
-state = "VA"
 city = "Clinchco"
 county = "Dickenson"
-longitude = -82.358274
 latitude = 37.159677
+longitude = -82.358274
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24226"
+

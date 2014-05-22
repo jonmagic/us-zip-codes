@@ -1,6 +1,8 @@
-zip_code = "44880"
-state = "OH"
 city = "Sullivan"
 county = "Ashland"
-longitude = -82.242915
 latitude = 41.028371
+longitude = -82.242915
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44880"
+

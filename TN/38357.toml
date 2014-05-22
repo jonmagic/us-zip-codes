@@ -1,6 +1,8 @@
-zip_code = "38357"
-state = "TN"
 city = "Michie"
 county = "Mcnairy"
-longitude = -88.565035
 latitude = 35.139103
+longitude = -88.565035
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38357"
+

@@ -1,6 +1,8 @@
-zip_code = "28425"
-state = "NC"
 city = "Burgaw"
 county = "Pender"
-longitude = -77.937122
 latitude = 34.546108
+longitude = -77.937122
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28425"
+

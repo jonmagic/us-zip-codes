@@ -1,6 +1,8 @@
-zip_code = "02703"
-state = "MA"
 city = "Attleboro"
 county = "Bristol"
-longitude = -71.302297
 latitude = 41.938976
+longitude = -71.302297
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02703"
+

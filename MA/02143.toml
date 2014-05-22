@@ -1,6 +1,8 @@
-zip_code = "02143"
-state = "MA"
 city = "Somerville"
 county = "Middlesex"
-longitude = -71.098896
 latitude = 42.38092
+longitude = -71.098896
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02143"
+

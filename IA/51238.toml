@@ -1,6 +1,8 @@
-zip_code = "51238"
-state = "IA"
 city = "Hospers"
 county = "Sioux"
-longitude = -95.938839
 latitude = 43.07719
+longitude = -95.938839
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51238"
+

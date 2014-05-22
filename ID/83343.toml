@@ -1,6 +1,8 @@
-zip_code = "83343"
-state = "ID"
 city = "Minidoka"
 county = "Minidoka"
-longitude = -113.509762
 latitude = 42.772955
+longitude = -113.509762
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83343"
+

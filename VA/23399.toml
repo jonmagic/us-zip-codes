@@ -1,6 +1,8 @@
-zip_code = "23399"
-state = "VA"
 city = "Jenkins Bridge"
 county = "Accomack"
-longitude = -75.616754
 latitude = 37.916218
+longitude = -75.616754
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23399"
+

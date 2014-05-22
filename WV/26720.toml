@@ -1,6 +1,8 @@
-zip_code = "26720"
-state = "WV"
 city = "Gormania"
 county = "Grant"
-longitude = -79.233536
 latitude = 39.070601
+longitude = -79.233536
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26720"
+

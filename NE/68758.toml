@@ -1,6 +1,8 @@
-zip_code = "68758"
-state = "NE"
 city = "Newman Grove"
 county = "Madison"
-longitude = -97.777198
 latitude = 41.747884
+longitude = -97.777198
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68758"
+

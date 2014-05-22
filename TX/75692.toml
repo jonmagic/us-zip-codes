@@ -1,6 +1,8 @@
-zip_code = "75692"
-state = "TX"
 city = "Waskom"
 county = "Harrison"
-longitude = -94.135507
 latitude = 32.518392
+longitude = -94.135507
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75692"
+

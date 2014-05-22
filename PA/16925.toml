@@ -1,6 +1,8 @@
-zip_code = "16925"
-state = "PA"
 city = "Gillett"
 county = "Bradford"
-longitude = -76.800579
 latitude = 41.938208
+longitude = -76.800579
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16925"
+

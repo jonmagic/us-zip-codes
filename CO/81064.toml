@@ -1,6 +1,8 @@
-zip_code = "81064"
-state = "CO"
 city = "Pritchett"
 county = "Baca"
-longitude = -102.914489
 latitude = 37.272262
+longitude = -102.914489
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81064"
+

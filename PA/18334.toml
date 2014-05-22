@@ -1,6 +1,8 @@
-zip_code = "18334"
-state = "PA"
 city = "Long Pond"
 county = "Monroe"
-longitude = -75.465137
 latitude = 41.057236
+longitude = -75.465137
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18334"
+

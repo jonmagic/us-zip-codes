@@ -1,6 +1,8 @@
-zip_code = "93633"
-state = "CA"
 city = "Kings Canyon National Pk"
 county = "Tulare"
-longitude = -118.958777
 latitude = 36.734051
+longitude = -118.958777
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93633"
+

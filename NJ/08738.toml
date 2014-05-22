@@ -1,6 +1,8 @@
-zip_code = "08738"
-state = "NJ"
 city = "Mantoloking"
 county = "Ocean"
-longitude = -74.05688
 latitude = 40.029916
+longitude = -74.05688
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08738"
+

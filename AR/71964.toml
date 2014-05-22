@@ -1,6 +1,8 @@
-zip_code = "71964"
-state = "AR"
 city = "Pearcy"
 county = "Garland"
-longitude = -93.249203
 latitude = 34.431902
+longitude = -93.249203
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71964"
+

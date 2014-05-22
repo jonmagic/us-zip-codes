@@ -1,6 +1,8 @@
-zip_code = "82834"
-state = "WY"
 city = "Buffalo"
 county = "Johnson"
-longitude = -106.561068
 latitude = 44.122611
+longitude = -106.561068
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82834"
+

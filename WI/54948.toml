@@ -1,6 +1,8 @@
-zip_code = "54948"
-state = "WI"
 city = "Leopolis"
 county = "Shawano"
-longitude = -88.890714
 latitude = 44.781006
+longitude = -88.890714
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54948"
+

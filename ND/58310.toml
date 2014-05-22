@@ -1,6 +1,8 @@
-zip_code = "58310"
-state = "ND"
 city = "Agate"
 county = "Rolette"
-longitude = -99.772702
 latitude = 48.770913
+longitude = -99.772702
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58310"
+

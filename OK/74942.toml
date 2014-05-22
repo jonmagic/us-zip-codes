@@ -1,6 +1,8 @@
-zip_code = "74942"
-state = "OK"
 city = "Leflore"
 county = "Le Flore"
-longitude = -94.975763
 latitude = 34.897872
+longitude = -94.975763
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74942"
+

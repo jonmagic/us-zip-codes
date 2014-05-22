@@ -1,6 +1,8 @@
-zip_code = "17701"
-state = "PA"
 city = "Williamsport"
 county = "Lycoming"
-longitude = -76.958314
 latitude = 41.266716
+longitude = -76.958314
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17701"
+

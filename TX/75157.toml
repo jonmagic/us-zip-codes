@@ -1,6 +1,8 @@
-zip_code = "75157"
-state = "TX"
 city = "Rosser"
 county = "Kaufman"
-longitude = -96.439495
 latitude = 32.455407
+longitude = -96.439495
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75157"
+

@@ -1,6 +1,8 @@
-zip_code = "06081"
-state = "CT"
 city = "Tariffville"
 county = "Hartford"
-longitude = -72.767239
 latitude = 41.905269
+longitude = -72.767239
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06081"
+

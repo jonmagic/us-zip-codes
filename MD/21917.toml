@@ -1,6 +1,8 @@
-zip_code = "21917"
-state = "MD"
 city = "Colora"
 county = "Cecil"
-longitude = -76.003452
 latitude = 39.537261
+longitude = -76.003452
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21917"
+

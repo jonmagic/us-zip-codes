@@ -1,6 +1,8 @@
-zip_code = "45382"
-state = "OH"
 city = "West Manchester"
 county = "Preble"
-longitude = -84.621617
 latitude = 39.88133
+longitude = -84.621617
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45382"
+

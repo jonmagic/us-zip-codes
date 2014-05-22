@@ -1,6 +1,8 @@
-zip_code = "38953"
-state = "MS"
 city = "Scobey"
 county = "Yalobusha"
-longitude = -89.719526
 latitude = 34.029737
+longitude = -89.719526
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38953"
+

@@ -1,6 +1,8 @@
-zip_code = "69348"
-state = "NE"
 city = "Hemingford"
 county = "Box Butte"
-longitude = -103.097258
 latitude = 42.314537
+longitude = -103.097258
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69348"
+

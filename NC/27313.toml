@@ -1,6 +1,8 @@
-zip_code = "27313"
-state = "NC"
 city = "Pleasant Garden"
 county = "Guilford"
-longitude = -79.765959
 latitude = 35.950913
+longitude = -79.765959
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27313"
+

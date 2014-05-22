@@ -1,6 +1,8 @@
-zip_code = "44254"
-state = "OH"
 city = "Lodi"
 county = "Medina"
-longitude = -81.992065
 latitude = 41.044913
+longitude = -81.992065
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44254"
+

@@ -1,6 +1,8 @@
-zip_code = "24569"
-state = "VA"
 city = "Long Island"
 county = "Campbell"
-longitude = -79.081614
 latitude = 37.093523
+longitude = -79.081614
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24569"
+

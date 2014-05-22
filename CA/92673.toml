@@ -1,6 +1,8 @@
-zip_code = "92673"
-state = "CA"
 city = "San Clemente"
 county = "Orange"
-longitude = -117.625076
 latitude = 33.459745
+longitude = -117.625076
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92673"
+

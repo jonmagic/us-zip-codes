@@ -1,6 +1,8 @@
-zip_code = "30079"
-state = "GA"
 city = "Scottdale"
 county = "Dekalb"
-longitude = -84.258421
 latitude = 33.793491
+longitude = -84.258421
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30079"
+

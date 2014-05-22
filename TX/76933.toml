@@ -1,6 +1,8 @@
-zip_code = "76933"
-state = "TX"
 city = "Bronte"
 county = "Coke"
-longitude = -100.343161
 latitude = 31.854544
+longitude = -100.343161
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76933"
+

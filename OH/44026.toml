@@ -1,6 +1,8 @@
-zip_code = "44026"
-state = "OH"
 city = "Chesterland"
 county = "Geauga"
-longitude = -81.307472
 latitude = 41.530351
+longitude = -81.307472
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44026"
+

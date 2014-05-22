@@ -1,6 +1,8 @@
-zip_code = "08069"
-state = "NJ"
 city = "Penns Grove"
 county = "Salem"
-longitude = -75.288423
 latitude = 39.619937
+longitude = -75.288423
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08069"
+

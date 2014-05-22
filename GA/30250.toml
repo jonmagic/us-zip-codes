@@ -1,6 +1,8 @@
-zip_code = "30250"
-state = "GA"
 city = "Lovejoy"
 county = "Clayton"
-longitude = -84.313582
 latitude = 33.442909
+longitude = -84.313582
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30250"
+

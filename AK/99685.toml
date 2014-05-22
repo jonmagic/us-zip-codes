@@ -1,6 +1,8 @@
-zip_code = "99685"
-state = "AK"
 city = "Unalaska"
 county = "Aleutians West"
-longitude = -166.518069
 latitude = 53.85513
+longitude = -166.518069
+state = ""
+state_code_alpha2 = ""
+zip_code = "99685"
+

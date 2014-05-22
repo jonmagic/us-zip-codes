@@ -1,6 +1,8 @@
-zip_code = "72412"
-state = "AR"
 city = "Beech Grove"
 county = "Greene"
-longitude = -90.691421
 latitude = 36.128069
+longitude = -90.691421
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72412"
+

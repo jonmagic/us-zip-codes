@@ -1,6 +1,8 @@
-zip_code = "14561"
-state = "NY"
 city = "Stanley"
 county = "Ontario"
-longitude = -77.129398
 latitude = 42.83336
+longitude = -77.129398
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14561"
+

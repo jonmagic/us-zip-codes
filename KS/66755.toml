@@ -1,6 +1,8 @@
-zip_code = "66755"
-state = "KS"
 city = "Moran"
 county = "Allen"
-longitude = -95.197671
 latitude = 37.914394
+longitude = -95.197671
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66755"
+

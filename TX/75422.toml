@@ -1,6 +1,8 @@
-zip_code = "75422"
-state = "TX"
 city = "Campbell"
 county = "Hunt"
-longitude = -95.934428
 latitude = 33.12254
+longitude = -95.934428
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75422"
+

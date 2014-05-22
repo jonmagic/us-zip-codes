@@ -1,6 +1,8 @@
-zip_code = "65336"
-state = "MO"
 city = "Knob Noster"
 county = "Johnson"
-longitude = -93.582884
 latitude = 38.743365
+longitude = -93.582884
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65336"
+

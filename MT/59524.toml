@@ -1,6 +1,8 @@
-zip_code = "59524"
-state = "MT"
 city = "Dodson"
 county = "Phillips"
-longitude = -108.246539
 latitude = 48.394962
+longitude = -108.246539
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59524"
+

@@ -1,6 +1,8 @@
-zip_code = "43351"
-state = "OH"
 city = "Upper Sandusky"
 county = "Wyandot"
-longitude = -83.313786
 latitude = 40.828153
+longitude = -83.313786
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43351"
+

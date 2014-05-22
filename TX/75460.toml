@@ -1,6 +1,8 @@
-zip_code = "75460"
-state = "TX"
 city = "Paris"
 county = "Lamar"
-longitude = -95.464896
 latitude = 33.612433
+longitude = -95.464896
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75460"
+

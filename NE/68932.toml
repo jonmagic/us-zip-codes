@@ -1,6 +1,8 @@
-zip_code = "68932"
-state = "NE"
 city = "Campbell"
 county = "Franklin"
-longitude = -98.814655
 latitude = 40.306364
+longitude = -98.814655
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68932"
+

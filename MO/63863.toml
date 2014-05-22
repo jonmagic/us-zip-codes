@@ -1,6 +1,8 @@
-zip_code = "63863"
-state = "MO"
 city = "Malden"
 county = "Dunklin"
-longitude = -90.057096
 latitude = 36.377184
+longitude = -90.057096
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63863"
+

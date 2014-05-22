@@ -1,6 +1,8 @@
-zip_code = "23420"
-state = "VA"
 city = "Painter"
 county = "Accomack"
-longitude = -75.832274
 latitude = 37.59081
+longitude = -75.832274
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23420"
+

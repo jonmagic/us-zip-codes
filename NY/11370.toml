@@ -1,6 +1,8 @@
-zip_code = "11370"
-state = "NY"
 city = "East Elmhurst"
 county = "Queens"
-longitude = -73.891451
 latitude = 40.763771
+longitude = -73.891451
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11370"
+

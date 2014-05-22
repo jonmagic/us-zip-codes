@@ -1,6 +1,8 @@
-zip_code = "52251"
-state = "IA"
 city = "Ladora"
 county = "Iowa"
-longitude = -92.189413
 latitude = 41.710377
+longitude = -92.189413
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52251"
+

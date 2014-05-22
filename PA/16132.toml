@@ -1,6 +1,8 @@
-zip_code = "16132"
-state = "PA"
 city = "Hillsville"
 county = "Lawrence"
-longitude = -80.497546
 latitude = 41.011263
+longitude = -80.497546
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16132"
+

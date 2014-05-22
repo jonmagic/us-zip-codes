@@ -1,6 +1,8 @@
-zip_code = "79005"
-state = "TX"
 city = "Booker"
 county = "Lipscomb"
-longitude = -100.330411
 latitude = 36.448291
+longitude = -100.330411
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79005"
+

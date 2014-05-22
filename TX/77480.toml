@@ -1,6 +1,8 @@
-zip_code = "77480"
-state = "TX"
 city = "Sweeny"
 county = "Brazoria"
-longitude = -95.744623
 latitude = 29.100012
+longitude = -95.744623
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77480"
+

@@ -1,6 +1,8 @@
-zip_code = "95950"
-state = "CA"
 city = "Grimes"
 county = "Colusa"
-longitude = -121.908208
 latitude = 39.065895
+longitude = -121.908208
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95950"
+

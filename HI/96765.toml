@@ -1,6 +1,8 @@
-zip_code = "96765"
-state = "HI"
 city = "Lawai"
 county = "Kauai"
-longitude = -159.499342
 latitude = 21.930922
+longitude = -159.499342
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96765"
+

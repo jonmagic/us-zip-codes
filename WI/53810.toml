@@ -1,6 +1,8 @@
-zip_code = "53810"
-state = "WI"
 city = "Glen Haven"
 county = "Grant"
-longitude = -90.982153
 latitude = 42.822065
+longitude = -90.982153
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53810"
+

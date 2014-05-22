@@ -1,6 +1,8 @@
-zip_code = "08540"
-state = "NJ"
 city = "Princeton"
 county = "Mercer"
-longitude = -74.693953
 latitude = 40.343625
+longitude = -74.693953
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08540"
+

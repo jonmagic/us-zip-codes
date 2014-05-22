@@ -1,6 +1,8 @@
-zip_code = "98619"
-state = "WA"
 city = "Glenwood"
 county = "Klickitat"
-longitude = -121.282054
 latitude = 45.989951
+longitude = -121.282054
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98619"
+

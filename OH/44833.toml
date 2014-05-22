@@ -1,6 +1,8 @@
-zip_code = "44833"
-state = "OH"
 city = "Galion"
 county = "Crawford"
-longitude = -82.823
 latitude = 40.746972
+longitude = -82.823
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44833"
+

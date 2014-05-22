@@ -1,6 +1,8 @@
-zip_code = "83601"
-state = "ID"
 city = "Atlanta"
 county = "Elmore"
-longitude = -115.253751
 latitude = 43.847915
+longitude = -115.253751
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83601"
+

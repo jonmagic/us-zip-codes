@@ -1,6 +1,8 @@
-zip_code = "55372"
-state = "MN"
 city = "Prior Lake"
 county = "Scott"
-longitude = -93.464428
 latitude = 44.682763
+longitude = -93.464428
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55372"
+

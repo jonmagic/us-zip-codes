@@ -1,6 +1,8 @@
-zip_code = "05079"
-state = "VT"
 city = "Vershire"
 county = "Orange"
-longitude = -72.311252
 latitude = 43.952586
+longitude = -72.311252
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05079"
+

@@ -1,6 +1,8 @@
-zip_code = "45659"
-state = "OH"
 city = "Pedro"
 county = "Lawrence"
-longitude = -82.614563
 latitude = 38.674554
+longitude = -82.614563
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45659"
+

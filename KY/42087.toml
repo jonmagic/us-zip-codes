@@ -1,6 +1,8 @@
-zip_code = "42087"
-state = "KY"
 city = "Wickliffe"
 county = "Ballard"
-longitude = -88.961579
 latitude = 37.056862
+longitude = -88.961579
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42087"
+

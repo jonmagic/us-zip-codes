@@ -1,6 +1,8 @@
-zip_code = "12062"
-state = "NY"
 city = "East Nassau"
 county = "Rensselaer"
-longitude = -73.503877
 latitude = 42.537218
+longitude = -73.503877
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12062"
+

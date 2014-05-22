@@ -1,6 +1,8 @@
-zip_code = "29934"
-state = "SC"
 city = "Pineland"
 county = "Jasper"
-longitude = -81.061485
 latitude = 32.271811
+longitude = -81.061485
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29934"
+

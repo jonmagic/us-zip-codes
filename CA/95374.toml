@@ -1,6 +1,8 @@
-zip_code = "95374"
-state = "CA"
 city = "Stevinson"
 county = "Merced"
-longitude = -120.864936
 latitude = 37.324536
+longitude = -120.864936
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95374"
+

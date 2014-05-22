@@ -1,6 +1,8 @@
-zip_code = "17730"
-state = "PA"
 city = "Dewart"
 county = "Northumberland"
-longitude = -76.877491
 latitude = 41.10891
+longitude = -76.877491
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17730"
+

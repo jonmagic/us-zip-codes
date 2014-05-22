@@ -1,6 +1,8 @@
-zip_code = "94915"
-state = "CA"
 city = "San Rafael"
 county = "Marin"
-longitude = -122.55944
 latitude = 38.07392
+longitude = -122.55944
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94915"
+

@@ -1,6 +1,8 @@
-zip_code = "15443"
-state = "PA"
 city = "Hibbs"
 county = "Fayette"
-longitude = -79.901324
 latitude = 39.926347
+longitude = -79.901324
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15443"
+

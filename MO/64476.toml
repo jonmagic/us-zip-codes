@@ -1,6 +1,8 @@
-zip_code = "64476"
-state = "MO"
 city = "Pickering"
 county = "Nodaway"
-longitude = -94.900456
 latitude = 40.352306
+longitude = -94.900456
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64476"
+

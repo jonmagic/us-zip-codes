@@ -1,6 +1,8 @@
-zip_code = "00735"
-state = "PR"
 city = "Ceiba"
 county = "Ceiba"
-longitude = -65.594769
 latitude = 18.264872
+longitude = -65.594769
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00735"
+

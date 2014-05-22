@@ -1,6 +1,8 @@
-zip_code = "23301"
-state = "VA"
 city = "Accomac"
 county = "Accomack"
-longitude = -75.661132
 latitude = 37.712919
+longitude = -75.661132
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23301"
+

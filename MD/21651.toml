@@ -1,6 +1,8 @@
-zip_code = "21651"
-state = "MD"
 city = "Millington"
 county = "Kent"
-longitude = -75.895115
 latitude = 39.274314
+longitude = -75.895115
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21651"
+

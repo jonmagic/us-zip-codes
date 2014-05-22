@@ -1,6 +1,8 @@
-zip_code = "07879"
-state = "NJ"
 city = "Tranquility"
 county = "Sussex"
-longitude = -74.788108
 latitude = 40.955934
+longitude = -74.788108
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07879"
+

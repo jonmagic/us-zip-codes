@@ -1,6 +1,8 @@
-zip_code = "79114"
-state = "TX"
 city = "Amarillo"
 county = "Randall"
-longitude = -101.817485
 latitude = 35.050003
+longitude = -101.817485
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79114"
+

@@ -1,6 +1,8 @@
-zip_code = "61851"
-state = "IL"
 city = "Ivesdale"
 county = "Champaign"
-longitude = -88.25522
 latitude = 39.959789
+longitude = -88.25522
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61851"
+

@@ -1,6 +1,8 @@
-zip_code = "31768"
-state = "GA"
 city = "Moultrie"
 county = "Colquitt"
-longitude = -83.789698
 latitude = 31.183438
+longitude = -83.789698
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31768"
+

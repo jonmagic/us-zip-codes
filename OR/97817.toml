@@ -1,6 +1,8 @@
-zip_code = "97817"
-state = "OR"
 city = "Bates"
 county = "Grant"
-longitude = -118.947769
 latitude = 44.477794
+longitude = -118.947769
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97817"
+

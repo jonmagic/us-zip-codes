@@ -1,6 +1,8 @@
-zip_code = "51442"
-state = "IA"
 city = "Denison"
 county = "Crawford"
-longitude = -95.381819
 latitude = 42.037235
+longitude = -95.381819
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51442"
+

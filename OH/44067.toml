@@ -1,6 +1,8 @@
-zip_code = "44067"
-state = "OH"
 city = "Northfield"
 county = "Summit"
-longitude = -81.54079
 latitude = 41.306454
+longitude = -81.54079
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44067"
+

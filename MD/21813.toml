@@ -1,6 +1,8 @@
-zip_code = "21813"
-state = "MD"
 city = "Bishopville"
 county = "Worcester"
-longitude = -75.19596
 latitude = 38.421121
+longitude = -75.19596
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21813"
+

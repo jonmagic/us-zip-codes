@@ -1,6 +1,8 @@
-zip_code = "49442"
-state = "MI"
 city = "Muskegon"
 county = "Muskegon"
-longitude = -86.14768
 latitude = 43.237314
+longitude = -86.14768
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49442"
+

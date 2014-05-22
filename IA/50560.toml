@@ -1,6 +1,8 @@
-zip_code = "50560"
-state = "IA"
 city = "Lu Verne"
 county = "Kossuth"
-longitude = -94.124477
 latitude = 42.976166
+longitude = -94.124477
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50560"
+

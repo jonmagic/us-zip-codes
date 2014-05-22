@@ -1,6 +1,8 @@
-zip_code = "74701"
-state = "OK"
 city = "Durant"
 county = "Bryan"
-longitude = -96.321428
 latitude = 34.044944
+longitude = -96.321428
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74701"
+

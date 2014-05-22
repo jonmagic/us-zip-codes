@@ -1,6 +1,8 @@
-zip_code = "30138"
-state = "GA"
 city = "Esom Hill"
 county = "Polk"
-longitude = -85.172297
 latitude = 33.99994
+longitude = -85.172297
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30138"
+

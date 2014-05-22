@@ -1,6 +1,8 @@
-zip_code = "12766"
-state = "NY"
 city = "North Branch"
 county = "Sullivan"
-longitude = -74.995771
 latitude = 41.820897
+longitude = -74.995771
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12766"
+

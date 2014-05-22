@@ -1,6 +1,8 @@
-zip_code = "68869"
-state = "NE"
 city = "Ravenna"
 county = "Buffalo"
-longitude = -98.902302
 latitude = 40.960075
+longitude = -98.902302
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68869"
+

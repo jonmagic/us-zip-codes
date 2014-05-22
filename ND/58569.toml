@@ -1,6 +1,8 @@
-zip_code = "58569"
-state = "ND"
 city = "Shields"
 county = "Grant"
-longitude = -101.218713
 latitude = 46.244657
+longitude = -101.218713
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58569"
+

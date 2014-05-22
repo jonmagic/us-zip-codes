@@ -1,6 +1,8 @@
-zip_code = "02892"
-state = "RI"
 city = "West Kingston"
 county = "Washington"
-longitude = -71.62114
 latitude = 41.505764
+longitude = -71.62114
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02892"
+

@@ -1,6 +1,8 @@
-zip_code = "42713"
-state = "KY"
 city = "Bonnieville"
 county = "Hart"
-longitude = -85.913432
 latitude = 37.370142
+longitude = -85.913432
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42713"
+

@@ -1,6 +1,8 @@
-zip_code = "14410"
-state = "NY"
 city = "Adams Basin"
 county = "Monroe"
-longitude = -77.855883
 latitude = 43.195261
+longitude = -77.855883
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14410"
+

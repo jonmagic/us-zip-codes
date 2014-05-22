@@ -1,6 +1,8 @@
-zip_code = "58030"
-state = "ND"
 city = "Fairmount"
 county = "Richland"
-longitude = -96.907594
 latitude = 46.094599
+longitude = -96.907594
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58030"
+

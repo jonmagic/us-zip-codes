@@ -1,6 +1,8 @@
-zip_code = "49894"
-state = "MI"
 city = "Wells"
 county = "Delta"
-longitude = -87.078454
 latitude = 45.788216
+longitude = -87.078454
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49894"
+

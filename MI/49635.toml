@@ -1,6 +1,8 @@
-zip_code = "49635"
-state = "MI"
 city = "Frankfort"
 county = "Benzie"
-longitude = -86.177255
 latitude = 44.613058
+longitude = -86.177255
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49635"
+

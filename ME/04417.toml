@@ -1,6 +1,8 @@
-zip_code = "04417"
-state = "ME"
 city = "Burlington"
 county = "Penobscot"
-longitude = -68.817481
 latitude = 44.81782
+longitude = -68.817481
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04417"
+

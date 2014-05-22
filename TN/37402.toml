@@ -1,6 +1,8 @@
-zip_code = "37402"
-state = "TN"
 city = "Chattanooga"
 county = "Hamilton"
-longitude = -85.312907
 latitude = 35.046323
+longitude = -85.312907
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37402"
+

@@ -1,6 +1,8 @@
-zip_code = "27312"
-state = "NC"
 city = "Pittsboro"
 county = "Chatham"
-longitude = -79.213195
 latitude = 35.745239
+longitude = -79.213195
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27312"
+

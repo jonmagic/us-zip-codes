@@ -1,6 +1,8 @@
-zip_code = "65075"
-state = "MO"
 city = "Saint Elizabeth"
 county = "Miller"
-longitude = -92.254481
 latitude = 38.251613
+longitude = -92.254481
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65075"
+

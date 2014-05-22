@@ -1,6 +1,8 @@
-zip_code = "23115"
-state = "VA"
 city = "Millers Tavern"
 county = "Essex"
-longitude = -76.913844
 latitude = 37.836374
+longitude = -76.913844
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23115"
+

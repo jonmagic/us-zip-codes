@@ -1,6 +1,8 @@
-zip_code = "08051"
-state = "NJ"
 city = "Mantua"
 county = "Gloucester"
-longitude = -75.212842
 latitude = 39.751571
+longitude = -75.212842
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08051"
+

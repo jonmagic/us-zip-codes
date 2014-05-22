@@ -1,6 +1,8 @@
-zip_code = "16028"
-state = "PA"
 city = "East Brady"
 county = "Clarion"
-longitude = -79.615234
 latitude = 40.98399
+longitude = -79.615234
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16028"
+

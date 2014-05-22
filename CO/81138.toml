@@ -1,6 +1,8 @@
-zip_code = "81138"
-state = "CO"
 city = "Jaroso"
 county = "Costilla"
-longitude = -105.429395
 latitude = 37.197731
+longitude = -105.429395
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81138"
+

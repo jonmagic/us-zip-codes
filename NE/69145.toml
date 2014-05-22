@@ -1,6 +1,8 @@
-zip_code = "69145"
-state = "NE"
 city = "Kimball"
 county = "Kimball"
-longitude = -103.769557
 latitude = 41.206972
+longitude = -103.769557
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69145"
+

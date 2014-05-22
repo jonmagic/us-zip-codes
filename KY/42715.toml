@@ -1,6 +1,8 @@
-zip_code = "42715"
-state = "KY"
 city = "Breeding"
 county = "Adair"
-longitude = -85.403561
 latitude = 36.955287
+longitude = -85.403561
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42715"
+

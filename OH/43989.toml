@@ -1,6 +1,8 @@
-zip_code = "43989"
-state = "OH"
 city = "Short Creek"
 county = "Harrison"
-longitude = -81.102502
 latitude = 40.29649
+longitude = -81.102502
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43989"
+

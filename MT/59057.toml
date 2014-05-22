@@ -1,6 +1,8 @@
-zip_code = "59057"
-state = "MT"
 city = "Molt"
 county = "Stillwater"
-longitude = -108.911917
 latitude = 45.944684
+longitude = -108.911917
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59057"
+

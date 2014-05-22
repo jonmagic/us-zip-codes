@@ -1,6 +1,8 @@
-zip_code = "25911"
-state = "WV"
 city = "Raleigh"
 county = "Raleigh"
-longitude = -81.167549
 latitude = 37.758469
+longitude = -81.167549
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25911"
+

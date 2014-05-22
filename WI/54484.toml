@@ -1,6 +1,8 @@
-zip_code = "54484"
-state = "WI"
 city = "Stratford"
 county = "Marathon"
-longitude = -90.030674
 latitude = 44.809072
+longitude = -90.030674
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54484"
+

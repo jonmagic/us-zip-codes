@@ -1,6 +1,8 @@
-zip_code = "72428"
-state = "AR"
 city = "Etowah"
 county = "Mississippi"
-longitude = -90.183815
 latitude = 35.733677
+longitude = -90.183815
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72428"
+

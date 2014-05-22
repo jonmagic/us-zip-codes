@@ -1,6 +1,8 @@
-zip_code = "29826"
-state = "SC"
 city = "Elko"
 county = "Barnwell"
-longitude = -81.378496
 latitude = 33.38599
+longitude = -81.378496
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29826"
+

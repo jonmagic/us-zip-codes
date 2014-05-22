@@ -1,6 +1,8 @@
-zip_code = "71726"
-state = "AR"
 city = "Chidester"
 county = "Ouachita"
-longitude = -92.996873
 latitude = 33.665157
+longitude = -92.996873
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71726"
+

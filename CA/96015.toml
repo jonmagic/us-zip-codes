@@ -1,6 +1,8 @@
-zip_code = "96015"
-state = "CA"
 city = "Canby"
 county = "Modoc"
-longitude = -120.80293
 latitude = 41.458738
+longitude = -120.80293
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96015"
+

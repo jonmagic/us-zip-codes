@@ -1,6 +1,8 @@
-zip_code = "15924"
-state = "PA"
 city = "Cairnbrook"
 county = "Somerset"
-longitude = -78.7851
 latitude = 40.11492
+longitude = -78.7851
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15924"
+

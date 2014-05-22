@@ -1,6 +1,8 @@
-zip_code = "20744"
-state = "MD"
 city = "Fort Washington"
 county = "Prince Georges"
-longitude = -76.977596
 latitude = 38.757114
+longitude = -76.977596
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20744"
+

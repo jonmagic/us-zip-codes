@@ -1,6 +1,8 @@
-zip_code = "59912"
-state = "MT"
 city = "Columbia Falls"
 county = "Flathead"
-longitude = -114.345902
 latitude = 48.358322
+longitude = -114.345902
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59912"
+

@@ -1,6 +1,8 @@
-zip_code = "17007"
-state = "PA"
 city = "Boiling Springs"
 county = "Cumberland"
-longitude = -77.242351
 latitude = 40.141205
+longitude = -77.242351
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17007"
+

@@ -1,6 +1,8 @@
-zip_code = "72110"
-state = "AR"
 city = "Morrilton"
 county = "Conway"
-longitude = -92.817379
 latitude = 35.169237
+longitude = -92.817379
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72110"
+

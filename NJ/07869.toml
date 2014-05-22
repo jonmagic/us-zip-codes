@@ -1,6 +1,8 @@
-zip_code = "07869"
-state = "NJ"
 city = "Randolph"
 county = "Morris"
-longitude = -74.586052
 latitude = 40.837399
+longitude = -74.586052
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07869"
+

@@ -1,6 +1,8 @@
-zip_code = "12771"
-state = "NY"
 city = "Port Jervis"
 county = "Orange"
-longitude = -74.498396
 latitude = 41.357119
+longitude = -74.498396
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12771"
+

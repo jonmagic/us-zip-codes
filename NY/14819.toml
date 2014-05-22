@@ -1,6 +1,8 @@
-zip_code = "14819"
-state = "NY"
 city = "Cameron"
 county = "Steuben"
-longitude = -77.453509
 latitude = 42.211491
+longitude = -77.453509
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14819"
+

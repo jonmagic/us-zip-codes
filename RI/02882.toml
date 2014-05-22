@@ -1,6 +1,8 @@
-zip_code = "02882"
-state = "RI"
 city = "Narragansett"
 county = "Washington"
-longitude = -71.497793
 latitude = 41.377185
+longitude = -71.497793
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02882"
+

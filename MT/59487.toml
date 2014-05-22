@@ -1,6 +1,8 @@
-zip_code = "59487"
-state = "MT"
 city = "Vaughn"
 county = "Cascade"
-longitude = -111.637014
 latitude = 47.580761
+longitude = -111.637014
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59487"
+

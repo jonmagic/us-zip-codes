@@ -1,6 +1,8 @@
-zip_code = "04268"
-state = "ME"
 city = "Norway"
 county = "Oxford"
-longitude = -70.691576
 latitude = 44.280503
+longitude = -70.691576
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04268"
+

@@ -1,6 +1,8 @@
-zip_code = "39753"
-state = "MS"
 city = "Mayhew"
 county = "Lowndes"
-longitude = -88.640881
 latitude = 33.483814
+longitude = -88.640881
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39753"
+

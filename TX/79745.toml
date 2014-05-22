@@ -1,6 +1,8 @@
-zip_code = "79745"
-state = "TX"
 city = "Kermit"
 county = "Winkler"
-longitude = -103.1135
 latitude = 31.808357
+longitude = -103.1135
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79745"
+

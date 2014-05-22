@@ -1,6 +1,8 @@
-zip_code = "72616"
-state = "AR"
 city = "Berryville"
 county = "Carroll"
-longitude = -93.5616
 latitude = 36.316779
+longitude = -93.5616
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72616"
+

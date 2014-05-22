@@ -1,6 +1,8 @@
-zip_code = "83639"
-state = "ID"
 city = "Marsing"
 county = "Owyhee"
-longitude = -116.731362
 latitude = 43.388977
+longitude = -116.731362
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83639"
+

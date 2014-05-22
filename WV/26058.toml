@@ -1,6 +1,8 @@
-zip_code = "26058"
-state = "WV"
 city = "Short Creek"
 county = "Brooke"
-longitude = -80.599949
 latitude = 40.27932
+longitude = -80.599949
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26058"
+

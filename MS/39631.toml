@@ -1,6 +1,8 @@
-zip_code = "39631"
-state = "MS"
 city = "Centreville"
 county = "Wilkinson"
-longitude = -91.175079
 latitude = 31.134359
+longitude = -91.175079
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39631"
+

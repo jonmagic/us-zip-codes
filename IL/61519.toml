@@ -1,6 +1,8 @@
-zip_code = "61519"
-state = "IL"
 city = "Bryant"
 county = "Fulton"
-longitude = -90.091027
 latitude = 40.466267
+longitude = -90.091027
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61519"
+

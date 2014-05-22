@@ -1,6 +1,8 @@
-zip_code = "79376"
-state = "TX"
 city = "Tokio"
 county = "Yoakum"
-longitude = -102.829456
 latitude = 33.173518
+longitude = -102.829456
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79376"
+

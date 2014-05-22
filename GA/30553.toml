@@ -1,6 +1,8 @@
-zip_code = "30553"
-state = "GA"
 city = "Lavonia"
 county = "Franklin"
-longitude = -83.144241
 latitude = 34.408031
+longitude = -83.144241
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30553"
+

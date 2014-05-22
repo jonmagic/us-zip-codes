@@ -1,6 +1,8 @@
-zip_code = "71473"
-state = "LA"
 city = "Sikes"
 county = "Winn"
-longitude = -92.449469
 latitude = 32.042737
+longitude = -92.449469
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71473"
+

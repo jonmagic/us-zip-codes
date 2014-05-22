@@ -1,6 +1,8 @@
-zip_code = "93021"
-state = "CA"
 city = "Moorpark"
 county = "Ventura"
-longitude = -118.901098
 latitude = 34.301347
+longitude = -118.901098
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93021"
+

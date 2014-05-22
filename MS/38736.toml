@@ -1,6 +1,8 @@
-zip_code = "38736"
-state = "MS"
 city = "Doddsville"
 county = "Sunflower"
-longitude = -90.549626
 latitude = 33.690173
+longitude = -90.549626
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38736"
+

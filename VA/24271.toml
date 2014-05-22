@@ -1,6 +1,8 @@
-zip_code = "24271"
-state = "VA"
 city = "Nickelsville"
 county = "Scott"
-longitude = -82.399015
 latitude = 36.762954
+longitude = -82.399015
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24271"
+

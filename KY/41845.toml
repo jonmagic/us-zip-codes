@@ -1,6 +1,8 @@
-zip_code = "41845"
-state = "KY"
 city = "Premium"
 county = "Letcher"
-longitude = -82.903459
 latitude = 37.125231
+longitude = -82.903459
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41845"
+

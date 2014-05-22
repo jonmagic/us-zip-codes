@@ -1,6 +1,8 @@
-zip_code = "73734"
-state = "OK"
 city = "Dover"
 county = "Kingfisher"
-longitude = -97.912342
 latitude = 35.982319
+longitude = -97.912342
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73734"
+

@@ -1,6 +1,8 @@
-zip_code = "05043"
-state = "VT"
 city = "East Thetford"
 county = "Orange"
-longitude = -72.214693
 latitude = 43.807282
+longitude = -72.214693
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05043"
+

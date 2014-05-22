@@ -1,6 +1,8 @@
-zip_code = "78372"
-state = "TX"
 city = "Orange Grove"
 county = "Jim Wells"
-longitude = -98.06417
 latitude = 27.942358
+longitude = -98.06417
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78372"
+

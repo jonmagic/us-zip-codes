@@ -1,6 +1,8 @@
-zip_code = "87820"
-state = "NM"
 city = "Aragon"
 county = "Catron"
-longitude = -108.649811
 latitude = 33.913868
+longitude = -108.649811
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87820"
+

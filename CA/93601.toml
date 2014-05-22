@@ -1,6 +1,8 @@
-zip_code = "93601"
-state = "CA"
 city = "Ahwahnee"
 county = "Madera"
-longitude = -119.736326
 latitude = 37.379045
+longitude = -119.736326
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93601"
+

@@ -1,6 +1,8 @@
-zip_code = "52351"
-state = "IA"
 city = "Walford"
 county = "Benton"
-longitude = -91.836855
 latitude = 41.877045
+longitude = -91.836855
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52351"
+

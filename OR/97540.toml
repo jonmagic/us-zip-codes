@@ -1,6 +1,8 @@
-zip_code = "97540"
-state = "OR"
 city = "Talent"
 county = "Jackson"
-longitude = -122.770093
 latitude = 42.221879
+longitude = -122.770093
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97540"
+

@@ -1,6 +1,8 @@
-zip_code = "28133"
-state = "NC"
 city = "Peachland"
 county = "Anson"
-longitude = -80.255799
 latitude = 35.011107
+longitude = -80.255799
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28133"
+

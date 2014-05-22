@@ -1,6 +1,8 @@
-zip_code = "71040"
-state = "LA"
 city = "Homer"
 county = "Claiborne"
-longitude = -93.000406
 latitude = 32.775361
+longitude = -93.000406
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71040"
+

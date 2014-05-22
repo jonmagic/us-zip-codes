@@ -1,6 +1,8 @@
-zip_code = "14532"
-state = "NY"
 city = "Phelps"
 county = "Ontario"
-longitude = -77.043612
 latitude = 42.963394
+longitude = -77.043612
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14532"
+

@@ -1,6 +1,8 @@
-zip_code = "95036"
-state = "CA"
 city = "Milpitas"
 county = "Santa Clara"
-longitude = -121.913632
 latitude = 37.456807
+longitude = -121.913632
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95036"
+

@@ -1,6 +1,8 @@
-zip_code = "06491"
-state = "CT"
 city = "Stevenson"
 county = "Fairfield"
-longitude = -73.187207
 latitude = 41.386646
+longitude = -73.187207
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06491"
+

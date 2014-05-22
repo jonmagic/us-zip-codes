@@ -1,6 +1,8 @@
-zip_code = "33540"
-state = "FL"
 city = "Zephyrhills"
 county = "Pasco"
-longitude = -82.156491
 latitude = 28.240942
+longitude = -82.156491
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33540"
+

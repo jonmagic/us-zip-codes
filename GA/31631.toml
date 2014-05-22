@@ -1,6 +1,8 @@
-zip_code = "31631"
-state = "GA"
 city = "Fargo"
 county = "Clinch"
-longitude = -82.772422
 latitude = 31.05682
+longitude = -82.772422
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31631"
+

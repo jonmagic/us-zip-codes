@@ -1,6 +1,8 @@
-zip_code = "35742"
-state = "AL"
 city = "Capshaw"
 county = "Limestone"
-longitude = -87.030479
 latitude = 34.774907
+longitude = -87.030479
+state = ""
+state_code_alpha2 = ""
+zip_code = "35742"
+

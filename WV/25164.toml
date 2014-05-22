@@ -1,6 +1,8 @@
-zip_code = "25164"
-state = "WV"
 city = "Procious"
 county = "Clay"
-longitude = -81.198904
 latitude = 38.491236
+longitude = -81.198904
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25164"
+

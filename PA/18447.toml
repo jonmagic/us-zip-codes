@@ -1,6 +1,8 @@
-zip_code = "18447"
-state = "PA"
 city = "Olyphant"
 county = "Lackawanna"
-longitude = -75.653932
 latitude = 41.494578
+longitude = -75.653932
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18447"
+

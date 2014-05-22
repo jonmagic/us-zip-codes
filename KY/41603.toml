@@ -1,6 +1,8 @@
-zip_code = "41603"
-state = "KY"
 city = "Banner"
 county = "Floyd"
-longitude = -82.680631
 latitude = 37.570682
+longitude = -82.680631
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41603"
+

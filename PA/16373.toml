@@ -1,6 +1,8 @@
-zip_code = "16373"
-state = "PA"
 city = "Emlenton"
 county = "Venango"
-longitude = -79.812491
 latitude = 41.273318
+longitude = -79.812491
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16373"
+

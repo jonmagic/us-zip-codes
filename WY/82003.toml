@@ -1,6 +1,8 @@
-zip_code = "82003"
-state = "WY"
 city = "Cheyenne"
 county = "Laramie"
-longitude = -104.661244
 latitude = 41.219107
+longitude = -104.661244
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82003"
+

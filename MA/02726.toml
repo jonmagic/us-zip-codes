@@ -1,6 +1,8 @@
-zip_code = "02726"
-state = "MA"
 city = "Somerset"
 county = "Bristol"
-longitude = -71.153639
 latitude = 41.757951
+longitude = -71.153639
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02726"
+

@@ -1,6 +1,8 @@
-zip_code = "78584"
-state = "TX"
 city = "Roma"
 county = "Starr"
-longitude = -99.004493
 latitude = 26.584581
+longitude = -99.004493
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78584"
+

@@ -1,6 +1,8 @@
-zip_code = "24089"
-state = "VA"
 city = "Fieldale"
 county = "Henry"
-longitude = -79.970745
 latitude = 36.708873
+longitude = -79.970745
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24089"
+

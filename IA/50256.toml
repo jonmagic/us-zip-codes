@@ -1,6 +1,8 @@
-zip_code = "50256"
-state = "IA"
 city = "Tracy"
 county = "Marion"
-longitude = -92.938838
 latitude = 41.263991
+longitude = -92.938838
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50256"
+

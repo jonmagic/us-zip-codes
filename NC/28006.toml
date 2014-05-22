@@ -1,6 +1,8 @@
-zip_code = "28006"
-state = "NC"
 city = "Alexis"
 county = "Gaston"
-longitude = -81.087967
 latitude = 35.365255
+longitude = -81.087967
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28006"
+

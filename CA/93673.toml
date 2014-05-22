@@ -1,6 +1,8 @@
-zip_code = "93673"
-state = "CA"
 city = "Traver"
 county = "Tulare"
-longitude = -119.471745
 latitude = 36.444195
+longitude = -119.471745
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93673"
+

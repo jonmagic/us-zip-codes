@@ -1,6 +1,8 @@
-zip_code = "19352"
-state = "PA"
 city = "Lincoln University"
 county = "Chester"
-longitude = -75.88758
 latitude = 39.778703
+longitude = -75.88758
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19352"
+

@@ -1,6 +1,8 @@
-zip_code = "57321"
-state = "SD"
 city = "Canova"
 county = "Miner"
-longitude = -97.540053
 latitude = 43.892123
+longitude = -97.540053
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57321"
+

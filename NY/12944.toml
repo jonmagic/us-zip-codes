@@ -1,6 +1,8 @@
-zip_code = "12944"
-state = "NY"
 city = "Keeseville"
 county = "Essex"
-longitude = -73.436913
 latitude = 44.343063
+longitude = -73.436913
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12944"
+

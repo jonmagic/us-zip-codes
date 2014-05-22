@@ -1,6 +1,8 @@
-zip_code = "62321"
-state = "IL"
 city = "Carthage"
 county = "Hancock"
-longitude = -91.135365
 latitude = 40.432148
+longitude = -91.135365
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62321"
+

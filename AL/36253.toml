@@ -1,6 +1,8 @@
-zip_code = "36253"
-state = "AL"
 city = "Bynum"
 county = "Calhoun"
-longitude = -85.837828
 latitude = 33.762195
+longitude = -85.837828
+state = ""
+state_code_alpha2 = ""
+zip_code = "36253"
+

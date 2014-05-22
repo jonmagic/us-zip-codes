@@ -1,6 +1,8 @@
-zip_code = "16502"
-state = "PA"
 city = "Erie"
 county = "Erie"
-longitude = -80.100931
 latitude = 42.110357
+longitude = -80.100931
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16502"
+

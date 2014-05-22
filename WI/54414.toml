@@ -1,6 +1,8 @@
-zip_code = "54414"
-state = "WI"
 city = "Birnamwood"
 county = "Shawano"
-longitude = -89.1042
 latitude = 44.919163
+longitude = -89.1042
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54414"
+

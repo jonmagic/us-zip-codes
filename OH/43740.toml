@@ -1,6 +1,8 @@
-zip_code = "43740"
-state = "OH"
 city = "Gratiot"
 county = "Licking"
-longitude = -82.211784
 latitude = 39.953262
+longitude = -82.211784
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43740"
+

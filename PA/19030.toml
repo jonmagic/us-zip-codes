@@ -1,6 +1,8 @@
-zip_code = "19030"
-state = "PA"
 city = "Fairless Hills"
 county = "Bucks"
-longitude = -74.829107
 latitude = 40.177087
+longitude = -74.829107
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19030"
+

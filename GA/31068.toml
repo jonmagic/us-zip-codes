@@ -1,6 +1,8 @@
-zip_code = "31068"
-state = "GA"
 city = "Oglethorpe"
 county = "Macon"
-longitude = -84.101472
 latitude = 32.327479
+longitude = -84.101472
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31068"
+

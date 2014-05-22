@@ -1,6 +1,8 @@
-zip_code = "21644"
-state = "MD"
 city = "Ingleside"
 county = "Queen Annes"
-longitude = -75.876881
 latitude = 39.118226
+longitude = -75.876881
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21644"
+

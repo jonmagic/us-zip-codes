@@ -1,6 +1,8 @@
-zip_code = "76357"
-state = "TX"
 city = "Byers"
 county = "Clay"
-longitude = -98.191301
 latitude = 34.072254
+longitude = -98.191301
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76357"
+

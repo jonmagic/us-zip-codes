@@ -1,6 +1,8 @@
-zip_code = "50071"
-state = "IA"
 city = "Dows"
 county = "Wright"
-longitude = -93.582732
 latitude = 42.651566
+longitude = -93.582732
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50071"
+

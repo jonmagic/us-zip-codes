@@ -1,6 +1,8 @@
-zip_code = "20120"
-state = "VA"
 city = "Centreville"
 county = "Fairfax"
-longitude = -77.46701
 latitude = 38.84479
+longitude = -77.46701
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20120"
+

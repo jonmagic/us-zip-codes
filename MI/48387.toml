@@ -1,6 +1,8 @@
-zip_code = "48387"
-state = "MI"
 city = "Union Lake"
 county = "Oakland"
-longitude = -83.311605
 latitude = 42.7253
+longitude = -83.311605
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48387"
+

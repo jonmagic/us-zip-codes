@@ -1,6 +1,8 @@
-zip_code = "15922"
-state = "PA"
 city = "Belsano"
 county = "Cambria"
-longitude = -78.702224
 latitude = 40.484487
+longitude = -78.702224
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15922"
+

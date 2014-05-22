@@ -1,6 +1,8 @@
-zip_code = "78067"
-state = "TX"
 city = "San Ygnacio"
 county = "Zapata"
-longitude = -99.354468
 latitude = 27.09468
+longitude = -99.354468
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78067"
+

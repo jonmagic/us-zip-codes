@@ -1,6 +1,8 @@
-zip_code = "07074"
-state = "NJ"
 city = "Moonachie"
 county = "Bergen"
-longitude = -74.060184
 latitude = 40.839299
+longitude = -74.060184
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07074"
+

@@ -1,6 +1,8 @@
-zip_code = "74954"
-state = "OK"
 city = "Roland"
 county = "Sequoyah"
-longitude = -94.52271
 latitude = 35.416163
+longitude = -94.52271
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74954"
+

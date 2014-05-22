@@ -1,6 +1,8 @@
-zip_code = "05841"
-state = "VT"
 city = "Greensboro"
 county = "Orleans"
-longitude = -72.286556
 latitude = 44.600325
+longitude = -72.286556
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05841"
+

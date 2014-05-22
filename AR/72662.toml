@@ -1,6 +1,8 @@
-zip_code = "72662"
-state = "AR"
 city = "Omaha"
 county = "Boone"
-longitude = -93.166451
 latitude = 36.421611
+longitude = -93.166451
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72662"
+

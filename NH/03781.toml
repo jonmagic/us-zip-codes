@@ -1,6 +1,8 @@
-zip_code = "03781"
-state = "NH"
 city = "Plainfield"
 county = "Sullivan"
-longitude = -72.282596
 latitude = 43.432999
+longitude = -72.282596
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03781"
+

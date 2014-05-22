@@ -1,6 +1,8 @@
-zip_code = "54659"
-state = "WI"
 city = "Taylor"
 county = "Jackson"
-longitude = -91.087671
 latitude = 44.291449
+longitude = -91.087671
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54659"
+

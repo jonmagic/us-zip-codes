@@ -1,6 +1,8 @@
-zip_code = "56578"
-state = "MN"
 city = "Rochert"
 county = "Becker"
-longitude = -95.724599
 latitude = 46.886152
+longitude = -95.724599
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56578"
+

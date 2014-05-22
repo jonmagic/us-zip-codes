@@ -1,6 +1,8 @@
-zip_code = "89004"
-state = "NV"
 city = "Blue Diamond"
 county = "Clark"
-longitude = -115.608969
 latitude = 36.088098
+longitude = -115.608969
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89004"
+

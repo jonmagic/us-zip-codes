@@ -1,6 +1,8 @@
-zip_code = "28404"
-state = "NC"
 city = "Wilmington"
 county = "Brunswick"
-longitude = -78.07127
 latitude = 33.926255
+longitude = -78.07127
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28404"
+

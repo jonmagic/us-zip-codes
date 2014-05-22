@@ -1,6 +1,8 @@
-zip_code = "36851"
-state = "AL"
 city = "Cottonton"
 county = "Russell"
-longitude = -85.161497
 latitude = 32.286092
+longitude = -85.161497
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36851"
+

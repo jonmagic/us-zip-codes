@@ -1,6 +1,8 @@
-zip_code = "40117"
-state = "KY"
 city = "Ekron"
 county = "Meade"
-longitude = -86.115209
 latitude = 37.884962
+longitude = -86.115209
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40117"
+

@@ -1,6 +1,8 @@
-zip_code = "14482"
-state = "NY"
 city = "Le Roy"
 county = "Genesee"
-longitude = -77.989988
 latitude = 42.95619
+longitude = -77.989988
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14482"
+

@@ -1,6 +1,8 @@
-zip_code = "12886"
-state = "NY"
 city = "Wevertown"
 county = "Warren"
-longitude = -73.936399
 latitude = 43.631297
+longitude = -73.936399
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12886"
+

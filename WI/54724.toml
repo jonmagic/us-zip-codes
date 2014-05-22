@@ -1,6 +1,8 @@
-zip_code = "54724"
-state = "WI"
 city = "Bloomer"
 county = "Chippewa"
-longitude = -91.408026
 latitude = 45.042352
+longitude = -91.408026
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54724"
+

@@ -1,6 +1,8 @@
-zip_code = "17813"
-state = "PA"
 city = "Beavertown"
 county = "Snyder"
-longitude = -77.169508
 latitude = 40.754705
+longitude = -77.169508
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17813"
+

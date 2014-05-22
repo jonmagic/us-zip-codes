@@ -1,6 +1,8 @@
-zip_code = "27048"
-state = "NC"
 city = "Stoneville"
 county = "Rockingham"
-longitude = -79.912823
 latitude = 36.466883
+longitude = -79.912823
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27048"
+

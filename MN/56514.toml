@@ -1,6 +1,8 @@
-zip_code = "56514"
-state = "MN"
 city = "Barnesville"
 county = "Clay"
-longitude = -96.391637
 latitude = 46.649467
+longitude = -96.391637
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56514"
+

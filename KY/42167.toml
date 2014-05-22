@@ -1,6 +1,8 @@
-zip_code = "42167"
-state = "KY"
 city = "Tompkinsville"
 county = "Monroe"
-longitude = -85.700865
 latitude = 36.723634
+longitude = -85.700865
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42167"
+

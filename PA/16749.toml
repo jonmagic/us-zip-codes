@@ -1,6 +1,8 @@
-zip_code = "16749"
-state = "PA"
 city = "Smethport"
 county = "Mckean"
-longitude = -78.539192
 latitude = 41.798748
+longitude = -78.539192
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16749"
+

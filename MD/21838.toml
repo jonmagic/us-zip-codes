@@ -1,6 +1,8 @@
-zip_code = "21838"
-state = "MD"
 city = "Marion Station"
 county = "Somerset"
-longitude = -75.728768
 latitude = 38.018983
+longitude = -75.728768
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21838"
+

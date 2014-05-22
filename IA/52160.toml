@@ -1,6 +1,8 @@
-zip_code = "52160"
-state = "IA"
 city = "New Albin"
 county = "Allamakee"
-longitude = -91.354022
 latitude = 43.457526
+longitude = -91.354022
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52160"
+

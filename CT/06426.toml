@@ -1,6 +1,8 @@
-zip_code = "06426"
-state = "CT"
 city = "Essex"
 county = "Middlesex"
-longitude = -72.50426
 latitude = 41.448179
+longitude = -72.50426
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06426"
+

@@ -1,6 +1,8 @@
-zip_code = "43845"
-state = "OH"
 city = "West Lafayette"
 county = "Coshocton"
-longitude = -81.82464
 latitude = 40.27446
+longitude = -81.82464
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43845"
+

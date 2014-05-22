@@ -1,6 +1,8 @@
-zip_code = "62417"
-state = "IL"
 city = "Bridgeport"
 county = "Lawrence"
-longitude = -87.706902
 latitude = 38.654076
+longitude = -87.706902
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62417"
+

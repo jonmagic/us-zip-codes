@@ -1,6 +1,8 @@
-zip_code = "58424"
-state = "ND"
 city = "Cleveland"
 county = "Stutsman"
-longitude = -99.128846
 latitude = 46.893112
+longitude = -99.128846
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58424"
+

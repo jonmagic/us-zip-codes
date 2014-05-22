@@ -1,6 +1,8 @@
-zip_code = "41759"
-state = "KY"
 city = "Sassafras"
 county = "Knott"
-longitude = -83.02461
 latitude = 37.231962
+longitude = -83.02461
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41759"
+

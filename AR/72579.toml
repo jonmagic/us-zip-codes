@@ -1,6 +1,8 @@
-zip_code = "72579"
-state = "AR"
 city = "Sulphur Rock"
 county = "Independence"
-longitude = -91.531986
 latitude = 35.762212
+longitude = -91.531986
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72579"
+

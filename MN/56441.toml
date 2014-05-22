@@ -1,6 +1,8 @@
-zip_code = "56441"
-state = "MN"
 city = "Crosby"
 county = "Crow Wing"
-longitude = -93.928197
 latitude = 46.537059
+longitude = -93.928197
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56441"
+

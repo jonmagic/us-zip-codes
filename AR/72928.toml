@@ -1,6 +1,8 @@
-zip_code = "72928"
-state = "AR"
 city = "Branch"
 county = "Franklin"
-longitude = -93.922527
 latitude = 35.311075
+longitude = -93.922527
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72928"
+

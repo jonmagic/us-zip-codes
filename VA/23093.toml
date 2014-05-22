@@ -1,6 +1,8 @@
-zip_code = "23093"
-state = "VA"
 city = "Louisa"
 county = "Louisa"
-longitude = -77.967416
 latitude = 37.998422
+longitude = -77.967416
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23093"
+

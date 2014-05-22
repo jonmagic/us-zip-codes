@@ -1,6 +1,8 @@
-zip_code = "49221"
-state = "MI"
 city = "Adrian"
 county = "Lenawee"
-longitude = -84.065892
 latitude = 41.889943
+longitude = -84.065892
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49221"
+

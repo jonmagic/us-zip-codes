@@ -1,6 +1,8 @@
-zip_code = "94403"
-state = "CA"
 city = "San Mateo"
 county = "San Mateo"
-longitude = -122.304079
 latitude = 37.541486
+longitude = -122.304079
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94403"
+

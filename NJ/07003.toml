@@ -1,6 +1,8 @@
-zip_code = "07003"
-state = "NJ"
 city = "Bloomfield"
 county = "Essex"
-longitude = -74.187005
 latitude = 40.808549
+longitude = -74.187005
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07003"
+

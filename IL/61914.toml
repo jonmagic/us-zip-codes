@@ -1,6 +1,8 @@
-zip_code = "61914"
-state = "IL"
 city = "Bethany"
 county = "Moultrie"
-longitude = -88.75367
 latitude = 39.638
+longitude = -88.75367
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61914"
+

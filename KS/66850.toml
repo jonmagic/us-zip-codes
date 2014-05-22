@@ -1,6 +1,8 @@
-zip_code = "66850"
-state = "KS"
 city = "Elmdale"
 county = "Chase"
-longitude = -96.646064
 latitude = 38.372982
+longitude = -96.646064
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66850"
+

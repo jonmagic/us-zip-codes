@@ -1,6 +1,8 @@
-zip_code = "52336"
-state = "IA"
 city = "Springville"
 county = "Linn"
-longitude = -91.471893
 latitude = 42.063342
+longitude = -91.471893
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52336"
+

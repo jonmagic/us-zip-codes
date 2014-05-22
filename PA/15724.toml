@@ -1,6 +1,8 @@
-zip_code = "15724"
-state = "PA"
 city = "Cherry Tree"
 county = "Indiana"
-longitude = -78.860324
 latitude = 40.724976
+longitude = -78.860324
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15724"
+

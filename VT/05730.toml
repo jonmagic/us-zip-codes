@@ -1,6 +1,8 @@
-zip_code = "05730"
-state = "VT"
 city = "Belmont"
 county = "Rutland"
-longitude = -72.828524
 latitude = 43.420978
+longitude = -72.828524
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05730"
+

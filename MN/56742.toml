@@ -1,6 +1,8 @@
-zip_code = "56742"
-state = "MN"
 city = "Oklee"
 county = "Red Lake"
-longitude = -95.853261
 latitude = 47.838345
+longitude = -95.853261
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56742"
+

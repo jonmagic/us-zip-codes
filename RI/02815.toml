@@ -1,6 +1,8 @@
-zip_code = "02815"
-state = "RI"
 city = "Clayville"
 county = "Providence"
-longitude = -71.65585
 latitude = 41.770525
+longitude = -71.65585
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02815"
+

@@ -1,6 +1,8 @@
-zip_code = "35094"
-state = "AL"
 city = "Leeds"
 county = "Jefferson"
-longitude = -86.584472
 latitude = 33.51828
+longitude = -86.584472
+state = ""
+state_code_alpha2 = ""
+zip_code = "35094"
+

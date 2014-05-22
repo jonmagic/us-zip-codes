@@ -1,6 +1,8 @@
-zip_code = "71249"
-state = "LA"
 city = "Jigger"
 county = "Franklin"
-longitude = -91.691899
 latitude = 32.138935
+longitude = -91.691899
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71249"
+

@@ -1,6 +1,8 @@
-zip_code = "19014"
-state = "PA"
 city = "Aston"
 county = "Delaware"
-longitude = -75.398537
 latitude = 39.866766
+longitude = -75.398537
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19014"
+

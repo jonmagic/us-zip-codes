@@ -1,6 +1,8 @@
-zip_code = "66436"
-state = "KS"
 city = "Holton"
 county = "Jackson"
-longitude = -95.765586
 latitude = 39.481012
+longitude = -95.765586
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66436"
+

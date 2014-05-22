@@ -1,6 +1,8 @@
-zip_code = "01053"
-state = "MA"
 city = "Leeds"
 county = "Hampshire"
-longitude = -72.704385
 latitude = 42.353838
+longitude = -72.704385
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01053"
+

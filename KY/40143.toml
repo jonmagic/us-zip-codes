@@ -1,6 +1,8 @@
-zip_code = "40143"
-state = "KY"
 city = "Hardinsburg"
 county = "Breckinridge"
-longitude = -86.45371
 latitude = 37.751214
+longitude = -86.45371
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40143"
+

@@ -1,6 +1,8 @@
-zip_code = "23357"
-state = "VA"
 city = "Greenbush"
 county = "Accomack"
-longitude = -75.66704
 latitude = 37.750487
+longitude = -75.66704
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23357"
+

@@ -1,6 +1,8 @@
-zip_code = "73057"
-state = "OK"
 city = "Maysville"
 county = "Garvin"
-longitude = -97.405333
 latitude = 34.816265
+longitude = -97.405333
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73057"
+

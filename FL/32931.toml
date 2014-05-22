@@ -1,6 +1,8 @@
-zip_code = "32931"
-state = "FL"
 city = "Cocoa Beach"
 county = "Brevard"
-longitude = -80.623424
 latitude = 28.325685
+longitude = -80.623424
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32931"
+

@@ -1,6 +1,8 @@
-zip_code = "48623"
-state = "MI"
 city = "Freeland"
 county = "Saginaw"
-longitude = -84.102426
 latitude = 43.496884
+longitude = -84.102426
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48623"
+

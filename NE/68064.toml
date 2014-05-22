@@ -1,6 +1,8 @@
-zip_code = "68064"
-state = "NE"
 city = "Valley"
 county = "Douglas"
-longitude = -96.344273
 latitude = 41.342714
+longitude = -96.344273
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68064"
+

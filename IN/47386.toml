@@ -1,6 +1,8 @@
-zip_code = "47386"
-state = "IN"
 city = "Springport"
 county = "Henry"
-longitude = -85.383768
 latitude = 40.011128
+longitude = -85.383768
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47386"
+

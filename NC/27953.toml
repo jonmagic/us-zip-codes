@@ -1,6 +1,8 @@
-zip_code = "27953"
-state = "NC"
 city = "Manns Harbor"
 county = "Dare"
-longitude = -75.846714
 latitude = 35.823791
+longitude = -75.846714
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27953"
+

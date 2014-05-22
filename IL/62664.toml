@@ -1,6 +1,8 @@
-zip_code = "62664"
-state = "IL"
 city = "Mason City"
 county = "Mason"
-longitude = -89.731758
 latitude = 40.226923
+longitude = -89.731758
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62664"
+

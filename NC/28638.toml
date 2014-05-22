@@ -1,6 +1,8 @@
-zip_code = "28638"
-state = "NC"
 city = "Hudson"
 county = "Caldwell"
-longitude = -81.479726
 latitude = 35.839777
+longitude = -81.479726
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28638"
+

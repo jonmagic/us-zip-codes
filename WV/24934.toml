@@ -1,6 +1,8 @@
-zip_code = "24934"
-state = "WV"
 city = "Dunmore"
 county = "Pocahontas"
-longitude = -79.898674
 latitude = 38.326214
+longitude = -79.898674
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24934"
+

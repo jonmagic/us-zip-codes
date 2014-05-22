@@ -1,6 +1,8 @@
-zip_code = "08349"
-state = "NJ"
 city = "Port Norris"
 county = "Cumberland"
-longitude = -75.098448
 latitude = 39.283259
+longitude = -75.098448
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08349"
+

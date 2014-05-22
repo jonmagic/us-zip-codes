@@ -1,6 +1,8 @@
-zip_code = "32044"
-state = "FL"
 city = "Hampton"
 county = "Bradford"
-longitude = -82.143297
 latitude = 29.862285
+longitude = -82.143297
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32044"
+

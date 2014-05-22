@@ -1,6 +1,8 @@
-zip_code = "18958"
-state = "PA"
 city = "Salfordville"
 county = "Montgomery"
-longitude = -75.435539
 latitude = 40.290357
+longitude = -75.435539
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18958"
+

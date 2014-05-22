@@ -1,6 +1,8 @@
-zip_code = "43046"
-state = "OH"
 city = "Millersport"
 county = "Fairfield"
-longitude = -82.539214
 latitude = 39.884758
+longitude = -82.539214
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43046"
+

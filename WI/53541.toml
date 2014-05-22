@@ -1,6 +1,8 @@
-zip_code = "53541"
-state = "WI"
 city = "Gratiot"
 county = "Lafayette"
-longitude = -90.031186
 latitude = 42.579894
+longitude = -90.031186
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53541"
+

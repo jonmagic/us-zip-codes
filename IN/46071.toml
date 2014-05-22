@@ -1,6 +1,8 @@
-zip_code = "46071"
-state = "IN"
 city = "Thorntown"
 county = "Boone"
-longitude = -86.58186
 latitude = 40.068631
+longitude = -86.58186
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46071"
+

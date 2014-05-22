@@ -1,6 +1,8 @@
-zip_code = "62941"
-state = "IL"
 city = "Grand Chain"
 county = "Pulaski"
-longitude = -88.995404
 latitude = 37.240291
+longitude = -88.995404
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62941"
+

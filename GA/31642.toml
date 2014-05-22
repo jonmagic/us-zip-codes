@@ -1,6 +1,8 @@
-zip_code = "31642"
-state = "GA"
 city = "Pearson"
 county = "Atkinson"
-longitude = -82.853406
 latitude = 31.340836
+longitude = -82.853406
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31642"
+

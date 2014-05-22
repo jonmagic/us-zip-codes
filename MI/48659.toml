@@ -1,6 +1,8 @@
-zip_code = "48659"
-state = "MI"
 city = "Sterling"
 county = "Arenac"
-longitude = -83.956748
 latitude = 44.079473
+longitude = -83.956748
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48659"
+

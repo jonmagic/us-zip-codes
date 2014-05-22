@@ -1,6 +1,8 @@
-zip_code = "79058"
-state = "TX"
 city = "Masterson"
 county = "Moore"
-longitude = -101.892846
 latitude = 35.837775
+longitude = -101.892846
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79058"
+

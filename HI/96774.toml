@@ -1,6 +1,8 @@
-zip_code = "96774"
-state = "HI"
 city = "Ookala"
 county = "Hawaii"
-longitude = -155.280974
 latitude = 20.01506
+longitude = -155.280974
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96774"
+

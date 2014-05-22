@@ -1,6 +1,8 @@
-zip_code = "98941"
-state = "WA"
 city = "Roslyn"
 county = "Kittitas"
-longitude = -121.002513
 latitude = 47.223287
+longitude = -121.002513
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98941"
+

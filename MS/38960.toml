@@ -1,6 +1,8 @@
-zip_code = "38960"
-state = "MS"
 city = "Tie Plant"
 county = "Grenada"
-longitude = -89.821941
 latitude = 33.787157
+longitude = -89.821941
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38960"
+

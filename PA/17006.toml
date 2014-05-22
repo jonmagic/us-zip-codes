@@ -1,6 +1,8 @@
-zip_code = "17006"
-state = "PA"
 city = "Blain"
 county = "Perry"
-longitude = -77.56437
 latitude = 40.29736
+longitude = -77.56437
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17006"
+

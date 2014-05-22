@@ -1,6 +1,8 @@
-zip_code = "59063"
-state = "MT"
 city = "Park City"
 county = "Stillwater"
-longitude = -109.047266
 latitude = 45.657911
+longitude = -109.047266
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59063"
+

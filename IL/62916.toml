@@ -1,6 +1,8 @@
-zip_code = "62916"
-state = "IL"
 city = "Campbell Hill"
 county = "Jackson"
-longitude = -89.557933
 latitude = 37.883589
+longitude = -89.557933
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62916"
+

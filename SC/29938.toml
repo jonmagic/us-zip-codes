@@ -1,6 +1,8 @@
-zip_code = "29938"
-state = "SC"
 city = "Hilton Head Island"
 county = "Beaufort"
-longitude = -80.661027
 latitude = 32.390605
+longitude = -80.661027
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29938"
+

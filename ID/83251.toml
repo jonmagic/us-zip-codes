@@ -1,6 +1,8 @@
-zip_code = "83251"
-state = "ID"
 city = "Mackay"
 county = "Custer"
-longitude = -113.740599
 latitude = 44.017199
+longitude = -113.740599
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83251"
+

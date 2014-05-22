@@ -1,6 +1,8 @@
-zip_code = "56318"
-state = "MN"
 city = "Burtrum"
 county = "Todd"
-longitude = -94.685781
 latitude = 45.86575
+longitude = -94.685781
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56318"
+

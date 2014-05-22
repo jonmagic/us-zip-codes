@@ -1,6 +1,8 @@
-zip_code = "98617"
-state = "WA"
 city = "Dallesport"
 county = "Klickitat"
-longitude = -121.17169
 latitude = 45.632681
+longitude = -121.17169
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98617"
+

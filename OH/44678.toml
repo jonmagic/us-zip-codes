@@ -1,6 +1,8 @@
-zip_code = "44678"
-state = "OH"
 city = "Somerdale"
 county = "Tuscarawas"
-longitude = -81.352352
 latitude = 40.56488
+longitude = -81.352352
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44678"
+

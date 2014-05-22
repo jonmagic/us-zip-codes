@@ -1,6 +1,8 @@
-zip_code = "02652"
-state = "MA"
 city = "North Truro"
 county = "Barnstable"
-longitude = -70.283584
 latitude = 41.931061
+longitude = -70.283584
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02652"
+

@@ -1,6 +1,8 @@
-zip_code = "27560"
-state = "NC"
 city = "Morrisville"
 county = "Wake"
-longitude = -78.843526
 latitude = 35.852458
+longitude = -78.843526
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27560"
+

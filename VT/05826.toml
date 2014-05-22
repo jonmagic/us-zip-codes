@@ -1,6 +1,8 @@
-zip_code = "05826"
-state = "VT"
 city = "Craftsbury"
 county = "Orleans"
-longitude = -72.388928
 latitude = 44.641663
+longitude = -72.388928
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05826"
+

@@ -1,6 +1,8 @@
-zip_code = "15772"
-state = "PA"
 city = "Rossiter"
 county = "Indiana"
-longitude = -78.900483
 latitude = 40.869654
+longitude = -78.900483
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15772"
+

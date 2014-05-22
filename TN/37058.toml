@@ -1,6 +1,8 @@
-zip_code = "37058"
-state = "TN"
 city = "Dover"
 county = "Stewart"
-longitude = -87.878742
 latitude = 36.494203
+longitude = -87.878742
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37058"
+

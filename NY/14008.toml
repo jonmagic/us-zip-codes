@@ -1,6 +1,8 @@
-zip_code = "14008"
-state = "NY"
 city = "Appleton"
 county = "Niagara"
-longitude = -78.626944
 latitude = 43.291696
+longitude = -78.626944
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14008"
+

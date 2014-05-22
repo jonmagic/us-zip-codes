@@ -1,6 +1,8 @@
-zip_code = "31777"
-state = "GA"
 city = "Parrott"
 county = "Terrell"
-longitude = -84.506058
 latitude = 31.911689
+longitude = -84.506058
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31777"
+

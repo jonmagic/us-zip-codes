@@ -1,6 +1,8 @@
-zip_code = "17529"
-state = "PA"
 city = "Gordonville"
 county = "Lancaster"
-longitude = -76.108543
 latitude = 40.043967
+longitude = -76.108543
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17529"
+

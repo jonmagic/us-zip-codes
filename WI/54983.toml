@@ -1,6 +1,8 @@
-zip_code = "54983"
-state = "WI"
 city = "Weyauwega"
 county = "Waupaca"
-longitude = -88.922821
 latitude = 44.332498
+longitude = -88.922821
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54983"
+

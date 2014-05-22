@@ -1,6 +1,8 @@
-zip_code = "95668"
-state = "CA"
 city = "Pleasant Grove"
 county = "Sutter"
-longitude = -121.534228
 latitude = 38.830643
+longitude = -121.534228
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95668"
+

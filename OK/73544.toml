@@ -1,6 +1,8 @@
-zip_code = "73544"
-state = "OK"
 city = "Gould"
 county = "Harmon"
-longitude = -99.833341
 latitude = 34.768632
+longitude = -99.833341
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73544"
+

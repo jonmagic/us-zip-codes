@@ -1,6 +1,8 @@
-zip_code = "58443"
-state = "ND"
 city = "Glenfield"
 county = "Foster"
-longitude = -98.691563
 latitude = 47.456948
+longitude = -98.691563
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58443"
+

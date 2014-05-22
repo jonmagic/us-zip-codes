@@ -1,6 +1,8 @@
-zip_code = "99152"
-state = "WA"
 city = "Metaline"
 county = "Pend Oreille"
-longitude = -117.22144
 latitude = 48.484729
+longitude = -117.22144
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99152"
+

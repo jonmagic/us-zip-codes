@@ -1,6 +1,8 @@
-zip_code = "63764"
-state = "MO"
 city = "Marble Hill"
 county = "Bollinger"
-longitude = -89.982306
 latitude = 37.306063
+longitude = -89.982306
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63764"
+

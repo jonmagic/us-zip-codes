@@ -1,6 +1,8 @@
-zip_code = "45055"
-state = "OH"
 city = "Overpeck"
 county = "Butler"
-longitude = -84.515245
 latitude = 39.451806
+longitude = -84.515245
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45055"
+

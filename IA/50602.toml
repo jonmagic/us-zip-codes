@@ -1,6 +1,8 @@
-zip_code = "50602"
-state = "IA"
 city = "Allison"
 county = "Butler"
-longitude = -92.7981
 latitude = 42.697108
+longitude = -92.7981
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50602"
+

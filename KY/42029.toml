@@ -1,6 +1,8 @@
-zip_code = "42029"
-state = "KY"
 city = "Calvert City"
 county = "Marshall"
-longitude = -88.373197
 latitude = 36.986553
+longitude = -88.373197
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42029"
+

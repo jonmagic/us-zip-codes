@@ -1,6 +1,8 @@
-zip_code = "48410"
-state = "MI"
 city = "Argyle"
 county = "Sanilac"
-longitude = -82.945483
 latitude = 43.558856
+longitude = -82.945483
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48410"
+

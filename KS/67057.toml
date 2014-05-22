@@ -1,6 +1,8 @@
-zip_code = "67057"
-state = "KS"
 city = "Hardtner"
 county = "Barber"
-longitude = -98.751916
 latitude = 37.076952
+longitude = -98.751916
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67057"
+

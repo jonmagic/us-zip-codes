@@ -1,6 +1,8 @@
-zip_code = "41397"
-state = "KY"
 city = "Zoe"
 county = "Lee"
-longitude = -83.687173
 latitude = 37.672317
+longitude = -83.687173
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41397"
+

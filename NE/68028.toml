@@ -1,6 +1,8 @@
-zip_code = "68028"
-state = "NE"
 city = "Gretna"
 county = "Sarpy"
-longitude = -96.239744
 latitude = 41.098888
+longitude = -96.239744
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68028"
+

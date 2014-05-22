@@ -1,6 +1,8 @@
-zip_code = "79014"
-state = "TX"
 city = "Canadian"
 county = "Hemphill"
-longitude = -100.384093
 latitude = 35.904503
+longitude = -100.384093
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79014"
+

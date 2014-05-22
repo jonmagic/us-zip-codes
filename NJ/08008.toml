@@ -1,6 +1,8 @@
-zip_code = "08008"
-state = "NJ"
 city = "Beach Haven"
 county = "Ocean"
-longitude = -74.192228
 latitude = 39.641062
+longitude = -74.192228
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08008"
+

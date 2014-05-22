@@ -1,6 +1,8 @@
-zip_code = "02041"
-state = "MA"
 city = "Green Harbor"
 county = "Plymouth"
-longitude = -70.649075
 latitude = 42.069642
+longitude = -70.649075
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02041"
+

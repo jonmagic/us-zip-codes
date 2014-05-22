@@ -1,6 +1,8 @@
-zip_code = "12525"
-state = "NY"
 city = "Gardiner"
 county = "Ulster"
-longitude = -74.17387
 latitude = 41.677151
+longitude = -74.17387
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12525"
+

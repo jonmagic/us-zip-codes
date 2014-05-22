@@ -1,6 +1,8 @@
-zip_code = "68938"
-state = "NE"
 city = "Fairfield"
 county = "Clay"
-longitude = -98.053432
 latitude = 40.395335
+longitude = -98.053432
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68938"
+

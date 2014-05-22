@@ -1,6 +1,8 @@
-zip_code = "15337"
-state = "PA"
 city = "Graysville"
 county = "Greene"
-longitude = -80.001496
 latitude = 39.937962
+longitude = -80.001496
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15337"
+

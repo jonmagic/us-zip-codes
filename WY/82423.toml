@@ -1,6 +1,8 @@
-zip_code = "82423"
-state = "WY"
 city = "Frannie"
 county = "Park"
-longitude = -108.622097
 latitude = 44.971811
+longitude = -108.622097
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82423"
+

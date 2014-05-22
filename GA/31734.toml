@@ -1,6 +1,8 @@
-zip_code = "31734"
-state = "GA"
 city = "Climax"
 county = "Decatur"
-longitude = -84.468281
 latitude = 30.887347
+longitude = -84.468281
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31734"
+

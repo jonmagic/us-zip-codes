@@ -1,6 +1,8 @@
-zip_code = "53590"
-state = "WI"
 city = "Sun Prairie"
 county = "Dane"
-longitude = -89.209418
 latitude = 43.195712
+longitude = -89.209418
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53590"
+

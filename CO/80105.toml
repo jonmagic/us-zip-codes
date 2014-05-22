@@ -1,6 +1,8 @@
-zip_code = "80105"
-state = "CO"
 city = "Deer Trail"
 county = "Arapahoe"
-longitude = -103.948538
 latitude = 39.659461
+longitude = -103.948538
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80105"
+

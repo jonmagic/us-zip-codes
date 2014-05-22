@@ -1,6 +1,8 @@
-zip_code = "14844"
-state = "NY"
 city = "Horseheads"
 county = "Chemung"
-longitude = -76.878456
 latitude = 42.160717
+longitude = -76.878456
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14844"
+

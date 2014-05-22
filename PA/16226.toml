@@ -1,6 +1,8 @@
-zip_code = "16226"
-state = "PA"
 city = "Ford City"
 county = "Armstrong"
-longitude = -79.420198
 latitude = 40.79965
+longitude = -79.420198
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16226"
+

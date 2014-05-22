@@ -1,6 +1,8 @@
-zip_code = "62519"
-state = "IL"
 city = "Cornland"
 county = "Logan"
-longitude = -89.40234
 latitude = 39.937364
+longitude = -89.40234
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62519"
+

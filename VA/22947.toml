@@ -1,6 +1,8 @@
-zip_code = "22947"
-state = "VA"
 city = "Keswick"
 county = "Albemarle"
-longitude = -78.339571
 latitude = 38.053137
+longitude = -78.339571
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22947"
+

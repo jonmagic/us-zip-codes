@@ -1,6 +1,8 @@
-zip_code = "34238"
-state = "FL"
 city = "Sarasota"
 county = "Sarasota"
-longitude = -82.475145
 latitude = 27.242689
+longitude = -82.475145
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34238"
+

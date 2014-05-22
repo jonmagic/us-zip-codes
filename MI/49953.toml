@@ -1,6 +1,8 @@
-zip_code = "49953"
-state = "MI"
 city = "Ontonagon"
 county = "Ontonagon"
-longitude = -89.334696
 latitude = 46.73807
+longitude = -89.334696
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49953"
+

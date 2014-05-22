@@ -1,6 +1,8 @@
-zip_code = "17056"
-state = "PA"
 city = "Mexico"
 county = "Juniata"
-longitude = -77.345514
 latitude = 40.478716
+longitude = -77.345514
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17056"
+

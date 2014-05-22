@@ -1,6 +1,8 @@
-zip_code = "83425"
-state = "ID"
 city = "Hamer"
 county = "Jefferson"
-longitude = -112.260858
 latitude = 43.878511
+longitude = -112.260858
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83425"
+

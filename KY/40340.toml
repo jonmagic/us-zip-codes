@@ -1,6 +1,8 @@
-zip_code = "40340"
-state = "KY"
 city = "Nicholasville"
 county = "Jessamine"
-longitude = -84.579491
 latitude = 37.866238
+longitude = -84.579491
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40340"
+

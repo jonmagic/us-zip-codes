@@ -1,6 +1,8 @@
-zip_code = "62016"
-state = "IL"
 city = "Carrollton"
 county = "Greene"
-longitude = -90.399251
 latitude = 39.380638
+longitude = -90.399251
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62016"
+

@@ -1,6 +1,8 @@
-zip_code = "39481"
-state = "MS"
 city = "Stringer"
 county = "Jasper"
-longitude = -89.229337
 latitude = 31.870465
+longitude = -89.229337
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39481"
+

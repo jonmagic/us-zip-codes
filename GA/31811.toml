@@ -1,6 +1,8 @@
-zip_code = "31811"
-state = "GA"
 city = "Hamilton"
 county = "Harris"
-longitude = -84.934906
 latitude = 32.746007
+longitude = -84.934906
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31811"
+

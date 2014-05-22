@@ -1,6 +1,8 @@
-zip_code = "32462"
-state = "FL"
 city = "Vernon"
 county = "Washington"
-longitude = -85.739452
 latitude = 30.591268
+longitude = -85.739452
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32462"
+

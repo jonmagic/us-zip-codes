@@ -1,6 +1,8 @@
-zip_code = "50864"
-state = "IA"
 city = "Villisca"
 county = "Montgomery"
-longitude = -95.051602
 latitude = 41.029639
+longitude = -95.051602
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50864"
+

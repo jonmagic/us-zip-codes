@@ -1,6 +1,8 @@
-zip_code = "52068"
-state = "IA"
 city = "Peosta"
 county = "Dubuque"
-longitude = -90.808309
 latitude = 42.432281
+longitude = -90.808309
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52068"
+

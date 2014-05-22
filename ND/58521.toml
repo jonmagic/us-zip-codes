@@ -1,6 +1,8 @@
-zip_code = "58521"
-state = "ND"
 city = "Baldwin"
 county = "Burleigh"
-longitude = -100.693721
 latitude = 47.016148
+longitude = -100.693721
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58521"
+

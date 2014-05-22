@@ -1,6 +1,8 @@
-zip_code = "74363"
-state = "OK"
 city = "Quapaw"
 county = "Ottawa"
-longitude = -94.733392
 latitude = 36.942292
+longitude = -94.733392
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74363"
+

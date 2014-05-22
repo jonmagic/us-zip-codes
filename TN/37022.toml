@@ -1,6 +1,8 @@
-zip_code = "37022"
-state = "TN"
 city = "Bethpage"
 county = "Sumner"
-longitude = -86.460853
 latitude = 36.477191
+longitude = -86.460853
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37022"
+

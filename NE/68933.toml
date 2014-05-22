@@ -1,6 +1,8 @@
-zip_code = "68933"
-state = "NE"
 city = "Clay Center"
 county = "Clay"
-longitude = -98.070907
 latitude = 40.565856
+longitude = -98.070907
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68933"
+

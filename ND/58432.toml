@@ -1,6 +1,8 @@
-zip_code = "58432"
-state = "ND"
 city = "Eckelson"
 county = "Barnes"
-longitude = -98.375536
 latitude = 46.892518
+longitude = -98.375536
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58432"
+

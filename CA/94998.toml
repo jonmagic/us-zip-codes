@@ -1,6 +1,8 @@
-zip_code = "94998"
-state = "CA"
 city = "Novato"
 county = "Marin"
-longitude = -122.568442
 latitude = 38.117269
+longitude = -122.568442
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94998"
+

@@ -1,6 +1,8 @@
-zip_code = "48357"
-state = "MI"
 city = "Highland"
 county = "Oakland"
-longitude = -83.561306
 latitude = 42.654444
+longitude = -83.561306
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48357"
+

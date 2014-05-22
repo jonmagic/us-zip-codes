@@ -1,6 +1,8 @@
-zip_code = "43836"
-state = "OH"
 city = "Plainfield"
 county = "Coshocton"
-longitude = -81.720675
 latitude = 40.200382
+longitude = -81.720675
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43836"
+

@@ -1,6 +1,8 @@
-zip_code = "35133"
-state = "AL"
 city = "Remlap"
 county = "Blount"
-longitude = -86.586724
 latitude = 33.845846
+longitude = -86.586724
+state = ""
+state_code_alpha2 = ""
+zip_code = "35133"
+

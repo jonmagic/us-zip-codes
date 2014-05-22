@@ -1,6 +1,8 @@
-zip_code = "48469"
-state = "MI"
 city = "Port Sanilac"
 county = "Sanilac"
-longitude = -82.566894
 latitude = 43.458914
+longitude = -82.566894
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48469"
+

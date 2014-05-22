@@ -1,6 +1,8 @@
-zip_code = "59735"
-state = "MT"
 city = "Harrison"
 county = "Madison"
-longitude = -112.027561
 latitude = 45.283594
+longitude = -112.027561
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59735"
+

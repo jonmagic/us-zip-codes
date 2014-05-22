@@ -1,6 +1,8 @@
-zip_code = "68335"
-state = "NE"
 city = "Davenport"
 county = "Thayer"
-longitude = -97.811467
 latitude = 40.312473
+longitude = -97.811467
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68335"
+

@@ -1,6 +1,8 @@
-zip_code = "51017"
-state = "IA"
 city = "Craig"
 county = "Plymouth"
-longitude = -96.309509
 latitude = 42.896225
+longitude = -96.309509
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51017"
+

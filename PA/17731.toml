@@ -1,6 +1,8 @@
-zip_code = "17731"
-state = "PA"
 city = "Eagles Mere"
 county = "Sullivan"
-longitude = -76.516887
 latitude = 41.432901
+longitude = -76.516887
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17731"
+

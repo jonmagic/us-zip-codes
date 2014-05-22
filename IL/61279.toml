@@ -1,6 +1,8 @@
-zip_code = "61279"
-state = "IL"
 city = "Reynolds"
 county = "Rock Island"
-longitude = -90.595329
 latitude = 41.472195
+longitude = -90.595329
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61279"
+

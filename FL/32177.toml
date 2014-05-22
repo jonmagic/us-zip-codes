@@ -1,6 +1,8 @@
-zip_code = "32177"
-state = "FL"
 city = "Palatka"
 county = "Putnam"
-longitude = -81.785957
 latitude = 29.611093
+longitude = -81.785957
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32177"
+

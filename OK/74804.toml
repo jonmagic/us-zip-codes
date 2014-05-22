@@ -1,6 +1,8 @@
-zip_code = "74804"
-state = "OK"
 city = "Shawnee"
 county = "Pottawatomie"
-longitude = -96.933148
 latitude = 35.386758
+longitude = -96.933148
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74804"
+

@@ -1,6 +1,8 @@
-zip_code = "44637"
-state = "OH"
 city = "Killbuck"
 county = "Holmes"
-longitude = -82.041222
 latitude = 40.501625
+longitude = -82.041222
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44637"
+

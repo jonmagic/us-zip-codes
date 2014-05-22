@@ -1,6 +1,8 @@
-zip_code = "37172"
-state = "TN"
 city = "Springfield"
 county = "Robertson"
-longitude = -86.888624
 latitude = 36.51351
+longitude = -86.888624
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37172"
+

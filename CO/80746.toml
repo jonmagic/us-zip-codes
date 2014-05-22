@@ -1,6 +1,8 @@
-zip_code = "80746"
-state = "CO"
 city = "Paoli"
 county = "Phillips"
-longitude = -102.472203
 latitude = 40.610554
+longitude = -102.472203
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80746"
+

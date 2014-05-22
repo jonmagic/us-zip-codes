@@ -1,6 +1,8 @@
-zip_code = "82633"
-state = "WY"
 city = "Douglas"
 county = "Converse"
-longitude = -105.389691
 latitude = 42.894084
+longitude = -105.389691
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82633"
+

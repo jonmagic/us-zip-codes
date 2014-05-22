@@ -1,6 +1,8 @@
-zip_code = "16131"
-state = "PA"
 city = "Hartstown"
 county = "Crawford"
-longitude = -80.417374
 latitude = 41.534292
+longitude = -80.417374
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16131"
+

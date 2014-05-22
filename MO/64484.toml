@@ -1,6 +1,8 @@
-zip_code = "64484"
-state = "MO"
 city = "Rushville"
 county = "Buchanan"
-longitude = -95.037469
 latitude = 39.592806
+longitude = -95.037469
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64484"
+

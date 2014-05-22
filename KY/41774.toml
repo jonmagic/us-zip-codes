@@ -1,6 +1,8 @@
-zip_code = "41774"
-state = "KY"
 city = "Viper"
 county = "Perry"
-longitude = -83.13639
 latitude = 37.24369
+longitude = -83.13639
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41774"
+

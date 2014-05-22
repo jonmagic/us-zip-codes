@@ -1,6 +1,8 @@
-zip_code = "59864"
-state = "MT"
 city = "Ronan"
 county = "Lake"
-longitude = -114.178287
 latitude = 47.507347
+longitude = -114.178287
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59864"
+

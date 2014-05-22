@@ -1,6 +1,8 @@
-zip_code = "15104"
-state = "PA"
 city = "Braddock"
 county = "Allegheny"
-longitude = -79.858359
 latitude = 40.366287
+longitude = -79.858359
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15104"
+

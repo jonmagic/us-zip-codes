@@ -1,6 +1,8 @@
-zip_code = "35052"
-state = "AL"
 city = "Cook Springs"
 county = "Saint Clair"
-longitude = -86.392283
 latitude = 33.589518
+longitude = -86.392283
+state = ""
+state_code_alpha2 = ""
+zip_code = "35052"
+

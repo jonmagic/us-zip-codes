@@ -1,6 +1,8 @@
-zip_code = "95542"
-state = "CA"
 city = "Garberville"
 county = "Humboldt"
-longitude = -123.862815
 latitude = 40.65136
+longitude = -123.862815
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95542"
+

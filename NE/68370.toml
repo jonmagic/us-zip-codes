@@ -1,6 +1,8 @@
-zip_code = "68370"
-state = "NE"
 city = "Hebron"
 county = "Thayer"
-longitude = -97.64485
 latitude = 40.240562
+longitude = -97.64485
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68370"
+

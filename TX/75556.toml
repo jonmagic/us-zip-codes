@@ -1,6 +1,8 @@
-zip_code = "75556"
-state = "TX"
 city = "Bloomburg"
 county = "Cass"
-longitude = -94.348359
 latitude = 33.095778
+longitude = -94.348359
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75556"
+

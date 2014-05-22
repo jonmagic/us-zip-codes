@@ -1,6 +1,8 @@
-zip_code = "40515"
-state = "KY"
 city = "Lexington"
 county = "Fayette"
-longitude = -84.437207
 latitude = 37.924774
+longitude = -84.437207
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40515"
+

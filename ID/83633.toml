@@ -1,6 +1,8 @@
-zip_code = "83633"
-state = "ID"
 city = "King Hill"
 county = "Elmore"
-longitude = -115.189933
 latitude = 42.979861
+longitude = -115.189933
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83633"
+

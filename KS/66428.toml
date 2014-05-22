@@ -1,6 +1,8 @@
-zip_code = "66428"
-state = "KS"
 city = "Goff"
 county = "Nemaha"
-longitude = -95.930454
 latitude = 39.664216
+longitude = -95.930454
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66428"
+

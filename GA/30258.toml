@@ -1,6 +1,8 @@
-zip_code = "30258"
-state = "GA"
 city = "Molena"
 county = "Pike"
-longitude = -84.436925
 latitude = 33.022288
+longitude = -84.436925
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30258"
+

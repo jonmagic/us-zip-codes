@@ -1,6 +1,8 @@
-zip_code = "21545"
-state = "MD"
 city = "Mount Savage"
 county = "Allegany"
-longitude = -78.872465
 latitude = 39.695649
+longitude = -78.872465
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21545"
+

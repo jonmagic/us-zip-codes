@@ -1,6 +1,8 @@
-zip_code = "53056"
-state = "WI"
 city = "Merton"
 county = "Waukesha"
-longitude = -88.30975
 latitude = 43.146023
+longitude = -88.30975
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53056"
+

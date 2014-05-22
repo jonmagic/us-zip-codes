@@ -1,6 +1,8 @@
-zip_code = "92261"
-state = "CA"
 city = "Palm Desert"
 county = "Riverside"
-longitude = -116.408249
 latitude = 33.660374
+longitude = -116.408249
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92261"
+

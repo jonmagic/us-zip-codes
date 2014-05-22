@@ -1,6 +1,8 @@
-zip_code = "68642"
-state = "NE"
 city = "Humphrey"
 county = "Platte"
-longitude = -97.487407
 latitude = 41.690226
+longitude = -97.487407
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68642"
+

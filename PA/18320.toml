@@ -1,6 +1,8 @@
-zip_code = "18320"
-state = "PA"
 city = "Analomink"
 county = "Monroe"
-longitude = -75.236436
 latitude = 41.071213
+longitude = -75.236436
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18320"
+

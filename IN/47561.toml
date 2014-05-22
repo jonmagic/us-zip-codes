@@ -1,6 +1,8 @@
-zip_code = "47561"
-state = "IN"
 city = "Oaktown"
 county = "Knox"
-longitude = -87.388134
 latitude = 38.709818
+longitude = -87.388134
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47561"
+

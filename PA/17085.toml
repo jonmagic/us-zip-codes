@@ -1,6 +1,8 @@
-zip_code = "17085"
-state = "PA"
 city = "Rexmont"
 county = "Lebanon"
-longitude = -76.385727
 latitude = 40.277076
+longitude = -76.385727
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17085"
+

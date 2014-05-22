@@ -1,6 +1,8 @@
-zip_code = "13416"
-state = "NY"
 city = "Newport"
 county = "Herkimer"
-longitude = -74.971893
 latitude = 43.203313
+longitude = -74.971893
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13416"
+

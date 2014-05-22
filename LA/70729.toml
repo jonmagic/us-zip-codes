@@ -1,6 +1,8 @@
-zip_code = "70729"
-state = "LA"
 city = "Erwinville"
 county = "West Baton Rouge"
-longitude = -91.394396
 latitude = 30.551335
+longitude = -91.394396
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70729"
+

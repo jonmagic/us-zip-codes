@@ -1,6 +1,8 @@
-zip_code = "68770"
-state = "NE"
 city = "Ponca"
 county = "Dixon"
-longitude = -96.711058
 latitude = 42.565991
+longitude = -96.711058
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68770"
+

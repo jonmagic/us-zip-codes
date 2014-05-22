@@ -1,6 +1,8 @@
-zip_code = "47339"
-state = "IN"
 city = "Economy"
 county = "Wayne"
-longitude = -85.102314
 latitude = 39.961044
+longitude = -85.102314
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47339"
+

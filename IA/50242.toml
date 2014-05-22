@@ -1,6 +1,8 @@
-zip_code = "50242"
-state = "IA"
 city = "Searsboro"
 county = "Poweshiek"
-longitude = -92.654204
 latitude = 41.569631
+longitude = -92.654204
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50242"
+

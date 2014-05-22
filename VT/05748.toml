@@ -1,6 +1,8 @@
-zip_code = "05748"
-state = "VT"
 city = "Hancock"
 county = "Addison"
-longitude = -72.890031
 latitude = 43.907858
+longitude = -72.890031
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05748"
+

@@ -1,6 +1,8 @@
-zip_code = "16694"
-state = "PA"
 city = "Wood"
 county = "Bedford"
-longitude = -78.138144
 latitude = 40.165987
+longitude = -78.138144
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16694"
+

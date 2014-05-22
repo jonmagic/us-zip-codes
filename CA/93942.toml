@@ -1,6 +1,8 @@
-zip_code = "93942"
-state = "CA"
 city = "Monterey"
 county = "Monterey"
-longitude = -121.132928
 latitude = 36.35433
+longitude = -121.132928
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93942"
+

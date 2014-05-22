@@ -1,6 +1,8 @@
-zip_code = "15739"
-state = "PA"
 city = "Ernest"
 county = "Indiana"
-longitude = -79.165708
 latitude = 40.677971
+longitude = -79.165708
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15739"
+

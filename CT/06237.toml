@@ -1,6 +1,8 @@
-zip_code = "06237"
-state = "CT"
 city = "Columbia"
 county = "Tolland"
-longitude = -72.300043
 latitude = 41.696124
+longitude = -72.300043
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06237"
+

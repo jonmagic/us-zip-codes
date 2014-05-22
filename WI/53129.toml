@@ -1,6 +1,8 @@
-zip_code = "53129"
-state = "WI"
 city = "Greendale"
 county = "Milwaukee"
-longitude = -87.998935
 latitude = 42.937765
+longitude = -87.998935
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53129"
+

@@ -1,6 +1,8 @@
-zip_code = "23005"
-state = "VA"
 city = "Ashland"
 county = "Hanover"
-longitude = -77.480128
 latitude = 37.754912
+longitude = -77.480128
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23005"
+

@@ -1,6 +1,8 @@
-zip_code = "68045"
-state = "NE"
 city = "Oakland"
 county = "Burt"
-longitude = -96.401432
 latitude = 41.845492
+longitude = -96.401432
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68045"
+

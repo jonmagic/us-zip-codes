@@ -1,6 +1,8 @@
-zip_code = "10595"
-state = "NY"
 city = "Valhalla"
 county = "Westchester"
-longitude = -73.784768
 latitude = 41.090218
+longitude = -73.784768
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10595"
+

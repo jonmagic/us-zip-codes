@@ -1,6 +1,8 @@
-zip_code = "23487"
-state = "VA"
 city = "Windsor"
 county = "Isle Of Wight"
-longitude = -76.713731
 latitude = 36.845054
+longitude = -76.713731
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23487"
+

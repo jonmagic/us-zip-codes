@@ -1,6 +1,8 @@
-zip_code = "07846"
-state = "NJ"
 city = "Johnsonburg"
 county = "Warren"
-longitude = -74.873265
 latitude = 40.968998
+longitude = -74.873265
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07846"
+

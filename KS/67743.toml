@@ -1,6 +1,8 @@
-zip_code = "67743"
-state = "KS"
 city = "Levant"
 county = "Thomas"
-longitude = -101.148818
 latitude = 39.413268
+longitude = -101.148818
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67743"
+

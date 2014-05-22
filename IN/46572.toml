@@ -1,6 +1,8 @@
-zip_code = "46572"
-state = "IN"
 city = "Tyner"
 county = "Marshall"
-longitude = -86.260569
 latitude = 41.325513
+longitude = -86.260569
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46572"
+

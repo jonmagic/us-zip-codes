@@ -1,6 +1,8 @@
-zip_code = "62920"
-state = "IL"
 city = "Cobden"
 county = "Union"
-longitude = -89.219012
 latitude = 37.526817
+longitude = -89.219012
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62920"
+

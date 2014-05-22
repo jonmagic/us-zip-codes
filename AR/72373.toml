@@ -1,6 +1,8 @@
-zip_code = "72373"
-state = "AR"
 city = "Parkin"
 county = "Cross"
-longitude = -90.635505
 latitude = 35.293247
+longitude = -90.635505
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72373"
+

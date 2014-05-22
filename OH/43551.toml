@@ -1,6 +1,8 @@
-zip_code = "43551"
-state = "OH"
 city = "Perrysburg"
 county = "Wood"
-longitude = -83.577701
 latitude = 41.535057
+longitude = -83.577701
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43551"
+

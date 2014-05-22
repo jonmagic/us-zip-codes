@@ -1,6 +1,8 @@
-zip_code = "04431"
-state = "ME"
 city = "East Orland"
 county = "Hancock"
-longitude = -68.664735
 latitude = 44.561174
+longitude = -68.664735
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04431"
+

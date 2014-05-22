@@ -1,6 +1,8 @@
-zip_code = "54762"
-state = "WI"
 city = "Prairie Farm"
 county = "Barron"
-longitude = -91.992842
 latitude = 45.262353
+longitude = -91.992842
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54762"
+

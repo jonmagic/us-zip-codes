@@ -1,6 +1,8 @@
-zip_code = "17965"
-state = "PA"
 city = "Port Carbon"
 county = "Schuylkill"
-longitude = -76.199259
 latitude = 40.771333
+longitude = -76.199259
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17965"
+

@@ -1,6 +1,8 @@
-zip_code = "81646"
-state = "CO"
 city = "Molina"
 county = "Mesa"
-longitude = -108.076508
 latitude = 39.165152
+longitude = -108.076508
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81646"
+

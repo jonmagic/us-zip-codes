@@ -1,6 +1,8 @@
-zip_code = "37663"
-state = "TN"
 city = "Kingsport"
 county = "Sullivan"
-longitude = -82.4834
 latitude = 36.47152
+longitude = -82.4834
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37663"
+

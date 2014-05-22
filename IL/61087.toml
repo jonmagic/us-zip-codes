@@ -1,6 +1,8 @@
-zip_code = "61087"
-state = "IL"
 city = "Warren"
 county = "Jo Daviess"
-longitude = -90.087359
 latitude = 42.470405
+longitude = -90.087359
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61087"
+

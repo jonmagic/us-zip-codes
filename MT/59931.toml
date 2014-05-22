@@ -1,6 +1,8 @@
-zip_code = "59931"
-state = "MT"
 city = "Rollins"
 county = "Lake"
-longitude = -114.206827
 latitude = 47.899392
+longitude = -114.206827
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59931"
+

@@ -1,6 +1,8 @@
-zip_code = "26074"
-state = "WV"
 city = "West Liberty"
 county = "Ohio"
-longitude = -80.595763
 latitude = 40.169839
+longitude = -80.595763
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26074"
+

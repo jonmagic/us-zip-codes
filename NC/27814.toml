@@ -1,6 +1,8 @@
-zip_code = "27814"
-state = "NC"
 city = "Blounts Creek"
 county = "Beaufort"
-longitude = -76.977521
 latitude = 35.500693
+longitude = -76.977521
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27814"
+

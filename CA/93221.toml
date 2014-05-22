@@ -1,6 +1,8 @@
-zip_code = "93221"
-state = "CA"
 city = "Exeter"
 county = "Tulare"
-longitude = -119.088371
 latitude = 36.344716
+longitude = -119.088371
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93221"
+

@@ -1,6 +1,8 @@
-zip_code = "53157"
-state = "WI"
 city = "Pell Lake"
 county = "Walworth"
-longitude = -88.358167
 latitude = 42.540048
+longitude = -88.358167
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53157"
+

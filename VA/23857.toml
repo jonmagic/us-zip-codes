@@ -1,6 +1,8 @@
-zip_code = "23857"
-state = "VA"
 city = "Gasburg"
 county = "Brunswick"
-longitude = -77.890727
 latitude = 36.596172
+longitude = -77.890727
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23857"
+

@@ -1,6 +1,8 @@
-zip_code = "15956"
-state = "PA"
 city = "South Fork"
 county = "Cambria"
-longitude = -78.778413
 latitude = 40.41164
+longitude = -78.778413
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15956"
+

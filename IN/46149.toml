@@ -1,6 +1,8 @@
-zip_code = "46149"
-state = "IN"
 city = "Lizton"
 county = "Hendricks"
-longitude = -86.560328
 latitude = 39.871667
+longitude = -86.560328
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46149"
+

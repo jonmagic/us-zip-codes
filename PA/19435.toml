@@ -1,6 +1,8 @@
-zip_code = "19435"
-state = "PA"
 city = "Frederick"
 county = "Montgomery"
-longitude = -75.55171
 latitude = 40.312552
+longitude = -75.55171
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19435"
+

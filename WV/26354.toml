@@ -1,6 +1,8 @@
-zip_code = "26354"
-state = "WV"
 city = "Grafton"
 county = "Taylor"
-longitude = -80.015686
 latitude = 39.336266
+longitude = -80.015686
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26354"
+

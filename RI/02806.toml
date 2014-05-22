@@ -1,6 +1,8 @@
-zip_code = "02806"
-state = "RI"
 city = "Barrington"
 county = "Bristol"
-longitude = -71.320395
 latitude = 41.742501
+longitude = -71.320395
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02806"
+

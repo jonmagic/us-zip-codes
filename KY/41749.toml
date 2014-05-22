@@ -1,6 +1,8 @@
-zip_code = "41749"
-state = "KY"
 city = "Hyden"
 county = "Leslie"
-longitude = -83.416902
 latitude = 37.187746
+longitude = -83.416902
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41749"
+

@@ -1,6 +1,8 @@
-zip_code = "48072"
-state = "MI"
 city = "Berkley"
 county = "Oakland"
-longitude = -83.181077
 latitude = 42.499235
+longitude = -83.181077
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48072"
+

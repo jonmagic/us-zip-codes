@@ -1,6 +1,8 @@
-zip_code = "30143"
-state = "GA"
 city = "Jasper"
 county = "Pickens"
-longitude = -84.428243
 latitude = 34.469042
+longitude = -84.428243
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30143"
+

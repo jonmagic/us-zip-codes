@@ -1,6 +1,8 @@
-zip_code = "33445"
-state = "FL"
 city = "Delray Beach"
 county = "Palm Beach"
-longitude = -80.100015
 latitude = 26.548504
+longitude = -80.100015
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33445"
+

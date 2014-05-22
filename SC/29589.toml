@@ -1,6 +1,8 @@
-zip_code = "29589"
-state = "SC"
 city = "Rains"
 county = "Marion"
-longitude = -79.322116
 latitude = 34.105265
+longitude = -79.322116
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29589"
+

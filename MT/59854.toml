@@ -1,6 +1,8 @@
-zip_code = "59854"
-state = "MT"
 city = "Ovando"
 county = "Powell"
-longitude = -113.097461
 latitude = 47.035882
+longitude = -113.097461
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59854"
+

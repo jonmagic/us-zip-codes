@@ -1,6 +1,8 @@
-zip_code = "58623"
-state = "ND"
 city = "Bowman"
 county = "Bowman"
-longitude = -103.521263
 latitude = 46.205537
+longitude = -103.521263
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58623"
+

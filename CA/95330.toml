@@ -1,6 +1,8 @@
-zip_code = "95330"
-state = "CA"
 city = "Lathrop"
 county = "San Joaquin"
-longitude = -121.287362
 latitude = 37.811976
+longitude = -121.287362
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95330"
+

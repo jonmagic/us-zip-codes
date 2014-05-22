@@ -1,6 +1,8 @@
-zip_code = "59643"
-state = "MT"
 city = "Toston"
 county = "Broadwater"
-longitude = -111.526373
 latitude = 46.285118
+longitude = -111.526373
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59643"
+

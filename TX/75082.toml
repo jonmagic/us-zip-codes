@@ -1,6 +1,8 @@
-zip_code = "75082"
-state = "TX"
 city = "Richardson"
 county = "Dallas"
-longitude = -96.69137
 latitude = 32.979315
+longitude = -96.69137
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75082"
+

@@ -1,6 +1,8 @@
-zip_code = "99332"
-state = "WA"
 city = "Hatton"
 county = "Adams"
-longitude = -118.800049
 latitude = 46.77062
+longitude = -118.800049
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99332"
+

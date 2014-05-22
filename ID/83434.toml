@@ -1,6 +1,8 @@
-zip_code = "83434"
-state = "ID"
 city = "Menan"
 county = "Jefferson"
-longitude = -112.041547
 latitude = 43.714547
+longitude = -112.041547
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83434"
+

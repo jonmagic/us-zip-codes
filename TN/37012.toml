@@ -1,6 +1,8 @@
-zip_code = "37012"
-state = "TN"
 city = "Alexandria"
 county = "Dekalb"
-longitude = -85.997115
 latitude = 36.034524
+longitude = -85.997115
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37012"
+

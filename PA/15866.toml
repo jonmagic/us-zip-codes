@@ -1,6 +1,8 @@
-zip_code = "15866"
-state = "PA"
 city = "Troutville"
 county = "Clearfield"
-longitude = -78.785731
 latitude = 41.011686
+longitude = -78.785731
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15866"
+

@@ -1,6 +1,8 @@
-zip_code = "77990"
-state = "TX"
 city = "Tivoli"
 county = "Refugio"
-longitude = -96.892788
 latitude = 28.458661
+longitude = -96.892788
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77990"
+

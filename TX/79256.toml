@@ -1,6 +1,8 @@
-zip_code = "79256"
-state = "TX"
 city = "Roaring Springs"
 county = "Motley"
-longitude = -100.857208
 latitude = 33.901277
+longitude = -100.857208
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79256"
+

@@ -1,6 +1,8 @@
-zip_code = "68783"
-state = "NE"
 city = "Verdigre"
 county = "Knox"
-longitude = -98.129817
 latitude = 42.624821
+longitude = -98.129817
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68783"
+

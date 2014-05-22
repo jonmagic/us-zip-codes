@@ -1,6 +1,8 @@
-zip_code = "42351"
-state = "KY"
 city = "Lewisport"
 county = "Hancock"
-longitude = -86.882034
 latitude = 37.911077
+longitude = -86.882034
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42351"
+

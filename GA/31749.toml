@@ -1,6 +1,8 @@
-zip_code = "31749"
-state = "GA"
 city = "Enigma"
 county = "Berrien"
-longitude = -83.355349
 latitude = 31.417797
+longitude = -83.355349
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31749"
+

@@ -1,6 +1,8 @@
-zip_code = "18335"
-state = "PA"
 city = "Marshalls Creek"
 county = "Monroe"
-longitude = -75.208269
 latitude = 41.050764
+longitude = -75.208269
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18335"
+

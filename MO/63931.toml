@@ -1,6 +1,8 @@
-zip_code = "63931"
-state = "MO"
 city = "Briar"
 county = "Ripley"
-longitude = -90.850785
 latitude = 36.66101
+longitude = -90.850785
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63931"
+

@@ -1,6 +1,8 @@
-zip_code = "88339"
-state = "NM"
 city = "Mayhill"
 county = "Otero"
-longitude = -105.598225
 latitude = 32.989936
+longitude = -105.598225
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88339"
+

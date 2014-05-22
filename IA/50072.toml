@@ -1,6 +1,8 @@
-zip_code = "50072"
-state = "IA"
 city = "Earlham"
 county = "Madison"
-longitude = -94.107202
 latitude = 41.43059
+longitude = -94.107202
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50072"
+

@@ -1,6 +1,8 @@
-zip_code = "76935"
-state = "TX"
 city = "Christoval"
 county = "Tom Green"
-longitude = -100.544674
 latitude = 31.188841
+longitude = -100.544674
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76935"
+

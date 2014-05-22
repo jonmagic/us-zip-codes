@@ -1,6 +1,8 @@
-zip_code = "64012"
-state = "MO"
 city = "Belton"
 county = "Cass"
-longitude = -94.532397
 latitude = 38.784041
+longitude = -94.532397
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64012"
+

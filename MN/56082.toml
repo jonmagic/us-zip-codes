@@ -1,6 +1,8 @@
-zip_code = "56082"
-state = "MN"
 city = "Saint Peter"
 county = "Nicollet"
-longitude = -94.070153
 latitude = 44.337793
+longitude = -94.070153
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56082"
+

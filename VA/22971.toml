@@ -1,6 +1,8 @@
-zip_code = "22971"
-state = "VA"
 city = "Shipman"
 county = "Nelson"
-longitude = -78.810459
 latitude = 37.759956
+longitude = -78.810459
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22971"
+

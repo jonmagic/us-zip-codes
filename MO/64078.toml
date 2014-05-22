@@ -1,6 +1,8 @@
-zip_code = "64078"
-state = "MO"
 city = "Peculiar"
 county = "Cass"
-longitude = -94.472568
 latitude = 38.715254
+longitude = -94.472568
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64078"
+

@@ -1,6 +1,8 @@
-zip_code = "67053"
-state = "KS"
 city = "Goessel"
 county = "Marion"
-longitude = -97.325769
 latitude = 38.219081
+longitude = -97.325769
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67053"
+

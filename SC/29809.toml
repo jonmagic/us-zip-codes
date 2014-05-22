@@ -1,6 +1,8 @@
-zip_code = "29809"
-state = "SC"
 city = "New Ellenton"
 county = "Aiken"
-longitude = -81.689951
 latitude = 33.413029
+longitude = -81.689951
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29809"
+

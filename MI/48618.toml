@@ -1,6 +1,8 @@
-zip_code = "48618"
-state = "MI"
 city = "Coleman"
 county = "Midland"
-longitude = -84.52035
 latitude = 43.720284
+longitude = -84.52035
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48618"
+

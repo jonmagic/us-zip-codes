@@ -1,6 +1,8 @@
-zip_code = "76078"
-state = "TX"
 city = "Rhome"
 county = "Wise"
-longitude = -97.480329
 latitude = 33.092103
+longitude = -97.480329
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76078"
+

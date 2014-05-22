@@ -1,6 +1,8 @@
-zip_code = "23889"
-state = "VA"
 city = "Warfield"
 county = "Brunswick"
-longitude = -77.764753
 latitude = 36.885672
+longitude = -77.764753
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23889"
+

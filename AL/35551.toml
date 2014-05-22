@@ -1,6 +1,8 @@
-zip_code = "35551"
-state = "AL"
 city = "Delmar"
 county = "Winston"
-longitude = -87.373241
 latitude = 34.145939
+longitude = -87.373241
+state = ""
+state_code_alpha2 = ""
+zip_code = "35551"
+

@@ -1,6 +1,8 @@
-zip_code = "74962"
-state = "OK"
 city = "Vian"
 county = "Sequoyah"
-longitude = -94.968442
 latitude = 35.497703
+longitude = -94.968442
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74962"
+

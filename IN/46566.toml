@@ -1,6 +1,8 @@
-zip_code = "46566"
-state = "IN"
 city = "Sidney"
 county = "Kosciusko"
-longitude = -85.88883
 latitude = 41.137923
+longitude = -85.88883
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46566"
+

@@ -1,6 +1,8 @@
-zip_code = "36467"
-state = "AL"
 city = "Opp"
 county = "Covington"
-longitude = -86.356208
 latitude = 31.260401
+longitude = -86.356208
+state = ""
+state_code_alpha2 = ""
+zip_code = "36467"
+

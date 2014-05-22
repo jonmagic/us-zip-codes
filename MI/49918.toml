@@ -1,6 +1,8 @@
-zip_code = "49918"
-state = "MI"
 city = "Copper Harbor"
 county = "Keweenaw"
-longitude = -87.946283
 latitude = 47.471616
+longitude = -87.946283
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49918"
+

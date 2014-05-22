@@ -1,6 +1,8 @@
-zip_code = "32328"
-state = "FL"
 city = "Eastpoint"
 county = "Franklin"
-longitude = -84.816238
 latitude = 29.749548
+longitude = -84.816238
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32328"
+

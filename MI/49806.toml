@@ -1,6 +1,8 @@
-zip_code = "49806"
-state = "MI"
 city = "Au Train"
 county = "Alger"
-longitude = -86.911506
 latitude = 46.444586
+longitude = -86.911506
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49806"
+

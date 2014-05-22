@@ -1,6 +1,8 @@
-zip_code = "55363"
-state = "MN"
 city = "Montrose"
 county = "Wright"
-longitude = -94.056543
 latitude = 45.048202
+longitude = -94.056543
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55363"
+

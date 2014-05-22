@@ -1,6 +1,8 @@
-zip_code = "18063"
-state = "PA"
 city = "Martins Creek"
 county = "Northampton"
-longitude = -75.173494
 latitude = 40.782456
+longitude = -75.173494
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18063"
+

@@ -1,6 +1,8 @@
-zip_code = "60561"
-state = "IL"
 city = "Darien"
 county = "Du Page"
-longitude = -87.98046
 latitude = 41.743437
+longitude = -87.98046
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60561"
+

@@ -1,6 +1,8 @@
-zip_code = "63388"
-state = "MO"
 city = "Williamsburg"
 county = "Callaway"
-longitude = -91.768887
 latitude = 38.887421
+longitude = -91.768887
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63388"
+

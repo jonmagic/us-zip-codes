@@ -1,6 +1,8 @@
-zip_code = "50005"
-state = "IA"
 city = "Albion"
 county = "Marshall"
-longitude = -92.961868
 latitude = 42.143933
+longitude = -92.961868
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50005"
+

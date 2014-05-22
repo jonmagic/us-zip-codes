@@ -1,6 +1,8 @@
-zip_code = "86321"
-state = "AZ"
 city = "Bagdad"
 county = "Yavapai"
-longitude = -113.164742
 latitude = 34.583624
+longitude = -113.164742
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86321"
+

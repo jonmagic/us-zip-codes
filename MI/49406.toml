@@ -1,6 +1,8 @@
-zip_code = "49406"
-state = "MI"
 city = "Douglas"
 county = "Allegan"
-longitude = -86.202158
 latitude = 42.636883
+longitude = -86.202158
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49406"
+

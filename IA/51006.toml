@@ -1,6 +1,8 @@
-zip_code = "51006"
-state = "IA"
 city = "Battle Creek"
 county = "Ida"
-longitude = -95.546574
 latitude = 42.359052
+longitude = -95.546574
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51006"
+

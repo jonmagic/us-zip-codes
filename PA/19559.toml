@@ -1,6 +1,8 @@
-zip_code = "19559"
-state = "PA"
 city = "Strausstown"
 county = "Berks"
-longitude = -76.18646
 latitude = 40.494368
+longitude = -76.18646
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19559"
+

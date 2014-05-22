@@ -1,6 +1,8 @@
-zip_code = "16228"
-state = "PA"
 city = "Ford Cliff"
 county = "Armstrong"
-longitude = -79.522225
 latitude = 40.756829
+longitude = -79.522225
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16228"
+

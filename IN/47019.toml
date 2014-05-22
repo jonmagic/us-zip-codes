@@ -1,6 +1,8 @@
-zip_code = "47019"
-state = "IN"
 city = "East Enterprise"
 county = "Switzerland"
-longitude = -84.925998
 latitude = 38.868591
+longitude = -84.925998
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47019"
+

@@ -1,6 +1,8 @@
-zip_code = "54865"
-state = "WI"
 city = "Port Wing"
 county = "Bayfield"
-longitude = -91.353195
 latitude = 46.715564
+longitude = -91.353195
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54865"
+

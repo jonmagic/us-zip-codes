@@ -1,6 +1,8 @@
-zip_code = "14831"
-state = "NY"
 city = "Corning"
 county = "Steuben"
-longitude = -77.56683
 latitude = 42.145265
+longitude = -77.56683
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14831"
+

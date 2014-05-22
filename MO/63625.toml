@@ -1,6 +1,8 @@
-zip_code = "63625"
-state = "MO"
 city = "Black"
 county = "Reynolds"
-longitude = -91.024337
 latitude = 37.327153
+longitude = -91.024337
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63625"
+

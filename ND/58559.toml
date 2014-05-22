@@ -1,6 +1,8 @@
-zip_code = "58559"
-state = "ND"
 city = "Mercer"
 county = "Mclean"
-longitude = -100.758394
 latitude = 47.501822
+longitude = -100.758394
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58559"
+

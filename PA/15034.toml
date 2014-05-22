@@ -1,6 +1,8 @@
-zip_code = "15034"
-state = "PA"
 city = "Dravosburg"
 county = "Allegheny"
-longitude = -79.892171
 latitude = 40.315793
+longitude = -79.892171
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15034"
+

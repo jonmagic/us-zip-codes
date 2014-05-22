@@ -1,6 +1,8 @@
-zip_code = "52237"
-state = "IA"
 city = "Hopkinton"
 county = "Delaware"
-longitude = -91.276347
 latitude = 42.366671
+longitude = -91.276347
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52237"
+

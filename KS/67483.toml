@@ -1,6 +1,8 @@
-zip_code = "67483"
-state = "KS"
 city = "Tampa"
 county = "Marion"
-longitude = -97.17004
 latitude = 38.54879
+longitude = -97.17004
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67483"
+

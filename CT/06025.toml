@@ -1,6 +1,8 @@
-zip_code = "06025"
-state = "CT"
 city = "East Glastonbury"
 county = "Hartford"
-longitude = -72.534482
 latitude = 41.688896
+longitude = -72.534482
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06025"
+

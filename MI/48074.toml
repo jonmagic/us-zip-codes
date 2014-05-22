@@ -1,6 +1,8 @@
-zip_code = "48074"
-state = "MI"
 city = "Smiths Creek"
 county = "Saint Clair"
-longitude = -82.567942
 latitude = 42.905056
+longitude = -82.567942
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48074"
+

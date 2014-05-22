@@ -1,6 +1,8 @@
-zip_code = "71922"
-state = "AR"
 city = "Antoine"
 county = "Pike"
-longitude = -93.653733
 latitude = 34.146678
+longitude = -93.653733
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71922"
+

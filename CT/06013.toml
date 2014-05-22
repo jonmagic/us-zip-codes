@@ -1,6 +1,8 @@
-zip_code = "06013"
-state = "CT"
 city = "Burlington"
 county = "Hartford"
-longitude = -72.95826
 latitude = 41.761773
+longitude = -72.95826
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06013"
+

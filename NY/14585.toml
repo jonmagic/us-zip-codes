@@ -1,6 +1,8 @@
-zip_code = "14585"
-state = "NY"
 city = "West Bloomfield"
 county = "Ontario"
-longitude = -77.548423
 latitude = 42.905459
+longitude = -77.548423
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14585"
+

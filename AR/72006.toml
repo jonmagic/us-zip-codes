@@ -1,6 +1,8 @@
-zip_code = "72006"
-state = "AR"
 city = "Augusta"
 county = "Woodruff"
-longitude = -91.372792
 latitude = 35.207566
+longitude = -91.372792
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72006"
+

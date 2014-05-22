@@ -1,6 +1,8 @@
-zip_code = "80544"
-state = "CO"
 city = "Niwot"
 county = "Boulder"
-longitude = -105.275045
 latitude = 40.177043
+longitude = -105.275045
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80544"
+

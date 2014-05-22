@@ -1,6 +1,8 @@
-zip_code = "48705"
-state = "MI"
 city = "Barton City"
 county = "Alcona"
-longitude = -83.599977
 latitude = 44.678354
+longitude = -83.599977
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48705"
+

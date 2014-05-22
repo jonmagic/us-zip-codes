@@ -1,6 +1,8 @@
-zip_code = "27231"
-state = "NC"
 city = "Cedar Grove"
 county = "Orange"
-longitude = -79.164741
 latitude = 36.181138
+longitude = -79.164741
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27231"
+

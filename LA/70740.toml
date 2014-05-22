@@ -1,6 +1,8 @@
-zip_code = "70740"
-state = "LA"
 city = "Grosse Tete"
 county = "Iberville"
-longitude = -91.412678
 latitude = 30.371497
+longitude = -91.412678
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70740"
+

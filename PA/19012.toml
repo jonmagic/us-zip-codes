@@ -1,6 +1,8 @@
-zip_code = "19012"
-state = "PA"
 city = "Cheltenham"
 county = "Montgomery"
-longitude = -75.104468
 latitude = 40.059161
+longitude = -75.104468
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19012"
+

@@ -1,6 +1,8 @@
-zip_code = "53185"
-state = "WI"
 city = "Waterford"
 county = "Racine"
-longitude = -88.197361
 latitude = 42.763168
+longitude = -88.197361
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53185"
+

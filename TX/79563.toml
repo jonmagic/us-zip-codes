@@ -1,6 +1,8 @@
-zip_code = "79563"
-state = "TX"
 city = "Tye"
 county = "Taylor"
-longitude = -99.924042
 latitude = 32.432954
+longitude = -99.924042
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79563"
+

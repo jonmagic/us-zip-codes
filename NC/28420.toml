@@ -1,6 +1,8 @@
-zip_code = "28420"
-state = "NC"
 city = "Ash"
 county = "Brunswick"
-longitude = -78.494942
 latitude = 34.06493
+longitude = -78.494942
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28420"
+

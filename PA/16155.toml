@@ -1,6 +1,8 @@
-zip_code = "16155"
-state = "PA"
 city = "Villa Maria"
 county = "Lawrence"
-longitude = -80.308376
 latitude = 40.989662
+longitude = -80.308376
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16155"
+

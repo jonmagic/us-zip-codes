@@ -1,6 +1,8 @@
-zip_code = "28120"
-state = "NC"
 city = "Mount Holly"
 county = "Gaston"
-longitude = -81.026738
 latitude = 35.318697
+longitude = -81.026738
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28120"
+

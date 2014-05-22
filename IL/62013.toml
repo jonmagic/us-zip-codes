@@ -1,6 +1,8 @@
-zip_code = "62013"
-state = "IL"
 city = "Brussels"
 county = "Calhoun"
-longitude = -90.596798
 latitude = 38.925543
+longitude = -90.596798
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62013"
+

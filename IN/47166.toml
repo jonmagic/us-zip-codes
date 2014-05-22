@@ -1,6 +1,8 @@
-zip_code = "47166"
-state = "IN"
 city = "Ramsey"
 county = "Harrison"
-longitude = -86.168979
 latitude = 38.303364
+longitude = -86.168979
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47166"
+

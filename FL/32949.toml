@@ -1,6 +1,8 @@
-zip_code = "32949"
-state = "FL"
 city = "Grant"
 county = "Brevard"
-longitude = -80.555597
 latitude = 27.936416
+longitude = -80.555597
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32949"
+

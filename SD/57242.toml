@@ -1,6 +1,8 @@
-zip_code = "57242"
-state = "SD"
 city = "Hazel"
 county = "Hamlin"
-longitude = -97.381575
 latitude = 44.759144
+longitude = -97.381575
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57242"
+

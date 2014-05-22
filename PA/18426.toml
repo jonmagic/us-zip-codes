@@ -1,6 +1,8 @@
-zip_code = "18426"
-state = "PA"
 city = "Greentown"
 county = "Pike"
-longitude = -75.199395
 latitude = 41.320734
+longitude = -75.199395
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18426"
+

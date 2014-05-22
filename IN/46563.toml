@@ -1,6 +1,8 @@
-zip_code = "46563"
-state = "IN"
 city = "Plymouth"
 county = "Marshall"
-longitude = -86.301486
 latitude = 41.352997
+longitude = -86.301486
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46563"
+

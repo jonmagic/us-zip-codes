@@ -1,6 +1,8 @@
-zip_code = "23821"
-state = "VA"
 city = "Alberta"
 county = "Brunswick"
-longitude = -77.894632
 latitude = 36.858078
+longitude = -77.894632
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23821"
+

@@ -1,6 +1,8 @@
-zip_code = "64474"
-state = "MO"
 city = "Osborn"
 county = "Dekalb"
-longitude = -94.397441
 latitude = 39.791179
+longitude = -94.397441
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64474"
+

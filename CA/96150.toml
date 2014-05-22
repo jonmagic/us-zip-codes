@@ -1,6 +1,8 @@
-zip_code = "96150"
-state = "CA"
 city = "South Lake Tahoe"
 county = "El Dorado"
-longitude = -120.039632
 latitude = 38.927507
+longitude = -120.039632
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96150"
+

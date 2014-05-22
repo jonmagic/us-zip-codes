@@ -1,6 +1,8 @@
-zip_code = "07877"
-state = "NJ"
 city = "Swartswood"
 county = "Sussex"
-longitude = -74.850759
 latitude = 41.10289
+longitude = -74.850759
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07877"
+

@@ -1,6 +1,8 @@
-zip_code = "18826"
-state = "PA"
 city = "Kingsley"
 county = "Susquehanna"
-longitude = -75.732669
 latitude = 41.766724
+longitude = -75.732669
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18826"
+

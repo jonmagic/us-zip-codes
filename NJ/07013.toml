@@ -1,6 +1,8 @@
-zip_code = "07013"
-state = "NJ"
 city = "Clifton"
 county = "Passaic"
-longitude = -74.170138
 latitude = 40.872898
+longitude = -74.170138
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07013"
+

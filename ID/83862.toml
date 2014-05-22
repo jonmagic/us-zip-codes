@@ -1,6 +1,8 @@
-zip_code = "83862"
-state = "ID"
 city = "Samuels"
 county = "Bonner"
-longitude = -116.545493
 latitude = 48.36875
+longitude = -116.545493
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83862"
+

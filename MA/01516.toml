@@ -1,6 +1,8 @@
-zip_code = "01516"
-state = "MA"
 city = "Douglas"
 county = "Worcester"
-longitude = -71.891139
 latitude = 42.113076
+longitude = -71.891139
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01516"
+

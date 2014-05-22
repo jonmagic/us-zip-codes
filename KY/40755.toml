@@ -1,6 +1,8 @@
-zip_code = "40755"
-state = "KY"
 city = "Pittsburg"
 county = "Laurel"
-longitude = -84.116614
 latitude = 37.167752
+longitude = -84.116614
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40755"
+

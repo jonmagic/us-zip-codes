@@ -1,6 +1,8 @@
-zip_code = "56129"
-state = "MN"
 city = "Ellsworth"
 county = "Nobles"
-longitude = -95.983538
 latitude = 43.536342
+longitude = -95.983538
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56129"
+

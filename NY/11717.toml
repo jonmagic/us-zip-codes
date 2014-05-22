@@ -1,6 +1,8 @@
-zip_code = "11717"
-state = "NY"
 city = "Brentwood"
 county = "Suffolk"
-longitude = -73.250336
 latitude = 40.780882
+longitude = -73.250336
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11717"
+

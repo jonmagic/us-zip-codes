@@ -1,6 +1,8 @@
-zip_code = "08804"
-state = "NJ"
 city = "Bloomsbury"
 county = "Hunterdon"
-longitude = -75.092934
 latitude = 40.646294
+longitude = -75.092934
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08804"
+

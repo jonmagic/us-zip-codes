@@ -1,6 +1,8 @@
-zip_code = "98628"
-state = "WA"
 city = "Klickitat"
 county = "Klickitat"
-longitude = -121.044345
 latitude = 45.856217
+longitude = -121.044345
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98628"
+

@@ -1,6 +1,8 @@
-zip_code = "74352"
-state = "OK"
 city = "Locust Grove"
 county = "Mayes"
-longitude = -95.167408
 latitude = 36.198011
+longitude = -95.167408
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74352"
+

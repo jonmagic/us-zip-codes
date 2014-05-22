@@ -1,6 +1,8 @@
-zip_code = "71050"
-state = "LA"
 city = "Longstreet"
 county = "De Soto"
-longitude = -93.913834
 latitude = 32.117539
+longitude = -93.913834
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71050"
+

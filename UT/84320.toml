@@ -1,6 +1,8 @@
-zip_code = "84320"
-state = "UT"
 city = "Lewiston"
 county = "Cache"
-longitude = -111.874421
 latitude = 41.816874
+longitude = -111.874421
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84320"
+

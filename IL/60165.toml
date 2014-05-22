@@ -1,6 +1,8 @@
-zip_code = "60165"
-state = "IL"
 city = "Stone Park"
 county = "Cook"
-longitude = -87.878011
 latitude = 41.90743
+longitude = -87.878011
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60165"
+

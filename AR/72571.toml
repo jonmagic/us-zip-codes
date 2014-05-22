@@ -1,6 +1,8 @@
-zip_code = "72571"
-state = "AR"
 city = "Rosie"
 county = "Independence"
-longitude = -91.536246
 latitude = 35.645494
+longitude = -91.536246
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72571"
+

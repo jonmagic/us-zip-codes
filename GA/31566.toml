@@ -1,6 +1,8 @@
-zip_code = "31566"
-state = "GA"
 city = "Waynesville"
 county = "Brantley"
-longitude = -81.889563
 latitude = 31.187918
+longitude = -81.889563
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31566"
+

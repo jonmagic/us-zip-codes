@@ -1,6 +1,8 @@
-zip_code = "74084"
-state = "OK"
 city = "Wynona"
 county = "Osage"
-longitude = -96.326019
 latitude = 36.546423
+longitude = -96.326019
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74084"
+

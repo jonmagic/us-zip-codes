@@ -1,6 +1,8 @@
-zip_code = "32696"
-state = "FL"
 city = "Williston"
 county = "Levy"
-longitude = -82.635652
 latitude = 29.354149
+longitude = -82.635652
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32696"
+

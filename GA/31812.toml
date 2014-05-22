@@ -1,6 +1,8 @@
-zip_code = "31812"
-state = "GA"
 city = "Junction City"
 county = "Talbot"
-longitude = -84.494946
 latitude = 32.701117
+longitude = -84.494946
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31812"
+

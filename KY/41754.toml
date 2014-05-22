@@ -1,6 +1,8 @@
-zip_code = "41754"
-state = "KY"
 city = "Krypton"
 county = "Perry"
-longitude = -83.275015
 latitude = 37.347409
+longitude = -83.275015
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41754"
+

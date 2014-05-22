@@ -1,6 +1,8 @@
-zip_code = "56201"
-state = "MN"
 city = "Willmar"
 county = "Kandiyohi"
-longitude = -94.977723
 latitude = 45.147104
+longitude = -94.977723
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56201"
+

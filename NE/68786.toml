@@ -1,6 +1,8 @@
-zip_code = "68786"
-state = "NE"
 city = "Wausa"
 county = "Knox"
-longitude = -97.608966
 latitude = 42.518247
+longitude = -97.608966
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68786"
+

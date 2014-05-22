@@ -1,6 +1,8 @@
-zip_code = "61859"
-state = "IL"
 city = "Ogden"
 county = "Champaign"
-longitude = -88.105359
 latitude = 40.069274
+longitude = -88.105359
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61859"
+

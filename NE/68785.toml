@@ -1,6 +1,8 @@
-zip_code = "68785"
-state = "NE"
 city = "Waterbury"
 county = "Dixon"
-longitude = -96.824742
 latitude = 42.512745
+longitude = -96.824742
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68785"
+

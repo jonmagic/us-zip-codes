@@ -1,6 +1,8 @@
-zip_code = "68788"
-state = "NE"
 city = "West Point"
 county = "Cuming"
-longitude = -96.777787
 latitude = 41.870968
+longitude = -96.777787
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68788"
+

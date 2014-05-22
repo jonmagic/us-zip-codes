@@ -1,6 +1,8 @@
-zip_code = "66027"
-state = "KS"
 city = "Fort Leavenworth"
 county = "Leavenworth"
-longitude = -94.931329
 latitude = 39.346798
+longitude = -94.931329
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66027"
+

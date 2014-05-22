@@ -1,6 +1,8 @@
-zip_code = "02476"
-state = "MA"
 city = "Arlington"
 county = "Middlesex"
-longitude = -71.184299
 latitude = 42.379146
+longitude = -71.184299
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02476"
+

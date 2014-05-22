@@ -1,6 +1,8 @@
-zip_code = "43925"
-state = "OH"
 city = "East Springfield"
 county = "Jefferson"
-longitude = -80.756661
 latitude = 40.415106
+longitude = -80.756661
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43925"
+

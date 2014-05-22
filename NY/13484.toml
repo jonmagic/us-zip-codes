@@ -1,6 +1,8 @@
-zip_code = "13484"
-state = "NY"
 city = "West Eaton"
 county = "Madison"
-longitude = -75.660462
 latitude = 42.854631
+longitude = -75.660462
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13484"
+

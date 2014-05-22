@@ -1,6 +1,8 @@
-zip_code = "44035"
-state = "OH"
 city = "Elyria"
 county = "Lorain"
-longitude = -82.105112
 latitude = 41.371396
+longitude = -82.105112
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44035"
+

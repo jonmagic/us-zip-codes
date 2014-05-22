@@ -1,6 +1,8 @@
-zip_code = "05362"
-state = "VT"
 city = "Williamsville"
 county = "Windham"
-longitude = -72.673566
 latitude = 42.975027
+longitude = -72.673566
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05362"
+

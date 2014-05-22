@@ -1,6 +1,8 @@
-zip_code = "19703"
-state = "DE"
 city = "Claymont"
 county = "New Castle"
-longitude = -75.45814
 latitude = 39.80379
+longitude = -75.45814
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19703"
+

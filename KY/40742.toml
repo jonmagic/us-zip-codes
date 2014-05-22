@@ -1,6 +1,8 @@
-zip_code = "40742"
-state = "KY"
 city = "London"
 county = "Laurel"
-longitude = -84.115617
 latitude = 37.137615
+longitude = -84.115617
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40742"
+

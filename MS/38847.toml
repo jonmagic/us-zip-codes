@@ -1,6 +1,8 @@
-zip_code = "38847"
-state = "MS"
 city = "Golden"
 county = "Itawamba"
-longitude = -88.246027
 latitude = 34.346321
+longitude = -88.246027
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38847"
+

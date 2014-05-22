@@ -1,6 +1,8 @@
-zip_code = "60530"
-state = "IL"
 city = "Lee"
 county = "Lee"
-longitude = -88.97506
 latitude = 41.784398
+longitude = -88.97506
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60530"
+

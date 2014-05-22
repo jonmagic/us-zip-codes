@@ -1,6 +1,8 @@
-zip_code = "53022"
-state = "WI"
 city = "Germantown"
 county = "Washington"
-longitude = -88.124711
 latitude = 43.235477
+longitude = -88.124711
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53022"
+

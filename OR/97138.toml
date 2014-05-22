@@ -1,6 +1,8 @@
-zip_code = "97138"
-state = "OR"
 city = "Seaside"
 county = "Clatsop"
-longitude = -123.857394
 latitude = 45.97677
+longitude = -123.857394
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97138"
+

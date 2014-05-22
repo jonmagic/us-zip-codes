@@ -1,6 +1,8 @@
-zip_code = "61932"
-state = "IL"
 city = "Hume"
 county = "Edgar"
-longitude = -87.873472
 latitude = 39.718148
+longitude = -87.873472
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61932"
+

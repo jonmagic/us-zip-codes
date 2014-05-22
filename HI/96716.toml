@@ -1,6 +1,8 @@
-zip_code = "96716"
-state = "HI"
 city = "Hanapepe"
 county = "Kauai"
-longitude = -159.617765
 latitude = 22.020489
+longitude = -159.617765
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96716"
+

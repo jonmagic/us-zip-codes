@@ -1,6 +1,8 @@
-zip_code = "74721"
-state = "OK"
 city = "Albany"
 county = "Bryan"
-longitude = -96.191767
 latitude = 33.921979
+longitude = -96.191767
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74721"
+

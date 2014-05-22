@@ -1,6 +1,8 @@
-zip_code = "63349"
-state = "MO"
 city = "Hawk Point"
 county = "Lincoln"
-longitude = -91.127211
 latitude = 38.980781
+longitude = -91.127211
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63349"
+

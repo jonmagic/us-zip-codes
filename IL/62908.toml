@@ -1,6 +1,8 @@
-zip_code = "62908"
-state = "IL"
 city = "Belknap"
 county = "Johnson"
-longitude = -88.909205
 latitude = 37.335571
+longitude = -88.909205
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62908"
+

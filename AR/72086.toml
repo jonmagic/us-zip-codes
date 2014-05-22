@@ -1,6 +1,8 @@
-zip_code = "72086"
-state = "AR"
 city = "Lonoke"
 county = "Lonoke"
-longitude = -91.905399
 latitude = 34.81247
+longitude = -91.905399
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72086"
+

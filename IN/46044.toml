@@ -1,6 +1,8 @@
-zip_code = "46044"
-state = "IN"
 city = "Frankton"
 county = "Madison"
-longitude = -85.786049
 latitude = 40.213173
+longitude = -85.786049
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46044"
+

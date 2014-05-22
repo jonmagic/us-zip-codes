@@ -1,6 +1,8 @@
-zip_code = "68123"
-state = "NE"
 city = "Bellevue"
 county = "Sarpy"
-longitude = -95.939269
 latitude = 41.115628
+longitude = -95.939269
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68123"
+

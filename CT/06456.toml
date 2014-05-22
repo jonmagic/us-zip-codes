@@ -1,6 +1,8 @@
-zip_code = "06456"
-state = "CT"
 city = "Middle Haddam"
 county = "Middlesex"
-longitude = -72.525208
 latitude = 41.538017
+longitude = -72.525208
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06456"
+

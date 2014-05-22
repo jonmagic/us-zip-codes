@@ -1,6 +1,8 @@
-zip_code = "28713"
-state = "NC"
 city = "Bryson City"
 county = "Swain"
-longitude = -83.508554
 latitude = 35.38563
+longitude = -83.508554
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28713"
+

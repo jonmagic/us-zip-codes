@@ -1,6 +1,8 @@
-zip_code = "23081"
-state = "VA"
 city = "Jamestown"
 county = "James City"
-longitude = -76.783317
 latitude = 37.223482
+longitude = -76.783317
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23081"
+

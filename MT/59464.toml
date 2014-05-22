@@ -1,6 +1,8 @@
-zip_code = "59464"
-state = "MT"
 city = "Moore"
 county = "Fergus"
-longitude = -109.693316
 latitude = 46.974485
+longitude = -109.693316
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59464"
+

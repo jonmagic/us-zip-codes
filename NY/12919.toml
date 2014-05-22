@@ -1,6 +1,8 @@
-zip_code = "12919"
-state = "NY"
 city = "Champlain"
 county = "Clinton"
-longitude = -73.578285
 latitude = 44.726056
+longitude = -73.578285
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12919"
+

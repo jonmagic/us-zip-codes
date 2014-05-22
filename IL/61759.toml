@@ -1,6 +1,8 @@
-zip_code = "61759"
-state = "IL"
 city = "Minier"
 county = "Tazewell"
-longitude = -89.334398
 latitude = 40.447572
+longitude = -89.334398
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61759"
+

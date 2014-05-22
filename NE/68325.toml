@@ -1,6 +1,8 @@
-zip_code = "68325"
-state = "NE"
 city = "Byron"
 county = "Thayer"
-longitude = -97.76566
 latitude = 40.005757
+longitude = -97.76566
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68325"
+

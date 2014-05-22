@@ -1,6 +1,8 @@
-zip_code = "40818"
-state = "KY"
 city = "Coalgood"
 county = "Harlan"
-longitude = -83.264806
 latitude = 36.789038
+longitude = -83.264806
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40818"
+

@@ -1,6 +1,8 @@
-zip_code = "96006"
-state = "CA"
 city = "Adin"
 county = "Modoc"
-longitude = -120.932949
 latitude = 41.236677
+longitude = -120.932949
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96006"
+

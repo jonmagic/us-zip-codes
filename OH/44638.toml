@@ -1,6 +1,8 @@
-zip_code = "44638"
-state = "OH"
 city = "Lakeville"
 county = "Holmes"
-longitude = -82.128493
 latitude = 40.614615
+longitude = -82.128493
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44638"
+

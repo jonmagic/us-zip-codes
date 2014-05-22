@@ -1,6 +1,8 @@
-zip_code = "76481"
-state = "TX"
 city = "South Bend"
 county = "Young"
-longitude = -98.689196
 latitude = 33.005164
+longitude = -98.689196
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76481"
+

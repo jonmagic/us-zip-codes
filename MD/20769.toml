@@ -1,6 +1,8 @@
-zip_code = "20769"
-state = "MD"
 city = "Glenn Dale"
 county = "Prince Georges"
-longitude = -76.811392
 latitude = 38.98346
+longitude = -76.811392
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20769"
+

@@ -1,6 +1,8 @@
-zip_code = "92315"
-state = "CA"
 city = "Big Bear Lake"
 county = "San Bernardino"
-longitude = -116.847414
 latitude = 34.223224
+longitude = -116.847414
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92315"
+

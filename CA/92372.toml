@@ -1,6 +1,8 @@
-zip_code = "92372"
-state = "CA"
 city = "Pinon Hills"
 county = "San Bernardino"
-longitude = -116.855056
 latitude = 34.237294
+longitude = -116.855056
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92372"
+

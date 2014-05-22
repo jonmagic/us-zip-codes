@@ -1,6 +1,8 @@
-zip_code = "43725"
-state = "OH"
 city = "Cambridge"
 county = "Guernsey"
-longitude = -81.582025
 latitude = 40.02701
+longitude = -81.582025
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43725"
+

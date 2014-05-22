@@ -1,6 +1,8 @@
-zip_code = "56673"
-state = "MN"
 city = "Roosevelt"
 county = "Roseau"
-longitude = -95.747559
 latitude = 48.769244
+longitude = -95.747559
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56673"
+

@@ -1,6 +1,8 @@
-zip_code = "78559"
-state = "TX"
 city = "La Feria"
 county = "Cameron"
-longitude = -97.754971
 latitude = 26.131353
+longitude = -97.754971
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78559"
+

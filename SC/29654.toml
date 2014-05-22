@@ -1,6 +1,8 @@
-zip_code = "29654"
-state = "SC"
 city = "Honea Path"
 county = "Anderson"
-longitude = -82.508821
 latitude = 34.416329
+longitude = -82.508821
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29654"
+

@@ -1,6 +1,8 @@
-zip_code = "16856"
-state = "PA"
 city = "Mingoville"
 county = "Centre"
-longitude = -77.638892
 latitude = 40.929851
+longitude = -77.638892
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16856"
+

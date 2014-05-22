@@ -1,6 +1,8 @@
-zip_code = "45157"
-state = "OH"
 city = "New Richmond"
 county = "Clermont"
-longitude = -84.206745
 latitude = 38.9124
+longitude = -84.206745
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45157"
+

@@ -1,6 +1,8 @@
-zip_code = "07072"
-state = "NJ"
 city = "Carlstadt"
 county = "Bergen"
-longitude = -74.076055
 latitude = 40.828399
+longitude = -74.076055
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07072"
+

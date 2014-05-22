@@ -1,6 +1,8 @@
-zip_code = "58357"
-state = "ND"
 city = "Oberon"
 county = "Benson"
-longitude = -99.133201
 latitude = 47.949694
+longitude = -99.133201
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58357"
+

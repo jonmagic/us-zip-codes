@@ -1,6 +1,8 @@
-zip_code = "29848"
-state = "SC"
 city = "Troy"
 county = "Greenwood"
-longitude = -82.150998
 latitude = 33.996062
+longitude = -82.150998
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29848"
+

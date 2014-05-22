@@ -1,6 +1,8 @@
-zip_code = "58370"
-state = "ND"
 city = "Saint Michael"
 county = "Benson"
-longitude = -98.849264
 latitude = 47.985595
+longitude = -98.849264
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58370"
+

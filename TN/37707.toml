@@ -1,6 +1,8 @@
-zip_code = "37707"
-state = "TN"
 city = "Arthur"
 county = "Claiborne"
-longitude = -83.636479
 latitude = 36.566257
+longitude = -83.636479
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37707"
+

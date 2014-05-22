@@ -1,6 +1,8 @@
-zip_code = "24831"
-state = "WV"
 city = "Elkhorn"
 county = "Mcdowell"
-longitude = -81.570983
 latitude = 37.432867
+longitude = -81.570983
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24831"
+

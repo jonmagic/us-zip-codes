@@ -1,6 +1,8 @@
-zip_code = "41224"
-state = "KY"
 city = "Inez"
 county = "Martin"
-longitude = -82.533718
 latitude = 37.8754
+longitude = -82.533718
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41224"
+

@@ -1,6 +1,8 @@
-zip_code = "21036"
-state = "MD"
 city = "Dayton"
 county = "Howard"
-longitude = -77.00375
 latitude = 39.240155
+longitude = -77.00375
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21036"
+

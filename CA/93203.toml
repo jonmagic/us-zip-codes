@@ -1,6 +1,8 @@
-zip_code = "93203"
-state = "CA"
 city = "Arvin"
 county = "Kern"
-longitude = -118.659604
 latitude = 35.311064
+longitude = -118.659604
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93203"
+

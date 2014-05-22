@@ -1,6 +1,8 @@
-zip_code = "54634"
-state = "WI"
 city = "Hillsboro"
 county = "Vernon"
-longitude = -90.659829
 latitude = 43.616843
+longitude = -90.659829
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54634"
+

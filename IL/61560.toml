@@ -1,6 +1,8 @@
-zip_code = "61560"
-state = "IL"
 city = "Putnam"
 county = "Putnam"
-longitude = -89.430236
 latitude = 41.205454
+longitude = -89.430236
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61560"
+

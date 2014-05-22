@@ -1,6 +1,8 @@
-zip_code = "06226"
-state = "CT"
 city = "Willimantic"
 county = "Windham"
-longitude = -72.091889
 latitude = 41.845504
+longitude = -72.091889
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06226"
+

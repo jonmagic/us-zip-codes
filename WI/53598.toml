@@ -1,6 +1,8 @@
-zip_code = "53598"
-state = "WI"
 city = "Windsor"
 county = "Dane"
-longitude = -89.34178
 latitude = 43.207783
+longitude = -89.34178
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53598"
+

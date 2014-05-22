@@ -1,6 +1,8 @@
-zip_code = "96016"
-state = "CA"
 city = "Cassel"
 county = "Shasta"
-longitude = -121.56766
 latitude = 40.933652
+longitude = -121.56766
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96016"
+

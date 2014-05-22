@@ -1,6 +1,8 @@
-zip_code = "46946"
-state = "IN"
 city = "Liberty Mills"
 county = "Wabash"
-longitude = -85.735756
 latitude = 41.035629
+longitude = -85.735756
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46946"
+

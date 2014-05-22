@@ -1,6 +1,8 @@
-zip_code = "99171"
-state = "WA"
 city = "Saint John"
 county = "Whitman"
-longitude = -117.676432
 latitude = 47.123718
+longitude = -117.676432
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99171"
+

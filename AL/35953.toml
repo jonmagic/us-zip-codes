@@ -1,6 +1,8 @@
-zip_code = "35953"
-state = "AL"
 city = "Ashville"
 county = "Saint Clair"
-longitude = -86.216884
 latitude = 33.785173
+longitude = -86.216884
+state = ""
+state_code_alpha2 = ""
+zip_code = "35953"
+

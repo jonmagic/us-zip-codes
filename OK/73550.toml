@@ -1,6 +1,8 @@
-zip_code = "73550"
-state = "OK"
 city = "Hollis"
 county = "Harmon"
-longitude = -99.912395
 latitude = 34.694028
+longitude = -99.912395
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73550"
+

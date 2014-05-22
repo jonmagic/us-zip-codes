@@ -1,6 +1,8 @@
-zip_code = "14486"
-state = "NY"
 city = "Linwood"
 county = "Genesee"
-longitude = -77.949818
 latitude = 42.915297
+longitude = -77.949818
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14486"
+

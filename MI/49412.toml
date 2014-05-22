@@ -1,6 +1,8 @@
-zip_code = "49412"
-state = "MI"
 city = "Fremont"
 county = "Newaygo"
-longitude = -85.9132
 latitude = 43.513456
+longitude = -85.9132
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49412"
+

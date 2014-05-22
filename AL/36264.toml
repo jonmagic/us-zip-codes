@@ -1,6 +1,8 @@
-zip_code = "36264"
-state = "AL"
 city = "Heflin"
 county = "Cleburne"
-longitude = -85.502022
 latitude = 33.627166
+longitude = -85.502022
+state = ""
+state_code_alpha2 = ""
+zip_code = "36264"
+

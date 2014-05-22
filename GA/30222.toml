@@ -1,6 +1,8 @@
-zip_code = "30222"
-state = "GA"
 city = "Greenville"
 county = "Meriwether"
-longitude = -84.740188
 latitude = 33.046754
+longitude = -84.740188
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30222"
+

@@ -1,6 +1,8 @@
-zip_code = "18413"
-state = "PA"
 city = "Clifford"
 county = "Susquehanna"
-longitude = -75.614463
 latitude = 41.654319
+longitude = -75.614463
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18413"
+

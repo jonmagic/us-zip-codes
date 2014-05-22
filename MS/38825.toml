@@ -1,6 +1,8 @@
-zip_code = "38825"
-state = "MS"
 city = "Becker"
 county = "Monroe"
-longitude = -88.462173
 latitude = 33.869763
+longitude = -88.462173
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38825"
+

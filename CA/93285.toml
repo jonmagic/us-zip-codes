@@ -1,6 +1,8 @@
-zip_code = "93285"
-state = "CA"
 city = "Wofford Heights"
 county = "Kern"
-longitude = -118.552613
 latitude = 35.472296
+longitude = -118.552613
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93285"
+

@@ -1,6 +1,8 @@
-zip_code = "12845"
-state = "NY"
 city = "Lake George"
 county = "Warren"
-longitude = -73.875462
 latitude = 43.518611
+longitude = -73.875462
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12845"
+

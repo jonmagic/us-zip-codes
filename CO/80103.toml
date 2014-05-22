@@ -1,6 +1,8 @@
-zip_code = "80103"
-state = "CO"
 city = "Byers"
 county = "Arapahoe"
-longitude = -104.162633
 latitude = 39.652632
+longitude = -104.162633
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80103"
+

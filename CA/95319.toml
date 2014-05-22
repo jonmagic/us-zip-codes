@@ -1,6 +1,8 @@
-zip_code = "95319"
-state = "CA"
 city = "Empire"
 county = "Stanislaus"
-longitude = -120.906593
 latitude = 37.637531
+longitude = -120.906593
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95319"
+

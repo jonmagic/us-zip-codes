@@ -1,6 +1,8 @@
-zip_code = "24412"
-state = "VA"
 city = "Bacova"
 county = "Bath"
-longitude = -79.746367
 latitude = 38.055311
+longitude = -79.746367
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24412"
+

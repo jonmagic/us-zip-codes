@@ -1,6 +1,8 @@
-zip_code = "22520"
-state = "VA"
 city = "Montross"
 county = "Westmoreland"
-longitude = -76.82434
 latitude = 38.111955
+longitude = -76.82434
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22520"
+

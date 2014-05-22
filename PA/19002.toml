@@ -1,6 +1,8 @@
-zip_code = "19002"
-state = "PA"
 city = "Ambler"
 county = "Montgomery"
-longitude = -75.215621
 latitude = 40.180876
+longitude = -75.215621
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19002"
+

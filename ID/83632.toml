@@ -1,6 +1,8 @@
-zip_code = "83632"
-state = "ID"
 city = "Indian Valley"
 county = "Adams"
-longitude = -116.462903
 latitude = 44.560567
+longitude = -116.462903
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83632"
+

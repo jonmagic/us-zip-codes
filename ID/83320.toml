@@ -1,6 +1,8 @@
-zip_code = "83320"
-state = "ID"
 city = "Carey"
 county = "Blaine"
-longitude = -114.076206
 latitude = 43.391742
+longitude = -114.076206
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83320"
+

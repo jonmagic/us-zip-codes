@@ -1,6 +1,8 @@
-zip_code = "11428"
-state = "NY"
 city = "Queens Village"
 county = "Queens"
-longitude = -73.742099
 latitude = 40.720639
+longitude = -73.742099
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11428"
+

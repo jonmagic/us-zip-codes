@@ -1,6 +1,8 @@
-zip_code = "02631"
-state = "MA"
 city = "Brewster"
 county = "Barnstable"
-longitude = -70.044462
 latitude = 41.852997
+longitude = -70.044462
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02631"
+

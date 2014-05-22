@@ -1,6 +1,8 @@
-zip_code = "93275"
-state = "CA"
 city = "Tulare"
 county = "Tulare"
-longitude = -118.776902
 latitude = 36.26699
+longitude = -118.776902
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93275"
+

@@ -1,6 +1,8 @@
-zip_code = "41146"
-state = "KY"
 city = "Hitchins"
 county = "Carter"
-longitude = -83.061941
 latitude = 38.271432
+longitude = -83.061941
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41146"
+

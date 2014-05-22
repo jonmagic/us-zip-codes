@@ -1,6 +1,8 @@
-zip_code = "59545"
-state = "MT"
 city = "Whitlash"
 county = "Liberty"
-longitude = -110.966631
 latitude = 48.50968
+longitude = -110.966631
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59545"
+

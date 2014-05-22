@@ -1,6 +1,8 @@
-zip_code = "92309"
-state = "CA"
 city = "Baker"
 county = "San Bernardino"
-longitude = -116.142146
 latitude = 35.445323
+longitude = -116.142146
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92309"
+

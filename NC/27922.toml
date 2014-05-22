@@ -1,6 +1,8 @@
-zip_code = "27922"
-state = "NC"
 city = "Cofield"
 county = "Hertford"
-longitude = -76.905529
 latitude = 36.360803
+longitude = -76.905529
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27922"
+

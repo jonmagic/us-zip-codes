@@ -1,6 +1,8 @@
-zip_code = "60917"
-state = "IL"
 city = "Buckingham"
 county = "Kankakee"
-longitude = -88.073844
 latitude = 41.056333
+longitude = -88.073844
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60917"
+

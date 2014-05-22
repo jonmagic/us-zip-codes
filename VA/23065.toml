@@ -1,6 +1,8 @@
-zip_code = "23065"
-state = "VA"
 city = "Gum Spring"
 county = "Goochland"
-longitude = -77.937457
 latitude = 37.798243
+longitude = -77.937457
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23065"
+

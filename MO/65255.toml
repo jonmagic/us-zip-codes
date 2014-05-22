@@ -1,6 +1,8 @@
-zip_code = "65255"
-state = "MO"
 city = "Hallsville"
 county = "Boone"
-longitude = -92.240267
 latitude = 39.102338
+longitude = -92.240267
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65255"
+

@@ -1,6 +1,8 @@
-zip_code = "50453"
-state = "IA"
 city = "Leland"
 county = "Winnebago"
-longitude = -93.689464
 latitude = 43.342548
+longitude = -93.689464
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50453"
+

@@ -1,6 +1,8 @@
-zip_code = "83839"
-state = "ID"
 city = "Kingston"
 county = "Shoshone"
-longitude = -116.145637
 latitude = 47.574471
+longitude = -116.145637
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83839"
+

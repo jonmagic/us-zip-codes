@@ -1,6 +1,8 @@
-zip_code = "13601"
-state = "NY"
 city = "Watertown"
 county = "Jefferson"
-longitude = -76.016589
 latitude = 44.072542
+longitude = -76.016589
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13601"
+

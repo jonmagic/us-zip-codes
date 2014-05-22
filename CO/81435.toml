@@ -1,6 +1,8 @@
-zip_code = "81435"
-state = "CO"
 city = "Telluride"
 county = "San Miguel"
-longitude = -107.956606
 latitude = 37.983589
+longitude = -107.956606
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81435"
+

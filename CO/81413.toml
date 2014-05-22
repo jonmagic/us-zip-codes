@@ -1,6 +1,8 @@
-zip_code = "81413"
-state = "CO"
 city = "Cedaredge"
 county = "Delta"
-longitude = -107.795704
 latitude = 38.881646
+longitude = -107.795704
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81413"
+

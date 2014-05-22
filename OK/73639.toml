@@ -1,6 +1,8 @@
-zip_code = "73639"
-state = "OK"
 city = "Custer City"
 county = "Custer"
-longitude = -98.912212
 latitude = 35.62389
+longitude = -98.912212
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73639"
+

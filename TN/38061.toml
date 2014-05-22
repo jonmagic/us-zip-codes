@@ -1,6 +1,8 @@
-zip_code = "38061"
-state = "TN"
 city = "Pocahontas"
 county = "Hardeman"
-longitude = -88.957929
 latitude = 35.075589
+longitude = -88.957929
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38061"
+

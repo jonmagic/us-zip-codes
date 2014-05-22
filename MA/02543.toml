@@ -1,6 +1,8 @@
-zip_code = "02543"
-state = "MA"
 city = "Woods Hole"
 county = "Barnstable"
-longitude = -70.646442
 latitude = 41.593809
+longitude = -70.646442
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02543"
+

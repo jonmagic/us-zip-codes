@@ -1,6 +1,8 @@
-zip_code = "55909"
-state = "MN"
 city = "Adams"
 county = "Mower"
-longitude = -92.74389
 latitude = 43.565168
+longitude = -92.74389
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55909"
+

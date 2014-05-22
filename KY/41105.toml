@@ -1,6 +1,8 @@
-zip_code = "41105"
-state = "KY"
 city = "Ashland"
 county = "Boyd"
-longitude = -82.694757
 latitude = 38.370285
+longitude = -82.694757
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41105"
+

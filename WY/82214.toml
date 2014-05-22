@@ -1,6 +1,8 @@
-zip_code = "82214"
-state = "WY"
 city = "Guernsey"
 county = "Platte"
-longitude = -104.786912
 latitude = 42.256819
+longitude = -104.786912
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82214"
+

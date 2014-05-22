@@ -1,6 +1,8 @@
-zip_code = "72353"
-state = "AR"
 city = "Lambrook"
 county = "Phillips"
-longitude = -90.965177
 latitude = 34.328604
+longitude = -90.965177
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72353"
+

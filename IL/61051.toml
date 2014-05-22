@@ -1,6 +1,8 @@
-zip_code = "61051"
-state = "IL"
 city = "Milledgeville"
 county = "Carroll"
-longitude = -89.764016
 latitude = 41.991827
+longitude = -89.764016
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61051"
+

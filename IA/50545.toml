@@ -1,6 +1,8 @@
-zip_code = "50545"
-state = "IA"
 city = "Hardy"
 county = "Humboldt"
-longitude = -94.079932
 latitude = 42.797529
+longitude = -94.079932
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50545"
+

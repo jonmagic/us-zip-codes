@@ -1,6 +1,8 @@
-zip_code = "74766"
-state = "OK"
 city = "Wright City"
 county = "Mccurtain"
-longitude = -95.005676
 latitude = 34.061785
+longitude = -95.005676
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74766"
+

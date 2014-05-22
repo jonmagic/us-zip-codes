@@ -1,6 +1,8 @@
-zip_code = "80128"
-state = "CO"
 city = "Littleton"
 county = "Jefferson"
-longitude = -105.083196
 latitude = 39.591827
+longitude = -105.083196
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80128"
+

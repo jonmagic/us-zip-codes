@@ -1,6 +1,8 @@
-zip_code = "67418"
-state = "KS"
 city = "Barnard"
 county = "Lincoln"
-longitude = -98.044605
 latitude = 39.188663
+longitude = -98.044605
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67418"
+

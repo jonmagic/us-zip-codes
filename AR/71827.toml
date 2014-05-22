@@ -1,6 +1,8 @@
-zip_code = "71827"
-state = "AR"
 city = "Buckner"
 county = "Lafayette"
-longitude = -93.434895
 latitude = 33.397484
+longitude = -93.434895
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71827"
+

@@ -1,6 +1,8 @@
-zip_code = "78162"
-state = "TX"
 city = "Tuleta"
 county = "Bee"
-longitude = -97.732736
 latitude = 28.424535
+longitude = -97.732736
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78162"
+

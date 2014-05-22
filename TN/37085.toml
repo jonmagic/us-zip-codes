@@ -1,6 +1,8 @@
-zip_code = "37085"
-state = "TN"
 city = "Lascassas"
 county = "Rutherford"
-longitude = -86.291678
 latitude = 35.936886
+longitude = -86.291678
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37085"
+

@@ -1,6 +1,8 @@
-zip_code = "78873"
-state = "TX"
 city = "Leakey"
 county = "Real"
-longitude = -99.686783
 latitude = 29.865649
+longitude = -99.686783
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78873"
+

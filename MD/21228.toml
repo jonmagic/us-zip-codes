@@ -1,6 +1,8 @@
-zip_code = "21228"
-state = "MD"
 city = "Catonsville"
 county = "Baltimore"
-longitude = -76.631074
 latitude = 39.274156
+longitude = -76.631074
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21228"
+

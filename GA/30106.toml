@@ -1,6 +1,8 @@
-zip_code = "30106"
-state = "GA"
 city = "Austell"
 county = "Cobb"
-longitude = -84.630729
 latitude = 33.836897
+longitude = -84.630729
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30106"
+

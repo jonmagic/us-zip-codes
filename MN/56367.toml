@@ -1,6 +1,8 @@
-zip_code = "56367"
-state = "MN"
 city = "Rice"
 county = "Benton"
-longitude = -94.124878
 latitude = 45.745866
+longitude = -94.124878
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56367"
+

@@ -1,6 +1,8 @@
-zip_code = "50665"
-state = "IA"
 city = "Parkersburg"
 county = "Butler"
-longitude = -92.824122
 latitude = 42.655813
+longitude = -92.824122
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50665"
+

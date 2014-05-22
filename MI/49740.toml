@@ -1,6 +1,8 @@
-zip_code = "49740"
-state = "MI"
 city = "Harbor Springs"
 county = "Emmet"
-longitude = -84.925826
 latitude = 45.55423
+longitude = -84.925826
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49740"
+

@@ -1,6 +1,8 @@
-zip_code = "43324"
-state = "OH"
 city = "Huntsville"
 county = "Logan"
-longitude = -83.809604
 latitude = 40.43991
+longitude = -83.809604
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43324"
+

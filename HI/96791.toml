@@ -1,6 +1,8 @@
-zip_code = "96791"
-state = "HI"
 city = "Waialua"
 county = "Honolulu"
-longitude = -158.163415
 latitude = 21.55325
+longitude = -158.163415
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96791"
+

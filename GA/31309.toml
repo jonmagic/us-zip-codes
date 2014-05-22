@@ -1,6 +1,8 @@
-zip_code = "31309"
-state = "GA"
 city = "Fleming"
 county = "Liberty"
-longitude = -81.457959
 latitude = 31.87673
+longitude = -81.457959
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31309"
+

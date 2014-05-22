@@ -1,6 +1,8 @@
-zip_code = "65789"
-state = "MO"
 city = "Pomona"
 county = "Howell"
-longitude = -91.895914
 latitude = 36.876581
+longitude = -91.895914
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65789"
+

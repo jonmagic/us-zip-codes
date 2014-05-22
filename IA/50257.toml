@@ -1,6 +1,8 @@
-zip_code = "50257"
-state = "IA"
 city = "Truro"
 county = "Madison"
-longitude = -93.863473
 latitude = 41.206381
+longitude = -93.863473
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50257"
+

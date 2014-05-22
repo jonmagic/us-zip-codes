@@ -1,6 +1,8 @@
-zip_code = "56550"
-state = "MN"
 city = "Hendrum"
 county = "Norman"
-longitude = -96.811279
 latitude = 47.263731
+longitude = -96.811279
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56550"
+

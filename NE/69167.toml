@@ -1,6 +1,8 @@
-zip_code = "69167"
-state = "NE"
 city = "Tryon"
 county = "Mcpherson"
-longitude = -101.059489
 latitude = 41.568548
+longitude = -101.059489
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69167"
+

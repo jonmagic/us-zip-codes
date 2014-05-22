@@ -1,6 +1,8 @@
-zip_code = "40059"
-state = "KY"
 city = "Prospect"
 county = "Jefferson"
-longitude = -85.598451
 latitude = 38.341558
+longitude = -85.598451
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40059"
+

@@ -1,6 +1,8 @@
-zip_code = "66517"
-state = "KS"
 city = "Ogden"
 county = "Riley"
-longitude = -96.71009
 latitude = 39.115313
+longitude = -96.71009
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66517"
+

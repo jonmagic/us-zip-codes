@@ -1,6 +1,8 @@
-zip_code = "12782"
-state = "NY"
 city = "Sundown"
 county = "Ulster"
-longitude = -74.430063
 latitude = 41.881485
+longitude = -74.430063
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12782"
+

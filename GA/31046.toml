@@ -1,6 +1,8 @@
-zip_code = "31046"
-state = "GA"
 city = "Juliette"
 county = "Monroe"
-longitude = -83.803166
 latitude = 33.027607
+longitude = -83.803166
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31046"
+

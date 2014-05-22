@@ -1,6 +1,8 @@
-zip_code = "70662"
-state = "LA"
 city = "Sugartown"
 county = "Beauregard"
-longitude = -93.010616
 latitude = 30.803752
+longitude = -93.010616
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70662"
+

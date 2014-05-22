@@ -1,6 +1,8 @@
-zip_code = "40874"
-state = "KY"
 city = "Warbranch"
 county = "Leslie"
-longitude = -83.466672
 latitude = 36.98397
+longitude = -83.466672
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40874"
+

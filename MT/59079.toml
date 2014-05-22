@@ -1,6 +1,8 @@
-zip_code = "59079"
-state = "MT"
 city = "Shepherd"
 county = "Yellowstone"
-longitude = -108.435851
 latitude = 46.082782
+longitude = -108.435851
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59079"
+

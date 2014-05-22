@@ -1,6 +1,8 @@
-zip_code = "61434"
-state = "IL"
 city = "Galva"
 county = "Henry"
-longitude = -90.091976
 latitude = 41.212281
+longitude = -90.091976
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61434"
+

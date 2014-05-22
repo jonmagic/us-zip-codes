@@ -1,6 +1,8 @@
-zip_code = "32359"
-state = "FL"
 city = "Steinhatchee"
 county = "Taylor"
-longitude = -83.37638
 latitude = 29.693191
+longitude = -83.37638
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32359"
+

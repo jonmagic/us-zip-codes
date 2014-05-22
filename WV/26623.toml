@@ -1,6 +1,8 @@
-zip_code = "26623"
-state = "WV"
 city = "Frametown"
 county = "Braxton"
-longitude = -80.858859
 latitude = 38.630462
+longitude = -80.858859
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26623"
+

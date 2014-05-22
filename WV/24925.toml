@@ -1,6 +1,8 @@
-zip_code = "24925"
-state = "WV"
 city = "Caldwell"
 county = "Greenbrier"
-longitude = -80.426874
 latitude = 37.975595
+longitude = -80.426874
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24925"
+

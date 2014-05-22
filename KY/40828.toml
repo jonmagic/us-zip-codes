@@ -1,6 +1,8 @@
-zip_code = "40828"
-state = "KY"
 city = "Evarts"
 county = "Harlan"
-longitude = -83.223251
 latitude = 36.839806
+longitude = -83.223251
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40828"
+

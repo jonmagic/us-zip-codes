@@ -1,6 +1,8 @@
-zip_code = "87749"
-state = "NM"
 city = "Ute Park"
 county = "Colfax"
-longitude = -104.692463
 latitude = 36.606924
+longitude = -104.692463
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87749"
+

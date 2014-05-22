@@ -1,6 +1,8 @@
-zip_code = "95480"
-state = "CA"
 city = "Stewarts Point"
 county = "Sonoma"
-longitude = -123.372059
 latitude = 38.676694
+longitude = -123.372059
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95480"
+

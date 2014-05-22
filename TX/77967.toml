@@ -1,6 +1,8 @@
-zip_code = "77967"
-state = "TX"
 city = "Hochheim"
 county = "De Witt"
-longitude = -97.365742
 latitude = 29.098894
+longitude = -97.365742
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77967"
+

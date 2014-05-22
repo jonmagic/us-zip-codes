@@ -1,6 +1,8 @@
-zip_code = "23043"
-state = "VA"
 city = "Deltaville"
 county = "Middlesex"
-longitude = -76.366544
 latitude = 37.551856
+longitude = -76.366544
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23043"
+

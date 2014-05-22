@@ -1,6 +1,8 @@
-zip_code = "21082"
-state = "MD"
 city = "Hydes"
 county = "Baltimore"
-longitude = -76.471736
 latitude = 39.481685
+longitude = -76.471736
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21082"
+

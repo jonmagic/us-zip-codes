@@ -1,6 +1,8 @@
-zip_code = "87313"
-state = "NM"
 city = "Crownpoint"
 county = "Mckinley"
-longitude = -108.000168
 latitude = 35.598506
+longitude = -108.000168
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87313"
+

@@ -1,6 +1,8 @@
-zip_code = "29573"
-state = "SC"
 city = "Minturn"
 county = "Dillon"
-longitude = -79.476859
 latitude = 34.488255
+longitude = -79.476859
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29573"
+

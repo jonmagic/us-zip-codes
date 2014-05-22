@@ -1,6 +1,8 @@
-zip_code = "28074"
-state = "NC"
 city = "Harris"
 county = "Rutherford"
-longitude = -81.885081
 latitude = 35.224743
+longitude = -81.885081
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28074"
+

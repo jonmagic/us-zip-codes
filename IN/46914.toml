@@ -1,6 +1,8 @@
-zip_code = "46914"
-state = "IN"
 city = "Bunker Hill"
 county = "Miami"
-longitude = -86.102125
 latitude = 40.659068
+longitude = -86.102125
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46914"
+

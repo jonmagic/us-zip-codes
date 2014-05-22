@@ -1,6 +1,8 @@
-zip_code = "84330"
-state = "UT"
 city = "Plymouth"
 county = "Box Elder"
-longitude = -112.138837
 latitude = 41.883058
+longitude = -112.138837
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84330"
+

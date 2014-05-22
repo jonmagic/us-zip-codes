@@ -1,6 +1,8 @@
-zip_code = "19564"
-state = "PA"
 city = "Virginville"
 county = "Berks"
-longitude = -75.869653
 latitude = 40.526803
+longitude = -75.869653
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19564"
+

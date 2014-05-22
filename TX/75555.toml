@@ -1,6 +1,8 @@
-zip_code = "75555"
-state = "TX"
 city = "Bivins"
 county = "Cass"
-longitude = -94.074752
 latitude = 33.007551
+longitude = -94.074752
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75555"
+

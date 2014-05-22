@@ -1,6 +1,8 @@
-zip_code = "12764"
-state = "NY"
 city = "Narrowsburg"
 county = "Sullivan"
-longitude = -74.96233
 latitude = 41.595908
+longitude = -74.96233
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12764"
+

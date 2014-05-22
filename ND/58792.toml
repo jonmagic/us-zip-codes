@@ -1,6 +1,8 @@
-zip_code = "58792"
-state = "ND"
 city = "Voltaire"
 county = "Mchenry"
-longitude = -100.798821
 latitude = 47.98605
+longitude = -100.798821
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58792"
+

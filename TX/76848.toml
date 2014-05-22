@@ -1,6 +1,8 @@
-zip_code = "76848"
-state = "TX"
 city = "Hext"
 county = "Menard"
-longitude = -99.80024
 latitude = 30.89918
+longitude = -99.80024
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76848"
+

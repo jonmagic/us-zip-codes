@@ -1,6 +1,8 @@
-zip_code = "48460"
-state = "MI"
 city = "New Lothrop"
 county = "Shiawassee"
-longitude = -83.998893
 latitude = 43.109913
+longitude = -83.998893
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48460"
+

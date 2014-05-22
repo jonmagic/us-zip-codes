@@ -1,6 +1,8 @@
-zip_code = "54110"
-state = "WI"
 city = "Brillion"
 county = "Calumet"
-longitude = -88.133876
 latitude = 44.163209
+longitude = -88.133876
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54110"
+

@@ -1,6 +1,8 @@
-zip_code = "58348"
-state = "ND"
 city = "Maddock"
 county = "Benson"
-longitude = -99.535801
 latitude = 47.999093
+longitude = -99.535801
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58348"
+

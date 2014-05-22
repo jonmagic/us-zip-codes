@@ -1,6 +1,8 @@
-zip_code = "40115"
-state = "KY"
 city = "Custer"
 county = "Breckinridge"
-longitude = -86.237827
 latitude = 37.735817
+longitude = -86.237827
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40115"
+

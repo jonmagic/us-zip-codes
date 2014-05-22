@@ -1,6 +1,8 @@
-zip_code = "27958"
-state = "NC"
 city = "Moyock"
 county = "Currituck"
-longitude = -76.064702
 latitude = 36.399081
+longitude = -76.064702
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27958"
+

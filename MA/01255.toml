@@ -1,6 +1,8 @@
-zip_code = "01255"
-state = "MA"
 city = "Sandisfield"
 county = "Berkshire"
-longitude = -73.14861
 latitude = 42.148975
+longitude = -73.14861
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01255"
+

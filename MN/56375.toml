@@ -1,6 +1,8 @@
-zip_code = "56375"
-state = "MN"
 city = "Saint Stephen"
 county = "Stearns"
-longitude = -94.380968
 latitude = 45.587011
+longitude = -94.380968
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56375"
+

@@ -1,6 +1,8 @@
-zip_code = "15748"
-state = "PA"
 city = "Homer City"
 county = "Indiana"
-longitude = -79.089616
 latitude = 40.627752
+longitude = -79.089616
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15748"
+

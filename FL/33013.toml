@@ -1,6 +1,8 @@
-zip_code = "33013"
-state = "FL"
 city = "Hialeah"
 county = "Miami-Dade"
-longitude = -80.271571
 latitude = 25.860023
+longitude = -80.271571
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33013"
+

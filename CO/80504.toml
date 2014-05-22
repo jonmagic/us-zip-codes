@@ -1,6 +1,8 @@
-zip_code = "80504"
-state = "CO"
 city = "Longmont"
 county = "Weld"
-longitude = -104.970816
 latitude = 40.129416
+longitude = -104.970816
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80504"
+

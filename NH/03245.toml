@@ -1,6 +1,8 @@
-zip_code = "03245"
-state = "NH"
 city = "Holderness"
 county = "Grafton"
-longitude = -71.604406
 latitude = 43.737831
+longitude = -71.604406
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03245"
+

@@ -1,6 +1,8 @@
-zip_code = "62092"
-state = "IL"
 city = "White Hall"
 county = "Greene"
-longitude = -90.402937
 latitude = 39.43886
+longitude = -90.402937
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62092"
+

@@ -1,6 +1,8 @@
-zip_code = "49083"
-state = "MI"
 city = "Richland"
 county = "Kalamazoo"
-longitude = -85.454755
 latitude = 42.376138
+longitude = -85.454755
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49083"
+

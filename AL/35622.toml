@@ -1,6 +1,8 @@
-zip_code = "35622"
-state = "AL"
 city = "Falkville"
 county = "Morgan"
-longitude = -86.899143
 latitude = 34.361909
+longitude = -86.899143
+state = ""
+state_code_alpha2 = ""
+zip_code = "35622"
+

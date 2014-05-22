@@ -1,6 +1,8 @@
-zip_code = "45875"
-state = "OH"
 city = "Ottawa"
 county = "Putnam"
-longitude = -84.111533
 latitude = 41.019657
+longitude = -84.111533
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45875"
+

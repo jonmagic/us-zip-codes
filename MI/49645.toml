@@ -1,6 +1,8 @@
-zip_code = "49645"
-state = "MI"
 city = "Kaleva"
 county = "Manistee"
-longitude = -86.041189
 latitude = 44.377928
+longitude = -86.041189
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49645"
+

@@ -1,6 +1,8 @@
-zip_code = "35405"
-state = "AL"
 city = "Tuscaloosa"
 county = "Tuscaloosa"
-longitude = -87.518144
 latitude = 33.10407
+longitude = -87.518144
+state = ""
+state_code_alpha2 = ""
+zip_code = "35405"
+

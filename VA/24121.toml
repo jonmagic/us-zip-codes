@@ -1,6 +1,8 @@
-zip_code = "24121"
-state = "VA"
 city = "Moneta"
 county = "Bedford"
-longitude = -79.563579
 latitude = 37.185024
+longitude = -79.563579
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24121"
+

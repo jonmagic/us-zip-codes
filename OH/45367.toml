@@ -1,6 +1,8 @@
-zip_code = "45367"
-state = "OH"
 city = "Sidney"
 county = "Shelby"
-longitude = -84.218308
 latitude = 40.333611
+longitude = -84.218308
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45367"
+

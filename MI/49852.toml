@@ -1,6 +1,8 @@
-zip_code = "49852"
-state = "MI"
 city = "Loretto"
 county = "Dickinson"
-longitude = -87.776381
 latitude = 45.827514
+longitude = -87.776381
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49852"
+

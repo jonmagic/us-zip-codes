@@ -1,6 +1,8 @@
-zip_code = "15423"
-state = "PA"
 city = "Coal Center"
 county = "Washington"
-longitude = -79.930266
 latitude = 40.082192
+longitude = -79.930266
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15423"
+

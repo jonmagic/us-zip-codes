@@ -1,6 +1,8 @@
-zip_code = "97634"
-state = "OR"
 city = "Midland"
 county = "Klamath"
-longitude = -121.870983
 latitude = 42.128418
+longitude = -121.870983
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97634"
+

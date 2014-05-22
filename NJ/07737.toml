@@ -1,6 +1,8 @@
-zip_code = "07737"
-state = "NJ"
 city = "Leonardo"
 county = "Monmouth"
-longitude = -74.059884
 latitude = 40.409391
+longitude = -74.059884
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07737"
+

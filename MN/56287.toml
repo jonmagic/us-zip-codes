@@ -1,6 +1,8 @@
-zip_code = "56287"
-state = "MN"
 city = "Seaforth"
 county = "Redwood"
-longitude = -95.328167
 latitude = 44.461267
+longitude = -95.328167
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56287"
+

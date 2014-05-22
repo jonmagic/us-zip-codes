@@ -1,6 +1,8 @@
-zip_code = "66865"
-state = "KS"
 city = "Olpe"
 county = "Lyon"
-longitude = -96.1903
 latitude = 38.354006
+longitude = -96.1903
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66865"
+

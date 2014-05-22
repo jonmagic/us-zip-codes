@@ -1,6 +1,8 @@
-zip_code = "30273"
-state = "GA"
 city = "Rex"
 county = "Clayton"
-longitude = -84.272559
 latitude = 33.577049
+longitude = -84.272559
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30273"
+

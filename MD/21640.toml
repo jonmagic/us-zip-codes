@@ -1,6 +1,8 @@
-zip_code = "21640"
-state = "MD"
 city = "Henderson"
 county = "Caroline"
-longitude = -75.811781
 latitude = 39.081351
+longitude = -75.811781
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21640"
+

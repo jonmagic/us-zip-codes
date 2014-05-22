@@ -1,6 +1,8 @@
-zip_code = "15824"
-state = "PA"
 city = "Brockway"
 county = "Jefferson"
-longitude = -78.7989
 latitude = 41.247202
+longitude = -78.7989
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15824"
+

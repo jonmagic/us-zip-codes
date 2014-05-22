@@ -1,6 +1,8 @@
-zip_code = "38650"
-state = "MS"
 city = "Myrtle"
 county = "Union"
-longitude = -89.133523
 latitude = 34.512992
+longitude = -89.133523
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38650"
+

@@ -1,6 +1,8 @@
-zip_code = "19317"
-state = "PA"
 city = "Chadds Ford"
 county = "Delaware"
-longitude = -75.557698
 latitude = 39.865567
+longitude = -75.557698
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19317"
+

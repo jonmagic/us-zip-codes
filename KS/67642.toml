@@ -1,6 +1,8 @@
-zip_code = "67642"
-state = "KS"
 city = "Hill City"
 county = "Graham"
-longitude = -99.842382
 latitude = 39.366018
+longitude = -99.842382
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67642"
+

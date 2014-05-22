@@ -1,6 +1,8 @@
-zip_code = "70552"
-state = "LA"
 city = "Loreauville"
 county = "Iberia"
-longitude = -91.683294
 latitude = 30.052016
+longitude = -91.683294
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70552"
+

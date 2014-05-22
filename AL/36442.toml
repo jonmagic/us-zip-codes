@@ -1,6 +1,8 @@
-zip_code = "36442"
-state = "AL"
 city = "Florala"
 county = "Covington"
-longitude = -86.329568
 latitude = 31.019653
+longitude = -86.329568
+state = ""
+state_code_alpha2 = ""
+zip_code = "36442"
+

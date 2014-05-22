@@ -1,6 +1,8 @@
-zip_code = "53563"
-state = "WI"
 city = "Milton"
 county = "Rock"
-longitude = -89.041277
 latitude = 42.737804
+longitude = -89.041277
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53563"
+

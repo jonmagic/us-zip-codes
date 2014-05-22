@@ -1,6 +1,8 @@
-zip_code = "57454"
-state = "SD"
 city = "Langford"
 county = "Marshall"
-longitude = -97.768102
 latitude = 45.692919
+longitude = -97.768102
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57454"
+

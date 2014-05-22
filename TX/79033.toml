@@ -1,6 +1,8 @@
-zip_code = "79033"
-state = "TX"
 city = "Farnsworth"
 county = "Ochiltree"
-longitude = -100.761225
 latitude = 36.391123
+longitude = -100.761225
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79033"
+

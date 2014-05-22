@@ -1,6 +1,8 @@
-zip_code = "41226"
-state = "KY"
 city = "Keaton"
 county = "Johnson"
-longitude = -82.966183
 latitude = 37.973831
+longitude = -82.966183
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41226"
+

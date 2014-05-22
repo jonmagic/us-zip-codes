@@ -1,6 +1,8 @@
-zip_code = "13697"
-state = "NY"
 city = "Winthrop"
 county = "Saint Lawrence"
-longitude = -74.840761
 latitude = 44.642889
+longitude = -74.840761
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13697"
+

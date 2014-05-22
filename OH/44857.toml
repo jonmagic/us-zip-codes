@@ -1,6 +1,8 @@
-zip_code = "44857"
-state = "OH"
 city = "Norwalk"
 county = "Huron"
-longitude = -82.573222
 latitude = 41.204562
+longitude = -82.573222
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44857"
+

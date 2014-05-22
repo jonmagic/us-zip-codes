@@ -1,6 +1,8 @@
-zip_code = "55373"
-state = "MN"
 city = "Rockford"
 county = "Wright"
-longitude = -93.865168
 latitude = 45.155019
+longitude = -93.865168
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55373"
+

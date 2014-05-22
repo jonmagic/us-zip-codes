@@ -1,6 +1,8 @@
-zip_code = "35053"
-state = "AL"
 city = "Crane Hill"
 county = "Cullman"
-longitude = -87.051404
 latitude = 34.044614
+longitude = -87.051404
+state = ""
+state_code_alpha2 = ""
+zip_code = "35053"
+

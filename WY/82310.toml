@@ -1,6 +1,8 @@
-zip_code = "82310"
-state = "WY"
 city = "Jeffrey City"
 county = "Fremont"
-longitude = -107.760978
 latitude = 42.472474
+longitude = -107.760978
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82310"
+

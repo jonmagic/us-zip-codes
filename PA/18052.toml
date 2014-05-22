@@ -1,6 +1,8 @@
-zip_code = "18052"
-state = "PA"
 city = "Whitehall"
 county = "Lehigh"
-longitude = -75.504128
 latitude = 40.656746
+longitude = -75.504128
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18052"
+

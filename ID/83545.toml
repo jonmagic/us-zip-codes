@@ -1,6 +1,8 @@
-zip_code = "83545"
-state = "ID"
 city = "Peck"
 county = "Nez Perce"
-longitude = -116.517114
 latitude = 46.451381
+longitude = -116.517114
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83545"
+

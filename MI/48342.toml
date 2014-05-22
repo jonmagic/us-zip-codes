@@ -1,6 +1,8 @@
-zip_code = "48342"
-state = "MI"
 city = "Pontiac"
 county = "Oakland"
-longitude = -83.288516
 latitude = 42.694224
+longitude = -83.288516
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48342"
+

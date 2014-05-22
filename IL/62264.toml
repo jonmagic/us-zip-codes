@@ -1,6 +1,8 @@
-zip_code = "62264"
-state = "IL"
 city = "New Athens"
 county = "Saint Clair"
-longitude = -89.921695
 latitude = 38.30799
+longitude = -89.921695
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62264"
+

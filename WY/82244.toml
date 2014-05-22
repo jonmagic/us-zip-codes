@@ -1,6 +1,8 @@
-zip_code = "82244"
-state = "WY"
 city = "Yoder"
 county = "Goshen"
-longitude = -104.354049
 latitude = 42.088115
+longitude = -104.354049
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82244"
+

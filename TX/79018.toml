@@ -1,6 +1,8 @@
-zip_code = "79018"
-state = "TX"
 city = "Channing"
 county = "Hartley"
-longitude = -102.330294
 latitude = 35.685842
+longitude = -102.330294
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79018"
+

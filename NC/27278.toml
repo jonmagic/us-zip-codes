@@ -1,6 +1,8 @@
-zip_code = "27278"
-state = "NC"
 city = "Hillsborough"
 county = "Orange"
-longitude = -79.085469
 latitude = 36.077432
+longitude = -79.085469
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27278"
+

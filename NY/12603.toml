@@ -1,6 +1,8 @@
-zip_code = "12603"
-state = "NY"
 city = "Poughkeepsie"
 county = "Dutchess"
-longitude = -73.862074
 latitude = 41.690707
+longitude = -73.862074
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12603"
+

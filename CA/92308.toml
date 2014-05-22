@@ -1,6 +1,8 @@
-zip_code = "92308"
-state = "CA"
 city = "Apple Valley"
 county = "San Bernardino"
-longitude = -116.726751
 latitude = 34.450143
+longitude = -116.726751
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92308"
+

@@ -1,6 +1,8 @@
-zip_code = "45070"
-state = "OH"
 city = "West Elkton"
 county = "Preble"
-longitude = -84.54682
 latitude = 39.594686
+longitude = -84.54682
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45070"
+

@@ -1,6 +1,8 @@
-zip_code = "80241"
-state = "CO"
 city = "Denver"
 county = "Adams"
-longitude = -104.954833
 latitude = 39.927421
+longitude = -104.954833
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80241"
+

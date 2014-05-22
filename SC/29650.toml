@@ -1,6 +1,8 @@
-zip_code = "29650"
-state = "SC"
 city = "Greer"
 county = "Greenville"
-longitude = -82.368415
 latitude = 34.948738
+longitude = -82.368415
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29650"
+

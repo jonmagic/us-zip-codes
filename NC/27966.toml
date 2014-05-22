@@ -1,6 +1,8 @@
-zip_code = "27966"
-state = "NC"
 city = "Powells Point"
 county = "Currituck"
-longitude = -75.865772
 latitude = 36.201721
+longitude = -75.865772
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27966"
+

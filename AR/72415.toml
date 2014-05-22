@@ -1,6 +1,8 @@
-zip_code = "72415"
-state = "AR"
 city = "Black Rock"
 county = "Lawrence"
-longitude = -91.187361
 latitude = 36.132344
+longitude = -91.187361
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72415"
+

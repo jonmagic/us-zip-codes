@@ -1,6 +1,8 @@
-zip_code = "16426"
-state = "PA"
 city = "Mc Kean"
 county = "Erie"
-longitude = -80.132523
 latitude = 41.985964
+longitude = -80.132523
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16426"
+

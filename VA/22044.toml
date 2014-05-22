@@ -1,6 +1,8 @@
-zip_code = "22044"
-state = "VA"
 city = "Falls Church"
 county = "Fairfax"
-longitude = -77.154761
 latitude = 38.858853
+longitude = -77.154761
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22044"
+

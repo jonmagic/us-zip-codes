@@ -1,6 +1,8 @@
-zip_code = "66541"
-state = "KS"
 city = "Summerfield"
 county = "Marshall"
-longitude = -96.510692
 latitude = 39.847244
+longitude = -96.510692
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66541"
+

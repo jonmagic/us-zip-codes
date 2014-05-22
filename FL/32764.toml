@@ -1,6 +1,8 @@
-zip_code = "32764"
-state = "FL"
 city = "Osteen"
 county = "Volusia"
-longitude = -81.084188
 latitude = 28.854824
+longitude = -81.084188
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32764"
+

@@ -1,6 +1,8 @@
-zip_code = "68726"
-state = "NE"
 city = "Clearwater"
 county = "Antelope"
-longitude = -98.066911
 latitude = 42.176397
+longitude = -98.066911
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68726"
+

@@ -1,6 +1,8 @@
-zip_code = "88055"
-state = "NM"
 city = "Redrock"
 county = "Grant"
-longitude = -108.327898
 latitude = 32.53667
+longitude = -108.327898
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88055"
+

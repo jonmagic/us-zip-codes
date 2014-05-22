@@ -1,6 +1,8 @@
-zip_code = "59806"
-state = "MT"
 city = "Missoula"
 county = "Missoula"
-longitude = -114.049824
 latitude = 47.116034
+longitude = -114.049824
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59806"
+

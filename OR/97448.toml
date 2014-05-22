@@ -1,6 +1,8 @@
-zip_code = "97448"
-state = "OR"
 city = "Junction City"
 county = "Lane"
-longitude = -123.273576
 latitude = 44.192567
+longitude = -123.273576
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97448"
+

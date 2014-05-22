@@ -1,6 +1,8 @@
-zip_code = "77502"
-state = "TX"
 city = "Pasadena"
 county = "Harris"
-longitude = -95.202911
 latitude = 29.678179
+longitude = -95.202911
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77502"
+

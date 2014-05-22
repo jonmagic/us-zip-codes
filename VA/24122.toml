@@ -1,6 +1,8 @@
-zip_code = "24122"
-state = "VA"
 city = "Montvale"
 county = "Bedford"
-longitude = -79.710746
 latitude = 37.419582
+longitude = -79.710746
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24122"
+

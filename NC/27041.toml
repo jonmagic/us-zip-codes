@@ -1,6 +1,8 @@
-zip_code = "27041"
-state = "NC"
 city = "Pilot Mountain"
 county = "Surry"
-longitude = -80.505421
 latitude = 36.422632
+longitude = -80.505421
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27041"
+

@@ -1,6 +1,8 @@
-zip_code = "64858"
-state = "MO"
 city = "Racine"
 county = "Newton"
-longitude = -94.532109
 latitude = 36.90103
+longitude = -94.532109
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64858"
+

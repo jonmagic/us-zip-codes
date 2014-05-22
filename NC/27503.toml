@@ -1,6 +1,8 @@
-zip_code = "27503"
-state = "NC"
 city = "Bahama"
 county = "Durham"
-longitude = -78.885147
 latitude = 36.09206
+longitude = -78.885147
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27503"
+

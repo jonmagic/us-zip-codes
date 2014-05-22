@@ -1,6 +1,8 @@
-zip_code = "93610"
-state = "CA"
 city = "Chowchilla"
 county = "Madera"
-longitude = -120.266097
 latitude = 37.013396
+longitude = -120.266097
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93610"
+

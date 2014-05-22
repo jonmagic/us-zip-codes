@@ -1,6 +1,8 @@
-zip_code = "81329"
-state = "CO"
 city = "Marvel"
 county = "La Plata"
-longitude = -108.125194
 latitude = 37.092605
+longitude = -108.125194
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81329"
+

@@ -1,6 +1,8 @@
-zip_code = "72827"
-state = "AR"
 city = "Bluffton"
 county = "Yell"
-longitude = -93.303203
 latitude = 35.030397
+longitude = -93.303203
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72827"
+

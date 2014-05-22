@@ -1,6 +1,8 @@
-zip_code = "11693"
-state = "NY"
 city = "Far Rockaway"
 county = "Queens"
-longitude = -73.81427
 latitude = 40.59846
+longitude = -73.81427
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11693"
+

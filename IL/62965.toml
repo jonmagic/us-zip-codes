@@ -1,6 +1,8 @@
-zip_code = "62965"
-state = "IL"
 city = "Muddy"
 county = "Saline"
-longitude = -88.548695
 latitude = 37.801972
+longitude = -88.548695
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62965"
+

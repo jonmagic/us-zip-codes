@@ -1,6 +1,8 @@
-zip_code = "35546"
-state = "AL"
 city = "Berry"
 county = "Fayette"
-longitude = -87.676862
 latitude = 33.634468
+longitude = -87.676862
+state = ""
+state_code_alpha2 = ""
+zip_code = "35546"
+

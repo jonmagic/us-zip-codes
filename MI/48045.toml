@@ -1,6 +1,8 @@
-zip_code = "48045"
-state = "MI"
 city = "Harrison Township"
 county = "Macomb"
-longitude = -82.821517
 latitude = 42.587734
+longitude = -82.821517
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48045"
+

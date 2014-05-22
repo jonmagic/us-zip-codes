@@ -1,6 +1,8 @@
-zip_code = "08076"
-state = "NJ"
 city = "Riverton"
 county = "Burlington"
-longitude = -74.725079
 latitude = 39.862433
+longitude = -74.725079
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08076"
+

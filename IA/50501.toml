@@ -1,6 +1,8 @@
-zip_code = "50501"
-state = "IA"
 city = "Fort Dodge"
 county = "Webster"
-longitude = -94.166587
 latitude = 42.438596
+longitude = -94.166587
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50501"
+

@@ -1,6 +1,8 @@
-zip_code = "24084"
-state = "VA"
 city = "Dublin"
 county = "Pulaski"
-longitude = -80.752614
 latitude = 37.122327
+longitude = -80.752614
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24084"
+

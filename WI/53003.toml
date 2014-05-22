@@ -1,6 +1,8 @@
-zip_code = "53003"
-state = "WI"
 city = "Ashippun"
 county = "Dodge"
-longitude = -88.525315
 latitude = 43.217506
+longitude = -88.525315
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53003"
+

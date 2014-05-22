@@ -1,6 +1,8 @@
-zip_code = "38772"
-state = "MS"
 city = "Scott"
 county = "Bolivar"
-longitude = -91.039093
 latitude = 33.562871
+longitude = -91.039093
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38772"
+

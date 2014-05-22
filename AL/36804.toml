@@ -1,6 +1,8 @@
-zip_code = "36804"
-state = "AL"
 city = "Opelika"
 county = "Lee"
-longitude = -85.311984
 latitude = 32.576792
+longitude = -85.311984
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36804"
+

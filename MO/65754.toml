@@ -1,6 +1,8 @@
-zip_code = "65754"
-state = "MO"
 city = "Spokane"
 county = "Christian"
-longitude = -93.292806
 latitude = 36.854253
+longitude = -93.292806
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65754"
+

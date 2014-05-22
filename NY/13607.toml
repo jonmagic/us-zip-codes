@@ -1,6 +1,8 @@
-zip_code = "13607"
-state = "NY"
 city = "Alexandria Bay"
 county = "Jefferson"
-longitude = -75.840719
 latitude = 44.074604
+longitude = -75.840719
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13607"
+

@@ -1,6 +1,8 @@
-zip_code = "37148"
-state = "TN"
 city = "Portland"
 county = "Sumner"
-longitude = -86.515887
 latitude = 36.547545
+longitude = -86.515887
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37148"
+

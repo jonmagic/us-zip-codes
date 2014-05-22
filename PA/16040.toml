@@ -1,6 +1,8 @@
-zip_code = "16040"
-state = "PA"
 city = "Hilliards"
 county = "Butler"
-longitude = -79.835723
 latitude = 41.091444
+longitude = -79.835723
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16040"
+

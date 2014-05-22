@@ -1,6 +1,8 @@
-zip_code = "27233"
-state = "NC"
 city = "Climax"
 county = "Guilford"
-longitude = -79.69325
 latitude = 35.937583
+longitude = -79.69325
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27233"
+

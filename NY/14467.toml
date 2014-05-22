@@ -1,6 +1,8 @@
-zip_code = "14467"
-state = "NY"
 city = "Henrietta"
 county = "Monroe"
-longitude = -77.558902
 latitude = 43.058863
+longitude = -77.558902
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14467"
+

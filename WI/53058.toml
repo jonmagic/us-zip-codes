@@ -1,6 +1,8 @@
-zip_code = "53058"
-state = "WI"
 city = "Nashotah"
 county = "Waukesha"
-longitude = -88.40248
 latitude = 43.109127
+longitude = -88.40248
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53058"
+

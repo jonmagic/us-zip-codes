@@ -1,6 +1,8 @@
-zip_code = "97861"
-state = "OR"
 city = "Mikkalo"
 county = "Gilliam"
-longitude = -120.206698
 latitude = 45.438822
+longitude = -120.206698
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97861"
+

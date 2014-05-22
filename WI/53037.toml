@@ -1,6 +1,8 @@
-zip_code = "53037"
-state = "WI"
 city = "Jackson"
 county = "Washington"
-longitude = -88.152212
 latitude = 43.32393
+longitude = -88.152212
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53037"
+

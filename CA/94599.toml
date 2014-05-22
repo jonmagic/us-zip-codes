@@ -1,6 +1,8 @@
-zip_code = "94599"
-state = "CA"
 city = "Yountville"
 county = "Napa"
-longitude = -122.361587
 latitude = 38.41611
+longitude = -122.361587
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94599"
+

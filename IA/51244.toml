@@ -1,6 +1,8 @@
-zip_code = "51244"
-state = "IA"
 city = "Matlock"
 county = "Sioux"
-longitude = -95.915089
 latitude = 43.214976
+longitude = -95.915089
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51244"
+

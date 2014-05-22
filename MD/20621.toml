@@ -1,6 +1,8 @@
-zip_code = "20621"
-state = "MD"
 city = "Chaptico"
 county = "Saint Marys"
-longitude = -76.783288
 latitude = 38.350987
+longitude = -76.783288
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20621"
+

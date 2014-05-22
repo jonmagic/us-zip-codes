@@ -1,6 +1,8 @@
-zip_code = "47462"
-state = "IN"
 city = "Springville"
 county = "Lawrence"
-longitude = -86.584408
 latitude = 38.941408
+longitude = -86.584408
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47462"
+

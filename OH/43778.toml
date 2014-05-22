@@ -1,6 +1,8 @@
-zip_code = "43778"
-state = "OH"
 city = "Salesville"
 county = "Guernsey"
-longitude = -81.373692
 latitude = 40.015591
+longitude = -81.373692
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43778"
+

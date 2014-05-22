@@ -1,6 +1,8 @@
-zip_code = "03805"
-state = "NH"
 city = "Rollinsford"
 county = "Strafford"
-longitude = -70.930684
 latitude = 43.285282
+longitude = -70.930684
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03805"
+

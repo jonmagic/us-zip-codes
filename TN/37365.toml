@@ -1,6 +1,8 @@
-zip_code = "37365"
-state = "TN"
 city = "Palmer"
 county = "Grundy"
-longitude = -85.699601
 latitude = 35.373473
+longitude = -85.699601
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37365"
+

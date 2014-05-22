@@ -1,6 +1,8 @@
-zip_code = "32087"
-state = "FL"
 city = "Sanderson"
 county = "Baker"
-longitude = -82.334017
 latitude = 30.291034
+longitude = -82.334017
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32087"
+

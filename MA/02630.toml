@@ -1,6 +1,8 @@
-zip_code = "02630"
-state = "MA"
 city = "Barnstable"
 county = "Barnstable"
-longitude = -70.301394
 latitude = 41.697313
+longitude = -70.301394
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02630"
+

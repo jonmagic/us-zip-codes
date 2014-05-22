@@ -1,6 +1,8 @@
-zip_code = "40146"
-state = "KY"
 city = "Irvington"
 county = "Breckinridge"
-longitude = -86.28417
 latitude = 37.828452
+longitude = -86.28417
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40146"
+

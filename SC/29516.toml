@@ -1,6 +1,8 @@
-zip_code = "29516"
-state = "SC"
 city = "Blenheim"
 county = "Marlboro"
-longitude = -79.644187
 latitude = 34.517149
+longitude = -79.644187
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29516"
+

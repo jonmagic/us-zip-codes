@@ -1,6 +1,8 @@
-zip_code = "57383"
-state = "SD"
 city = "White Lake"
 county = "Aurora"
-longitude = -98.644922
 latitude = 43.714955
+longitude = -98.644922
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57383"
+

@@ -1,6 +1,8 @@
-zip_code = "47142"
-state = "IN"
 city = "Mauckport"
 county = "Harrison"
-longitude = -86.204065
 latitude = 38.073945
+longitude = -86.204065
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47142"
+

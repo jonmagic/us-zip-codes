@@ -1,6 +1,8 @@
-zip_code = "72733"
-state = "AR"
 city = "Gateway"
 county = "Benton"
-longitude = -93.927748
 latitude = 36.486424
+longitude = -93.927748
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72733"
+

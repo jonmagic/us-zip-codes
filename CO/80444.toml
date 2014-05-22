@@ -1,6 +1,8 @@
-zip_code = "80444"
-state = "CO"
 city = "Georgetown"
 county = "Clear Creek"
-longitude = -105.760626
 latitude = 39.725703
+longitude = -105.760626
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80444"
+

@@ -1,6 +1,8 @@
-zip_code = "67673"
-state = "KS"
 city = "Waldo"
 county = "Russell"
-longitude = -98.788651
 latitude = 39.067957
+longitude = -98.788651
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67673"
+

@@ -1,6 +1,8 @@
-zip_code = "81237"
-state = "CO"
 city = "Ohio City"
 county = "Gunnison"
-longitude = -106.602838
 latitude = 38.590788
+longitude = -106.602838
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81237"
+

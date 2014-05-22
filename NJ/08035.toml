@@ -1,6 +1,8 @@
-zip_code = "08035"
-state = "NJ"
 city = "Haddon Heights"
 county = "Camden"
-longitude = -75.065666
 latitude = 39.879163
+longitude = -75.065666
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08035"
+

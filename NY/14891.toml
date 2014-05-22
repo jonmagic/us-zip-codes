@@ -1,6 +1,8 @@
-zip_code = "14891"
-state = "NY"
 city = "Watkins Glen"
 county = "Schuyler"
-longitude = -76.927135
 latitude = 42.37285
+longitude = -76.927135
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14891"
+

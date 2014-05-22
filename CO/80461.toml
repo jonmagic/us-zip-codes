@@ -1,6 +1,8 @@
-zip_code = "80461"
-state = "CO"
 city = "Leadville"
 county = "Lake"
-longitude = -106.35833
 latitude = 39.21753
+longitude = -106.35833
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80461"
+

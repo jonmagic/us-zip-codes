@@ -1,6 +1,8 @@
-zip_code = "00606"
-state = "PR"
 city = "Maricao"
 county = "Maricao"
-longitude = -66.944111
 latitude = 18.172947
+longitude = -66.944111
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00606"
+

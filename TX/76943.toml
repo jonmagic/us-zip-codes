@@ -1,6 +1,8 @@
-zip_code = "76943"
-state = "TX"
 city = "Ozona"
 county = "Crockett"
-longitude = -101.498604
 latitude = 30.798496
+longitude = -101.498604
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76943"
+

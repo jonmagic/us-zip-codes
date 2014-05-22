@@ -1,6 +1,8 @@
-zip_code = "92019"
-state = "CA"
 city = "El Cajon"
 county = "San Diego"
-longitude = -117.041287
 latitude = 32.865113
+longitude = -117.041287
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92019"
+

@@ -1,6 +1,8 @@
-zip_code = "30623"
-state = "GA"
 city = "Bostwick"
 county = "Morgan"
-longitude = -83.511055
 latitude = 33.754235
+longitude = -83.511055
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30623"
+

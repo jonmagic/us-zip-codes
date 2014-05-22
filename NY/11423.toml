@@ -1,6 +1,8 @@
-zip_code = "11423"
-state = "NY"
 city = "Hollis"
 county = "Queens"
-longitude = -73.766897
 latitude = 40.716888
+longitude = -73.766897
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11423"
+

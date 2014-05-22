@@ -1,6 +1,8 @@
-zip_code = "48603"
-state = "MI"
 city = "Saginaw"
 county = "Saginaw"
-longitude = -84.026587
 latitude = 43.460115
+longitude = -84.026587
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48603"
+

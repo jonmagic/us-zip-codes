@@ -1,6 +1,8 @@
-zip_code = "26302"
-state = "WV"
 city = "Clarksburg"
 county = "Harrison"
-longitude = -80.307718
 latitude = 39.267736
+longitude = -80.307718
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26302"
+

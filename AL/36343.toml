@@ -1,6 +1,8 @@
-zip_code = "36343"
-state = "AL"
 city = "Gordon"
 county = "Houston"
-longitude = -85.168005
 latitude = 31.080374
+longitude = -85.168005
+state = ""
+state_code_alpha2 = ""
+zip_code = "36343"
+

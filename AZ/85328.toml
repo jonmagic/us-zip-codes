@@ -1,6 +1,8 @@
-zip_code = "85328"
-state = "AZ"
 city = "Cibola"
 county = "La Paz"
-longitude = -114.03215
 latitude = 33.672255
+longitude = -114.03215
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85328"
+

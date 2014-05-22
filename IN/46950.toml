@@ -1,6 +1,8 @@
-zip_code = "46950"
-state = "IN"
 city = "Lucerne"
 county = "Cass"
-longitude = -86.354066
 latitude = 40.875277
+longitude = -86.354066
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46950"
+

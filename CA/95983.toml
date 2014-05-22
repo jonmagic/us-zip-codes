@@ -1,6 +1,8 @@
-zip_code = "95983"
-state = "CA"
 city = "Taylorsville"
 county = "Plumas"
-longitude = -120.77591
 latitude = 39.963458
+longitude = -120.77591
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95983"
+

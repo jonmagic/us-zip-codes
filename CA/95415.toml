@@ -1,6 +1,8 @@
-zip_code = "95415"
-state = "CA"
 city = "Boonville"
 county = "Mendocino"
-longitude = -123.418728
 latitude = 39.046943
+longitude = -123.418728
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95415"
+

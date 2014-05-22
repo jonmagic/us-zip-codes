@@ -1,6 +1,8 @@
-zip_code = "98926"
-state = "WA"
 city = "Ellensburg"
 county = "Kittitas"
-longitude = -120.48998
 latitude = 47.028084
+longitude = -120.48998
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98926"
+

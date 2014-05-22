@@ -1,6 +1,8 @@
-zip_code = "38664"
-state = "MS"
 city = "Robinsonville"
 county = "Tunica"
-longitude = -90.332582
 latitude = 34.780008
+longitude = -90.332582
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38664"
+

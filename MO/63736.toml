@@ -1,6 +1,8 @@
-zip_code = "63736"
-state = "MO"
 city = "Benton"
 county = "Scott"
-longitude = -89.538588
 latitude = 37.025936
+longitude = -89.538588
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63736"
+

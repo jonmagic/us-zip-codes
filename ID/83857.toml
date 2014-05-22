@@ -1,6 +1,8 @@
-zip_code = "83857"
-state = "ID"
 city = "Princeton"
 county = "Latah"
-longitude = -116.804736
 latitude = 46.884343
+longitude = -116.804736
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83857"
+

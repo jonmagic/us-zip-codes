@@ -1,6 +1,8 @@
-zip_code = "63072"
-state = "MO"
 city = "Robertsville"
 county = "Franklin"
-longitude = -90.931777
 latitude = 38.353892
+longitude = -90.931777
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63072"
+

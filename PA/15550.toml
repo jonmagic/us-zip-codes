@@ -1,6 +1,8 @@
-zip_code = "15550"
-state = "PA"
 city = "Manns Choice"
 county = "Bedford"
-longitude = -78.658195
 latitude = 39.902488
+longitude = -78.658195
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15550"
+

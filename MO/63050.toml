@@ -1,6 +1,8 @@
-zip_code = "63050"
-state = "MO"
 city = "Hillsboro"
 county = "Jefferson"
-longitude = -90.524641
 latitude = 38.308596
+longitude = -90.524641
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63050"
+

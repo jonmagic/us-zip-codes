@@ -1,6 +1,8 @@
-zip_code = "27950"
-state = "NC"
 city = "Knotts Island"
 county = "Currituck"
-longitude = -75.976651
 latitude = 36.427047
+longitude = -75.976651
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27950"
+

@@ -1,6 +1,8 @@
-zip_code = "46365"
-state = "IN"
 city = "Mill Creek"
 county = "La Porte"
-longitude = -86.543956
 latitude = 41.609081
+longitude = -86.543956
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46365"
+

@@ -1,6 +1,8 @@
-zip_code = "59452"
-state = "MT"
 city = "Hobson"
 county = "Judith Basin"
-longitude = -109.875615
 latitude = 46.996773
+longitude = -109.875615
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59452"
+

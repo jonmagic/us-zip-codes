@@ -1,6 +1,8 @@
-zip_code = "47601"
-state = "IN"
 city = "Boonville"
 county = "Warrick"
-longitude = -87.287145
 latitude = 38.04247
+longitude = -87.287145
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47601"
+

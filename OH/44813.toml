@@ -1,6 +1,8 @@
-zip_code = "44813"
-state = "OH"
 city = "Bellville"
 county = "Richland"
-longitude = -82.481491
 latitude = 40.646184
+longitude = -82.481491
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44813"
+

@@ -1,6 +1,8 @@
-zip_code = "72105"
-state = "AR"
 city = "Jones Mill"
 county = "Hot Spring"
-longitude = -92.851558
 latitude = 34.39588
+longitude = -92.851558
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72105"
+

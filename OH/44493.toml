@@ -1,6 +1,8 @@
-zip_code = "44493"
-state = "OH"
 city = "Winona"
 county = "Columbiana"
-longitude = -80.896714
 latitude = 40.828584
+longitude = -80.896714
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44493"
+

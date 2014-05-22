@@ -1,6 +1,8 @@
-zip_code = "54928"
-state = "WI"
 city = "Caroline"
 county = "Shawano"
-longitude = -88.876673
 latitude = 44.735836
+longitude = -88.876673
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54928"
+

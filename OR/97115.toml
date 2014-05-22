@@ -1,6 +1,8 @@
-zip_code = "97115"
-state = "OR"
 city = "Dundee"
 county = "Yamhill"
-longitude = -123.02067
 latitude = 45.27237
+longitude = -123.02067
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97115"
+

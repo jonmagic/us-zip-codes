@@ -1,6 +1,8 @@
-zip_code = "58756"
-state = "ND"
 city = "Makoti"
 county = "Ward"
-longitude = -101.778246
 latitude = 47.957203
+longitude = -101.778246
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58756"
+

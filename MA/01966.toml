@@ -1,6 +1,8 @@
-zip_code = "01966"
-state = "MA"
 city = "Rockport"
 county = "Essex"
-longitude = -70.618057
 latitude = 42.657866
+longitude = -70.618057
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01966"
+

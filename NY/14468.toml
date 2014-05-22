@@ -1,6 +1,8 @@
-zip_code = "14468"
-state = "NY"
 city = "Hilton"
 county = "Monroe"
-longitude = -77.832333
 latitude = 43.28521
+longitude = -77.832333
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14468"
+

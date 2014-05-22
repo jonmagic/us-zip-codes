@@ -1,6 +1,8 @@
-zip_code = "74085"
-state = "OK"
 city = "Yale"
 county = "Payne"
-longitude = -96.803185
 latitude = 36.164752
+longitude = -96.803185
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74085"
+

@@ -1,6 +1,8 @@
-zip_code = "08830"
-state = "NJ"
 city = "Iselin"
 county = "Middlesex"
-longitude = -74.315042
 latitude = 40.569211
+longitude = -74.315042
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08830"
+

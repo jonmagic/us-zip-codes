@@ -1,6 +1,8 @@
-zip_code = "99110"
-state = "WA"
 city = "Clayton"
 county = "Stevens"
-longitude = -117.557907
 latitude = 48.007138
+longitude = -117.557907
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99110"
+

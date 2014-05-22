@@ -1,6 +1,8 @@
-zip_code = "17329"
-state = "PA"
 city = "Glenville"
 county = "York"
-longitude = -76.877706
 latitude = 39.766883
+longitude = -76.877706
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17329"
+

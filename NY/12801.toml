@@ -1,6 +1,8 @@
-zip_code = "12801"
-state = "NY"
 city = "Glens Falls"
 county = "Warren"
-longitude = -73.669061
 latitude = 43.31888
+longitude = -73.669061
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12801"
+

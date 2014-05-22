@@ -1,6 +1,8 @@
-zip_code = "03818"
-state = "NH"
 city = "Conway"
 county = "Carroll"
-longitude = -71.10261
 latitude = 43.78892
+longitude = -71.10261
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03818"
+

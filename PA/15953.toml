@@ -1,6 +1,8 @@
-zip_code = "15953"
-state = "PA"
 city = "Seanor"
 county = "Somerset"
-longitude = -78.900533
 latitude = 40.206435
+longitude = -78.900533
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15953"
+

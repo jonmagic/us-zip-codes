@@ -1,6 +1,8 @@
-zip_code = "48710"
-state = "MI"
 city = "University Center"
 county = "Bay"
-longitude = -83.994328
 latitude = 43.556574
+longitude = -83.994328
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48710"
+

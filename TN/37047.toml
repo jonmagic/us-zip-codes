@@ -1,6 +1,8 @@
-zip_code = "37047"
-state = "TN"
 city = "Cornersville"
 county = "Marshall"
-longitude = -86.829364
 latitude = 35.354815
+longitude = -86.829364
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37047"
+

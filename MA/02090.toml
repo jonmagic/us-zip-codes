@@ -1,6 +1,8 @@
-zip_code = "02090"
-state = "MA"
 city = "Westwood"
 county = "Norfolk"
-longitude = -71.199238
 latitude = 42.220548
+longitude = -71.199238
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02090"
+

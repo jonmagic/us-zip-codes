@@ -1,6 +1,8 @@
-zip_code = "14723"
-state = "NY"
 city = "Cherry Creek"
 county = "Chautauqua"
-longitude = -79.387594
 latitude = 42.308946
+longitude = -79.387594
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14723"
+

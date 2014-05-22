@@ -1,6 +1,8 @@
-zip_code = "22952"
-state = "VA"
 city = "Lyndhurst"
 county = "Augusta"
-longitude = -78.936098
 latitude = 37.974432
+longitude = -78.936098
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22952"
+

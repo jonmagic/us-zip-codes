@@ -1,6 +1,8 @@
-zip_code = "38568"
-state = "TN"
 city = "Hilham"
 county = "Overton"
-longitude = -85.446431
 latitude = 36.422652
+longitude = -85.446431
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38568"
+

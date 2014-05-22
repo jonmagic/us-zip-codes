@@ -1,6 +1,8 @@
-zip_code = "47519"
-state = "IN"
 city = "Cannelburg"
 county = "Daviess"
-longitude = -87.091762
 latitude = 38.697289
+longitude = -87.091762
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47519"
+

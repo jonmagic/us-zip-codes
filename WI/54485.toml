@@ -1,6 +1,8 @@
-zip_code = "54485"
-state = "WI"
 city = "Summit Lake"
 county = "Langlade"
-longitude = -89.217933
 latitude = 45.396466
+longitude = -89.217933
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54485"
+

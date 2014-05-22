@@ -1,6 +1,8 @@
-zip_code = "19468"
-state = "PA"
 city = "Royersford"
 county = "Montgomery"
-longitude = -75.490215
 latitude = 40.20894
+longitude = -75.490215
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19468"
+

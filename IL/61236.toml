@@ -1,6 +1,8 @@
-zip_code = "61236"
-state = "IL"
 city = "Barstow"
 county = "Rock Island"
-longitude = -90.357727
 latitude = 41.51469
+longitude = -90.357727
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61236"
+

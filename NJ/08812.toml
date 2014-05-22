@@ -1,6 +1,8 @@
-zip_code = "08812"
-state = "NJ"
 city = "Dunellen"
 county = "Middlesex"
-longitude = -74.463947
 latitude = 40.589702
+longitude = -74.463947
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08812"
+

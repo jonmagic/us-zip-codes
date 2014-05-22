@@ -1,6 +1,8 @@
-zip_code = "30752"
-state = "GA"
 city = "Trenton"
 county = "Dade"
-longitude = -85.50208
 latitude = 34.871687
+longitude = -85.50208
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30752"
+

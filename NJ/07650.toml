@@ -1,6 +1,8 @@
-zip_code = "07650"
-state = "NJ"
 city = "Palisades Park"
 county = "Bergen"
-longitude = -74.010792
 latitude = 40.939673
+longitude = -74.010792
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07650"
+

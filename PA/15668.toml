@@ -1,6 +1,8 @@
-zip_code = "15668"
-state = "PA"
 city = "Murrysville"
 county = "Westmoreland"
-longitude = -79.663288
 latitude = 40.423293
+longitude = -79.663288
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15668"
+

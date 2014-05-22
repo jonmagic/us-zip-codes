@@ -1,6 +1,8 @@
-zip_code = "02871"
-state = "RI"
 city = "Portsmouth"
 county = "Newport"
-longitude = -71.264197
 latitude = 41.58523
+longitude = -71.264197
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02871"
+

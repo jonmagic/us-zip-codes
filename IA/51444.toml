@@ -1,6 +1,8 @@
-zip_code = "51444"
-state = "IA"
 city = "Halbur"
 county = "Carroll"
-longitude = -94.994311
 latitude = 42.008229
+longitude = -94.994311
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51444"
+

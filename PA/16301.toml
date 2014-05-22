@@ -1,6 +1,8 @@
-zip_code = "16301"
-state = "PA"
 city = "Oil City"
 county = "Venango"
-longitude = -79.775153
 latitude = 41.330725
+longitude = -79.775153
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16301"
+

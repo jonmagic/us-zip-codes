@@ -1,6 +1,8 @@
-zip_code = "01258"
-state = "MA"
 city = "South Egremont"
 county = "Berkshire"
-longitude = -73.36089
 latitude = 42.128075
+longitude = -73.36089
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01258"
+

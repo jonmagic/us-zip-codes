@@ -1,6 +1,8 @@
-zip_code = "67764"
-state = "KS"
 city = "Winona"
 county = "Logan"
-longitude = -101.094305
 latitude = 38.921702
+longitude = -101.094305
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67764"
+

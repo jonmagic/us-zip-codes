@@ -1,6 +1,8 @@
-zip_code = "20692"
-state = "MD"
 city = "Valley Lee"
 county = "Saint Marys"
-longitude = -76.501604
 latitude = 38.192688
+longitude = -76.501604
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20692"
+

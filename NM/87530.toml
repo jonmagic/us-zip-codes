@@ -1,6 +1,8 @@
-zip_code = "87530"
-state = "NM"
 city = "El Rito"
 county = "Rio Arriba"
-longitude = -106.198853
 latitude = 36.283096
+longitude = -106.198853
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87530"
+

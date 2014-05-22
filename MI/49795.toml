@@ -1,6 +1,8 @@
-zip_code = "49795"
-state = "MI"
 city = "Vanderbilt"
 county = "Otsego"
-longitude = -84.552604
 latitude = 45.139667
+longitude = -84.552604
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49795"
+

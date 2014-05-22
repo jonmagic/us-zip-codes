@@ -1,6 +1,8 @@
-zip_code = "83203"
-state = "ID"
 city = "Fort Hall"
 county = "Bingham"
-longitude = -112.428535
 latitude = 43.033131
+longitude = -112.428535
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83203"
+

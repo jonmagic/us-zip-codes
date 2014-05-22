@@ -1,6 +1,8 @@
-zip_code = "55040"
-state = "MN"
 city = "Isanti"
 county = "Isanti"
-longitude = -93.287101
 latitude = 45.565289
+longitude = -93.287101
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55040"
+

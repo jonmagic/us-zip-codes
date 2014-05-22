@@ -1,6 +1,8 @@
-zip_code = "18437"
-state = "PA"
 city = "Lake Como"
 county = "Wayne"
-longitude = -75.282339
 latitude = 41.617378
+longitude = -75.282339
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18437"
+

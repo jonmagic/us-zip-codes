@@ -1,6 +1,8 @@
-zip_code = "59440"
-state = "MT"
 city = "Floweree"
 county = "Chouteau"
-longitude = -110.471075
 latitude = 47.861021
+longitude = -110.471075
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59440"
+

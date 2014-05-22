@@ -1,6 +1,8 @@
-zip_code = "13320"
-state = "NY"
 city = "Cherry Valley"
 county = "Otsego"
-longitude = -74.759734
 latitude = 42.768195
+longitude = -74.759734
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13320"
+

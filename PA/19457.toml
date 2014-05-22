@@ -1,6 +1,8 @@
-zip_code = "19457"
-state = "PA"
 city = "Parker Ford"
 county = "Chester"
-longitude = -75.5984
 latitude = 40.208976
+longitude = -75.5984
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19457"
+

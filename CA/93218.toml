@@ -1,6 +1,8 @@
-zip_code = "93218"
-state = "CA"
 city = "Ducor"
 county = "Tulare"
-longitude = -119.036316
 latitude = 36.082002
+longitude = -119.036316
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93218"
+

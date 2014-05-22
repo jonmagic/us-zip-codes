@@ -1,6 +1,8 @@
-zip_code = "54745"
-state = "WI"
 city = "Holcombe"
 county = "Chippewa"
-longitude = -91.121308
 latitude = 45.150752
+longitude = -91.121308
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54745"
+

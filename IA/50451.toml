@@ -1,6 +1,8 @@
-zip_code = "50451"
-state = "IA"
 city = "Lakota"
 county = "Kossuth"
-longitude = -94.10309
 latitude = 43.366038
+longitude = -94.10309
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50451"
+

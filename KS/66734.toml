@@ -1,6 +1,8 @@
-zip_code = "66734"
-state = "KS"
 city = "Farlington"
 county = "Crawford"
-longitude = -94.798259
 latitude = 37.624035
+longitude = -94.798259
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66734"
+

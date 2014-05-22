@@ -1,6 +1,8 @@
-zip_code = "62812"
-state = "IL"
 city = "Benton"
 county = "Franklin"
-longitude = -88.907464
 latitude = 37.994423
+longitude = -88.907464
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62812"
+

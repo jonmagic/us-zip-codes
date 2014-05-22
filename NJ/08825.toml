@@ -1,6 +1,8 @@
-zip_code = "08825"
-state = "NJ"
 city = "Frenchtown"
 county = "Hunterdon"
-longitude = -75.012655
 latitude = 40.58119
+longitude = -75.012655
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08825"
+

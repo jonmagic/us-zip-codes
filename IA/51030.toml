@@ -1,6 +1,8 @@
-zip_code = "51030"
-state = "IA"
 city = "Lawton"
 county = "Woodbury"
-longitude = -96.03323
 latitude = 42.475035
+longitude = -96.03323
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51030"
+

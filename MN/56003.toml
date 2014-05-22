@@ -1,6 +1,8 @@
-zip_code = "56003"
-state = "MN"
 city = "Mankato"
 county = "Nicollet"
-longitude = -94.094192
 latitude = 44.217193
+longitude = -94.094192
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56003"
+

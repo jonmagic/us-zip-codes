@@ -1,6 +1,8 @@
-zip_code = "32580"
-state = "FL"
 city = "Valparaiso"
 county = "Okaloosa"
-longitude = -86.49706
 latitude = 30.50821
+longitude = -86.49706
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32580"
+

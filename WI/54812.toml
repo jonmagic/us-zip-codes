@@ -1,6 +1,8 @@
-zip_code = "54812"
-state = "WI"
 city = "Barron"
 county = "Barron"
-longitude = -91.86779
 latitude = 45.47734
+longitude = -91.86779
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54812"
+

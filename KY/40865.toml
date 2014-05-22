@@ -1,6 +1,8 @@
-zip_code = "40865"
-state = "KY"
 city = "Putney"
 county = "Harlan"
-longitude = -83.238139
 latitude = 36.903881
+longitude = -83.238139
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40865"
+

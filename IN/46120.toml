@@ -1,6 +1,8 @@
-zip_code = "46120"
-state = "IN"
 city = "Cloverdale"
 county = "Putnam"
-longitude = -86.782523
 latitude = 39.658826
+longitude = -86.782523
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46120"
+

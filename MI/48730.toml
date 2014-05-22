@@ -1,6 +1,8 @@
-zip_code = "48730"
-state = "MI"
 city = "East Tawas"
 county = "Iosco"
-longitude = -83.562942
 latitude = 44.349592
+longitude = -83.562942
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48730"
+

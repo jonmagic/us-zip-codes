@@ -1,6 +1,8 @@
-zip_code = "83541"
-state = "ID"
 city = "Lenore"
 county = "Clearwater"
-longitude = -116.377265
 latitude = 46.549573
+longitude = -116.377265
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83541"
+

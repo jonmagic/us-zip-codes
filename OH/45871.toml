@@ -1,6 +1,8 @@
-zip_code = "45871"
-state = "OH"
 city = "New Knoxville"
 county = "Auglaize"
-longitude = -84.282659
 latitude = 40.496141
+longitude = -84.282659
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45871"
+

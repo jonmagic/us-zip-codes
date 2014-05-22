@@ -1,6 +1,8 @@
-zip_code = "20194"
-state = "VA"
 city = "Reston"
 county = "Fairfax"
-longitude = -77.341878
 latitude = 38.980742
+longitude = -77.341878
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20194"
+

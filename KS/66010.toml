@@ -1,6 +1,8 @@
-zip_code = "66010"
-state = "KS"
 city = "Blue Mound"
 county = "Linn"
-longitude = -95.007693
 latitude = 38.089756
+longitude = -95.007693
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66010"
+

@@ -1,6 +1,8 @@
-zip_code = "65068"
-state = "MO"
 city = "Prairie Home"
 county = "Cooper"
-longitude = -92.606295
 latitude = 38.819678
+longitude = -92.606295
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65068"
+

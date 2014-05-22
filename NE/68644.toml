@@ -1,6 +1,8 @@
-zip_code = "68644"
-state = "NE"
 city = "Lindsay"
 county = "Platte"
-longitude = -97.694247
 latitude = 41.701476
+longitude = -97.694247
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68644"
+

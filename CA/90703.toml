@@ -1,6 +1,8 @@
-zip_code = "90703"
-state = "CA"
 city = "Cerritos"
 county = "Los Angeles"
-longitude = -118.068648
 latitude = 33.866914
+longitude = -118.068648
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "90703"
+

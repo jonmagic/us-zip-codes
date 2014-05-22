@@ -1,6 +1,8 @@
-zip_code = "72445"
-state = "AR"
 city = "Minturn"
 county = "Lawrence"
-longitude = -91.031799
 latitude = 35.974287
+longitude = -91.031799
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72445"
+

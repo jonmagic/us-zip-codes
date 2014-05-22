@@ -1,6 +1,8 @@
-zip_code = "98258"
-state = "WA"
 city = "Lake Stevens"
 county = "Snohomish"
-longitude = -122.056379
 latitude = 48.046751
+longitude = -122.056379
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98258"
+

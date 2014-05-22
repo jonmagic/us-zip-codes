@@ -1,6 +1,8 @@
-zip_code = "77583"
-state = "TX"
 city = "Rosharon"
 county = "Brazoria"
-longitude = -95.448799
 latitude = 29.42501
+longitude = -95.448799
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77583"
+

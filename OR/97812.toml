@@ -1,6 +1,8 @@
-zip_code = "97812"
-state = "OR"
 city = "Arlington"
 county = "Gilliam"
-longitude = -120.275127
 latitude = 45.567282
+longitude = -120.275127
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97812"
+

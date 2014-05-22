@@ -1,6 +1,8 @@
-zip_code = "12719"
-state = "NY"
 city = "Barryville"
 county = "Sullivan"
-longitude = -74.915176
 latitude = 41.486186
+longitude = -74.915176
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12719"
+

@@ -1,6 +1,8 @@
-zip_code = "52217"
-state = "IA"
 city = "Clutier"
 county = "Tama"
-longitude = -92.420884
 latitude = 42.083382
+longitude = -92.420884
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52217"
+

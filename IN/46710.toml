@@ -1,6 +1,8 @@
-zip_code = "46710"
-state = "IN"
 city = "Avilla"
 county = "Noble"
-longitude = -85.391019
 latitude = 41.368123
+longitude = -85.391019
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46710"
+

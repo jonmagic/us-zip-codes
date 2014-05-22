@@ -1,6 +1,8 @@
-zip_code = "88437"
-state = "NM"
 city = "Seneca"
 county = "Union"
-longitude = -103.505541
 latitude = 36.369783
+longitude = -103.505541
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88437"
+

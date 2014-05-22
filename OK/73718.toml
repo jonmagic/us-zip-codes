@@ -1,6 +1,8 @@
-zip_code = "73718"
-state = "OK"
 city = "Ames"
 county = "Major"
-longitude = -98.185445
 latitude = 36.246582
+longitude = -98.185445
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73718"
+

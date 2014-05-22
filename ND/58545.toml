@@ -1,6 +1,8 @@
-zip_code = "58545"
-state = "ND"
 city = "Hazen"
 county = "Mercer"
-longitude = -101.760142
 latitude = 47.386092
+longitude = -101.760142
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58545"
+

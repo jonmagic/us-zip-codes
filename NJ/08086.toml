@@ -1,6 +1,8 @@
-zip_code = "08086"
-state = "NJ"
 city = "Thorofare"
 county = "Gloucester"
-longitude = -75.24861
 latitude = 39.838721
+longitude = -75.24861
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08086"
+

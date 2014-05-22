@@ -1,6 +1,8 @@
-zip_code = "17934"
-state = "PA"
 city = "Gilberton"
 county = "Schuylkill"
-longitude = -76.21553
 latitude = 40.798623
+longitude = -76.21553
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17934"
+

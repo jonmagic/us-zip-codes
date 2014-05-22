@@ -1,6 +1,8 @@
-zip_code = "70772"
-state = "LA"
 city = "Rosedale"
 county = "Iberville"
-longitude = -91.466482
 latitude = 30.435586
+longitude = -91.466482
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70772"
+

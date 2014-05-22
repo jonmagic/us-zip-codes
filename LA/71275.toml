@@ -1,6 +1,8 @@
-zip_code = "71275"
-state = "LA"
 city = "Simsboro"
 county = "Lincoln"
-longitude = -92.708389
 latitude = 32.597482
+longitude = -92.708389
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71275"
+

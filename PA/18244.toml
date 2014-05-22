@@ -1,6 +1,8 @@
-zip_code = "18244"
-state = "PA"
 city = "Parryville"
 county = "Carbon"
-longitude = -75.665068
 latitude = 40.824546
+longitude = -75.665068
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18244"
+

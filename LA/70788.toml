@@ -1,6 +1,8 @@
-zip_code = "70788"
-state = "LA"
 city = "White Castle"
 county = "Iberville"
-longitude = -91.146472
 latitude = 30.15929
+longitude = -91.146472
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70788"
+

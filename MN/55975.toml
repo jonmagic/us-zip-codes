@@ -1,6 +1,8 @@
-zip_code = "55975"
-state = "MN"
 city = "Spring Valley"
 county = "Fillmore"
-longitude = -92.334603
 latitude = 43.689711
+longitude = -92.334603
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55975"
+

@@ -1,6 +1,8 @@
-zip_code = "40419"
-state = "KY"
 city = "Crab Orchard"
 county = "Lincoln"
-longitude = -84.517065
 latitude = 37.43221
+longitude = -84.517065
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40419"
+

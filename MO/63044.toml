@@ -1,6 +1,8 @@
-zip_code = "63044"
-state = "MO"
 city = "Bridgeton"
 county = "Saint Louis"
-longitude = -90.411542
 latitude = 38.7514
+longitude = -90.411542
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63044"
+

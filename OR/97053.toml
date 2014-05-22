@@ -1,6 +1,8 @@
-zip_code = "97053"
-state = "OR"
 city = "Warren"
 county = "Columbia"
-longitude = -122.874601
 latitude = 45.824213
+longitude = -122.874601
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97053"
+

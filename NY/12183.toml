@@ -1,6 +1,8 @@
-zip_code = "12183"
-state = "NY"
 city = "Troy"
 county = "Albany"
-longitude = -73.694263
 latitude = 42.745994
+longitude = -73.694263
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12183"
+

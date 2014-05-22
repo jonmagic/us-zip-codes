@@ -1,6 +1,8 @@
-zip_code = "08066"
-state = "NJ"
 city = "Paulsboro"
 county = "Gloucester"
-longitude = -75.238849
 latitude = 39.81569
+longitude = -75.238849
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08066"
+

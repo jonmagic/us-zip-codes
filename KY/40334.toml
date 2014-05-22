@@ -1,6 +1,8 @@
-zip_code = "40334"
-state = "KY"
 city = "Hope"
 county = "Montgomery"
-longitude = -83.771261
 latitude = 38.016064
+longitude = -83.771261
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40334"
+

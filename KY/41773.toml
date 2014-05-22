@@ -1,6 +1,8 @@
-zip_code = "41773"
-state = "KY"
 city = "Vicco"
 county = "Perry"
-longitude = -83.065816
 latitude = 37.201968
+longitude = -83.065816
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41773"
+

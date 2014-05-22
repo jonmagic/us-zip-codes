@@ -1,6 +1,8 @@
-zip_code = "18924"
-state = "PA"
 city = "Franconia"
 county = "Montgomery"
-longitude = -75.358575
 latitude = 40.308116
+longitude = -75.358575
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18924"
+

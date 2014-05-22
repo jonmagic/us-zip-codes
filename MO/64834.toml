@@ -1,6 +1,8 @@
-zip_code = "64834"
-state = "MO"
 city = "Carl Junction"
 county = "Jasper"
-longitude = -94.337616
 latitude = 37.188074
+longitude = -94.337616
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64834"
+

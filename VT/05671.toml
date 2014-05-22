@@ -1,6 +1,8 @@
-zip_code = "05671"
-state = "VT"
 city = "Waterbury"
 county = "Washington"
-longitude = -72.585018
 latitude = 44.259518
+longitude = -72.585018
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05671"
+

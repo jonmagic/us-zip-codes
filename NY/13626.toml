@@ -1,6 +1,8 @@
-zip_code = "13626"
-state = "NY"
 city = "Copenhagen"
 county = "Lewis"
-longitude = -75.703596
 latitude = 43.892324
+longitude = -75.703596
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13626"
+

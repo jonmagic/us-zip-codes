@@ -1,6 +1,8 @@
-zip_code = "87935"
-state = "NM"
 city = "Elephant Butte"
 county = "Sierra"
-longitude = -107.221209
 latitude = 33.208962
+longitude = -107.221209
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87935"
+

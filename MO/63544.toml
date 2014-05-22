@@ -1,6 +1,8 @@
-zip_code = "63544"
-state = "MO"
 city = "Green Castle"
 county = "Sullivan"
-longitude = -92.872023
 latitude = 40.245907
+longitude = -92.872023
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63544"
+

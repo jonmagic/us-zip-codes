@@ -1,6 +1,8 @@
-zip_code = "31740"
-state = "GA"
 city = "Cuthbert"
 county = "Randolph"
-longitude = -84.832234
 latitude = 31.731183
+longitude = -84.832234
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31740"
+

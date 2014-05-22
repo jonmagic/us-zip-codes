@@ -1,6 +1,8 @@
-zip_code = "92365"
-state = "CA"
 city = "Newberry Springs"
 county = "San Bernardino"
-longitude = -115.932613
 latitude = 34.90534
+longitude = -115.932613
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92365"
+

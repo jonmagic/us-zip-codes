@@ -1,6 +1,8 @@
-zip_code = "07711"
-state = "NJ"
 city = "Allenhurst"
 county = "Monmouth"
-longitude = -74.008581
 latitude = 40.237111
+longitude = -74.008581
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07711"
+

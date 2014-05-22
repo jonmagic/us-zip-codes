@@ -1,6 +1,8 @@
-zip_code = "60435"
-state = "IL"
 city = "Joliet"
 county = "Will"
-longitude = -87.938034
 latitude = 41.468729
+longitude = -87.938034
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60435"
+

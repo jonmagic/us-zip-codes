@@ -1,6 +1,8 @@
-zip_code = "77656"
-state = "TX"
 city = "Silsbee"
 county = "Hardin"
-longitude = -94.274154
 latitude = 30.327169
+longitude = -94.274154
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77656"
+

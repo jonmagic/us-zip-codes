@@ -1,6 +1,8 @@
-zip_code = "41560"
-state = "KY"
 city = "Robinson Creek"
 county = "Pike"
-longitude = -82.561632
 latitude = 37.379875
+longitude = -82.561632
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41560"
+

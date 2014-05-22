@@ -1,6 +1,8 @@
-zip_code = "07960"
-state = "NJ"
 city = "Morristown"
 county = "Morris"
-longitude = -74.506256
 latitude = 40.77165
+longitude = -74.506256
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07960"
+

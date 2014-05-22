@@ -1,6 +1,8 @@
-zip_code = "45388"
-state = "OH"
 city = "Yorkshire"
 county = "Darke"
-longitude = -84.484466
 latitude = 40.321853
+longitude = -84.484466
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45388"
+

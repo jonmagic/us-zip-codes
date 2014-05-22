@@ -1,6 +1,8 @@
-zip_code = "37337"
-state = "TN"
 city = "Grandview"
 county = "Rhea"
-longitude = -84.942494
 latitude = 35.623951
+longitude = -84.942494
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37337"
+

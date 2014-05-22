@@ -1,6 +1,8 @@
-zip_code = "48653"
-state = "MI"
 city = "Roscommon"
 county = "Roscommon"
-longitude = -84.611194
 latitude = 44.394517
+longitude = -84.611194
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48653"
+

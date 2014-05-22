@@ -1,6 +1,8 @@
-zip_code = "97413"
-state = "OR"
 city = "Blue River"
 county = "Lane"
-longitude = -122.12169
 latitude = 44.175516
+longitude = -122.12169
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97413"
+

@@ -1,6 +1,8 @@
-zip_code = "44640"
-state = "OH"
 city = "Limaville"
 county = "Stark"
-longitude = -81.149664
 latitude = 40.983558
+longitude = -81.149664
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44640"
+

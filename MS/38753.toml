@@ -1,6 +1,8 @@
-zip_code = "38753"
-state = "MS"
 city = "Inverness"
 county = "Sunflower"
-longitude = -90.583441
 latitude = 33.350655
+longitude = -90.583441
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38753"
+

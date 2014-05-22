@@ -1,6 +1,8 @@
-zip_code = "98544"
-state = "WA"
 city = "Galvin"
 county = "Lewis"
-longitude = -123.02536
 latitude = 46.734909
+longitude = -123.02536
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98544"
+

@@ -1,6 +1,8 @@
-zip_code = "71452"
-state = "LA"
 city = "Melrose"
 county = "Natchitoches"
-longitude = -93.171095
 latitude = 31.679336
+longitude = -93.171095
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71452"
+

@@ -1,6 +1,8 @@
-zip_code = "02831"
-state = "RI"
 city = "Hope"
 county = "Providence"
-longitude = -71.577746
 latitude = 41.753594
+longitude = -71.577746
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02831"
+

@@ -1,6 +1,8 @@
-zip_code = "35764"
-state = "AL"
 city = "Paint Rock"
 county = "Jackson"
-longitude = -86.306794
 latitude = 34.703063
+longitude = -86.306794
+state = ""
+state_code_alpha2 = ""
+zip_code = "35764"
+

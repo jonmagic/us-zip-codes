@@ -1,6 +1,8 @@
-zip_code = "23974"
-state = "VA"
 city = "Victoria"
 county = "Lunenburg"
-longitude = -78.258493
 latitude = 36.961136
+longitude = -78.258493
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23974"
+

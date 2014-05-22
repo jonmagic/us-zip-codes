@@ -1,6 +1,8 @@
-zip_code = "67649"
-state = "KS"
 city = "Luray"
 county = "Russell"
-longitude = -98.651072
 latitude = 39.08201
+longitude = -98.651072
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67649"
+

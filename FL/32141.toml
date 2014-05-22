@@ -1,6 +1,8 @@
-zip_code = "32141"
-state = "FL"
 city = "Edgewater"
 county = "Volusia"
-longitude = -80.900037
 latitude = 28.933217
+longitude = -80.900037
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32141"
+

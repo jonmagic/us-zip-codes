@@ -1,6 +1,8 @@
-zip_code = "36270"
-state = "AL"
 city = "Newell"
 county = "Randolph"
-longitude = -85.468493
 latitude = 33.42978
+longitude = -85.468493
+state = ""
+state_code_alpha2 = ""
+zip_code = "36270"
+

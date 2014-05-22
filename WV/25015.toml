@@ -1,6 +1,8 @@
-zip_code = "25015"
-state = "WV"
 city = "Belle"
 county = "Kanawha"
-longitude = -81.502399
 latitude = 38.232406
+longitude = -81.502399
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25015"
+

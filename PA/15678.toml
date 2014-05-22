@@ -1,6 +1,8 @@
-zip_code = "15678"
-state = "PA"
 city = "Rillton"
 county = "Westmoreland"
-longitude = -79.723278
 latitude = 40.282843
+longitude = -79.723278
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15678"
+

@@ -1,6 +1,8 @@
-zip_code = "07836"
-state = "NJ"
 city = "Flanders"
 county = "Morris"
-longitude = -74.701558
 latitude = 40.850884
+longitude = -74.701558
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07836"
+

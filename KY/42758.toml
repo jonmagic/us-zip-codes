@@ -1,6 +1,8 @@
-zip_code = "42758"
-state = "KY"
 city = "Mannsville"
 county = "Taylor"
-longitude = -85.198031
 latitude = 37.360392
+longitude = -85.198031
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42758"
+

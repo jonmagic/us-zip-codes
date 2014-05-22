@@ -1,6 +1,8 @@
-zip_code = "15959"
-state = "PA"
 city = "Tire Hill"
 county = "Somerset"
-longitude = -78.915567
 latitude = 40.267975
+longitude = -78.915567
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15959"
+

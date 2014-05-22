@@ -1,6 +1,8 @@
-zip_code = "49638"
-state = "MI"
 city = "Harrietta"
 county = "Wexford"
-longitude = -85.710694
 latitude = 44.280319
+longitude = -85.710694
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49638"
+

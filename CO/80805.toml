@@ -1,6 +1,8 @@
-zip_code = "80805"
-state = "CO"
 city = "Bethune"
 county = "Kit Carson"
-longitude = -102.433217
 latitude = 39.293345
+longitude = -102.433217
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80805"
+

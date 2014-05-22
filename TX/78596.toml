@@ -1,6 +1,8 @@
-zip_code = "78596"
-state = "TX"
 city = "Weslaco"
 county = "Hidalgo"
-longitude = -98.134649
 latitude = 26.178744
+longitude = -98.134649
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78596"
+

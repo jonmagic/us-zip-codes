@@ -1,6 +1,8 @@
-zip_code = "51048"
-state = "IA"
 city = "Pierson"
 county = "Woodbury"
-longitude = -96.017208
 latitude = 42.394713
+longitude = -96.017208
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51048"
+

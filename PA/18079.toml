@@ -1,6 +1,8 @@
-zip_code = "18079"
-state = "PA"
 city = "Slatedale"
 county = "Lehigh"
-longitude = -75.659209
 latitude = 40.745524
+longitude = -75.659209
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18079"
+

@@ -1,6 +1,8 @@
-zip_code = "66535"
-state = "KS"
 city = "Saint George"
 county = "Pottawatomie"
-longitude = -96.435394
 latitude = 39.28971
+longitude = -96.435394
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66535"
+

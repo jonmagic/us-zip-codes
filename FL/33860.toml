@@ -1,6 +1,8 @@
-zip_code = "33860"
-state = "FL"
 city = "Mulberry"
 county = "Polk"
-longitude = -81.835864
 latitude = 27.844612
+longitude = -81.835864
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33860"
+

@@ -1,6 +1,8 @@
-zip_code = "45663"
-state = "OH"
 city = "West Portsmouth"
 county = "Scioto"
-longitude = -83.133477
 latitude = 38.749539
+longitude = -83.133477
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45663"
+

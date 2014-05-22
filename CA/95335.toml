@@ -1,6 +1,8 @@
-zip_code = "95335"
-state = "CA"
 city = "Long Barn"
 county = "Tuolumne"
-longitude = -120.126643
 latitude = 38.112838
+longitude = -120.126643
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95335"
+

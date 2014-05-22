@@ -1,6 +1,8 @@
-zip_code = "30730"
-state = "GA"
 city = "Lyerly"
 county = "Chattooga"
-longitude = -85.417428
 latitude = 34.392073
+longitude = -85.417428
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30730"
+

@@ -1,6 +1,8 @@
-zip_code = "06807"
-state = "CT"
 city = "Cos Cob"
 county = "Fairfield"
-longitude = -73.587618
 latitude = 41.058646
+longitude = -73.587618
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06807"
+

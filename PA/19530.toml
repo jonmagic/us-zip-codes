@@ -1,6 +1,8 @@
-zip_code = "19530"
-state = "PA"
 city = "Kutztown"
 county = "Berks"
-longitude = -75.775241
 latitude = 40.473382
+longitude = -75.775241
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19530"
+

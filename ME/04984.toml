@@ -1,6 +1,8 @@
-zip_code = "04984"
-state = "ME"
 city = "Temple"
 county = "Franklin"
-longitude = -70.196855
 latitude = 44.670079
+longitude = -70.196855
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04984"
+

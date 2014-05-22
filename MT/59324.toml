@@ -1,6 +1,8 @@
-zip_code = "59324"
-state = "MT"
 city = "Ekalaka"
 county = "Carter"
-longitude = -104.640001
 latitude = 45.897576
+longitude = -104.640001
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59324"
+

@@ -1,6 +1,8 @@
-zip_code = "56669"
-state = "MN"
 city = "Ray"
 county = "Koochiching"
-longitude = -93.310667
 latitude = 48.394721
+longitude = -93.310667
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56669"
+

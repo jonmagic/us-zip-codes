@@ -1,6 +1,8 @@
-zip_code = "45062"
-state = "OH"
 city = "Seven Mile"
 county = "Butler"
-longitude = -84.551196
 latitude = 39.478956
+longitude = -84.551196
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45062"
+

@@ -1,6 +1,8 @@
-zip_code = "73832"
-state = "OK"
 city = "Arnett"
 county = "Ellis"
-longitude = -99.818311
 latitude = 36.204191
+longitude = -99.818311
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73832"
+

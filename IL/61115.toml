@@ -1,6 +1,8 @@
-zip_code = "61115"
-state = "IL"
 city = "Machesney Park"
 county = "Winnebago"
-longitude = -89.039675
 latitude = 42.354546
+longitude = -89.039675
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61115"
+

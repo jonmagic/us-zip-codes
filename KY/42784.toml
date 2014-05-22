@@ -1,6 +1,8 @@
-zip_code = "42784"
-state = "KY"
 city = "Upton"
 county = "Hardin"
-longitude = -85.963435
 latitude = 37.478353
+longitude = -85.963435
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42784"
+

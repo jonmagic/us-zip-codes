@@ -1,6 +1,8 @@
-zip_code = "49028"
-state = "MI"
 city = "Bronson"
 county = "Branch"
-longitude = -85.162804
 latitude = 41.880399
+longitude = -85.162804
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49028"
+

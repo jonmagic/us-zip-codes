@@ -1,6 +1,8 @@
-zip_code = "29107"
-state = "SC"
 city = "Neeses"
 county = "Orangeburg"
-longitude = -81.121253
 latitude = 33.525625
+longitude = -81.121253
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29107"
+

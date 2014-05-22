@@ -1,6 +1,8 @@
-zip_code = "66943"
-state = "KS"
 city = "Greenleaf"
 county = "Washington"
-longitude = -96.975097
 latitude = 39.687997
+longitude = -96.975097
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66943"
+

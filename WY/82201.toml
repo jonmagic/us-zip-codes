@@ -1,6 +1,8 @@
-zip_code = "82201"
-state = "WY"
 city = "Wheatland"
 county = "Platte"
-longitude = -104.967405
 latitude = 42.013984
+longitude = -104.967405
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82201"
+

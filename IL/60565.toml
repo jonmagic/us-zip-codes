@@ -1,6 +1,8 @@
-zip_code = "60565"
-state = "IL"
 city = "Naperville"
 county = "Du Page"
-longitude = -88.112714
 latitude = 41.737929
+longitude = -88.112714
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60565"
+

@@ -1,6 +1,8 @@
-zip_code = "32428"
-state = "FL"
 city = "Chipley"
 county = "Washington"
-longitude = -85.577618
 latitude = 30.634834
+longitude = -85.577618
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32428"
+

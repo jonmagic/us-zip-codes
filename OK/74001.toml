@@ -1,6 +1,8 @@
-zip_code = "74001"
-state = "OK"
 city = "Avant"
 county = "Osage"
-longitude = -96.061608
 latitude = 36.490056
+longitude = -96.061608
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74001"
+

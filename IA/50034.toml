@@ -1,6 +1,8 @@
-zip_code = "50034"
-state = "IA"
 city = "Blairsburg"
 county = "Hamilton"
-longitude = -93.68778
 latitude = 42.485099
+longitude = -93.68778
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50034"
+

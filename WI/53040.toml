@@ -1,6 +1,8 @@
-zip_code = "53040"
-state = "WI"
 city = "Kewaskum"
 county = "Washington"
-longitude = -88.206447
 latitude = 43.499425
+longitude = -88.206447
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53040"
+

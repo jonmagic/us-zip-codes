@@ -1,6 +1,8 @@
-zip_code = "54618"
-state = "WI"
 city = "Camp Douglas"
 county = "Juneau"
-longitude = -90.239261
 latitude = 43.988481
+longitude = -90.239261
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54618"
+

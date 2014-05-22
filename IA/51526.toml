@@ -1,6 +1,8 @@
-zip_code = "51526"
-state = "IA"
 city = "Crescent"
 county = "Pottawattamie"
-longitude = -95.887827
 latitude = 41.363436
+longitude = -95.887827
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51526"
+

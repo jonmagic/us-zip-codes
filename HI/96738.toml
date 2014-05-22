@@ -1,6 +1,8 @@
-zip_code = "96738"
-state = "HI"
 city = "Waikoloa"
 county = "Hawaii"
-longitude = -155.817987
 latitude = 19.972371
+longitude = -155.817987
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96738"
+

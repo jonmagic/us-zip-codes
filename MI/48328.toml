@@ -1,6 +1,8 @@
-zip_code = "48328"
-state = "MI"
 city = "Waterford"
 county = "Oakland"
-longitude = -83.355433
 latitude = 42.647831
+longitude = -83.355433
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48328"
+

@@ -1,6 +1,8 @@
-zip_code = "59834"
-state = "MT"
 city = "Frenchtown"
 county = "Missoula"
-longitude = -114.251384
 latitude = 47.065558
+longitude = -114.251384
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59834"
+

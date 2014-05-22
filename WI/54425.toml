@@ -1,6 +1,8 @@
-zip_code = "54425"
-state = "WI"
 city = "Dorchester"
 county = "Clark"
-longitude = -90.374411
 latitude = 44.996496
+longitude = -90.374411
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54425"
+

@@ -1,6 +1,8 @@
-zip_code = "74850"
-state = "OK"
 city = "Lamar"
 county = "Hughes"
-longitude = -96.235928
 latitude = 35.028521
+longitude = -96.235928
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74850"
+

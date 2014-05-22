@@ -1,6 +1,8 @@
-zip_code = "78151"
-state = "TX"
 city = "Runge"
 county = "Karnes"
-longitude = -97.768307
 latitude = 28.821975
+longitude = -97.768307
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78151"
+

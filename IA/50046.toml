@@ -1,6 +1,8 @@
-zip_code = "50046"
-state = "IA"
 city = "Cambridge"
 county = "Story"
-longitude = -93.51988
 latitude = 41.914036
+longitude = -93.51988
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50046"
+

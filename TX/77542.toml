@@ -1,6 +1,8 @@
-zip_code = "77542"
-state = "TX"
 city = "Freeport"
 county = "Brazoria"
-longitude = -95.465083
 latitude = 29.183991
+longitude = -95.465083
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77542"
+

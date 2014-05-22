@@ -1,6 +1,8 @@
-zip_code = "32709"
-state = "FL"
 city = "Christmas"
 county = "Orange"
-longitude = -81.009032
 latitude = 28.486379
+longitude = -81.009032
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32709"
+

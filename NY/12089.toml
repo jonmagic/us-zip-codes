@@ -1,6 +1,8 @@
-zip_code = "12089"
-state = "NY"
 city = "Hoosick"
 county = "Rensselaer"
-longitude = -73.318113
 latitude = 42.866666
+longitude = -73.318113
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12089"
+

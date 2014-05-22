@@ -1,6 +1,8 @@
-zip_code = "22907"
-state = "VA"
 city = "Charlottesville"
 county = "Charlottesville City"
-longitude = -78.485066
 latitude = 38.040101
+longitude = -78.485066
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22907"
+

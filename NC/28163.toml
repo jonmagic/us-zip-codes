@@ -1,6 +1,8 @@
-zip_code = "28163"
-state = "NC"
 city = "Stanfield"
 county = "Stanly"
-longitude = -80.415177
 latitude = 35.258365
+longitude = -80.415177
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28163"
+

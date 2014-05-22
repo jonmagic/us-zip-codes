@@ -1,6 +1,8 @@
-zip_code = "47635"
-state = "IN"
 city = "Rockport"
 county = "Spencer"
-longitude = -87.033681
 latitude = 37.929173
+longitude = -87.033681
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47635"
+

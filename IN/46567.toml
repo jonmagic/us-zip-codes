@@ -1,6 +1,8 @@
-zip_code = "46567"
-state = "IN"
 city = "Syracuse"
 county = "Kosciusko"
-longitude = -85.844729
 latitude = 41.296386
+longitude = -85.844729
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46567"
+

@@ -1,6 +1,8 @@
-zip_code = "15010"
-state = "PA"
 city = "Beaver Falls"
 county = "Beaver"
-longitude = -80.352049
 latitude = 40.665672
+longitude = -80.352049
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15010"
+

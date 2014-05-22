@@ -1,6 +1,8 @@
-zip_code = "27242"
-state = "NC"
 city = "Eagle Springs"
 county = "Moore"
-longitude = -79.548614
 latitude = 35.326471
+longitude = -79.548614
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27242"
+

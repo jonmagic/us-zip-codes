@@ -1,6 +1,8 @@
-zip_code = "70339"
-state = "LA"
 city = "Pierre Part"
 county = "Assumption"
-longitude = -91.188549
 latitude = 29.947562
+longitude = -91.188549
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70339"
+

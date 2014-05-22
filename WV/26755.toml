@@ -1,6 +1,8 @@
-zip_code = "26755"
-state = "WV"
 city = "Rio"
 county = "Hampshire"
-longitude = -78.726985
 latitude = 39.18471
+longitude = -78.726985
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26755"
+

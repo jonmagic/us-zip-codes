@@ -1,6 +1,8 @@
-zip_code = "68665"
-state = "NE"
 city = "Spalding"
 county = "Greeley"
-longitude = -98.363282
 latitude = 41.688144
+longitude = -98.363282
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68665"
+

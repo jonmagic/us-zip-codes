@@ -1,6 +1,8 @@
-zip_code = "65770"
-state = "MO"
 city = "Walnut Grove"
 county = "Greene"
-longitude = -93.343077
 latitude = 37.369849
+longitude = -93.343077
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65770"
+

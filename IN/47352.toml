@@ -1,6 +1,8 @@
-zip_code = "47352"
-state = "IN"
 city = "Lewisville"
 county = "Henry"
-longitude = -85.372732
 latitude = 39.830372
+longitude = -85.372732
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47352"
+

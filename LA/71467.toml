@@ -1,6 +1,8 @@
-zip_code = "71467"
-state = "LA"
 city = "Pollock"
 county = "Grant"
-longitude = -92.396314
 latitude = 31.56668
+longitude = -92.396314
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71467"
+

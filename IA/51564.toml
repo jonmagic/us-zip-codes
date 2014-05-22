@@ -1,6 +1,8 @@
-zip_code = "51564"
-state = "IA"
 city = "Pisgah"
 county = "Harrison"
-longitude = -95.898207
 latitude = 41.805536
+longitude = -95.898207
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51564"
+

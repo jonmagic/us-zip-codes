@@ -1,6 +1,8 @@
-zip_code = "30120"
-state = "GA"
 city = "Cartersville"
 county = "Bartow"
-longitude = -84.847108
 latitude = 34.200787
+longitude = -84.847108
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30120"
+

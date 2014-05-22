@@ -1,6 +1,8 @@
-zip_code = "46061"
-state = "IN"
 city = "Noblesville"
 county = "Hamilton"
-longitude = -86.052285
 latitude = 40.072462
+longitude = -86.052285
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46061"
+

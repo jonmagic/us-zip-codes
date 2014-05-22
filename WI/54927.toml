@@ -1,6 +1,8 @@
-zip_code = "54927"
-state = "WI"
 city = "Butte Des Morts"
 county = "Winnebago"
-longitude = -88.653949
 latitude = 44.103137
+longitude = -88.653949
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54927"
+

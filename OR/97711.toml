@@ -1,6 +1,8 @@
-zip_code = "97711"
-state = "OR"
 city = "Ashwood"
 county = "Jefferson"
-longitude = -121.321903
 latitude = 44.538351
+longitude = -121.321903
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97711"
+

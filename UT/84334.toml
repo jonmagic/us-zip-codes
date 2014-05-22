@@ -1,6 +1,8 @@
-zip_code = "84334"
-state = "UT"
 city = "Riverside"
 county = "Box Elder"
-longitude = -112.146687
 latitude = 41.786849
+longitude = -112.146687
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84334"
+

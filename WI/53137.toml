@@ -1,6 +1,8 @@
-zip_code = "53137"
-state = "WI"
 city = "Helenville"
 county = "Jefferson"
-longitude = -88.6726
 latitude = 43.008958
+longitude = -88.6726
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53137"
+

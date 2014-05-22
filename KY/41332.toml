@@ -1,6 +1,8 @@
-zip_code = "41332"
-state = "KY"
 city = "Hazel Green"
 county = "Wolfe"
-longitude = -83.420976
 latitude = 37.798052
+longitude = -83.420976
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41332"
+

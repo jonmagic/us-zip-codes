@@ -1,6 +1,8 @@
-zip_code = "02723"
-state = "MA"
 city = "Fall River"
 county = "Bristol"
-longitude = -71.133088
 latitude = 41.693802
+longitude = -71.133088
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02723"
+

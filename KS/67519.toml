@@ -1,6 +1,8 @@
-zip_code = "67519"
-state = "KS"
 city = "Belpre"
 county = "Edwards"
-longitude = -99.098947
 latitude = 37.951204
+longitude = -99.098947
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67519"
+

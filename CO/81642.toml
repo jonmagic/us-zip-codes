@@ -1,6 +1,8 @@
-zip_code = "81642"
-state = "CO"
 city = "Meredith"
 county = "Pitkin"
-longitude = -106.715287
 latitude = 39.294737
+longitude = -106.715287
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81642"
+

@@ -1,6 +1,8 @@
-zip_code = "66749"
-state = "KS"
 city = "Iola"
 county = "Allen"
-longitude = -95.391057
 latitude = 37.885757
+longitude = -95.391057
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66749"
+

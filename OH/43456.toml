@@ -1,6 +1,8 @@
-zip_code = "43456"
-state = "OH"
 city = "Put In Bay"
 county = "Ottawa"
-longitude = -82.819009
 latitude = 41.647236
+longitude = -82.819009
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43456"
+

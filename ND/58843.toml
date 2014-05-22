@@ -1,6 +1,8 @@
-zip_code = "58843"
-state = "ND"
 city = "Epping"
 county = "Williams"
-longitude = -103.376284
 latitude = 48.276356
+longitude = -103.376284
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58843"
+

@@ -1,6 +1,8 @@
-zip_code = "13674"
-state = "NY"
 city = "Pierrepont Manor"
 county = "Jefferson"
-longitude = -76.054313
 latitude = 43.73345
+longitude = -76.054313
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13674"
+

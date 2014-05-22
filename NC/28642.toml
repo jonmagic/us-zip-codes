@@ -1,6 +1,8 @@
-zip_code = "28642"
-state = "NC"
 city = "Jonesville"
 county = "Yadkin"
-longitude = -80.801365
 latitude = 36.210523
+longitude = -80.801365
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28642"
+

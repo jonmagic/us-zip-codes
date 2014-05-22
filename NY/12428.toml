@@ -1,6 +1,8 @@
-zip_code = "12428"
-state = "NY"
 city = "Ellenville"
 county = "Ulster"
-longitude = -74.253996
 latitude = 41.897181
+longitude = -74.253996
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12428"
+

@@ -1,6 +1,8 @@
-zip_code = "49666"
-state = "MI"
 city = "Mayfield"
 county = "Grand Traverse"
-longitude = -85.542496
 latitude = 44.625041
+longitude = -85.542496
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49666"
+

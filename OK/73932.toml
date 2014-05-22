@@ -1,6 +1,8 @@
-zip_code = "73932"
-state = "OK"
 city = "Beaver"
 county = "Beaver"
-longitude = -100.51773
 latitude = 36.834113
+longitude = -100.51773
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73932"
+

@@ -1,6 +1,8 @@
-zip_code = "58236"
-state = "ND"
 city = "Glasston"
 county = "Pembina"
-longitude = -97.469623
 latitude = 48.720149
+longitude = -97.469623
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58236"
+

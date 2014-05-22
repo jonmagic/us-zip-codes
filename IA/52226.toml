@@ -1,6 +1,8 @@
-zip_code = "52226"
-state = "IA"
 city = "Elwood"
 county = "Clinton"
-longitude = -90.73596
 latitude = 41.988971
+longitude = -90.73596
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52226"
+

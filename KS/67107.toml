@@ -1,6 +1,8 @@
-zip_code = "67107"
-state = "KS"
 city = "Moundridge"
 county = "Mcpherson"
-longitude = -97.523327
 latitude = 38.217149
+longitude = -97.523327
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67107"
+

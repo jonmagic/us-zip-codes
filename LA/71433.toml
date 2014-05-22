@@ -1,6 +1,8 @@
-zip_code = "71433"
-state = "LA"
 city = "Glenmora"
 county = "Rapides"
-longitude = -92.616008
 latitude = 31.026188
+longitude = -92.616008
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71433"
+

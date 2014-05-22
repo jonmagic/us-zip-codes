@@ -1,6 +1,8 @@
-zip_code = "38642"
-state = "MS"
 city = "Lamar"
 county = "Marshall"
-longitude = -89.399923
 latitude = 34.930329
+longitude = -89.399923
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38642"
+

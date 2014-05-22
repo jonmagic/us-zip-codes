@@ -1,6 +1,8 @@
-zip_code = "56472"
-state = "MN"
 city = "Pequot Lakes"
 county = "Crow Wing"
-longitude = -94.235561
 latitude = 46.616147
+longitude = -94.235561
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56472"
+

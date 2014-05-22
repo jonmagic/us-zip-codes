@@ -1,6 +1,8 @@
-zip_code = "43916"
-state = "OH"
 city = "Colerain"
 county = "Belmont"
-longitude = -80.814948
 latitude = 40.122351
+longitude = -80.814948
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43916"
+

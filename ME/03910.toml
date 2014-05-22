@@ -1,6 +1,8 @@
-zip_code = "03910"
-state = "ME"
 city = "York Beach"
 county = "York"
-longitude = -70.73201
 latitude = 43.211674
+longitude = -70.73201
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "03910"
+

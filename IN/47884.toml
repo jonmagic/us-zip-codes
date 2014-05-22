@@ -1,6 +1,8 @@
-zip_code = "47884"
-state = "IN"
 city = "Universal"
 county = "Vermillion"
-longitude = -87.454769
 latitude = 39.622129
+longitude = -87.454769
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47884"
+

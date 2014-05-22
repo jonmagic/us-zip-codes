@@ -1,6 +1,8 @@
-zip_code = "47325"
-state = "IN"
 city = "Brownsville"
 county = "Union"
-longitude = -84.995266
 latitude = 39.682946
+longitude = -84.995266
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47325"
+

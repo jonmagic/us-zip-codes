@@ -1,6 +1,8 @@
-zip_code = "75485"
-state = "TX"
 city = "Westminster"
 county = "Collin"
-longitude = -96.467617
 latitude = 33.361524
+longitude = -96.467617
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75485"
+

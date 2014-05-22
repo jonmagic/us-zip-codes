@@ -1,6 +1,8 @@
-zip_code = "16156"
-state = "PA"
 city = "Volant"
 county = "Lawrence"
-longitude = -80.19346
 latitude = 41.089458
+longitude = -80.19346
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16156"
+

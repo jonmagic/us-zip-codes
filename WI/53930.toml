@@ -1,6 +1,8 @@
-zip_code = "53930"
-state = "WI"
 city = "Endeavor"
 county = "Marquette"
-longitude = -89.483441
 latitude = 43.6866
+longitude = -89.483441
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53930"
+

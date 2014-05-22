@@ -1,6 +1,8 @@
-zip_code = "27505"
-state = "NC"
 city = "Broadway"
 county = "Lee"
-longitude = -79.058238
 latitude = 35.471966
+longitude = -79.058238
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27505"
+

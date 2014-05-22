@@ -1,6 +1,8 @@
-zip_code = "62297"
-state = "IL"
 city = "Walsh"
 county = "Randolph"
-longitude = -89.83918
 latitude = 38.036046
+longitude = -89.83918
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62297"
+

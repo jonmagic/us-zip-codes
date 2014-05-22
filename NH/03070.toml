@@ -1,6 +1,8 @@
-zip_code = "03070"
-state = "NH"
 city = "New Boston"
 county = "Hillsborough"
-longitude = -71.775889
 latitude = 42.903497
+longitude = -71.775889
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03070"
+

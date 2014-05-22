@@ -1,6 +1,8 @@
-zip_code = "49749"
-state = "MI"
 city = "Indian River"
 county = "Cheboygan"
-longitude = -84.578019
 latitude = 45.447209
+longitude = -84.578019
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49749"
+

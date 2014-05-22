@@ -1,6 +1,8 @@
-zip_code = "06337"
-state = "CT"
 city = "Glasgo"
 county = "New London"
-longitude = -71.889199
 latitude = 41.559873
+longitude = -71.889199
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06337"
+

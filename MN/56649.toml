@@ -1,6 +1,8 @@
-zip_code = "56649"
-state = "MN"
 city = "International Falls"
 county = "Koochiching"
-longitude = -93.640382
 latitude = 48.232494
+longitude = -93.640382
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56649"
+

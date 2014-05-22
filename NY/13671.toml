@@ -1,6 +1,8 @@
-zip_code = "13671"
-state = "NY"
 city = "Oxbow"
 county = "Jefferson"
-longitude = -75.66879
 latitude = 44.308475
+longitude = -75.66879
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13671"
+

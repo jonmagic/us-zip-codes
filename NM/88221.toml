@@ -1,6 +1,8 @@
-zip_code = "88221"
-state = "NM"
 city = "Carlsbad"
 county = "Eddy"
-longitude = -104.293691
 latitude = 32.342033
+longitude = -104.293691
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88221"
+

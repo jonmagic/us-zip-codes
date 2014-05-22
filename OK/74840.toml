@@ -1,6 +1,8 @@
-zip_code = "74840"
-state = "OK"
 city = "Earlsboro"
 county = "Pottawatomie"
-longitude = -96.800685
 latitude = 35.324924
+longitude = -96.800685
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74840"
+

@@ -1,6 +1,8 @@
-zip_code = "27229"
-state = "NC"
 city = "Candor"
 county = "Montgomery"
-longitude = -79.800002
 latitude = 35.264204
+longitude = -79.800002
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27229"
+

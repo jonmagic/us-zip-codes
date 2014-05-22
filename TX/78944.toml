@@ -1,6 +1,8 @@
-zip_code = "78944"
-state = "TX"
 city = "Industry"
 county = "Austin"
-longitude = -96.451652
 latitude = 29.977686
+longitude = -96.451652
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78944"
+

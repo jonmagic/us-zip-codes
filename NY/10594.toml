@@ -1,6 +1,8 @@
-zip_code = "10594"
-state = "NY"
 city = "Thornwood"
 county = "Westchester"
-longitude = -73.771469
 latitude = 41.117214
+longitude = -73.771469
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10594"
+

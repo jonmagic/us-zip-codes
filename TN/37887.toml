@@ -1,6 +1,8 @@
-zip_code = "37887"
-state = "TN"
 city = "Wartburg"
 county = "Morgan"
-longitude = -84.560491
 latitude = 36.031584
+longitude = -84.560491
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37887"
+

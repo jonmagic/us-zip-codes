@@ -1,6 +1,8 @@
-zip_code = "15637"
-state = "PA"
 city = "Herminie"
 county = "Westmoreland"
-longitude = -79.56779
 latitude = 40.266168
+longitude = -79.56779
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15637"
+

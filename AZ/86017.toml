@@ -1,6 +1,8 @@
-zip_code = "86017"
-state = "AZ"
 city = "Munds Park"
 county = "Coconino"
-longitude = -111.640991
 latitude = 34.94122
+longitude = -111.640991
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86017"
+

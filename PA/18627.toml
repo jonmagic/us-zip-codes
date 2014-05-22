@@ -1,6 +1,8 @@
-zip_code = "18627"
-state = "PA"
 city = "Lehman"
 county = "Luzerne"
-longitude = -76.021037
 latitude = 41.316584
+longitude = -76.021037
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18627"
+

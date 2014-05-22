@@ -1,6 +1,8 @@
-zip_code = "16421"
-state = "PA"
 city = "Harborcreek"
 county = "Erie"
-longitude = -79.937675
 latitude = 42.172938
+longitude = -79.937675
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16421"
+

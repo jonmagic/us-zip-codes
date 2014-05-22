@@ -1,6 +1,8 @@
-zip_code = "05847"
-state = "VT"
 city = "Lowell"
 county = "Orleans"
-longitude = -72.439455
 latitude = 44.788925
+longitude = -72.439455
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05847"
+

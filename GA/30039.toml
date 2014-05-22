@@ -1,6 +1,8 @@
-zip_code = "30039"
-state = "GA"
 city = "Snellville"
 county = "Gwinnett"
-longitude = -84.022911
 latitude = 33.817803
+longitude = -84.022911
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30039"
+

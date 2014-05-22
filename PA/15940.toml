@@ -1,6 +1,8 @@
-zip_code = "15940"
-state = "PA"
 city = "Loretto"
 county = "Cambria"
-longitude = -78.61487
 latitude = 40.517191
+longitude = -78.61487
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15940"
+

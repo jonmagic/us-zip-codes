@@ -1,6 +1,8 @@
-zip_code = "35640"
-state = "AL"
 city = "Hartselle"
 county = "Morgan"
-longitude = -86.934715
 latitude = 34.491606
+longitude = -86.934715
+state = ""
+state_code_alpha2 = ""
+zip_code = "35640"
+

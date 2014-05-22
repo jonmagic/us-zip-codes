@@ -1,6 +1,8 @@
-zip_code = "32739"
-state = "FL"
 city = "Deltona"
 county = "Volusia"
-longitude = -81.172169
 latitude = 29.022729
+longitude = -81.172169
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32739"
+

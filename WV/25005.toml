@@ -1,6 +1,8 @@
-zip_code = "25005"
-state = "WV"
 city = "Amma"
 county = "Roane"
-longitude = -81.273681
 latitude = 38.591037
+longitude = -81.273681
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25005"
+

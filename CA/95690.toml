@@ -1,6 +1,8 @@
-zip_code = "95690"
-state = "CA"
 city = "Walnut Grove"
 county = "Sacramento"
-longitude = -121.578895
 latitude = 38.181635
+longitude = -121.578895
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95690"
+

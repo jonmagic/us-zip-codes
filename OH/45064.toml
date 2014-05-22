@@ -1,6 +1,8 @@
-zip_code = "45064"
-state = "OH"
 city = "Somerville"
 county = "Butler"
-longitude = -84.6275
 latitude = 39.545634
+longitude = -84.6275
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45064"
+

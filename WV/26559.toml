@@ -1,6 +1,8 @@
-zip_code = "26559"
-state = "WV"
 city = "Barrackville"
 county = "Marion"
-longitude = -80.172524
 latitude = 39.505155
+longitude = -80.172524
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26559"
+

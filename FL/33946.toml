@@ -1,6 +1,8 @@
-zip_code = "33946"
-state = "FL"
 city = "Placida"
 county = "Charlotte"
-longitude = -82.266405
 latitude = 26.879424
+longitude = -82.266405
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33946"
+

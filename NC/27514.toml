@@ -1,6 +1,8 @@
-zip_code = "27514"
-state = "NC"
 city = "Chapel Hill"
 county = "Orange"
-longitude = -79.054475
 latitude = 36.004647
+longitude = -79.054475
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27514"
+

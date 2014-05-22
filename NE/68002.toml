@@ -1,6 +1,8 @@
-zip_code = "68002"
-state = "NE"
 city = "Arlington"
 county = "Washington"
-longitude = -96.317932
 latitude = 41.501979
+longitude = -96.317932
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68002"
+

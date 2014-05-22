@@ -1,6 +1,8 @@
-zip_code = "48174"
-state = "MI"
 city = "Romulus"
 county = "Wayne"
-longitude = -83.351255
 latitude = 42.20284
+longitude = -83.351255
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48174"
+

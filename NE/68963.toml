@@ -1,6 +1,8 @@
-zip_code = "68963"
-state = "NE"
 city = "Norman"
 county = "Kearney"
-longitude = -98.792699
 latitude = 40.478879
+longitude = -98.792699
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68963"
+

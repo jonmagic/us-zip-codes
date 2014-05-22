@@ -1,6 +1,8 @@
-zip_code = "24082"
-state = "VA"
 city = "Critz"
 county = "Patrick"
-longitude = -80.11928
 latitude = 36.627165
+longitude = -80.11928
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24082"
+

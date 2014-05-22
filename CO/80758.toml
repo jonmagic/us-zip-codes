@@ -1,6 +1,8 @@
-zip_code = "80758"
-state = "CO"
 city = "Wray"
 county = "Yuma"
-longitude = -102.392973
 latitude = 40.068525
+longitude = -102.392973
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80758"
+

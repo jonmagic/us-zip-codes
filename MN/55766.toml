@@ -1,6 +1,8 @@
-zip_code = "55766"
-state = "MN"
 city = "Melrude"
 county = "Saint Louis"
-longitude = -92.412343
 latitude = 47.249626
+longitude = -92.412343
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55766"
+

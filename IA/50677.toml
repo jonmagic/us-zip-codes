@@ -1,6 +1,8 @@
-zip_code = "50677"
-state = "IA"
 city = "Waverly"
 county = "Bremer"
-longitude = -92.403969
 latitude = 42.774781
+longitude = -92.403969
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50677"
+

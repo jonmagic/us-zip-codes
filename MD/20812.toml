@@ -1,6 +1,8 @@
-zip_code = "20812"
-state = "MD"
 city = "Glen Echo"
 county = "Montgomery"
-longitude = -77.140801
 latitude = 38.96851
+longitude = -77.140801
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20812"
+

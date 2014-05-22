@@ -1,6 +1,8 @@
-zip_code = "56330"
-state = "MN"
 city = "Foreston"
 county = "Mille Lacs"
-longitude = -93.647135
 latitude = 45.735675
+longitude = -93.647135
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56330"
+

@@ -1,6 +1,8 @@
-zip_code = "38964"
-state = "MS"
 city = "Vance"
 county = "Quitman"
-longitude = -90.443027
 latitude = 34.09953
+longitude = -90.443027
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38964"
+

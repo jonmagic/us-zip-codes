@@ -1,6 +1,8 @@
-zip_code = "70612"
-state = "LA"
 city = "Lake Charles"
 county = "Calcasieu"
-longitude = -93.326527
 latitude = 30.264232
+longitude = -93.326527
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70612"
+

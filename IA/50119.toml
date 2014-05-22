@@ -1,6 +1,8 @@
-zip_code = "50119"
-state = "IA"
 city = "Harvey"
 county = "Marion"
-longitude = -92.928147
 latitude = 41.299888
+longitude = -92.928147
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50119"
+

@@ -1,6 +1,8 @@
-zip_code = "35647"
-state = "AL"
 city = "Lester"
 county = "Limestone"
-longitude = -87.100579
 latitude = 34.959647
+longitude = -87.100579
+state = ""
+state_code_alpha2 = ""
+zip_code = "35647"
+

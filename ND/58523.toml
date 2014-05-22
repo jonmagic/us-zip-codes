@@ -1,6 +1,8 @@
-zip_code = "58523"
-state = "ND"
 city = "Beulah"
 county = "Mercer"
-longitude = -101.853161
 latitude = 47.277895
+longitude = -101.853161
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58523"
+

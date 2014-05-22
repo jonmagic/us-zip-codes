@@ -1,6 +1,8 @@
-zip_code = "74529"
-state = "OK"
 city = "Blocker"
 county = "Pittsburg"
-longitude = -95.720708
 latitude = 34.947259
+longitude = -95.720708
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74529"
+

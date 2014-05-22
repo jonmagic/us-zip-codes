@@ -1,6 +1,8 @@
-zip_code = "79034"
-state = "TX"
 city = "Follett"
 county = "Lipscomb"
-longitude = -100.139117
 latitude = 36.433821
+longitude = -100.139117
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79034"
+

@@ -1,6 +1,8 @@
-zip_code = "61471"
-state = "IL"
 city = "Raritan"
 county = "Henderson"
-longitude = -90.985293
 latitude = 40.852582
+longitude = -90.985293
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61471"
+

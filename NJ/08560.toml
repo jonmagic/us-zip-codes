@@ -1,6 +1,8 @@
-zip_code = "08560"
-state = "NJ"
 city = "Titusville"
 county = "Mercer"
-longitude = -74.863858
 latitude = 40.311826
+longitude = -74.863858
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08560"
+

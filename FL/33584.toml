@@ -1,6 +1,8 @@
-zip_code = "33584"
-state = "FL"
 city = "Seffner"
 county = "Hillsborough"
-longitude = -82.287957
 latitude = 27.999687
+longitude = -82.287957
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33584"
+

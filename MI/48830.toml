@@ -1,6 +1,8 @@
-zip_code = "48830"
-state = "MI"
 city = "Elm Hall"
 county = "Gratiot"
-longitude = -84.836198
 latitude = 43.363931
+longitude = -84.836198
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48830"
+

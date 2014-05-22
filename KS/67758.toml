@@ -1,6 +1,8 @@
-zip_code = "67758"
-state = "KS"
 city = "Sharon Springs"
 county = "Wallace"
-longitude = -101.748965
 latitude = 38.89428
+longitude = -101.748965
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67758"
+

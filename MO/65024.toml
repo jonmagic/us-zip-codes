@@ -1,6 +1,8 @@
-zip_code = "65024"
-state = "MO"
 city = "Chamois"
 county = "Osage"
-longitude = -91.738215
 latitude = 38.606181
+longitude = -91.738215
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65024"
+

@@ -1,6 +1,8 @@
-zip_code = "63069"
-state = "MO"
 city = "Pacific"
 county = "Franklin"
-longitude = -90.788981
 latitude = 38.504462
+longitude = -90.788981
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63069"
+

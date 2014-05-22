@@ -1,6 +1,8 @@
-zip_code = "79502"
-state = "TX"
 city = "Aspermont"
 county = "Stonewall"
-longitude = -100.224966
 latitude = 33.139647
+longitude = -100.224966
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79502"
+

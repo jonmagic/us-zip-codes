@@ -1,6 +1,8 @@
-zip_code = "33572"
-state = "FL"
 city = "Apollo Beach"
 county = "Hillsborough"
-longitude = -82.331983
 latitude = 27.84579
+longitude = -82.331983
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33572"
+

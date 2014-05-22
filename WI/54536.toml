@@ -1,6 +1,8 @@
-zip_code = "54536"
-state = "WI"
 city = "Iron Belt"
 county = "Iron"
-longitude = -90.342024
 latitude = 46.318241
+longitude = -90.342024
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54536"
+

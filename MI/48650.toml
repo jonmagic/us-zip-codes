@@ -1,6 +1,8 @@
-zip_code = "48650"
-state = "MI"
 city = "Pinconning"
 county = "Bay"
-longitude = -84.038715
 latitude = 43.839179
+longitude = -84.038715
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48650"
+

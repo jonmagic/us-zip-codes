@@ -1,6 +1,8 @@
-zip_code = "37394"
-state = "TN"
 city = "Viola"
 county = "Warren"
-longitude = -85.842163
 latitude = 35.527616
+longitude = -85.842163
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37394"
+

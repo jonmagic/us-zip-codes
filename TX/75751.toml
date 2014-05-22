@@ -1,6 +1,8 @@
-zip_code = "75751"
-state = "TX"
 city = "Athens"
 county = "Henderson"
-longitude = -95.882391
 latitude = 32.188097
+longitude = -95.882391
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75751"
+

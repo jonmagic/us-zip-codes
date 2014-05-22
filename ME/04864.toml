@@ -1,6 +1,8 @@
-zip_code = "04864"
-state = "ME"
 city = "Warren"
 county = "Knox"
-longitude = -69.188163
 latitude = 44.086333
+longitude = -69.188163
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04864"
+

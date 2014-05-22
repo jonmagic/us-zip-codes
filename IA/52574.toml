@@ -1,6 +1,8 @@
-zip_code = "52574"
-state = "IA"
 city = "Mystic"
 county = "Appanoose"
-longitude = -92.979322
 latitude = 40.780847
+longitude = -92.979322
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52574"
+

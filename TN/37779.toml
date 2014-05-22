@@ -1,6 +1,8 @@
-zip_code = "37779"
-state = "TN"
 city = "Luttrell"
 county = "Union"
-longitude = -83.771137
 latitude = 36.218058
+longitude = -83.771137
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37779"
+

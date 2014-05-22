@@ -1,6 +1,8 @@
-zip_code = "17771"
-state = "PA"
 city = "Trout Run"
 county = "Lycoming"
-longitude = -77.06138
 latitude = 41.438766
+longitude = -77.06138
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17771"
+

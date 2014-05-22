@@ -1,6 +1,8 @@
-zip_code = "65351"
-state = "MO"
 city = "Sweet Springs"
 county = "Saline"
-longitude = -93.430344
 latitude = 39.070204
+longitude = -93.430344
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65351"
+

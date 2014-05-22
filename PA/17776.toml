@@ -1,6 +1,8 @@
-zip_code = "17776"
-state = "PA"
 city = "Waterville"
 county = "Lycoming"
-longitude = -77.331293
 latitude = 41.37857
+longitude = -77.331293
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17776"
+

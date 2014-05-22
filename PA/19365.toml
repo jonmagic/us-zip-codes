@@ -1,6 +1,8 @@
-zip_code = "19365"
-state = "PA"
 city = "Parkesburg"
 county = "Chester"
-longitude = -75.830891
 latitude = 40.001064
+longitude = -75.830891
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19365"
+

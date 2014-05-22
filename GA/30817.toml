@@ -1,6 +1,8 @@
-zip_code = "30817"
-state = "GA"
 city = "Lincolnton"
 county = "Lincoln"
-longitude = -82.453456
 latitude = 33.812714
+longitude = -82.453456
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30817"
+

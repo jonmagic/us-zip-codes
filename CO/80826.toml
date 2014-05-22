@@ -1,6 +1,8 @@
-zip_code = "80826"
-state = "CO"
 city = "Limon"
 county = "Lincoln"
-longitude = -103.604851
 latitude = 39.041435
+longitude = -103.604851
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80826"
+

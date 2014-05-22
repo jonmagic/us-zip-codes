@@ -1,6 +1,8 @@
-zip_code = "49119"
-state = "MI"
 city = "New Troy"
 county = "Berrien"
-longitude = -86.547369
 latitude = 41.868746
+longitude = -86.547369
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49119"
+

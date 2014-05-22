@@ -1,6 +1,8 @@
-zip_code = "14812"
-state = "NY"
 city = "Beaver Dams"
 county = "Schuyler"
-longitude = -76.977336
 latitude = 42.322924
+longitude = -76.977336
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14812"
+

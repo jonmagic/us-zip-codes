@@ -1,6 +1,8 @@
-zip_code = "02043"
-state = "MA"
 city = "Hingham"
 county = "Plymouth"
-longitude = -70.884989
 latitude = 42.212105
+longitude = -70.884989
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02043"
+

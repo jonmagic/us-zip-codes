@@ -1,6 +1,8 @@
-zip_code = "45176"
-state = "OH"
 city = "Williamsburg"
 county = "Clermont"
-longitude = -84.050406
 latitude = 39.013595
+longitude = -84.050406
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45176"
+

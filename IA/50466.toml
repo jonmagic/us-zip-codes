@@ -1,6 +1,8 @@
-zip_code = "50466"
-state = "IA"
 city = "Riceville"
 county = "Howard"
-longitude = -92.475226
 latitude = 43.381795
+longitude = -92.475226
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50466"
+

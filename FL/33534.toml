@@ -1,6 +1,8 @@
-zip_code = "33534"
-state = "FL"
 city = "Gibsonton"
 county = "Hillsborough"
-longitude = -82.385728
 latitude = 27.911823
+longitude = -82.385728
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33534"
+

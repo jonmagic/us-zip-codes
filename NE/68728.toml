@@ -1,6 +1,8 @@
-zip_code = "68728"
-state = "NE"
 city = "Concord"
 county = "Dixon"
-longitude = -96.853429
 latitude = 42.493637
+longitude = -96.853429
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68728"
+

@@ -1,6 +1,8 @@
-zip_code = "27589"
-state = "NC"
 city = "Warrenton"
 county = "Warren"
-longitude = -78.190028
 latitude = 36.339089
+longitude = -78.190028
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27589"
+

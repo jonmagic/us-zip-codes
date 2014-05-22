@@ -1,6 +1,8 @@
-zip_code = "88311"
-state = "NM"
 city = "Alamogordo"
 county = "Otero"
-longitude = -105.612595
 latitude = 32.695546
+longitude = -105.612595
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88311"
+

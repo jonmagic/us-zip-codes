@@ -1,6 +1,8 @@
-zip_code = "03904"
-state = "ME"
 city = "Kittery"
 county = "York"
-longitude = -70.684607
 latitude = 43.191554
+longitude = -70.684607
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "03904"
+

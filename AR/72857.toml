@@ -1,6 +1,8 @@
-zip_code = "72857"
-state = "AR"
 city = "Plainview"
 county = "Yell"
-longitude = -93.295552
 latitude = 34.992068
+longitude = -93.295552
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72857"
+

@@ -1,6 +1,8 @@
-zip_code = "50510"
-state = "IA"
 city = "Albert City"
 county = "Buena Vista"
-longitude = -95.151118
 latitude = 42.735002
+longitude = -95.151118
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50510"
+

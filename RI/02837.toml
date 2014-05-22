@@ -1,6 +1,8 @@
-zip_code = "02837"
-state = "RI"
 city = "Little Compton"
 county = "Newport"
-longitude = -71.16634
 latitude = 41.510257
+longitude = -71.16634
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02837"
+

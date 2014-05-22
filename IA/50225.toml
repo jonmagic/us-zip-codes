@@ -1,6 +1,8 @@
-zip_code = "50225"
-state = "IA"
 city = "Pleasantville"
 county = "Marion"
-longitude = -93.23362
 latitude = 41.351116
+longitude = -93.23362
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50225"
+

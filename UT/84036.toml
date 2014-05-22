@@ -1,6 +1,8 @@
-zip_code = "84036"
-state = "UT"
 city = "Kamas"
 county = "Summit"
-longitude = -111.312427
 latitude = 40.667933
+longitude = -111.312427
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84036"
+

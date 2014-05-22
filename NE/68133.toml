@@ -1,6 +1,8 @@
-zip_code = "68133"
-state = "NE"
 city = "Papillion"
 county = "Sarpy"
-longitude = -96.100064
 latitude = 41.129114
+longitude = -96.100064
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68133"
+

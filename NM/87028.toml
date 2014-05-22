@@ -1,6 +1,8 @@
-zip_code = "87028"
-state = "NM"
 city = "La Joya"
 county = "Socorro"
-longitude = -106.814971
 latitude = 34.381271
+longitude = -106.814971
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87028"
+

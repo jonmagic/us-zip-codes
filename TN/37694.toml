@@ -1,6 +1,8 @@
-zip_code = "37694"
-state = "TN"
 city = "Watauga"
 county = "Carter"
-longitude = -82.266921
 latitude = 36.384473
+longitude = -82.266921
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37694"
+

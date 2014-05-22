@@ -1,6 +1,8 @@
-zip_code = "68307"
-state = "NE"
 city = "Avoca"
 county = "Cass"
-longitude = -96.239403
 latitude = 40.881809
+longitude = -96.239403
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68307"
+

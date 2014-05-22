@@ -1,6 +1,8 @@
-zip_code = "62044"
-state = "IL"
 city = "Greenfield"
 county = "Greene"
-longitude = -90.244338
 latitude = 39.355962
+longitude = -90.244338
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62044"
+

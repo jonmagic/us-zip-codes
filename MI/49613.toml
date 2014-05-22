@@ -1,6 +1,8 @@
-zip_code = "49613"
-state = "MI"
 city = "Arcadia"
 county = "Manistee"
-longitude = -86.209391
 latitude = 44.478837
+longitude = -86.209391
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49613"
+

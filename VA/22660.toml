@@ -1,6 +1,8 @@
-zip_code = "22660"
-state = "VA"
 city = "Toms Brook"
 county = "Shenandoah"
-longitude = -78.433111
 latitude = 38.94761
+longitude = -78.433111
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22660"
+

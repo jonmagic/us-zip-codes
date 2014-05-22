@@ -1,6 +1,8 @@
-zip_code = "41127"
-state = "KY"
 city = "Camp Dix"
 county = "Lewis"
-longitude = -83.361625
 latitude = 38.602881
+longitude = -83.361625
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41127"
+

@@ -1,6 +1,8 @@
-zip_code = "82335"
-state = "WY"
 city = "Walcott"
 county = "Carbon"
-longitude = -106.999195
 latitude = 41.71694
+longitude = -106.999195
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82335"
+

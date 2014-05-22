@@ -1,6 +1,8 @@
-zip_code = "61345"
-state = "IL"
 city = "Neponset"
 county = "Bureau"
-longitude = -89.796313
 latitude = 41.338444
+longitude = -89.796313
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61345"
+

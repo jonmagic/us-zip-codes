@@ -1,6 +1,8 @@
-zip_code = "17824"
-state = "PA"
 city = "Elysburg"
 county = "Northumberland"
-longitude = -76.550811
 latitude = 40.859435
+longitude = -76.550811
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17824"
+

@@ -1,6 +1,8 @@
-zip_code = "95585"
-state = "CA"
 city = "Leggett"
 county = "Mendocino"
-longitude = -123.721407
 latitude = 39.873214
+longitude = -123.721407
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95585"
+

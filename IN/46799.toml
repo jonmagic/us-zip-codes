@@ -1,6 +1,8 @@
-zip_code = "46799"
-state = "IN"
 city = "Zanesville"
 county = "Allen"
-longitude = -85.282422
 latitude = 40.918797
+longitude = -85.282422
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46799"
+

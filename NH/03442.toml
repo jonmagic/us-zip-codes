@@ -1,6 +1,8 @@
-zip_code = "03442"
-state = "NH"
 city = "Bennington"
 county = "Hillsborough"
-longitude = -71.908029
 latitude = 43.002936
+longitude = -71.908029
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03442"
+

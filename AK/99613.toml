@@ -1,6 +1,8 @@
-zip_code = "99613"
-state = "AK"
 city = "King Salmon"
 county = "Lake And Peninsula"
-longitude = -157.159459
 latitude = 58.745599
+longitude = -157.159459
+state = ""
+state_code_alpha2 = ""
+zip_code = "99613"
+

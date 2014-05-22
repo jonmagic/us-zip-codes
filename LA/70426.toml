@@ -1,6 +1,8 @@
-zip_code = "70426"
-state = "LA"
 city = "Angie"
 county = "Washington"
-longitude = -89.882844
 latitude = 30.915579
+longitude = -89.882844
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70426"
+

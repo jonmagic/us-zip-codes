@@ -1,6 +1,8 @@
-zip_code = "31745"
-state = "GA"
 city = "Donalsonville"
 county = "Seminole"
-longitude = -84.867238
 latitude = 30.918229
+longitude = -84.867238
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31745"
+

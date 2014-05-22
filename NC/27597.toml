@@ -1,6 +1,8 @@
-zip_code = "27597"
-state = "NC"
 city = "Zebulon"
 county = "Wake"
-longitude = -78.355582
 latitude = 35.87922
+longitude = -78.355582
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27597"
+

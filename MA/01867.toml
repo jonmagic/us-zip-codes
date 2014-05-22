@@ -1,6 +1,8 @@
-zip_code = "01867"
-state = "MA"
 city = "Reading"
 county = "Middlesex"
-longitude = -71.107172
 latitude = 42.537065
+longitude = -71.107172
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01867"
+

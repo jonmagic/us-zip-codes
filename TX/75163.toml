@@ -1,6 +1,8 @@
-zip_code = "75163"
-state = "TX"
 city = "Trinidad"
 county = "Henderson"
-longitude = -96.114682
 latitude = 32.208934
+longitude = -96.114682
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75163"
+

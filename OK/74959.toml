@@ -1,6 +1,8 @@
-zip_code = "74959"
-state = "OK"
 city = "Spiro"
 county = "Le Flore"
-longitude = -94.55985
 latitude = 35.264931
+longitude = -94.55985
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74959"
+

@@ -1,6 +1,8 @@
-zip_code = "28783"
-state = "NC"
 city = "Tuckasegee"
 county = "Jackson"
-longitude = -83.044292
 latitude = 35.246573
+longitude = -83.044292
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28783"
+

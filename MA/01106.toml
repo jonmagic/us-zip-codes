@@ -1,6 +1,8 @@
-zip_code = "01106"
-state = "MA"
 city = "Longmeadow"
 county = "Hampden"
-longitude = -72.567882
 latitude = 42.049194
+longitude = -72.567882
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01106"
+

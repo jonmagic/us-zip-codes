@@ -1,6 +1,8 @@
-zip_code = "38935"
-state = "MS"
 city = "Greenwood"
 county = "Leflore"
-longitude = -90.27757
 latitude = 33.523355
+longitude = -90.27757
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38935"
+

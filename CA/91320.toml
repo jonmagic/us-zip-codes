@@ -1,6 +1,8 @@
-zip_code = "91320"
-state = "CA"
 city = "Newbury Park"
 county = "Ventura"
-longitude = -118.905874
 latitude = 34.175921
+longitude = -118.905874
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91320"
+

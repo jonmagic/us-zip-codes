@@ -1,6 +1,8 @@
-zip_code = "44901"
-state = "OH"
 city = "Mansfield"
 county = "Richland"
-longitude = -82.511369
 latitude = 40.850833
+longitude = -82.511369
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44901"
+

@@ -1,6 +1,8 @@
-zip_code = "59044"
-state = "MT"
 city = "Laurel"
 county = "Yellowstone"
-longitude = -108.227571
 latitude = 45.80418
+longitude = -108.227571
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59044"
+

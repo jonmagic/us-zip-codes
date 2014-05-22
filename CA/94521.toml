@@ -1,6 +1,8 @@
-zip_code = "94521"
-state = "CA"
 city = "Concord"
 county = "Contra Costa"
-longitude = -121.960045
 latitude = 37.951661
+longitude = -121.960045
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94521"
+

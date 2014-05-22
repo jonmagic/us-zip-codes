@@ -1,6 +1,8 @@
-zip_code = "62095"
-state = "IL"
 city = "Wood River"
 county = "Madison"
-longitude = -90.085657
 latitude = 38.861597
+longitude = -90.085657
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62095"
+

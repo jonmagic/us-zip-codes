@@ -1,6 +1,8 @@
-zip_code = "54207"
-state = "WI"
 city = "Collins"
 county = "Manitowoc"
-longitude = -87.990241
 latitude = 44.091021
+longitude = -87.990241
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54207"
+

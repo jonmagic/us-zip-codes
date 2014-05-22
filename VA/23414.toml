@@ -1,6 +1,8 @@
-zip_code = "23414"
-state = "VA"
 city = "Nelsonia"
 county = "Accomack"
-longitude = -75.583227
 latitude = 37.816896
+longitude = -75.583227
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23414"
+

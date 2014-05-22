@@ -1,6 +1,8 @@
-zip_code = "81654"
-state = "CO"
 city = "Snowmass"
 county = "Pitkin"
-longitude = -106.922425
 latitude = 39.251721
+longitude = -106.922425
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81654"
+

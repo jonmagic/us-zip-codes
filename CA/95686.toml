@@ -1,6 +1,8 @@
-zip_code = "95686"
-state = "CA"
 city = "Thornton"
 county = "San Joaquin"
-longitude = -121.450953
 latitude = 38.189865
+longitude = -121.450953
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95686"
+

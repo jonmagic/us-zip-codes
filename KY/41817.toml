@@ -1,6 +1,8 @@
-zip_code = "41817"
-state = "KY"
 city = "Garner"
 county = "Knott"
-longitude = -82.910653
 latitude = 37.367552
+longitude = -82.910653
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41817"
+

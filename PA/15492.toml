@@ -1,6 +1,8 @@
-zip_code = "15492"
-state = "PA"
 city = "Wickhaven"
 county = "Fayette"
-longitude = -79.771797
 latitude = 40.117828
+longitude = -79.771797
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15492"
+

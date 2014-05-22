@@ -1,6 +1,8 @@
-zip_code = "30733"
-state = "GA"
 city = "Plainville"
 county = "Gordon"
-longitude = -85.052629
 latitude = 34.414048
+longitude = -85.052629
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30733"
+

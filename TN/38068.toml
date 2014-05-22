@@ -1,6 +1,8 @@
-zip_code = "38068"
-state = "TN"
 city = "Somerville"
 county = "Fayette"
-longitude = -89.409857
 latitude = 35.259373
+longitude = -89.409857
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38068"
+

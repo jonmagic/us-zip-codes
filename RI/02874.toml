@@ -1,6 +1,8 @@
-zip_code = "02874"
-state = "RI"
 city = "Saunderstown"
 county = "Washington"
-longitude = -71.471752
 latitude = 41.478466
+longitude = -71.471752
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02874"
+

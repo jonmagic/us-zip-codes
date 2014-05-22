@@ -1,6 +1,8 @@
-zip_code = "24813"
-state = "WV"
 city = "Bartley"
 county = "Mcdowell"
-longitude = -81.683131
 latitude = 37.343847
+longitude = -81.683131
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24813"
+

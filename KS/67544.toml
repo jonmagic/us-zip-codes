@@ -1,6 +1,8 @@
-zip_code = "67544"
-state = "KS"
 city = "Hoisington"
 county = "Barton"
-longitude = -98.756485
 latitude = 38.478935
+longitude = -98.756485
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67544"
+

@@ -1,6 +1,8 @@
-zip_code = "62288"
-state = "IL"
 city = "Steeleville"
 county = "Randolph"
-longitude = -89.676103
 latitude = 38.004698
+longitude = -89.676103
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62288"
+

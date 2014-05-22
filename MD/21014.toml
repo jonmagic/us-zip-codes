@@ -1,6 +1,8 @@
-zip_code = "21014"
-state = "MD"
 city = "Bel Air"
 county = "Harford"
-longitude = -76.321984
 latitude = 39.547557
+longitude = -76.321984
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21014"
+

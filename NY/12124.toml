@@ -1,6 +1,8 @@
-zip_code = "12124"
-state = "NY"
 city = "New Baltimore"
 county = "Greene"
-longitude = -73.788241
 latitude = 42.444198
+longitude = -73.788241
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12124"
+

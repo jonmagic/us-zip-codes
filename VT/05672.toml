@@ -1,6 +1,8 @@
-zip_code = "05672"
-state = "VT"
 city = "Stowe"
 county = "Lamoille"
-longitude = -72.660043
 latitude = 44.535179
+longitude = -72.660043
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05672"
+

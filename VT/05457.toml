@@ -1,6 +1,8 @@
-zip_code = "05457"
-state = "VT"
 city = "Franklin"
 county = "Franklin"
-longitude = -72.913261
 latitude = 44.96038
+longitude = -72.913261
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05457"
+

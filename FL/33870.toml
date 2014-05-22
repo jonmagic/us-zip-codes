@@ -1,6 +1,8 @@
-zip_code = "33870"
-state = "FL"
 city = "Sebring"
 county = "Highlands"
-longitude = -81.373012
 latitude = 27.457947
+longitude = -81.373012
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33870"
+

@@ -1,6 +1,8 @@
-zip_code = "18436"
-state = "PA"
 city = "Lake Ariel"
 county = "Wayne"
-longitude = -75.321884
 latitude = 41.452686
+longitude = -75.321884
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18436"
+

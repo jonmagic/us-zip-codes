@@ -1,6 +1,8 @@
-zip_code = "75663"
-state = "TX"
 city = "Kilgore"
 county = "Gregg"
-longitude = -94.895098
 latitude = 32.386976
+longitude = -94.895098
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75663"
+

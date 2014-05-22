@@ -1,6 +1,8 @@
-zip_code = "12305"
-state = "NY"
 city = "Schenectady"
 county = "Schenectady"
-longitude = -73.943368
 latitude = 42.812776
+longitude = -73.943368
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12305"
+

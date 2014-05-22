@@ -1,6 +1,8 @@
-zip_code = "46730"
-state = "IN"
 city = "Corunna"
 county = "De Kalb"
-longitude = -85.137324
 latitude = 41.463082
+longitude = -85.137324
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46730"
+

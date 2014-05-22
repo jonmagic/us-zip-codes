@@ -1,6 +1,8 @@
-zip_code = "58321"
-state = "ND"
 city = "Brocket"
 county = "Ramsey"
-longitude = -98.400599
 latitude = 48.238222
+longitude = -98.400599
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58321"
+

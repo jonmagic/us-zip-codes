@@ -1,6 +1,8 @@
-zip_code = "83211"
-state = "ID"
 city = "American Falls"
 county = "Power"
-longitude = -112.945777
 latitude = 42.635233
+longitude = -112.945777
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83211"
+

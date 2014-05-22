@@ -1,6 +1,8 @@
-zip_code = "30064"
-state = "GA"
 city = "Marietta"
 county = "Cobb"
-longitude = -84.629241
 latitude = 33.923652
+longitude = -84.629241
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30064"
+

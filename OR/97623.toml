@@ -1,6 +1,8 @@
-zip_code = "97623"
-state = "OR"
 city = "Bonanza"
 county = "Klamath"
-longitude = -121.33006
 latitude = 42.193652
+longitude = -121.33006
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97623"
+

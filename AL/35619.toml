@@ -1,6 +1,8 @@
-zip_code = "35619"
-state = "AL"
 city = "Danville"
 county = "Morgan"
-longitude = -87.054151
 latitude = 34.459389
+longitude = -87.054151
+state = ""
+state_code_alpha2 = ""
+zip_code = "35619"
+

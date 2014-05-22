@@ -1,6 +1,8 @@
-zip_code = "56363"
-state = "MN"
 city = "Pease"
 county = "Mille Lacs"
-longitude = -93.646503
 latitude = 45.697362
+longitude = -93.646503
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56363"
+

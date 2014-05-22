@@ -1,6 +1,8 @@
-zip_code = "23888"
-state = "VA"
 city = "Wakefield"
 county = "Sussex"
-longitude = -77.040206
 latitude = 36.958091
+longitude = -77.040206
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23888"
+

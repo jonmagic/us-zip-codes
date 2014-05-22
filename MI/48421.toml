@@ -1,6 +1,8 @@
-zip_code = "48421"
-state = "MI"
 city = "Columbiaville"
 county = "Lapeer"
-longitude = -83.292729
 latitude = 43.072417
+longitude = -83.292729
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48421"
+

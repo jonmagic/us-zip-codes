@@ -1,6 +1,8 @@
-zip_code = "12035"
-state = "NY"
 city = "Central Bridge"
 county = "Schoharie"
-longitude = -74.382064
 latitude = 42.721081
+longitude = -74.382064
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12035"
+

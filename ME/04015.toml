@@ -1,6 +1,8 @@
-zip_code = "04015"
-state = "ME"
 city = "Casco"
 county = "Cumberland"
-longitude = -70.524465
 latitude = 43.962115
+longitude = -70.524465
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04015"
+

@@ -1,6 +1,8 @@
-zip_code = "74441"
-state = "OK"
 city = "Hulbert"
 county = "Cherokee"
-longitude = -95.198082
 latitude = 35.94161
+longitude = -95.198082
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74441"
+

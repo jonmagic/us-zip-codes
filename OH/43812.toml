@@ -1,6 +1,8 @@
-zip_code = "43812"
-state = "OH"
 city = "Coshocton"
 county = "Coshocton"
-longitude = -81.864066
 latitude = 40.300934
+longitude = -81.864066
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43812"
+

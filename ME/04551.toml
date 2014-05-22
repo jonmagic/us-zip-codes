@@ -1,6 +1,8 @@
-zip_code = "04551"
-state = "ME"
 city = "Bremen"
 county = "Lincoln"
-longitude = -69.440192
 latitude = 44.010411
+longitude = -69.440192
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04551"
+

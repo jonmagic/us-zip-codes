@@ -1,6 +1,8 @@
-zip_code = "56315"
-state = "MN"
 city = "Brandon"
 county = "Douglas"
-longitude = -95.516619
 latitude = 45.966435
+longitude = -95.516619
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56315"
+

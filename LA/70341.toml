@@ -1,6 +1,8 @@
-zip_code = "70341"
-state = "LA"
 city = "Belle Rose"
 county = "Assumption"
-longitude = -91.077279
 latitude = 30.03307
+longitude = -91.077279
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70341"
+

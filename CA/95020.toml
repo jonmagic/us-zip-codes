@@ -1,6 +1,8 @@
-zip_code = "95020"
-state = "CA"
 city = "Gilroy"
 county = "Santa Clara"
-longitude = -121.493849
 latitude = 37.023347
+longitude = -121.493849
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95020"
+

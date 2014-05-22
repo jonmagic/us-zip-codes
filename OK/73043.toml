@@ -1,6 +1,8 @@
-zip_code = "73043"
-state = "OK"
 city = "Greenfield"
 county = "Blaine"
-longitude = -98.421836
 latitude = 35.858554
+longitude = -98.421836
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73043"
+

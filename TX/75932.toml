@@ -1,6 +1,8 @@
-zip_code = "75932"
-state = "TX"
 city = "Burkeville"
 county = "Newton"
-longitude = -93.612413
 latitude = 31.147913
+longitude = -93.612413
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75932"
+

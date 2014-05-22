@@ -1,6 +1,8 @@
-zip_code = "56283"
-state = "MN"
 city = "Redwood Falls"
 county = "Redwood"
-longitude = -95.200255
 latitude = 44.521759
+longitude = -95.200255
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56283"
+

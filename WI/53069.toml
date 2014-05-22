@@ -1,6 +1,8 @@
-zip_code = "53069"
-state = "WI"
 city = "Okauchee"
 county = "Waukesha"
-longitude = -88.439353
 latitude = 43.117886
+longitude = -88.439353
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53069"
+

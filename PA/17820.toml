@@ -1,6 +1,8 @@
-zip_code = "17820"
-state = "PA"
 city = "Catawissa"
 county = "Columbia"
-longitude = -76.436239
 latitude = 41.020674
+longitude = -76.436239
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17820"
+

@@ -1,6 +1,8 @@
-zip_code = "18920"
-state = "PA"
 city = "Erwinna"
 county = "Bucks"
-longitude = -75.09576
 latitude = 40.488543
+longitude = -75.09576
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18920"
+

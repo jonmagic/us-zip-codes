@@ -1,6 +1,8 @@
-zip_code = "95453"
-state = "CA"
 city = "Lakeport"
 county = "Lake"
-longitude = -122.919291
 latitude = 39.05345
+longitude = -122.919291
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95453"
+

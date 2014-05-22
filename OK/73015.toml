@@ -1,6 +1,8 @@
-zip_code = "73015"
-state = "OK"
 city = "Carnegie"
 county = "Caddo"
-longitude = -98.594067
 latitude = 35.105404
+longitude = -98.594067
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73015"
+

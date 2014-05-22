@@ -1,6 +1,8 @@
-zip_code = "76550"
-state = "TX"
 city = "Lampasas"
 county = "Lampasas"
-longitude = -98.236306
 latitude = 31.183225
+longitude = -98.236306
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76550"
+

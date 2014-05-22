@@ -1,6 +1,8 @@
-zip_code = "32724"
-state = "FL"
 city = "Deland"
 county = "Volusia"
-longitude = -81.096461
 latitude = 29.056227
+longitude = -81.096461
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32724"
+

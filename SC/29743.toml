@@ -1,6 +1,8 @@
-zip_code = "29743"
-state = "SC"
 city = "Smyrna"
 county = "York"
-longitude = -81.407268
 latitude = 35.025155
+longitude = -81.407268
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29743"
+

@@ -1,6 +1,8 @@
-zip_code = "79380"
-state = "TX"
 city = "Whitharral"
 county = "Hockley"
-longitude = -102.320586
 latitude = 33.74566
+longitude = -102.320586
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79380"
+

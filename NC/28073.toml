@@ -1,6 +1,8 @@
-zip_code = "28073"
-state = "NC"
 city = "Grover"
 county = "Cleveland"
-longitude = -81.471909
 latitude = 35.204027
+longitude = -81.471909
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28073"
+

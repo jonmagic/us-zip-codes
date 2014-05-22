@@ -1,6 +1,8 @@
-zip_code = "95327"
-state = "CA"
 city = "Jamestown"
 county = "Tuolumne"
-longitude = -120.419802
 latitude = 37.883131
+longitude = -120.419802
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95327"
+

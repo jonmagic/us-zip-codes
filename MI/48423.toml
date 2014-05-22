@@ -1,6 +1,8 @@
-zip_code = "48423"
-state = "MI"
 city = "Davison"
 county = "Genesee"
-longitude = -83.622843
 latitude = 43.041994
+longitude = -83.622843
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48423"
+

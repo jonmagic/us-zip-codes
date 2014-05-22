@@ -1,6 +1,8 @@
-zip_code = "13797"
-state = "NY"
 city = "Lisle"
 county = "Broome"
-longitude = -76.045026
 latitude = 42.339355
+longitude = -76.045026
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13797"
+

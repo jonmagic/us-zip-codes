@@ -1,6 +1,8 @@
-zip_code = "64832"
-state = "MO"
 city = "Asbury"
 county = "Jasper"
-longitude = -94.517971
 latitude = 37.266718
+longitude = -94.517971
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64832"
+

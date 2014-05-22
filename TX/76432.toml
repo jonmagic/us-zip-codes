@@ -1,6 +1,8 @@
-zip_code = "76432"
-state = "TX"
 city = "Blanket"
 county = "Brown"
-longitude = -98.827637
 latitude = 31.801502
+longitude = -98.827637
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76432"
+

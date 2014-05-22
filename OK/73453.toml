@@ -1,6 +1,8 @@
-zip_code = "73453"
-state = "OK"
 city = "Overbrook"
 county = "Love"
-longitude = -97.247886
 latitude = 33.894135
+longitude = -97.247886
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73453"
+

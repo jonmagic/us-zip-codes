@@ -1,6 +1,8 @@
-zip_code = "36533"
-state = "AL"
 city = "Fairhope"
 county = "Baldwin"
-longitude = -87.860613
 latitude = 30.484131
+longitude = -87.860613
+state = ""
+state_code_alpha2 = ""
+zip_code = "36533"
+

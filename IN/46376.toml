@@ -1,6 +1,8 @@
-zip_code = "46376"
-state = "IN"
 city = "Schneider"
 county = "Lake"
-longitude = -87.477881
 latitude = 41.189953
+longitude = -87.477881
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46376"
+

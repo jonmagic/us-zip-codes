@@ -1,6 +1,8 @@
-zip_code = "76574"
-state = "TX"
 city = "Taylor"
 county = "Williamson"
-longitude = -97.393787
 latitude = 30.581504
+longitude = -97.393787
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76574"
+

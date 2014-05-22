@@ -1,6 +1,8 @@
-zip_code = "70435"
-state = "LA"
 city = "Covington"
 county = "Saint Tammany"
-longitude = -90.109823
 latitude = 30.566088
+longitude = -90.109823
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70435"
+

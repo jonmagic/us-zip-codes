@@ -1,6 +1,8 @@
-zip_code = "50197"
-state = "IA"
 city = "Knoxville"
 county = "Marion"
-longitude = -93.099205
 latitude = 41.334549
+longitude = -93.099205
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50197"
+

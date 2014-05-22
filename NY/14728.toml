@@ -1,6 +1,8 @@
-zip_code = "14728"
-state = "NY"
 city = "Dewittville"
 county = "Chautauqua"
-longitude = -79.366516
 latitude = 42.2828
+longitude = -79.366516
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14728"
+

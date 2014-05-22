@@ -1,6 +1,8 @@
-zip_code = "71079"
-state = "LA"
 city = "Summerfield"
 county = "Claiborne"
-longitude = -92.811145
 latitude = 32.945404
+longitude = -92.811145
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71079"
+

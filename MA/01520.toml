@@ -1,6 +1,8 @@
-zip_code = "01520"
-state = "MA"
 city = "Holden"
 county = "Worcester"
-longitude = -71.845316
 latitude = 42.336791
+longitude = -71.845316
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01520"
+

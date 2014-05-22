@@ -1,6 +1,8 @@
-zip_code = "14001"
-state = "NY"
 city = "Akron"
 county = "Erie"
-longitude = -78.525296
 latitude = 43.013808
+longitude = -78.525296
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14001"
+

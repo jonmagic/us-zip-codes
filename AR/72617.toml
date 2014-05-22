@@ -1,6 +1,8 @@
-zip_code = "72617"
-state = "AR"
 city = "Big Flat"
 county = "Baxter"
-longitude = -92.372635
 latitude = 36.23638
+longitude = -92.372635
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72617"
+

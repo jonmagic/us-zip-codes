@@ -1,6 +1,8 @@
-zip_code = "71748"
-state = "AR"
 city = "Ivan"
 county = "Dallas"
-longitude = -92.647817
 latitude = 33.97547
+longitude = -92.647817
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71748"
+

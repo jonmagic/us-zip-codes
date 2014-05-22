@@ -1,6 +1,8 @@
-zip_code = "72653"
-state = "AR"
 city = "Mountain Home"
 county = "Baxter"
-longitude = -92.372153
 latitude = 36.318679
+longitude = -92.372153
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72653"
+

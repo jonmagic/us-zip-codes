@@ -1,6 +1,8 @@
-zip_code = "48059"
-state = "MI"
 city = "Fort Gratiot"
 county = "Saint Clair"
-longitude = -82.490486
 latitude = 43.088821
+longitude = -82.490486
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48059"
+

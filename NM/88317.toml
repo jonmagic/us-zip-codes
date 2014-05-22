@@ -1,6 +1,8 @@
-zip_code = "88317"
-state = "NM"
 city = "Cloudcroft"
 county = "Otero"
-longitude = -105.674395
 latitude = 32.889717
+longitude = -105.674395
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88317"
+

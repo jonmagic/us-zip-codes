@@ -1,6 +1,8 @@
-zip_code = "21781"
-state = "MD"
 city = "Saint James"
 county = "Washington"
-longitude = -77.760697
 latitude = 39.56991
+longitude = -77.760697
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21781"
+

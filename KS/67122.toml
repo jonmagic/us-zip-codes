@@ -1,6 +1,8 @@
-zip_code = "67122"
-state = "KS"
 city = "Piedmont"
 county = "Greenwood"
-longitude = -96.242059
 latitude = 37.888276
+longitude = -96.242059
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67122"
+

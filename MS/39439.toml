@@ -1,6 +1,8 @@
-zip_code = "39439"
-state = "MS"
 city = "Heidelberg"
 county = "Jasper"
-longitude = -89.077368
 latitude = 31.892668
+longitude = -89.077368
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39439"
+

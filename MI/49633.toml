@@ -1,6 +1,8 @@
-zip_code = "49633"
-state = "MI"
 city = "Fife Lake"
 county = "Grand Traverse"
-longitude = -85.393948
 latitude = 44.584533
+longitude = -85.393948
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49633"
+

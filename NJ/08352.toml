@@ -1,6 +1,8 @@
-zip_code = "08352"
-state = "NJ"
 city = "Rosenhayn"
 county = "Cumberland"
-longitude = -75.146176
 latitude = 39.469515
+longitude = -75.146176
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08352"
+

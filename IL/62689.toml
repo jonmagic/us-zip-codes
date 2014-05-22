@@ -1,6 +1,8 @@
-zip_code = "62689"
-state = "IL"
 city = "Thayer"
 county = "Sangamon"
-longitude = -89.762086
 latitude = 39.539389
+longitude = -89.762086
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62689"
+

@@ -1,6 +1,8 @@
-zip_code = "30650"
-state = "GA"
 city = "Madison"
 county = "Morgan"
-longitude = -83.492928
 latitude = 33.591117
+longitude = -83.492928
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30650"
+

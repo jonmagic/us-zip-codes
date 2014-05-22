@@ -1,6 +1,8 @@
-zip_code = "04271"
-state = "ME"
 city = "Paris"
 county = "Oxford"
-longitude = -70.498513
 latitude = 44.264111
+longitude = -70.498513
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04271"
+

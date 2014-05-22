@@ -1,6 +1,8 @@
-zip_code = "93066"
-state = "CA"
 city = "Somis"
 county = "Ventura"
-longitude = -119.039305
 latitude = 34.304034
+longitude = -119.039305
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93066"
+

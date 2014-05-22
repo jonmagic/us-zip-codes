@@ -1,6 +1,8 @@
-zip_code = "55378"
-state = "MN"
 city = "Savage"
 county = "Scott"
-longitude = -93.367975
 latitude = 44.751113
+longitude = -93.367975
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55378"
+

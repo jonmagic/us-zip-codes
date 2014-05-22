@@ -1,6 +1,8 @@
-zip_code = "49960"
-state = "MI"
 city = "Rockland"
 county = "Ontonagon"
-longitude = -89.195837
 latitude = 46.753715
+longitude = -89.195837
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49960"
+

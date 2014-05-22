@@ -1,6 +1,8 @@
-zip_code = "56169"
-state = "MN"
 city = "Russell"
 county = "Lyon"
-longitude = -95.97804
 latitude = 44.335085
+longitude = -95.97804
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56169"
+

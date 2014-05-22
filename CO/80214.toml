@@ -1,6 +1,8 @@
-zip_code = "80214"
-state = "CO"
 city = "Denver"
 county = "Jefferson"
-longitude = -105.064336
 latitude = 39.743636
+longitude = -105.064336
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80214"
+

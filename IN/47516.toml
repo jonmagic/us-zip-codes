@@ -1,6 +1,8 @@
-zip_code = "47516"
-state = "IN"
 city = "Bruceville"
 county = "Knox"
-longitude = -87.417076
 latitude = 38.761354
+longitude = -87.417076
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47516"
+

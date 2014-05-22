@@ -1,6 +1,8 @@
-zip_code = "98827"
-state = "WA"
 city = "Loomis"
 county = "Okanogan"
-longitude = -119.721016
 latitude = 48.892514
+longitude = -119.721016
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98827"
+

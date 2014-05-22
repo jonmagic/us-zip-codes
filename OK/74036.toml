@@ -1,6 +1,8 @@
-zip_code = "74036"
-state = "OK"
 city = "Inola"
 county = "Rogers"
-longitude = -95.521145
 latitude = 36.169526
+longitude = -95.521145
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74036"
+

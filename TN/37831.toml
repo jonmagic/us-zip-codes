@@ -1,6 +1,8 @@
-zip_code = "37831"
-state = "TN"
 city = "Oak Ridge"
 county = "Anderson"
-longitude = -84.195796
 latitude = 36.105971
+longitude = -84.195796
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37831"
+

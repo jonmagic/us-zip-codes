@@ -1,6 +1,8 @@
-zip_code = "88314"
-state = "NM"
 city = "Bent"
 county = "Otero"
-longitude = -105.814309
 latitude = 33.201167
+longitude = -105.814309
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88314"
+

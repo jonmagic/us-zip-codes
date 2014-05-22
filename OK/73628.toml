@@ -1,6 +1,8 @@
-zip_code = "73628"
-state = "OK"
 city = "Cheyenne"
 county = "Roger Mills"
-longitude = -99.672542
 latitude = 35.608071
+longitude = -99.672542
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73628"
+

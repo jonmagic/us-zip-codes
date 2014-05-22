@@ -1,6 +1,8 @@
-zip_code = "26285"
-state = "WV"
 city = "Norton"
 county = "Randolph"
-longitude = -79.967754
 latitude = 38.93074
+longitude = -79.967754
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26285"
+

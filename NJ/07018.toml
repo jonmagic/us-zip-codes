@@ -1,6 +1,8 @@
-zip_code = "07018"
-state = "NJ"
 city = "East Orange"
 county = "Essex"
-longitude = -74.216839
 latitude = 40.7566
+longitude = -74.216839
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07018"
+

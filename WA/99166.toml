@@ -1,6 +1,8 @@
-zip_code = "99166"
-state = "WA"
 city = "Republic"
 county = "Ferry"
-longitude = -118.680631
 latitude = 48.667659
+longitude = -118.680631
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99166"
+

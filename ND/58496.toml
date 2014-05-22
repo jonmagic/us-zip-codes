@@ -1,6 +1,8 @@
-zip_code = "58496"
-state = "ND"
 city = "Woodworth"
 county = "Stutsman"
-longitude = -99.259784
 latitude = 47.153721
+longitude = -99.259784
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58496"
+

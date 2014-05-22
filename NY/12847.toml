@@ -1,6 +1,8 @@
-zip_code = "12847"
-state = "NY"
 city = "Long Lake"
 county = "Hamilton"
-longitude = -74.440029
 latitude = 43.953253
+longitude = -74.440029
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12847"
+

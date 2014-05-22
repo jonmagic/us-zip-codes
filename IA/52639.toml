@@ -1,6 +1,8 @@
-zip_code = "52639"
-state = "IA"
 city = "Montrose"
 county = "Lee"
-longitude = -91.468901
 latitude = 40.542856
+longitude = -91.468901
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52639"
+

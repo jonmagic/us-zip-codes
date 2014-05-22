@@ -1,6 +1,8 @@
-zip_code = "37151"
-state = "TN"
 city = "Riddleton"
 county = "Smith"
-longitude = -86.045992
 latitude = 36.314537
+longitude = -86.045992
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37151"
+

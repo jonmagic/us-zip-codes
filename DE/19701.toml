@@ -1,6 +1,8 @@
-zip_code = "19701"
-state = "DE"
 city = "Bear"
 county = "New Castle"
-longitude = -75.693903
 latitude = 39.594736
+longitude = -75.693903
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19701"
+

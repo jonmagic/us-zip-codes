@@ -1,6 +1,8 @@
-zip_code = "96712"
-state = "HI"
 city = "Haleiwa"
 county = "Honolulu"
-longitude = -158.03645
 latitude = 21.63185
+longitude = -158.03645
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96712"
+

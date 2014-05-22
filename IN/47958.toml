@@ -1,6 +1,8 @@
-zip_code = "47958"
-state = "IN"
 city = "Mellott"
 county = "Fountain"
-longitude = -87.14754
 latitude = 40.164139
+longitude = -87.14754
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47958"
+

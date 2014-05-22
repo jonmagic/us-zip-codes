@@ -1,6 +1,8 @@
-zip_code = "35968"
-state = "AL"
 city = "Fort Payne"
 county = "De Kalb"
-longitude = -85.797851
 latitude = 34.507242
+longitude = -85.797851
+state = ""
+state_code_alpha2 = ""
+zip_code = "35968"
+

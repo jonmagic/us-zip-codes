@@ -1,6 +1,8 @@
-zip_code = "78597"
-state = "TX"
 city = "South Padre Island"
 county = "Cameron"
-longitude = -97.494039
 latitude = 26.115896
+longitude = -97.494039
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78597"
+

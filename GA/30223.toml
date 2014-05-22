@@ -1,6 +1,8 @@
-zip_code = "30223"
-state = "GA"
 city = "Griffin"
 county = "Spalding"
-longitude = -84.289552
 latitude = 33.265854
+longitude = -84.289552
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30223"
+

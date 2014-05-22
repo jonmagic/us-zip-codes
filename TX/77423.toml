@@ -1,6 +1,8 @@
-zip_code = "77423"
-state = "TX"
 city = "Brookshire"
 county = "Waller"
-longitude = -95.98022
 latitude = 29.85915
+longitude = -95.98022
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77423"
+

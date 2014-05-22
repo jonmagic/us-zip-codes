@@ -1,6 +1,8 @@
-zip_code = "62874"
-state = "IL"
 city = "Orient"
 county = "Franklin"
-longitude = -88.976706
 latitude = 37.91819
+longitude = -88.976706
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62874"
+

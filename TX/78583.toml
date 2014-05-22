@@ -1,6 +1,8 @@
-zip_code = "78583"
-state = "TX"
 city = "Rio Hondo"
 county = "Cameron"
-longitude = -97.565494
 latitude = 26.252266
+longitude = -97.565494
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78583"
+

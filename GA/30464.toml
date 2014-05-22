@@ -1,6 +1,8 @@
-zip_code = "30464"
-state = "GA"
 city = "Stillmore"
 county = "Emanuel"
-longitude = -82.258728
 latitude = 32.445915
+longitude = -82.258728
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30464"
+

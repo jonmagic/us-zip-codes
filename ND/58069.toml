@@ -1,6 +1,8 @@
-zip_code = "58069"
-state = "ND"
 city = "Stirum"
 county = "Sargent"
-longitude = -97.62307
 latitude = 46.221613
+longitude = -97.62307
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58069"
+

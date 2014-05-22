@@ -1,6 +1,8 @@
-zip_code = "52078"
-state = "IA"
 city = "Worthington"
 county = "Dubuque"
-longitude = -91.089374
 latitude = 42.388741
+longitude = -91.089374
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52078"
+

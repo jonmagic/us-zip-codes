@@ -1,6 +1,8 @@
-zip_code = "03278"
-state = "NH"
 city = "Warner"
 county = "Merrimack"
-longitude = -71.842299
 latitude = 43.310858
+longitude = -71.842299
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03278"
+

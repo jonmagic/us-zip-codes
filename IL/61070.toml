@@ -1,6 +1,8 @@
-zip_code = "61070"
-state = "IL"
 city = "Rock City"
 county = "Stephenson"
-longitude = -89.470711
 latitude = 42.418515
+longitude = -89.470711
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61070"
+

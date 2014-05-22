@@ -1,6 +1,8 @@
-zip_code = "30518"
-state = "GA"
 city = "Buford"
 county = "Gwinnett"
-longitude = -84.033984
 latitude = 34.113712
+longitude = -84.033984
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30518"
+

@@ -1,6 +1,8 @@
-zip_code = "55397"
-state = "MN"
 city = "Young America"
 county = "Carver"
-longitude = -93.919675
 latitude = 44.800912
+longitude = -93.919675
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55397"
+

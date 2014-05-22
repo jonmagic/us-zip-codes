@@ -1,6 +1,8 @@
-zip_code = "27827"
-state = "NC"
 city = "Falkland"
 county = "Pitt"
-longitude = -77.511147
 latitude = 35.693518
+longitude = -77.511147
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27827"
+

@@ -1,6 +1,8 @@
-zip_code = "38563"
-state = "TN"
 city = "Gordonsville"
 county = "Smith"
-longitude = -85.982033
 latitude = 36.209988
+longitude = -85.982033
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38563"
+

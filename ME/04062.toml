@@ -1,6 +1,8 @@
-zip_code = "04062"
-state = "ME"
 city = "Windham"
 county = "Cumberland"
-longitude = -70.396652
 latitude = 43.911381
+longitude = -70.396652
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04062"
+

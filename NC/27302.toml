@@ -1,6 +1,8 @@
-zip_code = "27302"
-state = "NC"
 city = "Mebane"
 county = "Alamance"
-longitude = -79.306093
 latitude = 36.087114
+longitude = -79.306093
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27302"
+

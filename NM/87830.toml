@@ -1,6 +1,8 @@
-zip_code = "87830"
-state = "NM"
 city = "Reserve"
 county = "Catron"
-longitude = -108.859382
 latitude = 33.681174
+longitude = -108.859382
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87830"
+

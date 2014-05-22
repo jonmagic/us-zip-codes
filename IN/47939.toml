@@ -1,6 +1,8 @@
-zip_code = "47939"
-state = "IN"
 city = "Crawfordsville"
 county = "Montgomery"
-longitude = -86.893614
 latitude = 40.040014
+longitude = -86.893614
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47939"
+

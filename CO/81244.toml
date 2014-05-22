@@ -1,6 +1,8 @@
-zip_code = "81244"
-state = "CO"
 city = "Rockvale"
 county = "Fremont"
-longitude = -105.22114
 latitude = 38.336184
+longitude = -105.22114
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81244"
+

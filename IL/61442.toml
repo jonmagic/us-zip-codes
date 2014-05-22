@@ -1,6 +1,8 @@
-zip_code = "61442"
-state = "IL"
 city = "Keithsburg"
 county = "Mercer"
-longitude = -90.711121
 latitude = 41.133733
+longitude = -90.711121
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61442"
+

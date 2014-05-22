@@ -1,6 +1,8 @@
-zip_code = "43068"
-state = "OH"
 city = "Reynoldsburg"
 county = "Franklin"
-longitude = -82.802896
 latitude = 39.951513
+longitude = -82.802896
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43068"
+

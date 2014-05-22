@@ -1,6 +1,8 @@
-zip_code = "13813"
-state = "NY"
 city = "Nineveh"
 county = "Broome"
-longitude = -75.55656
 latitude = 42.147454
+longitude = -75.55656
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13813"
+

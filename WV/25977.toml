@@ -1,6 +1,8 @@
-zip_code = "25977"
-state = "WV"
 city = "Meadow Creek"
 county = "Summers"
-longitude = -80.877395
 latitude = 37.648541
+longitude = -80.877395
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25977"
+

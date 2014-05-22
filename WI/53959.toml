@@ -1,6 +1,8 @@
-zip_code = "53959"
-state = "WI"
 city = "Reedsburg"
 county = "Sauk"
-longitude = -89.966806
 latitude = 43.482108
+longitude = -89.966806
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53959"
+

@@ -1,6 +1,8 @@
-zip_code = "99143"
-state = "WA"
 city = "Lacrosse"
 county = "Whitman"
-longitude = -117.728679
 latitude = 46.759878
+longitude = -117.728679
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99143"
+

@@ -1,6 +1,8 @@
-zip_code = "31094"
-state = "GA"
 city = "Warthen"
 county = "Washington"
-longitude = -82.805591
 latitude = 33.07975
+longitude = -82.805591
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31094"
+

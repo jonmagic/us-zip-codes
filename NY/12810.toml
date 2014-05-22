@@ -1,6 +1,8 @@
-zip_code = "12810"
-state = "NY"
 city = "Athol"
 county = "Warren"
-longitude = -73.943693
 latitude = 43.59886
+longitude = -73.943693
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12810"
+

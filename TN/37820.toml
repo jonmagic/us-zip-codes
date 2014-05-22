@@ -1,6 +1,8 @@
-zip_code = "37820"
-state = "TN"
 city = "New Market"
 county = "Jefferson"
-longitude = -83.559174
 latitude = 36.086723
+longitude = -83.559174
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37820"
+

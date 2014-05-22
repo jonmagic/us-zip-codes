@@ -1,6 +1,8 @@
-zip_code = "32071"
-state = "FL"
 city = "O Brien"
 county = "Suwannee"
-longitude = -82.932228
 latitude = 30.036193
+longitude = -82.932228
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32071"
+

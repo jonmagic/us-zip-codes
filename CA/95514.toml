@@ -1,6 +1,8 @@
-zip_code = "95514"
-state = "CA"
 city = "Blocksburg"
 county = "Humboldt"
-longitude = -123.672124
 latitude = 40.318601
+longitude = -123.672124
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95514"
+

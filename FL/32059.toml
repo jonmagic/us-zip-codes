@@ -1,6 +1,8 @@
-zip_code = "32059"
-state = "FL"
 city = "Lee"
 county = "Madison"
-longitude = -83.361506
 latitude = 30.498591
+longitude = -83.361506
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32059"
+

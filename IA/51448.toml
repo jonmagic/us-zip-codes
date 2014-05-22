@@ -1,6 +1,8 @@
-zip_code = "51448"
-state = "IA"
 city = "Kiron"
 county = "Crawford"
-longitude = -95.294668
 latitude = 42.046292
+longitude = -95.294668
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51448"
+

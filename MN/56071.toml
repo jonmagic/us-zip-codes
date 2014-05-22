@@ -1,6 +1,8 @@
-zip_code = "56071"
-state = "MN"
 city = "New Prague"
 county = "Le Sueur"
-longitude = -93.55598
 latitude = 44.536713
+longitude = -93.55598
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56071"
+

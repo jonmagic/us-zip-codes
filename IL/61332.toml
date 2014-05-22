@@ -1,6 +1,8 @@
-zip_code = "61332"
-state = "IL"
 city = "Leonore"
 county = "La Salle"
-longitude = -89.009131
 latitude = 41.148788
+longitude = -89.009131
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61332"
+

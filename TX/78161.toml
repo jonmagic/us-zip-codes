@@ -1,6 +1,8 @@
-zip_code = "78161"
-state = "TX"
 city = "Sutherland Springs"
 county = "Wilson"
-longitude = -98.050916
 latitude = 29.288795
+longitude = -98.050916
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78161"
+

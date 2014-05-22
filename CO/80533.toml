@@ -1,6 +1,8 @@
-zip_code = "80533"
-state = "CO"
 city = "Hygiene"
 county = "Boulder"
-longitude = -105.232695
 latitude = 40.181515
+longitude = -105.232695
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80533"
+

@@ -1,6 +1,8 @@
-zip_code = "13102"
-state = "NY"
 city = "Mc Lean"
 county = "Tompkins"
-longitude = -76.292723
 latitude = 42.554215
+longitude = -76.292723
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13102"
+

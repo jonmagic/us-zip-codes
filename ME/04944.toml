@@ -1,6 +1,8 @@
-zip_code = "04944"
-state = "ME"
 city = "Hinckley"
 county = "Somerset"
-longitude = -69.6425
 latitude = 44.684737
+longitude = -69.6425
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04944"
+

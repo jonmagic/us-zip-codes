@@ -1,6 +1,8 @@
-zip_code = "75694"
-state = "TX"
 city = "Woodlawn"
 county = "Harrison"
-longitude = -94.342725
 latitude = 32.653731
+longitude = -94.342725
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75694"
+

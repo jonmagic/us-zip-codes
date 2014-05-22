@@ -1,6 +1,8 @@
-zip_code = "89411"
-state = "NV"
 city = "Genoa"
 county = "Douglas"
-longitude = -119.822837
 latitude = 39.034129
+longitude = -119.822837
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89411"
+

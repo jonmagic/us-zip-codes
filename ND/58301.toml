@@ -1,6 +1,8 @@
-zip_code = "58301"
-state = "ND"
 city = "Devils Lake"
 county = "Ramsey"
-longitude = -98.781979
 latitude = 48.264352
+longitude = -98.781979
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58301"
+

@@ -1,6 +1,8 @@
-zip_code = "75684"
-state = "TX"
 city = "Overton"
 county = "Rusk"
-longitude = -94.83149
 latitude = 32.133478
+longitude = -94.83149
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75684"
+

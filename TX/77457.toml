@@ -1,6 +1,8 @@
-zip_code = "77457"
-state = "TX"
 city = "Matagorda"
 county = "Matagorda"
-longitude = -95.962269
 latitude = 28.649645
+longitude = -95.962269
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77457"
+

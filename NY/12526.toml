@@ -1,6 +1,8 @@
-zip_code = "12526"
-state = "NY"
 city = "Germantown"
 county = "Columbia"
-longitude = -73.792924
 latitude = 42.121298
+longitude = -73.792924
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12526"
+

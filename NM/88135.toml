@@ -1,6 +1,8 @@
-zip_code = "88135"
-state = "NM"
 city = "Texico"
 county = "Curry"
-longitude = -103.128609
 latitude = 34.518407
+longitude = -103.128609
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88135"
+

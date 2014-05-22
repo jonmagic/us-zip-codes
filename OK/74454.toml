@@ -1,6 +1,8 @@
-zip_code = "74454"
-state = "OK"
 city = "Porter"
 county = "Wagoner"
-longitude = -95.522072
 latitude = 35.86881
+longitude = -95.522072
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74454"
+

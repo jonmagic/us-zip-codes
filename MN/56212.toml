@@ -1,6 +1,8 @@
-zip_code = "56212"
-state = "MN"
 city = "Bellingham"
 county = "Lac Qui Parle"
-longitude = -96.095554
 latitude = 45.053253
+longitude = -96.095554
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56212"
+

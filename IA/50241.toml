@@ -1,6 +1,8 @@
-zip_code = "50241"
-state = "IA"
 city = "Saint Marys"
 county = "Warren"
-longitude = -93.736916
 latitude = 41.308413
+longitude = -93.736916
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50241"
+

@@ -1,6 +1,8 @@
-zip_code = "50641"
-state = "IA"
 city = "Hazleton"
 county = "Buchanan"
-longitude = -91.924112
 latitude = 42.574258
+longitude = -91.924112
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50641"
+

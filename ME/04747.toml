@@ -1,6 +1,8 @@
-zip_code = "04747"
-state = "ME"
 city = "Island Falls"
 county = "Aroostook"
-longitude = -68.273154
 latitude = 46.011345
+longitude = -68.273154
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04747"
+

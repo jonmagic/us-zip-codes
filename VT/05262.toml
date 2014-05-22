@@ -1,6 +1,8 @@
-zip_code = "05262"
-state = "VT"
 city = "Shaftsbury"
 county = "Bennington"
-longitude = -73.192929
 latitude = 42.979702
+longitude = -73.192929
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05262"
+

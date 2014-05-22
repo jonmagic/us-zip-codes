@@ -1,6 +1,8 @@
-zip_code = "72581"
-state = "AR"
 city = "Tumbling Shoals"
 county = "Cleburne"
-longitude = -91.929979
 latitude = 35.570591
+longitude = -91.929979
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72581"
+

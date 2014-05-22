@@ -1,6 +1,8 @@
-zip_code = "43432"
-state = "OH"
 city = "Graytown"
 county = "Ottawa"
-longitude = -83.26128
 latitude = 41.564723
+longitude = -83.26128
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43432"
+

@@ -1,6 +1,8 @@
-zip_code = "76427"
-state = "TX"
 city = "Bryson"
 county = "Jack"
-longitude = -98.387427
 latitude = 33.161547
+longitude = -98.387427
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76427"
+

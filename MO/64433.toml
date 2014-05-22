@@ -1,6 +1,8 @@
-zip_code = "64433"
-state = "MO"
 city = "Conception"
 county = "Nodaway"
-longitude = -94.900456
 latitude = 40.352306
+longitude = -94.900456
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64433"
+

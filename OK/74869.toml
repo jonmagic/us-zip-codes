@@ -1,6 +1,8 @@
-zip_code = "74869"
-state = "OK"
 city = "Sparks"
 county = "Lincoln"
-longitude = -96.814633
 latitude = 35.610392
+longitude = -96.814633
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74869"
+

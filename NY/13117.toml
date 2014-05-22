@@ -1,6 +1,8 @@
-zip_code = "13117"
-state = "NY"
 city = "Montezuma"
 county = "Cayuga"
-longitude = -76.704722
 latitude = 43.002267
+longitude = -76.704722
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13117"
+

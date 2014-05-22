@@ -1,6 +1,8 @@
-zip_code = "46135"
-state = "IN"
 city = "Greencastle"
 county = "Putnam"
-longitude = -86.857172
 latitude = 39.699485
+longitude = -86.857172
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46135"
+

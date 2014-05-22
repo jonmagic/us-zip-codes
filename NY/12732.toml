@@ -1,6 +1,8 @@
-zip_code = "12732"
-state = "NY"
 city = "Eldred"
 county = "Sullivan"
-longitude = -74.845788
 latitude = 41.517426
+longitude = -74.845788
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12732"
+

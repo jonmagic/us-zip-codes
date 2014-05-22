@@ -1,6 +1,8 @@
-zip_code = "37860"
-state = "TN"
 city = "Russellville"
 county = "Hamblen"
-longitude = -83.185535
 latitude = 36.244307
+longitude = -83.185535
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37860"
+

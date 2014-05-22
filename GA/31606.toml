@@ -1,6 +1,8 @@
-zip_code = "31606"
-state = "GA"
 city = "Valdosta"
 county = "Lowndes"
-longitude = -83.245331
 latitude = 30.826306
+longitude = -83.245331
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31606"
+

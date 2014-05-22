@@ -1,6 +1,8 @@
-zip_code = "51639"
-state = "IA"
 city = "Farragut"
 county = "Fremont"
-longitude = -95.477606
 latitude = 40.72146
+longitude = -95.477606
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51639"
+

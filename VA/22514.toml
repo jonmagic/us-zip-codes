@@ -1,6 +1,8 @@
-zip_code = "22514"
-state = "VA"
 city = "Milford"
 county = "Caroline"
-longitude = -77.242558
 latitude = 37.980787
+longitude = -77.242558
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22514"
+

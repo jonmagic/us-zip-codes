@@ -1,6 +1,8 @@
-zip_code = "22720"
-state = "VA"
 city = "Goldvein"
 county = "Fauquier"
-longitude = -77.642308
 latitude = 38.472457
+longitude = -77.642308
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22720"
+

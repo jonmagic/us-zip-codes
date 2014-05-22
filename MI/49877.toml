@@ -1,6 +1,8 @@
-zip_code = "49877"
-state = "MI"
 city = "Ralph"
 county = "Dickinson"
-longitude = -87.736665
 latitude = 46.129666
+longitude = -87.736665
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49877"
+

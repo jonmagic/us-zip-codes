@@ -1,6 +1,8 @@
-zip_code = "48722"
-state = "MI"
 city = "Bridgeport"
 county = "Saginaw"
-longitude = -83.832323
 latitude = 43.343016
+longitude = -83.832323
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48722"
+

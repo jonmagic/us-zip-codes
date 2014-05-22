@@ -1,6 +1,8 @@
-zip_code = "31063"
-state = "GA"
 city = "Montezuma"
 county = "Macon"
-longitude = -83.863997
 latitude = 32.240448
+longitude = -83.863997
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31063"
+

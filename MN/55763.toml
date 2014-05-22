@@ -1,6 +1,8 @@
-zip_code = "55763"
-state = "MN"
 city = "Makinen"
 county = "Saint Louis"
-longitude = -92.181209
 latitude = 47.264753
+longitude = -92.181209
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55763"
+

@@ -1,6 +1,8 @@
-zip_code = "48744"
-state = "MI"
 city = "Mayville"
 county = "Tuscola"
-longitude = -83.367939
 latitude = 43.344868
+longitude = -83.367939
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48744"
+

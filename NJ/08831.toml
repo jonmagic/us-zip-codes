@@ -1,6 +1,8 @@
-zip_code = "08831"
-state = "NJ"
 city = "Monroe Township"
 county = "Middlesex"
-longitude = -74.42887
 latitude = 40.343757
+longitude = -74.42887
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08831"
+

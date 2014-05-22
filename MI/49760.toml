@@ -1,6 +1,8 @@
-zip_code = "49760"
-state = "MI"
 city = "Moran"
 county = "Mackinac"
-longitude = -84.992591
 latitude = 46.07039
+longitude = -84.992591
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49760"
+

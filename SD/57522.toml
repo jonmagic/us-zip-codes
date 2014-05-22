@@ -1,6 +1,8 @@
-zip_code = "57522"
-state = "SD"
 city = "Blunt"
 county = "Hughes"
-longitude = -99.926952
 latitude = 44.43719
+longitude = -99.926952
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57522"
+

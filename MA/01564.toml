@@ -1,6 +1,8 @@
-zip_code = "01564"
-state = "MA"
 city = "Sterling"
 county = "Worcester"
-longitude = -71.939375
 latitude = 42.366765
+longitude = -71.939375
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01564"
+

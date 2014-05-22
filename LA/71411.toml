@@ -1,6 +1,8 @@
-zip_code = "71411"
-state = "LA"
 city = "Campti"
 county = "Natchitoches"
-longitude = -93.148989
 latitude = 31.83009
+longitude = -93.148989
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71411"
+

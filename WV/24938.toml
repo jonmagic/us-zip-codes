@@ -1,6 +1,8 @@
-zip_code = "24938"
-state = "WV"
 city = "Frankford"
 county = "Greenbrier"
-longitude = -80.335257
 latitude = 37.915363
+longitude = -80.335257
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24938"
+

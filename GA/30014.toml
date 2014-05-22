@@ -1,6 +1,8 @@
-zip_code = "30014"
-state = "GA"
 city = "Covington"
 county = "Newton"
-longitude = -83.849622
 latitude = 33.529341
+longitude = -83.849622
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30014"
+

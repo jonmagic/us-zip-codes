@@ -1,6 +1,8 @@
-zip_code = "10708"
-state = "NY"
 city = "Bronxville"
 county = "Westchester"
-longitude = -73.829978
 latitude = 40.938448
+longitude = -73.829978
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10708"
+

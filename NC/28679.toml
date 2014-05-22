@@ -1,6 +1,8 @@
-zip_code = "28679"
-state = "NC"
 city = "Sugar Grove"
 county = "Watauga"
-longitude = -81.835794
 latitude = 36.254958
+longitude = -81.835794
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28679"
+

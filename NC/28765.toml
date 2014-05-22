@@ -1,6 +1,8 @@
-zip_code = "28765"
-state = "NC"
 city = "Penland"
 county = "Mitchell"
-longitude = -82.110672
 latitude = 35.921862
+longitude = -82.110672
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28765"
+

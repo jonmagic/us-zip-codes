@@ -1,6 +1,8 @@
-zip_code = "41367"
-state = "KY"
 city = "Rowdy"
 county = "Perry"
-longitude = -83.226964
 latitude = 37.397017
+longitude = -83.226964
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41367"
+

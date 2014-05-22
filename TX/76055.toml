@@ -1,6 +1,8 @@
-zip_code = "76055"
-state = "TX"
 city = "Itasca"
 county = "Hill"
-longitude = -97.20549
 latitude = 32.176705
+longitude = -97.20549
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76055"
+

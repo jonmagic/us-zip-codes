@@ -1,6 +1,8 @@
-zip_code = "08079"
-state = "NJ"
 city = "Salem"
 county = "Salem"
-longitude = -75.439362
 latitude = 39.587729
+longitude = -75.439362
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08079"
+

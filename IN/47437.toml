@@ -1,6 +1,8 @@
-zip_code = "47437"
-state = "IN"
 city = "Huron"
 county = "Lawrence"
-longitude = -86.670987
 latitude = 38.722153
+longitude = -86.670987
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47437"
+

@@ -1,6 +1,8 @@
-zip_code = "22733"
-state = "VA"
 city = "Rapidan"
 county = "Culpeper"
-longitude = -78.060292
 latitude = 38.359195
+longitude = -78.060292
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22733"
+

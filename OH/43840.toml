@@ -1,6 +1,8 @@
-zip_code = "43840"
-state = "OH"
 city = "Stone Creek"
 county = "Tuscarawas"
-longitude = -81.602889
 latitude = 40.404888
+longitude = -81.602889
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43840"
+

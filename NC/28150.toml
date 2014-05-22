@@ -1,6 +1,8 @@
-zip_code = "28150"
-state = "NC"
 city = "Shelby"
 county = "Cleveland"
-longitude = -81.556777
 latitude = 35.312012
+longitude = -81.556777
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28150"
+

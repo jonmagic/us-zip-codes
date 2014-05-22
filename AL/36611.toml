@@ -1,6 +1,8 @@
-zip_code = "36611"
-state = "AL"
 city = "Mobile"
 county = "Mobile"
-longitude = -88.11085
 latitude = 30.768787
+longitude = -88.11085
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36611"
+

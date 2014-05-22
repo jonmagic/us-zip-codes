@@ -1,6 +1,8 @@
-zip_code = "67492"
-state = "KS"
 city = "Woodbine"
 county = "Dickinson"
-longitude = -96.964022
 latitude = 38.812401
+longitude = -96.964022
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67492"
+

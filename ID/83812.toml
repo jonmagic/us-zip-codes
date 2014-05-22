@@ -1,6 +1,8 @@
-zip_code = "83812"
-state = "ID"
 city = "Clarkia"
 county = "Shoshone"
-longitude = -116.28108
 latitude = 46.974333
+longitude = -116.28108
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83812"
+

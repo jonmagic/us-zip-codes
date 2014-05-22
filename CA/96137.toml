@@ -1,6 +1,8 @@
-zip_code = "96137"
-state = "CA"
 city = "Westwood"
 county = "Lassen"
-longitude = -121.022584
 latitude = 40.303792
+longitude = -121.022584
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96137"
+

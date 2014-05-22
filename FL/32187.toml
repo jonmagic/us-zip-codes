@@ -1,6 +1,8 @@
-zip_code = "32187"
-state = "FL"
 city = "San Mateo"
 county = "Putnam"
-longitude = -81.589937
 latitude = 29.59344
+longitude = -81.589937
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32187"
+

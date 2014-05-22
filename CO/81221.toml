@@ -1,6 +1,8 @@
-zip_code = "81221"
-state = "CO"
 city = "Coal Creek"
 county = "Fremont"
-longitude = -105.159722
 latitude = 38.338919
+longitude = -105.159722
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81221"
+

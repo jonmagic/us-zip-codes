@@ -1,6 +1,8 @@
-zip_code = "27843"
-state = "NC"
 city = "Hobgood"
 county = "Halifax"
-longitude = -77.406093
 latitude = 36.059381
+longitude = -77.406093
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27843"
+

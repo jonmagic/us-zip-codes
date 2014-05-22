@@ -1,6 +1,8 @@
-zip_code = "16638"
-state = "PA"
 city = "Entriken"
 county = "Huntingdon"
-longitude = -77.966977
 latitude = 40.402523
+longitude = -77.966977
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16638"
+

@@ -1,6 +1,8 @@
-zip_code = "64491"
-state = "MO"
 city = "Tarkio"
 county = "Atchison"
-longitude = -95.386166
 latitude = 40.393783
+longitude = -95.386166
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64491"
+

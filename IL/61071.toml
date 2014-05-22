@@ -1,6 +1,8 @@
-zip_code = "61071"
-state = "IL"
 city = "Rock Falls"
 county = "Whiteside"
-longitude = -89.728269
 latitude = 41.687083
+longitude = -89.728269
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61071"
+

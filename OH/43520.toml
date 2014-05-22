@@ -1,6 +1,8 @@
-zip_code = "43520"
-state = "OH"
 city = "Farmer"
 county = "Defiance"
-longitude = -84.631322
 latitude = 41.39066
+longitude = -84.631322
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43520"
+

@@ -1,6 +1,8 @@
-zip_code = "44202"
-state = "OH"
 city = "Aurora"
 county = "Portage"
-longitude = -81.292977
 latitude = 41.311704
+longitude = -81.292977
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44202"
+

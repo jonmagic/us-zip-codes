@@ -1,6 +1,8 @@
-zip_code = "44040"
-state = "OH"
 city = "Gates Mills"
 county = "Cuyahoga"
-longitude = -81.414597
 latitude = 41.513251
+longitude = -81.414597
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44040"
+

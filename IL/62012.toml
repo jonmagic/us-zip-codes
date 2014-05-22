@@ -1,6 +1,8 @@
-zip_code = "62012"
-state = "IL"
 city = "Brighton"
 county = "Jersey"
-longitude = -90.254596
 latitude = 39.07267
+longitude = -90.254596
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62012"
+

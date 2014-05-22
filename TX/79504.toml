@@ -1,6 +1,8 @@
-zip_code = "79504"
-state = "TX"
 city = "Baird"
 county = "Callahan"
-longitude = -99.335495
 latitude = 32.322053
+longitude = -99.335495
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79504"
+

@@ -1,6 +1,8 @@
-zip_code = "72321"
-state = "AR"
 city = "Burdette"
 county = "Mississippi"
-longitude = -89.944221
 latitude = 35.816872
+longitude = -89.944221
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72321"
+

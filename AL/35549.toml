@@ -1,6 +1,8 @@
-zip_code = "35549"
-state = "AL"
 city = "Carbon Hill"
 county = "Walker"
-longitude = -87.455456
 latitude = 33.772696
+longitude = -87.455456
+state = ""
+state_code_alpha2 = ""
+zip_code = "35549"
+

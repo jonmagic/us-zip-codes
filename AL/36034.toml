@@ -1,6 +1,8 @@
-zip_code = "36034"
-state = "AL"
 city = "Glenwood"
 county = "Crenshaw"
-longitude = -86.167727
 latitude = 31.611203
+longitude = -86.167727
+state = ""
+state_code_alpha2 = ""
+zip_code = "36034"
+

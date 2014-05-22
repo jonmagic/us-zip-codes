@@ -1,6 +1,8 @@
-zip_code = "77657"
-state = "TX"
 city = "Lumberton"
 county = "Hardin"
-longitude = -94.219122
 latitude = 30.281836
+longitude = -94.219122
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77657"
+

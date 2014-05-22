@@ -1,6 +1,8 @@
-zip_code = "02576"
-state = "MA"
 city = "West Wareham"
 county = "Plymouth"
-longitude = -70.749688
 latitude = 41.769863
+longitude = -70.749688
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02576"
+

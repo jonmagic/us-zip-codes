@@ -1,6 +1,8 @@
-zip_code = "46530"
-state = "IN"
 city = "Granger"
 county = "St Joseph"
-longitude = -86.139868
 latitude = 41.734912
+longitude = -86.139868
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46530"
+

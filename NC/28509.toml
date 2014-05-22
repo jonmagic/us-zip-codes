@@ -1,6 +1,8 @@
-zip_code = "28509"
-state = "NC"
 city = "Alliance"
 county = "Pamlico"
-longitude = -76.632264
 latitude = 35.156145
+longitude = -76.632264
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28509"
+

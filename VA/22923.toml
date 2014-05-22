@@ -1,6 +1,8 @@
-zip_code = "22923"
-state = "VA"
 city = "Barboursville"
 county = "Orange"
-longitude = -78.309759
 latitude = 38.209534
+longitude = -78.309759
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22923"
+

@@ -1,6 +1,8 @@
-zip_code = "01915"
-state = "MA"
 city = "Beverly"
 county = "Essex"
-longitude = -70.853843
 latitude = 42.565145
+longitude = -70.853843
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01915"
+

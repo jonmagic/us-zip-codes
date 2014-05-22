@@ -1,6 +1,8 @@
-zip_code = "59833"
-state = "MT"
 city = "Florence"
 county = "Ravalli"
-longitude = -114.04192
 latitude = 46.617296
+longitude = -114.04192
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59833"
+

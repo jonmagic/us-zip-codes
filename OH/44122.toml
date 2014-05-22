@@ -1,6 +1,8 @@
-zip_code = "44122"
-state = "OH"
 city = "Beachwood"
 county = "Cuyahoga"
-longitude = -81.505389
 latitude = 41.473248
+longitude = -81.505389
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44122"
+

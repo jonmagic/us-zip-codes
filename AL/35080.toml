@@ -1,6 +1,8 @@
-zip_code = "35080"
-state = "AL"
 city = "Helena"
 county = "Shelby"
-longitude = -86.901975
 latitude = 33.266341
+longitude = -86.901975
+state = ""
+state_code_alpha2 = ""
+zip_code = "35080"
+

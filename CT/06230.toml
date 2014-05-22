@@ -1,6 +1,8 @@
-zip_code = "06230"
-state = "CT"
 city = "Abington"
 county = "Windham"
-longitude = -72.02528
 latitude = 41.847302
+longitude = -72.02528
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06230"
+

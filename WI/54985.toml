@@ -1,6 +1,8 @@
-zip_code = "54985"
-state = "WI"
 city = "Winnebago"
 county = "Winnebago"
-longitude = -88.517762
 latitude = 44.070584
+longitude = -88.517762
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54985"
+

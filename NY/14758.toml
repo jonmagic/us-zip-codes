@@ -1,6 +1,8 @@
-zip_code = "14758"
-state = "NY"
 city = "Niobe"
 county = "Chautauqua"
-longitude = -79.41091
 latitude = 42.342529
+longitude = -79.41091
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14758"
+

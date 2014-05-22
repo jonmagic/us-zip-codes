@@ -1,6 +1,8 @@
-zip_code = "17063"
-state = "PA"
 city = "Milroy"
 county = "Mifflin"
-longitude = -77.493466
 latitude = 40.740026
+longitude = -77.493466
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17063"
+

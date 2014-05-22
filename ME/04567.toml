@@ -1,6 +1,8 @@
-zip_code = "04567"
-state = "ME"
 city = "Small Point"
 county = "Sagadahoc"
-longitude = -69.859541
 latitude = 43.900856
+longitude = -69.859541
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04567"
+

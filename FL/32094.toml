@@ -1,6 +1,8 @@
-zip_code = "32094"
-state = "FL"
 city = "Wellborn"
 county = "Suwannee"
-longitude = -82.857328
 latitude = 30.194651
+longitude = -82.857328
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32094"
+

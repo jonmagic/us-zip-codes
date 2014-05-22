@@ -1,6 +1,8 @@
-zip_code = "16022"
-state = "PA"
 city = "Bruin"
 county = "Butler"
-longitude = -79.731308
 latitude = 41.055515
+longitude = -79.731308
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16022"
+

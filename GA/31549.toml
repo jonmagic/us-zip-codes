@@ -1,6 +1,8 @@
-zip_code = "31549"
-state = "GA"
 city = "Lumber City"
 county = "Telfair"
-longitude = -82.682963
 latitude = 31.931373
+longitude = -82.682963
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31549"
+

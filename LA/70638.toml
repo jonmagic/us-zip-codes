@@ -1,6 +1,8 @@
-zip_code = "70638"
-state = "LA"
 city = "Elizabeth"
 county = "Allen"
-longitude = -92.758262
 latitude = 30.818176
+longitude = -92.758262
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70638"
+

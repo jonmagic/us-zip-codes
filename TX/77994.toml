@@ -1,6 +1,8 @@
-zip_code = "77994"
-state = "TX"
 city = "Westhoff"
 county = "De Witt"
-longitude = -97.328361
 latitude = 29.102107
+longitude = -97.328361
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77994"
+

@@ -1,6 +1,8 @@
-zip_code = "89821"
-state = "NV"
 city = "Crescent Valley"
 county = "Eureka"
-longitude = -116.581275
 latitude = 40.413793
+longitude = -116.581275
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89821"
+

@@ -1,6 +1,8 @@
-zip_code = "36075"
-state = "AL"
 city = "Shorter"
 county = "Macon"
-longitude = -85.910123
 latitude = 32.383939
+longitude = -85.910123
+state = ""
+state_code_alpha2 = ""
+zip_code = "36075"
+

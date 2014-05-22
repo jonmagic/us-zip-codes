@@ -1,6 +1,8 @@
-zip_code = "63383"
-state = "MO"
 city = "Warrenton"
 county = "Warren"
-longitude = -91.2166
 latitude = 38.808454
+longitude = -91.2166
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63383"
+

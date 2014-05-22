@@ -1,6 +1,8 @@
-zip_code = "19946"
-state = "DE"
 city = "Frederica"
 county = "Kent"
-longitude = -75.48191
 latitude = 39.023141
+longitude = -75.48191
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19946"
+

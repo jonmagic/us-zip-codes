@@ -1,6 +1,8 @@
-zip_code = "89449"
-state = "NV"
 city = "Stateline"
 county = "Douglas"
-longitude = -119.732977
 latitude = 38.860647
+longitude = -119.732977
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89449"
+

@@ -1,6 +1,8 @@
-zip_code = "02171"
-state = "MA"
 city = "Quincy"
 county = "Norfolk"
-longitude = -71.014243
 latitude = 42.284898
+longitude = -71.014243
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02171"
+

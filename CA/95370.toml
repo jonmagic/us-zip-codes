@@ -1,6 +1,8 @@
-zip_code = "95370"
-state = "CA"
 city = "Sonora"
 county = "Tuolumne"
-longitude = -120.343863
 latitude = 37.96091
+longitude = -120.343863
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95370"
+

@@ -1,6 +1,8 @@
-zip_code = "38731"
-state = "MS"
 city = "Chatham"
 county = "Washington"
-longitude = -91.088255
 latitude = 33.085379
+longitude = -91.088255
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38731"
+

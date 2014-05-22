@@ -1,6 +1,8 @@
-zip_code = "41635"
-state = "KY"
 city = "Harold"
 county = "Floyd"
-longitude = -82.677387
 latitude = 37.580715
+longitude = -82.677387
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41635"
+

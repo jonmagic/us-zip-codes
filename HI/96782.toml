@@ -1,6 +1,8 @@
-zip_code = "96782"
-state = "HI"
 city = "Pearl City"
 county = "Honolulu"
-longitude = -157.994662
 latitude = 21.51195
+longitude = -157.994662
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96782"
+

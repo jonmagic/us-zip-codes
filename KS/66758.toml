@@ -1,6 +1,8 @@
-zip_code = "66758"
-state = "KS"
 city = "Neosho Falls"
 county = "Woodson"
-longitude = -95.622106
 latitude = 37.998206
+longitude = -95.622106
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66758"
+

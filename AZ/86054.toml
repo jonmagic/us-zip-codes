@@ -1,6 +1,8 @@
-zip_code = "86054"
-state = "AZ"
 city = "Shonto"
 county = "Navajo"
-longitude = -110.655526
 latitude = 36.593079
+longitude = -110.655526
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86054"
+

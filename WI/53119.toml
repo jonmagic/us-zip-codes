@@ -1,6 +1,8 @@
-zip_code = "53119"
-state = "WI"
 city = "Eagle"
 county = "Waukesha"
-longitude = -88.47489
 latitude = 42.929074
+longitude = -88.47489
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53119"
+

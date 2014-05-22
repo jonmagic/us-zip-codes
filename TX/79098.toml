@@ -1,6 +1,8 @@
-zip_code = "79098"
-state = "TX"
 city = "Wildorado"
 county = "Oldham"
-longitude = -102.200425
 latitude = 35.211942
+longitude = -102.200425
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79098"
+

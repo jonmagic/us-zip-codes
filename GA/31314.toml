@@ -1,6 +1,8 @@
-zip_code = "31314"
-state = "GA"
 city = "Fort Stewart"
 county = "Liberty"
-longitude = -81.437074
 latitude = 31.806832
+longitude = -81.437074
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31314"
+

@@ -1,6 +1,8 @@
-zip_code = "29687"
-state = "SC"
 city = "Taylors"
 county = "Greenville"
-longitude = -82.38156
 latitude = 34.970915
+longitude = -82.38156
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29687"
+

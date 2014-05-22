@@ -1,6 +1,8 @@
-zip_code = "65681"
-state = "MO"
 city = "Lampe"
 county = "Stone"
-longitude = -93.458626
 latitude = 36.747083
+longitude = -93.458626
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65681"
+

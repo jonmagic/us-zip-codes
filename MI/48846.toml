@@ -1,6 +1,8 @@
-zip_code = "48846"
-state = "MI"
 city = "Ionia"
 county = "Ionia"
-longitude = -85.090548
 latitude = 42.973427
+longitude = -85.090548
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48846"
+

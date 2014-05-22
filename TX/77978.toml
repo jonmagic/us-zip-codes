@@ -1,6 +1,8 @@
-zip_code = "77978"
-state = "TX"
 city = "Point Comfort"
 county = "Calhoun"
-longitude = -96.50072
 latitude = 28.681485
+longitude = -96.50072
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77978"
+

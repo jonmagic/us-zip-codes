@@ -1,6 +1,8 @@
-zip_code = "25652"
-state = "WV"
 city = "Whitman"
 county = "Logan"
-longitude = -82.046594
 latitude = 37.803545
+longitude = -82.046594
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25652"
+

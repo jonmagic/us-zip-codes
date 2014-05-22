@@ -1,6 +1,8 @@
-zip_code = "41719"
-state = "KY"
 city = "Bonnyman"
 county = "Perry"
-longitude = -83.309013
 latitude = 37.310308
+longitude = -83.309013
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41719"
+

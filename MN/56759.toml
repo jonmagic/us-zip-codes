@@ -1,6 +1,8 @@
-zip_code = "56759"
-state = "MN"
 city = "Strathcona"
 county = "Roseau"
-longitude = -96.062783
 latitude = 48.749138
+longitude = -96.062783
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56759"
+

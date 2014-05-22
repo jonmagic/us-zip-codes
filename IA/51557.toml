@@ -1,6 +1,8 @@
-zip_code = "51557"
-state = "IA"
 city = "Mondamin"
 county = "Harrison"
-longitude = -95.99577
 latitude = 41.739098
+longitude = -95.99577
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51557"
+

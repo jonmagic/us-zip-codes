@@ -1,6 +1,8 @@
-zip_code = "23015"
-state = "VA"
 city = "Beaverdam"
 county = "Hanover"
-longitude = -77.62341
 latitude = 37.914736
+longitude = -77.62341
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23015"
+

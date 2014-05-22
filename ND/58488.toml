@@ -1,6 +1,8 @@
-zip_code = "58488"
-state = "ND"
 city = "Tuttle"
 county = "Kidder"
-longitude = -99.970526
 latitude = 47.132159
+longitude = -99.970526
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58488"
+

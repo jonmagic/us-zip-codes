@@ -1,6 +1,8 @@
-zip_code = "24313"
-state = "VA"
 city = "Barren Springs"
 county = "Wythe"
-longitude = -80.789443
 latitude = 36.897395
+longitude = -80.789443
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24313"
+

@@ -1,6 +1,8 @@
-zip_code = "93004"
-state = "CA"
 city = "Ventura"
 county = "Ventura"
-longitude = -119.16509
 latitude = 34.278752
+longitude = -119.16509
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93004"
+

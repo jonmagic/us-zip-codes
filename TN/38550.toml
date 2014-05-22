@@ -1,6 +1,8 @@
-zip_code = "38550"
-state = "TN"
 city = "Campaign"
 county = "Warren"
-longitude = -85.619169
 latitude = 35.773417
+longitude = -85.619169
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38550"
+

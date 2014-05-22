@@ -1,6 +1,8 @@
-zip_code = "47990"
-state = "IN"
 city = "Waynetown"
 county = "Montgomery"
-longitude = -87.035366
 latitude = 40.055655
+longitude = -87.035366
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47990"
+

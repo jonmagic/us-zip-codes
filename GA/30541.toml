@@ -1,6 +1,8 @@
-zip_code = "30541"
-state = "GA"
 city = "Epworth"
 county = "Fannin"
-longitude = -84.436752
 latitude = 34.92873
+longitude = -84.436752
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30541"
+

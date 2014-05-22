@@ -1,6 +1,8 @@
-zip_code = "13441"
-state = "NY"
 city = "Rome"
 county = "Oneida"
-longitude = -75.511301
 latitude = 43.164312
+longitude = -75.511301
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13441"
+

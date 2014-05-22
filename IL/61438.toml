@@ -1,6 +1,8 @@
-zip_code = "61438"
-state = "IL"
 city = "Good Hope"
 county = "Mcdonough"
-longitude = -90.646976
 latitude = 40.57311
+longitude = -90.646976
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61438"
+

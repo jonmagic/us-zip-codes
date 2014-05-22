@@ -1,6 +1,8 @@
-zip_code = "63389"
-state = "MO"
 city = "Winfield"
 county = "Lincoln"
-longitude = -90.850945
 latitude = 39.058354
+longitude = -90.850945
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63389"
+

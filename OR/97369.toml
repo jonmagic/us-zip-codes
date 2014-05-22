@@ -1,6 +1,8 @@
-zip_code = "97369"
-state = "OR"
 city = "Otter Rock"
 county = "Lincoln"
-longitude = -124.06328
 latitude = 44.758819
+longitude = -124.06328
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97369"
+

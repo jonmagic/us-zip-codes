@@ -1,6 +1,8 @@
-zip_code = "53560"
-state = "WI"
 city = "Mazomanie"
 county = "Dane"
-longitude = -89.729261
 latitude = 43.190983
+longitude = -89.729261
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53560"
+

@@ -1,6 +1,8 @@
-zip_code = "66052"
-state = "KS"
 city = "Linwood"
 county = "Leavenworth"
-longitude = -95.056044
 latitude = 39.00755
+longitude = -95.056044
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66052"
+

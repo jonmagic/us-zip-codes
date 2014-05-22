@@ -1,6 +1,8 @@
-zip_code = "50623"
-state = "IA"
 city = "Dewar"
 county = "Black Hawk"
-longitude = -92.220701
 latitude = 42.525282
+longitude = -92.220701
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50623"
+

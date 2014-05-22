@@ -1,6 +1,8 @@
-zip_code = "65459"
-state = "MO"
 city = "Dixon"
 county = "Pulaski"
-longitude = -92.107438
 latitude = 37.928603
+longitude = -92.107438
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65459"
+

@@ -1,6 +1,8 @@
-zip_code = "65452"
-state = "MO"
 city = "Crocker"
 county = "Pulaski"
-longitude = -92.26771
 latitude = 37.944664
+longitude = -92.26771
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65452"
+

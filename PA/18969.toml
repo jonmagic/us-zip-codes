@@ -1,6 +1,8 @@
-zip_code = "18969"
-state = "PA"
 city = "Telford"
 county = "Montgomery"
-longitude = -75.380495
 latitude = 40.325792
+longitude = -75.380495
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18969"
+

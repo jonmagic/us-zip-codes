@@ -1,6 +1,8 @@
-zip_code = "18813"
-state = "PA"
 city = "Brooklyn"
 county = "Susquehanna"
-longitude = -75.80463
 latitude = 41.820346
+longitude = -75.80463
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18813"
+

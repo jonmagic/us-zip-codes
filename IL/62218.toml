@@ -1,6 +1,8 @@
-zip_code = "62218"
-state = "IL"
 city = "Bartelso"
 county = "Clinton"
-longitude = -89.462267
 latitude = 38.542321
+longitude = -89.462267
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62218"
+

@@ -1,6 +1,8 @@
-zip_code = "37724"
-state = "TN"
 city = "Cumberland Gap"
 county = "Claiborne"
-longitude = -83.690318
 latitude = 36.556666
+longitude = -83.690318
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37724"
+

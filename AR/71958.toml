@@ -1,6 +1,8 @@
-zip_code = "71958"
-state = "AR"
 city = "Murfreesboro"
 county = "Pike"
-longitude = -93.75435
 latitude = 34.050402
+longitude = -93.75435
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71958"
+

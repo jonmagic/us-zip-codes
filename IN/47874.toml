@@ -1,6 +1,8 @@
-zip_code = "47874"
-state = "IN"
 city = "Rosedale"
 county = "Parke"
-longitude = -87.320767
 latitude = 39.622405
+longitude = -87.320767
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47874"
+

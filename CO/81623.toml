@@ -1,6 +1,8 @@
-zip_code = "81623"
-state = "CO"
 city = "Carbondale"
 county = "Garfield"
-longitude = -107.38813
 latitude = 39.476857
+longitude = -107.38813
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81623"
+

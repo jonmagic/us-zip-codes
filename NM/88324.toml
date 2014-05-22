@@ -1,6 +1,8 @@
-zip_code = "88324"
-state = "NM"
 city = "Glencoe"
 county = "Lincoln"
-longitude = -105.629382
 latitude = 33.739651
+longitude = -105.629382
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88324"
+

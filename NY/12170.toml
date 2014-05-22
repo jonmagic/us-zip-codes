@@ -1,6 +1,8 @@
-zip_code = "12170"
-state = "NY"
 city = "Stillwater"
 county = "Saratoga"
-longitude = -73.660897
 latitude = 43.001932
+longitude = -73.660897
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12170"
+

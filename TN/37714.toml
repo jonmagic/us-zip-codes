@@ -1,6 +1,8 @@
-zip_code = "37714"
-state = "TN"
 city = "Caryville"
 county = "Campbell"
-longitude = -84.20298
 latitude = 36.302779
+longitude = -84.20298
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37714"
+

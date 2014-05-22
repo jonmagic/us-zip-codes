@@ -1,6 +1,8 @@
-zip_code = "22842"
-state = "VA"
 city = "Mount Jackson"
 county = "Shenandoah"
-longitude = -78.680304
 latitude = 38.785693
+longitude = -78.680304
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22842"
+

@@ -1,6 +1,8 @@
-zip_code = "00805"
-state = "VI"
 city = "St Thomas"
 county = "Saint Thomas"
-longitude = -64.963715
 latitude = 18.322285
+longitude = -64.963715
+state = "Virgin Island"
+state_code_alpha2 = "VI"
+zip_code = "00805"
+

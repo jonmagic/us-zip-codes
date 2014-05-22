@@ -1,6 +1,8 @@
-zip_code = "81069"
-state = "CO"
 city = "Rye"
 county = "Pueblo"
-longitude = -104.874843
 latitude = 37.936061
+longitude = -104.874843
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81069"
+

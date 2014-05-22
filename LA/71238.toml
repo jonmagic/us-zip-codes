@@ -1,6 +1,8 @@
-zip_code = "71238"
-state = "LA"
 city = "Eros"
 county = "Jackson"
-longitude = -92.459917
 latitude = 32.353757
+longitude = -92.459917
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71238"
+

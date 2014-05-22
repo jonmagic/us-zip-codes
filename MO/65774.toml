@@ -1,6 +1,8 @@
-zip_code = "65774"
-state = "MO"
 city = "Weaubleau"
 county = "Hickory"
-longitude = -93.540576
 latitude = 37.891711
+longitude = -93.540576
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65774"
+

@@ -1,6 +1,8 @@
-zip_code = "62286"
-state = "IL"
 city = "Sparta"
 county = "Randolph"
-longitude = -89.726486
 latitude = 38.108083
+longitude = -89.726486
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62286"
+

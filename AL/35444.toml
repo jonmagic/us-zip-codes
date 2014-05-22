@@ -1,6 +1,8 @@
-zip_code = "35444"
-state = "AL"
 city = "Brookwood"
 county = "Tuscaloosa"
-longitude = -87.277818
 latitude = 33.333139
+longitude = -87.277818
+state = ""
+state_code_alpha2 = ""
+zip_code = "35444"
+

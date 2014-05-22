@@ -1,6 +1,8 @@
-zip_code = "37745"
-state = "TN"
 city = "Greeneville"
 county = "Greene"
-longitude = -82.82378
 latitude = 36.245521
+longitude = -82.82378
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37745"
+

@@ -1,6 +1,8 @@
-zip_code = "49256"
-state = "MI"
 city = "Morenci"
 county = "Lenawee"
-longitude = -84.229012
 latitude = 41.84736
+longitude = -84.229012
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49256"
+

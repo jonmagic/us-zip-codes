@@ -1,6 +1,8 @@
-zip_code = "51005"
-state = "IA"
 city = "Aurelia"
 county = "Cherokee"
-longitude = -95.534693
 latitude = 42.719513
+longitude = -95.534693
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51005"
+

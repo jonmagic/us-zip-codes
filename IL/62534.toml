@@ -1,6 +1,8 @@
-zip_code = "62534"
-state = "IL"
 city = "Findlay"
 county = "Shelby"
-longitude = -88.746756
 latitude = 39.519283
+longitude = -88.746756
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62534"
+

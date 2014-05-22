@@ -1,6 +1,8 @@
-zip_code = "68409"
-state = "NE"
 city = "Murray"
 county = "Cass"
-longitude = -95.949383
 latitude = 40.90767
+longitude = -95.949383
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68409"
+

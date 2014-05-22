@@ -1,6 +1,8 @@
-zip_code = "45349"
-state = "OH"
 city = "North Hampton"
 county = "Clark"
-longitude = -83.938933
 latitude = 39.989309
+longitude = -83.938933
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45349"
+

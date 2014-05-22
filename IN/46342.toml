@@ -1,6 +1,8 @@
-zip_code = "46342"
-state = "IN"
 city = "Hobart"
 county = "Lake"
-longitude = -87.347486
 latitude = 41.520515
+longitude = -87.347486
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46342"
+

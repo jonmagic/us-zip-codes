@@ -1,6 +1,8 @@
-zip_code = "12534"
-state = "NY"
 city = "Hudson"
 county = "Columbia"
-longitude = -73.742997
 latitude = 42.184313
+longitude = -73.742997
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12534"
+

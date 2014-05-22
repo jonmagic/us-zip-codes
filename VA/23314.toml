@@ -1,6 +1,8 @@
-zip_code = "23314"
-state = "VA"
 city = "Carrollton"
 county = "Isle Of Wight"
-longitude = -76.542783
 latitude = 36.956505
+longitude = -76.542783
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23314"
+

@@ -1,6 +1,8 @@
-zip_code = "99158"
-state = "WA"
 city = "Oakesdale"
 county = "Whitman"
-longitude = -117.41146
 latitude = 47.079658
+longitude = -117.41146
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99158"
+

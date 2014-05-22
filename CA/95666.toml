@@ -1,6 +1,8 @@
-zip_code = "95666"
-state = "CA"
 city = "Pioneer"
 county = "Amador"
-longitude = -120.352661
 latitude = 38.556287
+longitude = -120.352661
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95666"
+

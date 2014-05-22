@@ -1,6 +1,8 @@
-zip_code = "84007"
-state = "UT"
 city = "Bluebell"
 county = "Duchesne"
-longitude = -110.229816
 latitude = 40.312539
+longitude = -110.229816
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84007"
+

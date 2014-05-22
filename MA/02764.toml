@@ -1,6 +1,8 @@
-zip_code = "02764"
-state = "MA"
 city = "North Dighton"
 county = "Bristol"
-longitude = -71.155797
 latitude = 41.847791
+longitude = -71.155797
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02764"
+

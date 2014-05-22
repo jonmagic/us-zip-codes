@@ -1,6 +1,8 @@
-zip_code = "92275"
-state = "CA"
 city = "Salton City"
 county = "Imperial"
-longitude = -115.957782
 latitude = 33.309217
+longitude = -115.957782
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92275"
+

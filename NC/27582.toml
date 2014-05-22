@@ -1,6 +1,8 @@
-zip_code = "27582"
-state = "NC"
 city = "Stovall"
 county = "Granville"
-longitude = -78.557098
 latitude = 36.442431
+longitude = -78.557098
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27582"
+

@@ -1,6 +1,8 @@
-zip_code = "01834"
-state = "MA"
 city = "Groveland"
 county = "Essex"
-longitude = -71.021437
 latitude = 42.751074
+longitude = -71.021437
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01834"
+

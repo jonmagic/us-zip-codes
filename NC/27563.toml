@@ -1,6 +1,8 @@
-zip_code = "27563"
-state = "NC"
 city = "Norlina"
 county = "Warren"
-longitude = -78.185544
 latitude = 36.449642
+longitude = -78.185544
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27563"
+

@@ -1,6 +1,8 @@
-zip_code = "74856"
-state = "OK"
 city = "Mill Creek"
 county = "Johnston"
-longitude = -96.670349
 latitude = 34.310191
+longitude = -96.670349
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74856"
+

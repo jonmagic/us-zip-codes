@@ -1,6 +1,8 @@
-zip_code = "44258"
-state = "OH"
 city = "Medina"
 county = "Medina"
-longitude = -81.841079
 latitude = 41.127594
+longitude = -81.841079
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44258"
+

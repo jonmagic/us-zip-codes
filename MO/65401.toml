@@ -1,6 +1,8 @@
-zip_code = "65401"
-state = "MO"
 city = "Rolla"
 county = "Phelps"
-longitude = -91.797641
 latitude = 37.898204
+longitude = -91.797641
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65401"
+

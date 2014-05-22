@@ -1,6 +1,8 @@
-zip_code = "65626"
-state = "MO"
 city = "Caulfield"
 county = "Howell"
-longitude = -92.051654
 latitude = 36.578961
+longitude = -92.051654
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65626"
+

@@ -1,6 +1,8 @@
-zip_code = "44203"
-state = "OH"
 city = "Barberton"
 county = "Summit"
-longitude = -81.621195
 latitude = 41.019655
+longitude = -81.621195
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44203"
+

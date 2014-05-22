@@ -1,6 +1,8 @@
-zip_code = "82515"
-state = "WY"
 city = "Hudson"
 county = "Fremont"
-longitude = -108.582745
 latitude = 42.900791
+longitude = -108.582745
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82515"
+

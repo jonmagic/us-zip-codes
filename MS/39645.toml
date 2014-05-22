@@ -1,6 +1,8 @@
-zip_code = "39645"
-state = "MS"
 city = "Liberty"
 county = "Amite"
-longitude = -90.803528
 latitude = 31.17427
+longitude = -90.803528
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39645"
+

@@ -1,6 +1,8 @@
-zip_code = "95613"
-state = "CA"
 city = "Coloma"
 county = "El Dorado"
-longitude = -120.895188
 latitude = 38.81419
+longitude = -120.895188
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95613"
+

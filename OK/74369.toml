@@ -1,6 +1,8 @@
-zip_code = "74369"
-state = "OK"
 city = "Welch"
 county = "Craig"
-longitude = -95.215685
 latitude = 36.885732
+longitude = -95.215685
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74369"
+

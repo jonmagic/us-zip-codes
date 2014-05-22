@@ -1,6 +1,8 @@
-zip_code = "34293"
-state = "FL"
 city = "Venice"
 county = "Sarasota"
-longitude = -82.352038
 latitude = 27.060576
+longitude = -82.352038
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34293"
+

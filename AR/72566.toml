@@ -1,6 +1,8 @@
-zip_code = "72566"
-state = "AR"
 city = "Pineville"
 county = "Izard"
-longitude = -92.112983
 latitude = 36.157991
+longitude = -92.112983
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72566"
+

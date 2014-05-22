@@ -1,6 +1,8 @@
-zip_code = "67513"
-state = "KS"
 city = "Alexander"
 county = "Rush"
-longitude = -99.553222
 latitude = 38.470116
+longitude = -99.553222
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67513"
+

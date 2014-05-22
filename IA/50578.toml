@@ -1,6 +1,8 @@
-zip_code = "50578"
-state = "IA"
 city = "Ringsted"
 county = "Emmet"
-longitude = -94.560669
 latitude = 43.31281
+longitude = -94.560669
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50578"
+

@@ -1,6 +1,8 @@
-zip_code = "78620"
-state = "TX"
 city = "Dripping Springs"
 county = "Hays"
-longitude = -98.044468
 latitude = 30.165463
+longitude = -98.044468
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78620"
+

@@ -1,6 +1,8 @@
-zip_code = "72863"
-state = "AR"
 city = "Scranton"
 county = "Logan"
-longitude = -93.53721
 latitude = 35.344745
+longitude = -93.53721
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72863"
+

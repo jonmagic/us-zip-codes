@@ -1,6 +1,8 @@
-zip_code = "58577"
-state = "ND"
 city = "Washburn"
 county = "Mclean"
-longitude = -101.095673
 latitude = 47.380715
+longitude = -101.095673
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58577"
+

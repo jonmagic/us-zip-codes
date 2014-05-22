@@ -1,6 +1,8 @@
-zip_code = "18465"
-state = "PA"
 city = "Thompson"
 county = "Susquehanna"
-longitude = -75.531898
 latitude = 41.84015
+longitude = -75.531898
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18465"
+

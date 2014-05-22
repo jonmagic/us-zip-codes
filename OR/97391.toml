@@ -1,6 +1,8 @@
-zip_code = "97391"
-state = "OR"
 city = "Toledo"
 county = "Lincoln"
-longitude = -123.932758
 latitude = 44.65719
+longitude = -123.932758
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97391"
+

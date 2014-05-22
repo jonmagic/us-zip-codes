@@ -1,6 +1,8 @@
-zip_code = "58052"
-state = "ND"
 city = "Leonard"
 county = "Cass"
-longitude = -97.294037
 latitude = 46.765575
+longitude = -97.294037
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58052"
+

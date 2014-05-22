@@ -1,6 +1,8 @@
-zip_code = "55011"
-state = "MN"
 city = "Cedar"
 county = "Anoka"
-longitude = -93.235026
 latitude = 45.341448
+longitude = -93.235026
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55011"
+

@@ -1,6 +1,8 @@
-zip_code = "28358"
-state = "NC"
 city = "Lumberton"
 county = "Robeson"
-longitude = -79.106224
 latitude = 34.631016
+longitude = -79.106224
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28358"
+

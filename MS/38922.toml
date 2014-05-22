@@ -1,6 +1,8 @@
-zip_code = "38922"
-state = "MS"
 city = "Coffeeville"
 county = "Yalobusha"
-longitude = -89.64824
 latitude = 33.961287
+longitude = -89.64824
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38922"
+

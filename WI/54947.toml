@@ -1,6 +1,8 @@
-zip_code = "54947"
-state = "WI"
 city = "Larsen"
 county = "Winnebago"
-longitude = -88.688629
 latitude = 44.194993
+longitude = -88.688629
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54947"
+

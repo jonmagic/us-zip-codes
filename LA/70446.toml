@@ -1,6 +1,8 @@
-zip_code = "70446"
-state = "LA"
 city = "Loranger"
 county = "Tangipahoa"
-longitude = -90.361759
 latitude = 30.635647
+longitude = -90.361759
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70446"
+

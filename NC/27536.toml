@@ -1,6 +1,8 @@
-zip_code = "27536"
-state = "NC"
 city = "Henderson"
 county = "Vance"
-longitude = -78.396213
 latitude = 36.38698
+longitude = -78.396213
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27536"
+

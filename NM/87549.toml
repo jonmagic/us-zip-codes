@@ -1,6 +1,8 @@
-zip_code = "87549"
-state = "NM"
 city = "Ojo Caliente"
 county = "Taos"
-longitude = -106.002778
 latitude = 36.331253
+longitude = -106.002778
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87549"
+

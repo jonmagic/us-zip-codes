@@ -1,6 +1,8 @@
-zip_code = "21843"
-state = "MD"
 city = "Ocean City"
 county = "Worcester"
-longitude = -75.324057
 latitude = 38.22309
+longitude = -75.324057
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21843"
+

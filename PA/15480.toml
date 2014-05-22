@@ -1,6 +1,8 @@
-zip_code = "15480"
-state = "PA"
 city = "Smock"
 county = "Fayette"
-longitude = -79.771265
 latitude = 39.988339
+longitude = -79.771265
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15480"
+

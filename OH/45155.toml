@@ -1,6 +1,8 @@
-zip_code = "45155"
-state = "OH"
 city = "Mowrystown"
 county = "Highland"
-longitude = -83.750522
 latitude = 39.038774
+longitude = -83.750522
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45155"
+

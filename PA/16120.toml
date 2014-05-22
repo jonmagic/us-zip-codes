@@ -1,6 +1,8 @@
-zip_code = "16120"
-state = "PA"
 city = "Enon Valley"
 county = "Lawrence"
-longitude = -80.468225
 latitude = 40.905222
+longitude = -80.468225
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16120"
+

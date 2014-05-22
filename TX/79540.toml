@@ -1,6 +1,8 @@
-zip_code = "79540"
-state = "TX"
 city = "Old Glory"
 county = "Stonewall"
-longitude = -100.254017
 latitude = 33.178927
+longitude = -100.254017
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79540"
+

@@ -1,6 +1,8 @@
-zip_code = "93440"
-state = "CA"
 city = "Los Alamos"
 county = "Santa Barbara"
-longitude = -120.204944
 latitude = 34.745715
+longitude = -120.204944
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93440"
+

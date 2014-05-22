@@ -1,6 +1,8 @@
-zip_code = "98250"
-state = "WA"
 city = "Friday Harbor"
 county = "San Juan"
-longitude = -123.068323
 latitude = 48.538181
+longitude = -123.068323
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98250"
+

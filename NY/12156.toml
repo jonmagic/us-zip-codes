@@ -1,6 +1,8 @@
-zip_code = "12156"
-state = "NY"
 city = "Schodack Landing"
 county = "Rensselaer"
-longitude = -73.723935
 latitude = 42.491469
+longitude = -73.723935
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12156"
+

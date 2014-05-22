@@ -1,6 +1,8 @@
-zip_code = "70509"
-state = "LA"
 city = "Lafayette"
 county = "Lafayette"
-longitude = -92.000019
 latitude = 30.156506
+longitude = -92.000019
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70509"
+

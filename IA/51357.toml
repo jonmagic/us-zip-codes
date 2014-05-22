@@ -1,6 +1,8 @@
-zip_code = "51357"
-state = "IA"
 city = "Royal"
 county = "Clay"
-longitude = -95.199867
 latitude = 43.043676
+longitude = -95.199867
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51357"
+

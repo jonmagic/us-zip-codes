@@ -1,6 +1,8 @@
-zip_code = "49404"
-state = "MI"
 city = "Coopersville"
 county = "Ottawa"
-longitude = -85.959758
 latitude = 43.062122
+longitude = -85.959758
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49404"
+

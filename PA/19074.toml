@@ -1,6 +1,8 @@
-zip_code = "19074"
-state = "PA"
 city = "Norwood"
 county = "Delaware"
-longitude = -75.29818
 latitude = 39.888412
+longitude = -75.29818
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19074"
+

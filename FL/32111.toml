@@ -1,6 +1,8 @@
-zip_code = "32111"
-state = "FL"
 city = "Candler"
 county = "Marion"
-longitude = -81.969048
 latitude = 29.060711
+longitude = -81.969048
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32111"
+

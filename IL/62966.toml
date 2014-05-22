@@ -1,6 +1,8 @@
-zip_code = "62966"
-state = "IL"
 city = "Murphysboro"
 county = "Jackson"
-longitude = -89.396839
 latitude = 37.782223
+longitude = -89.396839
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62966"
+

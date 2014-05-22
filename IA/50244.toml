@@ -1,6 +1,8 @@
-zip_code = "50244"
-state = "IA"
 city = "Slater"
 county = "Story"
-longitude = -93.664006
 latitude = 41.8925
+longitude = -93.664006
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50244"
+

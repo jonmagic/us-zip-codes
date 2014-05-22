@@ -1,6 +1,8 @@
-zip_code = "66940"
-state = "KS"
 city = "Cuba"
 county = "Republic"
-longitude = -97.458269
 latitude = 39.801787
+longitude = -97.458269
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66940"
+

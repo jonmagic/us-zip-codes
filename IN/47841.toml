@@ -1,6 +1,8 @@
-zip_code = "47841"
-state = "IN"
 city = "Clay City"
 county = "Clay"
-longitude = -87.136902
 latitude = 39.301664
+longitude = -87.136902
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47841"
+

@@ -1,6 +1,8 @@
-zip_code = "12738"
-state = "NY"
 city = "Glen Wild"
 county = "Sullivan"
-longitude = -74.568565
 latitude = 41.656753
+longitude = -74.568565
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12738"
+

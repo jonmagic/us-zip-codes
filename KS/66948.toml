@@ -1,6 +1,8 @@
-zip_code = "66948"
-state = "KS"
 city = "Jamestown"
 county = "Cloud"
-longitude = -97.86117
 latitude = 39.598963
+longitude = -97.86117
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66948"
+

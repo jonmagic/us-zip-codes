@@ -1,6 +1,8 @@
-zip_code = "12166"
-state = "NY"
 city = "Sprakers"
 county = "Montgomery"
-longitude = -74.446
 latitude = 42.842006
+longitude = -74.446
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12166"
+

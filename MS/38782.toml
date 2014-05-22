@@ -1,6 +1,8 @@
-zip_code = "38782"
-state = "MS"
 city = "Winterville"
 county = "Washington"
-longitude = -90.957291
 latitude = 33.269118
+longitude = -90.957291
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38782"
+

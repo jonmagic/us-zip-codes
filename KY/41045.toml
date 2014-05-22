@@ -1,6 +1,8 @@
-zip_code = "41045"
-state = "KY"
 city = "Ghent"
 county = "Carroll"
-longitude = -85.047073
 latitude = 38.715638
+longitude = -85.047073
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41045"
+

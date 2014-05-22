@@ -1,6 +1,8 @@
-zip_code = "60549"
-state = "IL"
 city = "Serena"
 county = "La Salle"
-longitude = -88.752495
 latitude = 41.48974
+longitude = -88.752495
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60549"
+

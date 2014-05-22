@@ -1,6 +1,8 @@
-zip_code = "81136"
-state = "CO"
 city = "Hooper"
 county = "Alamosa"
-longitude = -105.873616
 latitude = 37.699184
+longitude = -105.873616
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81136"
+

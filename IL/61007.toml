@@ -1,6 +1,8 @@
-zip_code = "61007"
-state = "IL"
 city = "Baileyville"
 county = "Ogle"
-longitude = -89.595377
 latitude = 42.178584
+longitude = -89.595377
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61007"
+

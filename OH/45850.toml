@@ -1,6 +1,8 @@
-zip_code = "45850"
-state = "OH"
 city = "Harrod"
 county = "Allen"
-longitude = -83.941613
 latitude = 40.739067
+longitude = -83.941613
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45850"
+

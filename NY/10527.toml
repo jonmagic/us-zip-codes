@@ -1,6 +1,8 @@
-zip_code = "10527"
-state = "NY"
 city = "Granite Springs"
 county = "Westchester"
-longitude = -73.757911
 latitude = 41.323246
+longitude = -73.757911
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10527"
+

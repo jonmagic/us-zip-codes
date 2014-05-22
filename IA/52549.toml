@@ -1,6 +1,8 @@
-zip_code = "52549"
-state = "IA"
 city = "Cincinnati"
 county = "Appanoose"
-longitude = -92.953118
 latitude = 40.626921
+longitude = -92.953118
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52549"
+

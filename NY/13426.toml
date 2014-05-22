@@ -1,6 +1,8 @@
-zip_code = "13426"
-state = "NY"
 city = "Orwell"
 county = "Oswego"
-longitude = -75.996773
 latitude = 43.562757
+longitude = -75.996773
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13426"
+

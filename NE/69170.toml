@@ -1,6 +1,8 @@
-zip_code = "69170"
-state = "NE"
 city = "Wellfleet"
 county = "Lincoln"
-longitude = -100.760429
 latitude = 40.762172
+longitude = -100.760429
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69170"
+

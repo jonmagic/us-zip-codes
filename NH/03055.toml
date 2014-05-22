@@ -1,6 +1,8 @@
-zip_code = "03055"
-state = "NH"
 city = "Milford"
 county = "Hillsborough"
-longitude = -71.743882
 latitude = 42.848787
+longitude = -71.743882
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03055"
+

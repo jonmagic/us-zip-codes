@@ -1,6 +1,8 @@
-zip_code = "98374"
-state = "WA"
 city = "Puyallup"
 county = "Pierce"
-longitude = -122.258646
 latitude = 47.139095
+longitude = -122.258646
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98374"
+

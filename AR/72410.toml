@@ -1,6 +1,8 @@
-zip_code = "72410"
-state = "AR"
 city = "Alicia"
 county = "Lawrence"
-longitude = -91.030074
 latitude = 35.952057
+longitude = -91.030074
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72410"
+

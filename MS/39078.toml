@@ -1,6 +1,8 @@
-zip_code = "39078"
-state = "MS"
 city = "Georgetown"
 county = "Copiah"
-longitude = -90.206289
 latitude = 31.87408
+longitude = -90.206289
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39078"
+

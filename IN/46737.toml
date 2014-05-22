@@ -1,6 +1,8 @@
-zip_code = "46737"
-state = "IN"
 city = "Fremont"
 county = "Steuben"
-longitude = -84.945643
 latitude = 41.711462
+longitude = -84.945643
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46737"
+

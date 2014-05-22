@@ -1,6 +1,8 @@
-zip_code = "33050"
-state = "FL"
 city = "Marathon"
 county = "Monroe"
-longitude = -81.294685
 latitude = 24.687724
+longitude = -81.294685
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33050"
+

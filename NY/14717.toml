@@ -1,6 +1,8 @@
-zip_code = "14717"
-state = "NY"
 city = "Caneadea"
 county = "Allegany"
-longitude = -78.174601
 latitude = 42.257674
+longitude = -78.174601
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14717"
+

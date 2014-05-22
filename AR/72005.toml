@@ -1,6 +1,8 @@
-zip_code = "72005"
-state = "AR"
 city = "Amagon"
 county = "Jackson"
-longitude = -91.081687
 latitude = 35.502463
+longitude = -91.081687
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72005"
+

@@ -1,6 +1,8 @@
-zip_code = "59218"
-state = "MT"
 city = "Culbertson"
 county = "Roosevelt"
-longitude = -104.517106
 latitude = 48.150238
+longitude = -104.517106
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59218"
+

@@ -1,6 +1,8 @@
-zip_code = "36568"
-state = "AL"
 city = "Saint Elmo"
 county = "Mobile"
-longitude = -88.269865
 latitude = 30.49434
+longitude = -88.269865
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36568"
+

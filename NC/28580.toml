@@ -1,6 +1,8 @@
-zip_code = "28580"
-state = "NC"
 city = "Snow Hill"
 county = "Greene"
-longitude = -77.701329
 latitude = 35.428349
+longitude = -77.701329
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28580"
+

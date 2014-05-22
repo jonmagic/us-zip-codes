@@ -1,6 +1,8 @@
-zip_code = "97877"
-state = "OR"
 city = "Sumpter"
 county = "Baker"
-longitude = -118.181033
 latitude = 44.72563
+longitude = -118.181033
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97877"
+

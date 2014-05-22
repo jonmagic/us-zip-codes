@@ -1,6 +1,8 @@
-zip_code = "67480"
-state = "KS"
 city = "Solomon"
 county = "Dickinson"
-longitude = -97.339456
 latitude = 38.910885
+longitude = -97.339456
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67480"
+

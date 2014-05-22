@@ -1,6 +1,8 @@
-zip_code = "78572"
-state = "TX"
 city = "Mission"
 county = "Hidalgo"
-longitude = -98.192732
 latitude = 26.229639
+longitude = -98.192732
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78572"
+

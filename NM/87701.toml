@@ -1,6 +1,8 @@
-zip_code = "87701"
-state = "NM"
 city = "Las Vegas"
 county = "San Miguel"
-longitude = -104.985643
 latitude = 35.551539
+longitude = -104.985643
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87701"
+

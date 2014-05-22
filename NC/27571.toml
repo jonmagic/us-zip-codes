@@ -1,6 +1,8 @@
-zip_code = "27571"
-state = "NC"
 city = "Rolesville"
 county = "Wake"
-longitude = -78.45482
 latitude = 35.906468
+longitude = -78.45482
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27571"
+

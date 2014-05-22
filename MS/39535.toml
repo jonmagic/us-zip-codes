@@ -1,6 +1,8 @@
-zip_code = "39535"
-state = "MS"
 city = "Biloxi"
 county = "Harrison"
-longitude = -89.068448
 latitude = 30.415795
+longitude = -89.068448
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39535"
+

@@ -1,6 +1,8 @@
-zip_code = "70438"
-state = "LA"
 city = "Franklinton"
 county = "Washington"
-longitude = -90.120807
 latitude = 30.840587
+longitude = -90.120807
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70438"
+

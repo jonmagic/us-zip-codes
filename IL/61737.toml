@@ -1,6 +1,8 @@
-zip_code = "61737"
-state = "IL"
 city = "Ellsworth"
 county = "Mclean"
-longitude = -88.717168
 latitude = 40.44998
+longitude = -88.717168
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61737"
+

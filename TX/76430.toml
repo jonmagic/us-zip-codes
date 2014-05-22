@@ -1,6 +1,8 @@
-zip_code = "76430"
-state = "TX"
 city = "Albany"
 county = "Shackelford"
-longitude = -99.210207
 latitude = 32.768222
+longitude = -99.210207
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76430"
+

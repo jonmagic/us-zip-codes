@@ -1,6 +1,8 @@
-zip_code = "99101"
-state = "WA"
 city = "Addy"
 county = "Stevens"
-longitude = -117.957926
 latitude = 48.336378
+longitude = -117.957926
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99101"
+

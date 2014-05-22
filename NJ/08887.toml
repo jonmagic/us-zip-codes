@@ -1,6 +1,8 @@
-zip_code = "08887"
-state = "NJ"
 city = "Three Bridges"
 county = "Hunterdon"
-longitude = -74.794632
 latitude = 40.52057
+longitude = -74.794632
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08887"
+

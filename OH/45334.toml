@@ -1,6 +1,8 @@
-zip_code = "45334"
-state = "OH"
 city = "Jackson Center"
 county = "Shelby"
-longitude = -84.058495
 latitude = 40.434921
+longitude = -84.058495
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45334"
+

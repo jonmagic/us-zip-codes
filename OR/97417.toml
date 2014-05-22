@@ -1,6 +1,8 @@
-zip_code = "97417"
-state = "OR"
 city = "Canyonville"
 county = "Douglas"
-longitude = -123.258975
 latitude = 42.95096
+longitude = -123.258975
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97417"
+

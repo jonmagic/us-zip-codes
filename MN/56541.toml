@@ -1,6 +1,8 @@
-zip_code = "56541"
-state = "MN"
 city = "Flom"
 county = "Norman"
-longitude = -96.469194
 latitude = 47.325074
+longitude = -96.469194
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56541"
+

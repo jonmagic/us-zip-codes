@@ -1,6 +1,8 @@
-zip_code = "07046"
-state = "NJ"
 city = "Mountain Lakes"
 county = "Morris"
-longitude = -74.440898
 latitude = 40.890502
+longitude = -74.440898
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07046"
+

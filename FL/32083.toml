@@ -1,6 +1,8 @@
-zip_code = "32083"
-state = "FL"
 city = "Raiford"
 county = "Union"
-longitude = -82.213361
 latitude = 30.054956
+longitude = -82.213361
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32083"
+

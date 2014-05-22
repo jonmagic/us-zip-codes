@@ -1,6 +1,8 @@
-zip_code = "07090"
-state = "NJ"
 city = "Westfield"
 county = "Union"
-longitude = -74.346764
 latitude = 40.652851
+longitude = -74.346764
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07090"
+

@@ -1,6 +1,8 @@
-zip_code = "82063"
-state = "WY"
 city = "Jelm"
 county = "Albany"
-longitude = -106.076251
 latitude = 41.053927
+longitude = -106.076251
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82063"
+

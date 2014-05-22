@@ -1,6 +1,8 @@
-zip_code = "46129"
-state = "IN"
 city = "Finly"
 county = "Hancock"
-longitude = -85.765169
 latitude = 39.821516
+longitude = -85.765169
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46129"
+

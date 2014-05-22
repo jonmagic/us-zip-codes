@@ -1,6 +1,8 @@
-zip_code = "54005"
-state = "WI"
 city = "Clear Lake"
 county = "Polk"
-longitude = -92.429816
 latitude = 45.282945
+longitude = -92.429816
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54005"
+

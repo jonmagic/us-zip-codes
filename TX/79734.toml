@@ -1,6 +1,8 @@
-zip_code = "79734"
-state = "TX"
 city = "Fort Davis"
 county = "Jeff Davis"
-longitude = -104.209994
 latitude = 30.758682
+longitude = -104.209994
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79734"
+

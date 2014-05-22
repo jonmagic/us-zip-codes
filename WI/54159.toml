@@ -1,6 +1,8 @@
-zip_code = "54159"
-state = "WI"
 city = "Porterfield"
 county = "Marinette"
-longitude = -87.8274
 latitude = 45.205901
+longitude = -87.8274
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54159"
+

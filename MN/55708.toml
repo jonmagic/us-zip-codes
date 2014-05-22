@@ -1,6 +1,8 @@
-zip_code = "55708"
-state = "MN"
 city = "Biwabik"
 county = "Saint Louis"
-longitude = -92.340774
 latitude = 47.532826
+longitude = -92.340774
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55708"
+

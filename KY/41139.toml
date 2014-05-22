@@ -1,6 +1,8 @@
-zip_code = "41139"
-state = "KY"
 city = "Flatwoods"
 county = "Greenup"
-longitude = -82.728176
 latitude = 38.50316
+longitude = -82.728176
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41139"
+

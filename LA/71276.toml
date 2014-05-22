@@ -1,6 +1,8 @@
-zip_code = "71276"
-state = "LA"
 city = "Sondheimer"
 county = "East Carroll"
-longitude = -91.230175
 latitude = 32.771315
+longitude = -91.230175
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71276"
+

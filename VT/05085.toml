@@ -1,6 +1,8 @@
-zip_code = "05085"
-state = "VT"
 city = "West Newbury"
 county = "Orange"
-longitude = -72.411393
 latitude = 43.995961
+longitude = -72.411393
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05085"
+

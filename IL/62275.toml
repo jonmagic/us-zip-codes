@@ -1,6 +1,8 @@
-zip_code = "62275"
-state = "IL"
 city = "Pocahontas"
 county = "Bond"
-longitude = -89.525591
 latitude = 38.822283
+longitude = -89.525591
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62275"
+

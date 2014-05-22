@@ -1,6 +1,8 @@
-zip_code = "59721"
-state = "MT"
 city = "Cardwell"
 county = "Jefferson"
-longitude = -111.889682
 latitude = 45.870517
+longitude = -111.889682
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59721"
+

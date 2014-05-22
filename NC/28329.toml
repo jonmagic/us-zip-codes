@@ -1,6 +1,8 @@
-zip_code = "28329"
-state = "NC"
 city = "Clinton"
 county = "Sampson"
-longitude = -78.277669
 latitude = 34.994005
+longitude = -78.277669
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28329"
+

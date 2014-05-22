@@ -1,6 +1,8 @@
-zip_code = "54662"
-state = "WI"
 city = "Tunnel City"
 county = "Monroe"
-longitude = -90.562005
 latitude = 44.003084
+longitude = -90.562005
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54662"
+

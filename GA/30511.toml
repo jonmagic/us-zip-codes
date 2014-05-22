@@ -1,6 +1,8 @@
-zip_code = "30511"
-state = "GA"
 city = "Baldwin"
 county = "Banks"
-longitude = -83.473886
 latitude = 34.393713
+longitude = -83.473886
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30511"
+

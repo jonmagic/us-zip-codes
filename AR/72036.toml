@@ -1,6 +1,8 @@
-zip_code = "72036"
-state = "AR"
 city = "Cotton Plant"
 county = "Woodruff"
-longitude = -91.252284
 latitude = 35.004397
+longitude = -91.252284
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72036"
+

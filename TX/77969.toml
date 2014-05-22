@@ -1,6 +1,8 @@
-zip_code = "77969"
-state = "TX"
 city = "La Salle"
 county = "Jackson"
-longitude = -96.681608
 latitude = 28.851185
+longitude = -96.681608
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77969"
+

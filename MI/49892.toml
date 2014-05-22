@@ -1,6 +1,8 @@
-zip_code = "49892"
-state = "MI"
 city = "Vulcan"
 county = "Dickinson"
-longitude = -87.807258
 latitude = 45.830389
+longitude = -87.807258
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49892"
+

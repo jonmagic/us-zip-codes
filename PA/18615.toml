@@ -1,6 +1,8 @@
-zip_code = "18615"
-state = "PA"
 city = "Falls"
 county = "Wyoming"
-longitude = -75.855544
 latitude = 41.447109
+longitude = -75.855544
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18615"
+

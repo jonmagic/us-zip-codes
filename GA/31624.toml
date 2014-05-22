@@ -1,6 +1,8 @@
-zip_code = "31624"
-state = "GA"
 city = "Axson"
 county = "Atkinson"
-longitude = -82.847997
 latitude = 31.303159
+longitude = -82.847997
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31624"
+

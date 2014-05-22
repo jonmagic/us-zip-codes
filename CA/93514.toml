@@ -1,6 +1,8 @@
-zip_code = "93514"
-state = "CA"
 city = "Bishop"
 county = "Inyo"
-longitude = -118.334393
 latitude = 37.026022
+longitude = -118.334393
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93514"
+

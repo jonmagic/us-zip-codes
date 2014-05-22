@@ -1,6 +1,8 @@
-zip_code = "72080"
-state = "AR"
 city = "Jerusalem"
 county = "Conway"
-longitude = -92.819567
 latitude = 35.427817
+longitude = -92.819567
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72080"
+

@@ -1,6 +1,8 @@
-zip_code = "97390"
-state = "OR"
 city = "Tidewater"
 county = "Lincoln"
-longitude = -123.891668
 latitude = 44.36178
+longitude = -123.891668
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97390"
+

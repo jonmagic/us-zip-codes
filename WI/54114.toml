@@ -1,6 +1,8 @@
-zip_code = "54114"
-state = "WI"
 city = "Crivitz"
 county = "Marinette"
-longitude = -88.078001
 latitude = 45.261661
+longitude = -88.078001
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54114"
+

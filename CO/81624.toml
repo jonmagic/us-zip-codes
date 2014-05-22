@@ -1,6 +1,8 @@
-zip_code = "81624"
-state = "CO"
 city = "Collbran"
 county = "Mesa"
-longitude = -107.929135
 latitude = 39.205633
+longitude = -107.929135
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81624"
+

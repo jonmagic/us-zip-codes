@@ -1,6 +1,8 @@
-zip_code = "58068"
-state = "ND"
 city = "Sheldon"
 county = "Ransom"
-longitude = -97.416257
 latitude = 46.521481
+longitude = -97.416257
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58068"
+

@@ -1,6 +1,8 @@
-zip_code = "58783"
-state = "ND"
 city = "Souris"
 county = "Bottineau"
-longitude = -100.735863
 latitude = 48.87384
+longitude = -100.735863
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58783"
+

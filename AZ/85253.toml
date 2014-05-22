@@ -1,6 +1,8 @@
-zip_code = "85253"
-state = "AZ"
 city = "Paradise Valley"
 county = "Maricopa"
-longitude = -111.963149
 latitude = 33.360896
+longitude = -111.963149
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85253"
+

@@ -1,6 +1,8 @@
-zip_code = "38950"
-state = "MS"
 city = "Philipp"
 county = "Tallahatchie"
-longitude = -90.237053
 latitude = 33.733437
+longitude = -90.237053
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38950"
+

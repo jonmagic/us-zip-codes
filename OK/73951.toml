@@ -1,6 +1,8 @@
-zip_code = "73951"
-state = "OK"
 city = "Tyrone"
 county = "Texas"
-longitude = -101.073973
 latitude = 36.971874
+longitude = -101.073973
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73951"
+

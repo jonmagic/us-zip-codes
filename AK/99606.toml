@@ -1,6 +1,8 @@
-zip_code = "99606"
-state = "AK"
 city = "Iliamna"
 county = "Lake And Peninsula"
-longitude = -154.823629
 latitude = 59.752463
+longitude = -154.823629
+state = ""
+state_code_alpha2 = ""
+zip_code = "99606"
+

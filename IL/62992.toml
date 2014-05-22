@@ -1,6 +1,8 @@
-zip_code = "62992"
-state = "IL"
 city = "Ullin"
 county = "Pulaski"
-longitude = -89.13646
 latitude = 37.28344
+longitude = -89.13646
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62992"
+

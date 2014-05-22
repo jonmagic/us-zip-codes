@@ -1,6 +1,8 @@
-zip_code = "12754"
-state = "NY"
 city = "Liberty"
 county = "Sullivan"
-longitude = -74.66934
 latitude = 41.71994
+longitude = -74.66934
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12754"
+

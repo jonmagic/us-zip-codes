@@ -1,6 +1,8 @@
-zip_code = "55396"
-state = "MN"
 city = "Winthrop"
 county = "Sibley"
-longitude = -94.347525
 latitude = 44.550833
+longitude = -94.347525
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55396"
+

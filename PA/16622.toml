@@ -1,6 +1,8 @@
-zip_code = "16622"
-state = "PA"
 city = "Calvin"
 county = "Huntingdon"
-longitude = -77.966977
 latitude = 40.402523
+longitude = -77.966977
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16622"
+

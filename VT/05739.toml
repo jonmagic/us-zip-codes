@@ -1,6 +1,8 @@
-zip_code = "05739"
-state = "VT"
 city = "Danby"
 county = "Rutland"
-longitude = -73.027985
 latitude = 43.34792
+longitude = -73.027985
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05739"
+

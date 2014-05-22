@@ -1,6 +1,8 @@
-zip_code = "77357"
-state = "TX"
 city = "New Caney"
 county = "Montgomery"
-longitude = -95.436337
 latitude = 30.27931
+longitude = -95.436337
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77357"
+

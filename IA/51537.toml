@@ -1,6 +1,8 @@
-zip_code = "51537"
-state = "IA"
 city = "Harlan"
 county = "Shelby"
-longitude = -95.29087
 latitude = 41.667566
+longitude = -95.29087
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51537"
+

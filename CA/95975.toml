@@ -1,6 +1,8 @@
-zip_code = "95975"
-state = "CA"
 city = "Rough And Ready"
 county = "Nevada"
-longitude = -121.148643
 latitude = 39.225477
+longitude = -121.148643
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95975"
+

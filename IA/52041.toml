@@ -1,6 +1,8 @@
-zip_code = "52041"
-state = "IA"
 city = "Earlville"
 county = "Delaware"
-longitude = -91.299742
 latitude = 42.519834
+longitude = -91.299742
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52041"
+

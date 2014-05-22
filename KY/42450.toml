@@ -1,6 +1,8 @@
-zip_code = "42450"
-state = "KY"
 city = "Providence"
 county = "Webster"
-longitude = -87.734014
 latitude = 37.484437
+longitude = -87.734014
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42450"
+

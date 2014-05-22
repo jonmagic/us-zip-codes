@@ -1,6 +1,8 @@
-zip_code = "65629"
-state = "MO"
 city = "Chadwick"
 county = "Christian"
-longitude = -93.040981
 latitude = 36.885838
+longitude = -93.040981
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65629"
+

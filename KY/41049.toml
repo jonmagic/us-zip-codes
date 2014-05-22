@@ -1,6 +1,8 @@
-zip_code = "41049"
-state = "KY"
 city = "Hillsboro"
 county = "Fleming"
-longitude = -83.584351
 latitude = 38.237176
+longitude = -83.584351
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41049"
+

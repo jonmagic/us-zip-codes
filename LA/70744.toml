@@ -1,6 +1,8 @@
-zip_code = "70744"
-state = "LA"
 city = "Holden"
 county = "Livingston"
-longitude = -90.696724
 latitude = 30.507099
+longitude = -90.696724
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70744"
+

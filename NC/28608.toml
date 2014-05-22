@@ -1,6 +1,8 @@
-zip_code = "28608"
-state = "NC"
 city = "Boone"
 county = "Watauga"
-longitude = -81.713416
 latitude = 36.221334
+longitude = -81.713416
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28608"
+

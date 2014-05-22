@@ -1,6 +1,8 @@
-zip_code = "54968"
-state = "WI"
 city = "Princeton"
 county = "Green Lake"
-longitude = -89.122651
 latitude = 43.832741
+longitude = -89.122651
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54968"
+

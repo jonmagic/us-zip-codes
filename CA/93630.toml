@@ -1,6 +1,8 @@
-zip_code = "93630"
-state = "CA"
 city = "Kerman"
 county = "Fresno"
-longitude = -120.219522
 latitude = 36.676147
+longitude = -120.219522
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93630"
+

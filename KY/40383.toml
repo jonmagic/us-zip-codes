@@ -1,6 +1,8 @@
-zip_code = "40383"
-state = "KY"
 city = "Versailles"
 county = "Woodford"
-longitude = -84.737666
 latitude = 37.998762
+longitude = -84.737666
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40383"
+

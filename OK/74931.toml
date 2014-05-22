@@ -1,6 +1,8 @@
-zip_code = "74931"
-state = "OK"
 city = "Bunch"
 county = "Adair"
-longitude = -94.640218
 latitude = 35.900019
+longitude = -94.640218
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74931"
+

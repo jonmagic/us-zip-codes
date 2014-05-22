@@ -1,6 +1,8 @@
-zip_code = "37826"
-state = "TN"
 city = "Niota"
 county = "Mcminn"
-longitude = -84.582782
 latitude = 35.542073
+longitude = -84.582782
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37826"
+

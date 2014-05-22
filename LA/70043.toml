@@ -1,6 +1,8 @@
-zip_code = "70043"
-state = "LA"
 city = "Chalmette"
 county = "Saint Bernard"
-longitude = -89.954906
 latitude = 29.947746
+longitude = -89.954906
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70043"
+

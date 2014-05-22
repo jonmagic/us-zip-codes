@@ -1,6 +1,8 @@
-zip_code = "70734"
-state = "LA"
 city = "Geismar"
 county = "Ascension"
-longitude = -90.992636
 latitude = 30.205118
+longitude = -90.992636
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70734"
+

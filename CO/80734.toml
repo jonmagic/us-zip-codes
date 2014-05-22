@@ -1,6 +1,8 @@
-zip_code = "80734"
-state = "CO"
 city = "Holyoke"
 county = "Phillips"
-longitude = -102.272326
 latitude = 40.587166
+longitude = -102.272326
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80734"
+

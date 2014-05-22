@@ -1,6 +1,8 @@
-zip_code = "73729"
-state = "OK"
 city = "Cleo Springs"
 county = "Major"
-longitude = -98.453278
 latitude = 36.4053
+longitude = -98.453278
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73729"
+

@@ -1,6 +1,8 @@
-zip_code = "66955"
-state = "KS"
 city = "Mahaska"
 county = "Washington"
-longitude = -97.22614
 latitude = 39.841669
+longitude = -97.22614
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66955"
+

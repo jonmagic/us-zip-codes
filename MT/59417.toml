@@ -1,6 +1,8 @@
-zip_code = "59417"
-state = "MT"
 city = "Browning"
 county = "Glacier"
-longitude = -112.793626
 latitude = 48.649105
+longitude = -112.793626
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59417"
+

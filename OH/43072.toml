@@ -1,6 +1,8 @@
-zip_code = "43072"
-state = "OH"
 city = "Saint Paris"
 county = "Champaign"
-longitude = -83.947262
 latitude = 40.121683
+longitude = -83.947262
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43072"
+

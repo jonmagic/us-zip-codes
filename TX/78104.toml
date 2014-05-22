@@ -1,6 +1,8 @@
-zip_code = "78104"
-state = "TX"
 city = "Beeville"
 county = "Bee"
-longitude = -97.776017
 latitude = 28.393116
+longitude = -97.776017
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78104"
+

@@ -1,6 +1,8 @@
-zip_code = "51052"
-state = "IA"
 city = "Salix"
 county = "Woodbury"
-longitude = -96.11349
 latitude = 42.399824
+longitude = -96.11349
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51052"
+

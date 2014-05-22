@@ -1,6 +1,8 @@
-zip_code = "76862"
-state = "TX"
 city = "Millersview"
 county = "Concho"
-longitude = -99.710871
 latitude = 31.535046
+longitude = -99.710871
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76862"
+

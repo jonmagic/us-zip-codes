@@ -1,6 +1,8 @@
-zip_code = "61734"
-state = "IL"
 city = "Delavan"
 county = "Tazewell"
-longitude = -89.600252
 latitude = 40.424081
+longitude = -89.600252
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61734"
+

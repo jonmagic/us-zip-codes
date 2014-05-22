@@ -1,6 +1,8 @@
-zip_code = "67446"
-state = "KS"
 city = "Glen Elder"
 county = "Mitchell"
-longitude = -98.302257
 latitude = 39.501034
+longitude = -98.302257
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67446"
+

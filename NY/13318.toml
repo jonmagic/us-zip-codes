@@ -1,6 +1,8 @@
-zip_code = "13318"
-state = "NY"
 city = "Cassville"
 county = "Oneida"
-longitude = -75.255163
 latitude = 42.921786
+longitude = -75.255163
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13318"
+

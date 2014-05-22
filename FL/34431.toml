@@ -1,6 +1,8 @@
-zip_code = "34431"
-state = "FL"
 city = "Dunnellon"
 county = "Marion"
-longitude = -82.249223
 latitude = 29.09481
+longitude = -82.249223
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34431"
+

@@ -1,6 +1,8 @@
-zip_code = "04568"
-state = "ME"
 city = "South Bristol"
 county = "Lincoln"
-longitude = -69.612725
 latitude = 43.877877
+longitude = -69.612725
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04568"
+

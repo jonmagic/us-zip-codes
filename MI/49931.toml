@@ -1,6 +1,8 @@
-zip_code = "49931"
-state = "MI"
 city = "Houghton"
 county = "Houghton"
-longitude = -88.548157
 latitude = 47.105336
+longitude = -88.548157
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49931"
+

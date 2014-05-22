@@ -1,6 +1,8 @@
-zip_code = "15745"
-state = "PA"
 city = "Heilwood"
 county = "Indiana"
-longitude = -78.918561
 latitude = 40.620736
+longitude = -78.918561
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15745"
+

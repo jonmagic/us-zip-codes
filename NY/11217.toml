@@ -1,6 +1,8 @@
-zip_code = "11217"
-state = "NY"
 city = "Brooklyn"
 county = "Kings"
-longitude = -73.980613
 latitude = 40.684948
+longitude = -73.980613
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11217"
+

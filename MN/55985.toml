@@ -1,6 +1,8 @@
-zip_code = "55985"
-state = "MN"
 city = "West Concord"
 county = "Dodge"
-longitude = -92.903452
 latitude = 44.148244
+longitude = -92.903452
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55985"
+

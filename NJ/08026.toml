@@ -1,6 +1,8 @@
-zip_code = "08026"
-state = "NJ"
 city = "Gibbsboro"
 county = "Camden"
-longitude = -74.967496
 latitude = 39.833114
+longitude = -74.967496
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08026"
+

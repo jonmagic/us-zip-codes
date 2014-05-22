@@ -1,6 +1,8 @@
-zip_code = "82923"
-state = "WY"
 city = "Boulder"
 county = "Sublette"
-longitude = -109.582132
 latitude = 42.723092
+longitude = -109.582132
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82923"
+

@@ -1,6 +1,8 @@
-zip_code = "55910"
-state = "MN"
 city = "Altura"
 county = "Winona"
-longitude = -91.946134
 latitude = 44.085616
+longitude = -91.946134
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55910"
+

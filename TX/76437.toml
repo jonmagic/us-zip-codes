@@ -1,6 +1,8 @@
-zip_code = "76437"
-state = "TX"
 city = "Cisco"
 county = "Eastland"
-longitude = -98.973319
 latitude = 32.286476
+longitude = -98.973319
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76437"
+

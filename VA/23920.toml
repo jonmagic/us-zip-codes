@@ -1,6 +1,8 @@
-zip_code = "23920"
-state = "VA"
 city = "Brodnax"
 county = "Brunswick"
-longitude = -77.935481
 latitude = 36.697808
+longitude = -77.935481
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23920"
+

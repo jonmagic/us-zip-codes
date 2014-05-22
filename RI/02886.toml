@@ -1,6 +1,8 @@
-zip_code = "02886"
-state = "RI"
 city = "Warwick"
 county = "Kent"
-longitude = -71.47902
 latitude = 41.70247
+longitude = -71.47902
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02886"
+

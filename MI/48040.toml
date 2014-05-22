@@ -1,6 +1,8 @@
-zip_code = "48040"
-state = "MI"
 city = "Marysville"
 county = "Saint Clair"
-longitude = -82.491538
 latitude = 42.78269
+longitude = -82.491538
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48040"
+

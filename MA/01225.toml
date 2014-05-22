@@ -1,6 +1,8 @@
-zip_code = "01225"
-state = "MA"
 city = "Cheshire"
 county = "Berkshire"
-longitude = -73.127483
 latitude = 42.482125
+longitude = -73.127483
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01225"
+

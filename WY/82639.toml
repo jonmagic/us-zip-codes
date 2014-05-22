@@ -1,6 +1,8 @@
-zip_code = "82639"
-state = "WY"
 city = "Kaycee"
 county = "Johnson"
-longitude = -106.541709
 latitude = 43.720933
+longitude = -106.541709
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82639"
+

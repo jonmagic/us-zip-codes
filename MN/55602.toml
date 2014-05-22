@@ -1,6 +1,8 @@
-zip_code = "55602"
-state = "MN"
 city = "Brimson"
 county = "Saint Louis"
-longitude = -92.00427
 latitude = 47.256933
+longitude = -92.00427
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55602"
+

@@ -1,6 +1,8 @@
-zip_code = "38387"
-state = "TN"
 city = "Westport"
 county = "Carroll"
-longitude = -88.289175
 latitude = 35.884516
+longitude = -88.289175
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38387"
+

@@ -1,6 +1,8 @@
-zip_code = "21762"
-state = "MD"
 city = "Libertytown"
 county = "Frederick"
-longitude = -77.246761
 latitude = 39.482208
+longitude = -77.246761
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21762"
+

@@ -1,6 +1,8 @@
-zip_code = "21054"
-state = "MD"
 city = "Gambrills"
 county = "Anne Arundel"
-longitude = -76.631238
 latitude = 39.048359
+longitude = -76.631238
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21054"
+

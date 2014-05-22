@@ -1,6 +1,8 @@
-zip_code = "66757"
-state = "KS"
 city = "Neodesha"
 county = "Wilson"
-longitude = -95.668445
 latitude = 37.56084
+longitude = -95.668445
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66757"
+

@@ -1,6 +1,8 @@
-zip_code = "40495"
-state = "KY"
 city = "Winston"
 county = "Estill"
-longitude = -84.082894
 latitude = 37.709721
+longitude = -84.082894
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40495"
+

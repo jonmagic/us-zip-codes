@@ -1,6 +1,8 @@
-zip_code = "93401"
-state = "CA"
 city = "San Luis Obispo"
 county = "San Luis Obispo"
-longitude = -120.62122
 latitude = 35.265573
+longitude = -120.62122
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93401"
+

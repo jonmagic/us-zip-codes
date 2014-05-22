@@ -1,6 +1,8 @@
-zip_code = "36006"
-state = "AL"
 city = "Billingsley"
 county = "Autauga"
-longitude = -86.711472
 latitude = 32.576407
+longitude = -86.711472
+state = ""
+state_code_alpha2 = ""
+zip_code = "36006"
+

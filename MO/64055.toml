@@ -1,6 +1,8 @@
-zip_code = "64055"
-state = "MO"
 city = "Independence"
 county = "Jackson"
-longitude = -94.415628
 latitude = 39.048523
+longitude = -94.415628
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64055"
+

@@ -1,6 +1,8 @@
-zip_code = "45890"
-state = "OH"
 city = "Vanlue"
 county = "Hancock"
-longitude = -83.502731
 latitude = 40.935704
+longitude = -83.502731
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45890"
+

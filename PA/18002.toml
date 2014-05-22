@@ -1,6 +1,8 @@
-zip_code = "18002"
-state = "PA"
 city = "Lehigh Valley"
 county = "Northampton"
-longitude = -75.426247
 latitude = 40.665597
+longitude = -75.426247
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18002"
+

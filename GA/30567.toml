@@ -1,6 +1,8 @@
-zip_code = "30567"
-state = "GA"
 city = "Pendergrass"
 county = "Jackson"
-longitude = -83.59706
 latitude = 34.159431
+longitude = -83.59706
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30567"
+

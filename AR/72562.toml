@@ -1,6 +1,8 @@
-zip_code = "72562"
-state = "AR"
 city = "Newark"
 county = "Independence"
-longitude = -91.42517
 latitude = 35.732409
+longitude = -91.42517
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72562"
+

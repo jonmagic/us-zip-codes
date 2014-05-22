@@ -1,6 +1,8 @@
-zip_code = "64771"
-state = "MO"
 city = "Moundville"
 county = "Vernon"
-longitude = -94.453255
 latitude = 37.764889
+longitude = -94.453255
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64771"
+

@@ -1,6 +1,8 @@
-zip_code = "38316"
-state = "TN"
 city = "Bradford"
 county = "Gibson"
-longitude = -88.804199
 latitude = 36.057402
+longitude = -88.804199
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38316"
+

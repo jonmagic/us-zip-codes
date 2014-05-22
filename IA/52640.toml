@@ -1,6 +1,8 @@
-zip_code = "52640"
-state = "IA"
 city = "Morning Sun"
 county = "Louisa"
-longitude = -91.291067
 latitude = 41.135562
+longitude = -91.291067
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52640"
+

@@ -1,6 +1,8 @@
-zip_code = "39342"
-state = "MS"
 city = "Marion"
 county = "Lauderdale"
-longitude = -88.616297
 latitude = 32.336743
+longitude = -88.616297
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39342"
+

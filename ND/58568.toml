@@ -1,6 +1,8 @@
-zip_code = "58568"
-state = "ND"
 city = "Selfridge"
 county = "Sioux"
-longitude = -101.252738
 latitude = 46.186442
+longitude = -101.252738
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58568"
+

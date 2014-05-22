@@ -1,6 +1,8 @@
-zip_code = "98631"
-state = "WA"
 city = "Long Beach"
 county = "Pacific"
-longitude = -123.995591
 latitude = 46.376798
+longitude = -123.995591
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98631"
+

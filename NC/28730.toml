@@ -1,6 +1,8 @@
-zip_code = "28730"
-state = "NC"
 city = "Fairview"
 county = "Buncombe"
-longitude = -82.404704
 latitude = 35.529188
+longitude = -82.404704
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28730"
+

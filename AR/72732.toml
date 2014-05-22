@@ -1,6 +1,8 @@
-zip_code = "72732"
-state = "AR"
 city = "Garfield"
 county = "Benton"
-longitude = -94.184187
 latitude = 36.365048
+longitude = -94.184187
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72732"
+

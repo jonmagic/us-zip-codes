@@ -1,6 +1,8 @@
-zip_code = "85347"
-state = "AZ"
 city = "Roll"
 county = "Yuma"
-longitude = -113.798728
 latitude = 32.752609
+longitude = -113.798728
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85347"
+

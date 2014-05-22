@@ -1,6 +1,8 @@
-zip_code = "17584"
-state = "PA"
 city = "Willow Street"
 county = "Lancaster"
-longitude = -76.259779
 latitude = 39.959349
+longitude = -76.259779
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17584"
+

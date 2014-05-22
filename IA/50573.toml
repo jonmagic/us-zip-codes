@@ -1,6 +1,8 @@
-zip_code = "50573"
-state = "IA"
 city = "Plover"
 county = "Pocahontas"
-longitude = -94.619745
 latitude = 42.864825
+longitude = -94.619745
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50573"
+

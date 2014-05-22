@@ -1,6 +1,8 @@
-zip_code = "33835"
-state = "FL"
 city = "Bradley"
 county = "Polk"
-longitude = -81.949419
 latitude = 27.699258
+longitude = -81.949419
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33835"
+

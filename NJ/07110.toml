@@ -1,6 +1,8 @@
-zip_code = "07110"
-state = "NJ"
 city = "Nutley"
 county = "Essex"
-longitude = -74.159449
 latitude = 40.821299
+longitude = -74.159449
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07110"
+

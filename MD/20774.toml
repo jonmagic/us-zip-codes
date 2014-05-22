@@ -1,6 +1,8 @@
-zip_code = "20774"
-state = "MD"
 city = "Upper Marlboro"
 county = "Prince Georges"
-longitude = -76.815591
 latitude = 38.868212
+longitude = -76.815591
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20774"
+

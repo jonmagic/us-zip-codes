@@ -1,6 +1,8 @@
-zip_code = "59414"
-state = "MT"
 city = "Black Eagle"
 county = "Cascade"
-longitude = -111.234986
 latitude = 47.533156
+longitude = -111.234986
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59414"
+

@@ -1,6 +1,8 @@
-zip_code = "54486"
-state = "WI"
 city = "Tigerton"
 county = "Shawano"
-longitude = -89.039052
 latitude = 44.75984
+longitude = -89.039052
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54486"
+

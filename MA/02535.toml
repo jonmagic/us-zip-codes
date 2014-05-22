@@ -1,6 +1,8 @@
-zip_code = "02535"
-state = "MA"
 city = "Chilmark"
 county = "Dukes"
-longitude = -70.673082
 latitude = 41.379034
+longitude = -70.673082
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02535"
+

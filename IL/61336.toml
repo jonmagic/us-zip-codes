@@ -1,6 +1,8 @@
-zip_code = "61336"
-state = "IL"
 city = "Magnolia"
 county = "Putnam"
-longitude = -89.314316
 latitude = 41.213097
+longitude = -89.314316
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61336"
+

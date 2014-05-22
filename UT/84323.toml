@@ -1,6 +1,8 @@
-zip_code = "84323"
-state = "UT"
 city = "Logan"
 county = "Cache"
-longitude = -111.783783
 latitude = 41.684253
+longitude = -111.783783
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84323"
+

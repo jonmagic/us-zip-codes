@@ -1,6 +1,8 @@
-zip_code = "45345"
-state = "OH"
 city = "New Lebanon"
 county = "Montgomery"
-longitude = -84.327
 latitude = 39.800056
+longitude = -84.327
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45345"
+

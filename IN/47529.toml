@@ -1,6 +1,8 @@
-zip_code = "47529"
-state = "IN"
 city = "Elnora"
 county = "Daviess"
-longitude = -87.085001
 latitude = 38.877167
+longitude = -87.085001
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47529"
+

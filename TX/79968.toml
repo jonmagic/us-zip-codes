@@ -1,6 +1,8 @@
-zip_code = "79968"
-state = "TX"
 city = "El Paso"
 county = "El Paso"
-longitude = -106.504843
 latitude = 31.770458
+longitude = -106.504843
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79968"
+

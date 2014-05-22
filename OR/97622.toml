@@ -1,6 +1,8 @@
-zip_code = "97622"
-state = "OR"
 city = "Bly"
 county = "Klamath"
-longitude = -121.080557
 latitude = 42.399541
+longitude = -121.080557
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97622"
+

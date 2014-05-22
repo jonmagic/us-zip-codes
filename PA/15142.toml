@@ -1,6 +1,8 @@
-zip_code = "15142"
-state = "PA"
 city = "Presto"
 county = "Allegheny"
-longitude = -80.166896
 latitude = 40.402452
+longitude = -80.166896
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15142"
+

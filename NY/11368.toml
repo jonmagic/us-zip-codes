@@ -1,6 +1,8 @@
-zip_code = "11368"
-state = "NY"
 city = "Corona"
 county = "Queens"
-longitude = -73.854333
 latitude = 40.748751
+longitude = -73.854333
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11368"
+

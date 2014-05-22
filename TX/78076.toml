@@ -1,6 +1,8 @@
-zip_code = "78076"
-state = "TX"
 city = "Zapata"
 county = "Zapata"
-longitude = -99.215337
 latitude = 26.923302
+longitude = -99.215337
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78076"
+

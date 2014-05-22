@@ -1,6 +1,8 @@
-zip_code = "04616"
-state = "ME"
 city = "Brooklin"
 county = "Hancock"
-longitude = -68.567404
 latitude = 44.258121
+longitude = -68.567404
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04616"
+

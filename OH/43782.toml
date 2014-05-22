@@ -1,6 +1,8 @@
-zip_code = "43782"
-state = "OH"
 city = "Shawnee"
 county = "Perry"
-longitude = -82.214886
 latitude = 39.625239
+longitude = -82.214886
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43782"
+

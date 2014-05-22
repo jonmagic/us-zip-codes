@@ -1,6 +1,8 @@
-zip_code = "13120"
-state = "NY"
 city = "Nedrow"
 county = "Onondaga"
-longitude = -76.179845
 latitude = 42.951126
+longitude = -76.179845
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13120"
+

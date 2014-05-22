@@ -1,6 +1,8 @@
-zip_code = "72079"
-state = "AR"
 city = "Jefferson"
 county = "Jefferson"
-longitude = -92.150644
 latitude = 34.402504
+longitude = -92.150644
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72079"
+

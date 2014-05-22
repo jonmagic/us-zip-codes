@@ -1,6 +1,8 @@
-zip_code = "68421"
-state = "NE"
 city = "Peru"
 county = "Nemaha"
-longitude = -95.729589
 latitude = 40.477743
+longitude = -95.729589
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68421"
+

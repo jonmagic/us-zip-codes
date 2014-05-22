@@ -1,6 +1,8 @@
-zip_code = "01257"
-state = "MA"
 city = "Sheffield"
 county = "Berkshire"
-longitude = -73.267694
 latitude = 42.314564
+longitude = -73.267694
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01257"
+

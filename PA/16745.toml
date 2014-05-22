@@ -1,6 +1,8 @@
-zip_code = "16745"
-state = "PA"
 city = "Rixford"
 county = "Mckean"
-longitude = -78.48561
 latitude = 41.919565
+longitude = -78.48561
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16745"
+

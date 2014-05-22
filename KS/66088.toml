@@ -1,6 +1,8 @@
-zip_code = "66088"
-state = "KS"
 city = "Valley Falls"
 county = "Jefferson"
-longitude = -95.428183
 latitude = 39.248329
+longitude = -95.428183
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66088"
+

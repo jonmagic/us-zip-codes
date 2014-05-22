@@ -1,6 +1,8 @@
-zip_code = "61111"
-state = "IL"
 city = "Loves Park"
 county = "Winnebago"
-longitude = -89.004716
 latitude = 42.341767
+longitude = -89.004716
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61111"
+

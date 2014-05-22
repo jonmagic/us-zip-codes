@@ -1,6 +1,8 @@
-zip_code = "63087"
-state = "MO"
 city = "Valles Mines"
 county = "Saint Francois"
-longitude = -90.440701
 latitude = 37.999797
+longitude = -90.440701
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63087"
+

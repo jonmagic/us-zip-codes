@@ -1,6 +1,8 @@
-zip_code = "56044"
-state = "MN"
 city = "Henderson"
 county = "Sibley"
-longitude = -93.962668
 latitude = 44.564912
+longitude = -93.962668
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56044"
+

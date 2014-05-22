@@ -1,6 +1,8 @@
-zip_code = "78932"
-state = "TX"
 city = "Carmine"
 county = "Fayette"
-longitude = -96.719014
 latitude = 30.112343
+longitude = -96.719014
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78932"
+

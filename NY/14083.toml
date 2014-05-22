@@ -1,6 +1,8 @@
-zip_code = "14083"
-state = "NY"
 city = "Java Village"
 county = "Wyoming"
-longitude = -78.436442
 latitude = 42.675193
+longitude = -78.436442
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14083"
+

@@ -1,6 +1,8 @@
-zip_code = "40484"
-state = "KY"
 city = "Stanford"
 county = "Lincoln"
-longitude = -84.684467
 latitude = 37.522046
+longitude = -84.684467
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40484"
+

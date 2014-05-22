@@ -1,6 +1,8 @@
-zip_code = "12466"
-state = "NY"
 city = "Port Ewen"
 county = "Ulster"
-longitude = -73.976653
 latitude = 41.894812
+longitude = -73.976653
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12466"
+

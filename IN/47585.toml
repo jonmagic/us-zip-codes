@@ -1,6 +1,8 @@
-zip_code = "47585"
-state = "IN"
 city = "Stendal"
 county = "Pike"
-longitude = -87.147783
 latitude = 38.271004
+longitude = -87.147783
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47585"
+

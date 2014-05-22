@@ -1,6 +1,8 @@
-zip_code = "87020"
-state = "NM"
 city = "Grants"
 county = "Cibola"
-longitude = -107.850191
 latitude = 35.09985
+longitude = -107.850191
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87020"
+

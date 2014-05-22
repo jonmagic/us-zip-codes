@@ -1,6 +1,8 @@
-zip_code = "72660"
-state = "AR"
 city = "Oak Grove"
 county = "Carroll"
-longitude = -93.370349
 latitude = 36.466366
+longitude = -93.370349
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72660"
+

@@ -1,6 +1,8 @@
-zip_code = "62466"
-state = "IL"
 city = "Sumner"
 county = "Lawrence"
-longitude = -87.863812
 latitude = 38.717105
+longitude = -87.863812
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62466"
+

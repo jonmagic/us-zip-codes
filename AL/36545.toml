@@ -1,6 +1,8 @@
-zip_code = "36545"
-state = "AL"
 city = "Jackson"
 county = "Clarke"
-longitude = -87.898539
 latitude = 31.592985
+longitude = -87.898539
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36545"
+

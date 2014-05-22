@@ -1,6 +1,8 @@
-zip_code = "15401"
-state = "PA"
 city = "Uniontown"
 county = "Fayette"
-longitude = -79.770063
 latitude = 39.944884
+longitude = -79.770063
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15401"
+

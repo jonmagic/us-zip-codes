@@ -1,6 +1,8 @@
-zip_code = "85221"
-state = "AZ"
 city = "Bapchule"
 county = "Pinal"
-longitude = -111.476001
 latitude = 33.225652
+longitude = -111.476001
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85221"
+

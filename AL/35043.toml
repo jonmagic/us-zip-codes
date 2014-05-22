@@ -1,6 +1,8 @@
-zip_code = "35043"
-state = "AL"
 city = "Chelsea"
 county = "Shelby"
-longitude = -86.656328
 latitude = 33.298238
+longitude = -86.656328
+state = ""
+state_code_alpha2 = ""
+zip_code = "35043"
+

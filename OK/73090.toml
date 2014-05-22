@@ -1,6 +1,8 @@
-zip_code = "73090"
-state = "OK"
 city = "Union City"
 county = "Canadian"
-longitude = -97.944388
 latitude = 35.392567
+longitude = -97.944388
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73090"
+

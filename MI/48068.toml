@@ -1,6 +1,8 @@
-zip_code = "48068"
-state = "MI"
 city = "Royal Oak"
 county = "Oakland"
-longitude = -83.3863
 latitude = 42.660091
+longitude = -83.3863
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48068"
+

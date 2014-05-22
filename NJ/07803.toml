@@ -1,6 +1,8 @@
-zip_code = "07803"
-state = "NJ"
 city = "Mine Hill"
 county = "Morris"
-longitude = -74.584453
 latitude = 40.877099
+longitude = -74.584453
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07803"
+

@@ -1,6 +1,8 @@
-zip_code = "11364"
-state = "NY"
 city = "Oakland Gardens"
 county = "Queens"
-longitude = -73.758831
 latitude = 40.742772
+longitude = -73.758831
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11364"
+

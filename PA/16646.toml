@@ -1,6 +1,8 @@
-zip_code = "16646"
-state = "PA"
 city = "Hastings"
 county = "Cambria"
-longitude = -78.599266
 latitude = 40.680896
+longitude = -78.599266
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16646"
+

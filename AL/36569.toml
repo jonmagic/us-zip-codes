@@ -1,6 +1,8 @@
-zip_code = "36569"
-state = "AL"
 city = "Saint Stephens"
 county = "Washington"
-longitude = -88.090115
 latitude = 31.552362
+longitude = -88.090115
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36569"
+

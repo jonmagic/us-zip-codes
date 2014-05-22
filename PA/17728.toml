@@ -1,6 +1,8 @@
-zip_code = "17728"
-state = "PA"
 city = "Cogan Station"
 county = "Lycoming"
-longitude = -76.948034
 latitude = 41.255299
+longitude = -76.948034
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17728"
+

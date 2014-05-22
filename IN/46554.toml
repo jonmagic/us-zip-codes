@@ -1,6 +1,8 @@
-zip_code = "46554"
-state = "IN"
 city = "North Liberty"
 county = "St Joseph"
-longitude = -86.414045
 latitude = 41.561716
+longitude = -86.414045
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46554"
+

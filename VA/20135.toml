@@ -1,6 +1,8 @@
-zip_code = "20135"
-state = "VA"
 city = "Bluemont"
 county = "Loudoun"
-longitude = -77.846661
 latitude = 39.082266
+longitude = -77.846661
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20135"
+

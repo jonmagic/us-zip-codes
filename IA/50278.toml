@@ -1,6 +1,8 @@
-zip_code = "50278"
-state = "IA"
 city = "Zearing"
 county = "Story"
-longitude = -93.29898
 latitude = 42.149851
+longitude = -93.29898
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50278"
+

@@ -1,6 +1,8 @@
-zip_code = "72370"
-state = "AR"
 city = "Osceola"
 county = "Mississippi"
-longitude = -90.094653
 latitude = 35.646832
+longitude = -90.094653
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72370"
+

@@ -1,6 +1,8 @@
-zip_code = "37166"
-state = "TN"
 city = "Smithville"
 county = "Dekalb"
-longitude = -85.835635
 latitude = 35.958503
+longitude = -85.835635
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37166"
+

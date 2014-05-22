@@ -1,6 +1,8 @@
-zip_code = "97846"
-state = "OR"
 city = "Joseph"
 county = "Wallowa"
-longitude = -117.073337
 latitude = 45.406071
+longitude = -117.073337
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97846"
+

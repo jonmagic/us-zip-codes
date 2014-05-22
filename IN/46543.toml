@@ -1,6 +1,8 @@
-zip_code = "46543"
-state = "IN"
 city = "Millersburg"
 county = "Elkhart"
-longitude = -85.712083
 latitude = 41.531255
+longitude = -85.712083
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46543"
+

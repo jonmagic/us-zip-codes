@@ -1,6 +1,8 @@
-zip_code = "07728"
-state = "NJ"
 city = "Freehold"
 county = "Monmouth"
-longitude = -74.306284
 latitude = 40.236423
+longitude = -74.306284
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07728"
+

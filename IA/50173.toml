@@ -1,6 +1,8 @@
-zip_code = "50173"
-state = "IA"
 city = "Montour"
 county = "Tama"
-longitude = -92.712756
 latitude = 41.95619
+longitude = -92.712756
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50173"
+

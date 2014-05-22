@@ -1,6 +1,8 @@
-zip_code = "70450"
-state = "LA"
 city = "Mount Hermon"
 county = "Washington"
-longitude = -90.043651
 latitude = 30.91821
+longitude = -90.043651
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70450"
+

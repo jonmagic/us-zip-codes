@@ -1,6 +1,8 @@
-zip_code = "07063"
-state = "NJ"
 city = "Plainfield"
 county = "Union"
-longitude = -74.442746
 latitude = 40.604752
+longitude = -74.442746
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07063"
+

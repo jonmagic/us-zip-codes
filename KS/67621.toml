@@ -1,6 +1,8 @@
-zip_code = "67621"
-state = "KS"
 city = "Agra"
 county = "Phillips"
-longitude = -99.119565
 latitude = 39.760857
+longitude = -99.119565
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67621"
+

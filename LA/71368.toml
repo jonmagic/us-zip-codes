@@ -1,6 +1,8 @@
-zip_code = "71368"
-state = "LA"
 city = "Sicily Island"
 county = "Catahoula"
-longitude = -91.661308
 latitude = 31.848184
+longitude = -91.661308
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71368"
+

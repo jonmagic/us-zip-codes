@@ -1,6 +1,8 @@
-zip_code = "66438"
-state = "KS"
 city = "Home"
 county = "Marshall"
-longitude = -96.506345
 latitude = 39.848788
+longitude = -96.506345
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66438"
+

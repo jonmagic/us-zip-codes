@@ -1,6 +1,8 @@
-zip_code = "13110"
-state = "NY"
 city = "Marietta"
 county = "Onondaga"
-longitude = -76.291265
 latitude = 42.8809
+longitude = -76.291265
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13110"
+

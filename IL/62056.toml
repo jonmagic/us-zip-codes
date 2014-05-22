@@ -1,6 +1,8 @@
-zip_code = "62056"
-state = "IL"
 city = "Litchfield"
 county = "Montgomery"
-longitude = -89.552405
 latitude = 39.169422
+longitude = -89.552405
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62056"
+

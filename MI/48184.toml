@@ -1,6 +1,8 @@
-zip_code = "48184"
-state = "MI"
 city = "Wayne"
 county = "Wayne"
-longitude = -83.395975
 latitude = 42.263487
+longitude = -83.395975
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48184"
+

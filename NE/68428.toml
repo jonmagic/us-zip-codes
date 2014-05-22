@@ -1,6 +1,8 @@
-zip_code = "68428"
-state = "NE"
 city = "Raymond"
 county = "Lancaster"
-longitude = -96.786573
 latitude = 40.934176
+longitude = -96.786573
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68428"
+

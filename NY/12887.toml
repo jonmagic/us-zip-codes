@@ -1,6 +1,8 @@
-zip_code = "12887"
-state = "NY"
 city = "Whitehall"
 county = "Washington"
-longitude = -73.421536
 latitude = 43.492815
+longitude = -73.421536
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12887"
+

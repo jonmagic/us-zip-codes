@@ -1,6 +1,8 @@
-zip_code = "12443"
-state = "NY"
 city = "Hurley"
 county = "Ulster"
-longitude = -74.115476
 latitude = 41.853723
+longitude = -74.115476
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12443"
+

@@ -1,6 +1,8 @@
-zip_code = "76548"
-state = "TX"
 city = "Harker Heights"
 county = "Bell"
-longitude = -97.611484
 latitude = 31.028627
+longitude = -97.611484
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76548"
+

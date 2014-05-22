@@ -1,6 +1,8 @@
-zip_code = "29006"
-state = "SC"
 city = "Batesburg"
 county = "Lexington"
-longitude = -81.414643
 latitude = 33.871866
+longitude = -81.414643
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29006"
+

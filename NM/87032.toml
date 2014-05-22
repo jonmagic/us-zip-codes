@@ -1,6 +1,8 @@
-zip_code = "87032"
-state = "NM"
 city = "Mc Intosh"
 county = "Torrance"
-longitude = -106.052145
 latitude = 34.851897
+longitude = -106.052145
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87032"
+

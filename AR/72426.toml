@@ -1,6 +1,8 @@
-zip_code = "72426"
-state = "AR"
 city = "Dell"
 county = "Mississippi"
-longitude = -90.054689
 latitude = 35.881256
+longitude = -90.054689
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72426"
+

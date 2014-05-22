@@ -1,6 +1,8 @@
-zip_code = "56629"
-state = "MN"
 city = "Birchdale"
 county = "Koochiching"
-longitude = -94.06358
 latitude = 48.642546
+longitude = -94.06358
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56629"
+

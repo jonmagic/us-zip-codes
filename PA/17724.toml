@@ -1,6 +1,8 @@
-zip_code = "17724"
-state = "PA"
 city = "Canton"
 county = "Bradford"
-longitude = -76.84143
 latitude = 41.639449
+longitude = -76.84143
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17724"
+

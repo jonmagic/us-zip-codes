@@ -1,6 +1,8 @@
-zip_code = "41514"
-state = "KY"
 city = "Belfry"
 county = "Pike"
-longitude = -82.313128
 latitude = 37.640727
+longitude = -82.313128
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41514"
+

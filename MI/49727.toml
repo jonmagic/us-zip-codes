@@ -1,6 +1,8 @@
-zip_code = "49727"
-state = "MI"
 city = "East Jordan"
 county = "Charlevoix"
-longitude = -85.102843
 latitude = 45.203995
+longitude = -85.102843
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49727"
+

@@ -1,6 +1,8 @@
-zip_code = "96107"
-state = "CA"
 city = "Coleville"
 county = "Mono"
-longitude = -119.485034
 latitude = 38.533336
+longitude = -119.485034
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96107"
+

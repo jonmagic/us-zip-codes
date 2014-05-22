@@ -1,6 +1,8 @@
-zip_code = "79505"
-state = "TX"
 city = "Benjamin"
 county = "Knox"
-longitude = -99.884689
 latitude = 33.599303
+longitude = -99.884689
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79505"
+

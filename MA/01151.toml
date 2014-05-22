@@ -1,6 +1,8 @@
-zip_code = "01151"
-state = "MA"
 city = "Indian Orchard"
 county = "Hampden"
-longitude = -72.51278
 latitude = 42.150593
+longitude = -72.51278
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01151"
+

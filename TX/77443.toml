@@ -1,6 +1,8 @@
-zip_code = "77443"
-state = "TX"
 city = "Glen Flora"
 county = "Wharton"
-longitude = -96.175363
 latitude = 29.335331
+longitude = -96.175363
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77443"
+

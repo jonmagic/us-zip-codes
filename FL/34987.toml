@@ -1,6 +1,8 @@
-zip_code = "34987"
-state = "FL"
 city = "Port Saint Lucie"
 county = "Saint Lucie"
-longitude = -80.484851
 latitude = 27.29076
+longitude = -80.484851
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34987"
+

@@ -1,6 +1,8 @@
-zip_code = "32250"
-state = "FL"
 city = "Jacksonville Beach"
 county = "Duval"
-longitude = -81.416506
 latitude = 30.280143
+longitude = -81.416506
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32250"
+

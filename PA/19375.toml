@@ -1,6 +1,8 @@
-zip_code = "19375"
-state = "PA"
 city = "Unionville"
 county = "Chester"
-longitude = -75.750203
 latitude = 39.901177
+longitude = -75.750203
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19375"
+

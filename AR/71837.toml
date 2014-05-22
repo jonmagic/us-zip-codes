@@ -1,6 +1,8 @@
-zip_code = "71837"
-state = "AR"
 city = "Fouke"
 county = "Miller"
-longitude = -93.886621
 latitude = 33.261629
+longitude = -93.886621
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71837"
+

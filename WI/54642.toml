@@ -1,6 +1,8 @@
-zip_code = "54642"
-state = "WI"
 city = "Melrose"
 county = "Jackson"
-longitude = -90.979249
 latitude = 44.196358
+longitude = -90.979249
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54642"
+

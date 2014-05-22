@@ -1,6 +1,8 @@
-zip_code = "44470"
-state = "OH"
 city = "Southington"
 county = "Trumbull"
-longitude = -80.952784
 latitude = 41.283579
+longitude = -80.952784
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44470"
+

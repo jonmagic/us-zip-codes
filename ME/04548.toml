@@ -1,6 +1,8 @@
-zip_code = "04548"
-state = "ME"
 city = "Georgetown"
 county = "Sagadahoc"
-longitude = -69.745295
 latitude = 43.805389
+longitude = -69.745295
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04548"
+

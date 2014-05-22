@@ -1,6 +1,8 @@
-zip_code = "71675"
-state = "AR"
 city = "Wilmar"
 county = "Drew"
-longitude = -91.916698
 latitude = 33.614151
+longitude = -91.916698
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71675"
+

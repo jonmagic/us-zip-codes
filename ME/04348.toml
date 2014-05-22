@@ -1,6 +1,8 @@
-zip_code = "04348"
-state = "ME"
 city = "Jefferson"
 county = "Lincoln"
-longitude = -69.513293
 latitude = 44.220432
+longitude = -69.513293
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04348"
+

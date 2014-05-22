@@ -1,6 +1,8 @@
-zip_code = "50581"
-state = "IA"
 city = "Rolfe"
 county = "Pocahontas"
-longitude = -94.642302
 latitude = 42.744133
+longitude = -94.642302
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50581"
+

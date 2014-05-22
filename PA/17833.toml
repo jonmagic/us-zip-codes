@@ -1,6 +1,8 @@
-zip_code = "17833"
-state = "PA"
 city = "Kreamer"
 county = "Snyder"
-longitude = -77.07752
 latitude = 40.762675
+longitude = -77.07752
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17833"
+

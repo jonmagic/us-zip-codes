@@ -1,6 +1,8 @@
-zip_code = "17859"
-state = "PA"
 city = "Orangeville"
 county = "Columbia"
-longitude = -76.418093
 latitude = 41.061483
+longitude = -76.418093
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17859"
+

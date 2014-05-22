@@ -1,6 +1,8 @@
-zip_code = "50707"
-state = "IA"
 city = "Evansdale"
 county = "Black Hawk"
-longitude = -92.276183
 latitude = 42.482297
+longitude = -92.276183
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50707"
+

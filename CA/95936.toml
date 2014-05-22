@@ -1,6 +1,8 @@
-zip_code = "95936"
-state = "CA"
 city = "Downieville"
 county = "Sierra"
-longitude = -120.853714
 latitude = 39.558607
+longitude = -120.853714
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95936"
+

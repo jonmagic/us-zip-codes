@@ -1,6 +1,8 @@
-zip_code = "83422"
-state = "ID"
 city = "Driggs"
 county = "Teton"
-longitude = -111.158402
 latitude = 43.713752
+longitude = -111.158402
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83422"
+

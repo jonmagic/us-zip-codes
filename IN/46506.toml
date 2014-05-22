@@ -1,6 +1,8 @@
-zip_code = "46506"
-state = "IN"
 city = "Bremen"
 county = "Marshall"
-longitude = -86.242235
 latitude = 41.40577
+longitude = -86.242235
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46506"
+

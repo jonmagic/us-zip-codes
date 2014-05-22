@@ -1,6 +1,8 @@
-zip_code = "27009"
-state = "NC"
 city = "Belews Creek"
 county = "Forsyth"
-longitude = -80.084667
 latitude = 36.213266
+longitude = -80.084667
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27009"
+

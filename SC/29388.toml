@@ -1,6 +1,8 @@
-zip_code = "29388"
-state = "SC"
 city = "Woodruff"
 county = "Spartanburg"
-longitude = -81.991496
 latitude = 34.890526
+longitude = -81.991496
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29388"
+

@@ -1,6 +1,8 @@
-zip_code = "73938"
-state = "OK"
 city = "Forgan"
 county = "Beaver"
-longitude = -100.531611
 latitude = 36.86081
+longitude = -100.531611
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73938"
+

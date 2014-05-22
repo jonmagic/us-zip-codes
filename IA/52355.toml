@@ -1,6 +1,8 @@
-zip_code = "52355"
-state = "IA"
 city = "Webster"
 county = "Keokuk"
-longitude = -92.169002
 latitude = 41.449144
+longitude = -92.169002
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52355"
+

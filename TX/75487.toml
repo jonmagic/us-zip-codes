@@ -1,6 +1,8 @@
-zip_code = "75487"
-state = "TX"
 city = "Talco"
 county = "Franklin"
-longitude = -95.216724
 latitude = 33.175662
+longitude = -95.216724
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75487"
+

@@ -1,6 +1,8 @@
-zip_code = "43467"
-state = "OH"
 city = "West Millgrove"
 county = "Wood"
-longitude = -83.489583
 latitude = 41.24264
+longitude = -83.489583
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43467"
+

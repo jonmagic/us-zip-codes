@@ -1,6 +1,8 @@
-zip_code = "92286"
-state = "CA"
 city = "Yucca Valley"
 county = "San Bernardino"
-longitude = -116.350003
 latitude = 34.180251
+longitude = -116.350003
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92286"
+

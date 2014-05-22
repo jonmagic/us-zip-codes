@@ -1,6 +1,8 @@
-zip_code = "88210"
-state = "NM"
 city = "Artesia"
 county = "Eddy"
-longitude = -104.433331
 latitude = 32.622225
+longitude = -104.433331
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88210"
+

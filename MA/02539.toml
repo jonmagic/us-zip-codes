@@ -1,6 +1,8 @@
-zip_code = "02539"
-state = "MA"
 city = "Edgartown"
 county = "Dukes"
-longitude = -70.552054
 latitude = 41.401176
+longitude = -70.552054
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02539"
+

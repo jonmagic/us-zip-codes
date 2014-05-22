@@ -1,6 +1,8 @@
-zip_code = "44023"
-state = "OH"
 city = "Chagrin Falls"
 county = "Geauga"
-longitude = -81.304222
 latitude = 41.387203
+longitude = -81.304222
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44023"
+

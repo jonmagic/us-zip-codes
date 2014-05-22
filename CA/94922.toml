@@ -1,6 +1,8 @@
-zip_code = "94922"
-state = "CA"
 city = "Bodega"
 county = "Sonoma"
-longitude = -122.974134
 latitude = 38.351416
+longitude = -122.974134
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94922"
+

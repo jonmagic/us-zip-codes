@@ -1,6 +1,8 @@
-zip_code = "95437"
-state = "CA"
 city = "Fort Bragg"
 county = "Mendocino"
-longitude = -123.637284
 latitude = 39.500634
+longitude = -123.637284
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95437"
+

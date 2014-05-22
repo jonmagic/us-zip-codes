@@ -1,6 +1,8 @@
-zip_code = "25285"
-state = "WV"
 city = "Wallback"
 county = "Clay"
-longitude = -81.050662
 latitude = 38.465777
+longitude = -81.050662
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25285"
+

@@ -1,6 +1,8 @@
-zip_code = "15561"
-state = "PA"
 city = "Sipesville"
 county = "Somerset"
-longitude = -79.090158
 latitude = 40.096406
+longitude = -79.090158
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15561"
+

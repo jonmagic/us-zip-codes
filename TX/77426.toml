@@ -1,6 +1,8 @@
-zip_code = "77426"
-state = "TX"
 city = "Chappell Hill"
 county = "Washington"
-longitude = -96.278602
 latitude = 30.156759
+longitude = -96.278602
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77426"
+

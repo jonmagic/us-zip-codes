@@ -1,6 +1,8 @@
-zip_code = "79545"
-state = "TX"
 city = "Roscoe"
 county = "Nolan"
-longitude = -100.572217
 latitude = 32.384442
+longitude = -100.572217
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79545"
+

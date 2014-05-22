@@ -1,6 +1,8 @@
-zip_code = "73859"
-state = "OK"
 city = "Vici"
 county = "Dewey"
-longitude = -99.301912
 latitude = 36.149508
+longitude = -99.301912
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73859"
+

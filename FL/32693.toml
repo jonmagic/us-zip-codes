@@ -1,6 +1,8 @@
-zip_code = "32693"
-state = "FL"
 city = "Trenton"
 county = "Gilchrist"
-longitude = -82.811678
 latitude = 29.674633
+longitude = -82.811678
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32693"
+

@@ -1,6 +1,8 @@
-zip_code = "72839"
-state = "AR"
 city = "Hagarville"
 county = "Johnson"
-longitude = -93.437264
 latitude = 35.547714
+longitude = -93.437264
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72839"
+

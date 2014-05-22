@@ -1,6 +1,8 @@
-zip_code = "32789"
-state = "FL"
 city = "Winter Park"
 county = "Orange"
-longitude = -81.35874
 latitude = 28.602327
+longitude = -81.35874
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32789"
+

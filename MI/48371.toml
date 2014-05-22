@@ -1,6 +1,8 @@
-zip_code = "48371"
-state = "MI"
 city = "Oxford"
 county = "Oakland"
-longitude = -83.339754
 latitude = 42.772209
+longitude = -83.339754
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48371"
+

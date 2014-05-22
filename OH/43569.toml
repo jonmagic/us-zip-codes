@@ -1,6 +1,8 @@
-zip_code = "43569"
-state = "OH"
 city = "Weston"
 county = "Wood"
-longitude = -83.796033
 latitude = 41.35002
+longitude = -83.796033
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43569"
+

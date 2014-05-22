@@ -1,6 +1,8 @@
-zip_code = "36345"
-state = "AL"
 city = "Headland"
 county = "Henry"
-longitude = -85.30124
 latitude = 31.357917
+longitude = -85.30124
+state = ""
+state_code_alpha2 = ""
+zip_code = "36345"
+

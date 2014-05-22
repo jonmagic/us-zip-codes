@@ -1,6 +1,8 @@
-zip_code = "56016"
-state = "MN"
 city = "Clarks Grove"
 county = "Freeborn"
-longitude = -93.326712
 latitude = 43.761669
+longitude = -93.326712
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56016"
+

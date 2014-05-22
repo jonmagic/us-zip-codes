@@ -1,6 +1,8 @@
-zip_code = "60511"
-state = "IL"
 city = "Big Rock"
 county = "Kane"
-longitude = -88.54574
 latitude = 41.764324
+longitude = -88.54574
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60511"
+

@@ -1,6 +1,8 @@
-zip_code = "51049"
-state = "IA"
 city = "Quimby"
 county = "Cherokee"
-longitude = -95.70264
 latitude = 42.701397
+longitude = -95.70264
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51049"
+

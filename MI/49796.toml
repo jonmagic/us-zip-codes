@@ -1,6 +1,8 @@
-zip_code = "49796"
-state = "MI"
 city = "Walloon Lake"
 county = "Charlevoix"
-longitude = -84.938228
 latitude = 45.245371
+longitude = -84.938228
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49796"
+

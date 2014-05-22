@@ -1,6 +1,8 @@
-zip_code = "88047"
-state = "NM"
 city = "Mesilla Park"
 county = "Dona Ana"
-longitude = -106.748341
 latitude = 32.232085
+longitude = -106.748341
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88047"
+

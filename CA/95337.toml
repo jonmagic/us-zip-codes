@@ -1,6 +1,8 @@
-zip_code = "95337"
-state = "CA"
 city = "Manteca"
 county = "San Joaquin"
-longitude = -121.227351
 latitude = 37.743327
+longitude = -121.227351
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95337"
+

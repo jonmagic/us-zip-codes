@@ -1,6 +1,8 @@
-zip_code = "28587"
-state = "NC"
 city = "Vandemere"
 county = "Pamlico"
-longitude = -76.660435
 latitude = 35.191279
+longitude = -76.660435
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28587"
+

@@ -1,6 +1,8 @@
-zip_code = "83536"
-state = "ID"
 city = "Kamiah"
 county = "Lewis"
-longitude = -116.034292
 latitude = 46.223289
+longitude = -116.034292
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83536"
+

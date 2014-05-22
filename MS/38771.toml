@@ -1,6 +1,8 @@
-zip_code = "38771"
-state = "MS"
 city = "Ruleville"
 county = "Sunflower"
-longitude = -90.555537
 latitude = 33.66479
+longitude = -90.555537
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38771"
+

@@ -1,6 +1,8 @@
-zip_code = "16172"
-state = "PA"
 city = "New Wilmington"
 county = "Lawrence"
-longitude = -80.333192
 latitude = 41.119992
+longitude = -80.333192
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16172"
+

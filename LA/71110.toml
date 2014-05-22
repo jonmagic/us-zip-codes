@@ -1,6 +1,8 @@
-zip_code = "71110"
-state = "LA"
 city = "Barksdale Afb"
 county = "Bossier"
-longitude = -93.640362
 latitude = 32.513749
+longitude = -93.640362
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71110"
+

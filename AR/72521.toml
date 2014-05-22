@@ -1,6 +1,8 @@
-zip_code = "72521"
-state = "AR"
 city = "Cave City"
 county = "Sharp"
-longitude = -91.5317
 latitude = 35.948292
+longitude = -91.5317
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72521"
+

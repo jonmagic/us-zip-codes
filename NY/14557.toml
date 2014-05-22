@@ -1,6 +1,8 @@
-zip_code = "14557"
-state = "NY"
 city = "South Byron"
 county = "Genesee"
-longitude = -78.057252
 latitude = 43.041606
+longitude = -78.057252
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14557"
+

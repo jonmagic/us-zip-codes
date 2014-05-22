@@ -1,6 +1,8 @@
-zip_code = "44887"
-state = "OH"
 city = "Tiro"
 county = "Crawford"
-longitude = -82.806099
 latitude = 40.914732
+longitude = -82.806099
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44887"
+

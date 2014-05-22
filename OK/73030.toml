@@ -1,6 +1,8 @@
-zip_code = "73030"
-state = "OK"
 city = "Davis"
 county = "Murray"
-longitude = -97.047346
 latitude = 34.501771
+longitude = -97.047346
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73030"
+

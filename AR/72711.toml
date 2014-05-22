@@ -1,6 +1,8 @@
-zip_code = "72711"
-state = "AR"
 city = "Avoca"
 county = "Benton"
-longitude = -94.043837
 latitude = 36.397805
+longitude = -94.043837
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72711"
+

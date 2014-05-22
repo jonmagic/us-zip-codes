@@ -1,6 +1,8 @@
-zip_code = "69129"
-state = "NE"
 city = "Chappell"
 county = "Deuel"
-longitude = -102.421494
 latitude = 41.112122
+longitude = -102.421494
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69129"
+

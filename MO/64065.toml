@@ -1,6 +1,8 @@
-zip_code = "64065"
-state = "MO"
 city = "Lees Summit"
 county = "Jackson"
-longitude = -94.392885
 latitude = 38.966641
+longitude = -94.392885
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64065"
+

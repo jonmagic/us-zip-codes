@@ -1,6 +1,8 @@
-zip_code = "38944"
-state = "MS"
 city = "Minter City"
 county = "Leflore"
-longitude = -90.374127
 latitude = 33.752133
+longitude = -90.374127
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38944"
+

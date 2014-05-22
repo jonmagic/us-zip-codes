@@ -1,6 +1,8 @@
-zip_code = "27552"
-state = "NC"
 city = "Mamers"
 county = "Harnett"
-longitude = -78.979964
 latitude = 35.413579
+longitude = -78.979964
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27552"
+

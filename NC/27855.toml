@@ -1,6 +1,8 @@
-zip_code = "27855"
-state = "NC"
 city = "Murfreesboro"
 county = "Hertford"
-longitude = -77.052051
 latitude = 36.449543
+longitude = -77.052051
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27855"
+

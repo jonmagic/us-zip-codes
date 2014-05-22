@@ -1,6 +1,8 @@
-zip_code = "55796"
-state = "MN"
 city = "Winton"
 county = "Saint Louis"
-longitude = -92.266525
 latitude = 47.720643
+longitude = -92.266525
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55796"
+

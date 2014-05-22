@@ -1,6 +1,8 @@
-zip_code = "95472"
-state = "CA"
 city = "Sebastopol"
 county = "Sonoma"
-longitude = -122.869654
 latitude = 38.407222
+longitude = -122.869654
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95472"
+

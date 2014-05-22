@@ -1,6 +1,8 @@
-zip_code = "84738"
-state = "UT"
 city = "Ivins"
 county = "Washington"
-longitude = -113.545812
 latitude = 37.218261
+longitude = -113.545812
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84738"
+

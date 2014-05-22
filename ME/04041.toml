@@ -1,6 +1,8 @@
-zip_code = "04041"
-state = "ME"
 city = "Hiram"
 county = "Oxford"
-longitude = -70.826188
 latitude = 43.879628
+longitude = -70.826188
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04041"
+

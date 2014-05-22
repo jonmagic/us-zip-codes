@@ -1,6 +1,8 @@
-zip_code = "57039"
-state = "SD"
 city = "Lennox"
 county = "Lincoln"
-longitude = -96.856021
 latitude = 43.298098
+longitude = -96.856021
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57039"
+

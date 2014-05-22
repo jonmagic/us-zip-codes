@@ -1,6 +1,8 @@
-zip_code = "08535"
-state = "NJ"
 city = "Perrineville"
 county = "Monmouth"
-longitude = -74.452293
 latitude = 40.22586
+longitude = -74.452293
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08535"
+

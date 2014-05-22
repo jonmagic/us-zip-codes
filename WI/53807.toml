@@ -1,6 +1,8 @@
-zip_code = "53807"
-state = "WI"
 city = "Cuba City"
 county = "Grant"
-longitude = -90.699166
 latitude = 42.751647
+longitude = -90.699166
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53807"
+

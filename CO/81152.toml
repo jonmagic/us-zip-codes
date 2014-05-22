@@ -1,6 +1,8 @@
-zip_code = "81152"
-state = "CO"
 city = "San Luis"
 county = "Costilla"
-longitude = -105.47813
 latitude = 37.106599
+longitude = -105.47813
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81152"
+

@@ -1,6 +1,8 @@
-zip_code = "12970"
-state = "NY"
 city = "Paul Smiths"
 county = "Franklin"
-longitude = -74.317958
 latitude = 44.552725
+longitude = -74.317958
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12970"
+

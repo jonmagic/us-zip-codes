@@ -1,6 +1,8 @@
-zip_code = "27403"
-state = "NC"
 city = "Greensboro"
 county = "Guilford"
-longitude = -79.823336
 latitude = 36.089396
+longitude = -79.823336
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27403"
+

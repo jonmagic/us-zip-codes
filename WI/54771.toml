@@ -1,6 +1,8 @@
-zip_code = "54771"
-state = "WI"
 city = "Thorp"
 county = "Clark"
-longitude = -90.790684
 latitude = 44.894112
+longitude = -90.790684
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54771"
+

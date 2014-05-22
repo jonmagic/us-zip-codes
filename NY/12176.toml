@@ -1,6 +1,8 @@
-zip_code = "12176"
-state = "NY"
 city = "Surprise"
 county = "Greene"
-longitude = -73.958671
 latitude = 42.385117
+longitude = -73.958671
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12176"
+

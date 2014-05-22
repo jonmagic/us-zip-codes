@@ -1,6 +1,8 @@
-zip_code = "28728"
-state = "NC"
 city = "Enka"
 county = "Buncombe"
-longitude = -82.708024
 latitude = 35.498797
+longitude = -82.708024
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28728"
+

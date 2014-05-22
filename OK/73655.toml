@@ -1,6 +1,8 @@
-zip_code = "73655"
-state = "OK"
 city = "Lone Wolf"
 county = "Kiowa"
-longitude = -99.24543
 latitude = 34.989694
+longitude = -99.24543
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73655"
+

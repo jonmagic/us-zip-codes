@@ -1,6 +1,8 @@
-zip_code = "13811"
-state = "NY"
 city = "Newark Valley"
 county = "Tioga"
-longitude = -76.213825
 latitude = 42.170428
+longitude = -76.213825
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13811"
+

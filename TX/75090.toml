@@ -1,6 +1,8 @@
-zip_code = "75090"
-state = "TX"
 city = "Sherman"
 county = "Grayson"
-longitude = -96.659726
 latitude = 33.647425
+longitude = -96.659726
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75090"
+

@@ -1,6 +1,8 @@
-zip_code = "78072"
-state = "TX"
 city = "Tilden"
 county = "Mcmullen"
-longitude = -98.56876
 latitude = 28.350458
+longitude = -98.56876
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78072"
+

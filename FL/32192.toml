@@ -1,6 +1,8 @@
-zip_code = "32192"
-state = "FL"
 city = "Sparr"
 county = "Marion"
-longitude = -82.104632
 latitude = 29.326821
+longitude = -82.104632
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32192"
+

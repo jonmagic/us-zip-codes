@@ -1,6 +1,8 @@
-zip_code = "30577"
-state = "GA"
 city = "Toccoa"
 county = "Stephens"
-longitude = -83.288828
 latitude = 34.554103
+longitude = -83.288828
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30577"
+

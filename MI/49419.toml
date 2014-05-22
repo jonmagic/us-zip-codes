@@ -1,6 +1,8 @@
-zip_code = "49419"
-state = "MI"
 city = "Hamilton"
 county = "Allegan"
-longitude = -85.980959
 latitude = 42.693859
+longitude = -85.980959
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49419"
+

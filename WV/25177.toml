@@ -1,6 +1,8 @@
-zip_code = "25177"
-state = "WV"
 city = "Saint Albans"
 county = "Kanawha"
-longitude = -81.636926
 latitude = 38.31461
+longitude = -81.636926
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25177"
+

@@ -1,6 +1,8 @@
-zip_code = "87832"
-state = "NM"
 city = "San Antonio"
 county = "Socorro"
-longitude = -106.87644
 latitude = 33.963287
+longitude = -106.87644
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87832"
+

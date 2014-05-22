@@ -1,6 +1,8 @@
-zip_code = "25241"
-state = "WV"
 city = "Evans"
 county = "Jackson"
-longitude = -81.807118
 latitude = 38.796245
+longitude = -81.807118
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25241"
+

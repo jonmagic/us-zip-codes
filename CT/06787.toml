@@ -1,6 +1,8 @@
-zip_code = "06787"
-state = "CT"
 city = "Thomaston"
 county = "Litchfield"
-longitude = -73.098657
 latitude = 41.658721
+longitude = -73.098657
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06787"
+

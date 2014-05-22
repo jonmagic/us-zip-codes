@@ -1,6 +1,8 @@
-zip_code = "25081"
-state = "WV"
 city = "Foster"
 county = "Boone"
-longitude = -81.825259
 latitude = 38.072562
+longitude = -81.825259
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25081"
+

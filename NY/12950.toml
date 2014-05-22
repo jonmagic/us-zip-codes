@@ -1,6 +1,8 @@
-zip_code = "12950"
-state = "NY"
 city = "Lewis"
 county = "Essex"
-longitude = -73.815204
 latitude = 44.145678
+longitude = -73.815204
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12950"
+

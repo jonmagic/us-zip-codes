@@ -1,6 +1,8 @@
-zip_code = "69347"
-state = "NE"
 city = "Hay Springs"
 county = "Sheridan"
-longitude = -102.665536
 latitude = 42.636894
+longitude = -102.665536
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69347"
+

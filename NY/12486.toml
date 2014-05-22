@@ -1,6 +1,8 @@
-zip_code = "12486"
-state = "NY"
 city = "Tillson"
 county = "Ulster"
-longitude = -74.232241
 latitude = 41.837953
+longitude = -74.232241
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12486"
+

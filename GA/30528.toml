@@ -1,6 +1,8 @@
-zip_code = "30528"
-state = "GA"
 city = "Cleveland"
 county = "White"
-longitude = -83.74615
 latitude = 34.610466
+longitude = -83.74615
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30528"
+

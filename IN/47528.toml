@@ -1,6 +1,8 @@
-zip_code = "47528"
-state = "IN"
 city = "Edwardsport"
 county = "Knox"
-longitude = -87.38271
 latitude = 38.786795
+longitude = -87.38271
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47528"
+

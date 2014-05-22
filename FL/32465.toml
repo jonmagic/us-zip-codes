@@ -1,6 +1,8 @@
-zip_code = "32465"
-state = "FL"
 city = "Wewahitchka"
 county = "Gulf"
-longitude = -85.215173
 latitude = 30.025584
+longitude = -85.215173
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32465"
+

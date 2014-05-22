@@ -1,6 +1,8 @@
-zip_code = "63381"
-state = "MO"
 city = "Truxton"
 county = "Lincoln"
-longitude = -90.996785
 latitude = 39.022137
+longitude = -90.996785
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63381"
+

@@ -1,6 +1,8 @@
-zip_code = "75772"
-state = "TX"
 city = "Maydelle"
 county = "Cherokee"
-longitude = -95.300142
 latitude = 31.800846
+longitude = -95.300142
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75772"
+

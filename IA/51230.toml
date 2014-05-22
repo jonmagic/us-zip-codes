@@ -1,6 +1,8 @@
-zip_code = "51230"
-state = "IA"
 city = "Alvord"
 county = "Lyon"
-longitude = -96.311777
 latitude = 43.352717
+longitude = -96.311777
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51230"
+

@@ -1,6 +1,8 @@
-zip_code = "15548"
-state = "PA"
 city = "Kantner"
 county = "Somerset"
-longitude = -78.938653
 latitude = 40.101106
+longitude = -78.938653
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15548"
+

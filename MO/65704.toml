@@ -1,6 +1,8 @@
-zip_code = "65704"
-state = "MO"
 city = "Mansfield"
 county = "Wright"
-longitude = -92.573487
 latitude = 37.168407
+longitude = -92.573487
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65704"
+

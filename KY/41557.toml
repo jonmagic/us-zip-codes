@@ -1,6 +1,8 @@
-zip_code = "41557"
-state = "KY"
 city = "Raccoon"
 county = "Pike"
-longitude = -82.422135
 latitude = 37.493468
+longitude = -82.422135
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41557"
+

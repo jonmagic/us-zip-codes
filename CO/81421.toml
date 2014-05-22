@@ -1,6 +1,8 @@
-zip_code = "81421"
-state = "CO"
 city = "Maher"
 county = "Delta"
-longitude = -107.939831
 latitude = 38.942927
+longitude = -107.939831
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81421"
+

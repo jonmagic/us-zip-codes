@@ -1,6 +1,8 @@
-zip_code = "16312"
-state = "PA"
 city = "Chandlers Valley"
 county = "Warren"
-longitude = -79.309668
 latitude = 41.935848
+longitude = -79.309668
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16312"
+

@@ -1,6 +1,8 @@
-zip_code = "50631"
-state = "IA"
 city = "Frederika"
 county = "Bremer"
-longitude = -92.306271
 latitude = 42.882661
+longitude = -92.306271
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50631"
+

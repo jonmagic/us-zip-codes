@@ -1,6 +1,8 @@
-zip_code = "49881"
-state = "MI"
 city = "Sagola"
 county = "Dickinson"
-longitude = -88.039613
 latitude = 46.074737
+longitude = -88.039613
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49881"
+

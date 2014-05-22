@@ -1,6 +1,8 @@
-zip_code = "01347"
-state = "MA"
 city = "Lake Pleasant"
 county = "Franklin"
-longitude = -72.518104
 latitude = 42.556558
+longitude = -72.518104
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01347"
+

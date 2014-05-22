@@ -1,6 +1,8 @@
-zip_code = "27046"
-state = "NC"
 city = "Sandy Ridge"
 county = "Stokes"
-longitude = -80.105319
 latitude = 36.483901
+longitude = -80.105319
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27046"
+

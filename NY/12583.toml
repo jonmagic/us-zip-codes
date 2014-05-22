@@ -1,6 +1,8 @@
-zip_code = "12583"
-state = "NY"
 city = "Tivoli"
 county = "Dutchess"
-longitude = -73.749214
 latitude = 41.909683
+longitude = -73.749214
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12583"
+

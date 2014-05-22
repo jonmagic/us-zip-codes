@@ -1,6 +1,8 @@
-zip_code = "76484"
-state = "TX"
 city = "Palo Pinto"
 county = "Palo Pinto"
-longitude = -98.346877
 latitude = 32.704835
+longitude = -98.346877
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76484"
+

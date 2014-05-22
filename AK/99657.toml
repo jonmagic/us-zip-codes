@@ -1,6 +1,8 @@
-zip_code = "99657"
-state = "AK"
 city = "Russian Mission"
 county = "Wade Hampton"
-longitude = -163.237636
 latitude = 62.117231
+longitude = -163.237636
+state = ""
+state_code_alpha2 = ""
+zip_code = "99657"
+

@@ -1,6 +1,8 @@
-zip_code = "89721"
-state = "NV"
 city = "Carson City"
 county = "Carson City"
-longitude = -119.776409
 latitude = 39.167833
+longitude = -119.776409
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89721"
+

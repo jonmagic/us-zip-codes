@@ -1,6 +1,8 @@
-zip_code = "67670"
-state = "KS"
 city = "Stuttgart"
 county = "Phillips"
-longitude = -99.347075
 latitude = 39.784708
+longitude = -99.347075
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67670"
+

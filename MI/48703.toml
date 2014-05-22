@@ -1,6 +1,8 @@
-zip_code = "48703"
-state = "MI"
 city = "Au Gres"
 county = "Arenac"
-longitude = -83.686379
 latitude = 44.063621
+longitude = -83.686379
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48703"
+

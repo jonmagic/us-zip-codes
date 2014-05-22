@@ -1,6 +1,8 @@
-zip_code = "83428"
-state = "ID"
 city = "Irwin"
 county = "Bonneville"
-longitude = -111.25273
 latitude = 43.386149
+longitude = -111.25273
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83428"
+

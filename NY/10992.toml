@@ -1,6 +1,8 @@
-zip_code = "10992"
-state = "NY"
 city = "Washingtonville"
 county = "Orange"
-longitude = -74.345433
 latitude = 41.407974
+longitude = -74.345433
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10992"
+

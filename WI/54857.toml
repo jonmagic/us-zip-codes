@@ -1,6 +1,8 @@
-zip_code = "54857"
-state = "WI"
 city = "Mikana"
 county = "Barron"
-longitude = -91.61965
 latitude = 45.609562
+longitude = -91.61965
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54857"
+

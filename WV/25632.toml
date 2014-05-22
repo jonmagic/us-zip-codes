@@ -1,6 +1,8 @@
-zip_code = "25632"
-state = "WV"
 city = "Lyburn"
 county = "Logan"
-longitude = -81.921698
 latitude = 37.765557
+longitude = -81.921698
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25632"
+

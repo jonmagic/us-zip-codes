@@ -1,6 +1,8 @@
-zip_code = "62862"
-state = "IL"
 city = "Mill Shoals"
 county = "White"
-longitude = -88.258325
 latitude = 38.164114
+longitude = -88.258325
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62862"
+

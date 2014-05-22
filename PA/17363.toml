@@ -1,6 +1,8 @@
-zip_code = "17363"
-state = "PA"
 city = "Stewartstown"
 county = "York"
-longitude = -76.606747
 latitude = 39.809151
+longitude = -76.606747
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17363"
+

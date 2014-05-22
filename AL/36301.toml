@@ -1,6 +1,8 @@
-zip_code = "36301"
-state = "AL"
 city = "Dothan"
 county = "Houston"
-longitude = -85.371845
 latitude = 31.148124
+longitude = -85.371845
+state = ""
+state_code_alpha2 = ""
+zip_code = "36301"
+

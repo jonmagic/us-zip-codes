@@ -1,6 +1,8 @@
-zip_code = "59914"
-state = "MT"
 city = "Dayton"
 county = "Lake"
-longitude = -114.281873
 latitude = 47.854921
+longitude = -114.281873
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59914"
+

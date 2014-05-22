@@ -1,6 +1,8 @@
-zip_code = "51640"
-state = "IA"
 city = "Hamburg"
 county = "Fremont"
-longitude = -95.583179
 latitude = 40.741699
+longitude = -95.583179
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51640"
+

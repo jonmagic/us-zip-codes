@@ -1,6 +1,8 @@
-zip_code = "71953"
-state = "AR"
 city = "Mena"
 county = "Polk"
-longitude = -94.194756
 latitude = 34.503699
+longitude = -94.194756
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71953"
+

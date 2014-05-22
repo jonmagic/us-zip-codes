@@ -1,6 +1,8 @@
-zip_code = "61411"
-state = "IL"
 city = "Adair"
 county = "Mcdonough"
-longitude = -90.506582
 latitude = 40.387329
+longitude = -90.506582
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61411"
+

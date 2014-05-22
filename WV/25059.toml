@@ -1,6 +1,8 @@
-zip_code = "25059"
-state = "WV"
 city = "Dixie"
 county = "Nicholas"
-longitude = -81.217588
 latitude = 38.254945
+longitude = -81.217588
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25059"
+

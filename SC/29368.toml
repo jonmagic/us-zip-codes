@@ -1,6 +1,8 @@
-zip_code = "29368"
-state = "SC"
 city = "Mayo"
 county = "Spartanburg"
-longitude = -81.990216
 latitude = 34.949241
+longitude = -81.990216
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29368"
+

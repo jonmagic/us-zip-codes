@@ -1,6 +1,8 @@
-zip_code = "17256"
-state = "PA"
 city = "Shady Grove"
 county = "Franklin"
-longitude = -77.674851
 latitude = 39.783391
+longitude = -77.674851
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17256"
+

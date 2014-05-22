@@ -1,6 +1,8 @@
-zip_code = "03034"
-state = "NH"
 city = "Candia"
 county = "Rockingham"
-longitude = -71.305437
 latitude = 43.059283
+longitude = -71.305437
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03034"
+

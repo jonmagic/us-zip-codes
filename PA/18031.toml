@@ -1,6 +1,8 @@
-zip_code = "18031"
-state = "PA"
 city = "Breinigsville"
 county = "Lehigh"
-longitude = -75.540673
 latitude = 40.550733
+longitude = -75.540673
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18031"
+

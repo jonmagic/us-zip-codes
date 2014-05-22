@@ -1,6 +1,8 @@
-zip_code = "73738"
-state = "OK"
 city = "Garber"
 county = "Garfield"
-longitude = -97.580931
 latitude = 36.436334
+longitude = -97.580931
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73738"
+

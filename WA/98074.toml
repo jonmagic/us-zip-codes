@@ -1,6 +1,8 @@
-zip_code = "98074"
-state = "WA"
 city = "Sammamish"
 county = "King"
-longitude = 0.0
 latitude = 0.0
+longitude = 0.0
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98074"
+

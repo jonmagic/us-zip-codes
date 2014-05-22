@@ -1,6 +1,8 @@
-zip_code = "80481"
-state = "CO"
 city = "Ward"
 county = "Boulder"
-longitude = -105.472634
 latitude = 40.055785
+longitude = -105.472634
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80481"
+

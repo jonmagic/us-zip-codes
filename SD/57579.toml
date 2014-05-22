@@ -1,6 +1,8 @@
-zip_code = "57579"
-state = "SD"
 city = "White River"
 county = "Mellette"
-longitude = -100.745912
 latitude = 43.566116
+longitude = -100.745912
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57579"
+

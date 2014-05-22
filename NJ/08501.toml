@@ -1,6 +1,8 @@
-zip_code = "08501"
-state = "NJ"
 city = "Allentown"
 county = "Monmouth"
-longitude = -74.539598
 latitude = 40.149712
+longitude = -74.539598
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08501"
+

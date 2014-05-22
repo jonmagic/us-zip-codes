@@ -1,6 +1,8 @@
-zip_code = "32113"
-state = "FL"
 city = "Citra"
 county = "Marion"
-longitude = -82.084651
 latitude = 29.411299
+longitude = -82.084651
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32113"
+

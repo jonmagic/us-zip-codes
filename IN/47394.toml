@@ -1,6 +1,8 @@
-zip_code = "47394"
-state = "IN"
 city = "Winchester"
 county = "Randolph"
-longitude = -84.984682
 latitude = 40.159854
+longitude = -84.984682
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47394"
+

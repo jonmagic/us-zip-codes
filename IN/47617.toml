@@ -1,6 +1,8 @@
-zip_code = "47617"
-state = "IN"
 city = "Hatfield"
 county = "Spencer"
-longitude = -87.249886
 latitude = 37.903557
+longitude = -87.249886
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47617"
+

@@ -1,6 +1,8 @@
-zip_code = "55384"
-state = "MN"
 city = "Spring Park"
 county = "Hennepin"
-longitude = -93.630286
 latitude = 44.936862
+longitude = -93.630286
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55384"
+

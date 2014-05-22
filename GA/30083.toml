@@ -1,6 +1,8 @@
-zip_code = "30083"
-state = "GA"
 city = "Stone Mountain"
 county = "Dekalb"
-longitude = -84.203419
 latitude = 33.786405
+longitude = -84.203419
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30083"
+

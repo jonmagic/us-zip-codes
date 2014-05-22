@@ -1,6 +1,8 @@
-zip_code = "64645"
-state = "MO"
 city = "Harris"
 county = "Sullivan"
-longitude = -93.111314
 latitude = 40.209765
+longitude = -93.111314
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64645"
+

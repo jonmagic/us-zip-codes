@@ -1,6 +1,8 @@
-zip_code = "28169"
-state = "NC"
 city = "Waco"
 county = "Cleveland"
-longitude = -81.425111
 latitude = 35.35289
+longitude = -81.425111
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28169"
+

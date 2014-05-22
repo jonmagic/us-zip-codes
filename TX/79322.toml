@@ -1,6 +1,8 @@
-zip_code = "79322"
-state = "TX"
 city = "Crosbyton"
 county = "Crosby"
-longitude = -101.306058
 latitude = 33.616133
+longitude = -101.306058
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79322"
+

@@ -1,6 +1,8 @@
-zip_code = "99669"
-state = "AK"
 city = "Soldotna"
 county = "Kenai Peninsula"
-longitude = -151.247935
 latitude = 60.110034
+longitude = -151.247935
+state = ""
+state_code_alpha2 = ""
+zip_code = "99669"
+

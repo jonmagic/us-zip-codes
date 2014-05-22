@@ -1,6 +1,8 @@
-zip_code = "21020"
-state = "MD"
 city = "Boring"
 county = "Baltimore"
-longitude = -76.804699
 latitude = 39.521276
+longitude = -76.804699
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21020"
+

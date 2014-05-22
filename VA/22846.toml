@@ -1,6 +1,8 @@
-zip_code = "22846"
-state = "VA"
 city = "Penn Laird"
 county = "Rockingham"
-longitude = -78.77954
 latitude = 38.375012
+longitude = -78.77954
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22846"
+

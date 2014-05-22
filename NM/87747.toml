@@ -1,6 +1,8 @@
-zip_code = "87747"
-state = "NM"
 city = "Springer"
 county = "Colfax"
-longitude = -104.859182
 latitude = 36.603697
+longitude = -104.859182
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87747"
+

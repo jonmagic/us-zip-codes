@@ -1,6 +1,8 @@
-zip_code = "72856"
-state = "AR"
 city = "Pelsor"
 county = "Pope"
-longitude = -93.034092
 latitude = 35.617231
+longitude = -93.034092
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72856"
+

@@ -1,6 +1,8 @@
-zip_code = "50398"
-state = "IA"
 city = "West Des Moines"
 county = "Polk"
-longitude = -93.785502
 latitude = 41.594543
+longitude = -93.785502
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50398"
+

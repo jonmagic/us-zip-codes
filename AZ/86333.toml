@@ -1,6 +1,8 @@
-zip_code = "86333"
-state = "AZ"
 city = "Mayer"
 county = "Yavapai"
-longitude = -112.163493
 latitude = 34.414534
+longitude = -112.163493
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86333"
+

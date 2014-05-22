@@ -1,6 +1,8 @@
-zip_code = "45328"
-state = "OH"
 city = "Gettysburg"
 county = "Darke"
-longitude = -84.493439
 latitude = 40.114729
+longitude = -84.493439
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45328"
+

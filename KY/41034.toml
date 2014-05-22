@@ -1,6 +1,8 @@
-zip_code = "41034"
-state = "KY"
 city = "Dover"
 county = "Mason"
-longitude = -83.904101
 latitude = 38.707093
+longitude = -83.904101
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41034"
+

@@ -1,6 +1,8 @@
-zip_code = "75438"
-state = "TX"
 city = "Dodd City"
 county = "Fannin"
-longitude = -96.054433
 latitude = 33.57047
+longitude = -96.054433
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75438"
+

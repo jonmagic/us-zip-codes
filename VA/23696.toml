@@ -1,6 +1,8 @@
-zip_code = "23696"
-state = "VA"
 city = "Seaford"
 county = "York"
-longitude = -76.426469
 latitude = 37.189902
+longitude = -76.426469
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23696"
+

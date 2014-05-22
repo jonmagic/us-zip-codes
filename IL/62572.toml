@@ -1,6 +1,8 @@
-zip_code = "62572"
-state = "IL"
 city = "Waggoner"
 county = "Montgomery"
-longitude = -89.654507
 latitude = 39.368777
+longitude = -89.654507
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62572"
+

@@ -1,6 +1,8 @@
-zip_code = "12821"
-state = "NY"
 city = "Comstock"
 county = "Washington"
-longitude = -73.403287
 latitude = 43.46144
+longitude = -73.403287
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12821"
+

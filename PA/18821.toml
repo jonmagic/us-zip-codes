@@ -1,6 +1,8 @@
-zip_code = "18821"
-state = "PA"
 city = "Great Bend"
 county = "Susquehanna"
-longitude = -75.744802
 latitude = 41.973758
+longitude = -75.744802
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18821"
+

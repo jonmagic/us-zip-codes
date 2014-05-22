@@ -1,6 +1,8 @@
-zip_code = "58420"
-state = "ND"
 city = "Buchanan"
 county = "Stutsman"
-longitude = -98.900709
 latitude = 47.005084
+longitude = -98.900709
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58420"
+

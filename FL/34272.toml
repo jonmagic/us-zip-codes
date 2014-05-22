@@ -1,6 +1,8 @@
-zip_code = "34272"
-state = "FL"
 city = "Laurel"
 county = "Sarasota"
-longitude = -82.425512
 latitude = 27.146963
+longitude = -82.425512
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34272"
+

@@ -1,6 +1,8 @@
-zip_code = "42049"
-state = "KY"
 city = "Hazel"
 county = "Calloway"
-longitude = -88.322336
 latitude = 36.578831
+longitude = -88.322336
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42049"
+

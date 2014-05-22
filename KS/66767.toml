@@ -1,6 +1,8 @@
-zip_code = "66767"
-state = "KS"
 city = "Prescott"
 county = "Linn"
-longitude = -94.705448
 latitude = 38.178868
+longitude = -94.705448
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66767"
+

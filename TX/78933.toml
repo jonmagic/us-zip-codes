@@ -1,6 +1,8 @@
-zip_code = "78933"
-state = "TX"
 city = "Cat Spring"
 county = "Austin"
-longitude = -96.290838
 latitude = 29.886715
+longitude = -96.290838
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78933"
+

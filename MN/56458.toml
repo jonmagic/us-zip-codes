@@ -1,6 +1,8 @@
-zip_code = "56458"
-state = "MN"
 city = "Lake George"
 county = "Hubbard"
-longitude = -94.921064
 latitude = 47.108153
+longitude = -94.921064
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56458"
+

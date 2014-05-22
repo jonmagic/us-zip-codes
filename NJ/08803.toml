@@ -1,6 +1,8 @@
-zip_code = "08803"
-state = "NJ"
 city = "Baptistown"
 county = "Hunterdon"
-longitude = -74.949409
 latitude = 40.563654
+longitude = -74.949409
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08803"
+

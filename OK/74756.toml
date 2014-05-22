@@ -1,6 +1,8 @@
-zip_code = "74756"
-state = "OK"
 city = "Sawyer"
 county = "Choctaw"
-longitude = -95.573733
 latitude = 34.01168
+longitude = -95.573733
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74756"
+

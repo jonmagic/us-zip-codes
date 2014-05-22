@@ -1,6 +1,8 @@
-zip_code = "11705"
-state = "NY"
 city = "Bayport"
 county = "Suffolk"
-longitude = -73.057026
 latitude = 40.748364
+longitude = -73.057026
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11705"
+

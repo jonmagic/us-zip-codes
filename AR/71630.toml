@@ -1,6 +1,8 @@
-zip_code = "71630"
-state = "AR"
 city = "Arkansas City"
 county = "Desha"
-longitude = -91.207356
 latitude = 33.608922
+longitude = -91.207356
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71630"
+

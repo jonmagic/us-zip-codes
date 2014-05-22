@@ -1,6 +1,8 @@
-zip_code = "71655"
-state = "AR"
 city = "Monticello"
 county = "Drew"
-longitude = -91.755955
 latitude = 33.604967
+longitude = -91.755955
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71655"
+

@@ -1,6 +1,8 @@
-zip_code = "61359"
-state = "IL"
 city = "Seatonville"
 county = "Bureau"
-longitude = -89.269125
 latitude = 41.361251
+longitude = -89.269125
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61359"
+

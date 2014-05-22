@@ -1,6 +1,8 @@
-zip_code = "13638"
-state = "NY"
 city = "Felts Mills"
 county = "Jefferson"
-longitude = -75.755032
 latitude = 44.01751
+longitude = -75.755032
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13638"
+

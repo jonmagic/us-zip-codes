@@ -1,6 +1,8 @@
-zip_code = "53103"
-state = "WI"
 city = "Big Bend"
 county = "Waukesha"
-longitude = -88.205514
 latitude = 42.882441
+longitude = -88.205514
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53103"
+

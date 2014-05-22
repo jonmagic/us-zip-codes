@@ -1,6 +1,8 @@
-zip_code = "12490"
-state = "NY"
 city = "West Camp"
 county = "Ulster"
-longitude = -73.934577
 latitude = 42.108689
+longitude = -73.934577
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12490"
+

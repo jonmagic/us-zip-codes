@@ -1,6 +1,8 @@
-zip_code = "41513"
-state = "KY"
 city = "Belcher"
 county = "Pike"
-longitude = -82.340599
 latitude = 37.34781
+longitude = -82.340599
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41513"
+

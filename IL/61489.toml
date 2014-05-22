@@ -1,6 +1,8 @@
-zip_code = "61489"
-state = "IL"
 city = "Williamsfield"
 county = "Knox"
-longitude = -90.042908
 latitude = 40.94837
+longitude = -90.042908
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61489"
+

@@ -1,6 +1,8 @@
-zip_code = "86413"
-state = "AZ"
 city = "Golden Valley"
 county = "Mohave"
-longitude = -114.221531
 latitude = 35.30024
+longitude = -114.221531
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86413"
+

@@ -1,6 +1,8 @@
-zip_code = "74014"
-state = "OK"
 city = "Broken Arrow"
 county = "Wagoner"
-longitude = -95.654486
 latitude = 36.005673
+longitude = -95.654486
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74014"
+

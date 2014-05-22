@@ -1,6 +1,8 @@
-zip_code = "61931"
-state = "IL"
 city = "Humboldt"
 county = "Coles"
-longitude = -88.347315
 latitude = 39.586199
+longitude = -88.347315
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61931"
+

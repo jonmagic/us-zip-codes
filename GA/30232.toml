@@ -1,6 +1,8 @@
-zip_code = "30232"
-state = "GA"
 city = "Inman"
 county = "Fayette"
-longitude = -84.504403
 latitude = 33.403811
+longitude = -84.504403
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30232"
+

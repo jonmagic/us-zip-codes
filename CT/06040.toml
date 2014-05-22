@@ -1,6 +1,8 @@
-zip_code = "06040"
-state = "CT"
 city = "Manchester"
 county = "Hartford"
-longitude = -72.523748
 latitude = 41.776048
+longitude = -72.523748
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06040"
+

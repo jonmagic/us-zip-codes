@@ -1,6 +1,8 @@
-zip_code = "58421"
-state = "ND"
 city = "Carrington"
 county = "Foster"
-longitude = -98.893314
 latitude = 47.457278
+longitude = -98.893314
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58421"
+

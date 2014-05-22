@@ -1,6 +1,8 @@
-zip_code = "24351"
-state = "VA"
 city = "Lambsburg"
 county = "Carroll"
-longitude = -80.759966
 latitude = 36.58637
+longitude = -80.759966
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24351"
+

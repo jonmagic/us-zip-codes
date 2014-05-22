@@ -1,6 +1,8 @@
-zip_code = "32735"
-state = "FL"
 city = "Grand Island"
 county = "Lake"
-longitude = -81.743634
 latitude = 28.904429
+longitude = -81.743634
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32735"
+

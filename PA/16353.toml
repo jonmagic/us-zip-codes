@@ -1,6 +1,8 @@
-zip_code = "16353"
-state = "PA"
 city = "Tionesta"
 county = "Forest"
-longitude = -79.407452
 latitude = 41.500915
+longitude = -79.407452
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16353"
+

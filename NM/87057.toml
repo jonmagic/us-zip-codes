@@ -1,6 +1,8 @@
-zip_code = "87057"
-state = "NM"
 city = "Tajique"
 county = "Torrance"
-longitude = -105.880597
 latitude = 34.650925
+longitude = -105.880597
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87057"
+

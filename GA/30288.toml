@@ -1,6 +1,8 @@
-zip_code = "30288"
-state = "GA"
 city = "Conley"
 county = "Dekalb"
-longitude = -84.337139
 latitude = 33.636858
+longitude = -84.337139
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30288"
+

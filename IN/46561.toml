@@ -1,6 +1,8 @@
-zip_code = "46561"
-state = "IN"
 city = "Osceola"
 county = "St Joseph"
-longitude = -86.087002
 latitude = 41.669504
+longitude = -86.087002
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46561"
+

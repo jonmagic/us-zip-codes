@@ -1,6 +1,8 @@
-zip_code = "72021"
-state = "AR"
 city = "Brinkley"
 county = "Monroe"
-longitude = -91.194574
 latitude = 34.883421
+longitude = -91.194574
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72021"
+

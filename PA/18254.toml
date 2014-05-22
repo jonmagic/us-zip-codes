@@ -1,6 +1,8 @@
-zip_code = "18254"
-state = "PA"
 city = "Tresckow"
 county = "Carbon"
-longitude = -75.938611
 latitude = 40.924803
+longitude = -75.938611
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18254"
+

@@ -1,6 +1,8 @@
-zip_code = "61421"
-state = "IL"
 city = "Bradford"
 county = "Stark"
-longitude = -89.657789
 latitude = 41.176471
+longitude = -89.657789
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61421"
+

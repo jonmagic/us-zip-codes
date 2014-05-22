@@ -1,6 +1,8 @@
-zip_code = "61021"
-state = "IL"
 city = "Dixon"
 county = "Lee"
-longitude = -89.417156
 latitude = 41.809229
+longitude = -89.417156
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61021"
+

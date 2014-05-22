@@ -1,6 +1,8 @@
-zip_code = "24148"
-state = "VA"
 city = "Ridgeway"
 county = "Henry"
-longitude = -79.854972
 latitude = 36.650725
+longitude = -79.854972
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24148"
+

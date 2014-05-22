@@ -1,6 +1,8 @@
-zip_code = "74035"
-state = "OK"
 city = "Hominy"
 county = "Osage"
-longitude = -96.236595
 latitude = 36.363731
+longitude = -96.236595
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74035"
+

@@ -1,6 +1,8 @@
-zip_code = "54004"
-state = "WI"
 city = "Clayton"
 county = "Polk"
-longitude = -92.430772
 latitude = 45.31484
+longitude = -92.430772
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54004"
+

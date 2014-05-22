@@ -1,6 +1,8 @@
-zip_code = "84310"
-state = "UT"
 city = "Eden"
 county = "Weber"
-longitude = -111.738298
 latitude = 41.339343
+longitude = -111.738298
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84310"
+

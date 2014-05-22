@@ -1,6 +1,8 @@
-zip_code = "44636"
-state = "OH"
 city = "Kidron"
 county = "Wayne"
-longitude = -81.742811
 latitude = 40.738387
+longitude = -81.742811
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44636"
+

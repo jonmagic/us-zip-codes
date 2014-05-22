@@ -1,6 +1,8 @@
-zip_code = "47024"
-state = "IN"
 city = "Laurel"
 county = "Franklin"
-longitude = -85.178057
 latitude = 39.467957
+longitude = -85.178057
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47024"
+

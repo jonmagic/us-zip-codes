@@ -1,6 +1,8 @@
-zip_code = "72003"
-state = "AR"
 city = "Almyra"
 county = "Arkansas"
-longitude = -91.392364
 latitude = 34.38443
+longitude = -91.392364
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72003"
+

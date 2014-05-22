@@ -1,6 +1,8 @@
-zip_code = "36901"
-state = "AL"
 city = "Bellamy"
 county = "Sumter"
-longitude = -88.140634
 latitude = 32.467134
+longitude = -88.140634
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36901"
+

@@ -1,6 +1,8 @@
-zip_code = "61747"
-state = "IL"
 city = "Hopedale"
 county = "Tazewell"
-longitude = -89.445054
 latitude = 40.535696
+longitude = -89.445054
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61747"
+

@@ -1,6 +1,8 @@
-zip_code = "76471"
-state = "TX"
 city = "Rising Star"
 county = "Eastland"
-longitude = -98.860949
 latitude = 32.268924
+longitude = -98.860949
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76471"
+

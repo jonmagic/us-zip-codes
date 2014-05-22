@@ -1,6 +1,8 @@
-zip_code = "42757"
-state = "KY"
 city = "Magnolia"
 county = "Larue"
-longitude = -85.723511
 latitude = 37.469063
+longitude = -85.723511
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42757"
+

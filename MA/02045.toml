@@ -1,6 +1,8 @@
-zip_code = "02045"
-state = "MA"
 city = "Hull"
 county = "Plymouth"
-longitude = -70.873659
 latitude = 42.284413
+longitude = -70.873659
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02045"
+

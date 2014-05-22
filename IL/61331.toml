@@ -1,6 +1,8 @@
-zip_code = "61331"
-state = "IL"
 city = "Lee Center"
 county = "Lee"
-longitude = -89.282726
 latitude = 41.74885
+longitude = -89.282726
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61331"
+

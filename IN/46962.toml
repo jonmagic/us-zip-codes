@@ -1,6 +1,8 @@
-zip_code = "46962"
-state = "IN"
 city = "North Manchester"
 county = "Wabash"
-longitude = -85.794138
 latitude = 40.859877
+longitude = -85.794138
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46962"
+

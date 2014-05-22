@@ -1,6 +1,8 @@
-zip_code = "39320"
-state = "MS"
 city = "Bailey"
 county = "Lauderdale"
-longitude = -88.745613
 latitude = 32.52258
+longitude = -88.745613
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39320"
+

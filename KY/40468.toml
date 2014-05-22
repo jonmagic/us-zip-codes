@@ -1,6 +1,8 @@
-zip_code = "40468"
-state = "KY"
 city = "Perryville"
 county = "Boyle"
-longitude = -84.97602
 latitude = 37.637433
+longitude = -84.97602
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40468"
+

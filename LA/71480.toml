@@ -1,6 +1,8 @@
-zip_code = "71480"
-state = "LA"
 city = "Urania"
 county = "La Salle"
-longitude = -92.291463
 latitude = 31.864998
+longitude = -92.291463
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71480"
+

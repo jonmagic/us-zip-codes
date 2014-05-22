@@ -1,6 +1,8 @@
-zip_code = "36268"
-state = "AL"
 city = "Munford"
 county = "Talladega"
-longitude = -85.920854
 latitude = 33.486183
+longitude = -85.920854
+state = ""
+state_code_alpha2 = ""
+zip_code = "36268"
+

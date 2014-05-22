@@ -1,6 +1,8 @@
-zip_code = "65785"
-state = "MO"
 city = "Stockton"
 county = "Cedar"
-longitude = -93.797692
 latitude = 37.681676
+longitude = -93.797692
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65785"
+

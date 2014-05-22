@@ -1,6 +1,8 @@
-zip_code = "61863"
-state = "IL"
 city = "Pesotum"
 county = "Champaign"
-longitude = -88.1675
 latitude = 40.090766
+longitude = -88.1675
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61863"
+

@@ -1,6 +1,8 @@
-zip_code = "97870"
-state = "OR"
 city = "Richland"
 county = "Baker"
-longitude = -117.229802
 latitude = 44.794629
+longitude = -117.229802
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97870"
+

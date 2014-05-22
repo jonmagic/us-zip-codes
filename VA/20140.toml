@@ -1,6 +1,8 @@
-zip_code = "20140"
-state = "VA"
 city = "Rectortown"
 county = "Fauquier"
-longitude = -77.864841
 latitude = 38.916291
+longitude = -77.864841
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20140"
+

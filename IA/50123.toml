@@ -1,6 +1,8 @@
-zip_code = "50123"
-state = "IA"
 city = "Humeston"
 county = "Wayne"
-longitude = -93.518445
 latitude = 40.80286
+longitude = -93.518445
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50123"
+

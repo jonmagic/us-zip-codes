@@ -1,6 +1,8 @@
-zip_code = "67154"
-state = "KS"
 city = "Whitewater"
 county = "Butler"
-longitude = -97.088361
 latitude = 37.977983
+longitude = -97.088361
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67154"
+

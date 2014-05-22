@@ -1,6 +1,8 @@
-zip_code = "68326"
-state = "NE"
 city = "Carleton"
 county = "Thayer"
-longitude = -97.67615
 latitude = 40.303471
+longitude = -97.67615
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68326"
+

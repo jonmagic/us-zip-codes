@@ -1,6 +1,8 @@
-zip_code = "58274"
-state = "ND"
 city = "Portland"
 county = "Traill"
-longitude = -97.244353
 latitude = 47.582141
+longitude = -97.244353
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58274"
+

@@ -1,6 +1,8 @@
-zip_code = "78006"
-state = "TX"
 city = "Boerne"
 county = "Kendall"
-longitude = -98.685719
 latitude = 29.893137
+longitude = -98.685719
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78006"
+

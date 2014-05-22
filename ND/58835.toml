@@ -1,6 +1,8 @@
-zip_code = "58835"
-state = "ND"
 city = "Arnegard"
 county = "Mckenzie"
-longitude = -103.438887
 latitude = 47.807748
+longitude = -103.438887
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58835"
+

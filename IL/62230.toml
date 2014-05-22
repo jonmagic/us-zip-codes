@@ -1,6 +1,8 @@
-zip_code = "62230"
-state = "IL"
 city = "Breese"
 county = "Clinton"
-longitude = -89.52961
 latitude = 38.640028
+longitude = -89.52961
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62230"
+

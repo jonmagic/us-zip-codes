@@ -1,6 +1,8 @@
-zip_code = "14025"
-state = "NY"
 city = "Boston"
 county = "Erie"
-longitude = -78.726767
 latitude = 42.625391
+longitude = -78.726767
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14025"
+

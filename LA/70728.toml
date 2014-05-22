@@ -1,6 +1,8 @@
-zip_code = "70728"
-state = "LA"
 city = "Duplessis"
 county = "Ascension"
-longitude = -90.945836
 latitude = 30.295446
+longitude = -90.945836
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70728"
+

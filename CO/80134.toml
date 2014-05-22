@@ -1,6 +1,8 @@
-zip_code = "80134"
-state = "CO"
 city = "Parker"
 county = "Douglas"
-longitude = -104.844731
 latitude = 39.489472
+longitude = -104.844731
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80134"
+

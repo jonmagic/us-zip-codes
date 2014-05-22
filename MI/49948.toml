@@ -1,6 +1,8 @@
-zip_code = "49948"
-state = "MI"
 city = "Mass City"
 county = "Ontonagon"
-longitude = -89.051191
 latitude = 46.722794
+longitude = -89.051191
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49948"
+

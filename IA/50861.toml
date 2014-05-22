@@ -1,6 +1,8 @@
-zip_code = "50861"
-state = "IA"
 city = "Shannon City"
 county = "Union"
-longitude = -94.242881
 latitude = 40.933655
+longitude = -94.242881
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50861"
+

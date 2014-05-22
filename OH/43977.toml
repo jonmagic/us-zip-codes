@@ -1,6 +1,8 @@
-zip_code = "43977"
-state = "OH"
 city = "Flushing"
 county = "Belmont"
-longitude = -81.090224
 latitude = 40.115634
+longitude = -81.090224
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43977"
+

@@ -1,6 +1,8 @@
-zip_code = "07928"
-state = "NJ"
 city = "Chatham"
 county = "Morris"
-longitude = -74.496806
 latitude = 40.759477
+longitude = -74.496806
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07928"
+

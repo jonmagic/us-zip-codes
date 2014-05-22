@@ -1,6 +1,8 @@
-zip_code = "48326"
-state = "MI"
 city = "Auburn Hills"
 county = "Oakland"
-longitude = -83.295052
 latitude = 42.673931
+longitude = -83.295052
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48326"
+

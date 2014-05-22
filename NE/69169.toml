@@ -1,6 +1,8 @@
-zip_code = "69169"
-state = "NE"
 city = "Wallace"
 county = "Lincoln"
-longitude = -100.746912
 latitude = 41.046447
+longitude = -100.746912
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69169"
+

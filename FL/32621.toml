@@ -1,6 +1,8 @@
-zip_code = "32621"
-state = "FL"
 city = "Bronson"
 county = "Levy"
-longitude = -82.549823
 latitude = 29.431045
+longitude = -82.549823
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32621"
+

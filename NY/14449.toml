@@ -1,6 +1,8 @@
-zip_code = "14449"
-state = "NY"
 city = "East Williamson"
 county = "Wayne"
-longitude = -77.137642
 latitude = 43.235369
+longitude = -77.137642
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14449"
+

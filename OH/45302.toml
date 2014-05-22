@@ -1,6 +1,8 @@
-zip_code = "45302"
-state = "OH"
 city = "Anna"
 county = "Shelby"
-longitude = -84.203271
 latitude = 40.407239
+longitude = -84.203271
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45302"
+

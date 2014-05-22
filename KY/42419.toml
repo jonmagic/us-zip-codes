@@ -1,6 +1,8 @@
-zip_code = "42419"
-state = "KY"
 city = "Henderson"
 county = "Henderson"
-longitude = -87.599052
 latitude = 37.807173
+longitude = -87.599052
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42419"
+

@@ -1,6 +1,8 @@
-zip_code = "42378"
-state = "KY"
 city = "Whitesville"
 county = "Daviess"
-longitude = -86.883013
 latitude = 37.682485
+longitude = -86.883013
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42378"
+

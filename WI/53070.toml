@@ -1,6 +1,8 @@
-zip_code = "53070"
-state = "WI"
 city = "Oostburg"
 county = "Sheboygan"
-longitude = -87.810616
 latitude = 43.620857
+longitude = -87.810616
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53070"
+

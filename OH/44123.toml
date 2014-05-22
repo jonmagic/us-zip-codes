@@ -1,6 +1,8 @@
-zip_code = "44123"
-state = "OH"
 city = "Euclid"
 county = "Cuyahoga"
-longitude = -81.525842
 latitude = 41.602548
+longitude = -81.525842
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44123"
+

@@ -1,6 +1,8 @@
-zip_code = "54010"
-state = "WI"
 city = "East Ellsworth"
 county = "Pierce"
-longitude = -92.465532
 latitude = 44.734759
+longitude = -92.465532
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54010"
+

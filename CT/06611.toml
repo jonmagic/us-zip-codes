@@ -1,6 +1,8 @@
-zip_code = "06611"
-state = "CT"
 city = "Trumbull"
 county = "Fairfield"
-longitude = -73.206957
 latitude = 41.259996
+longitude = -73.206957
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06611"
+

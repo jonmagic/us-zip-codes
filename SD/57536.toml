@@ -1,6 +1,8 @@
-zip_code = "57536"
-state = "SD"
 city = "Harrold"
 county = "Hughes"
-longitude = -99.767237
 latitude = 44.333927
+longitude = -99.767237
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57536"
+

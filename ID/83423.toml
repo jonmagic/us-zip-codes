@@ -1,6 +1,8 @@
-zip_code = "83423"
-state = "ID"
 city = "Dubois"
 county = "Clark"
-longitude = -112.219898
 latitude = 44.177432
+longitude = -112.219898
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83423"
+

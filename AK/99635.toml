@@ -1,6 +1,8 @@
-zip_code = "99635"
-state = "AK"
 city = "Nikiski"
 county = "Kenai Peninsula"
-longitude = -151.276633
 latitude = 60.700696
+longitude = -151.276633
+state = ""
+state_code_alpha2 = ""
+zip_code = "99635"
+

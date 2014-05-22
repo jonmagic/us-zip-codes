@@ -1,6 +1,8 @@
-zip_code = "28429"
-state = "NC"
 city = "Castle Hayne"
 county = "New Hanover"
-longitude = -77.887477
 latitude = 34.329932
+longitude = -77.887477
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28429"
+

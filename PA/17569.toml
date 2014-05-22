@@ -1,6 +1,8 @@
-zip_code = "17569"
-state = "PA"
 city = "Reinholds"
 county = "Lancaster"
-longitude = -76.091179
 latitude = 40.152713
+longitude = -76.091179
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17569"
+

@@ -1,6 +1,8 @@
-zip_code = "74469"
-state = "OK"
 city = "Warner"
 county = "Muskogee"
-longitude = -95.390328
 latitude = 35.493529
+longitude = -95.390328
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74469"
+

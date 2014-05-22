@@ -1,6 +1,8 @@
-zip_code = "76127"
-state = "TX"
 city = "Naval Air Station/ Jrb"
 county = "Tarrant"
-longitude = -97.427153
 latitude = 32.766737
+longitude = -97.427153
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76127"
+

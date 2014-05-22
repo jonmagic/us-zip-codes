@@ -1,6 +1,8 @@
-zip_code = "35130"
-state = "AL"
 city = "Quinton"
 county = "Walker"
-longitude = -87.124359
 latitude = 33.721814
+longitude = -87.124359
+state = ""
+state_code_alpha2 = ""
+zip_code = "35130"
+

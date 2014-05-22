@@ -1,6 +1,8 @@
-zip_code = "47336"
-state = "IN"
 city = "Dunkirk"
 county = "Jay"
-longitude = -85.091124
 latitude = 40.43525
+longitude = -85.091124
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47336"
+

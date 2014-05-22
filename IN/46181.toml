@@ -1,6 +1,8 @@
-zip_code = "46181"
-state = "IN"
 city = "Trafalgar"
 county = "Johnson"
-longitude = -86.103674
 latitude = 39.416652
+longitude = -86.103674
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46181"
+

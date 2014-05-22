@@ -1,6 +1,8 @@
-zip_code = "21767"
-state = "MD"
 city = "Maugansville"
 county = "Washington"
-longitude = -77.746766
 latitude = 39.696761
+longitude = -77.746766
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21767"
+

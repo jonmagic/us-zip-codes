@@ -1,6 +1,8 @@
-zip_code = "37324"
-state = "TN"
 city = "Decherd"
 county = "Franklin"
-longitude = -86.068439
 latitude = 35.255505
+longitude = -86.068439
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37324"
+

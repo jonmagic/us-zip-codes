@@ -1,6 +1,8 @@
-zip_code = "97819"
-state = "OR"
 city = "Bridgeport"
 county = "Baker"
-longitude = -117.765498
 latitude = 44.493135
+longitude = -117.765498
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97819"
+

@@ -1,6 +1,8 @@
-zip_code = "28691"
-state = "NC"
 city = "Valle Crucis"
 county = "Watauga"
-longitude = -81.778871
 latitude = 36.209158
+longitude = -81.778871
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28691"
+

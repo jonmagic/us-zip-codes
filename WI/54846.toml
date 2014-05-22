@@ -1,6 +1,8 @@
-zip_code = "54846"
-state = "WI"
 city = "High Bridge"
 county = "Ashland"
-longitude = -90.761153
 latitude = 46.376072
+longitude = -90.761153
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54846"
+

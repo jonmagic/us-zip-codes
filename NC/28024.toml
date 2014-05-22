@@ -1,6 +1,8 @@
-zip_code = "28024"
-state = "NC"
 city = "Cliffside"
 county = "Rutherford"
-longitude = -81.775456
 latitude = 35.241615
+longitude = -81.775456
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28024"
+

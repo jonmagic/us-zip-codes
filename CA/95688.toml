@@ -1,6 +1,8 @@
-zip_code = "95688"
-state = "CA"
 city = "Vacaville"
 county = "Solano"
-longitude = -122.012778
 latitude = 38.407405
+longitude = -122.012778
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95688"
+

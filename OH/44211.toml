@@ -1,6 +1,8 @@
-zip_code = "44211"
-state = "OH"
 city = "Brady Lake"
 county = "Portage"
-longitude = -81.312416
 latitude = 41.169816
+longitude = -81.312416
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44211"
+

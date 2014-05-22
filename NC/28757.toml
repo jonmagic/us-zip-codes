@@ -1,6 +1,8 @@
-zip_code = "28757"
-state = "NC"
 city = "Montreat"
 county = "Buncombe"
-longitude = -82.315637
 latitude = 35.641473
+longitude = -82.315637
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28757"
+

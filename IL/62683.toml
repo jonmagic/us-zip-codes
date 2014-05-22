@@ -1,6 +1,8 @@
-zip_code = "62683"
-state = "IL"
 city = "Scottville"
 county = "Macoupin"
-longitude = -89.926068
 latitude = 39.260862
+longitude = -89.926068
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62683"
+

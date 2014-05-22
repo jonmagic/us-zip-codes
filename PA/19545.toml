@@ -1,6 +1,8 @@
-zip_code = "19545"
-state = "PA"
 city = "New Berlinville"
 county = "Berks"
-longitude = -75.63016
 latitude = 40.33968
+longitude = -75.63016
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19545"
+

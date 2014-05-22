@@ -1,6 +1,8 @@
-zip_code = "93626"
-state = "CA"
 city = "Friant"
 county = "Fresno"
-longitude = -119.668152
 latitude = 36.839928
+longitude = -119.668152
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93626"
+

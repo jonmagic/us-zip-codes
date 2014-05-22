@@ -1,6 +1,8 @@
-zip_code = "19731"
-state = "DE"
 city = "Port Penn"
 county = "New Castle"
-longitude = -75.58518
 latitude = 39.512902
+longitude = -75.58518
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19731"
+

@@ -1,6 +1,8 @@
-zip_code = "28546"
-state = "NC"
 city = "Jacksonville"
 county = "Onslow"
-longitude = -77.444847
 latitude = 34.720825
+longitude = -77.444847
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28546"
+

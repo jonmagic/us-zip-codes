@@ -1,6 +1,8 @@
-zip_code = "95656"
-state = "CA"
 city = "Mount Aukum"
 county = "El Dorado"
-longitude = -120.707891
 latitude = 38.54723
+longitude = -120.707891
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95656"
+

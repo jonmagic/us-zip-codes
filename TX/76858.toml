@@ -1,6 +1,8 @@
-zip_code = "76858"
-state = "TX"
 city = "Melvin"
 county = "Mcculloch"
-longitude = -99.347156
 latitude = 31.217152
+longitude = -99.347156
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76858"
+

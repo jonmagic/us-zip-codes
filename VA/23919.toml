@@ -1,6 +1,8 @@
-zip_code = "23919"
-state = "VA"
 city = "Bracey"
 county = "Mecklenburg"
-longitude = -78.288907
 latitude = 36.612381
+longitude = -78.288907
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23919"
+

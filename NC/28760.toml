@@ -1,6 +1,8 @@
-zip_code = "28760"
-state = "NC"
 city = "Naples"
 county = "Henderson"
-longitude = -82.481257
 latitude = 35.381677
+longitude = -82.481257
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28760"
+

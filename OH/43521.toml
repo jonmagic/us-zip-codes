@@ -1,6 +1,8 @@
-zip_code = "43521"
-state = "OH"
 city = "Fayette"
 county = "Fulton"
-longitude = -84.28596
 latitude = 41.649036
+longitude = -84.28596
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43521"
+

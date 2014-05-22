@@ -1,6 +1,8 @@
-zip_code = "61925"
-state = "IL"
 city = "Dalton City"
 county = "Moultrie"
-longitude = -88.774951
 latitude = 39.679871
+longitude = -88.774951
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61925"
+

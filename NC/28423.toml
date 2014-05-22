@@ -1,6 +1,8 @@
-zip_code = "28423"
-state = "NC"
 city = "Bolton"
 county = "Columbus"
-longitude = -78.350029
 latitude = 34.275295
+longitude = -78.350029
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28423"
+

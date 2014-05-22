@@ -1,6 +1,8 @@
-zip_code = "68448"
-state = "NE"
 city = "Talmage"
 county = "Otoe"
-longitude = -95.998514
 latitude = 40.55711
+longitude = -95.998514
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68448"
+

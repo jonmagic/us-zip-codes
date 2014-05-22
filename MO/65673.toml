@@ -1,6 +1,8 @@
-zip_code = "65673"
-state = "MO"
 city = "Hollister"
 county = "Taney"
-longitude = -93.216187
 latitude = 36.617892
+longitude = -93.216187
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65673"
+

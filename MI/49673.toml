@@ -1,6 +1,8 @@
-zip_code = "49673"
-state = "MI"
 city = "Old Mission"
 county = "Grand Traverse"
-longitude = -85.490005
 latitude = 44.955872
+longitude = -85.490005
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49673"
+

@@ -1,6 +1,8 @@
-zip_code = "14437"
-state = "NY"
 city = "Dansville"
 county = "Livingston"
-longitude = -77.737515
 latitude = 42.61837
+longitude = -77.737515
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14437"
+

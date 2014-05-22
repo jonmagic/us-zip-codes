@@ -1,6 +1,8 @@
-zip_code = "05849"
-state = "VT"
 city = "Lyndon"
 county = "Caledonia"
-longitude = -71.950519
 latitude = 44.497557
+longitude = -71.950519
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05849"
+

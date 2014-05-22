@@ -1,6 +1,8 @@
-zip_code = "68620"
-state = "NE"
 city = "Albion"
 county = "Boone"
-longitude = -98.011092
 latitude = 41.648736
+longitude = -98.011092
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68620"
+

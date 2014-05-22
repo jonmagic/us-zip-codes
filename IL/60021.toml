@@ -1,6 +1,8 @@
-zip_code = "60021"
-state = "IL"
 city = "Fox River Grove"
 county = "Mchenry"
-longitude = -88.250406
 latitude = 42.213058
+longitude = -88.250406
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60021"
+

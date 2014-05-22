@@ -1,6 +1,8 @@
-zip_code = "25529"
-state = "WV"
 city = "Julian"
 county = "Boone"
-longitude = -81.86073
 latitude = 38.146531
+longitude = -81.86073
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25529"
+

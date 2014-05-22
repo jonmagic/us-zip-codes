@@ -1,6 +1,8 @@
-zip_code = "15738"
-state = "PA"
 city = "Emeigh"
 county = "Cambria"
-longitude = -78.775076
 latitude = 40.693633
+longitude = -78.775076
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15738"
+

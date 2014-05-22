@@ -1,6 +1,8 @@
-zip_code = "05345"
-state = "VT"
 city = "Newfane"
 county = "Windham"
-longitude = -72.678725
 latitude = 43.013138
+longitude = -72.678725
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05345"
+

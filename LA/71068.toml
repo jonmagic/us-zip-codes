@@ -1,6 +1,8 @@
-zip_code = "71068"
-state = "LA"
 city = "Ringgold"
 county = "Bienville"
-longitude = -93.238047
 latitude = 32.382223
+longitude = -93.238047
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71068"
+

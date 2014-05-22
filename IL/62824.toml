@@ -1,6 +1,8 @@
-zip_code = "62824"
-state = "IL"
 city = "Clay City"
 county = "Clay"
-longitude = -88.417422
 latitude = 38.725325
+longitude = -88.417422
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62824"
+

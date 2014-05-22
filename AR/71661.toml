@@ -1,6 +1,8 @@
-zip_code = "71661"
-state = "AR"
 city = "Parkdale"
 county = "Ashley"
-longitude = -91.576612
 latitude = 33.139243
+longitude = -91.576612
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71661"
+

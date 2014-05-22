@@ -1,6 +1,8 @@
-zip_code = "95548"
-state = "CA"
 city = "Klamath"
 county = "Del Norte"
-longitude = -124.054355
 latitude = 41.609872
+longitude = -124.054355
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95548"
+

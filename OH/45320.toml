@@ -1,6 +1,8 @@
-zip_code = "45320"
-state = "OH"
 city = "Eaton"
 county = "Preble"
-longitude = -84.674889
 latitude = 39.77485
+longitude = -84.674889
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45320"
+

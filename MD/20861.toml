@@ -1,6 +1,8 @@
-zip_code = "20861"
-state = "MD"
 city = "Ashton"
 county = "Montgomery"
-longitude = -76.994498
 latitude = 39.151468
+longitude = -76.994498
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20861"
+

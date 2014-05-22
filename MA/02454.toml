@@ -1,6 +1,8 @@
-zip_code = "02454"
-state = "MA"
 city = "Waltham"
 county = "Middlesex"
-longitude = -71.250479
 latitude = 42.356719
+longitude = -71.250479
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02454"
+

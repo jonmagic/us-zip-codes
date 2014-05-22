@@ -1,6 +1,8 @@
-zip_code = "07801"
-state = "NJ"
 city = "Dover"
 county = "Morris"
-longitude = -74.546651
 latitude = 40.917598
+longitude = -74.546651
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07801"
+

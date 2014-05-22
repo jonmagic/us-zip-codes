@@ -1,6 +1,8 @@
-zip_code = "42539"
-state = "KY"
 city = "Liberty"
 county = "Casey"
-longitude = -84.957722
 latitude = 37.302162
+longitude = -84.957722
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42539"
+

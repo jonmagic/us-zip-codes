@@ -1,6 +1,8 @@
-zip_code = "49317"
-state = "MI"
 city = "Cannonsburg"
 county = "Kent"
-longitude = -85.480856
 latitude = 43.071201
+longitude = -85.480856
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49317"
+

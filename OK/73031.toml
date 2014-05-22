@@ -1,6 +1,8 @@
-zip_code = "73031"
-state = "OK"
 city = "Dibble"
 county = "Mcclain"
-longitude = -97.301103
 latitude = 35.095739
+longitude = -97.301103
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73031"
+

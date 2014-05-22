@@ -1,6 +1,8 @@
-zip_code = "13454"
-state = "NY"
 city = "Salisbury Center"
 county = "Herkimer"
-longitude = -74.957099
 latitude = 43.460951
+longitude = -74.957099
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13454"
+

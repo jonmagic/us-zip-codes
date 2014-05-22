@@ -1,6 +1,8 @@
-zip_code = "79536"
-state = "TX"
 city = "Merkel"
 county = "Taylor"
-longitude = -99.939593
 latitude = 32.329643
+longitude = -99.939593
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79536"
+

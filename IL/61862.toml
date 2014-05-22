@@ -1,6 +1,8 @@
-zip_code = "61862"
-state = "IL"
 city = "Penfield"
 county = "Champaign"
-longitude = -87.966332
 latitude = 40.305199
+longitude = -87.966332
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61862"
+

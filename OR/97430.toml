@@ -1,6 +1,8 @@
-zip_code = "97430"
-state = "OR"
 city = "Deadwood"
 county = "Lane"
-longitude = -123.681581
 latitude = 44.146196
+longitude = -123.681581
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97430"
+

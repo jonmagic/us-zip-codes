@@ -1,6 +1,8 @@
-zip_code = "07092"
-state = "NJ"
 city = "Mountainside"
 county = "Union"
-longitude = -74.358394
 latitude = 40.680701
+longitude = -74.358394
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07092"
+

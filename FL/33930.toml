@@ -1,6 +1,8 @@
-zip_code = "33930"
-state = "FL"
 city = "Felda"
 county = "Hendry"
-longitude = -81.479912
 latitude = 26.612772
+longitude = -81.479912
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33930"
+

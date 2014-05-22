@@ -1,6 +1,8 @@
-zip_code = "36505"
-state = "AL"
 city = "Axis"
 county = "Mobile"
-longitude = -88.015868
 latitude = 30.939368
+longitude = -88.015868
+state = ""
+state_code_alpha2 = ""
+zip_code = "36505"
+

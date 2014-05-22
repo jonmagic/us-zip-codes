@@ -1,6 +1,8 @@
-zip_code = "56434"
-state = "MN"
 city = "Aldrich"
 county = "Wadena"
-longitude = -94.936381
 latitude = 46.379683
+longitude = -94.936381
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56434"
+

@@ -1,6 +1,8 @@
-zip_code = "31304"
-state = "GA"
 city = "Crescent"
 county = "Mcintosh"
-longitude = -81.381908
 latitude = 31.495071
+longitude = -81.381908
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31304"
+

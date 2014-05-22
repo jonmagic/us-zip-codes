@@ -1,6 +1,8 @@
-zip_code = "56763"
-state = "MN"
 city = "Warroad"
 county = "Roseau"
-longitude = -95.250324
 latitude = 48.900663
+longitude = -95.250324
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56763"
+

@@ -1,6 +1,8 @@
-zip_code = "19358"
-state = "PA"
 city = "Modena"
 county = "Chester"
-longitude = -75.802502
 latitude = 39.962081
+longitude = -75.802502
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19358"
+

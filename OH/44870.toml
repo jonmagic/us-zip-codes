@@ -1,6 +1,8 @@
-zip_code = "44870"
-state = "OH"
 city = "Sandusky"
 county = "Erie"
-longitude = -82.724417
 latitude = 41.399129
+longitude = -82.724417
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44870"
+

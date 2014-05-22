@@ -1,6 +1,8 @@
-zip_code = "15370"
-state = "PA"
 city = "Waynesburg"
 county = "Greene"
-longitude = -80.08057
 latitude = 39.87477
+longitude = -80.08057
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15370"
+

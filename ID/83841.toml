@@ -1,6 +1,8 @@
-zip_code = "83841"
-state = "ID"
 city = "Laclede"
 county = "Bonner"
-longitude = -116.824602
 latitude = 48.179085
+longitude = -116.824602
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83841"
+

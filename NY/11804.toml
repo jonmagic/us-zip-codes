@@ -1,6 +1,8 @@
-zip_code = "11804"
-state = "NY"
 city = "Old Bethpage"
 county = "Nassau"
-longitude = -73.601772
 latitude = 40.754757
+longitude = -73.601772
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11804"
+

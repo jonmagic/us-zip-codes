@@ -1,6 +1,8 @@
-zip_code = "43462"
-state = "OH"
 city = "Rudolph"
 county = "Wood"
-longitude = -83.72564
 latitude = 41.283902
+longitude = -83.72564
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43462"
+

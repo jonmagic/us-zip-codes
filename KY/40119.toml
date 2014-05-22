@@ -1,6 +1,8 @@
-zip_code = "40119"
-state = "KY"
 city = "Falls Of Rough"
 county = "Grayson"
-longitude = -86.483592
 latitude = 37.552184
+longitude = -86.483592
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40119"
+

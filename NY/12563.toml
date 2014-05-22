@@ -1,6 +1,8 @@
-zip_code = "12563"
-state = "NY"
 city = "Patterson"
 county = "Putnam"
-longitude = -73.595066
 latitude = 41.485285
+longitude = -73.595066
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12563"
+

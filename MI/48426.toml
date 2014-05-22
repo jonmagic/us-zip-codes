@@ -1,6 +1,8 @@
-zip_code = "48426"
-state = "MI"
 city = "Decker"
 county = "Sanilac"
-longitude = -82.853426
 latitude = 43.517467
+longitude = -82.853426
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48426"
+

@@ -1,6 +1,8 @@
-zip_code = "82327"
-state = "WY"
 city = "Hanna"
 county = "Carbon"
-longitude = -106.552216
 latitude = 41.869647
+longitude = -106.552216
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82327"
+

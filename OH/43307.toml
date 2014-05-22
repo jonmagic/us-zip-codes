@@ -1,6 +1,8 @@
-zip_code = "43307"
-state = "OH"
 city = "Marion"
 county = "Marion"
-longitude = -83.139341
 latitude = 40.56941
+longitude = -83.139341
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43307"
+

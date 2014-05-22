@@ -1,6 +1,8 @@
-zip_code = "06376"
-state = "CT"
 city = "South Lyme"
 county = "New London"
-longitude = -72.263296
 latitude = 41.296668
+longitude = -72.263296
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06376"
+

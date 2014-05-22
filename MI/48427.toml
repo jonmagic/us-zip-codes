@@ -1,6 +1,8 @@
-zip_code = "48427"
-state = "MI"
 city = "Deckerville"
 county = "Sanilac"
-longitude = -82.722491
 latitude = 43.535064
+longitude = -82.722491
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48427"
+

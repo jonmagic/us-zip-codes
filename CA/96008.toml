@@ -1,6 +1,8 @@
-zip_code = "96008"
-state = "CA"
 city = "Bella Vista"
 county = "Shasta"
-longitude = -122.11939
 latitude = 40.715565
+longitude = -122.11939
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96008"
+

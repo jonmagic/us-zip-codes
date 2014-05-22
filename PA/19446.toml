@@ -1,6 +1,8 @@
-zip_code = "19446"
-state = "PA"
 city = "Lansdale"
 county = "Montgomery"
-longitude = -75.29156
 latitude = 40.224245
+longitude = -75.29156
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19446"
+

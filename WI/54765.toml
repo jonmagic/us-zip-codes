@@ -1,6 +1,8 @@
-zip_code = "54765"
-state = "WI"
 city = "Sand Creek"
 county = "Dunn"
-longitude = -91.699794
 latitude = 45.142866
+longitude = -91.699794
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54765"
+

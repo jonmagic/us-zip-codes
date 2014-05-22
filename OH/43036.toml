@@ -1,6 +1,8 @@
-zip_code = "43036"
-state = "OH"
 city = "Magnetic Springs"
 county = "Union"
-longitude = -83.263418
 latitude = 40.352835
+longitude = -83.263418
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43036"
+

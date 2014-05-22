@@ -1,6 +1,8 @@
-zip_code = "49411"
-state = "MI"
 city = "Free Soil"
 county = "Mason"
-longitude = -86.252729
 latitude = 44.071924
+longitude = -86.252729
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49411"
+

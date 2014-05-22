@@ -1,6 +1,8 @@
-zip_code = "49337"
-state = "MI"
 city = "Newaygo"
 county = "Newaygo"
-longitude = -85.73898
 latitude = 43.444927
+longitude = -85.73898
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49337"
+

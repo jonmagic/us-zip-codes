@@ -1,6 +1,8 @@
-zip_code = "73717"
-state = "OK"
 city = "Alva"
 county = "Woods"
-longitude = -98.640045
 latitude = 36.826594
+longitude = -98.640045
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73717"
+

@@ -1,6 +1,8 @@
-zip_code = "51201"
-state = "IA"
 city = "Sheldon"
 county = "Obrien"
-longitude = -95.792885
 latitude = 43.170886
+longitude = -95.792885
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51201"
+

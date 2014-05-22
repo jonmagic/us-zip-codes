@@ -1,6 +1,8 @@
-zip_code = "40847"
-state = "KY"
 city = "Kenvir"
 county = "Harlan"
-longitude = -83.145061
 latitude = 36.87338
+longitude = -83.145061
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40847"
+

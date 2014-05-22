@@ -1,6 +1,8 @@
-zip_code = "26241"
-state = "WV"
 city = "Elkins"
 county = "Randolph"
-longitude = -79.892841
 latitude = 38.846815
+longitude = -79.892841
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26241"
+

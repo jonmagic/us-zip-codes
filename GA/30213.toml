@@ -1,6 +1,8 @@
-zip_code = "30213"
-state = "GA"
 city = "Fairburn"
 county = "Fulton"
-longitude = -84.608907
 latitude = 33.591462
+longitude = -84.608907
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30213"
+

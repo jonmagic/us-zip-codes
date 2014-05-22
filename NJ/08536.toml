@@ -1,6 +1,8 @@
-zip_code = "08536"
-state = "NJ"
 city = "Plainsboro"
 county = "Middlesex"
-longitude = -74.582062
 latitude = 40.342197
+longitude = -74.582062
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08536"
+

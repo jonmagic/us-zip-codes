@@ -1,6 +1,8 @@
-zip_code = "67475"
-state = "KS"
 city = "Ramona"
 county = "Marion"
-longitude = -97.062601
 latitude = 38.59749
+longitude = -97.062601
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67475"
+

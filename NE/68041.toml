@@ -1,6 +1,8 @@
-zip_code = "68041"
-state = "NE"
 city = "Mead"
 county = "Saunders"
-longitude = -96.640076
 latitude = 41.19999
+longitude = -96.640076
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68041"
+

@@ -1,6 +1,8 @@
-zip_code = "62924"
-state = "IL"
 city = "De Soto"
 county = "Jackson"
-longitude = -89.350508
 latitude = 37.837009
+longitude = -89.350508
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62924"
+

@@ -1,6 +1,8 @@
-zip_code = "05045"
-state = "VT"
 city = "Fairlee"
 county = "Orange"
-longitude = -72.196635
 latitude = 43.928681
+longitude = -72.196635
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05045"
+

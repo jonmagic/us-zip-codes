@@ -1,6 +1,8 @@
-zip_code = "49735"
-state = "MI"
 city = "Gaylord"
 county = "Otsego"
-longitude = -84.624586
 latitude = 45.000937
+longitude = -84.624586
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49735"
+

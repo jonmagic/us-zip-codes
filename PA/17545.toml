@@ -1,6 +1,8 @@
-zip_code = "17545"
-state = "PA"
 city = "Manheim"
 county = "Lancaster"
-longitude = -76.464018
 latitude = 40.155927
+longitude = -76.464018
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17545"
+

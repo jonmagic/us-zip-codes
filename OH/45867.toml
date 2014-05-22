@@ -1,6 +1,8 @@
-zip_code = "45867"
-state = "OH"
 city = "Mount Blanchard"
 county = "Hancock"
-longitude = -83.528932
 latitude = 40.904671
+longitude = -83.528932
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45867"
+

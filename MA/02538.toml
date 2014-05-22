@@ -1,6 +1,8 @@
-zip_code = "02538"
-state = "MA"
 city = "East Wareham"
 county = "Plymouth"
-longitude = -70.660562
 latitude = 41.77544
+longitude = -70.660562
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02538"
+

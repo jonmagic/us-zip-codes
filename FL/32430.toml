@@ -1,6 +1,8 @@
-zip_code = "32430"
-state = "FL"
 city = "Clarksville"
 county = "Calhoun"
-longitude = -85.161075
 latitude = 30.403984
+longitude = -85.161075
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32430"
+

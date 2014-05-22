@@ -1,6 +1,8 @@
-zip_code = "14864"
-state = "NY"
 city = "Millport"
 county = "Chemung"
-longitude = -76.842298
 latitude = 42.259644
+longitude = -76.842298
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14864"
+

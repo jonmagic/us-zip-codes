@@ -1,6 +1,8 @@
-zip_code = "36319"
-state = "AL"
 city = "Columbia"
 county = "Houston"
-longitude = -85.171875
 latitude = 31.22514
+longitude = -85.171875
+state = ""
+state_code_alpha2 = ""
+zip_code = "36319"
+

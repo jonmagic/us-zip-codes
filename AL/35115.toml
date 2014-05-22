@@ -1,6 +1,8 @@
-zip_code = "35115"
-state = "AL"
 city = "Montevallo"
 county = "Shelby"
-longitude = -86.883586
 latitude = 33.136658
+longitude = -86.883586
+state = ""
+state_code_alpha2 = ""
+zip_code = "35115"
+

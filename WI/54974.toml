@@ -1,6 +1,8 @@
-zip_code = "54974"
-state = "WI"
 city = "Rosendale"
 county = "Fond Du Lac"
-longitude = -88.659504
 latitude = 43.775697
+longitude = -88.659504
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54974"
+

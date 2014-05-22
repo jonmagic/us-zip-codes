@@ -1,6 +1,8 @@
-zip_code = "47243"
-state = "IN"
 city = "Hanover"
 county = "Jefferson"
-longitude = -85.376804
 latitude = 38.734755
+longitude = -85.376804
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47243"
+

@@ -1,6 +1,8 @@
-zip_code = "16116"
-state = "PA"
 city = "Edinburg"
 county = "Lawrence"
-longitude = -80.457328
 latitude = 41.031749
+longitude = -80.457328
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16116"
+

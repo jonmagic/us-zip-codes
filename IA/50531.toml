@@ -1,6 +1,8 @@
-zip_code = "50531"
-state = "IA"
 city = "Dolliver"
 county = "Emmet"
-longitude = -94.610236
 latitude = 43.449975
+longitude = -94.610236
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50531"
+

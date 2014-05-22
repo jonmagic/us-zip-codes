@@ -1,6 +1,8 @@
-zip_code = "64682"
-state = "MO"
 city = "Tina"
 county = "Carroll"
-longitude = -93.431928
 latitude = 39.410971
+longitude = -93.431928
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64682"
+

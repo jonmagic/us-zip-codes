@@ -1,6 +1,8 @@
-zip_code = "41524"
-state = "KY"
 city = "Fedscreek"
 county = "Pike"
-longitude = -82.256227
 latitude = 37.426582
+longitude = -82.256227
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41524"
+

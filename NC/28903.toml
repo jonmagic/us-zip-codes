@@ -1,6 +1,8 @@
-zip_code = "28903"
-state = "NC"
 city = "Culberson"
 county = "Cherokee"
-longitude = -84.035916
 latitude = 35.094379
+longitude = -84.035916
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28903"
+

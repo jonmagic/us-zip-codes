@@ -1,6 +1,8 @@
-zip_code = "77872"
-state = "TX"
 city = "North Zulch"
 county = "Madison"
-longitude = -96.085341
 latitude = 30.913412
+longitude = -96.085341
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77872"
+

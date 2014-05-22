@@ -1,6 +1,8 @@
-zip_code = "60041"
-state = "IL"
 city = "Ingleside"
 county = "Lake"
-longitude = -88.145683
 latitude = 42.366521
+longitude = -88.145683
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60041"
+

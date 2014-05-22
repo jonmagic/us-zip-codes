@@ -1,6 +1,8 @@
-zip_code = "61084"
-state = "IL"
 city = "Stillman Valley"
 county = "Ogle"
-longitude = -89.186271
 latitude = 42.1133
+longitude = -89.186271
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61084"
+

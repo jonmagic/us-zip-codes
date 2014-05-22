@@ -1,6 +1,8 @@
-zip_code = "41555"
-state = "KY"
 city = "Pinsonfork"
 county = "Pike"
-longitude = -82.262124
 latitude = 37.546621
+longitude = -82.262124
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41555"
+

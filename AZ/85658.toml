@@ -1,6 +1,8 @@
-zip_code = "85658"
-state = "AZ"
 city = "Marana"
 county = "Pima"
-longitude = -111.159344
 latitude = 32.442979
+longitude = -111.159344
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85658"
+

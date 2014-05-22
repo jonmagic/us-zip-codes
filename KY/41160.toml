@@ -1,6 +1,8 @@
-zip_code = "41160"
-state = "KY"
 city = "Mazie"
 county = "Lawrence"
-longitude = -82.744663
 latitude = 38.074113
+longitude = -82.744663
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41160"
+

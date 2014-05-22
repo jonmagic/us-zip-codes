@@ -1,6 +1,8 @@
-zip_code = "99577"
-state = "AK"
 city = "Eagle River"
 county = "Anchorage"
-longitude = -149.424518
 latitude = 61.303131
+longitude = -149.424518
+state = ""
+state_code_alpha2 = ""
+zip_code = "99577"
+

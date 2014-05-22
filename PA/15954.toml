@@ -1,6 +1,8 @@
-zip_code = "15954"
-state = "PA"
 city = "Seward"
 county = "Westmoreland"
-longitude = -79.029098
 latitude = 40.401071
+longitude = -79.029098
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15954"
+

@@ -1,6 +1,8 @@
-zip_code = "62248"
-state = "IL"
 city = "Hecker"
 county = "Monroe"
-longitude = -89.961825
 latitude = 38.299507
+longitude = -89.961825
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62248"
+

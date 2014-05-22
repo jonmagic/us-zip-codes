@@ -1,6 +1,8 @@
-zip_code = "54835"
-state = "WI"
 city = "Exeland"
 county = "Sawyer"
-longitude = -91.224718
 latitude = 45.780382
+longitude = -91.224718
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54835"
+

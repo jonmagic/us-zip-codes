@@ -1,6 +1,8 @@
-zip_code = "48197"
-state = "MI"
 city = "Ypsilanti"
 county = "Washtenaw"
-longitude = -83.620494
 latitude = 42.202139
+longitude = -83.620494
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48197"
+

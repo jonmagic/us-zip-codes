@@ -1,6 +1,8 @@
-zip_code = "19977"
-state = "DE"
 city = "Smyrna"
 county = "Kent"
-longitude = -75.565131
 latitude = 39.194026
+longitude = -75.565131
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19977"
+

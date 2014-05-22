@@ -1,6 +1,8 @@
-zip_code = "99360"
-state = "WA"
 city = "Touchet"
 county = "Walla Walla"
-longitude = -118.461436
 latitude = 46.134445
+longitude = -118.461436
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99360"
+

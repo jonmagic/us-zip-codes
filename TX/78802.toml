@@ -1,6 +1,8 @@
-zip_code = "78802"
-state = "TX"
 city = "Uvalde"
 county = "Uvalde"
-longitude = -99.779351
 latitude = 29.223697
+longitude = -99.779351
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78802"
+

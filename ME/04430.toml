@@ -1,6 +1,8 @@
-zip_code = "04430"
-state = "ME"
 city = "East Millinocket"
 county = "Penobscot"
-longitude = -68.689174
 latitude = 45.233408
+longitude = -68.689174
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04430"
+

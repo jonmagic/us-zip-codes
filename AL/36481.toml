@@ -1,6 +1,8 @@
-zip_code = "36481"
-state = "AL"
 city = "Vredenburgh"
 county = "Monroe"
-longitude = -87.316372
 latitude = 31.808458
+longitude = -87.316372
+state = ""
+state_code_alpha2 = ""
+zip_code = "36481"
+

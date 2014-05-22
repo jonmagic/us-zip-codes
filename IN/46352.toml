@@ -1,6 +1,8 @@
-zip_code = "46352"
-state = "IN"
 city = "La Porte"
 county = "La Porte"
-longitude = -86.709883
 latitude = 41.498992
+longitude = -86.709883
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46352"
+

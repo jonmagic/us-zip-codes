@@ -1,6 +1,8 @@
-zip_code = "15531"
-state = "PA"
 city = "Boswell"
 county = "Somerset"
-longitude = -78.989292
 latitude = 40.006392
+longitude = -78.989292
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15531"
+

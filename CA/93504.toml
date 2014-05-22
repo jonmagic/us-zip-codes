@@ -1,6 +1,8 @@
-zip_code = "93504"
-state = "CA"
 city = "California City"
 county = "Kern"
-longitude = -117.885359
 latitude = 35.187133
+longitude = -117.885359
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93504"
+

@@ -1,6 +1,8 @@
-zip_code = "42130"
-state = "KY"
 city = "Eighty Eight"
 county = "Barren"
-longitude = -85.775282
 latitude = 36.91297
+longitude = -85.775282
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42130"
+

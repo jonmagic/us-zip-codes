@@ -1,6 +1,8 @@
-zip_code = "97423"
-state = "OR"
 city = "Coquille"
 county = "Coos"
-longitude = -124.22419
 latitude = 43.232318
+longitude = -124.22419
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97423"
+

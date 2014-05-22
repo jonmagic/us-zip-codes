@@ -1,6 +1,8 @@
-zip_code = "13166"
-state = "NY"
 city = "Weedsport"
 county = "Cayuga"
-longitude = -76.555316
 latitude = 43.046493
+longitude = -76.555316
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13166"
+

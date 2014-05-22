@@ -1,6 +1,8 @@
-zip_code = "59451"
-state = "MT"
 city = "Hilger"
 county = "Fergus"
-longitude = -109.395158
 latitude = 47.415174
+longitude = -109.395158
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59451"
+

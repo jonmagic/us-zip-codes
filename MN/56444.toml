@@ -1,6 +1,8 @@
-zip_code = "56444"
-state = "MN"
 city = "Deerwood"
 county = "Crow Wing"
-longitude = -93.878493
 latitude = 46.429194
+longitude = -93.878493
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56444"
+

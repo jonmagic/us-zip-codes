@@ -1,6 +1,8 @@
-zip_code = "71346"
-state = "LA"
 city = "Lecompte"
 county = "Rapides"
-longitude = -92.439933
 latitude = 31.092797
+longitude = -92.439933
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71346"
+

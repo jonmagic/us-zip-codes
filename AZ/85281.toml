@@ -1,6 +1,8 @@
-zip_code = "85281"
-state = "AZ"
 city = "Tempe"
 county = "Maricopa"
-longitude = -111.927219
 latitude = 33.432844
+longitude = -111.927219
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85281"
+

@@ -1,6 +1,8 @@
-zip_code = "04693"
-state = "ME"
 city = "Winter Harbor"
 county = "Hancock"
-longitude = -68.074964
 latitude = 44.387188
+longitude = -68.074964
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04693"
+

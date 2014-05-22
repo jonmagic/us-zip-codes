@@ -1,6 +1,8 @@
-zip_code = "00653"
-state = "PR"
 city = "Guanica"
 county = "Guanica"
-longitude = -66.898661
 latitude = 17.972468
+longitude = -66.898661
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00653"
+

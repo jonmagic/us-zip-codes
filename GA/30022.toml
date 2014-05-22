@@ -1,6 +1,8 @@
-zip_code = "30022"
-state = "GA"
 city = "Alpharetta"
 county = "Fulton"
-longitude = -84.242235
 latitude = 34.02679
+longitude = -84.242235
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30022"
+

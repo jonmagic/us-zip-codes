@@ -1,6 +1,8 @@
-zip_code = "21560"
-state = "MD"
 city = "Spring Gap"
 county = "Allegany"
-longitude = -78.687137
 latitude = 39.601008
+longitude = -78.687137
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21560"
+

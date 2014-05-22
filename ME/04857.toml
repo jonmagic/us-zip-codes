@@ -1,6 +1,8 @@
-zip_code = "04857"
-state = "ME"
 city = "Saint George"
 county = "Knox"
-longitude = -69.198524
 latitude = 43.995024
+longitude = -69.198524
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04857"
+

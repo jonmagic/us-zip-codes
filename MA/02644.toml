@@ -1,6 +1,8 @@
-zip_code = "02644"
-state = "MA"
 city = "Forestdale"
 county = "Barnstable"
-longitude = -70.268632
 latitude = 41.790031
+longitude = -70.268632
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02644"
+

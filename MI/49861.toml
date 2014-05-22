@@ -1,6 +1,8 @@
-zip_code = "49861"
-state = "MI"
 city = "Michigamme"
 county = "Marquette"
-longitude = -88.091432
 latitude = 46.530795
+longitude = -88.091432
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49861"
+

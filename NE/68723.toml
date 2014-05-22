@@ -1,6 +1,8 @@
-zip_code = "68723"
-state = "NE"
 city = "Carroll"
 county = "Wayne"
-longitude = -97.193337
 latitude = 42.286328
+longitude = -97.193337
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68723"
+

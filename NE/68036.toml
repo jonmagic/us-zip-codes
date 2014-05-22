@@ -1,6 +1,8 @@
-zip_code = "68036"
-state = "NE"
 city = "Linwood"
 county = "Butler"
-longitude = -96.983695
 latitude = 41.375639
+longitude = -96.983695
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68036"
+

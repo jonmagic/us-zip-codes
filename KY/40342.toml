@@ -1,6 +1,8 @@
-zip_code = "40342"
-state = "KY"
 city = "Lawrenceburg"
 county = "Anderson"
-longitude = -84.979923
 latitude = 38.006484
+longitude = -84.979923
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40342"
+

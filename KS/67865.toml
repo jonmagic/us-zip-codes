@@ -1,6 +1,8 @@
-zip_code = "67865"
-state = "KS"
 city = "Minneola"
 county = "Clark"
-longitude = -100.008811
 latitude = 37.442546
+longitude = -100.008811
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67865"
+

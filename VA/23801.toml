@@ -1,6 +1,8 @@
-zip_code = "23801"
-state = "VA"
 city = "Fort Lee"
 county = "Prince George"
-longitude = -77.334831
 latitude = 37.233941
+longitude = -77.334831
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23801"
+

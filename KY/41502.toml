@@ -1,6 +1,8 @@
-zip_code = "41502"
-state = "KY"
 city = "Pikeville"
 county = "Pike"
-longitude = -82.550507
 latitude = 37.481637
+longitude = -82.550507
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41502"
+

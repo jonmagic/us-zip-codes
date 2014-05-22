@@ -1,6 +1,8 @@
-zip_code = "73526"
-state = "OK"
 city = "Blair"
 county = "Jackson"
-longitude = -99.331758
 latitude = 34.783568
+longitude = -99.331758
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73526"
+

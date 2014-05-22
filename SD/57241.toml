@@ -1,6 +1,8 @@
-zip_code = "57241"
-state = "SD"
 city = "Hayti"
 county = "Hamlin"
-longitude = -97.20497
 latitude = 44.657338
+longitude = -97.20497
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57241"
+

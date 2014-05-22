@@ -1,6 +1,8 @@
-zip_code = "24324"
-state = "VA"
 city = "Draper"
 county = "Pulaski"
-longitude = -80.774844
 latitude = 36.981684
+longitude = -80.774844
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24324"
+

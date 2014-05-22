@@ -1,6 +1,8 @@
-zip_code = "31791"
-state = "GA"
 city = "Sylvester"
 county = "Worth"
-longitude = -83.850054
 latitude = 31.603336
+longitude = -83.850054
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31791"
+

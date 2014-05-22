@@ -1,6 +1,8 @@
-zip_code = "16640"
-state = "PA"
 city = "Flinton"
 county = "Cambria"
-longitude = -78.552346
 latitude = 40.687598
+longitude = -78.552346
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16640"
+

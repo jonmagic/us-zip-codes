@@ -1,6 +1,8 @@
-zip_code = "44311"
-state = "OH"
 city = "Akron"
 county = "Summit"
-longitude = -81.522838
 latitude = 41.064955
+longitude = -81.522838
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44311"
+

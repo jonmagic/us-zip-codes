@@ -1,6 +1,8 @@
-zip_code = "16641"
-state = "PA"
 city = "Gallitzin"
 county = "Cambria"
-longitude = -78.576208
 latitude = 40.507567
+longitude = -78.576208
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16641"
+

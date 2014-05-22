@@ -1,6 +1,8 @@
-zip_code = "29056"
-state = "SC"
 city = "Greeleyville"
 county = "Williamsburg"
-longitude = -79.832218
 latitude = 33.785465
+longitude = -79.832218
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29056"
+

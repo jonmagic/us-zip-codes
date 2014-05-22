@@ -1,6 +1,8 @@
-zip_code = "53526"
-state = "WI"
 city = "Cobb"
 county = "Iowa"
-longitude = -90.369319
 latitude = 42.963325
+longitude = -90.369319
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53526"
+

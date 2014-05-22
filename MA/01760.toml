@@ -1,6 +1,8 @@
-zip_code = "01760"
-state = "MA"
 city = "Natick"
 county = "Middlesex"
-longitude = -71.459405
 latitude = 42.446396
+longitude = -71.459405
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01760"
+

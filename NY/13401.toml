@@ -1,6 +1,8 @@
-zip_code = "13401"
-state = "NY"
 city = "Mc Connellsville"
 county = "Oneida"
-longitude = -75.688223
 latitude = 43.267243
+longitude = -75.688223
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13401"
+

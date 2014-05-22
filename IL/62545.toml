@@ -1,6 +1,8 @@
-zip_code = "62545"
-state = "IL"
 city = "Mechanicsburg"
 county = "Sangamon"
-longitude = -89.406447
 latitude = 39.777807
+longitude = -89.406447
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62545"
+

@@ -1,6 +1,8 @@
-zip_code = "05747"
-state = "VT"
 city = "Granville"
 county = "Addison"
-longitude = -72.817108
 latitude = 44.0032
+longitude = -72.817108
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05747"
+

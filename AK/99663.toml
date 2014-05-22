@@ -1,6 +1,8 @@
-zip_code = "99663"
-state = "AK"
 city = "Seldovia"
 county = "Kenai Peninsula"
-longitude = -151.700915
 latitude = 59.449486
+longitude = -151.700915
+state = ""
+state_code_alpha2 = ""
+zip_code = "99663"
+

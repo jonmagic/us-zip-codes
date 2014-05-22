@@ -1,6 +1,8 @@
-zip_code = "72367"
-state = "AR"
 city = "Mellwood"
 county = "Phillips"
-longitude = -90.936604
 latitude = 34.25968
+longitude = -90.936604
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72367"
+

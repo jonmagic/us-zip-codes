@@ -1,6 +1,8 @@
-zip_code = "31025"
-state = "GA"
 city = "Elko"
 county = "Houston"
-longitude = -83.749048
 latitude = 32.360242
+longitude = -83.749048
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31025"
+

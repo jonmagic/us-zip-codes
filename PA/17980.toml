@@ -1,6 +1,8 @@
-zip_code = "17980"
-state = "PA"
 city = "Tower City"
 county = "Schuylkill"
-longitude = -76.53981
 latitude = 40.590428
+longitude = -76.53981
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17980"
+

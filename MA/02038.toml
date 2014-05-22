@@ -1,6 +1,8 @@
-zip_code = "02038"
-state = "MA"
 city = "Franklin"
 county = "Norfolk"
-longitude = -71.404814
 latitude = 42.08868
+longitude = -71.404814
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02038"
+

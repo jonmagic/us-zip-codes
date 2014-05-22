@@ -1,6 +1,8 @@
-zip_code = "67023"
-state = "KS"
 city = "Cambridge"
 county = "Cowley"
-longitude = -96.717001
 latitude = 37.309434
+longitude = -96.717001
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67023"
+

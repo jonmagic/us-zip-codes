@@ -1,6 +1,8 @@
-zip_code = "84335"
-state = "UT"
 city = "Smithfield"
 county = "Cache"
-longitude = -111.910101
 latitude = 41.801798
+longitude = -111.910101
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84335"
+

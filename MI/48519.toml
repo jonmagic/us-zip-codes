@@ -1,6 +1,8 @@
-zip_code = "48519"
-state = "MI"
 city = "Burton"
 county = "Genesee"
-longitude = -83.613452
 latitude = 42.985927
+longitude = -83.613452
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48519"
+

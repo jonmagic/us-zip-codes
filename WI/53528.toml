@@ -1,6 +1,8 @@
-zip_code = "53528"
-state = "WI"
 city = "Cross Plains"
 county = "Dane"
-longitude = -89.695091
 latitude = 43.106453
+longitude = -89.695091
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53528"
+

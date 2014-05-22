@@ -1,6 +1,8 @@
-zip_code = "03886"
-state = "NH"
 city = "Tamworth"
 county = "Carroll"
-longitude = -71.277779
 latitude = 43.647527
+longitude = -71.277779
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03886"
+

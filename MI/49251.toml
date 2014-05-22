@@ -1,6 +1,8 @@
-zip_code = "49251"
-state = "MI"
 city = "Leslie"
 county = "Ingham"
-longitude = -84.407118
 latitude = 42.478186
+longitude = -84.407118
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49251"
+

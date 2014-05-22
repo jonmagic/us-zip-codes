@@ -1,6 +1,8 @@
-zip_code = "78953"
-state = "TX"
 city = "Rosanky"
 county = "Bastrop"
-longitude = -97.317608
 latitude = 29.90847
+longitude = -97.317608
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78953"
+

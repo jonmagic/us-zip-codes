@@ -1,6 +1,8 @@
-zip_code = "18234"
-state = "PA"
 city = "Lattimer Mines"
 county = "Luzerne"
-longitude = -75.962585
 latitude = 40.992517
+longitude = -75.962585
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18234"
+

@@ -1,6 +1,8 @@
-zip_code = "07632"
-state = "NJ"
 city = "Englewood Cliffs"
 county = "Bergen"
-longitude = -73.952423
 latitude = 40.883949
+longitude = -73.952423
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07632"
+

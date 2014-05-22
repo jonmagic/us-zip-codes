@@ -1,6 +1,8 @@
-zip_code = "49683"
-state = "MI"
 city = "Thompsonville"
 county = "Benzie"
-longitude = -85.931969
 latitude = 44.58678
+longitude = -85.931969
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49683"
+

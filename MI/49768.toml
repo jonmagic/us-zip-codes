@@ -1,6 +1,8 @@
-zip_code = "49768"
-state = "MI"
 city = "Paradise"
 county = "Chippewa"
-longitude = -85.097324
 latitude = 46.595083
+longitude = -85.097324
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49768"
+

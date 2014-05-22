@@ -1,6 +1,8 @@
-zip_code = "25510"
-state = "WV"
 city = "Culloden"
 county = "Cabell"
-longitude = -82.110405
 latitude = 38.426471
+longitude = -82.110405
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25510"
+

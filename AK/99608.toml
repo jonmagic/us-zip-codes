@@ -1,6 +1,8 @@
-zip_code = "99608"
-state = "AK"
 city = "Karluk"
 county = "Kodiak Island"
-longitude = -155.797078
 latitude = 58.268704
+longitude = -155.797078
+state = ""
+state_code_alpha2 = ""
+zip_code = "99608"
+

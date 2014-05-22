@@ -1,6 +1,8 @@
-zip_code = "10956"
-state = "NY"
 city = "New City"
 county = "Rockland"
-longitude = -73.98827
 latitude = 41.149494
+longitude = -73.98827
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10956"
+

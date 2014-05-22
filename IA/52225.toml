@@ -1,6 +1,8 @@
-zip_code = "52225"
-state = "IA"
 city = "Elberon"
 county = "Tama"
-longitude = -92.363359
 latitude = 41.990954
+longitude = -92.363359
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52225"
+

@@ -1,6 +1,8 @@
-zip_code = "68856"
-state = "NE"
 city = "Merna"
 county = "Custer"
-longitude = -99.760782
 latitude = 41.484951
+longitude = -99.760782
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68856"
+

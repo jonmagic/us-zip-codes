@@ -1,6 +1,8 @@
-zip_code = "36475"
-state = "AL"
 city = "Repton"
 county = "Conecuh"
-longitude = -87.298377
 latitude = 31.371175
+longitude = -87.298377
+state = ""
+state_code_alpha2 = ""
+zip_code = "36475"
+

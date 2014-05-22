@@ -1,6 +1,8 @@
-zip_code = "65333"
-state = "MO"
 city = "Houstonia"
 county = "Pettis"
-longitude = -93.313267
 latitude = 38.854841
+longitude = -93.313267
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65333"
+

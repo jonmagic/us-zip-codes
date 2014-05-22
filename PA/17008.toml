@@ -1,6 +1,8 @@
-zip_code = "17008"
-state = "PA"
 city = "Bowmansdale"
 county = "Cumberland"
-longitude = -76.978448
 latitude = 40.167091
+longitude = -76.978448
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17008"
+

@@ -1,6 +1,8 @@
-zip_code = "52075"
-state = "IA"
 city = "Springbrook"
 county = "Jackson"
-longitude = -90.498366
 latitude = 42.164766
+longitude = -90.498366
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52075"
+

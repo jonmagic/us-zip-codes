@@ -1,6 +1,8 @@
-zip_code = "94586"
-state = "CA"
 city = "Sunol"
 county = "Alameda"
-longitude = -121.883018
 latitude = 37.585883
+longitude = -121.883018
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94586"
+

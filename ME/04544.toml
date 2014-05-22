@@ -1,6 +1,8 @@
-zip_code = "04544"
-state = "ME"
 city = "East Boothbay"
 county = "Lincoln"
-longitude = -69.597446
 latitude = 43.82677
+longitude = -69.597446
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04544"
+

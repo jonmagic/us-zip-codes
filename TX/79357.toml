@@ -1,6 +1,8 @@
-zip_code = "79357"
-state = "TX"
 city = "Ralls"
 county = "Crosby"
-longitude = -101.383596
 latitude = 33.68513
+longitude = -101.383596
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79357"
+

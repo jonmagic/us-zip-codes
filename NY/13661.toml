@@ -1,6 +1,8 @@
-zip_code = "13661"
-state = "NY"
 city = "Mannsville"
 county = "Jefferson"
-longitude = -76.090851
 latitude = 43.727352
+longitude = -76.090851
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13661"
+

@@ -1,6 +1,8 @@
-zip_code = "28745"
-state = "NC"
 city = "Lake Junaluska"
 county = "Haywood"
-longitude = -83.013022
 latitude = 35.56115
+longitude = -83.013022
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28745"
+

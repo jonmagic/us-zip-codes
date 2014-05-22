@@ -1,6 +1,8 @@
-zip_code = "14422"
-state = "NY"
 city = "Byron"
 county = "Genesee"
-longitude = -78.056938
 latitude = 43.073142
+longitude = -78.056938
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14422"
+

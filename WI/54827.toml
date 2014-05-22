@@ -1,6 +1,8 @@
-zip_code = "54827"
-state = "WI"
 city = "Cornucopia"
 county = "Bayfield"
-longitude = -91.092821
 latitude = 46.834502
+longitude = -91.092821
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54827"
+

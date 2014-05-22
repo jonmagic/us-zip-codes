@@ -1,6 +1,8 @@
-zip_code = "99136"
-state = "WA"
 city = "Hay"
 county = "Whitman"
-longitude = -117.941665
 latitude = 46.697296
+longitude = -117.941665
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99136"
+

@@ -1,6 +1,8 @@
-zip_code = "41743"
-state = "KY"
 city = "Fisty"
 county = "Knott"
-longitude = -83.090441
 latitude = 37.30636
+longitude = -83.090441
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41743"
+

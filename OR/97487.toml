@@ -1,6 +1,8 @@
-zip_code = "97487"
-state = "OR"
 city = "Veneta"
 county = "Lane"
-longitude = -123.367371
 latitude = 44.003051
+longitude = -123.367371
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97487"
+

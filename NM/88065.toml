@@ -1,6 +1,8 @@
-zip_code = "88065"
-state = "NM"
 city = "Tyrone"
 county = "Grant"
-longitude = -108.37041
 latitude = 32.619444
+longitude = -108.37041
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88065"
+

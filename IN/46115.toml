@@ -1,6 +1,8 @@
-zip_code = "46115"
-state = "IN"
 city = "Carthage"
 county = "Rush"
-longitude = -85.552199
 latitude = 39.735455
+longitude = -85.552199
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46115"
+

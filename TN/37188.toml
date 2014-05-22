@@ -1,6 +1,8 @@
-zip_code = "37188"
-state = "TN"
 city = "White House"
 county = "Robertson"
-longitude = -86.689867
 latitude = 36.481635
+longitude = -86.689867
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37188"
+

@@ -1,6 +1,8 @@
-zip_code = "87402"
-state = "NM"
 city = "Farmington"
 county = "San Juan"
-longitude = -108.101176
 latitude = 36.775852
+longitude = -108.101176
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87402"
+

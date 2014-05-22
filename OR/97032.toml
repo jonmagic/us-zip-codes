@@ -1,6 +1,8 @@
-zip_code = "97032"
-state = "OR"
 city = "Hubbard"
 county = "Marion"
-longitude = -122.812012
 latitude = 45.1969
+longitude = -122.812012
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97032"
+

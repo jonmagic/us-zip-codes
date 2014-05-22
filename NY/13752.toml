@@ -1,6 +1,8 @@
-zip_code = "13752"
-state = "NY"
 city = "De Lancey"
 county = "Delaware"
-longitude = -74.916308
 latitude = 42.220641
+longitude = -74.916308
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13752"
+

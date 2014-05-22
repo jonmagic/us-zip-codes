@@ -1,6 +1,8 @@
-zip_code = "54113"
-state = "WI"
 city = "Combined Locks"
 county = "Outagamie"
-longitude = -88.361208
 latitude = 44.348711
+longitude = -88.361208
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54113"
+

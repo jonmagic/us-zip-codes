@@ -1,6 +1,8 @@
-zip_code = "96790"
-state = "HI"
 city = "Kula"
 county = "Maui"
-longitude = -156.329499
 latitude = 20.753763
+longitude = -156.329499
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96790"
+

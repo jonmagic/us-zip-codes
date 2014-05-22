@@ -1,6 +1,8 @@
-zip_code = "58651"
-state = "ND"
 city = "Rhame"
 county = "Bowman"
-longitude = -103.520928
 latitude = 46.112755
+longitude = -103.520928
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58651"
+

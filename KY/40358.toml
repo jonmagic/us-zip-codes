@@ -1,6 +1,8 @@
-zip_code = "40358"
-state = "KY"
 city = "Olympia"
 county = "Bath"
-longitude = -83.700824
 latitude = 38.084908
+longitude = -83.700824
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40358"
+

@@ -1,6 +1,8 @@
-zip_code = "43701"
-state = "OH"
 city = "Zanesville"
 county = "Muskingum"
-longitude = -82.004058
 latitude = 39.927415
+longitude = -82.004058
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43701"
+

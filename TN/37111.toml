@@ -1,6 +1,8 @@
-zip_code = "37111"
-state = "TN"
 city = "Mc Minnville"
 county = "Warren"
-longitude = -85.777633
 latitude = 35.678368
+longitude = -85.777633
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37111"
+

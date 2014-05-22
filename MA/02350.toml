@@ -1,6 +1,8 @@
-zip_code = "02350"
-state = "MA"
 city = "Monponsett"
 county = "Plymouth"
-longitude = -70.847486
 latitude = 42.018525
+longitude = -70.847486
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02350"
+

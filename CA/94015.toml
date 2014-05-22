@@ -1,6 +1,8 @@
-zip_code = "94015"
-state = "CA"
 city = "Daly City"
 county = "San Mateo"
-longitude = -122.475234
 latitude = 37.676864
+longitude = -122.475234
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94015"
+

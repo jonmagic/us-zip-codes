@@ -1,6 +1,8 @@
-zip_code = "22741"
-state = "VA"
 city = "Stevensburg"
 county = "Culpeper"
-longitude = -77.860642
 latitude = 38.434991
+longitude = -77.860642
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22741"
+

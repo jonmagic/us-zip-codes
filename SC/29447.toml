@@ -1,6 +1,8 @@
-zip_code = "29447"
-state = "SC"
 city = "Grover"
 county = "Dorchester"
-longitude = -80.62279
 latitude = 33.086324
+longitude = -80.62279
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29447"
+

@@ -1,6 +1,8 @@
-zip_code = "44224"
-state = "OH"
 city = "Stow"
 county = "Summit"
-longitude = -81.450184
 latitude = 41.172402
+longitude = -81.450184
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44224"
+

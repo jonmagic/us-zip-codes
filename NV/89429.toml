@@ -1,6 +1,8 @@
-zip_code = "89429"
-state = "NV"
 city = "Silver Springs"
 county = "Lyon"
-longitude = -119.391468
 latitude = 39.439405
+longitude = -119.391468
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89429"
+

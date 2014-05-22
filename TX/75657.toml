@@ -1,6 +1,8 @@
-zip_code = "75657"
-state = "TX"
 city = "Jefferson"
 county = "Marion"
-longitude = -94.365546
 latitude = 32.805853
+longitude = -94.365546
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75657"
+

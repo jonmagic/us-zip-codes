@@ -1,6 +1,8 @@
-zip_code = "03222"
-state = "NH"
 city = "Bristol"
 county = "Grafton"
-longitude = -71.72158
 latitude = 43.70781
+longitude = -71.72158
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03222"
+

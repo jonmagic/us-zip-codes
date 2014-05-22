@@ -1,6 +1,8 @@
-zip_code = "24589"
-state = "VA"
 city = "Scottsburg"
 county = "Halifax"
-longitude = -78.778726
 latitude = 36.777629
+longitude = -78.778726
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24589"
+

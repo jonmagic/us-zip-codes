@@ -1,6 +1,8 @@
-zip_code = "51345"
-state = "IA"
 city = "Harris"
 county = "Osceola"
-longitude = -95.437464
 latitude = 43.399433
+longitude = -95.437464
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51345"
+

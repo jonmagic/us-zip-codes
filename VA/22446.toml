@@ -1,6 +1,8 @@
-zip_code = "22446"
-state = "VA"
 city = "Corbin"
 county = "Caroline"
-longitude = -77.408163
 latitude = 38.171755
+longitude = -77.408163
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22446"
+

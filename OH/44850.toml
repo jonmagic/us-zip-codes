@@ -1,6 +1,8 @@
-zip_code = "44850"
-state = "OH"
 city = "New Haven"
 county = "Huron"
-longitude = -82.676973
 latitude = 41.034952
+longitude = -82.676973
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44850"
+

@@ -1,6 +1,8 @@
-zip_code = "27325"
-state = "NC"
 city = "Robbins"
 county = "Moore"
-longitude = -79.518562
 latitude = 35.393319
+longitude = -79.518562
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27325"
+

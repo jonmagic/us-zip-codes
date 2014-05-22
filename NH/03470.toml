@@ -1,6 +1,8 @@
-zip_code = "03470"
-state = "NH"
 city = "Winchester"
 county = "Cheshire"
-longitude = -72.274928
 latitude = 42.895797
+longitude = -72.274928
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03470"
+

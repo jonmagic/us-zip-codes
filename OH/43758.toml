@@ -1,6 +1,8 @@
-zip_code = "43758"
-state = "OH"
 city = "Malta"
 county = "Morgan"
-longitude = -81.908715
 latitude = 39.632381
+longitude = -81.908715
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43758"
+

@@ -1,6 +1,8 @@
-zip_code = "67002"
-state = "KS"
 city = "Andover"
 county = "Butler"
-longitude = -97.098431
 latitude = 37.701532
+longitude = -97.098431
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67002"
+

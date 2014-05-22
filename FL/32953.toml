@@ -1,6 +1,8 @@
-zip_code = "32953"
-state = "FL"
 city = "Merritt Island"
 county = "Brevard"
-longitude = -80.730088
 latitude = 28.388797
+longitude = -80.730088
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32953"
+

@@ -1,6 +1,8 @@
-zip_code = "98683"
-state = "WA"
 city = "Vancouver"
 county = "Clark"
-longitude = -122.513318
 latitude = 45.603216
+longitude = -122.513318
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98683"
+

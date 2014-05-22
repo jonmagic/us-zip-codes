@@ -1,6 +1,8 @@
-zip_code = "71463"
-state = "LA"
 city = "Oakdale"
 county = "Allen"
-longitude = -92.771752
 latitude = 30.769826
+longitude = -92.771752
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71463"
+

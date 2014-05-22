@@ -1,6 +1,8 @@
-zip_code = "87068"
-state = "NM"
 city = "Bosque Farms"
 county = "Valencia"
-longitude = -106.699567
 latitude = 34.85765
+longitude = -106.699567
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87068"
+

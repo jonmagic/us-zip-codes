@@ -1,6 +1,8 @@
-zip_code = "71651"
-state = "AR"
 city = "Jersey"
 county = "Bradley"
-longitude = -92.290223
 latitude = 33.368404
+longitude = -92.290223
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71651"
+

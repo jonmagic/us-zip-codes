@@ -1,6 +1,8 @@
-zip_code = "02467"
-state = "MA"
 city = "Chestnut Hill"
 county = "Middlesex"
-longitude = -71.211649
 latitude = 42.357564
+longitude = -71.211649
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02467"
+

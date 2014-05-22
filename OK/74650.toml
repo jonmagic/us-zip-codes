@@ -1,6 +1,8 @@
-zip_code = "74650"
-state = "OK"
 city = "Ralston"
 county = "Pawnee"
-longitude = -96.735613
 latitude = 36.503442
+longitude = -96.735613
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74650"
+

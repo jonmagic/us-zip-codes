@@ -1,6 +1,8 @@
-zip_code = "34445"
-state = "FL"
 city = "Holder"
 county = "Citrus"
-longitude = -82.406476
 latitude = 28.948753
+longitude = -82.406476
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34445"
+

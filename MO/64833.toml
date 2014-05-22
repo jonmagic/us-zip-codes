@@ -1,6 +1,8 @@
-zip_code = "64833"
-state = "MO"
 city = "Avilla"
 county = "Jasper"
-longitude = -94.145193
 latitude = 37.194801
+longitude = -94.145193
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64833"
+

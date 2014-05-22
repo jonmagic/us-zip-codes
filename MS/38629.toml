@@ -1,6 +1,8 @@
-zip_code = "38629"
-state = "MS"
 city = "Falkner"
 county = "Tippah"
-longitude = -88.933747
 latitude = 34.850879
+longitude = -88.933747
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38629"
+

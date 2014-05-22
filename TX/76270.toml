@@ -1,6 +1,8 @@
-zip_code = "76270"
-state = "TX"
 city = "Sunset"
 county = "Montague"
-longitude = -97.760266
 latitude = 33.499274
+longitude = -97.760266
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76270"
+

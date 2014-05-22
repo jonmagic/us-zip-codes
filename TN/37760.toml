@@ -1,6 +1,8 @@
-zip_code = "37760"
-state = "TN"
 city = "Jefferson City"
 county = "Jefferson"
-longitude = -83.457262
 latitude = 36.09903
+longitude = -83.457262
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37760"
+

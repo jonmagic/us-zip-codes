@@ -1,6 +1,8 @@
-zip_code = "28555"
-state = "NC"
 city = "Maysville"
 county = "Jones"
-longitude = -77.280066
 latitude = 34.934067
+longitude = -77.280066
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28555"
+

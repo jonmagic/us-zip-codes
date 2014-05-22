@@ -1,6 +1,8 @@
-zip_code = "84711"
-state = "UT"
 city = "Annabella"
 county = "Sevier"
-longitude = -112.065687
 latitude = 38.716845
+longitude = -112.065687
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84711"
+

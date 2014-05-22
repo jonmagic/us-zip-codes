@@ -1,6 +1,8 @@
-zip_code = "67437"
-state = "KS"
 city = "Downs"
 county = "Osborne"
-longitude = -98.581432
 latitude = 39.449456
+longitude = -98.581432
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67437"
+

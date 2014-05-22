@@ -1,6 +1,8 @@
-zip_code = "16833"
-state = "PA"
 city = "Curwensville"
 county = "Clearfield"
-longitude = -78.582309
 latitude = 40.949208
+longitude = -78.582309
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16833"
+

@@ -1,6 +1,8 @@
-zip_code = "93641"
-state = "CA"
 city = "Miramonte"
 county = "Fresno"
-longitude = -119.049219
 latitude = 36.698964
+longitude = -119.049219
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93641"
+

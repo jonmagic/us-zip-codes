@@ -1,6 +1,8 @@
-zip_code = "13065"
-state = "NY"
 city = "Fayette"
 county = "Seneca"
-longitude = -76.80197
 latitude = 42.822662
+longitude = -76.80197
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13065"
+

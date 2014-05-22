@@ -1,6 +1,8 @@
-zip_code = "71441"
-state = "LA"
 city = "Kelly"
 county = "Caldwell"
-longitude = -92.18248
 latitude = 31.964848
+longitude = -92.18248
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71441"
+

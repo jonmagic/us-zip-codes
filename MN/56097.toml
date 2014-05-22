@@ -1,6 +1,8 @@
-zip_code = "56097"
-state = "MN"
 city = "Wells"
 county = "Faribault"
-longitude = -93.912041
 latitude = 43.702814
+longitude = -93.912041
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56097"
+

@@ -1,6 +1,8 @@
-zip_code = "50669"
-state = "IA"
 city = "Reinbeck"
 county = "Grundy"
-longitude = -92.705292
 latitude = 42.332039
+longitude = -92.705292
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50669"
+

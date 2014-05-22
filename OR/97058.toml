@@ -1,6 +1,8 @@
-zip_code = "97058"
-state = "OR"
 city = "The Dalles"
 county = "Wasco"
-longitude = -121.18703
 latitude = 45.554978
+longitude = -121.18703
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97058"
+

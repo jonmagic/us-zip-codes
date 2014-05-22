@@ -1,6 +1,8 @@
-zip_code = "25143"
-state = "WV"
 city = "Nitro"
 county = "Kanawha"
-longitude = -81.616124
 latitude = 38.323042
+longitude = -81.616124
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25143"
+

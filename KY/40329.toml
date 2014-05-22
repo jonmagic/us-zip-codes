@@ -1,6 +1,8 @@
-zip_code = "40329"
-state = "KY"
 city = "Haldeman"
 county = "Rowan"
-longitude = -83.41725
 latitude = 38.206706
+longitude = -83.41725
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40329"
+

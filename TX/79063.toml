@@ -1,6 +1,8 @@
-zip_code = "79063"
-state = "TX"
 city = "Nazareth"
 county = "Castro"
-longitude = -102.09605
 latitude = 34.542943
+longitude = -102.09605
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79063"
+

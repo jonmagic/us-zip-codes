@@ -1,6 +1,8 @@
-zip_code = "04976"
-state = "ME"
 city = "Skowhegan"
 county = "Somerset"
-longitude = -69.593975
 latitude = 44.769303
+longitude = -69.593975
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04976"
+

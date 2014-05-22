@@ -1,6 +1,8 @@
-zip_code = "42164"
-state = "KY"
 city = "Scottsville"
 county = "Allen"
-longitude = -86.188104
 latitude = 36.783817
+longitude = -86.188104
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42164"
+

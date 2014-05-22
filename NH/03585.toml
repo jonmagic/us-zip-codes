@@ -1,6 +1,8 @@
-zip_code = "03585"
-state = "NH"
 city = "Lisbon"
 county = "Grafton"
-longitude = -71.888882
 latitude = 44.245004
+longitude = -71.888882
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03585"
+

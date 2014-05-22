@@ -1,6 +1,8 @@
-zip_code = "54891"
-state = "WI"
 city = "Washburn"
 county = "Bayfield"
-longitude = -90.904151
 latitude = 46.697289
+longitude = -90.904151
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54891"
+

@@ -1,6 +1,8 @@
-zip_code = "13357"
-state = "NY"
 city = "Ilion"
 county = "Herkimer"
-longitude = -74.958226
 latitude = 43.013625
+longitude = -74.958226
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13357"
+

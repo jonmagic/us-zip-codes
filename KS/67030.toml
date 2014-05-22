@@ -1,6 +1,8 @@
-zip_code = "67030"
-state = "KS"
 city = "Colwich"
 county = "Sedgwick"
-longitude = -97.545886
 latitude = 37.77081
+longitude = -97.545886
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67030"
+

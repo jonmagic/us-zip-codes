@@ -1,6 +1,8 @@
-zip_code = "79567"
-state = "TX"
 city = "Winters"
 county = "Runnels"
-longitude = -99.955406
 latitude = 31.951207
+longitude = -99.955406
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79567"
+

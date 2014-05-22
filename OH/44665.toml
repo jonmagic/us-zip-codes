@@ -1,6 +1,8 @@
-zip_code = "44665"
-state = "OH"
 city = "North Georgetown"
 county = "Columbiana"
-longitude = -80.979435
 latitude = 40.843563
+longitude = -80.979435
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44665"
+

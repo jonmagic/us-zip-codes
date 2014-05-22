@@ -1,6 +1,8 @@
-zip_code = "55790"
-state = "MN"
 city = "Tower"
 county = "Saint Louis"
-longitude = -92.338233
 latitude = 47.787247
+longitude = -92.338233
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55790"
+

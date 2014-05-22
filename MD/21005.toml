@@ -1,6 +1,8 @@
-zip_code = "21005"
-state = "MD"
 city = "Aberdeen Proving Ground"
 county = "Harford"
-longitude = -76.120824
 latitude = 39.477062
+longitude = -76.120824
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21005"
+

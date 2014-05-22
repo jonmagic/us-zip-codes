@@ -1,6 +1,8 @@
-zip_code = "33056"
-state = "FL"
 city = "Opa Locka"
 county = "Miami-Dade"
-longitude = -80.24792
 latitude = 25.94837
+longitude = -80.24792
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33056"
+

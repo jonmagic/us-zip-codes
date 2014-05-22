@@ -1,6 +1,8 @@
-zip_code = "03878"
-state = "NH"
 city = "Somersworth"
 county = "Strafford"
-longitude = -70.958264
 latitude = 43.229489
+longitude = -70.958264
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03878"
+

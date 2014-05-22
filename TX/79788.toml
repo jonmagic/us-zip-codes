@@ -1,6 +1,8 @@
-zip_code = "79788"
-state = "TX"
 city = "Wickett"
 county = "Ward"
-longitude = -103.006747
 latitude = 31.569243
+longitude = -103.006747
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79788"
+

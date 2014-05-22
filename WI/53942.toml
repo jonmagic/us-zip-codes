@@ -1,6 +1,8 @@
-zip_code = "53942"
-state = "WI"
 city = "Lime Ridge"
 county = "Sauk"
-longitude = -90.161478
 latitude = 43.468211
+longitude = -90.161478
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53942"
+

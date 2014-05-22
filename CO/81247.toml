@@ -1,6 +1,8 @@
-zip_code = "81247"
-state = "CO"
 city = "Gunnison"
 county = "Gunnison"
-longitude = -107.292081
 latitude = 38.457513
+longitude = -107.292081
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81247"
+

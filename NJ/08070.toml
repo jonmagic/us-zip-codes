@@ -1,6 +1,8 @@
-zip_code = "08070"
-state = "NJ"
 city = "Pennsville"
 county = "Salem"
-longitude = -75.512699
 latitude = 39.637683
+longitude = -75.512699
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08070"
+

@@ -1,6 +1,8 @@
-zip_code = "06471"
-state = "CT"
 city = "North Branford"
 county = "New Haven"
-longitude = -72.780892
 latitude = 41.332347
+longitude = -72.780892
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06471"
+

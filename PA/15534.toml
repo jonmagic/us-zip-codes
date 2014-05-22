@@ -1,6 +1,8 @@
-zip_code = "15534"
-state = "PA"
 city = "Buffalo Mills"
 county = "Bedford"
-longitude = -78.674197
 latitude = 39.864251
+longitude = -78.674197
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15534"
+

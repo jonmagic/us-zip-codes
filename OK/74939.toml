@@ -1,6 +1,8 @@
-zip_code = "74939"
-state = "OK"
 city = "Hodgen"
 county = "Le Flore"
-longitude = -94.64237
 latitude = 34.849951
+longitude = -94.64237
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74939"
+

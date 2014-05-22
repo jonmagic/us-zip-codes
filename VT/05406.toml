@@ -1,6 +1,8 @@
-zip_code = "05406"
-state = "VT"
 city = "Burlington"
 county = "Chittenden"
-longitude = -73.082525
 latitude = 44.442117
+longitude = -73.082525
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05406"
+

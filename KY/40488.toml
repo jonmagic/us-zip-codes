@@ -1,6 +1,8 @@
-zip_code = "40488"
-state = "KY"
 city = "Waneta"
 county = "Jackson"
-longitude = -84.042748
 latitude = 37.47477
+longitude = -84.042748
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40488"
+

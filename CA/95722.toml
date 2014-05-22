@@ -1,6 +1,8 @@
-zip_code = "95722"
-state = "CA"
 city = "Meadow Vista"
 county = "Placer"
-longitude = -121.034843
 latitude = 39.001448
+longitude = -121.034843
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95722"
+

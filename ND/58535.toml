@@ -1,6 +1,8 @@
-zip_code = "58535"
-state = "ND"
 city = "Flasher"
 county = "Morton"
-longitude = -101.316642
 latitude = 46.599807
+longitude = -101.316642
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58535"
+

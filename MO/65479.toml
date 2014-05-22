@@ -1,6 +1,8 @@
-zip_code = "65479"
-state = "MO"
 city = "Hartshorn"
 county = "Texas"
-longitude = -91.73234
 latitude = 37.307074
+longitude = -91.73234
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65479"
+

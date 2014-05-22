@@ -1,6 +1,8 @@
-zip_code = "01503"
-state = "MA"
 city = "Berlin"
 county = "Worcester"
-longitude = -71.841656
 latitude = 42.3129
+longitude = -71.841656
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01503"
+

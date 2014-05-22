@@ -1,6 +1,8 @@
-zip_code = "57020"
-state = "SD"
 city = "Crooks"
 county = "Minnehaha"
-longitude = -96.822137
 latitude = 43.666894
+longitude = -96.822137
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57020"
+

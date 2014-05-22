@@ -1,6 +1,8 @@
-zip_code = "23083"
-state = "VA"
 city = "Jetersville"
 county = "Amelia"
-longitude = -78.121631
 latitude = 37.322156
+longitude = -78.121631
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23083"
+

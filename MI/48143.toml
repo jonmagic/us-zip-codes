@@ -1,6 +1,8 @@
-zip_code = "48143"
-state = "MI"
 city = "Lakeland"
 county = "Livingston"
-longitude = -83.836643
 latitude = 42.457317
+longitude = -83.836643
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48143"
+

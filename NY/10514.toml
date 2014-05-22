@@ -1,6 +1,8 @@
-zip_code = "10514"
-state = "NY"
 city = "Chappaqua"
 county = "Westchester"
-longitude = -73.775547
 latitude = 41.078957
+longitude = -73.775547
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10514"
+

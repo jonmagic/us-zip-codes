@@ -1,6 +1,8 @@
-zip_code = "62845"
-state = "IL"
 city = "Herald"
 county = "White"
-longitude = -88.142657
 latitude = 38.073931
+longitude = -88.142657
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62845"
+

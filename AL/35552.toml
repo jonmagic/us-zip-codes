@@ -1,6 +1,8 @@
-zip_code = "35552"
-state = "AL"
 city = "Detroit"
 county = "Lamar"
-longitude = -88.153299
 latitude = 34.025325
+longitude = -88.153299
+state = ""
+state_code_alpha2 = ""
+zip_code = "35552"
+

@@ -1,6 +1,8 @@
-zip_code = "72722"
-state = "AR"
 city = "Decatur"
 county = "Benton"
-longitude = -94.462415
 latitude = 36.321366
+longitude = -94.462415
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72722"
+

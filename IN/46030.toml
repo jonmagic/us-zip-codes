@@ -1,6 +1,8 @@
-zip_code = "46030"
-state = "IN"
 city = "Arcadia"
 county = "Hamilton"
-longitude = -86.045789
 latitude = 40.167756
+longitude = -86.045789
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46030"
+

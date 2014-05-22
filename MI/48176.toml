@@ -1,6 +1,8 @@
-zip_code = "48176"
-state = "MI"
 city = "Saline"
 county = "Washtenaw"
-longitude = -83.802375
 latitude = 42.147636
+longitude = -83.802375
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48176"
+

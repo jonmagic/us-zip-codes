@@ -1,6 +1,8 @@
-zip_code = "54471"
-state = "WI"
 city = "Ringle"
 county = "Marathon"
-longitude = -89.364964
 latitude = 44.929692
+longitude = -89.364964
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54471"
+

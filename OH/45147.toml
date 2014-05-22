@@ -1,6 +1,8 @@
-zip_code = "45147"
-state = "OH"
 city = "Miamiville"
 county = "Clermont"
-longitude = -84.300232
 latitude = 39.213739
+longitude = -84.300232
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45147"
+

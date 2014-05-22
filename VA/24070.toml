@@ -1,6 +1,8 @@
-zip_code = "24070"
-state = "VA"
 city = "Catawba"
 county = "Roanoke"
-longitude = -80.158462
 latitude = 37.355418
+longitude = -80.158462
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24070"
+

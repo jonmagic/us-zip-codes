@@ -1,6 +1,8 @@
-zip_code = "05836"
-state = "VT"
 city = "East Hardwick"
 county = "Caledonia"
-longitude = -72.17371
 latitude = 44.496356
+longitude = -72.17371
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05836"
+

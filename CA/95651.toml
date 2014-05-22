@@ -1,6 +1,8 @@
-zip_code = "95651"
-state = "CA"
 city = "Lotus"
 county = "El Dorado"
-longitude = -120.842623
 latitude = 38.888405
+longitude = -120.842623
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95651"
+

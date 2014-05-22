@@ -1,6 +1,8 @@
-zip_code = "01451"
-state = "MA"
 city = "Harvard"
 county = "Worcester"
-longitude = -71.575864
 latitude = 42.500187
+longitude = -71.575864
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01451"
+

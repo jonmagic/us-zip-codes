@@ -1,6 +1,8 @@
-zip_code = "13021"
-state = "NY"
 city = "Auburn"
 county = "Cayuga"
-longitude = -76.565683
 latitude = 42.894381
+longitude = -76.565683
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13021"
+

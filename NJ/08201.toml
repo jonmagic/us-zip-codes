@@ -1,6 +1,8 @@
-zip_code = "08201"
-state = "NJ"
 city = "Absecon"
 county = "Atlantic"
-longitude = -74.680323
 latitude = 39.48909
+longitude = -74.680323
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08201"
+

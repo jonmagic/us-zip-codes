@@ -1,6 +1,8 @@
-zip_code = "06782"
-state = "CT"
 city = "Plymouth"
 county = "Litchfield"
-longitude = -73.044364
 latitude = 41.65873
+longitude = -73.044364
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06782"
+

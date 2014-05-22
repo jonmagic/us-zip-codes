@@ -1,6 +1,8 @@
-zip_code = "79527"
-state = "TX"
 city = "Ira"
 county = "Scurry"
-longitude = -101.030102
 latitude = 32.646004
+longitude = -101.030102
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79527"
+

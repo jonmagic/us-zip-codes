@@ -1,6 +1,8 @@
-zip_code = "66407"
-state = "KS"
 city = "Belvue"
 county = "Pottawatomie"
-longitude = -96.164714
 latitude = 39.277337
+longitude = -96.164714
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66407"
+

@@ -1,6 +1,8 @@
-zip_code = "38004"
-state = "TN"
 city = "Atoka"
 county = "Tipton"
-longitude = -89.809562
 latitude = 35.454301
+longitude = -89.809562
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38004"
+

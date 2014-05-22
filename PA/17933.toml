@@ -1,6 +1,8 @@
-zip_code = "17933"
-state = "PA"
 city = "Friedensburg"
 county = "Schuylkill"
-longitude = -76.246441
 latitude = 40.595462
+longitude = -76.246441
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17933"
+

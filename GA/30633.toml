@@ -1,6 +1,8 @@
-zip_code = "30633"
-state = "GA"
 city = "Danielsville"
 county = "Madison"
-longitude = -83.262772
 latitude = 34.152968
+longitude = -83.262772
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30633"
+

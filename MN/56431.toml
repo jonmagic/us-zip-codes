@@ -1,6 +1,8 @@
-zip_code = "56431"
-state = "MN"
 city = "Aitkin"
 county = "Aitkin"
-longitude = -93.430495
 latitude = 46.563605
+longitude = -93.430495
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56431"
+

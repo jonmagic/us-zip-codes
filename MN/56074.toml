@@ -1,6 +1,8 @@
-zip_code = "56074"
-state = "MN"
 city = "Nicollet"
 county = "Nicollet"
-longitude = -94.188233
 latitude = 44.273214
+longitude = -94.188233
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56074"
+

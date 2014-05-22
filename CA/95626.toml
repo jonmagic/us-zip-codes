@@ -1,6 +1,8 @@
-zip_code = "95626"
-state = "CA"
 city = "Elverta"
 county = "Sacramento"
-longitude = -121.452097
 latitude = 38.695702
+longitude = -121.452097
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95626"
+

@@ -1,6 +1,8 @@
-zip_code = "44138"
-state = "OH"
 city = "Olmsted Falls"
 county = "Cuyahoga"
-longitude = -81.768304
 latitude = 41.4656
+longitude = -81.768304
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44138"
+

@@ -1,6 +1,8 @@
-zip_code = "71601"
-state = "AR"
 city = "Pine Bluff"
 county = "Jefferson"
-longitude = -91.985946
 latitude = 34.208962
+longitude = -91.985946
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71601"
+

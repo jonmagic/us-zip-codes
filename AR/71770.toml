@@ -1,6 +1,8 @@
-zip_code = "71770"
-state = "AR"
 city = "Waldo"
 county = "Columbia"
-longitude = -93.302374
 latitude = 33.350437
+longitude = -93.302374
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71770"
+

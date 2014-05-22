@@ -1,6 +1,8 @@
-zip_code = "18221"
-state = "PA"
 city = "Drifton"
 county = "Luzerne"
-longitude = -75.905693
 latitude = 41.001634
+longitude = -75.905693
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18221"
+

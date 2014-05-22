@@ -1,6 +1,8 @@
-zip_code = "14852"
-state = "NY"
 city = "Ithaca"
 county = "Tompkins"
-longitude = -76.467233
 latitude = 42.445074
+longitude = -76.467233
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14852"
+

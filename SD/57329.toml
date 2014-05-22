@@ -1,6 +1,8 @@
-zip_code = "57329"
-state = "SD"
 city = "Dante"
 county = "Charles Mix"
-longitude = -98.175204
 latitude = 42.984707
+longitude = -98.175204
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57329"
+

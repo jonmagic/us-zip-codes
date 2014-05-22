@@ -1,6 +1,8 @@
-zip_code = "37755"
-state = "TN"
 city = "Helenwood"
 county = "Scott"
-longitude = -84.543615
 latitude = 36.425232
+longitude = -84.543615
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37755"
+

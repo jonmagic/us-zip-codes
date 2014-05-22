@@ -1,6 +1,8 @@
-zip_code = "00765"
-state = "PR"
 city = "Vieques"
 county = "Vieques"
-longitude = -65.460356
 latitude = 18.123347
+longitude = -65.460356
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00765"
+

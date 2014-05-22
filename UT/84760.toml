@@ -1,6 +1,8 @@
-zip_code = "84760"
-state = "UT"
 city = "Paragonah"
 county = "Iron"
-longitude = -112.791568
 latitude = 37.886012
+longitude = -112.791568
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84760"
+

@@ -1,6 +1,8 @@
-zip_code = "40862"
-state = "KY"
 city = "Partridge"
 county = "Letcher"
-longitude = -82.879541
 latitude = 37.012888
+longitude = -82.879541
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40862"
+

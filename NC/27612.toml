@@ -1,6 +1,8 @@
-zip_code = "27612"
-state = "NC"
 city = "Raleigh"
 county = "Wake"
-longitude = -78.675135
 latitude = 35.821942
+longitude = -78.675135
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27612"
+

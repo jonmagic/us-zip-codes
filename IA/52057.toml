@@ -1,6 +1,8 @@
-zip_code = "52057"
-state = "IA"
 city = "Manchester"
 county = "Delaware"
-longitude = -91.39658
 latitude = 42.492356
+longitude = -91.39658
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52057"
+

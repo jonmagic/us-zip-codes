@@ -1,6 +1,8 @@
-zip_code = "15074"
-state = "PA"
 city = "Rochester"
 county = "Beaver"
-longitude = -80.326538
 latitude = 40.686473
+longitude = -80.326538
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15074"
+

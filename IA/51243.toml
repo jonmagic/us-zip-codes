@@ -1,6 +1,8 @@
-zip_code = "51243"
-state = "IA"
 city = "Little Rock"
 county = "Lyon"
-longitude = -96.081644
 latitude = 43.389621
+longitude = -96.081644
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51243"
+

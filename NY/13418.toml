@@ -1,6 +1,8 @@
-zip_code = "13418"
-state = "NY"
 city = "North Brookfield"
 county = "Madison"
-longitude = -75.616793
 latitude = 42.954541
+longitude = -75.616793
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13418"
+

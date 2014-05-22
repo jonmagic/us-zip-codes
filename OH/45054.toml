@@ -1,6 +1,8 @@
-zip_code = "45054"
-state = "OH"
 city = "Oregonia"
 county = "Warren"
-longitude = -84.079543
 latitude = 39.458117
+longitude = -84.079543
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45054"
+

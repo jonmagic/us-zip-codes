@@ -1,6 +1,8 @@
-zip_code = "88021"
-state = "NM"
 city = "Anthony"
 county = "Dona Ana"
-longitude = -106.570475
 latitude = 32.068186
+longitude = -106.570475
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88021"
+

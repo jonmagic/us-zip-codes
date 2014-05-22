@@ -1,6 +1,8 @@
-zip_code = "15501"
-state = "PA"
 city = "Somerset"
 county = "Somerset"
-longitude = -79.08745
 latitude = 39.990045
+longitude = -79.08745
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15501"
+

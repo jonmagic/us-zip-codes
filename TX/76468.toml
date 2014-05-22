@@ -1,6 +1,8 @@
-zip_code = "76468"
-state = "TX"
 city = "Proctor"
 county = "Comanche"
-longitude = -98.540485
 latitude = 31.972712
+longitude = -98.540485
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76468"
+

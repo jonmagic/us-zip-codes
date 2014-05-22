@@ -1,6 +1,8 @@
-zip_code = "34956"
-state = "FL"
 city = "Indiantown"
 county = "Martin"
-longitude = -80.45192
 latitude = 27.106451
+longitude = -80.45192
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34956"
+

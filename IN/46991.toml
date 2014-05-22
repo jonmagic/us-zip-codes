@@ -1,6 +1,8 @@
-zip_code = "46991"
-state = "IN"
 city = "Van Buren"
 county = "Grant"
-longitude = -85.514796
 latitude = 40.617379
+longitude = -85.514796
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46991"
+

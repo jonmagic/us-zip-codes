@@ -1,6 +1,8 @@
-zip_code = "75117"
-state = "TX"
 city = "Edgewood"
 county = "Van Zandt"
-longitude = -95.85635
 latitude = 32.71476
+longitude = -95.85635
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75117"
+

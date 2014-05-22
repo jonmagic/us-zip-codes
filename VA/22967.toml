@@ -1,6 +1,8 @@
-zip_code = "22967"
-state = "VA"
 city = "Roseland"
 county = "Nelson"
-longitude = -78.962522
 latitude = 37.824173
+longitude = -78.962522
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22967"
+

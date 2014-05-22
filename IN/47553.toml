@@ -1,6 +1,8 @@
-zip_code = "47553"
-state = "IN"
 city = "Loogootee"
 county = "Martin"
-longitude = -86.912985
 latitude = 38.771691
+longitude = -86.912985
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47553"
+

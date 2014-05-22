@@ -1,6 +1,8 @@
-zip_code = "97428"
-state = "OR"
 city = "Curtin"
 county = "Douglas"
-longitude = -123.196161
 latitude = 43.747559
+longitude = -123.196161
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97428"
+

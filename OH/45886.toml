@@ -1,6 +1,8 @@
-zip_code = "45886"
-state = "OH"
 city = "Scott"
 county = "Van Wert"
-longitude = -84.603141
 latitude = 40.975363
+longitude = -84.603141
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45886"
+

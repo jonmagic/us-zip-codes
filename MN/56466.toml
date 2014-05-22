@@ -1,6 +1,8 @@
-zip_code = "56466"
-state = "MN"
 city = "Motley"
 county = "Morrison"
-longitude = -94.563773
 latitude = 46.288105
+longitude = -94.563773
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56466"
+

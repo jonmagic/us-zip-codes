@@ -1,6 +1,8 @@
-zip_code = "24599"
-state = "VA"
 city = "Wingina"
 county = "Nelson"
-longitude = -78.731156
 latitude = 37.682224
+longitude = -78.731156
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24599"
+

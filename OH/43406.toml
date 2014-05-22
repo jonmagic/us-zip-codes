@@ -1,6 +1,8 @@
-zip_code = "43406"
-state = "OH"
 city = "Bradner"
 county = "Wood"
-longitude = -83.542092
 latitude = 41.334031
+longitude = -83.542092
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43406"
+

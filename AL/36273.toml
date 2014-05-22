@@ -1,6 +1,8 @@
-zip_code = "36273"
-state = "AL"
 city = "Ranburne"
 county = "Cleburne"
-longitude = -85.38201
 latitude = 33.565683
+longitude = -85.38201
+state = ""
+state_code_alpha2 = ""
+zip_code = "36273"
+

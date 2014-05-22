@@ -1,6 +1,8 @@
-zip_code = "56187"
-state = "MN"
 city = "Worthington"
 county = "Nobles"
-longitude = -95.735375
 latitude = 43.645207
+longitude = -95.735375
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56187"
+

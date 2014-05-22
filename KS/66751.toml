@@ -1,6 +1,8 @@
-zip_code = "66751"
-state = "KS"
 city = "La Harpe"
 county = "Allen"
-longitude = -95.255758
 latitude = 37.914528
+longitude = -95.255758
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66751"
+

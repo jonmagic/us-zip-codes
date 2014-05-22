@@ -1,6 +1,8 @@
-zip_code = "40067"
-state = "KY"
 city = "Simpsonville"
 county = "Shelby"
-longitude = -85.360625
 latitude = 38.223861
+longitude = -85.360625
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40067"
+

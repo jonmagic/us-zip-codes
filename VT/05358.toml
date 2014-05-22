@@ -1,6 +1,8 @@
-zip_code = "05358"
-state = "VT"
 city = "West Halifax"
 county = "Windham"
-longitude = -72.745723
 latitude = 42.766519
+longitude = -72.745723
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05358"
+

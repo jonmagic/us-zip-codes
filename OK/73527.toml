@@ -1,6 +1,8 @@
-zip_code = "73527"
-state = "OK"
 city = "Cache"
 county = "Comanche"
-longitude = -98.508297
 latitude = 34.545031
+longitude = -98.508297
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73527"
+

@@ -1,6 +1,8 @@
-zip_code = "40351"
-state = "KY"
 city = "Morehead"
 county = "Rowan"
-longitude = -83.42039
 latitude = 38.210471
+longitude = -83.42039
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40351"
+

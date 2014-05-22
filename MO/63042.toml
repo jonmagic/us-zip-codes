@@ -1,6 +1,8 @@
-zip_code = "63042"
-state = "MO"
 city = "Hazelwood"
 county = "Saint Louis"
-longitude = -90.399166
 latitude = 38.7844
+longitude = -90.399166
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63042"
+

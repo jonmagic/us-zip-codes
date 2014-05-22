@@ -1,6 +1,8 @@
-zip_code = "38582"
-state = "TN"
 city = "Silver Point"
 county = "Putnam"
-longitude = -85.729463
 latitude = 36.107377
+longitude = -85.729463
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38582"
+

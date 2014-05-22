@@ -1,6 +1,8 @@
-zip_code = "76384"
-state = "TX"
 city = "Vernon"
 county = "Wilbarger"
-longitude = -99.284002
 latitude = 34.155524
+longitude = -99.284002
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76384"
+

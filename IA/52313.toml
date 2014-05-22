@@ -1,6 +1,8 @@
-zip_code = "52313"
-state = "IA"
 city = "Mount Auburn"
 county = "Benton"
-longitude = -92.098959
 latitude = 42.254106
+longitude = -92.098959
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52313"
+

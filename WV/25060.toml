@@ -1,6 +1,8 @@
-zip_code = "25060"
-state = "WV"
 city = "Dorothy"
 county = "Raleigh"
-longitude = -81.444561
 latitude = 37.949132
+longitude = -81.444561
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25060"
+

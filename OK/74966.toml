@@ -1,6 +1,8 @@
-zip_code = "74966"
-state = "OK"
 city = "Wister"
 county = "Le Flore"
-longitude = -94.72241
 latitude = 34.967414
+longitude = -94.72241
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74966"
+

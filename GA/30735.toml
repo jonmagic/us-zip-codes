@@ -1,6 +1,8 @@
-zip_code = "30735"
-state = "GA"
 city = "Resaca"
 county = "Gordon"
-longitude = -84.906803
 latitude = 34.583318
+longitude = -84.906803
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30735"
+

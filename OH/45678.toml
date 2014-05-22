@@ -1,6 +1,8 @@
-zip_code = "45678"
-state = "OH"
 city = "Scottown"
 county = "Lawrence"
-longitude = -82.385511
 latitude = 38.598567
+longitude = -82.385511
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45678"
+

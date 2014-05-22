@@ -1,6 +1,8 @@
-zip_code = "53555"
-state = "WI"
 city = "Lodi"
 county = "Columbia"
-longitude = -89.557023
 latitude = 43.342813
+longitude = -89.557023
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53555"
+

@@ -1,6 +1,8 @@
-zip_code = "88426"
-state = "NM"
 city = "Logan"
 county = "Quay"
-longitude = -103.264281
 latitude = 35.52453
+longitude = -103.264281
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88426"
+

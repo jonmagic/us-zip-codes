@@ -1,6 +1,8 @@
-zip_code = "12511"
-state = "NY"
 city = "Castle Point"
 county = "Dutchess"
-longitude = -73.743714
 latitude = 41.759905
+longitude = -73.743714
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12511"
+

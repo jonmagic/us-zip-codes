@@ -1,6 +1,8 @@
-zip_code = "25075"
-state = "WV"
 city = "Eskdale"
 county = "Kanawha"
-longitude = -81.615909
 latitude = 38.178047
+longitude = -81.615909
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25075"
+

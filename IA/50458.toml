@@ -1,6 +1,8 @@
-zip_code = "50458"
-state = "IA"
 city = "Nora Springs"
 county = "Floyd"
-longitude = -92.974488
 latitude = 43.149677
+longitude = -92.974488
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50458"
+

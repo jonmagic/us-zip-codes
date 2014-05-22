@@ -1,6 +1,8 @@
-zip_code = "04475"
-state = "ME"
 city = "Passadumkeag"
 county = "Penobscot"
-longitude = -68.618775
 latitude = 45.040668
+longitude = -68.618775
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04475"
+

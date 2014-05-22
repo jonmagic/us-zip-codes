@@ -1,6 +1,8 @@
-zip_code = "07506"
-state = "NJ"
 city = "Hawthorne"
 county = "Passaic"
-longitude = -74.161788
 latitude = 40.954375
+longitude = -74.161788
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07506"
+

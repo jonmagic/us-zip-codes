@@ -1,6 +1,8 @@
-zip_code = "95937"
-state = "CA"
 city = "Dunnigan"
 county = "Yolo"
-longitude = -122.057921
 latitude = 38.835384
+longitude = -122.057921
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95937"
+

@@ -1,6 +1,8 @@
-zip_code = "12074"
-state = "NY"
 city = "Galway"
 county = "Saratoga"
-longitude = -74.043981
 latitude = 43.082925
+longitude = -74.043981
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12074"
+

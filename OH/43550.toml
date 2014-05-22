@@ -1,6 +1,8 @@
-zip_code = "43550"
-state = "OH"
 city = "Okolona"
 county = "Henry"
-longitude = -84.111701
 latitude = 41.326664
+longitude = -84.111701
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43550"
+

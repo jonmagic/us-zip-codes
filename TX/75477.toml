@@ -1,6 +1,8 @@
-zip_code = "75477"
-state = "TX"
 city = "Roxton"
 county = "Lamar"
-longitude = -95.721734
 latitude = 33.544969
+longitude = -95.721734
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75477"
+

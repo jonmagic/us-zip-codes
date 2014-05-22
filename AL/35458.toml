@@ -1,6 +1,8 @@
-zip_code = "35458"
-state = "AL"
 city = "Elrod"
 county = "Tuscaloosa"
-longitude = -87.801689
 latitude = 33.367757
+longitude = -87.801689
+state = ""
+state_code_alpha2 = ""
+zip_code = "35458"
+

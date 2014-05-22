@@ -1,6 +1,8 @@
-zip_code = "33848"
-state = "FL"
 city = "Intercession City"
 county = "Osceola"
-longitude = -81.512387
 latitude = 28.263489
+longitude = -81.512387
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33848"
+

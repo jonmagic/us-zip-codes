@@ -1,6 +1,8 @@
-zip_code = "10589"
-state = "NY"
 city = "Somers"
 county = "Westchester"
-longitude = -73.693685
 latitude = 41.326544
+longitude = -73.693685
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10589"
+

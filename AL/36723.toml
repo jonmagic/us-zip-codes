@@ -1,6 +1,8 @@
-zip_code = "36723"
-state = "AL"
 city = "Boykin"
 county = "Wilcox"
-longitude = -87.294855
 latitude = 32.082415
+longitude = -87.294855
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36723"
+

@@ -1,6 +1,8 @@
-zip_code = "21672"
-state = "MD"
 city = "Toddville"
 county = "Dorchester"
-longitude = -76.072171
 latitude = 38.274149
+longitude = -76.072171
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21672"
+

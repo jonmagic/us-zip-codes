@@ -1,6 +1,8 @@
-zip_code = "67149"
-state = "KS"
 city = "Viola"
 county = "Sedgwick"
-longitude = -97.519347
 latitude = 37.583241
+longitude = -97.519347
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67149"
+

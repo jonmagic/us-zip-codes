@@ -1,6 +1,8 @@
-zip_code = "56750"
-state = "MN"
 city = "Red Lake Falls"
 county = "Red Lake"
-longitude = -96.270368
 latitude = 47.885347
+longitude = -96.270368
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56750"
+

@@ -1,6 +1,8 @@
-zip_code = "29744"
-state = "SC"
 city = "Van Wyck"
 county = "Lancaster"
-longitude = -80.851836
 latitude = 34.973866
+longitude = -80.851836
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29744"
+

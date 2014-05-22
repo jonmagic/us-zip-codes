@@ -1,6 +1,8 @@
-zip_code = "65345"
-state = "MO"
 city = "Mora"
 county = "Pettis"
-longitude = -93.158732
 latitude = 38.556891
+longitude = -93.158732
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65345"
+

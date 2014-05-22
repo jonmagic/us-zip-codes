@@ -1,6 +1,8 @@
-zip_code = "55775"
-state = "MN"
 city = "Pengilly"
 county = "Itasca"
-longitude = -93.212906
 latitude = 47.287391
+longitude = -93.212906
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55775"
+

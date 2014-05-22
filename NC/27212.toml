@@ -1,6 +1,8 @@
-zip_code = "27212"
-state = "NC"
 city = "Blanch"
 county = "Caswell"
-longitude = -79.275549
 latitude = 36.466412
+longitude = -79.275549
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27212"
+

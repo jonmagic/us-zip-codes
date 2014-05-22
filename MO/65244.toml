@@ -1,6 +1,8 @@
-zip_code = "65244"
-state = "MO"
 city = "Clifton Hill"
 county = "Randolph"
-longitude = -92.504195
 latitude = 39.428482
+longitude = -92.504195
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65244"
+

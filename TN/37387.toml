@@ -1,6 +1,8 @@
-zip_code = "37387"
-state = "TN"
 city = "Tracy City"
 county = "Grundy"
-longitude = -85.761237
 latitude = 35.273159
+longitude = -85.761237
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37387"
+

@@ -1,6 +1,8 @@
-zip_code = "30218"
-state = "GA"
 city = "Gay"
 county = "Meriwether"
-longitude = -84.613189
 latitude = 33.06913
+longitude = -84.613189
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30218"
+

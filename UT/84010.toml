@@ -1,6 +1,8 @@
-zip_code = "84010"
-state = "UT"
 city = "Bountiful"
 county = "Davis"
-longitude = -111.870994
 latitude = 40.874038
+longitude = -111.870994
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84010"
+

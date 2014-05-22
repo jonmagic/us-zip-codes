@@ -1,6 +1,8 @@
-zip_code = "16344"
-state = "PA"
 city = "Rouseville"
 county = "Venango"
-longitude = -79.688057
 latitude = 41.471714
+longitude = -79.688057
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16344"
+

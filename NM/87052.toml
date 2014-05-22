@@ -1,6 +1,8 @@
-zip_code = "87052"
-state = "NM"
 city = "Santo Domingo Pueblo"
 county = "Sandoval"
-longitude = -106.344467
 latitude = 35.526918
+longitude = -106.344467
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87052"
+

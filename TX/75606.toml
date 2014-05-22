@@ -1,6 +1,8 @@
-zip_code = "75606"
-state = "TX"
 city = "Longview"
 county = "Gregg"
-longitude = -94.616062
 latitude = 32.369393
+longitude = -94.616062
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75606"
+

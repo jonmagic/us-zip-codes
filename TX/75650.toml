@@ -1,6 +1,8 @@
-zip_code = "75650"
-state = "TX"
 city = "Hallsville"
 county = "Harrison"
-longitude = -94.573183
 latitude = 32.526928
+longitude = -94.573183
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75650"
+

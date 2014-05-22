@@ -1,6 +1,8 @@
-zip_code = "41052"
-state = "KY"
 city = "Jonesville"
 county = "Grant"
-longitude = -84.750673
 latitude = 38.658689
+longitude = -84.750673
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41052"
+

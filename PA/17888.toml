@@ -1,6 +1,8 @@
-zip_code = "17888"
-state = "PA"
 city = "Wilburton"
 county = "Columbia"
-longitude = -76.368632
 latitude = 40.815401
+longitude = -76.368632
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17888"
+

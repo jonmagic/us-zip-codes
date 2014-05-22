@@ -1,6 +1,8 @@
-zip_code = "94977"
-state = "CA"
 city = "Larkspur"
 county = "Marin"
-longitude = -122.740988
 latitude = 38.068036
+longitude = -122.740988
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94977"
+

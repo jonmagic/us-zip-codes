@@ -1,6 +1,8 @@
-zip_code = "68727"
-state = "NE"
 city = "Coleridge"
 county = "Cedar"
-longitude = -97.260393
 latitude = 42.530505
+longitude = -97.260393
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68727"
+

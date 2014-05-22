@@ -1,6 +1,8 @@
-zip_code = "78384"
-state = "TX"
 city = "San Diego"
 county = "Duval"
-longitude = -98.517875
 latitude = 27.660127
+longitude = -98.517875
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78384"
+

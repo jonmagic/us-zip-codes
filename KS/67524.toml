@@ -1,6 +1,8 @@
-zip_code = "67524"
-state = "KS"
 city = "Chase"
 county = "Rice"
-longitude = -98.246676
 latitude = 38.362338
+longitude = -98.246676
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67524"
+

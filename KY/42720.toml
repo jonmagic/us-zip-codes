@@ -1,6 +1,8 @@
-zip_code = "42720"
-state = "KY"
 city = "Cane Valley"
 county = "Adair"
-longitude = -85.370926
 latitude = 37.121145
+longitude = -85.370926
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42720"
+

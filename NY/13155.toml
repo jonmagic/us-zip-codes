@@ -1,6 +1,8 @@
-zip_code = "13155"
-state = "NY"
 city = "South Otselic"
 county = "Chenango"
-longitude = -75.769855
 latitude = 42.654768
+longitude = -75.769855
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13155"
+

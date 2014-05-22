@@ -1,6 +1,8 @@
-zip_code = "94549"
-state = "CA"
 city = "Lafayette"
 county = "Contra Costa"
-longitude = -122.120089
 latitude = 37.901223
+longitude = -122.120089
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94549"
+

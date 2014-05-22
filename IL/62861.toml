@@ -1,6 +1,8 @@
-zip_code = "62861"
-state = "IL"
 city = "Maunie"
 county = "White"
-longitude = -88.075864
 latitude = 38.036393
+longitude = -88.075864
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62861"
+

@@ -1,6 +1,8 @@
-zip_code = "29631"
-state = "SC"
 city = "Clemson"
 county = "Pickens"
-longitude = -82.802154
 latitude = 34.75974
+longitude = -82.802154
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29631"
+

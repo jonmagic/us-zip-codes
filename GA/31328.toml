@@ -1,6 +1,8 @@
-zip_code = "31328"
-state = "GA"
 city = "Tybee Island"
 county = "Chatham"
-longitude = -80.855322
 latitude = 32.00593
+longitude = -80.855322
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31328"
+

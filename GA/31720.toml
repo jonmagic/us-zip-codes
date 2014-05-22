@@ -1,6 +1,8 @@
-zip_code = "31720"
-state = "GA"
 city = "Barwick"
 county = "Brooks"
-longitude = -83.526479
 latitude = 30.856633
+longitude = -83.526479
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31720"
+

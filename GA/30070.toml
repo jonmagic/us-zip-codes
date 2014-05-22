@@ -1,6 +1,8 @@
-zip_code = "30070"
-state = "GA"
 city = "Porterdale"
 county = "Newton"
-longitude = -83.895063
 latitude = 33.571234
+longitude = -83.895063
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30070"
+

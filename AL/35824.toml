@@ -1,6 +1,8 @@
-zip_code = "35824"
-state = "AL"
 city = "Huntsville"
 county = "Madison"
-longitude = -86.752294
 latitude = 34.645603
+longitude = -86.752294
+state = ""
+state_code_alpha2 = ""
+zip_code = "35824"
+

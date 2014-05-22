@@ -1,6 +1,8 @@
-zip_code = "19956"
-state = "DE"
 city = "Laurel"
 county = "Sussex"
-longitude = -75.378729
 latitude = 38.663322
+longitude = -75.378729
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19956"
+

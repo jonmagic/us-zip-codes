@@ -1,6 +1,8 @@
-zip_code = "61350"
-state = "IL"
 city = "Ottawa"
 county = "La Salle"
-longitude = -88.833337
 latitude = 41.248925
+longitude = -88.833337
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61350"
+

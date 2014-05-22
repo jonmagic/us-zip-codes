@@ -1,6 +1,8 @@
-zip_code = "35585"
-state = "AL"
 city = "Spruce Pine"
 county = "Franklin"
-longitude = -87.81446
 latitude = 34.424572
+longitude = -87.81446
+state = ""
+state_code_alpha2 = ""
+zip_code = "35585"
+

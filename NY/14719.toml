@@ -1,6 +1,8 @@
-zip_code = "14719"
-state = "NY"
 city = "Cattaraugus"
 county = "Cattaraugus"
-longitude = -78.869752
 latitude = 42.343336
+longitude = -78.869752
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14719"
+

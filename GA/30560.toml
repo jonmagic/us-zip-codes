@@ -1,6 +1,8 @@
-zip_code = "30560"
-state = "GA"
 city = "Morganton"
 county = "Fannin"
-longitude = -84.248612
 latitude = 34.86263
+longitude = -84.248612
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30560"
+

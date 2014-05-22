@@ -1,6 +1,8 @@
-zip_code = "13415"
-state = "NY"
 city = "New Lisbon"
 county = "Otsego"
-longitude = -75.195695
 latitude = 42.590419
+longitude = -75.195695
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13415"
+

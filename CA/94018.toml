@@ -1,6 +1,8 @@
-zip_code = "94018"
-state = "CA"
 city = "El Granada"
 county = "San Mateo"
-longitude = -122.473404
 latitude = 37.510085
+longitude = -122.473404
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94018"
+

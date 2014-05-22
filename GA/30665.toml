@@ -1,6 +1,8 @@
-zip_code = "30665"
-state = "GA"
 city = "Siloam"
 county = "Greene"
-longitude = -83.074186
 latitude = 33.561871
+longitude = -83.074186
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30665"
+

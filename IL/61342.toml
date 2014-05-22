@@ -1,6 +1,8 @@
-zip_code = "61342"
-state = "IL"
 city = "Mendota"
 county = "La Salle"
-longitude = -89.051012
 latitude = 41.385519
+longitude = -89.051012
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61342"
+

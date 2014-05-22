@@ -1,6 +1,8 @@
-zip_code = "65483"
-state = "MO"
 city = "Houston"
 county = "Texas"
-longitude = -91.946292
 latitude = 37.305192
+longitude = -91.946292
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65483"
+

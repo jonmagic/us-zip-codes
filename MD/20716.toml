@@ -1,6 +1,8 @@
-zip_code = "20716"
-state = "MD"
 city = "Bowie"
 county = "Prince Georges"
-longitude = -76.709789
 latitude = 38.926311
+longitude = -76.709789
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20716"
+

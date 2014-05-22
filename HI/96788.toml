@@ -1,6 +1,8 @@
-zip_code = "96788"
-state = "HI"
 city = "Pukalani"
 county = "Maui"
-longitude = -156.325923
 latitude = 20.855864
+longitude = -156.325923
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96788"
+

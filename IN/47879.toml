@@ -1,6 +1,8 @@
-zip_code = "47879"
-state = "IN"
 city = "Shelburn"
 county = "Sullivan"
-longitude = -87.382988
 latitude = 39.10494
+longitude = -87.382988
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47879"
+

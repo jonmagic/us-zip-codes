@@ -1,6 +1,8 @@
-zip_code = "08203"
-state = "NJ"
 city = "Brigantine"
 county = "Atlantic"
-longitude = -74.49401
 latitude = 39.370172
+longitude = -74.49401
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08203"
+

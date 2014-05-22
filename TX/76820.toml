@@ -1,6 +1,8 @@
-zip_code = "76820"
-state = "TX"
 city = "Art"
 county = "Mason"
-longitude = -99.100089
 latitude = 30.720372
+longitude = -99.100089
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76820"
+

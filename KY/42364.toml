@@ -1,6 +1,8 @@
-zip_code = "42364"
-state = "KY"
 city = "Pellville"
 county = "Hancock"
-longitude = -86.804814
 latitude = 37.827235
+longitude = -86.804814
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42364"
+

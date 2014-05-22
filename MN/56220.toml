@@ -1,6 +1,8 @@
-zip_code = "56220"
-state = "MN"
 city = "Canby"
 county = "Yellow Medicine"
-longitude = -95.916433
 latitude = 44.775235
+longitude = -95.916433
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56220"
+

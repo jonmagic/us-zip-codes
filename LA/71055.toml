@@ -1,6 +1,8 @@
-zip_code = "71055"
-state = "LA"
 city = "Minden"
 county = "Webster"
-longitude = -93.312837
 latitude = 32.725217
+longitude = -93.312837
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71055"
+

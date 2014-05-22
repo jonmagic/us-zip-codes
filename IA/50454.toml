@@ -1,6 +1,8 @@
-zip_code = "50454"
-state = "IA"
 city = "Little Cedar"
 county = "Mitchell"
-longitude = -92.738099
 latitude = 43.385605
+longitude = -92.738099
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50454"
+

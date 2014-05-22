@@ -1,6 +1,8 @@
-zip_code = "53105"
-state = "WI"
 city = "Burlington"
 county = "Racine"
-longitude = -88.228793
 latitude = 42.692103
+longitude = -88.228793
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53105"
+

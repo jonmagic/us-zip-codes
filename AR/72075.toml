@@ -1,6 +1,8 @@
-zip_code = "72075"
-state = "AR"
 city = "Jacksonport"
 county = "Jackson"
-longitude = -91.307189
 latitude = 35.641406
+longitude = -91.307189
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72075"
+

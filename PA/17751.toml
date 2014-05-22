@@ -1,6 +1,8 @@
-zip_code = "17751"
-state = "PA"
 city = "Mill Hall"
 county = "Clinton"
-longitude = -77.476304
 latitude = 41.071123
+longitude = -77.476304
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17751"
+

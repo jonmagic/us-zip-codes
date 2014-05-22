@@ -1,6 +1,8 @@
-zip_code = "04252"
-state = "ME"
 city = "Lisbon Falls"
 county = "Androscoggin"
-longitude = -70.068046
 latitude = 44.032476
+longitude = -70.068046
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04252"
+

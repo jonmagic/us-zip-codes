@@ -1,6 +1,8 @@
-zip_code = "58201"
-state = "ND"
 city = "Grand Forks"
 county = "Grand Forks"
-longitude = -97.431501
 latitude = 47.9041
+longitude = -97.431501
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58201"
+

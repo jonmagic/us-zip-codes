@@ -1,6 +1,8 @@
-zip_code = "88054"
-state = "NM"
 city = "Radium Springs"
 county = "Dona Ana"
-longitude = -106.914575
 latitude = 32.488841
+longitude = -106.914575
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88054"
+

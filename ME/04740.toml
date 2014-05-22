@@ -1,6 +1,8 @@
-zip_code = "04740"
-state = "ME"
 city = "Easton"
 county = "Aroostook"
-longitude = -67.85582
 latitude = 46.611101
+longitude = -67.85582
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04740"
+

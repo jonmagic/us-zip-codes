@@ -1,6 +1,8 @@
-zip_code = "75423"
-state = "TX"
 city = "Celeste"
 county = "Hunt"
-longitude = -96.175726
 latitude = 33.23896
+longitude = -96.175726
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75423"
+

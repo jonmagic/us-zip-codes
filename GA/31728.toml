@@ -1,6 +1,8 @@
-zip_code = "31728"
-state = "GA"
 city = "Cairo"
 county = "Grady"
-longitude = -84.22903
 latitude = 30.857503
+longitude = -84.22903
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31728"
+

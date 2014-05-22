@@ -1,6 +1,8 @@
-zip_code = "62426"
-state = "IL"
 city = "Edgewood"
 county = "Effingham"
-longitude = -88.524406
 latitude = 38.988768
+longitude = -88.524406
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62426"
+

@@ -1,6 +1,8 @@
-zip_code = "62011"
-state = "IL"
 city = "Bingham"
 county = "Fayette"
-longitude = -89.212452
 latitude = 39.112821
+longitude = -89.212452
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62011"
+

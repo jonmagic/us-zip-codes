@@ -1,6 +1,8 @@
-zip_code = "40178"
-state = "KY"
 city = "Westview"
 county = "Breckinridge"
-longitude = -86.405203
 latitude = 37.645844
+longitude = -86.405203
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40178"
+

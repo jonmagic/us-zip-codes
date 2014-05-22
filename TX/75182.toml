@@ -1,6 +1,8 @@
-zip_code = "75182"
-state = "TX"
 city = "Sunnyvale"
 county = "Dallas"
-longitude = -96.561606
 latitude = 32.797048
+longitude = -96.561606
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75182"
+

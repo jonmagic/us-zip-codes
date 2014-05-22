@@ -1,6 +1,8 @@
-zip_code = "54107"
-state = "WI"
 city = "Bonduel"
 county = "Shawano"
-longitude = -88.454312
 latitude = 44.699153
+longitude = -88.454312
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54107"
+

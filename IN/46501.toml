@@ -1,6 +1,8 @@
-zip_code = "46501"
-state = "IN"
 city = "Argos"
 county = "Marshall"
-longitude = -86.248052
 latitude = 41.242669
+longitude = -86.248052
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46501"
+

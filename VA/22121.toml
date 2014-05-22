@@ -1,6 +1,8 @@
-zip_code = "22121"
-state = "VA"
 city = "Mount Vernon"
 county = "Fairfax"
-longitude = -77.432252
 latitude = 38.830912
+longitude = -77.432252
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22121"
+

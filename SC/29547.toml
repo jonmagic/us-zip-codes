@@ -1,6 +1,8 @@
-zip_code = "29547"
-state = "SC"
 city = "Hamer"
 county = "Dillon"
-longitude = -79.350207
 latitude = 34.484912
+longitude = -79.350207
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29547"
+

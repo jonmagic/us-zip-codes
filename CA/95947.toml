@@ -1,6 +1,8 @@
-zip_code = "95947"
-state = "CA"
 city = "Greenville"
 county = "Plumas"
-longitude = -120.87884
 latitude = 40.124832
+longitude = -120.87884
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95947"
+

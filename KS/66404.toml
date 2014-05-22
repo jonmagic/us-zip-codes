@@ -1,6 +1,8 @@
-zip_code = "66404"
-state = "KS"
 city = "Baileyville"
 county = "Nemaha"
-longitude = -96.108737
 latitude = 39.753031
+longitude = -96.108737
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66404"
+

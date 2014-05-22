@@ -1,6 +1,8 @@
-zip_code = "38740"
-state = "MS"
 city = "Duncan"
 county = "Bolivar"
-longitude = -90.770386
 latitude = 33.94809
+longitude = -90.770386
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38740"
+

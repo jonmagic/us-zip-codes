@@ -1,6 +1,8 @@
-zip_code = "15432"
-state = "PA"
 city = "Dunlevy"
 county = "Washington"
-longitude = -79.85968
 latitude = 40.099693
+longitude = -79.85968
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15432"
+

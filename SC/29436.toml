@@ -1,6 +1,8 @@
-zip_code = "29436"
-state = "SC"
 city = "Cross"
 county = "Berkeley"
-longitude = -80.123972
 latitude = 33.298903
+longitude = -80.123972
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29436"
+

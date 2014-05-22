@@ -1,6 +1,8 @@
-zip_code = "96942"
-state = "FM"
 city = "Chuuk"
 county = "Federated States Of Micro"
-longitude = 151.503116
 latitude = 7.138297
+longitude = 151.503116
+state = "Micronesia1"
+state_code_alpha2 = "FM"
+zip_code = "96942"
+

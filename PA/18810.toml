@@ -1,6 +1,8 @@
-zip_code = "18810"
-state = "PA"
 city = "Athens"
 county = "Bradford"
-longitude = -76.488418
 latitude = 41.861751
+longitude = -76.488418
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18810"
+

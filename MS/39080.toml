@@ -1,6 +1,8 @@
-zip_code = "39080"
-state = "MS"
 city = "Harperville"
 county = "Scott"
-longitude = -89.494585
 latitude = 32.492533
+longitude = -89.494585
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39080"
+

@@ -1,6 +1,8 @@
-zip_code = "41636"
-state = "KY"
 city = "Hi Hat"
 county = "Floyd"
-longitude = -82.714841
 latitude = 37.428614
+longitude = -82.714841
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41636"
+

@@ -1,6 +1,8 @@
-zip_code = "38050"
-state = "TN"
 city = "Maury City"
 county = "Crockett"
-longitude = -89.227284
 latitude = 35.837913
+longitude = -89.227284
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38050"
+

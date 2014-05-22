@@ -1,6 +1,8 @@
-zip_code = "49663"
-state = "MI"
 city = "Manton"
 county = "Wexford"
-longitude = -85.468268
 latitude = 44.412765
+longitude = -85.468268
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49663"
+

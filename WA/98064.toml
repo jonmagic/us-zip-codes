@@ -1,6 +1,8 @@
-zip_code = "98064"
-state = "WA"
 city = "Kent"
 county = "King"
-longitude = -121.803388
 latitude = 47.432251
+longitude = -121.803388
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98064"
+

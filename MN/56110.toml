@@ -1,6 +1,8 @@
-zip_code = "56110"
-state = "MN"
 city = "Adrian"
 county = "Nobles"
-longitude = -95.953225
 latitude = 43.620754
+longitude = -95.953225
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56110"
+

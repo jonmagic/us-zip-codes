@@ -1,6 +1,8 @@
-zip_code = "98860"
-state = "WA"
 city = "Wilson Creek"
 county = "Grant"
-longitude = -119.18473
 latitude = 47.473874
+longitude = -119.18473
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98860"
+

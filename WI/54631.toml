@@ -1,6 +1,8 @@
-zip_code = "54631"
-state = "WI"
 city = "Gays Mills"
 county = "Crawford"
-longitude = -90.83178
 latitude = 43.269667
+longitude = -90.83178
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54631"
+

@@ -1,6 +1,8 @@
-zip_code = "48061"
-state = "MI"
 city = "Port Huron"
 county = "Saint Clair"
-longitude = -82.66522
 latitude = 42.824095
+longitude = -82.66522
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48061"
+

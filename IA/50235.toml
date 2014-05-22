@@ -1,6 +1,8 @@
-zip_code = "50235"
-state = "IA"
 city = "Rippey"
 county = "Greene"
-longitude = -94.222127
 latitude = 41.928403
+longitude = -94.222127
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50235"
+

@@ -1,6 +1,8 @@
-zip_code = "08553"
-state = "NJ"
 city = "Rocky Hill"
 county = "Somerset"
-longitude = -74.632256
 latitude = 40.412705
+longitude = -74.632256
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08553"
+

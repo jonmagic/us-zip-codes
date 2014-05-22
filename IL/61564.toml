@@ -1,6 +1,8 @@
-zip_code = "61564"
-state = "IL"
 city = "South Pekin"
 county = "Tazewell"
-longitude = -89.654598
 latitude = 40.494804
+longitude = -89.654598
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61564"
+

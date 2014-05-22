@@ -1,6 +1,8 @@
-zip_code = "60005"
-state = "IL"
 city = "Arlington Heights"
 county = "Cook"
-longitude = -87.883073
 latitude = 42.060928
+longitude = -87.883073
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60005"
+

@@ -1,6 +1,8 @@
-zip_code = "56225"
-state = "MN"
 city = "Clinton"
 county = "Big Stone"
-longitude = -96.431538
 latitude = 45.461092
+longitude = -96.431538
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56225"
+

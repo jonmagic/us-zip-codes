@@ -1,6 +1,8 @@
-zip_code = "27935"
-state = "NC"
 city = "Eure"
 county = "Gates"
-longitude = -76.797951
 latitude = 36.416392
+longitude = -76.797951
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27935"
+

@@ -1,6 +1,8 @@
-zip_code = "52249"
-state = "IA"
 city = "Keystone"
 county = "Benton"
-longitude = -92.071971
 latitude = 42.007605
+longitude = -92.071971
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52249"
+

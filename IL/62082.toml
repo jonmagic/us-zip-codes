@@ -1,6 +1,8 @@
-zip_code = "62082"
-state = "IL"
 city = "Roodhouse"
 county = "Greene"
-longitude = -90.373258
 latitude = 39.483354
+longitude = -90.373258
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62082"
+

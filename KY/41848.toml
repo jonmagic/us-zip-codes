@@ -1,6 +1,8 @@
-zip_code = "41848"
-state = "KY"
 city = "Roxana"
 county = "Letcher"
-longitude = -82.94073
 latitude = 37.110216
+longitude = -82.94073
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41848"
+

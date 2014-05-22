@@ -1,6 +1,8 @@
-zip_code = "34739"
-state = "FL"
 city = "Kenansville"
 county = "Osceola"
-longitude = -81.092447
 latitude = 27.933215
+longitude = -81.092447
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34739"
+

@@ -1,6 +1,8 @@
-zip_code = "19018"
-state = "PA"
 city = "Clifton Heights"
 county = "Delaware"
-longitude = -75.29503
 latitude = 39.921562
+longitude = -75.29503
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19018"
+

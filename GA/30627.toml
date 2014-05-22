@@ -1,6 +1,8 @@
-zip_code = "30627"
-state = "GA"
 city = "Carlton"
 county = "Madison"
-longitude = -83.099349
 latitude = 34.05918
+longitude = -83.099349
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30627"
+

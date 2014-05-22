@@ -1,6 +1,8 @@
-zip_code = "27882"
-state = "NC"
 city = "Spring Hope"
 county = "Nash"
-longitude = -78.093002
 latitude = 35.94476
+longitude = -78.093002
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27882"
+

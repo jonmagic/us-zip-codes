@@ -1,6 +1,8 @@
-zip_code = "28115"
-state = "NC"
 city = "Mooresville"
 county = "Iredell"
-longitude = -80.819825
 latitude = 35.688136
+longitude = -80.819825
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28115"
+

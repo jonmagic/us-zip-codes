@@ -1,6 +1,8 @@
-zip_code = "68309"
-state = "NE"
 city = "Barneston"
 county = "Gage"
-longitude = -96.5963
 latitude = 40.041196
+longitude = -96.5963
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68309"
+

@@ -1,6 +1,8 @@
-zip_code = "47950"
-state = "IN"
 city = "Idaville"
 county = "White"
-longitude = -86.739391
 latitude = 40.809887
+longitude = -86.739391
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47950"
+

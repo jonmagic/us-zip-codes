@@ -1,6 +1,8 @@
-zip_code = "32664"
-state = "FL"
 city = "Mc Intosh"
 county = "Marion"
-longitude = -82.229534
 latitude = 29.437972
+longitude = -82.229534
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32664"
+

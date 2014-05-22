@@ -1,6 +1,8 @@
-zip_code = "02188"
-state = "MA"
 city = "Weymouth"
 county = "Norfolk"
-longitude = -70.95514
 latitude = 42.20794
+longitude = -70.95514
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02188"
+

@@ -1,6 +1,8 @@
-zip_code = "54729"
-state = "WI"
 city = "Chippewa Falls"
 county = "Chippewa"
-longitude = -91.319492
 latitude = 44.958689
+longitude = -91.319492
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54729"
+

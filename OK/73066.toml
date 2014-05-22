@@ -1,6 +1,8 @@
-zip_code = "73066"
-state = "OK"
 city = "Nicoma Park"
 county = "Oklahoma"
-longitude = -97.267769
 latitude = 35.469296
+longitude = -97.267769
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73066"
+

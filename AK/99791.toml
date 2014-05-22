@@ -1,6 +1,8 @@
-zip_code = "99791"
-state = "AK"
 city = "Atqasuk"
 county = "North Slope"
-longitude = -157.441073
 latitude = 70.494693
+longitude = -157.441073
+state = ""
+state_code_alpha2 = ""
+zip_code = "99791"
+

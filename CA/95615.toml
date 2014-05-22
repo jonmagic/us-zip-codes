@@ -1,6 +1,8 @@
-zip_code = "95615"
-state = "CA"
 city = "Courtland"
 county = "Sacramento"
-longitude = -121.5378
 latitude = 38.338322
+longitude = -121.5378
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95615"
+

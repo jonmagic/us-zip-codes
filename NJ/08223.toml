@@ -1,6 +1,8 @@
-zip_code = "08223"
-state = "NJ"
 city = "Marmora"
 county = "Cape May"
-longitude = -74.73038
 latitude = 39.13952
+longitude = -74.73038
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08223"
+

@@ -1,6 +1,8 @@
-zip_code = "41837"
-state = "KY"
 city = "Mayking"
 county = "Letcher"
-longitude = -82.742726
 latitude = 37.130234
+longitude = -82.742726
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41837"
+

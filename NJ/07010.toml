@@ -1,6 +1,8 @@
-zip_code = "07010"
-state = "NJ"
 city = "Cliffside Park"
 county = "Bergen"
-longitude = -73.98782
 latitude = 40.820541
+longitude = -73.98782
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07010"
+

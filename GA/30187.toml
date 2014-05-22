@@ -1,6 +1,8 @@
-zip_code = "30187"
-state = "GA"
 city = "Winston"
 county = "Douglas"
-longitude = -84.778163
 latitude = 33.659494
+longitude = -84.778163
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30187"
+

@@ -1,6 +1,8 @@
-zip_code = "79257"
-state = "TX"
 city = "Silverton"
 county = "Briscoe"
-longitude = -101.30419
 latitude = 34.471337
+longitude = -101.30419
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79257"
+

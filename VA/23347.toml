@@ -1,6 +1,8 @@
-zip_code = "23347"
-state = "VA"
 city = "Eastville"
 county = "Northampton"
-longitude = -75.964939
 latitude = 37.356057
+longitude = -75.964939
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23347"
+

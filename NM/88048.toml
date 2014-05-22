@@ -1,6 +1,8 @@
-zip_code = "88048"
-state = "NM"
 city = "Mesquite"
 county = "Dona Ana"
-longitude = -106.652047
 latitude = 31.990339
+longitude = -106.652047
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88048"
+

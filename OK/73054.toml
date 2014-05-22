@@ -1,6 +1,8 @@
-zip_code = "73054"
-state = "OK"
 city = "Luther"
 county = "Oklahoma"
-longitude = -97.212206
 latitude = 35.632093
+longitude = -97.212206
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73054"
+

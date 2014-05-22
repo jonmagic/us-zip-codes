@@ -1,6 +1,8 @@
-zip_code = "87365"
-state = "NM"
 city = "Smith Lake"
 county = "Mckinley"
-longitude = -108.176693
 latitude = 35.480924
+longitude = -108.176693
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87365"
+

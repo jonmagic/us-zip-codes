@@ -1,6 +1,8 @@
-zip_code = "59313"
-state = "MT"
 city = "Baker"
 county = "Fallon"
-longitude = -104.273377
 latitude = 46.351496
+longitude = -104.273377
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59313"
+

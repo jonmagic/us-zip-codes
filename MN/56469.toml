@@ -1,6 +1,8 @@
-zip_code = "56469"
-state = "MN"
 city = "Palisade"
 county = "Aitkin"
-longitude = -93.489808
 latitude = 46.712878
+longitude = -93.489808
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56469"
+

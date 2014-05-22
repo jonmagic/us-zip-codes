@@ -1,6 +1,8 @@
-zip_code = "62080"
-state = "IL"
 city = "Ramsey"
 county = "Fayette"
-longitude = -89.110549
 latitude = 39.144177
+longitude = -89.110549
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62080"
+

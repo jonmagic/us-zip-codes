@@ -1,6 +1,8 @@
-zip_code = "58854"
-state = "ND"
 city = "Watford City"
 county = "Mckenzie"
-longitude = -103.2667
 latitude = 47.802905
+longitude = -103.2667
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58854"
+

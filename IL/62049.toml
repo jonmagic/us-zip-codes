@@ -1,6 +1,8 @@
-zip_code = "62049"
-state = "IL"
 city = "Hillsboro"
 county = "Montgomery"
-longitude = -89.471754
 latitude = 39.139201
+longitude = -89.471754
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62049"
+

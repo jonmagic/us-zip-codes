@@ -1,6 +1,8 @@
-zip_code = "58368"
-state = "ND"
 city = "Rugby"
 county = "Pierce"
-longitude = -99.989912
 latitude = 48.254504
+longitude = -99.989912
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58368"
+

@@ -1,6 +1,8 @@
-zip_code = "17549"
-state = "PA"
 city = "Martindale"
 county = "Lancaster"
-longitude = -76.08756
 latitude = 40.154498
+longitude = -76.08756
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17549"
+

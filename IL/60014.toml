@@ -1,6 +1,8 @@
-zip_code = "60014"
-state = "IL"
 city = "Crystal Lake"
 county = "Mchenry"
-longitude = -88.323986
 latitude = 42.243772
+longitude = -88.323986
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60014"
+

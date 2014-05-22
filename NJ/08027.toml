@@ -1,6 +1,8 @@
-zip_code = "08027"
-state = "NJ"
 city = "Gibbstown"
 county = "Gloucester"
-longitude = -75.272137
 latitude = 39.771133
+longitude = -75.272137
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08027"
+

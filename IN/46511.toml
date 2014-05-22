@@ -1,6 +1,8 @@
-zip_code = "46511"
-state = "IN"
 city = "Culver"
 county = "Marshall"
-longitude = -86.386582
 latitude = 41.314629
+longitude = -86.386582
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46511"
+

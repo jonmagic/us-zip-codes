@@ -1,6 +1,8 @@
-zip_code = "63030"
-state = "MO"
 city = "Fletcher"
 county = "Jefferson"
-longitude = -90.718536
 latitude = 38.170261
+longitude = -90.718536
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63030"
+

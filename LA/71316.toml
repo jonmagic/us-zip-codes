@@ -1,6 +1,8 @@
-zip_code = "71316"
-state = "LA"
 city = "Acme"
 county = "Concordia"
-longitude = -91.823219
 latitude = 31.308416
+longitude = -91.823219
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71316"
+

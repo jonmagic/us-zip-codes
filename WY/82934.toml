@@ -1,6 +1,8 @@
-zip_code = "82934"
-state = "WY"
 city = "Granger"
 county = "Sweetwater"
-longitude = -109.763045
 latitude = 41.537225
+longitude = -109.763045
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82934"
+

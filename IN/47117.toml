@@ -1,6 +1,8 @@
-zip_code = "47117"
-state = "IN"
 city = "Elizabeth"
 county = "Harrison"
-longitude = -85.988349
 latitude = 38.094629
+longitude = -85.988349
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47117"
+

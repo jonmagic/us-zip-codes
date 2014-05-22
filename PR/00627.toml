@@ -1,6 +1,8 @@
-zip_code = "00627"
-state = "PR"
 city = "Camuy"
 county = "Camuy"
-longitude = -66.85477
 latitude = 18.477891
+longitude = -66.85477
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00627"
+

@@ -1,6 +1,8 @@
-zip_code = "56263"
-state = "MN"
 city = "Milroy"
 county = "Redwood"
-longitude = -95.531336
 latitude = 44.417632
+longitude = -95.531336
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56263"
+

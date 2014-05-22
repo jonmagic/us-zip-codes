@@ -1,6 +1,8 @@
-zip_code = "29569"
-state = "SC"
 city = "Loris"
 county = "Horry"
-longitude = -78.918109
 latitude = 33.977392
+longitude = -78.918109
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29569"
+

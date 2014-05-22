@@ -1,6 +1,8 @@
-zip_code = "61929"
-state = "IL"
 city = "Hammond"
 county = "Piatt"
-longitude = -88.585389
 latitude = 39.843006
+longitude = -88.585389
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61929"
+

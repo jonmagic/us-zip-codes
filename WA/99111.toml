@@ -1,6 +1,8 @@
-zip_code = "99111"
-state = "WA"
 city = "Colfax"
 county = "Whitman"
-longitude = -117.505163
 latitude = 46.959127
+longitude = -117.505163
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99111"
+

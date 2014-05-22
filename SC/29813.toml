@@ -1,6 +1,8 @@
-zip_code = "29813"
-state = "SC"
 city = "Hilda"
 county = "Barnwell"
-longitude = -81.482658
 latitude = 33.291666
+longitude = -81.482658
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29813"
+

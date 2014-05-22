@@ -1,6 +1,8 @@
-zip_code = "04939"
-state = "ME"
 city = "Garland"
 county = "Penobscot"
-longitude = -69.156965
 latitude = 45.014913
+longitude = -69.156965
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04939"
+

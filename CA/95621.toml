@@ -1,6 +1,8 @@
-zip_code = "95621"
-state = "CA"
 city = "Citrus Heights"
 county = "Sacramento"
-longitude = -121.309461
 latitude = 38.693052
+longitude = -121.309461
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95621"
+

@@ -1,6 +1,8 @@
-zip_code = "32260"
-state = "FL"
 city = "Jacksonville"
 county = "Saint Johns"
-longitude = -81.420603
 latitude = 29.937673
+longitude = -81.420603
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32260"
+

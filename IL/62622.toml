@@ -1,6 +1,8 @@
-zip_code = "62622"
-state = "IL"
 city = "Bluff Springs"
 county = "Cass"
-longitude = -90.352444
 latitude = 39.979614
+longitude = -90.352444
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62622"
+

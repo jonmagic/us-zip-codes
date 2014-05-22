@@ -1,6 +1,8 @@
-zip_code = "63034"
-state = "MO"
 city = "Florissant"
 county = "Saint Louis"
-longitude = -90.284174
 latitude = 38.838382
+longitude = -90.284174
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63034"
+

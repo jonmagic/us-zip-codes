@@ -1,6 +1,8 @@
-zip_code = "60557"
-state = "IL"
 city = "Wedron"
 county = "La Salle"
-longitude = -88.770327
 latitude = 41.44088
+longitude = -88.770327
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60557"
+

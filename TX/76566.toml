@@ -1,6 +1,8 @@
-zip_code = "76566"
-state = "TX"
 city = "Purmela"
 county = "Coryell"
-longitude = -97.990338
 latitude = 31.484144
+longitude = -97.990338
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76566"
+

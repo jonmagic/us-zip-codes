@@ -1,6 +1,8 @@
-zip_code = "98935"
-state = "WA"
 city = "Mabton"
 county = "Yakima"
-longitude = -120.050377
 latitude = 46.165237
+longitude = -120.050377
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98935"
+

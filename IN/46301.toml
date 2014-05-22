@@ -1,6 +1,8 @@
-zip_code = "46301"
-state = "IN"
 city = "Beverly Shores"
 county = "Porter"
-longitude = -86.975178
 latitude = 41.683796
+longitude = -86.975178
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46301"
+

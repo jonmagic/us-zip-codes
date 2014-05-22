@@ -1,6 +1,8 @@
-zip_code = "64641"
-state = "MO"
 city = "Galt"
 county = "Grundy"
-longitude = -93.416387
 latitude = 40.160044
+longitude = -93.416387
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64641"
+

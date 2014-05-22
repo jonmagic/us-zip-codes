@@ -1,6 +1,8 @@
-zip_code = "57401"
-state = "SD"
 city = "Aberdeen"
 county = "Brown"
-longitude = -98.410405
 latitude = 45.476172
+longitude = -98.410405
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57401"
+

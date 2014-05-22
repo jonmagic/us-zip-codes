@@ -1,6 +1,8 @@
-zip_code = "39426"
-state = "MS"
 city = "Carriere"
 county = "Pearl River"
-longitude = -89.646536
 latitude = 30.661121
+longitude = -89.646536
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39426"
+

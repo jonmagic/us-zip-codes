@@ -1,6 +1,8 @@
-zip_code = "95380"
-state = "CA"
 city = "Turlock"
 county = "Stanislaus"
-longitude = -120.844063
 latitude = 37.540206
+longitude = -120.844063
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95380"
+

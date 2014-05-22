@@ -1,6 +1,8 @@
-zip_code = "29059"
-state = "SC"
 city = "Holly Hill"
 county = "Orangeburg"
-longitude = -80.438902
 latitude = 33.349458
+longitude = -80.438902
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29059"
+

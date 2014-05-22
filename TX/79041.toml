@@ -1,6 +1,8 @@
-zip_code = "79041"
-state = "TX"
 city = "Hale Center"
 county = "Hale"
-longitude = -101.845753
 latitude = 34.064607
+longitude = -101.845753
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79041"
+

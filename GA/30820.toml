@@ -1,6 +1,8 @@
-zip_code = "30820"
-state = "GA"
 city = "Mitchell"
 county = "Glascock"
-longitude = -82.631164
 latitude = 33.231593
+longitude = -82.631164
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30820"
+

@@ -1,6 +1,8 @@
-zip_code = "01331"
-state = "MA"
 city = "Athol"
 county = "Worcester"
-longitude = -72.183903
 latitude = 42.547302
+longitude = -72.183903
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01331"
+

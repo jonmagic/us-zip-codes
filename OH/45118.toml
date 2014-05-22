@@ -1,6 +1,8 @@
-zip_code = "45118"
-state = "OH"
 city = "Fayetteville"
 county = "Brown"
-longitude = -83.935821
 latitude = 39.1748
+longitude = -83.935821
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45118"
+

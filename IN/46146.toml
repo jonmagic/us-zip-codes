@@ -1,6 +1,8 @@
-zip_code = "46146"
-state = "IN"
 city = "Homer"
 county = "Rush"
-longitude = -85.46554
 latitude = 39.619923
+longitude = -85.46554
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46146"
+

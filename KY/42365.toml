@@ -1,6 +1,8 @@
-zip_code = "42365"
-state = "KY"
 city = "Penrod"
 county = "Muhlenberg"
-longitude = -86.994053
 latitude = 37.112633
+longitude = -86.994053
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42365"
+

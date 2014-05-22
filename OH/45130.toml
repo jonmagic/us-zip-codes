@@ -1,6 +1,8 @@
-zip_code = "45130"
-state = "OH"
 city = "Hamersville"
 county = "Brown"
-longitude = -83.982347
 latitude = 38.902187
+longitude = -83.982347
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45130"
+

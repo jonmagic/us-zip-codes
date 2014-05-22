@@ -1,6 +1,8 @@
-zip_code = "30162"
-state = "GA"
 city = "Rome"
 county = "Floyd"
-longitude = -85.213817
 latitude = 34.290508
+longitude = -85.213817
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30162"
+

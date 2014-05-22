@@ -1,6 +1,8 @@
-zip_code = "75959"
-state = "TX"
 city = "Milam"
 county = "Sabine"
-longitude = -93.821948
 latitude = 31.373062
+longitude = -93.821948
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75959"
+

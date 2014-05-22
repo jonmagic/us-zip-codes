@@ -1,6 +1,8 @@
-zip_code = "02053"
-state = "MA"
 city = "Medway"
 county = "Norfolk"
-longitude = -71.427663
 latitude = 42.156282
+longitude = -71.427663
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02053"
+

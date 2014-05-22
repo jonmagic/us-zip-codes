@@ -1,6 +1,8 @@
-zip_code = "39151"
-state = "MS"
 city = "Puckett"
 county = "Rankin"
-longitude = -89.783633
 latitude = 32.106173
+longitude = -89.783633
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39151"
+

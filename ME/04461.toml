@@ -1,6 +1,8 @@
-zip_code = "04461"
-state = "ME"
 city = "Milford"
 county = "Penobscot"
-longitude = -68.595946
 latitude = 45.0542
+longitude = -68.595946
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04461"
+

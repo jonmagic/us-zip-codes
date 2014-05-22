@@ -1,6 +1,8 @@
-zip_code = "67581"
-state = "KS"
 city = "Sylvia"
 county = "Reno"
-longitude = -98.121898
 latitude = 38.006382
+longitude = -98.121898
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67581"
+

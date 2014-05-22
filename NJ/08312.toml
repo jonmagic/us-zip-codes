@@ -1,6 +1,8 @@
-zip_code = "08312"
-state = "NJ"
 city = "Clayton"
 county = "Gloucester"
-longitude = -75.078625
 latitude = 39.653531
+longitude = -75.078625
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08312"
+

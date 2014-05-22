@@ -1,6 +1,8 @@
-zip_code = "80019"
-state = "CO"
 city = "Aurora"
 county = "Adams"
-longitude = -104.685374
 latitude = 39.781442
+longitude = -104.685374
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80019"
+

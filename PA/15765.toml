@@ -1,6 +1,8 @@
-zip_code = "15765"
-state = "PA"
 city = "Penn Run"
 county = "Indiana"
-longitude = -78.99431
 latitude = 40.621281
+longitude = -78.99431
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15765"
+

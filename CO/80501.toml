@@ -1,6 +1,8 @@
-zip_code = "80501"
-state = "CO"
 city = "Longmont"
 county = "Boulder"
-longitude = -105.1633
 latitude = 40.165634
+longitude = -105.1633
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80501"
+

@@ -1,6 +1,8 @@
-zip_code = "15463"
-state = "PA"
 city = "Merrittstown"
 county = "Fayette"
-longitude = -79.833585
 latitude = 39.882521
+longitude = -79.833585
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15463"
+

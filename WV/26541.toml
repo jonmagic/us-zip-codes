@@ -1,6 +1,8 @@
-zip_code = "26541"
-state = "WV"
 city = "Maidsville"
 county = "Monongalia"
-longitude = -80.028814
 latitude = 39.658416
+longitude = -80.028814
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26541"
+

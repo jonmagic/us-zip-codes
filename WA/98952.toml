@@ -1,6 +1,8 @@
-zip_code = "98952"
-state = "WA"
 city = "White Swan"
 county = "Yakima"
-longitude = -120.667145
 latitude = 46.449869
+longitude = -120.667145
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98952"
+

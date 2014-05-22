@@ -1,6 +1,8 @@
-zip_code = "28076"
-state = "NC"
 city = "Henrietta"
 county = "Rutherford"
-longitude = -81.795027
 latitude = 35.226581
+longitude = -81.795027
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28076"
+

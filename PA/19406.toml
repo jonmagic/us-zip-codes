@@ -1,6 +1,8 @@
-zip_code = "19406"
-state = "PA"
 city = "King Of Prussia"
 county = "Montgomery"
-longitude = -75.388022
 latitude = 40.179242
+longitude = -75.388022
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19406"
+

@@ -1,6 +1,8 @@
-zip_code = "80027"
-state = "CO"
 city = "Louisville"
 county = "Boulder"
-longitude = -105.269915
 latitude = 39.980835
+longitude = -105.269915
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80027"
+

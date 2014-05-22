@@ -1,6 +1,8 @@
-zip_code = "70391"
-state = "LA"
 city = "Paincourtville"
 county = "Assumption"
-longitude = -91.063485
 latitude = 29.994968
+longitude = -91.063485
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70391"
+

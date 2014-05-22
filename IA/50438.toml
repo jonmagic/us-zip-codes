@@ -1,6 +1,8 @@
-zip_code = "50438"
-state = "IA"
 city = "Garner"
 county = "Hancock"
-longitude = -93.734009
 latitude = 43.089116
+longitude = -93.734009
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50438"
+

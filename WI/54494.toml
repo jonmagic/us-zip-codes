@@ -1,6 +1,8 @@
-zip_code = "54494"
-state = "WI"
 city = "Wisconsin Rapids"
 county = "Wood"
-longitude = -89.918546
 latitude = 44.379694
+longitude = -89.918546
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54494"
+

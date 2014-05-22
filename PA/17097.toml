@@ -1,6 +1,8 @@
-zip_code = "17097"
-state = "PA"
 city = "Wiconisco"
 county = "Dauphin"
-longitude = -76.65693
 latitude = 40.573734
+longitude = -76.65693
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17097"
+

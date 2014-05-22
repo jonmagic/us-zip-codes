@@ -1,6 +1,8 @@
-zip_code = "58655"
-state = "ND"
 city = "South Heart"
 county = "Stark"
-longitude = -103.072219
 latitude = 46.767691
+longitude = -103.072219
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58655"
+

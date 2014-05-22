@@ -1,6 +1,8 @@
-zip_code = "28605"
-state = "NC"
 city = "Blowing Rock"
 county = "Watauga"
-longitude = -81.714505
 latitude = 36.163862
+longitude = -81.714505
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28605"
+

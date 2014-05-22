@@ -1,6 +1,8 @@
-zip_code = "49780"
-state = "MI"
 city = "Rudyard"
 county = "Chippewa"
-longitude = -84.800411
 latitude = 46.258514
+longitude = -84.800411
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49780"
+

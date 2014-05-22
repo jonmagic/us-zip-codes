@@ -1,6 +1,8 @@
-zip_code = "96105"
-state = "CA"
 city = "Chilcoot"
 county = "Plumas"
-longitude = -120.132207
 latitude = 39.794136
+longitude = -120.132207
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96105"
+

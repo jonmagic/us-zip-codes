@@ -1,6 +1,8 @@
-zip_code = "74730"
-state = "OK"
 city = "Calera"
 county = "Bryan"
-longitude = -96.430781
 latitude = 33.932249
+longitude = -96.430781
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74730"
+

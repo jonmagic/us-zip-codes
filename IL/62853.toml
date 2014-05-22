@@ -1,6 +1,8 @@
-zip_code = "62853"
-state = "IL"
 city = "Kell"
 county = "Marion"
-longitude = -88.901043
 latitude = 38.59718
+longitude = -88.901043
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62853"
+

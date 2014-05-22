@@ -1,6 +1,8 @@
-zip_code = "59262"
-state = "MT"
 city = "Savage"
 county = "Richland"
-longitude = -104.342955
 latitude = 47.452578
+longitude = -104.342955
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59262"
+

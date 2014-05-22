@@ -1,6 +1,8 @@
-zip_code = "38864"
-state = "MS"
 city = "Randolph"
 county = "Pontotoc"
-longitude = -89.179467
 latitude = 34.161748
+longitude = -89.179467
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38864"
+

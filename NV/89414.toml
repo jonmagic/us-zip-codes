@@ -1,6 +1,8 @@
-zip_code = "89414"
-state = "NV"
 city = "Golconda"
 county = "Humboldt"
-longitude = -117.494182
 latitude = 40.950867
+longitude = -117.494182
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89414"
+

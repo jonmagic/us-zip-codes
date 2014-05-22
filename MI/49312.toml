@@ -1,6 +1,8 @@
-zip_code = "49312"
-state = "MI"
 city = "Brohman"
 county = "Newaygo"
-longitude = -85.791055
 latitude = 43.666006
+longitude = -85.791055
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49312"
+

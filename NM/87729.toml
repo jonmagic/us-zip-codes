@@ -1,6 +1,8 @@
-zip_code = "87729"
-state = "NM"
 city = "Miami"
 county = "Colfax"
-longitude = -104.792032
 latitude = 36.347987
+longitude = -104.792032
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87729"
+

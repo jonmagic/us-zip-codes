@@ -1,6 +1,8 @@
-zip_code = "04457"
-state = "ME"
 city = "Lincoln"
 county = "Penobscot"
-longitude = -68.49299
 latitude = 45.366794
+longitude = -68.49299
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04457"
+

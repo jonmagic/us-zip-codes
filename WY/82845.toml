@@ -1,6 +1,8 @@
-zip_code = "82845"
-state = "WY"
 city = "Wyarno"
 county = "Sheridan"
-longitude = -106.694907
 latitude = 44.753413
+longitude = -106.694907
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82845"
+

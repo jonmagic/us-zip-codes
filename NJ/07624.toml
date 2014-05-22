@@ -1,6 +1,8 @@
-zip_code = "07624"
-state = "NJ"
 city = "Closter"
 county = "Bergen"
-longitude = -73.960164
 latitude = 40.970621
+longitude = -73.960164
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07624"
+

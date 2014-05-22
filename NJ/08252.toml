@@ -1,6 +1,8 @@
-zip_code = "08252"
-state = "NJ"
 city = "Whitesboro"
 county = "Cape May"
-longitude = -74.861792
 latitude = 39.042124
+longitude = -74.861792
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08252"
+

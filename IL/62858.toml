@@ -1,6 +1,8 @@
-zip_code = "62858"
-state = "IL"
 city = "Louisville"
 county = "Clay"
-longitude = -88.506465
 latitude = 38.771768
+longitude = -88.506465
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62858"
+

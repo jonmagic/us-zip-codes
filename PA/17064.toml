@@ -1,6 +1,8 @@
-zip_code = "17064"
-state = "PA"
 city = "Mount Gretna"
 county = "Lebanon"
-longitude = -76.461544
 latitude = 40.254642
+longitude = -76.461544
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17064"
+

@@ -1,6 +1,8 @@
-zip_code = "61353"
-state = "IL"
 city = "Paw Paw"
 county = "Lee"
-longitude = -88.995749
 latitude = 41.69376
+longitude = -88.995749
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61353"
+

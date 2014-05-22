@@ -1,6 +1,8 @@
-zip_code = "79343"
-state = "TX"
 city = "Lorenzo"
 county = "Crosby"
-longitude = -101.300936
 latitude = 33.621158
+longitude = -101.300936
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79343"
+

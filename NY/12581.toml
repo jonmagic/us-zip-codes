@@ -1,6 +1,8 @@
-zip_code = "12581"
-state = "NY"
 city = "Stanfordville"
 county = "Dutchess"
-longitude = -73.695442
 latitude = 41.913511
+longitude = -73.695442
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12581"
+

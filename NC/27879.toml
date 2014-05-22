@@ -1,6 +1,8 @@
-zip_code = "27879"
-state = "NC"
 city = "Simpson"
 county = "Pitt"
-longitude = -77.280169
 latitude = 35.567478
+longitude = -77.280169
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27879"
+

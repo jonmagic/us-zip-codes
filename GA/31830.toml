@@ -1,6 +1,8 @@
-zip_code = "31830"
-state = "GA"
 city = "Warm Springs"
 county = "Meriwether"
-longitude = -84.716723
 latitude = 32.906319
+longitude = -84.716723
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31830"
+

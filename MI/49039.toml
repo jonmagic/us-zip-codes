@@ -1,6 +1,8 @@
-zip_code = "49039"
-state = "MI"
 city = "Hagar Shores"
 county = "Berrien"
-longitude = -86.372276
 latitude = 42.224757
+longitude = -86.372276
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49039"
+

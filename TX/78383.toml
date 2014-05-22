@@ -1,6 +1,8 @@
-zip_code = "78383"
-state = "TX"
 city = "Sandia"
 county = "Jim Wells"
-longitude = -97.870486
 latitude = 28.024961
+longitude = -97.870486
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78383"
+

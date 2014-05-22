@@ -1,6 +1,8 @@
-zip_code = "97734"
-state = "OR"
 city = "Culver"
 county = "Jefferson"
-longitude = -121.267976
 latitude = 44.499106
+longitude = -121.267976
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97734"
+

@@ -1,6 +1,8 @@
-zip_code = "44033"
-state = "OH"
 city = "East Claridon"
 county = "Geauga"
-longitude = -81.111175
 latitude = 41.53335
+longitude = -81.111175
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44033"
+

@@ -1,6 +1,8 @@
-zip_code = "07607"
-state = "NJ"
 city = "Maywood"
 county = "Bergen"
-longitude = -74.061784
 latitude = 40.90181
+longitude = -74.061784
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07607"
+

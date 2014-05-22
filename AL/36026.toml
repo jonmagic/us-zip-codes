@@ -1,6 +1,8 @@
-zip_code = "36026"
-state = "AL"
 city = "Equality"
 county = "Coosa"
-longitude = -86.1216
 latitude = 32.77522
+longitude = -86.1216
+state = ""
+state_code_alpha2 = ""
+zip_code = "36026"
+

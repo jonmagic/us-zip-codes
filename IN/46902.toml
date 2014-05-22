@@ -1,6 +1,8 @@
-zip_code = "46902"
-state = "IN"
 city = "Kokomo"
 county = "Howard"
-longitude = -86.17559
 latitude = 40.444291
+longitude = -86.17559
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46902"
+

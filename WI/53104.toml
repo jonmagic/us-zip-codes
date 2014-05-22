@@ -1,6 +1,8 @@
-zip_code = "53104"
-state = "WI"
 city = "Bristol"
 county = "Kenosha"
-longitude = -88.028986
 latitude = 42.553518
+longitude = -88.028986
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53104"
+

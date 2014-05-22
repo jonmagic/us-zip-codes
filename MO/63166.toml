@@ -1,6 +1,8 @@
-zip_code = "63166"
-state = "MO"
 city = "Saint Louis"
 county = "Saint Louis City"
-longitude = -90.243462
 latitude = 38.6531
+longitude = -90.243462
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63166"
+

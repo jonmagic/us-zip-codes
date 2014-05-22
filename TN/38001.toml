@@ -1,6 +1,8 @@
-zip_code = "38001"
-state = "TN"
 city = "Alamo"
 county = "Crockett"
-longitude = -89.086594
 latitude = 35.806106
+longitude = -89.086594
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38001"
+

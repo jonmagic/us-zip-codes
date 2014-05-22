@@ -1,6 +1,8 @@
-zip_code = "61324"
-state = "IL"
 city = "Eldena"
 county = "Lee"
-longitude = -89.412282
 latitude = 41.771078
+longitude = -89.412282
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61324"
+

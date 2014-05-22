@@ -1,6 +1,8 @@
-zip_code = "49430"
-state = "MI"
 city = "Lamont"
 county = "Ottawa"
-longitude = -85.89754
 latitude = 43.010337
+longitude = -85.89754
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49430"
+

@@ -1,6 +1,8 @@
-zip_code = "12549"
-state = "NY"
 city = "Montgomery"
 county = "Orange"
-longitude = -74.255717
 latitude = 41.405901
+longitude = -74.255717
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12549"
+

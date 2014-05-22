@@ -1,6 +1,8 @@
-zip_code = "55744"
-state = "MN"
 city = "Grand Rapids"
 county = "Itasca"
-longitude = -93.393555
 latitude = 47.232889
+longitude = -93.393555
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55744"
+

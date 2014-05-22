@@ -1,6 +1,8 @@
-zip_code = "61743"
-state = "IL"
 city = "Graymont"
 county = "Livingston"
-longitude = -88.608644
 latitude = 40.879417
+longitude = -88.608644
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61743"
+

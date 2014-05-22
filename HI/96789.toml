@@ -1,6 +1,8 @@
-zip_code = "96789"
-state = "HI"
 city = "Mililani"
 county = "Honolulu"
-longitude = -158.012322
 latitude = 21.458855
+longitude = -158.012322
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96789"
+

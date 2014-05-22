@@ -1,6 +1,8 @@
-zip_code = "46130"
-state = "IN"
 city = "Fountaintown"
 county = "Shelby"
-longitude = -85.809775
 latitude = 39.580663
+longitude = -85.809775
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46130"
+

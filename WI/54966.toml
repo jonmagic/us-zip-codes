@@ -1,6 +1,8 @@
-zip_code = "54966"
-state = "WI"
 city = "Plainfield"
 county = "Waushara"
-longitude = -89.297481
 latitude = 44.191887
+longitude = -89.297481
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54966"
+

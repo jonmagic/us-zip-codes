@@ -1,6 +1,8 @@
-zip_code = "56662"
-state = "MN"
 city = "Outing"
 county = "Cass"
-longitude = -93.918172
 latitude = 46.879043
+longitude = -93.918172
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56662"
+

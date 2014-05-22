@@ -1,6 +1,8 @@
-zip_code = "15716"
-state = "PA"
 city = "Black Lick"
 county = "Indiana"
-longitude = -79.206322
 latitude = 40.483646
+longitude = -79.206322
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15716"
+

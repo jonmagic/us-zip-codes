@@ -1,6 +1,8 @@
-zip_code = "18439"
-state = "PA"
 city = "Lakewood"
 county = "Wayne"
-longitude = -75.396741
 latitude = 41.828081
+longitude = -75.396741
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18439"
+

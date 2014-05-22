@@ -1,6 +1,8 @@
-zip_code = "83547"
-state = "ID"
 city = "Pollock"
 county = "Idaho"
-longitude = -116.359122
 latitude = 45.325345
+longitude = -116.359122
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83547"
+

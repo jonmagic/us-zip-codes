@@ -1,6 +1,8 @@
-zip_code = "01844"
-state = "MA"
 city = "Methuen"
 county = "Essex"
-longitude = -71.186915
 latitude = 42.73184
+longitude = -71.186915
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01844"
+

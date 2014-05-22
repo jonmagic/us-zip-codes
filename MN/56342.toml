@@ -1,6 +1,8 @@
-zip_code = "56342"
-state = "MN"
 city = "Isle"
 county = "Mille Lacs"
-longitude = -93.536504
 latitude = 45.973268
+longitude = -93.536504
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56342"
+

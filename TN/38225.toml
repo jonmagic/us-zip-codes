@@ -1,6 +1,8 @@
-zip_code = "38225"
-state = "TN"
 city = "Dresden"
 county = "Weakley"
-longitude = -88.742473
 latitude = 36.313605
+longitude = -88.742473
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38225"
+

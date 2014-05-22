@@ -1,6 +1,8 @@
-zip_code = "71075"
-state = "LA"
 city = "Springhill"
 county = "Webster"
-longitude = -93.406102
 latitude = 32.771459
+longitude = -93.406102
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71075"
+

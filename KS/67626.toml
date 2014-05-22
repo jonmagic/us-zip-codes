@@ -1,6 +1,8 @@
-zip_code = "67626"
-state = "KS"
 city = "Bunker Hill"
 county = "Russell"
-longitude = -98.676303
 latitude = 38.868931
+longitude = -98.676303
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67626"
+

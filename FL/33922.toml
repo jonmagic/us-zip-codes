@@ -1,6 +1,8 @@
-zip_code = "33922"
-state = "FL"
 city = "Bokeelia"
 county = "Lee"
-longitude = -82.128052
 latitude = 26.624433
+longitude = -82.128052
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33922"
+

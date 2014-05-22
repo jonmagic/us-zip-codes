@@ -1,6 +1,8 @@
-zip_code = "42355"
-state = "KY"
 city = "Maceo"
 county = "Daviess"
-longitude = -86.977249
 latitude = 37.859021
+longitude = -86.977249
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42355"
+

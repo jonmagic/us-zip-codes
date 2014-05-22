@@ -1,6 +1,8 @@
-zip_code = "62410"
-state = "IL"
 city = "Allendale"
 county = "Wabash"
-longitude = -87.706344
 latitude = 38.527638
+longitude = -87.706344
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62410"
+

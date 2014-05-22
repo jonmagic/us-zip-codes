@@ -1,6 +1,8 @@
-zip_code = "75125"
-state = "TX"
 city = "Ferris"
 county = "Ellis"
-longitude = -96.640443
 latitude = 32.494337
+longitude = -96.640443
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75125"
+

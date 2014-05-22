@@ -1,6 +1,8 @@
-zip_code = "02557"
-state = "MA"
 city = "Oak Bluffs"
 county = "Dukes"
-longitude = -70.560032
 latitude = 41.417376
+longitude = -70.560032
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02557"
+

@@ -1,6 +1,8 @@
-zip_code = "84054"
-state = "UT"
 city = "North Salt Lake"
 county = "Davis"
-longitude = -111.919115
 latitude = 40.844595
+longitude = -111.919115
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84054"
+

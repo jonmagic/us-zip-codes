@@ -1,6 +1,8 @@
-zip_code = "51235"
-state = "IA"
 city = "Doon"
 county = "Lyon"
-longitude = -96.244934
 latitude = 43.301697
+longitude = -96.244934
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51235"
+

@@ -1,6 +1,8 @@
-zip_code = "68001"
-state = "NE"
 city = "Abie"
 county = "Butler"
-longitude = -96.949369
 latitude = 41.332034
+longitude = -96.949369
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68001"
+

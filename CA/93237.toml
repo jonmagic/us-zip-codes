@@ -1,6 +1,8 @@
-zip_code = "93237"
-state = "CA"
 city = "Kaweah"
 county = "Tulare"
-longitude = -118.902899
 latitude = 36.472713
+longitude = -118.902899
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93237"
+

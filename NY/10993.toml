@@ -1,6 +1,8 @@
-zip_code = "10993"
-state = "NY"
 city = "West Haverstraw"
 county = "Rockland"
-longitude = -73.975833
 latitude = 41.208044
+longitude = -73.975833
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10993"
+

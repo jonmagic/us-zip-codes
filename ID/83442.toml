@@ -1,6 +1,8 @@
-zip_code = "83442"
-state = "ID"
 city = "Rigby"
 county = "Jefferson"
-longitude = -111.889325
 latitude = 43.692206
+longitude = -111.889325
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83442"
+

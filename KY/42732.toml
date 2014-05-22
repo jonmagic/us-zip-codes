@@ -1,6 +1,8 @@
-zip_code = "42732"
-state = "KY"
 city = "Eastview"
 county = "Hardin"
-longitude = -86.090565
 latitude = 37.606115
+longitude = -86.090565
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42732"
+

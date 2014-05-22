@@ -1,6 +1,8 @@
-zip_code = "94801"
-state = "CA"
 city = "Richmond"
 county = "Contra Costa"
-longitude = -122.384032
 latitude = 37.947523
+longitude = -122.384032
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94801"
+

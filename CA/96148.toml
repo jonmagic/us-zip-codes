@@ -1,6 +1,8 @@
-zip_code = "96148"
-state = "CA"
 city = "Tahoe Vista"
 county = "Placer"
-longitude = -120.068988
 latitude = 39.2226
+longitude = -120.068988
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96148"
+

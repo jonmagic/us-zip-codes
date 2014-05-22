@@ -1,6 +1,8 @@
-zip_code = "73005"
-state = "OK"
 city = "Anadarko"
 county = "Caddo"
-longitude = -98.325598
 latitude = 35.167108
+longitude = -98.325598
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73005"
+

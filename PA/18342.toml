@@ -1,6 +1,8 @@
-zip_code = "18342"
-state = "PA"
 city = "Mountainhome"
 county = "Monroe"
-longitude = -75.294125
 latitude = 41.145778
+longitude = -75.294125
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18342"
+

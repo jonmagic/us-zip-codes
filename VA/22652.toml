@@ -1,6 +1,8 @@
-zip_code = "22652"
-state = "VA"
 city = "Fort Valley"
 county = "Shenandoah"
-longitude = -78.427584
 latitude = 38.840715
+longitude = -78.427584
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22652"
+

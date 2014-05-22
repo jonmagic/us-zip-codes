@@ -1,6 +1,8 @@
-zip_code = "46750"
-state = "IN"
 city = "Huntington"
 county = "Huntington"
-longitude = -85.489225
 latitude = 40.842697
+longitude = -85.489225
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46750"
+

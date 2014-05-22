@@ -1,6 +1,8 @@
-zip_code = "07094"
-state = "NJ"
 city = "Secaucus"
 county = "Hudson"
-longitude = -74.056035
 latitude = 40.78885
+longitude = -74.056035
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07094"
+

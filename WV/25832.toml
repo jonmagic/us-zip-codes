@@ -1,6 +1,8 @@
-zip_code = "25832"
-state = "WV"
 city = "Daniels"
 county = "Raleigh"
-longitude = -81.216077
 latitude = 37.693341
+longitude = -81.216077
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25832"
+

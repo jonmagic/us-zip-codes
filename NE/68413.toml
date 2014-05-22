@@ -1,6 +1,8 @@
-zip_code = "68413"
-state = "NE"
 city = "Nehawka"
 county = "Cass"
-longitude = -96.015428
 latitude = 40.856763
+longitude = -96.015428
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68413"
+

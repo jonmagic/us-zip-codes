@@ -1,6 +1,8 @@
-zip_code = "61562"
-state = "IL"
 city = "Rome"
 county = "Peoria"
-longitude = -89.506695
 latitude = 40.874269
+longitude = -89.506695
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61562"
+

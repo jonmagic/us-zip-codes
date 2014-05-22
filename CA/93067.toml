@@ -1,6 +1,8 @@
-zip_code = "93067"
-state = "CA"
 city = "Summerland"
 county = "Santa Barbara"
-longitude = -119.592561
 latitude = 34.422045
+longitude = -119.592561
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93067"
+

@@ -1,6 +1,8 @@
-zip_code = "64020"
-state = "MO"
 city = "Concordia"
 county = "Lafayette"
-longitude = -93.59571
 latitude = 39.015918
+longitude = -93.59571
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64020"
+

@@ -1,6 +1,8 @@
-zip_code = "40025"
-state = "KY"
 city = "Glenview"
 county = "Jefferson"
-longitude = -85.643359
 latitude = 38.309597
+longitude = -85.643359
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40025"
+

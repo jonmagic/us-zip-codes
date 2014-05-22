@@ -1,6 +1,8 @@
-zip_code = "71802"
-state = "AR"
 city = "Hope"
 county = "Hempstead"
-longitude = -93.559162
 latitude = 33.765584
+longitude = -93.559162
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71802"
+

@@ -1,6 +1,8 @@
-zip_code = "52728"
-state = "IA"
 city = "Buffalo"
 county = "Scott"
-longitude = -90.736557
 latitude = 41.469263
+longitude = -90.736557
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52728"
+

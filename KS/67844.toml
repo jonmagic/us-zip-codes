@@ -1,6 +1,8 @@
-zip_code = "67844"
-state = "KS"
 city = "Fowler"
 county = "Meade"
-longitude = -100.211034
 latitude = 37.279983
+longitude = -100.211034
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67844"
+

@@ -1,6 +1,8 @@
-zip_code = "69163"
-state = "NE"
 city = "Stapleton"
 county = "Logan"
-longitude = -100.512463
 latitude = 41.480166
+longitude = -100.512463
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69163"
+

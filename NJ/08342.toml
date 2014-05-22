@@ -1,6 +1,8 @@
-zip_code = "08342"
-state = "NJ"
 city = "Mizpah"
 county = "Atlantic"
-longitude = -74.833469
 latitude = 39.50208
+longitude = -74.833469
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08342"
+

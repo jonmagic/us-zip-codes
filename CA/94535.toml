@@ -1,6 +1,8 @@
-zip_code = "94535"
-state = "CA"
 city = "Travis Afb"
 county = "Solano"
-longitude = -121.94123
 latitude = 38.271218
+longitude = -121.94123
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94535"
+

@@ -1,6 +1,8 @@
-zip_code = "61543"
-state = "IL"
 city = "Liverpool"
 county = "Fulton"
-longitude = -90.002625
 latitude = 40.390243
+longitude = -90.002625
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61543"
+

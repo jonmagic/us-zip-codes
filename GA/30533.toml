@@ -1,6 +1,8 @@
-zip_code = "30533"
-state = "GA"
 city = "Dahlonega"
 county = "Lumpkin"
-longitude = -84.024387
 latitude = 34.541371
+longitude = -84.024387
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30533"
+

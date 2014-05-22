@@ -1,6 +1,8 @@
-zip_code = "22815"
-state = "VA"
 city = "Broadway"
 county = "Rockingham"
-longitude = -78.815219
 latitude = 38.619698
+longitude = -78.815219
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22815"
+

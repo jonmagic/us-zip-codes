@@ -1,6 +1,8 @@
-zip_code = "73648"
-state = "OK"
 city = "Elk City"
 county = "Beckham"
-longitude = -99.680146
 latitude = 35.26946
+longitude = -99.680146
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73648"
+

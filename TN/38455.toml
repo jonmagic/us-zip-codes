@@ -1,6 +1,8 @@
-zip_code = "38455"
-state = "TN"
 city = "Elkton"
 county = "Giles"
-longitude = -86.895305
 latitude = 35.05392
+longitude = -86.895305
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38455"
+

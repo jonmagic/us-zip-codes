@@ -1,6 +1,8 @@
-zip_code = "07855"
-state = "NJ"
 city = "Middleville"
 county = "Sussex"
-longitude = -74.678956
 latitude = 41.12831
+longitude = -74.678956
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07855"
+

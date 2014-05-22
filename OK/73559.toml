@@ -1,6 +1,8 @@
-zip_code = "73559"
-state = "OK"
 city = "Mountain Park"
 county = "Kiowa"
-longitude = -98.94888
 latitude = 34.69694
+longitude = -98.94888
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73559"
+

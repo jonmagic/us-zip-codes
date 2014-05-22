@@ -1,6 +1,8 @@
-zip_code = "61240"
-state = "IL"
 city = "Coal Valley"
 county = "Rock Island"
-longitude = -90.575785
 latitude = 41.401019
+longitude = -90.575785
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61240"
+

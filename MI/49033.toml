@@ -1,6 +1,8 @@
-zip_code = "49033"
-state = "MI"
 city = "Ceresco"
 county = "Calhoun"
-longitude = -85.090633
 latitude = 42.235692
+longitude = -85.090633
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49033"
+

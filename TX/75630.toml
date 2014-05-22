@@ -1,6 +1,8 @@
-zip_code = "75630"
-state = "TX"
 city = "Avinger"
 county = "Cass"
-longitude = -94.574658
 latitude = 32.895799
+longitude = -94.574658
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75630"
+

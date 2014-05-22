@@ -1,6 +1,8 @@
-zip_code = "27876"
-state = "NC"
 city = "Seaboard"
 county = "Northampton"
-longitude = -77.442173
 latitude = 36.490454
+longitude = -77.442173
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27876"
+

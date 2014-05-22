@@ -1,6 +1,8 @@
-zip_code = "13020"
-state = "NY"
 city = "Apulia Station"
 county = "Onondaga"
-longitude = -76.062425
 latitude = 42.823968
+longitude = -76.062425
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13020"
+

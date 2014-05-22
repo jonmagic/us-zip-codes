@@ -1,6 +1,8 @@
-zip_code = "68364"
-state = "NE"
 city = "Goehner"
 county = "Seward"
-longitude = -97.196716
 latitude = 40.829068
+longitude = -97.196716
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68364"
+

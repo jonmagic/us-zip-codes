@@ -1,6 +1,8 @@
-zip_code = "18853"
-state = "PA"
 city = "Wyalusing"
 county = "Bradford"
-longitude = -76.265169
 latitude = 41.668617
+longitude = -76.265169
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18853"
+

@@ -1,6 +1,8 @@
-zip_code = "22943"
-state = "VA"
 city = "Greenwood"
 county = "Albemarle"
-longitude = -78.521957
 latitude = 38.078772
+longitude = -78.521957
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22943"
+

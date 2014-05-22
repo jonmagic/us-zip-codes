@@ -1,6 +1,8 @@
-zip_code = "96106"
-state = "CA"
 city = "Clio"
 county = "Plumas"
-longitude = -120.595092
 latitude = 39.754627
+longitude = -120.595092
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96106"
+

@@ -1,6 +1,8 @@
-zip_code = "68365"
-state = "NE"
 city = "Grafton"
 county = "Fillmore"
-longitude = -97.714675
 latitude = 40.629407
+longitude = -97.714675
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68365"
+

@@ -1,6 +1,8 @@
-zip_code = "67159"
-state = "KS"
 city = "Zenda"
 county = "Kingman"
-longitude = -98.3057
 latitude = 37.449631
+longitude = -98.3057
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67159"
+

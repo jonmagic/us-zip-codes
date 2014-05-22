@@ -1,6 +1,8 @@
-zip_code = "01504"
-state = "MA"
 city = "Blackstone"
 county = "Worcester"
-longitude = -71.799785
 latitude = 42.114078
+longitude = -71.799785
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01504"
+

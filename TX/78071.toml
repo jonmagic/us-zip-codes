@@ -1,6 +1,8 @@
-zip_code = "78071"
-state = "TX"
 city = "Three Rivers"
 county = "Live Oak"
-longitude = -98.166012
 latitude = 28.452822
+longitude = -98.166012
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78071"
+

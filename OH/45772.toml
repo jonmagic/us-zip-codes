@@ -1,6 +1,8 @@
-zip_code = "45772"
-state = "OH"
 city = "Reedsville"
 county = "Meigs"
-longitude = -81.835405
 latitude = 39.13447
+longitude = -81.835405
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45772"
+

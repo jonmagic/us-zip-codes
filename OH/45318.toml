@@ -1,6 +1,8 @@
-zip_code = "45318"
-state = "OH"
 city = "Covington"
 county = "Miami"
-longitude = -84.281167
 latitude = 40.124386
+longitude = -84.281167
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45318"
+

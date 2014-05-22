@@ -1,6 +1,8 @@
-zip_code = "20779"
-state = "MD"
 city = "Tracys Landing"
 county = "Anne Arundel"
-longitude = -76.558783
 latitude = 38.942878
+longitude = -76.558783
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20779"
+

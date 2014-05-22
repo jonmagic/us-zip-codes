@@ -1,6 +1,8 @@
-zip_code = "74565"
-state = "OK"
 city = "Savanna"
 county = "Pittsburg"
-longitude = -95.838039
 latitude = 34.835378
+longitude = -95.838039
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74565"
+

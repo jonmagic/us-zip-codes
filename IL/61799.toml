@@ -1,6 +1,8 @@
-zip_code = "61799"
-state = "IL"
 city = "Bloomington"
 county = "Mclean"
-longitude = -88.939637
 latitude = 40.488468
+longitude = -88.939637
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61799"
+

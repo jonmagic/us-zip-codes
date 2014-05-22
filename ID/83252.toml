@@ -1,6 +1,8 @@
-zip_code = "83252"
-state = "ID"
 city = "Malad City"
 county = "Oneida"
-longitude = -112.556004
 latitude = 42.236441
+longitude = -112.556004
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83252"
+

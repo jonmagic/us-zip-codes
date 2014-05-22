@@ -1,6 +1,8 @@
-zip_code = "56552"
-state = "MN"
 city = "Hitterdal"
 county = "Clay"
-longitude = -96.25589
 latitude = 46.972026
+longitude = -96.25589
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56552"
+

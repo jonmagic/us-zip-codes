@@ -1,6 +1,8 @@
-zip_code = "21716"
-state = "MD"
 city = "Brunswick"
 county = "Frederick"
-longitude = -77.624701
 latitude = 39.317945
+longitude = -77.624701
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21716"
+

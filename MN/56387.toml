@@ -1,6 +1,8 @@
-zip_code = "56387"
-state = "MN"
 city = "Waite Park"
 county = "Stearns"
-longitude = -94.667422
 latitude = 45.510622
+longitude = -94.667422
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56387"
+

@@ -1,6 +1,8 @@
-zip_code = "16024"
-state = "PA"
 city = "Callery"
 county = "Butler"
-longitude = -79.994747
 latitude = 40.921867
+longitude = -79.994747
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16024"
+

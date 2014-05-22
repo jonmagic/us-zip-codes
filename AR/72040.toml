@@ -1,6 +1,8 @@
-zip_code = "72040"
-state = "AR"
 city = "Des Arc"
 county = "Prairie"
-longitude = -91.53744
 latitude = 34.831514
+longitude = -91.53744
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72040"
+

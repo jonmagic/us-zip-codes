@@ -1,6 +1,8 @@
-zip_code = "52651"
-state = "IA"
 city = "Stockport"
 county = "Van Buren"
-longitude = -91.889766
 latitude = 40.868097
+longitude = -91.889766
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52651"
+

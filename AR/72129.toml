@@ -1,6 +1,8 @@
-zip_code = "72129"
-state = "AR"
 city = "Prattsville"
 county = "Grant"
-longitude = -92.539414
 latitude = 34.31491
+longitude = -92.539414
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72129"
+

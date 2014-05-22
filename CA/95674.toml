@@ -1,6 +1,8 @@
-zip_code = "95674"
-state = "CA"
 city = "Rio Oso"
 county = "Sutter"
-longitude = -121.489882
 latitude = 38.931318
+longitude = -121.489882
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95674"
+

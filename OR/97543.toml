@@ -1,6 +1,8 @@
-zip_code = "97543"
-state = "OR"
 city = "Wilderville"
 county = "Josephine"
-longitude = -123.548618
 latitude = 42.292694
+longitude = -123.548618
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97543"
+

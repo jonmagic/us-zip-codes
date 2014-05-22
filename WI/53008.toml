@@ -1,6 +1,8 @@
-zip_code = "53008"
-state = "WI"
 city = "Brookfield"
 county = "Waukesha"
-longitude = -88.302997
 latitude = 43.018696
+longitude = -88.302997
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53008"
+

@@ -1,6 +1,8 @@
-zip_code = "54648"
-state = "WI"
 city = "Norwalk"
 county = "Monroe"
-longitude = -90.647476
 latitude = 43.83159
+longitude = -90.647476
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54648"
+

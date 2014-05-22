@@ -1,6 +1,8 @@
-zip_code = "37729"
-state = "TN"
 city = "Duff"
 county = "Campbell"
-longitude = -84.045356
 latitude = 36.508642
+longitude = -84.045356
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37729"
+

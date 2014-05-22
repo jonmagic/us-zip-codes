@@ -1,6 +1,8 @@
-zip_code = "42215"
-state = "KY"
 city = "Cerulean"
 county = "Trigg"
-longitude = -87.718377
 latitude = 36.953435
+longitude = -87.718377
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42215"
+

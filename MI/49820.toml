@@ -1,6 +1,8 @@
-zip_code = "49820"
-state = "MI"
 city = "Curtis"
 county = "Mackinac"
-longitude = -85.699294
 latitude = 46.159286
+longitude = -85.699294
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49820"
+

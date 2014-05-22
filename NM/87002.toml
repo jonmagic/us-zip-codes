@@ -1,6 +1,8 @@
-zip_code = "87002"
-state = "NM"
 city = "Belen"
 county = "Valencia"
-longitude = -106.695247
 latitude = 34.651051
+longitude = -106.695247
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87002"
+

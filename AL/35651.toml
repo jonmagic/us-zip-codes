@@ -1,6 +1,8 @@
-zip_code = "35651"
-state = "AL"
 city = "Mount Hope"
 county = "Lawrence"
-longitude = -87.476911
 latitude = 34.47926
+longitude = -87.476911
+state = ""
+state_code_alpha2 = ""
+zip_code = "35651"
+

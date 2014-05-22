@@ -1,6 +1,8 @@
-zip_code = "30514"
-state = "GA"
 city = "Blairsville"
 county = "Union"
-longitude = -84.019157
 latitude = 34.903398
+longitude = -84.019157
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30514"
+

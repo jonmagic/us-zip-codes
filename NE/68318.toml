@@ -1,6 +1,8 @@
-zip_code = "68318"
-state = "NE"
 city = "Blue Springs"
 county = "Gage"
-longitude = -96.753208
 latitude = 40.299157
+longitude = -96.753208
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68318"
+

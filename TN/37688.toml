@@ -1,6 +1,8 @@
-zip_code = "37688"
-state = "TN"
 city = "Shady Valley"
 county = "Johnson"
-longitude = -81.879863
 latitude = 36.5407
+longitude = -81.879863
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37688"
+

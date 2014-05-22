@@ -1,6 +1,8 @@
-zip_code = "48432"
-state = "MI"
 city = "Filion"
 county = "Huron"
-longitude = -82.973268
 latitude = 43.952572
+longitude = -82.973268
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48432"
+

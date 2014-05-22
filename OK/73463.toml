@@ -1,6 +1,8 @@
-zip_code = "73463"
-state = "OK"
 city = "Wilson"
 county = "Carter"
-longitude = -97.354691
 latitude = 34.169282
+longitude = -97.354691
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73463"
+

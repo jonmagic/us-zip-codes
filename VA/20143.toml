@@ -1,6 +1,8 @@
-zip_code = "20143"
-state = "VA"
 city = "Catharpin"
 county = "Prince William"
-longitude = -77.566921
 latitude = 38.845535
+longitude = -77.566921
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20143"
+

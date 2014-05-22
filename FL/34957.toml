@@ -1,6 +1,8 @@
-zip_code = "34957"
-state = "FL"
 city = "Jensen Beach"
 county = "Martin"
-longitude = -80.237943
 latitude = 27.236473
+longitude = -80.237943
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34957"
+

@@ -1,6 +1,8 @@
-zip_code = "92241"
-state = "CA"
 city = "Desert Hot Springs"
 county = "Riverside"
-longitude = -116.354024
 latitude = 33.876265
+longitude = -116.354024
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92241"
+

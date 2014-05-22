@@ -1,6 +1,8 @@
-zip_code = "13695"
-state = "NY"
 city = "Wanakena"
 county = "Saint Lawrence"
-longitude = -74.912493
 latitude = 44.140791
+longitude = -74.912493
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13695"
+

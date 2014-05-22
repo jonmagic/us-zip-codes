@@ -1,6 +1,8 @@
-zip_code = "51061"
-state = "IA"
 city = "Washta"
 county = "Cherokee"
-longitude = -95.628595
 latitude = 42.691698
+longitude = -95.628595
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51061"
+

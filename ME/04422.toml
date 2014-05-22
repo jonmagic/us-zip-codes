@@ -1,6 +1,8 @@
-zip_code = "04422"
-state = "ME"
 city = "Charleston"
 county = "Penobscot"
-longitude = -69.040695
 latitude = 45.066999
+longitude = -69.040695
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04422"
+

@@ -1,6 +1,8 @@
-zip_code = "43988"
-state = "OH"
 city = "Scio"
 county = "Harrison"
-longitude = -81.104831
 latitude = 40.307421
+longitude = -81.104831
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43988"
+

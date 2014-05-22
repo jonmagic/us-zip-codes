@@ -1,6 +1,8 @@
-zip_code = "50456"
-state = "IA"
 city = "Manly"
 county = "Worth"
-longitude = -93.271287
 latitude = 43.342237
+longitude = -93.271287
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50456"
+

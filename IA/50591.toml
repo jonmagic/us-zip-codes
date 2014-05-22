@@ -1,6 +1,8 @@
-zip_code = "50591"
-state = "IA"
 city = "Thor"
 county = "Humboldt"
-longitude = -94.059946
 latitude = 42.77609
+longitude = -94.059946
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50591"
+

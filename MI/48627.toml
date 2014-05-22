@@ -1,6 +1,8 @@
-zip_code = "48627"
-state = "MI"
 city = "Higgins Lake"
 county = "Roscommon"
-longitude = -84.701346
 latitude = 44.387123
+longitude = -84.701346
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48627"
+

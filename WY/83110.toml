@@ -1,6 +1,8 @@
-zip_code = "83110"
-state = "WY"
 city = "Afton"
 county = "Lincoln"
-longitude = -110.619734
 latitude = 42.711296
+longitude = -110.619734
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83110"
+

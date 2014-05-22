@@ -1,6 +1,8 @@
-zip_code = "96057"
-state = "CA"
 city = "Mccloud"
 county = "Siskiyou"
-longitude = -122.112813
 latitude = 41.247548
+longitude = -122.112813
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96057"
+

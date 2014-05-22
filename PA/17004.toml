@@ -1,6 +1,8 @@
-zip_code = "17004"
-state = "PA"
 city = "Belleville"
 county = "Mifflin"
-longitude = -77.73103
 latitude = 40.591417
+longitude = -77.73103
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17004"
+

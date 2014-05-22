@@ -1,6 +1,8 @@
-zip_code = "31795"
-state = "GA"
 city = "Ty Ty"
 county = "Tift"
-longitude = -83.592123
 latitude = 31.475155
+longitude = -83.592123
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31795"
+

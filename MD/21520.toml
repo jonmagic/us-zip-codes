@@ -1,6 +1,8 @@
-zip_code = "21520"
-state = "MD"
 city = "Accident"
 county = "Garrett"
-longitude = -79.230969
 latitude = 39.58935
+longitude = -79.230969
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21520"
+

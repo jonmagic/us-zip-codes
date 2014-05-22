@@ -1,6 +1,8 @@
-zip_code = "93541"
-state = "CA"
 city = "Lee Vining"
 county = "Mono"
-longitude = -119.130361
 latitude = 37.97823
+longitude = -119.130361
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93541"
+

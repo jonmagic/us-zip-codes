@@ -1,6 +1,8 @@
-zip_code = "02322"
-state = "MA"
 city = "Avon"
 county = "Norfolk"
-longitude = -71.048216
 latitude = 42.126049
+longitude = -71.048216
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02322"
+

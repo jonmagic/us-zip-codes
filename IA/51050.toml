@@ -1,6 +1,8 @@
-zip_code = "51050"
-state = "IA"
 city = "Remsen"
 county = "Plymouth"
-longitude = -96.207399
 latitude = 42.793867
+longitude = -96.207399
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51050"
+

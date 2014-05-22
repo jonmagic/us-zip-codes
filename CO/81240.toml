@@ -1,6 +1,8 @@
-zip_code = "81240"
-state = "CO"
 city = "Penrose"
 county = "Fremont"
-longitude = -105.047277
 latitude = 38.414125
+longitude = -105.047277
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81240"
+

@@ -1,6 +1,8 @@
-zip_code = "73853"
-state = "OK"
 city = "Mutual"
 county = "Woodward"
-longitude = -99.280828
 latitude = 36.490567
+longitude = -99.280828
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73853"
+

@@ -1,6 +1,8 @@
-zip_code = "91945"
-state = "CA"
 city = "Lemon Grove"
 county = "San Diego"
-longitude = -117.037344
 latitude = 32.732288
+longitude = -117.037344
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91945"
+

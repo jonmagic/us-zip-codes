@@ -1,6 +1,8 @@
-zip_code = "52737"
-state = "IA"
 city = "Columbus City"
 county = "Louisa"
-longitude = -91.374686
 latitude = 41.25926
+longitude = -91.374686
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52737"
+

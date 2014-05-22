@@ -1,6 +1,8 @@
-zip_code = "87021"
-state = "NM"
 city = "Milan"
 county = "Cibola"
-longitude = -107.893691
 latitude = 35.192539
+longitude = -107.893691
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87021"
+

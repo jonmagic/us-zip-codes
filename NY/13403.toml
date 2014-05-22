@@ -1,6 +1,8 @@
-zip_code = "13403"
-state = "NY"
 city = "Marcy"
 county = "Oneida"
-longitude = -75.27371
 latitude = 43.172019
+longitude = -75.27371
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13403"
+

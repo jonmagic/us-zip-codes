@@ -1,6 +1,8 @@
-zip_code = "17872"
-state = "PA"
 city = "Shamokin"
 county = "Northumberland"
-longitude = -76.601592
 latitude = 40.791953
+longitude = -76.601592
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17872"
+

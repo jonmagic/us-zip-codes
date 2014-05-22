@@ -1,6 +1,8 @@
-zip_code = "97443"
-state = "OR"
 city = "Glide"
 county = "Douglas"
-longitude = -123.018231
 latitude = 43.26595
+longitude = -123.018231
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97443"
+

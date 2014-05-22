@@ -1,6 +1,8 @@
-zip_code = "37658"
-state = "TN"
 city = "Hampton"
 county = "Carter"
-longitude = -82.149749
 latitude = 36.25366
+longitude = -82.149749
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37658"
+

@@ -1,6 +1,8 @@
-zip_code = "44096"
-state = "OH"
 city = "Willoughby"
 county = "Lake"
-longitude = -81.249027
 latitude = 41.910676
+longitude = -81.249027
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44096"
+

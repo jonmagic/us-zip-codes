@@ -1,6 +1,8 @@
-zip_code = "35475"
-state = "AL"
 city = "Northport"
 county = "Tuscaloosa"
-longitude = -87.559894
 latitude = 33.39924
+longitude = -87.559894
+state = ""
+state_code_alpha2 = ""
+zip_code = "35475"
+

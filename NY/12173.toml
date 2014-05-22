@@ -1,6 +1,8 @@
-zip_code = "12173"
-state = "NY"
 city = "Stuyvesant"
 county = "Columbia"
-longitude = -73.622327
 latitude = 42.399271
+longitude = -73.622327
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12173"
+

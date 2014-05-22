@@ -1,6 +1,8 @@
-zip_code = "73529"
-state = "OK"
 city = "Comanche"
 county = "Stephens"
-longitude = -97.970651
 latitude = 34.393689
+longitude = -97.970651
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73529"
+

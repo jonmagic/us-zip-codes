@@ -1,6 +1,8 @@
-zip_code = "74883"
-state = "OK"
 city = "Wetumka"
 county = "Hughes"
-longitude = -96.248595
 latitude = 35.237428
+longitude = -96.248595
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74883"
+

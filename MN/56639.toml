@@ -1,6 +1,8 @@
-zip_code = "56639"
-state = "MN"
 city = "Effie"
 county = "Itasca"
-longitude = -93.524252
 latitude = 47.852226
+longitude = -93.524252
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56639"
+

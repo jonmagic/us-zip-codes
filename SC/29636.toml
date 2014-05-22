@@ -1,6 +1,8 @@
-zip_code = "29636"
-state = "SC"
 city = "Conestee"
 county = "Greenville"
-longitude = -82.453779
 latitude = 34.849745
+longitude = -82.453779
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29636"
+

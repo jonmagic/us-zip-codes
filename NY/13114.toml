@@ -1,6 +1,8 @@
-zip_code = "13114"
-state = "NY"
 city = "Mexico"
 county = "Oswego"
-longitude = -76.204997
 latitude = 43.398473
+longitude = -76.204997
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13114"
+

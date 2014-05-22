@@ -1,6 +1,8 @@
-zip_code = "14550"
-state = "NY"
 city = "Silver Springs"
 county = "Wyoming"
-longitude = -78.084485
 latitude = 42.674209
+longitude = -78.084485
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14550"
+

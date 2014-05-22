@@ -1,6 +1,8 @@
-zip_code = "65752"
-state = "MO"
 city = "South Greenfield"
 county = "Dade"
-longitude = -93.849903
 latitude = 37.431754
+longitude = -93.849903
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65752"
+

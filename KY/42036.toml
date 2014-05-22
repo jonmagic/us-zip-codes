@@ -1,6 +1,8 @@
-zip_code = "42036"
-state = "KY"
 city = "Dexter"
 county = "Calloway"
-longitude = -88.235991
 latitude = 36.715535
+longitude = -88.235991
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42036"
+

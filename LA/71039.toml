@@ -1,6 +1,8 @@
-zip_code = "71039"
-state = "LA"
 city = "Heflin"
 county = "Webster"
-longitude = -93.288906
 latitude = 32.474113
+longitude = -93.288906
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71039"
+

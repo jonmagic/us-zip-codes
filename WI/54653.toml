@@ -1,6 +1,8 @@
-zip_code = "54653"
-state = "WI"
 city = "Rockland"
 county = "La Crosse"
-longitude = -90.950732
 latitude = 43.841142
+longitude = -90.950732
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54653"
+

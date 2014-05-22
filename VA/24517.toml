@@ -1,6 +1,8 @@
-zip_code = "24517"
-state = "VA"
 city = "Altavista"
 county = "Campbell"
-longitude = -79.24118
 latitude = 37.225543
+longitude = -79.24118
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24517"
+

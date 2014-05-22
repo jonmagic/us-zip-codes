@@ -1,6 +1,8 @@
-zip_code = "43445"
-state = "OH"
 city = "Martin"
 county = "Ottawa"
-longitude = -83.311577
 latitude = 41.569398
+longitude = -83.311577
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43445"
+

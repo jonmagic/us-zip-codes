@@ -1,6 +1,8 @@
-zip_code = "49706"
-state = "MI"
 city = "Alanson"
 county = "Emmet"
-longitude = -84.805792
 latitude = 45.539802
+longitude = -84.805792
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49706"
+

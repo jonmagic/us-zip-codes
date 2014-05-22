@@ -1,6 +1,8 @@
-zip_code = "29709"
-state = "SC"
 city = "Chesterfield"
 county = "Chesterfield"
-longitude = -80.129515
 latitude = 34.755564
+longitude = -80.129515
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29709"
+

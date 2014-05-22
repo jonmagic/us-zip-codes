@@ -1,6 +1,8 @@
-zip_code = "38377"
-state = "TN"
 city = "Silerton"
 county = "Hardeman"
-longitude = -88.826923
 latitude = 35.35604
+longitude = -88.826923
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38377"
+

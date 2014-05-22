@@ -1,6 +1,8 @@
-zip_code = "18216"
-state = "PA"
 city = "Beaver Meadows"
 county = "Carbon"
-longitude = -75.919196
 latitude = 40.932217
+longitude = -75.919196
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18216"
+

@@ -1,6 +1,8 @@
-zip_code = "51360"
-state = "IA"
 city = "Spirit Lake"
 county = "Dickinson"
-longitude = -95.121813
 latitude = 43.407002
+longitude = -95.121813
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51360"
+

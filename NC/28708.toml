@@ -1,6 +1,8 @@
-zip_code = "28708"
-state = "NC"
 city = "Balsam Grove"
 county = "Transylvania"
-longitude = -82.898272
 latitude = 35.205962
+longitude = -82.898272
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28708"
+

@@ -1,6 +1,8 @@
-zip_code = "64480"
-state = "MO"
 city = "Rea"
 county = "Andrew"
-longitude = -94.710629
 latitude = 40.059384
+longitude = -94.710629
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64480"
+

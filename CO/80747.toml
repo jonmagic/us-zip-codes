@@ -1,6 +1,8 @@
-zip_code = "80747"
-state = "CO"
 city = "Peetz"
 county = "Logan"
-longitude = -103.16182
 latitude = 40.825442
+longitude = -103.16182
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80747"
+

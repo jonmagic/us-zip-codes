@@ -1,6 +1,8 @@
-zip_code = "67037"
-state = "KS"
 city = "Derby"
 county = "Sedgwick"
-longitude = -97.228475
 latitude = 37.566129
+longitude = -97.228475
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67037"
+

@@ -1,6 +1,8 @@
-zip_code = "54889"
-state = "WI"
 city = "Turtle Lake"
 county = "Barron"
-longitude = -92.074695
 latitude = 45.400115
+longitude = -92.074695
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54889"
+

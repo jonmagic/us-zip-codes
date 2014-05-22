@@ -1,6 +1,8 @@
-zip_code = "15462"
-state = "PA"
 city = "Melcroft"
 county = "Fayette"
-longitude = -79.381435
 latitude = 40.05974
+longitude = -79.381435
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15462"
+

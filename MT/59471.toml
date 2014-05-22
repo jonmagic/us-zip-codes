@@ -1,6 +1,8 @@
-zip_code = "59471"
-state = "MT"
 city = "Roy"
 county = "Fergus"
-longitude = -109.085342
 latitude = 47.308278
+longitude = -109.085342
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59471"
+

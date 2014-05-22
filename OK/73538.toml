@@ -1,6 +1,8 @@
-zip_code = "73538"
-state = "OK"
 city = "Elgin"
 county = "Comanche"
-longitude = -98.406833
 latitude = 34.609391
+longitude = -98.406833
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73538"
+

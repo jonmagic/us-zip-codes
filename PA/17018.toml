@@ -1,6 +1,8 @@
-zip_code = "17018"
-state = "PA"
 city = "Dauphin"
 county = "Dauphin"
-longitude = -76.895539
 latitude = 40.361876
+longitude = -76.895539
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17018"
+

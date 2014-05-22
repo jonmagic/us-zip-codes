@@ -1,6 +1,8 @@
-zip_code = "38355"
-state = "TN"
 city = "Medina"
 county = "Gibson"
-longitude = -88.753157
 latitude = 35.813893
+longitude = -88.753157
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38355"
+

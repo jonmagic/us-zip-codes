@@ -1,6 +1,8 @@
-zip_code = "07755"
-state = "NJ"
 city = "Oakhurst"
 county = "Monmouth"
-longitude = -74.021382
 latitude = 40.261158
+longitude = -74.021382
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07755"
+

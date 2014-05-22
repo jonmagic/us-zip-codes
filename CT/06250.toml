@@ -1,6 +1,8 @@
-zip_code = "06250"
-state = "CT"
 city = "Mansfield Center"
 county = "Tolland"
-longitude = -72.22554
 latitude = 41.78155
+longitude = -72.22554
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06250"
+

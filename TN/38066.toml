@@ -1,6 +1,8 @@
-zip_code = "38066"
-state = "TN"
 city = "Rossville"
 county = "Fayette"
-longitude = -89.421234
 latitude = 35.084994
+longitude = -89.421234
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38066"
+

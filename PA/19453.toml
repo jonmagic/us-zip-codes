@@ -1,6 +1,8 @@
-zip_code = "19453"
-state = "PA"
 city = "Mont Clare"
 county = "Montgomery"
-longitude = -75.504383
 latitude = 40.151918
+longitude = -75.504383
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19453"
+

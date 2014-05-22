@@ -1,6 +1,8 @@
-zip_code = "55046"
-state = "MN"
 city = "Lonsdale"
 county = "Rice"
-longitude = -93.425156
 latitude = 44.447704
+longitude = -93.425156
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55046"
+

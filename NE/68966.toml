@@ -1,6 +1,8 @@
-zip_code = "68966"
-state = "NE"
 city = "Orleans"
 county = "Harlan"
-longitude = -99.45511
 latitude = 40.130072
+longitude = -99.45511
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68966"
+

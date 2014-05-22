@@ -1,6 +1,8 @@
-zip_code = "81124"
-state = "CO"
 city = "Capulin"
 county = "Conejos"
-longitude = -106.127935
 latitude = 37.304205
+longitude = -106.127935
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81124"
+

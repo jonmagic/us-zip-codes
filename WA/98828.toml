@@ -1,6 +1,8 @@
-zip_code = "98828"
-state = "WA"
 city = "Malaga"
 county = "Chelan"
-longitude = -120.173347
 latitude = 47.319535
+longitude = -120.173347
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98828"
+

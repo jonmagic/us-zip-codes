@@ -1,6 +1,8 @@
-zip_code = "20899"
-state = "MD"
 city = "Gaithersburg"
 county = "Montgomery"
-longitude = -77.221984
 latitude = 39.140324
+longitude = -77.221984
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20899"
+

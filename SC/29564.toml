@@ -1,6 +1,8 @@
-zip_code = "29564"
-state = "SC"
 city = "Lane"
 county = "Williamsburg"
-longitude = -79.709369
 latitude = 33.598355
+longitude = -79.709369
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29564"
+

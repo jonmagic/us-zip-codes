@@ -1,6 +1,8 @@
-zip_code = "65614"
-state = "MO"
 city = "Bradleyville"
 county = "Taney"
-longitude = -92.914606
 latitude = 36.722523
+longitude = -92.914606
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65614"
+

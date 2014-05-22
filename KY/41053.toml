@@ -1,6 +1,8 @@
-zip_code = "41053"
-state = "KY"
 city = "Kenton"
 county = "Kenton"
-longitude = -84.520501
 latitude = 38.944663
+longitude = -84.520501
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41053"
+

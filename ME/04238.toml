@@ -1,6 +1,8 @@
-zip_code = "04238"
-state = "ME"
 city = "Hebron"
 county = "Oxford"
-longitude = -70.372831
 latitude = 44.22564
+longitude = -70.372831
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04238"
+

@@ -1,6 +1,8 @@
-zip_code = "47957"
-state = "IN"
 city = "Medaryville"
 county = "Pulaski"
-longitude = -86.849745
 latitude = 41.072624
+longitude = -86.849745
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47957"
+

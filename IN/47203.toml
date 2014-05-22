@@ -1,6 +1,8 @@
-zip_code = "47203"
-state = "IN"
 city = "Columbus"
 county = "Bartholomew"
-longitude = -85.827439
 latitude = 39.241129
+longitude = -85.827439
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47203"
+

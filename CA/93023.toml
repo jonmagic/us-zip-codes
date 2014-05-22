@@ -1,6 +1,8 @@
-zip_code = "93023"
-state = "CA"
 city = "Ojai"
 county = "Ventura"
-longitude = -119.25876
 latitude = 34.478806
+longitude = -119.25876
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93023"
+

@@ -1,6 +1,8 @@
-zip_code = "96104"
-state = "CA"
 city = "Cedarville"
 county = "Modoc"
-longitude = -120.111396
 latitude = 41.42426
+longitude = -120.111396
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96104"
+

@@ -1,6 +1,8 @@
-zip_code = "37178"
-state = "TN"
 city = "Tennessee Ridge"
 county = "Houston"
-longitude = -87.798852
 latitude = 36.315226
+longitude = -87.798852
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37178"
+

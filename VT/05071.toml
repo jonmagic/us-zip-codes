@@ -1,6 +1,8 @@
-zip_code = "05071"
-state = "VT"
 city = "South Woodstock"
 county = "Windsor"
-longitude = -72.534106
 latitude = 43.565888
+longitude = -72.534106
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05071"
+

@@ -1,6 +1,8 @@
-zip_code = "60941"
-state = "IL"
 city = "Herscher"
 county = "Kankakee"
-longitude = -87.899733
 latitude = 41.12077
+longitude = -87.899733
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60941"
+

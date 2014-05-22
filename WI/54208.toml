@@ -1,6 +1,8 @@
-zip_code = "54208"
-state = "WI"
 city = "Denmark"
 county = "Brown"
-longitude = -87.885734
 latitude = 44.459153
+longitude = -87.885734
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54208"
+

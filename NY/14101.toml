@@ -1,6 +1,8 @@
-zip_code = "14101"
-state = "NY"
 city = "Machias"
 county = "Cattaraugus"
-longitude = -78.554217
 latitude = 42.38917
+longitude = -78.554217
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14101"
+

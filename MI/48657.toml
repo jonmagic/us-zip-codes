@@ -1,6 +1,8 @@
-zip_code = "48657"
-state = "MI"
 city = "Sanford"
 county = "Midland"
-longitude = -84.399532
 latitude = 43.712095
+longitude = -84.399532
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48657"
+

@@ -1,6 +1,8 @@
-zip_code = "96759"
-state = "HI"
 city = "Kunia"
 county = "Honolulu"
-longitude = -158.06385
 latitude = 21.463
+longitude = -158.06385
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96759"
+

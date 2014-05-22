@@ -1,6 +1,8 @@
-zip_code = "41534"
-state = "KY"
 city = "Hellier"
 county = "Pike"
-longitude = -82.480755
 latitude = 37.281894
+longitude = -82.480755
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41534"
+

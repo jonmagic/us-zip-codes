@@ -1,6 +1,8 @@
-zip_code = "78839"
-state = "TX"
 city = "Crystal City"
 county = "Zavala"
-longitude = -99.824936
 latitude = 28.69381
+longitude = -99.824936
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78839"
+

@@ -1,6 +1,8 @@
-zip_code = "72368"
-state = "AR"
 city = "Moro"
 county = "Lee"
-longitude = -90.935139
 latitude = 34.791849
+longitude = -90.935139
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72368"
+

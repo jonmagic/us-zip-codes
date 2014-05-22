@@ -1,6 +1,8 @@
-zip_code = "16659"
-state = "PA"
 city = "Loysburg"
 county = "Bedford"
-longitude = -78.385341
 latitude = 40.170266
+longitude = -78.385341
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16659"
+

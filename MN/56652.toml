@@ -1,6 +1,8 @@
-zip_code = "56652"
-state = "MN"
 city = "Leonard"
 county = "Clearwater"
-longitude = -95.375974
 latitude = 47.585873
+longitude = -95.375974
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56652"
+

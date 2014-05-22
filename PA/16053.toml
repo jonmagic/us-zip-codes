@@ -1,6 +1,8 @@
-zip_code = "16053"
-state = "PA"
 city = "Renfrew"
 county = "Butler"
-longitude = -79.990821
 latitude = 40.803054
+longitude = -79.990821
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16053"
+

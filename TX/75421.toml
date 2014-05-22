@@ -1,6 +1,8 @@
-zip_code = "75421"
-state = "TX"
 city = "Brookston"
 county = "Lamar"
-longitude = -95.646417
 latitude = 33.655316
+longitude = -95.646417
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75421"
+

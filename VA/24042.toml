@@ -1,6 +1,8 @@
-zip_code = "24042"
-state = "VA"
 city = "Roanoke"
 county = "Roanoke City"
-longitude = -79.939228
 latitude = 37.271687
+longitude = -79.939228
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24042"
+

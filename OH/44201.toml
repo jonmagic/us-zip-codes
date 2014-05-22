@@ -1,6 +1,8 @@
-zip_code = "44201"
-state = "OH"
 city = "Atwater"
 county = "Portage"
-longitude = -81.194614
 latitude = 41.040507
+longitude = -81.194614
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44201"
+

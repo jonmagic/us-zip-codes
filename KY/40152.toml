@@ -1,6 +1,8 @@
-zip_code = "40152"
-state = "KY"
 city = "Mc Daniels"
 county = "Breckinridge"
-longitude = -86.449076
 latitude = 37.619425
+longitude = -86.449076
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40152"
+

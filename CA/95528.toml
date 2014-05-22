@@ -1,6 +1,8 @@
-zip_code = "95528"
-state = "CA"
 city = "Carlotta"
 county = "Humboldt"
-longitude = -123.952838
 latitude = 40.501603
+longitude = -123.952838
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95528"
+

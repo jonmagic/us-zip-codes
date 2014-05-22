@@ -1,6 +1,8 @@
-zip_code = "32324"
-state = "FL"
 city = "Chattahoochee"
 county = "Gadsden"
-longitude = -84.780758
 latitude = 30.640548
+longitude = -84.780758
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32324"
+

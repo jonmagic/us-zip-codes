@@ -1,6 +1,8 @@
-zip_code = "47876"
-state = "IN"
 city = "Saint Mary Of The Woods"
 county = "Vigo"
-longitude = -87.410094
 latitude = 39.433602
+longitude = -87.410094
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47876"
+

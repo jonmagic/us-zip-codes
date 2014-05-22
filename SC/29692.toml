@@ -1,6 +1,8 @@
-zip_code = "29692"
-state = "SC"
 city = "Ware Shoals"
 county = "Greenwood"
-longitude = -82.248844
 latitude = 34.388579
+longitude = -82.248844
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29692"
+

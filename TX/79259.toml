@@ -1,6 +1,8 @@
-zip_code = "79259"
-state = "TX"
 city = "Tell"
 county = "Childress"
-longitude = -100.207642
 latitude = 34.529678
+longitude = -100.207642
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79259"
+

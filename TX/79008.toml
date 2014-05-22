@@ -1,6 +1,8 @@
-zip_code = "79008"
-state = "TX"
 city = "Borger"
 county = "Hutchinson"
-longitude = -101.599447
 latitude = 35.631621
+longitude = -101.599447
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79008"
+

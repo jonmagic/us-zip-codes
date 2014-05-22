@@ -1,6 +1,8 @@
-zip_code = "41729"
-state = "KY"
 city = "Combs"
 county = "Perry"
-longitude = -83.217443
 latitude = 37.264854
+longitude = -83.217443
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41729"
+

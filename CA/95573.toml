@@ -1,6 +1,8 @@
-zip_code = "95573"
-state = "CA"
 city = "Willow Creek"
 county = "Humboldt"
-longitude = -123.90987
 latitude = 40.872068
+longitude = -123.90987
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95573"
+

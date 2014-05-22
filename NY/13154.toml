@@ -1,6 +1,8 @@
-zip_code = "13154"
-state = "NY"
 city = "South Butler"
 county = "Wayne"
-longitude = -76.765591
 latitude = 43.134425
+longitude = -76.765591
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13154"
+

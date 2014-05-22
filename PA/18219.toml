@@ -1,6 +1,8 @@
-zip_code = "18219"
-state = "PA"
 city = "Conyngham"
 county = "Luzerne"
-longitude = -76.056358
 latitude = 40.990662
+longitude = -76.056358
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18219"
+

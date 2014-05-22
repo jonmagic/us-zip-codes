@@ -1,6 +1,8 @@
-zip_code = "45653"
-state = "OH"
 city = "Minford"
 county = "Scioto"
-longitude = -82.911143
 latitude = 38.889049
+longitude = -82.911143
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45653"
+

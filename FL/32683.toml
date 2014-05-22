@@ -1,6 +1,8 @@
-zip_code = "32683"
-state = "FL"
 city = "Otter Creek"
 county = "Levy"
-longitude = -82.794469
 latitude = 29.310929
+longitude = -82.794469
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32683"
+

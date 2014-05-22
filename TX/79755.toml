@@ -1,6 +1,8 @@
-zip_code = "79755"
-state = "TX"
 city = "Midkiff"
 county = "Upton"
-longitude = -102.04652
 latitude = 31.365814
+longitude = -102.04652
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79755"
+

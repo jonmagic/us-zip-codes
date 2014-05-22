@@ -1,6 +1,8 @@
-zip_code = "43022"
-state = "OH"
 city = "Gambier"
 county = "Knox"
-longitude = -82.348673
 latitude = 40.338527
+longitude = -82.348673
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43022"
+

@@ -1,6 +1,8 @@
-zip_code = "42724"
-state = "KY"
 city = "Cecilia"
 county = "Hardin"
-longitude = -86.054481
 latitude = 37.669044
+longitude = -86.054481
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42724"
+

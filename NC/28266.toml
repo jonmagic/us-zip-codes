@@ -1,6 +1,8 @@
-zip_code = "28266"
-state = "NC"
 city = "Charlotte"
 county = "Mecklenburg"
-longitude = -80.858155
 latitude = 35.284459
+longitude = -80.858155
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28266"
+

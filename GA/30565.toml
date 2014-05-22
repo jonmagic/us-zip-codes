@@ -1,6 +1,8 @@
-zip_code = "30565"
-state = "GA"
 city = "Nicholson"
 county = "Jackson"
-longitude = -83.474576
 latitude = 34.113429
+longitude = -83.474576
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30565"
+

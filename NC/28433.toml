@@ -1,6 +1,8 @@
-zip_code = "28433"
-state = "NC"
 city = "Clarkton"
 county = "Bladen"
-longitude = -78.592149
 latitude = 34.529167
+longitude = -78.592149
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28433"
+

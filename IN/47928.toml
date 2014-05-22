@@ -1,6 +1,8 @@
-zip_code = "47928"
-state = "IN"
 city = "Cayuga"
 county = "Vermillion"
-longitude = -87.471616
 latitude = 39.927176
+longitude = -87.471616
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47928"
+

@@ -1,6 +1,8 @@
-zip_code = "33785"
-state = "FL"
 city = "Indian Rocks Beach"
 county = "Pinellas"
-longitude = -82.843525
 latitude = 27.886757
+longitude = -82.843525
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33785"
+

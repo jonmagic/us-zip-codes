@@ -1,6 +1,8 @@
-zip_code = "74431"
-state = "OK"
 city = "Dewar"
 county = "Okmulgee"
-longitude = -95.949771
 latitude = 35.455066
+longitude = -95.949771
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74431"
+

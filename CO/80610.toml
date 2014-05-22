@@ -1,6 +1,8 @@
-zip_code = "80610"
-state = "CO"
 city = "Ault"
 county = "Weld"
-longitude = -104.607073
 latitude = 40.675794
+longitude = -104.607073
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80610"
+

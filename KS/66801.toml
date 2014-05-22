@@ -1,6 +1,8 @@
-zip_code = "66801"
-state = "KS"
 city = "Emporia"
 county = "Lyon"
-longitude = -96.152766
 latitude = 38.434153
+longitude = -96.152766
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66801"
+

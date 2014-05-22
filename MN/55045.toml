@@ -1,6 +1,8 @@
-zip_code = "55045"
-state = "MN"
 city = "Lindstrom"
 county = "Chisago"
-longitude = -92.823088
 latitude = 45.404477
+longitude = -92.823088
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55045"
+

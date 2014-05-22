@@ -1,6 +1,8 @@
-zip_code = "13665"
-state = "NY"
 city = "Natural Bridge"
 county = "Jefferson"
-longitude = -75.514487
 latitude = 44.054012
+longitude = -75.514487
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13665"
+

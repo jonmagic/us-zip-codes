@@ -1,6 +1,8 @@
-zip_code = "11561"
-state = "NY"
 city = "Long Beach"
 county = "Nassau"
-longitude = -73.642323
 latitude = 40.589139
+longitude = -73.642323
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11561"
+

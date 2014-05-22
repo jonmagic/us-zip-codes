@@ -1,6 +1,8 @@
-zip_code = "37333"
-state = "TN"
 city = "Farner"
 county = "Polk"
-longitude = -84.328172
 latitude = 35.13081
+longitude = -84.328172
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37333"
+

@@ -1,6 +1,8 @@
-zip_code = "29105"
-state = "SC"
 city = "Monetta"
 county = "Saluda"
-longitude = -81.679404
 latitude = 33.88797
+longitude = -81.679404
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29105"
+

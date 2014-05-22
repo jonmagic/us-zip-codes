@@ -1,6 +1,8 @@
-zip_code = "51055"
-state = "IA"
 city = "Sloan"
 county = "Woodbury"
-longitude = -96.048349
 latitude = 42.345513
+longitude = -96.048349
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51055"
+

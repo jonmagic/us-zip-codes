@@ -1,6 +1,8 @@
-zip_code = "70070"
-state = "LA"
 city = "Luling"
 county = "Saint Charles"
-longitude = -90.348009
 latitude = 29.944447
+longitude = -90.348009
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70070"
+

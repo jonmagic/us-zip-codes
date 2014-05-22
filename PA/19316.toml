@@ -1,6 +1,8 @@
-zip_code = "19316"
-state = "PA"
 city = "Brandamore"
 county = "Chester"
-longitude = -75.837767
 latitude = 40.054976
+longitude = -75.837767
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19316"
+

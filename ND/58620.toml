@@ -1,6 +1,8 @@
-zip_code = "58620"
-state = "ND"
 city = "Amidon"
 county = "Slope"
-longitude = -103.485325
 latitude = 46.454966
+longitude = -103.485325
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58620"
+

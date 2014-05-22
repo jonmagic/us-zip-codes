@@ -1,6 +1,8 @@
-zip_code = "42464"
-state = "KY"
 city = "White Plains"
 county = "Hopkins"
-longitude = -87.400477
 latitude = 37.20031
+longitude = -87.400477
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42464"
+

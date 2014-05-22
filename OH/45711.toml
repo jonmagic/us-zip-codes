@@ -1,6 +1,8 @@
-zip_code = "45711"
-state = "OH"
 city = "Amesville"
 county = "Athens"
-longitude = -81.936397
 latitude = 39.410743
+longitude = -81.936397
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45711"
+

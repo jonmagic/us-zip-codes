@@ -1,6 +1,8 @@
-zip_code = "71847"
-state = "AR"
 city = "Mc Caskill"
 county = "Hempstead"
-longitude = -93.61992
 latitude = 33.915909
+longitude = -93.61992
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71847"
+

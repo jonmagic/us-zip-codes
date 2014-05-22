@@ -1,6 +1,8 @@
-zip_code = "76821"
-state = "TX"
 city = "Ballinger"
 county = "Runnels"
-longitude = -99.911547
 latitude = 31.770615
+longitude = -99.911547
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76821"
+

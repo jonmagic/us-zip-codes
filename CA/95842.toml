@@ -1,6 +1,8 @@
-zip_code = "95842"
-state = "CA"
 city = "Sacramento"
 county = "Sacramento"
-longitude = -121.359009
 latitude = 38.692752
+longitude = -121.359009
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95842"
+

@@ -1,6 +1,8 @@
-zip_code = "82336"
-state = "WY"
 city = "Wamsutter"
 county = "Sweetwater"
-longitude = -107.851852
 latitude = 41.853191
+longitude = -107.851852
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82336"
+

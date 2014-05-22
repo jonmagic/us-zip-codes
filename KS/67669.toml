@@ -1,6 +1,8 @@
-zip_code = "67669"
-state = "KS"
 city = "Stockton"
 county = "Rooks"
-longitude = -99.369872
 latitude = 39.412166
+longitude = -99.369872
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67669"
+

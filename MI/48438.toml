@@ -1,6 +1,8 @@
-zip_code = "48438"
-state = "MI"
 city = "Goodrich"
 county = "Genesee"
-longitude = -83.51249
 latitude = 42.91884
+longitude = -83.51249
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48438"
+

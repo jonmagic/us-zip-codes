@@ -1,6 +1,8 @@
-zip_code = "32435"
-state = "FL"
 city = "Defuniak Springs"
 county = "Walton"
-longitude = -86.12111
 latitude = 30.603777
+longitude = -86.12111
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32435"
+

@@ -1,6 +1,8 @@
-zip_code = "55917"
-state = "MN"
 city = "Blooming Prairie"
 county = "Steele"
-longitude = -93.144007
 latitude = 44.011627
+longitude = -93.144007
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55917"
+

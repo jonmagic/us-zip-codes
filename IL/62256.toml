@@ -1,6 +1,8 @@
-zip_code = "62256"
-state = "IL"
 city = "Maeystown"
 county = "Monroe"
-longitude = -90.135645
 latitude = 38.30426
+longitude = -90.135645
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62256"
+

@@ -1,6 +1,8 @@
-zip_code = "30425"
-state = "GA"
 city = "Garfield"
 county = "Emanuel"
-longitude = -82.100208
 latitude = 32.654937
+longitude = -82.100208
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30425"
+

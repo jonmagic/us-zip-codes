@@ -1,6 +1,8 @@
-zip_code = "63937"
-state = "MO"
 city = "Ellsinore"
 county = "Carter"
-longitude = -90.746313
 latitude = 36.934404
+longitude = -90.746313
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63937"
+

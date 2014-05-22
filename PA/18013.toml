@@ -1,6 +1,8 @@
-zip_code = "18013"
-state = "PA"
 city = "Bangor"
 county = "Northampton"
-longitude = -75.315246
 latitude = 40.766465
+longitude = -75.315246
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18013"
+

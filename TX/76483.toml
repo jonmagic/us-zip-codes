@@ -1,6 +1,8 @@
-zip_code = "76483"
-state = "TX"
 city = "Throckmorton"
 county = "Throckmorton"
-longitude = -99.145361
 latitude = 33.158707
+longitude = -99.145361
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76483"
+

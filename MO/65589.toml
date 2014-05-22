@@ -1,6 +1,8 @@
-zip_code = "65589"
-state = "MO"
 city = "Yukon"
 county = "Texas"
-longitude = -91.82048
 latitude = 37.23762
+longitude = -91.82048
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65589"
+

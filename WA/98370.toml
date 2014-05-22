@@ -1,6 +1,8 @@
-zip_code = "98370"
-state = "WA"
 city = "Poulsbo"
 county = "Kitsap"
-longitude = -122.614094
 latitude = 47.751046
+longitude = -122.614094
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98370"
+

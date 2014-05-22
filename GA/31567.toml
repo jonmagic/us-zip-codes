@@ -1,6 +1,8 @@
-zip_code = "31567"
-state = "GA"
 city = "West Green"
 county = "Coffee"
-longitude = -82.724308
 latitude = 31.614312
+longitude = -82.724308
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31567"
+

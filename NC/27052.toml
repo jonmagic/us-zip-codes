@@ -1,6 +1,8 @@
-zip_code = "27052"
-state = "NC"
 city = "Walnut Cove"
 county = "Stokes"
-longitude = -80.159989
 latitude = 36.34518
+longitude = -80.159989
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27052"
+

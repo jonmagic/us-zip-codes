@@ -1,6 +1,8 @@
-zip_code = "78665"
-state = "TX"
 city = "Sandy"
 county = "Blanco"
-longitude = -98.358613
 latitude = 30.219829
+longitude = -98.358613
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78665"
+

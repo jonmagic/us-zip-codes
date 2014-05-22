@@ -1,6 +1,8 @@
-zip_code = "14169"
-state = "NY"
 city = "Wales Center"
 county = "Erie"
-longitude = -78.585646
 latitude = 42.767333
+longitude = -78.585646
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14169"
+

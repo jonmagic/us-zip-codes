@@ -1,6 +1,8 @@
-zip_code = "14843"
-state = "NY"
 city = "Hornell"
 county = "Steuben"
-longitude = -77.479051
 latitude = 42.383978
+longitude = -77.479051
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14843"
+

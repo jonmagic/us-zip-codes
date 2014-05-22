@@ -1,6 +1,8 @@
-zip_code = "73041"
-state = "OK"
 city = "Gotebo"
 county = "Kiowa"
-longitude = -98.875945
 latitude = 35.069516
+longitude = -98.875945
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73041"
+

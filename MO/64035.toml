@@ -1,6 +1,8 @@
-zip_code = "64035"
-state = "MO"
 city = "Hardin"
 county = "Ray"
-longitude = -93.849333
 latitude = 39.315365
+longitude = -93.849333
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64035"
+

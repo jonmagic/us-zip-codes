@@ -1,6 +1,8 @@
-zip_code = "31005"
-state = "GA"
 city = "Bonaire"
 county = "Houston"
-longitude = -83.662733
 latitude = 32.539506
+longitude = -83.662733
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31005"
+

@@ -1,6 +1,8 @@
-zip_code = "87523"
-state = "NM"
 city = "Cordova"
 county = "Rio Arriba"
-longitude = -105.903255
 latitude = 36.005591
+longitude = -105.903255
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87523"
+

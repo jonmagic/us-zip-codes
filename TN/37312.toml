@@ -1,6 +1,8 @@
-zip_code = "37312"
-state = "TN"
 city = "Cleveland"
 county = "Bradley"
-longitude = -84.86844
 latitude = 35.255097
+longitude = -84.86844
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37312"
+

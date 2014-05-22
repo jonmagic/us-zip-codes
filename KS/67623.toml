@@ -1,6 +1,8 @@
-zip_code = "67623"
-state = "KS"
 city = "Alton"
 county = "Osborne"
-longitude = -98.928883
 latitude = 39.430147
+longitude = -98.928883
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67623"
+

@@ -1,6 +1,8 @@
-zip_code = "36720"
-state = "AL"
 city = "Alberta"
 county = "Wilcox"
-longitude = -87.354953
 latitude = 32.145564
+longitude = -87.354953
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36720"
+

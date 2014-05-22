@@ -1,6 +1,8 @@
-zip_code = "45820"
-state = "OH"
 city = "Cairo"
 county = "Allen"
-longitude = -84.085154
 latitude = 40.830388
+longitude = -84.085154
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45820"
+

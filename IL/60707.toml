@@ -1,6 +1,8 @@
-zip_code = "60707"
-state = "IL"
 city = "Elmwood Park"
 county = "Cook"
-longitude = -87.818509
 latitude = 41.923181
+longitude = -87.818509
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60707"
+

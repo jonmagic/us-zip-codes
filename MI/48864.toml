@@ -1,6 +1,8 @@
-zip_code = "48864"
-state = "MI"
 city = "Okemos"
 county = "Ingham"
-longitude = -84.425136
 latitude = 42.719534
+longitude = -84.425136
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48864"
+

@@ -1,6 +1,8 @@
-zip_code = "76449"
-state = "TX"
 city = "Graford"
 county = "Palo Pinto"
-longitude = -98.337981
 latitude = 32.774543
+longitude = -98.337981
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76449"
+

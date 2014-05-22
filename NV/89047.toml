@@ -1,6 +1,8 @@
-zip_code = "89047"
-state = "NV"
 city = "Silverpeak"
 county = "Esmeralda"
-longitude = -117.796454
 latitude = 37.722454
+longitude = -117.796454
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89047"
+

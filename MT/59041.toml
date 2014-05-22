@@ -1,6 +1,8 @@
-zip_code = "59041"
-state = "MT"
 city = "Joliet"
 county = "Carbon"
-longitude = -108.992234
 latitude = 45.494126
+longitude = -108.992234
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59041"
+

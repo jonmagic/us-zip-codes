@@ -1,6 +1,8 @@
-zip_code = "76487"
-state = "TX"
 city = "Poolville"
 county = "Parker"
-longitude = -97.903499
 latitude = 32.94962
+longitude = -97.903499
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76487"
+

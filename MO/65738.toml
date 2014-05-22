@@ -1,6 +1,8 @@
-zip_code = "65738"
-state = "MO"
 city = "Republic"
 county = "Greene"
-longitude = -93.501003
 latitude = 37.256089
+longitude = -93.501003
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65738"
+

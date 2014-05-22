@@ -1,6 +1,8 @@
-zip_code = "40319"
-state = "KY"
 city = "Farmers"
 county = "Rowan"
-longitude = -83.533691
 latitude = 38.140258
+longitude = -83.533691
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40319"
+

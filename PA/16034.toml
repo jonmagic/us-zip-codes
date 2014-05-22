@@ -1,6 +1,8 @@
-zip_code = "16034"
-state = "PA"
 city = "Fenelton"
 county = "Butler"
-longitude = -79.735066
 latitude = 40.864921
+longitude = -79.735066
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16034"
+

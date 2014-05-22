@@ -1,6 +1,8 @@
-zip_code = "23322"
-state = "VA"
 city = "Chesapeake"
 county = "Chesapeake City"
-longitude = -76.24201
 latitude = 36.6434
+longitude = -76.24201
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23322"
+

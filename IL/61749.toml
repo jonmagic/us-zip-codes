@@ -1,6 +1,8 @@
-zip_code = "61749"
-state = "IL"
 city = "Kenney"
 county = "Dewitt"
-longitude = -89.062222
 latitude = 40.111484
+longitude = -89.062222
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61749"
+

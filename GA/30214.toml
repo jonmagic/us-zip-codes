@@ -1,6 +1,8 @@
-zip_code = "30214"
-state = "GA"
 city = "Fayetteville"
 county = "Fayette"
-longitude = -84.480626
 latitude = 33.467941
+longitude = -84.480626
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30214"
+

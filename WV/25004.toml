@@ -1,6 +1,8 @@
-zip_code = "25004"
-state = "WV"
 city = "Ameagle"
 county = "Raleigh"
-longitude = -81.118491
 latitude = 37.784459
+longitude = -81.118491
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25004"
+

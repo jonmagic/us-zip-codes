@@ -1,6 +1,8 @@
-zip_code = "33004"
-state = "FL"
 city = "Dania"
 county = "Broward"
-longitude = -80.159667
 latitude = 26.062416
+longitude = -80.159667
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33004"
+

@@ -1,6 +1,8 @@
-zip_code = "55352"
-state = "MN"
 city = "Jordan"
 county = "Scott"
-longitude = -93.601183
 latitude = 44.658362
+longitude = -93.601183
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55352"
+

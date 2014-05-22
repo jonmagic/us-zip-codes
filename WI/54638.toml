@@ -1,6 +1,8 @@
-zip_code = "54638"
-state = "WI"
 city = "Kendall"
 county = "Monroe"
-longitude = -90.40265
 latitude = 43.816431
+longitude = -90.40265
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54638"
+

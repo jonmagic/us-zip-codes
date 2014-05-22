@@ -1,6 +1,8 @@
-zip_code = "18252"
-state = "PA"
 city = "Tamaqua"
 county = "Schuylkill"
-longitude = -75.937836
 latitude = 40.79849
+longitude = -75.937836
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18252"
+

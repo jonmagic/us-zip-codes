@@ -1,6 +1,8 @@
-zip_code = "79261"
-state = "TX"
 city = "Turkey"
 county = "Hall"
-longitude = -100.892561
 latitude = 34.394837
+longitude = -100.892561
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79261"
+

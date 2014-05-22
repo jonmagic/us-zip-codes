@@ -1,6 +1,8 @@
-zip_code = "50653"
-state = "IA"
 city = "Marble Rock"
 county = "Floyd"
-longitude = -92.877776
 latitude = 43.060131
+longitude = -92.877776
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50653"
+

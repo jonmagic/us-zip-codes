@@ -1,6 +1,8 @@
-zip_code = "71033"
-state = "LA"
 city = "Greenwood"
 county = "Caddo"
-longitude = -93.989086
 latitude = 32.429968
+longitude = -93.989086
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71033"
+

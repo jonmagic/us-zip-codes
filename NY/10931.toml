@@ -1,6 +1,8 @@
-zip_code = "10931"
-state = "NY"
 city = "Hillburn"
 county = "Rockland"
-longitude = -74.170639
 latitude = 41.120195
+longitude = -74.170639
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10931"
+

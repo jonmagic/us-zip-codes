@@ -1,6 +1,8 @@
-zip_code = "53049"
-state = "WI"
 city = "Malone"
 county = "Fond Du Lac"
-longitude = -88.287108
 latitude = 43.875302
+longitude = -88.287108
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53049"
+

@@ -1,6 +1,8 @@
-zip_code = "72012"
-state = "AR"
 city = "Beebe"
 county = "White"
-longitude = -91.808393
 latitude = 35.173395
+longitude = -91.808393
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72012"
+

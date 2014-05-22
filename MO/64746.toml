@@ -1,6 +1,8 @@
-zip_code = "64746"
-state = "MO"
 city = "Freeman"
 county = "Cass"
-longitude = -94.400181
 latitude = 38.576898
+longitude = -94.400181
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64746"
+

@@ -1,6 +1,8 @@
-zip_code = "59934"
-state = "MT"
 city = "Trego"
 county = "Lincoln"
-longitude = -115.330964
 latitude = 48.44572
+longitude = -115.330964
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59934"
+

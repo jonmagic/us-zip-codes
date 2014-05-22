@@ -1,6 +1,8 @@
-zip_code = "48454"
-state = "MI"
 city = "Melvin"
 county = "Sanilac"
-longitude = -82.810553
 latitude = 43.20471
+longitude = -82.810553
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48454"
+

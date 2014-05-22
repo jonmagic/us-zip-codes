@@ -1,6 +1,8 @@
-zip_code = "64427"
-state = "MO"
 city = "Bolckow"
 county = "Andrew"
-longitude = -94.855903
 latitude = 40.095823
+longitude = -94.855903
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64427"
+

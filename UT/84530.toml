@@ -1,6 +1,8 @@
-zip_code = "84530"
-state = "UT"
 city = "La Sal"
 county = "San Juan"
-longitude = -110.22691
 latitude = 37.748946
+longitude = -110.22691
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84530"
+

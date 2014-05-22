@@ -1,6 +1,8 @@
-zip_code = "65746"
-state = "MO"
 city = "Seymour"
 county = "Webster"
-longitude = -92.820353
 latitude = 37.17598
+longitude = -92.820353
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65746"
+

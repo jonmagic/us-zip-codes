@@ -1,6 +1,8 @@
-zip_code = "54773"
-state = "WI"
 city = "Whitehall"
 county = "Trempealeau"
-longitude = -91.285758
 latitude = 44.443778
+longitude = -91.285758
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54773"
+

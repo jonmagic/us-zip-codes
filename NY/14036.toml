@@ -1,6 +1,8 @@
-zip_code = "14036"
-state = "NY"
 city = "Corfu"
 county = "Genesee"
-longitude = -78.372338
 latitude = 42.978522
+longitude = -78.372338
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14036"
+

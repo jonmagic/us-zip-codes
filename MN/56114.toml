@@ -1,6 +1,8 @@
-zip_code = "56114"
-state = "MN"
 city = "Avoca"
 county = "Murray"
-longitude = -95.60317
 latitude = 43.960084
+longitude = -95.60317
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56114"
+

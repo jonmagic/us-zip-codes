@@ -1,6 +1,8 @@
-zip_code = "64652"
-state = "MO"
 city = "Laredo"
 county = "Grundy"
-longitude = -93.446087
 latitude = 40.036047
+longitude = -93.446087
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64652"
+

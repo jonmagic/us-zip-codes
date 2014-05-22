@@ -1,6 +1,8 @@
-zip_code = "39577"
-state = "MS"
 city = "Wiggins"
 county = "Stone"
-longitude = -89.086992
 latitude = 30.847778
+longitude = -89.086992
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39577"
+

@@ -1,6 +1,8 @@
-zip_code = "72734"
-state = "AR"
 city = "Gentry"
 county = "Benton"
-longitude = -94.435512
 latitude = 36.288541
+longitude = -94.435512
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72734"
+

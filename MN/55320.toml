@@ -1,6 +1,8 @@
-zip_code = "55320"
-state = "MN"
 city = "Clearwater"
 county = "Wright"
-longitude = -93.92441
 latitude = 45.226627
+longitude = -93.92441
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55320"
+

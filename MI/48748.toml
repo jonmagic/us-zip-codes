@@ -1,6 +1,8 @@
-zip_code = "48748"
-state = "MI"
 city = "National City"
 county = "Iosco"
-longitude = -83.71748
 latitude = 44.280833
+longitude = -83.71748
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48748"
+

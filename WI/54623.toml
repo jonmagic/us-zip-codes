@@ -1,6 +1,8 @@
-zip_code = "54623"
-state = "WI"
 city = "Coon Valley"
 county = "Vernon"
-longitude = -91.043819
 latitude = 43.574486
+longitude = -91.043819
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54623"
+

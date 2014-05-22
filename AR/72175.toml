@@ -1,6 +1,8 @@
-zip_code = "72175"
-state = "AR"
 city = "Wabbaseka"
 county = "Jefferson"
-longitude = -91.862772
 latitude = 34.348461
+longitude = -91.862772
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72175"
+

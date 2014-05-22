@@ -1,6 +1,8 @@
-zip_code = "70344"
-state = "LA"
 city = "Chauvin"
 county = "Terrebonne"
-longitude = -90.609142
 latitude = 29.393661
+longitude = -90.609142
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70344"
+

@@ -1,6 +1,8 @@
-zip_code = "14727"
-state = "NY"
 city = "Cuba"
 county = "Allegany"
-longitude = -78.209403
 latitude = 42.245997
+longitude = -78.209403
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14727"
+

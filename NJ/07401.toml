@@ -1,6 +1,8 @@
-zip_code = "07401"
-state = "NJ"
 city = "Allendale"
 county = "Bergen"
-longitude = -74.062774
 latitude = 41.017446
+longitude = -74.062774
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07401"
+

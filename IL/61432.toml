@@ -1,6 +1,8 @@
-zip_code = "61432"
-state = "IL"
 city = "Fairview"
 county = "Fulton"
-longitude = -90.158064
 latitude = 40.645183
+longitude = -90.158064
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61432"
+

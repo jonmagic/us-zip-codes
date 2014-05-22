@@ -1,6 +1,8 @@
-zip_code = "97466"
-state = "OR"
 city = "Powers"
 county = "Coos"
-longitude = -124.070945
 latitude = 42.879975
+longitude = -124.070945
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97466"
+

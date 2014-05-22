@@ -1,6 +1,8 @@
-zip_code = "47429"
-state = "IN"
 city = "Ellettsville"
 county = "Monroe"
-longitude = -86.62658
 latitude = 39.276356
+longitude = -86.62658
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47429"
+

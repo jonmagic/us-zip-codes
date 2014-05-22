@@ -1,6 +1,8 @@
-zip_code = "49436"
-state = "MI"
 city = "Mears"
 county = "Oceana"
-longitude = -86.468975
 latitude = 43.681533
+longitude = -86.468975
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49436"
+

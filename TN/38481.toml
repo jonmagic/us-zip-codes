@@ -1,6 +1,8 @@
-zip_code = "38481"
-state = "TN"
 city = "Saint Joseph"
 county = "Lawrence"
-longitude = -87.49336
 latitude = 35.034741
+longitude = -87.49336
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38481"
+

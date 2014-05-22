@@ -1,6 +1,8 @@
-zip_code = "19008"
-state = "PA"
 city = "Broomall"
 county = "Delaware"
-longitude = -75.365635
 latitude = 39.972965
+longitude = -75.365635
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19008"
+

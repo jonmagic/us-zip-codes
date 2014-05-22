@@ -1,6 +1,8 @@
-zip_code = "52619"
-state = "IA"
 city = "Argyle"
 county = "Lee"
-longitude = -91.585217
 latitude = 40.546499
+longitude = -91.585217
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52619"
+

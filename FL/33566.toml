@@ -1,6 +1,8 @@
-zip_code = "33566"
-state = "FL"
 city = "Plant City"
 county = "Hillsborough"
-longitude = -82.341905
 latitude = 28.008056
+longitude = -82.341905
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33566"
+

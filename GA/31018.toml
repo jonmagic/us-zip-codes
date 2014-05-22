@@ -1,6 +1,8 @@
-zip_code = "31018"
-state = "GA"
 city = "Davisboro"
 county = "Washington"
-longitude = -82.648357
 latitude = 32.968449
+longitude = -82.648357
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31018"
+

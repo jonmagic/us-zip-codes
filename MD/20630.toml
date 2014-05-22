@@ -1,6 +1,8 @@
-zip_code = "20630"
-state = "MD"
 city = "Drayden"
 county = "Saint Marys"
-longitude = -76.47451
 latitude = 38.178948
+longitude = -76.47451
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20630"
+

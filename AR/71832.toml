@@ -1,6 +1,8 @@
-zip_code = "71832"
-state = "AR"
 city = "De Queen"
 county = "Sevier"
-longitude = -94.28072
 latitude = 34.050929
+longitude = -94.28072
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71832"
+

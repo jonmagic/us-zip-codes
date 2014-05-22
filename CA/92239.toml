@@ -1,6 +1,8 @@
-zip_code = "92239"
-state = "CA"
 city = "Desert Center"
 county = "Riverside"
-longitude = -115.366577
 latitude = 33.809041
+longitude = -115.366577
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92239"
+

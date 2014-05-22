@@ -1,6 +1,8 @@
-zip_code = "13616"
-state = "NY"
 city = "Calcium"
 county = "Jefferson"
-longitude = -75.860442
 latitude = 43.951428
+longitude = -75.860442
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13616"
+

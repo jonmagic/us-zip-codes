@@ -1,6 +1,8 @@
-zip_code = "55965"
-state = "MN"
 city = "Preston"
 county = "Fillmore"
-longitude = -92.09459
 latitude = 43.706377
+longitude = -92.09459
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55965"
+

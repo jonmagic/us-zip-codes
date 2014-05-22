@@ -1,6 +1,8 @@
-zip_code = "30552"
-state = "GA"
 city = "Lakemont"
 county = "Rabun"
-longitude = -83.443351
 latitude = 34.78992
+longitude = -83.443351
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30552"
+

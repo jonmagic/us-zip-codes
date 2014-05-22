@@ -1,6 +1,8 @@
-zip_code = "05491"
-state = "VT"
 city = "Vergennes"
 county = "Addison"
-longitude = -73.260487
 latitude = 44.145691
+longitude = -73.260487
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05491"
+

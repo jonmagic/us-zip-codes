@@ -1,6 +1,8 @@
-zip_code = "05033"
-state = "VT"
 city = "Bradford"
 county = "Orange"
-longitude = -72.15845
 latitude = 44.004691
+longitude = -72.15845
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05033"
+

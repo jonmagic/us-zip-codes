@@ -1,6 +1,8 @@
-zip_code = "25755"
-state = "WV"
 city = "Huntington"
 county = "Cabell"
-longitude = -82.431667
 latitude = 38.422115
+longitude = -82.431667
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25755"
+

@@ -1,6 +1,8 @@
-zip_code = "20895"
-state = "MD"
 city = "Kensington"
 county = "Montgomery"
-longitude = -77.111555
 latitude = 39.09538
+longitude = -77.111555
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20895"
+

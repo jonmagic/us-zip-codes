@@ -1,6 +1,8 @@
-zip_code = "38054"
-state = "TN"
 city = "Millington"
 county = "Shelby"
-longitude = -89.870636
 latitude = 35.334132
+longitude = -89.870636
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38054"
+

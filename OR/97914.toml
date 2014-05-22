@@ -1,6 +1,8 @@
-zip_code = "97914"
-state = "OR"
 city = "Ontario"
 county = "Malheur"
-longitude = -117.079896
 latitude = 44.093127
+longitude = -117.079896
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97914"
+

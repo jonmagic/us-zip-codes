@@ -1,6 +1,8 @@
-zip_code = "55950"
-state = "MN"
 city = "Lansing"
 county = "Mower"
-longitude = -92.965279
 latitude = 43.762936
+longitude = -92.965279
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55950"
+

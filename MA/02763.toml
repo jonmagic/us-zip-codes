@@ -1,6 +1,8 @@
-zip_code = "02763"
-state = "MA"
 city = "Attleboro Falls"
 county = "Bristol"
-longitude = -71.308229
 latitude = 41.972584
+longitude = -71.308229
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02763"
+

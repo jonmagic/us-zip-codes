@@ -1,6 +1,8 @@
-zip_code = "42082"
-state = "KY"
 city = "Symsonia"
 county = "Graves"
-longitude = -88.515287
 latitude = 36.904412
+longitude = -88.515287
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42082"
+

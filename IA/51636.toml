@@ -1,6 +1,8 @@
-zip_code = "51636"
-state = "IA"
 city = "Coin"
 county = "Page"
-longitude = -95.199797
 latitude = 40.646512
+longitude = -95.199797
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51636"
+

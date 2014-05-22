@@ -1,6 +1,8 @@
-zip_code = "83803"
-state = "ID"
 city = "Bayview"
 county = "Kootenai"
-longitude = -116.549408
 latitude = 47.982174
+longitude = -116.549408
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83803"
+

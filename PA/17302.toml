@@ -1,6 +1,8 @@
-zip_code = "17302"
-state = "PA"
 city = "Airville"
 county = "York"
-longitude = -76.405931
 latitude = 39.821313
+longitude = -76.405931
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17302"
+

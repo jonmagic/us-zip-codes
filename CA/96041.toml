@@ -1,6 +1,8 @@
-zip_code = "96041"
-state = "CA"
 city = "Hayfork"
 county = "Trinity"
-longitude = -123.167247
 latitude = 40.500622
+longitude = -123.167247
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96041"
+

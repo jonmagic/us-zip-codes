@@ -1,6 +1,8 @@
-zip_code = "44270"
-state = "OH"
 city = "Rittman"
 county = "Wayne"
-longitude = -81.862397
 latitude = 40.949448
+longitude = -81.862397
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44270"
+

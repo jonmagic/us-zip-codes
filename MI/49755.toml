@@ -1,6 +1,8 @@
-zip_code = "49755"
-state = "MI"
 city = "Levering"
 county = "Emmet"
-longitude = -84.86323
 latitude = 45.592565
+longitude = -84.86323
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49755"
+

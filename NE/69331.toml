@@ -1,6 +1,8 @@
-zip_code = "69331"
-state = "NE"
 city = "Angora"
 county = "Morrill"
-longitude = -103.003835
 latitude = 41.721468
+longitude = -103.003835
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69331"
+

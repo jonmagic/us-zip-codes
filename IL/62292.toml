@@ -1,6 +1,8 @@
-zip_code = "62292"
-state = "IL"
 city = "Tilden"
 county = "Randolph"
-longitude = -89.689539
 latitude = 38.212224
+longitude = -89.689539
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62292"
+

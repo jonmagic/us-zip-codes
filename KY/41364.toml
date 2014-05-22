@@ -1,6 +1,8 @@
-zip_code = "41364"
-state = "KY"
 city = "Ricetown"
 county = "Owsley"
-longitude = -83.675179
 latitude = 37.387127
+longitude = -83.675179
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41364"
+

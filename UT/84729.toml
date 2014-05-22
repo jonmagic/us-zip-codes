@@ -1,6 +1,8 @@
-zip_code = "84729"
-state = "UT"
 city = "Glendale"
 county = "Kane"
-longitude = -112.601749
 latitude = 37.311416
+longitude = -112.601749
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84729"
+

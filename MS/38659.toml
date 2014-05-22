@@ -1,6 +1,8 @@
-zip_code = "38659"
-state = "MS"
 city = "Potts Camp"
 county = "Marshall"
-longitude = -89.366355
 latitude = 34.62921
+longitude = -89.366355
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38659"
+

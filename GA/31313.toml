@@ -1,6 +1,8 @@
-zip_code = "31313"
-state = "GA"
 city = "Hinesville"
 county = "Liberty"
-longitude = -81.523649
 latitude = 31.804838
+longitude = -81.523649
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31313"
+

@@ -1,6 +1,8 @@
-zip_code = "58636"
-state = "ND"
 city = "Halliday"
 county = "Dunn"
-longitude = -102.336761
 latitude = 47.351748
+longitude = -102.336761
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58636"
+

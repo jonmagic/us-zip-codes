@@ -1,6 +1,8 @@
-zip_code = "44444"
-state = "OH"
 city = "Newton Falls"
 county = "Trumbull"
-longitude = -80.952731
 latitude = 41.197392
+longitude = -80.952731
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44444"
+

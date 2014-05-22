@@ -1,6 +1,8 @@
-zip_code = "56326"
-state = "MN"
 city = "Evansville"
 county = "Douglas"
-longitude = -95.670545
 latitude = 45.984659
+longitude = -95.670545
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56326"
+

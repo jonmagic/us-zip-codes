@@ -1,6 +1,8 @@
-zip_code = "81236"
-state = "CO"
 city = "Nathrop"
 county = "Chaffee"
-longitude = -106.251196
 latitude = 38.747896
+longitude = -106.251196
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81236"
+

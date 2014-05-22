@@ -1,6 +1,8 @@
-zip_code = "18340"
-state = "PA"
 city = "Millrift"
 county = "Pike"
-longitude = -74.751138
 latitude = 41.413707
+longitude = -74.751138
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18340"
+

@@ -1,6 +1,8 @@
-zip_code = "19023"
-state = "PA"
 city = "Darby"
 county = "Delaware"
-longitude = -75.269628
 latitude = 39.917562
+longitude = -75.269628
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19023"
+

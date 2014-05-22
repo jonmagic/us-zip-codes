@@ -1,6 +1,8 @@
-zip_code = "58011"
-state = "ND"
 city = "Buffalo"
 county = "Cass"
-longitude = -97.557491
 latitude = 46.920016
+longitude = -97.557491
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58011"
+

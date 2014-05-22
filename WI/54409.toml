@@ -1,6 +1,8 @@
-zip_code = "54409"
-state = "WI"
 city = "Antigo"
 county = "Langlade"
-longitude = -89.093942
 latitude = 45.160809
+longitude = -89.093942
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54409"
+

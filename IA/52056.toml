@@ -1,6 +1,8 @@
-zip_code = "52056"
-state = "IA"
 city = "Luxemburg"
 county = "Dubuque"
-longitude = -91.062066
 latitude = 42.578283
+longitude = -91.062066
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52056"
+

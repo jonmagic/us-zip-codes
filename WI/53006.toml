@@ -1,6 +1,8 @@
-zip_code = "53006"
-state = "WI"
 city = "Brownsville"
 county = "Dodge"
-longitude = -88.52302
 latitude = 43.602789
+longitude = -88.52302
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53006"
+

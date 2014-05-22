@@ -1,6 +1,8 @@
-zip_code = "55808"
-state = "MN"
 city = "Duluth"
 county = "Saint Louis"
-longitude = -92.242241
 latitude = 46.683891
+longitude = -92.242241
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55808"
+

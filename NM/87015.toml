@@ -1,6 +1,8 @@
-zip_code = "87015"
-state = "NM"
 city = "Edgewood"
 county = "Santa Fe"
-longitude = -106.125117
 latitude = 35.134731
+longitude = -106.125117
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87015"
+

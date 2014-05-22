@@ -1,6 +1,8 @@
-zip_code = "71212"
-state = "LA"
 city = "Monroe"
 county = "Ouachita"
-longitude = -92.072683
 latitude = 32.528593
+longitude = -92.072683
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71212"
+

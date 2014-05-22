@@ -1,6 +1,8 @@
-zip_code = "65350"
-state = "MO"
 city = "Smithton"
 county = "Pettis"
-longitude = -93.108757
 latitude = 38.659963
+longitude = -93.108757
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65350"
+

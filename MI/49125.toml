@@ -1,6 +1,8 @@
-zip_code = "49125"
-state = "MI"
 city = "Sawyer"
 county = "Berrien"
-longitude = -86.571325
 latitude = 41.899733
+longitude = -86.571325
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49125"
+

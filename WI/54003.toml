@@ -1,6 +1,8 @@
-zip_code = "54003"
-state = "WI"
 city = "Beldenville"
 county = "Pierce"
-longitude = -92.448434
 latitude = 44.789742
+longitude = -92.448434
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54003"
+

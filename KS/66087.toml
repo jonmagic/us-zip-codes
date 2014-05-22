@@ -1,6 +1,8 @@
-zip_code = "66087"
-state = "KS"
 city = "Troy"
 county = "Doniphan"
-longitude = -95.143417
 latitude = 39.790573
+longitude = -95.143417
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66087"
+

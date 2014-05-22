@@ -1,6 +1,8 @@
-zip_code = "59082"
-state = "MT"
 city = "Springdale"
 county = "Park"
-longitude = -110.477384
 latitude = 45.33333
+longitude = -110.477384
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59082"
+

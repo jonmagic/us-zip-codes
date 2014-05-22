@@ -1,6 +1,8 @@
-zip_code = "59845"
-state = "MT"
 city = "Hot Springs"
 county = "Sanders"
-longitude = -114.553693
 latitude = 47.633565
+longitude = -114.553693
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59845"
+

@@ -1,6 +1,8 @@
-zip_code = "62677"
-state = "IL"
 city = "Pleasant Plains"
 county = "Sangamon"
-longitude = -89.868578
 latitude = 39.83314
+longitude = -89.868578
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62677"
+

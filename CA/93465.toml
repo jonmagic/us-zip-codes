@@ -1,6 +1,8 @@
-zip_code = "93465"
-state = "CA"
 city = "Templeton"
 county = "San Luis Obispo"
-longitude = -120.65385
 latitude = 35.517781
+longitude = -120.65385
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93465"
+

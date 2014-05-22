@@ -1,6 +1,8 @@
-zip_code = "71670"
-state = "AR"
 city = "Tillar"
 county = "Desha"
-longitude = -91.443347
 latitude = 33.698144
+longitude = -91.443347
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71670"
+

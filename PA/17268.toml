@@ -1,6 +1,8 @@
-zip_code = "17268"
-state = "PA"
 city = "Waynesboro"
 county = "Franklin"
-longitude = -77.59228
 latitude = 39.793552
+longitude = -77.59228
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17268"
+

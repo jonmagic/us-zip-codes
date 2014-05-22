@@ -1,6 +1,8 @@
-zip_code = "41537"
-state = "KY"
 city = "Jenkins"
 county = "Letcher"
-longitude = -82.651342
 latitude = 37.191103
+longitude = -82.651342
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41537"
+

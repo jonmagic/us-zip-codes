@@ -1,6 +1,8 @@
-zip_code = "47501"
-state = "IN"
 city = "Washington"
 county = "Daviess"
-longitude = -87.121505
 latitude = 38.689503
+longitude = -87.121505
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47501"
+

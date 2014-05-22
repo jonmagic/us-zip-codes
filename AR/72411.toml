@@ -1,6 +1,8 @@
-zip_code = "72411"
-state = "AR"
 city = "Bay"
 county = "Craighead"
-longitude = -90.641731
 latitude = 35.810496
+longitude = -90.641731
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72411"
+

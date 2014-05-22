@@ -1,6 +1,8 @@
-zip_code = "64067"
-state = "MO"
 city = "Lexington"
 county = "Lafayette"
-longitude = -93.849284
 latitude = 39.14086
+longitude = -93.849284
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64067"
+

@@ -1,6 +1,8 @@
-zip_code = "94579"
-state = "CA"
 city = "San Leandro"
 county = "Alameda"
-longitude = -122.147425
 latitude = 37.688518
+longitude = -122.147425
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94579"
+

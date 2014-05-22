@@ -1,6 +1,8 @@
-zip_code = "62356"
-state = "IL"
 city = "New Canton"
 county = "Pike"
-longitude = -90.967919
 latitude = 39.620372
+longitude = -90.967919
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62356"
+

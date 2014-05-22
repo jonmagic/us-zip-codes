@@ -1,6 +1,8 @@
-zip_code = "85536"
-state = "AZ"
 city = "Fort Thomas"
 county = "Graham"
-longitude = -109.971733
 latitude = 33.033314
+longitude = -109.971733
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85536"
+

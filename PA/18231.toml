@@ -1,6 +1,8 @@
-zip_code = "18231"
-state = "PA"
 city = "Kelayres"
 county = "Schuylkill"
-longitude = -76.005382
 latitude = 40.900231
+longitude = -76.005382
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18231"
+

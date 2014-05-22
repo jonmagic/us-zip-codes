@@ -1,6 +1,8 @@
-zip_code = "72735"
-state = "AR"
 city = "Goshen"
 county = "Washington"
-longitude = -93.966645
 latitude = 36.087551
+longitude = -93.966645
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72735"
+

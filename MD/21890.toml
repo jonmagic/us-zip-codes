@@ -1,6 +1,8 @@
-zip_code = "21890"
-state = "MD"
 city = "Westover"
 county = "Somerset"
-longitude = -75.888207
 latitude = 38.092718
+longitude = -75.888207
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21890"
+

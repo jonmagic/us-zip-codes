@@ -1,6 +1,8 @@
-zip_code = "60515"
-state = "IL"
 city = "Downers Grove"
 county = "Du Page"
-longitude = -88.012267
 latitude = 41.796279
+longitude = -88.012267
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60515"
+

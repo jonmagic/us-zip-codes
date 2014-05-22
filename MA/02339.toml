@@ -1,6 +1,8 @@
-zip_code = "02339"
-state = "MA"
 city = "Hanover"
 county = "Plymouth"
-longitude = -70.851048
 latitude = 42.123534
+longitude = -70.851048
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02339"
+

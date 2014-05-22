@@ -1,6 +1,8 @@
-zip_code = "38334"
-state = "TN"
 city = "Finger"
 county = "Mcnairy"
-longitude = -88.567203
 latitude = 35.268959
+longitude = -88.567203
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38334"
+

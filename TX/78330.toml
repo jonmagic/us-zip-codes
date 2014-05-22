@@ -1,6 +1,8 @@
-zip_code = "78330"
-state = "TX"
 city = "Agua Dulce"
 county = "Nueces"
-longitude = -97.530388
 latitude = 27.836111
+longitude = -97.530388
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78330"
+

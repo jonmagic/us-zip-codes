@@ -1,6 +1,8 @@
-zip_code = "07860"
-state = "NJ"
 city = "Newton"
 county = "Sussex"
-longitude = -74.806938
 latitude = 41.069522
+longitude = -74.806938
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07860"
+

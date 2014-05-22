@@ -1,6 +1,8 @@
-zip_code = "27259"
-state = "NC"
 city = "Highfalls"
 county = "Moore"
-longitude = -79.479016
 latitude = 35.492077
+longitude = -79.479016
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27259"
+

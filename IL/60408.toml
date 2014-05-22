@@ -1,6 +1,8 @@
-zip_code = "60408"
-state = "IL"
 city = "Braidwood"
 county = "Will"
-longitude = -88.017171
 latitude = 41.285878
+longitude = -88.017171
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60408"
+

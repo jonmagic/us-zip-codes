@@ -1,6 +1,8 @@
-zip_code = "73620"
-state = "OK"
 city = "Arapaho"
 county = "Custer"
-longitude = -98.960209
 latitude = 35.566643
+longitude = -98.960209
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73620"
+

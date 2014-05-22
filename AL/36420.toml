@@ -1,6 +1,8 @@
-zip_code = "36420"
-state = "AL"
 city = "Andalusia"
 county = "Covington"
-longitude = -86.386398
 latitude = 31.304166
+longitude = -86.386398
+state = ""
+state_code_alpha2 = ""
+zip_code = "36420"
+

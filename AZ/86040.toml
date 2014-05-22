@@ -1,6 +1,8 @@
-zip_code = "86040"
-state = "AZ"
 city = "Page"
 county = "Coconino"
-longitude = -111.502009
 latitude = 36.910804
+longitude = -111.502009
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86040"
+

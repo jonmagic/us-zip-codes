@@ -1,6 +1,8 @@
-zip_code = "02462"
-state = "MA"
 city = "Newton Lower Falls"
 county = "Middlesex"
-longitude = -71.209699
 latitude = 42.349496
+longitude = -71.209699
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02462"
+

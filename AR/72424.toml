@@ -1,6 +1,8 @@
-zip_code = "72424"
-state = "AR"
 city = "Datto"
 county = "Clay"
-longitude = -90.730808
 latitude = 36.384747
+longitude = -90.730808
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72424"
+

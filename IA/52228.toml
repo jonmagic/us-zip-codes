@@ -1,6 +1,8 @@
-zip_code = "52228"
-state = "IA"
 city = "Fairfax"
 county = "Linn"
-longitude = -91.764387
 latitude = 41.912837
+longitude = -91.764387
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52228"
+

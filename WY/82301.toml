@@ -1,6 +1,8 @@
-zip_code = "82301"
-state = "WY"
 city = "Rawlins"
 county = "Carbon"
-longitude = -106.921959
 latitude = 41.538075
+longitude = -106.921959
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82301"
+

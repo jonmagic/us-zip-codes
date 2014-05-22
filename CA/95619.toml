@@ -1,6 +1,8 @@
-zip_code = "95619"
-state = "CA"
 city = "Diamond Springs"
 county = "El Dorado"
-longitude = -120.820021
 latitude = 38.629821
+longitude = -120.820021
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95619"
+

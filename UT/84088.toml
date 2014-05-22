@@ -1,6 +1,8 @@
-zip_code = "84088"
-state = "UT"
 city = "West Jordan"
 county = "Salt Lake"
-longitude = -111.98342
 latitude = 40.587629
+longitude = -111.98342
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84088"
+

@@ -1,6 +1,8 @@
-zip_code = "44030"
-state = "OH"
 city = "Conneaut"
 county = "Ashtabula"
-longitude = -80.616195
 latitude = 41.756356
+longitude = -80.616195
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44030"
+

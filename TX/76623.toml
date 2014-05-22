@@ -1,6 +1,8 @@
-zip_code = "76623"
-state = "TX"
 city = "Avalon"
 county = "Ellis"
-longitude = -96.7832
 latitude = 32.221421
+longitude = -96.7832
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76623"
+

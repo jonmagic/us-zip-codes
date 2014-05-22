@@ -1,6 +1,8 @@
-zip_code = "11570"
-state = "NY"
 city = "Rockville Centre"
 county = "Nassau"
-longitude = -73.638523
 latitude = 40.667352
+longitude = -73.638523
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11570"
+

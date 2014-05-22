@@ -1,6 +1,8 @@
-zip_code = "58223"
-state = "ND"
 city = "Cummings"
 county = "Traill"
-longitude = -97.151692
 latitude = 47.454888
+longitude = -97.151692
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58223"
+

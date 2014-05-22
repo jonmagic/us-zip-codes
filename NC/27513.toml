@@ -1,6 +1,8 @@
-zip_code = "27513"
-state = "NC"
 city = "Cary"
 county = "Wake"
-longitude = -78.816564
 latitude = 35.801341
+longitude = -78.816564
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27513"
+

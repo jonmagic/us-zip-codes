@@ -1,6 +1,8 @@
-zip_code = "04553"
-state = "ME"
 city = "Newcastle"
 county = "Lincoln"
-longitude = -69.503427
 latitude = 43.991336
+longitude = -69.503427
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04553"
+

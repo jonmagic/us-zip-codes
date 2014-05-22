@@ -1,6 +1,8 @@
-zip_code = "45661"
-state = "OH"
 city = "Piketon"
 county = "Pike"
-longitude = -83.12101
 latitude = 39.043707
+longitude = -83.12101
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45661"
+

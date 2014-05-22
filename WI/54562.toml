@@ -1,6 +1,8 @@
-zip_code = "54562"
-state = "WI"
 city = "Three Lakes"
 county = "Oneida"
-longitude = -89.157339
 latitude = 45.762075
+longitude = -89.157339
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54562"
+

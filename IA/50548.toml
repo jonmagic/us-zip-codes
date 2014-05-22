@@ -1,6 +1,8 @@
-zip_code = "50548"
-state = "IA"
 city = "Humboldt"
 county = "Humboldt"
-longitude = -94.207763
 latitude = 42.775833
+longitude = -94.207763
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50548"
+

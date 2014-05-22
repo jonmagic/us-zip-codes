@@ -1,6 +1,8 @@
-zip_code = "77850"
-state = "TX"
 city = "Concord"
 county = "Leon"
-longitude = -95.993482
 latitude = 31.313816
+longitude = -95.993482
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77850"
+

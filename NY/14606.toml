@@ -1,6 +1,8 @@
-zip_code = "14606"
-state = "NY"
 city = "Rochester"
 county = "Monroe"
-longitude = -77.691577
 latitude = 43.173612
+longitude = -77.691577
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14606"
+

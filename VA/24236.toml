@@ -1,6 +1,8 @@
-zip_code = "24236"
-state = "VA"
 city = "Damascus"
 county = "Washington"
-longitude = -81.742678
 latitude = 36.645463
+longitude = -81.742678
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24236"
+

@@ -1,6 +1,8 @@
-zip_code = "06384"
-state = "CT"
 city = "Voluntown"
 county = "New London"
-longitude = -71.866587
 latitude = 41.576894
+longitude = -71.866587
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06384"
+

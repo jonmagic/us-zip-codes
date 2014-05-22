@@ -1,6 +1,8 @@
-zip_code = "60120"
-state = "IL"
 city = "Elgin"
 county = "Kane"
-longitude = -88.429777
 latitude = 41.990689
+longitude = -88.429777
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60120"
+

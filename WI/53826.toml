@@ -1,6 +1,8 @@
-zip_code = "53826"
-state = "WI"
 city = "Wauzeka"
 county = "Crawford"
-longitude = -90.957097
 latitude = 43.110147
+longitude = -90.957097
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53826"
+

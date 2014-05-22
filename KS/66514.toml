@@ -1,6 +1,8 @@
-zip_code = "66514"
-state = "KS"
 city = "Milford"
 county = "Geary"
-longitude = -96.874028
 latitude = 39.127855
+longitude = -96.874028
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66514"
+

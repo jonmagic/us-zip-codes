@@ -1,6 +1,8 @@
-zip_code = "18950"
-state = "PA"
 city = "Point Pleasant"
 county = "Bucks"
-longitude = -75.074832
 latitude = 40.416516
+longitude = -75.074832
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18950"
+

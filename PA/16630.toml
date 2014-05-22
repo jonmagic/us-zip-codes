@@ -1,6 +1,8 @@
-zip_code = "16630"
-state = "PA"
 city = "Cresson"
 county = "Cambria"
-longitude = -78.58946
 latitude = 40.470718
+longitude = -78.58946
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16630"
+

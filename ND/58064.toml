@@ -1,6 +1,8 @@
-zip_code = "58064"
-state = "ND"
 city = "Page"
 county = "Cass"
-longitude = -97.515646
 latitude = 47.000029
+longitude = -97.515646
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58064"
+

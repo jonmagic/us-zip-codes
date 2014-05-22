@@ -1,6 +1,8 @@
-zip_code = "10550"
-state = "NY"
 city = "Mount Vernon"
 county = "Westchester"
-longitude = -73.83389
 latitude = 40.909838
+longitude = -73.83389
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10550"
+

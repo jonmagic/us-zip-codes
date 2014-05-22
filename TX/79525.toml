@@ -1,6 +1,8 @@
-zip_code = "79525"
-state = "TX"
 city = "Hawley"
 county = "Jones"
-longitude = -99.923862
 latitude = 32.642251
+longitude = -99.923862
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79525"
+

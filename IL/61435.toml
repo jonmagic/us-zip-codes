@@ -1,6 +1,8 @@
-zip_code = "61435"
-state = "IL"
 city = "Gerlaw"
 county = "Warren"
-longitude = -90.549089
 latitude = 40.986267
+longitude = -90.549089
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61435"
+

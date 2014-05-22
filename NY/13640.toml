@@ -1,6 +1,8 @@
-zip_code = "13640"
-state = "NY"
 city = "Wellesley Island"
 county = "Jefferson"
-longitude = -76.017151
 latitude = 44.321282
+longitude = -76.017151
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13640"
+

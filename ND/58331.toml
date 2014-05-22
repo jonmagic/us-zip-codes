@@ -1,6 +1,8 @@
-zip_code = "58331"
-state = "ND"
 city = "Egeland"
 county = "Towner"
-longitude = -99.123224
 latitude = 48.652908
+longitude = -99.123224
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58331"
+

@@ -1,6 +1,8 @@
-zip_code = "15638"
-state = "PA"
 city = "Hostetter"
 county = "Westmoreland"
-longitude = -79.14313
 latitude = 40.26106
+longitude = -79.14313
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15638"
+

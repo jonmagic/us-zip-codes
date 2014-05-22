@@ -1,6 +1,8 @@
-zip_code = "37719"
-state = "TN"
 city = "Coalfield"
 county = "Morgan"
-longitude = -84.390727
 latitude = 36.035211
+longitude = -84.390727
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37719"
+

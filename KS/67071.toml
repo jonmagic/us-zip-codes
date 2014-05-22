@@ -1,6 +1,8 @@
-zip_code = "67071"
-state = "KS"
 city = "Lake City"
 county = "Barber"
-longitude = -98.818915
 latitude = 37.264177
+longitude = -98.818915
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67071"
+

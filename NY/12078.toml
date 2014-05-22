@@ -1,6 +1,8 @@
-zip_code = "12078"
-state = "NY"
 city = "Gloversville"
 county = "Fulton"
-longitude = -74.344328
 latitude = 43.114958
+longitude = -74.344328
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12078"
+

@@ -1,6 +1,8 @@
-zip_code = "24179"
-state = "VA"
 city = "Vinton"
 county = "Roanoke"
-longitude = -79.877505
 latitude = 37.275674
+longitude = -79.877505
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24179"
+

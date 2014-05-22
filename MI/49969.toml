@@ -1,6 +1,8 @@
-zip_code = "49969"
-state = "MI"
 city = "Watersmeet"
 county = "Gogebic"
-longitude = -89.240577
 latitude = 46.22184
+longitude = -89.240577
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49969"
+

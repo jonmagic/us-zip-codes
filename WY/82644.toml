@@ -1,6 +1,8 @@
-zip_code = "82644"
-state = "WY"
 city = "Mills"
 county = "Natrona"
-longitude = -106.444584
 latitude = 42.947954
+longitude = -106.444584
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82644"
+

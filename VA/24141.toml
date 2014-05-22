@@ -1,6 +1,8 @@
-zip_code = "24141"
-state = "VA"
 city = "Radford"
 county = "Radford"
-longitude = -80.556541
 latitude = 37.119732
+longitude = -80.556541
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24141"
+

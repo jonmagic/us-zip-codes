@@ -1,6 +1,8 @@
-zip_code = "97880"
-state = "OR"
 city = "Ukiah"
 county = "Umatilla"
-longitude = -118.704081
 latitude = 45.498472
+longitude = -118.704081
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97880"
+

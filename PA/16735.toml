@@ -1,6 +1,8 @@
-zip_code = "16735"
-state = "PA"
 city = "Kane"
 county = "Mckean"
-longitude = -78.631755
 latitude = 41.795662
+longitude = -78.631755
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16735"
+

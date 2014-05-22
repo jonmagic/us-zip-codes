@@ -1,6 +1,8 @@
-zip_code = "28391"
-state = "NC"
 city = "Stedman"
 county = "Cumberland"
-longitude = -78.700219
 latitude = 35.030903
+longitude = -78.700219
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28391"
+

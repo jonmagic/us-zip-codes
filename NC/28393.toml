@@ -1,6 +1,8 @@
-zip_code = "28393"
-state = "NC"
 city = "Turkey"
 county = "Sampson"
-longitude = -78.198087
 latitude = 34.984688
+longitude = -78.198087
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28393"
+

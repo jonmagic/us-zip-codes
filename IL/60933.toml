@@ -1,6 +1,8 @@
-zip_code = "60933"
-state = "IL"
 city = "Elliott"
 county = "Ford"
-longitude = -88.271245
 latitude = 40.46483
+longitude = -88.271245
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60933"
+

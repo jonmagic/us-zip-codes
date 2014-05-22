@@ -1,6 +1,8 @@
-zip_code = "12465"
-state = "NY"
 city = "Pine Hill"
 county = "Ulster"
-longitude = -74.473639
 latitude = 42.136293
+longitude = -74.473639
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12465"
+

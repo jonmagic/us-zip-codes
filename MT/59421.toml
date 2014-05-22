@@ -1,6 +1,8 @@
-zip_code = "59421"
-state = "MT"
 city = "Cascade"
 county = "Cascade"
-longitude = -111.730457
 latitude = 47.276562
+longitude = -111.730457
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59421"
+

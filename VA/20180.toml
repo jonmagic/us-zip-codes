@@ -1,6 +1,8 @@
-zip_code = "20180"
-state = "VA"
 city = "Lovettsville"
 county = "Loudoun"
-longitude = -77.659636
 latitude = 39.220432
+longitude = -77.659636
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20180"
+

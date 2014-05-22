@@ -1,6 +1,8 @@
-zip_code = "55031"
-state = "MN"
 city = "Hampton"
 county = "Dakota"
-longitude = -92.955479
 latitude = 44.608467
+longitude = -92.955479
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55031"
+

@@ -1,6 +1,8 @@
-zip_code = "76632"
-state = "TX"
 city = "Chilton"
 county = "Falls"
-longitude = -97.039384
 latitude = 31.303213
+longitude = -97.039384
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76632"
+

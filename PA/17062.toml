@@ -1,6 +1,8 @@
-zip_code = "17062"
-state = "PA"
 city = "Millerstown"
 county = "Perry"
-longitude = -77.154223
 latitude = 40.556195
+longitude = -77.154223
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17062"
+

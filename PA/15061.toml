@@ -1,6 +1,8 @@
-zip_code = "15061"
-state = "PA"
 city = "Monaca"
 county = "Beaver"
-longitude = -80.327814
 latitude = 40.656366
+longitude = -80.327814
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15061"
+

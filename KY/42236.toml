@@ -1,6 +1,8 @@
-zip_code = "42236"
-state = "KY"
 city = "Herndon"
 county = "Christian"
-longitude = -87.604569
 latitude = 36.719274
+longitude = -87.604569
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42236"
+

@@ -1,6 +1,8 @@
-zip_code = "19474"
-state = "PA"
 city = "Skippack"
 county = "Montgomery"
-longitude = -75.403095
 latitude = 40.225109
+longitude = -75.403095
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19474"
+

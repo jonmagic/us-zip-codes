@@ -1,6 +1,8 @@
-zip_code = "83554"
-state = "ID"
 city = "White Bird"
 county = "Idaho"
-longitude = -115.557407
 latitude = 45.889314
+longitude = -115.557407
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83554"
+

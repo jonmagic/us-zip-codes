@@ -1,6 +1,8 @@
-zip_code = "76228"
-state = "TX"
 city = "Bellevue"
 county = "Clay"
-longitude = -98.015081
 latitude = 33.634364
+longitude = -98.015081
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76228"
+

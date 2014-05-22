@@ -1,6 +1,8 @@
-zip_code = "54480"
-state = "WI"
 city = "Stetsonville"
 county = "Taylor"
-longitude = -90.302783
 latitude = 45.19405
+longitude = -90.302783
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54480"
+

@@ -1,6 +1,8 @@
-zip_code = "00685"
-state = "PR"
 city = "San Sebastian"
 county = "San Sebastian"
-longitude = -66.972227
 latitude = 18.3236
+longitude = -66.972227
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00685"
+

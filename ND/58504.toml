@@ -1,6 +1,8 @@
-zip_code = "58504"
-state = "ND"
 city = "Bismarck"
 county = "Burleigh"
-longitude = -100.45598
 latitude = 46.829938
+longitude = -100.45598
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58504"
+

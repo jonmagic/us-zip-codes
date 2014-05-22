@@ -1,6 +1,8 @@
-zip_code = "40955"
-state = "KY"
 city = "Ingram"
 county = "Bell"
-longitude = -83.708181
 latitude = 36.769184
+longitude = -83.708181
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40955"
+

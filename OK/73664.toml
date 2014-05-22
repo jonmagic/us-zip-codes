@@ -1,6 +1,8 @@
-zip_code = "73664"
-state = "OK"
 city = "Sentinel"
 county = "Washita"
-longitude = -99.170439
 latitude = 35.283787
+longitude = -99.170439
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73664"
+

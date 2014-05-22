@@ -1,6 +1,8 @@
-zip_code = "37024"
-state = "TN"
 city = "Brentwood"
 county = "Williamson"
-longitude = -86.907565
 latitude = 35.874553
+longitude = -86.907565
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37024"
+

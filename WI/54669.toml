@@ -1,6 +1,8 @@
-zip_code = "54669"
-state = "WI"
 city = "West Salem"
 county = "La Crosse"
-longitude = -91.120198
 latitude = 43.897572
+longitude = -91.120198
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54669"
+

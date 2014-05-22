@@ -1,6 +1,8 @@
-zip_code = "43543"
-state = "OH"
 city = "Montpelier"
 county = "Williams"
-longitude = -84.588777
 latitude = 41.606061
+longitude = -84.588777
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43543"
+

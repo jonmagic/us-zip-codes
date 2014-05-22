@@ -1,6 +1,8 @@
-zip_code = "50216"
-state = "IA"
 city = "Panora"
 county = "Guthrie"
-longitude = -94.425111
 latitude = 41.650933
+longitude = -94.425111
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50216"
+

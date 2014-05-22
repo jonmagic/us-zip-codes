@@ -1,6 +1,8 @@
-zip_code = "41859"
-state = "KY"
 city = "Dema"
 county = "Knott"
-longitude = -82.783552
 latitude = 37.397578
+longitude = -82.783552
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41859"
+

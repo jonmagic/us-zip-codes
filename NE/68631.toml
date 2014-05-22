@@ -1,6 +1,8 @@
-zip_code = "68631"
-state = "NE"
 city = "Creston"
 county = "Platte"
-longitude = -97.372671
 latitude = 41.718708
+longitude = -97.372671
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68631"
+

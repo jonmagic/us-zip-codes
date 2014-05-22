@@ -1,6 +1,8 @@
-zip_code = "55053"
-state = "MN"
 city = "Nerstrand"
 county = "Rice"
-longitude = -93.242155
 latitude = 44.32738
+longitude = -93.242155
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55053"
+

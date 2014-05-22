@@ -1,6 +1,8 @@
-zip_code = "71038"
-state = "LA"
 city = "Haynesville"
 county = "Claiborne"
-longitude = -93.033657
 latitude = 32.833762
+longitude = -93.033657
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71038"
+

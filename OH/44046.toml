@@ -1,6 +1,8 @@
-zip_code = "44046"
-state = "OH"
 city = "Huntsburg"
 county = "Geauga"
-longitude = -81.073366
 latitude = 41.538433
+longitude = -81.073366
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44046"
+

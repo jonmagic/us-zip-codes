@@ -1,6 +1,8 @@
-zip_code = "15658"
-state = "PA"
 city = "Ligonier"
 county = "Westmoreland"
-longitude = -79.251145
 latitude = 40.271322
+longitude = -79.251145
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15658"
+

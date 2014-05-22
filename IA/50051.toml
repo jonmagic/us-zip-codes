@@ -1,6 +1,8 @@
-zip_code = "50051"
-state = "IA"
 city = "Clemons"
 county = "Marshall"
-longitude = -93.149072
 latitude = 42.11412
+longitude = -93.149072
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50051"
+

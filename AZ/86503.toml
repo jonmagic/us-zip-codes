@@ -1,6 +1,8 @@
-zip_code = "86503"
-state = "AZ"
 city = "Chinle"
 county = "Apache"
-longitude = -109.691925
 latitude = 36.527297
+longitude = -109.691925
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86503"
+

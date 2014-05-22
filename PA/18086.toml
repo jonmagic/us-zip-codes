@@ -1,6 +1,8 @@
-zip_code = "18086"
-state = "PA"
 city = "Treichlers"
 county = "Northampton"
-longitude = -75.54494
 latitude = 40.736119
+longitude = -75.54494
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18086"
+

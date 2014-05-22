@@ -1,6 +1,8 @@
-zip_code = "64625"
-state = "MO"
 city = "Breckenridge"
 county = "Caldwell"
-longitude = -93.876612
 latitude = 39.687628
+longitude = -93.876612
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64625"
+

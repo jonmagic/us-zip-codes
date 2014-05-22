@@ -1,6 +1,8 @@
-zip_code = "05461"
-state = "VT"
 city = "Hinesburg"
 county = "Chittenden"
-longitude = -73.067858
 latitude = 44.4553
+longitude = -73.067858
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05461"
+

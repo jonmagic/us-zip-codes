@@ -1,6 +1,8 @@
-zip_code = "33890"
-state = "FL"
 city = "Zolfo Springs"
 county = "Hardee"
-longitude = -81.721609
 latitude = 27.457687
+longitude = -81.721609
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33890"
+

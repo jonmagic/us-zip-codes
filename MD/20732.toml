@@ -1,6 +1,8 @@
-zip_code = "20732"
-state = "MD"
 city = "Chesapeake Beach"
 county = "Calvert"
-longitude = -76.526169
 latitude = 38.565841
+longitude = -76.526169
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20732"
+

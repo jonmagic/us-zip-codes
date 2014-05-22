@@ -1,6 +1,8 @@
-zip_code = "66422"
-state = "KS"
 city = "Emmett"
 county = "Pottawatomie"
-longitude = -96.10416
 latitude = 39.347682
+longitude = -96.10416
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66422"
+

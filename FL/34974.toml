@@ -1,6 +1,8 @@
-zip_code = "34974"
-state = "FL"
 city = "Okeechobee"
 county = "Okeechobee"
-longitude = -80.827757
 latitude = 27.216626
+longitude = -80.827757
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34974"
+

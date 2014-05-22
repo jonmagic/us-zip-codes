@@ -1,6 +1,8 @@
-zip_code = "64748"
-state = "MO"
 city = "Golden City"
 county = "Barton"
-longitude = -94.144032
 latitude = 37.417327
+longitude = -94.144032
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64748"
+

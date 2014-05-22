@@ -1,6 +1,8 @@
-zip_code = "15376"
-state = "PA"
 city = "West Alexander"
 county = "Washington"
-longitude = -80.270231
 latitude = 40.128081
+longitude = -80.270231
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15376"
+

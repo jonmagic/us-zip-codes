@@ -1,6 +1,8 @@
-zip_code = "43524"
-state = "OH"
 city = "Hamler"
 county = "Henry"
-longitude = -84.035807
 latitude = 41.230082
+longitude = -84.035807
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43524"
+

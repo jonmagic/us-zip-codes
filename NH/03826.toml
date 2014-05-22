@@ -1,6 +1,8 @@
-zip_code = "03826"
-state = "NH"
 city = "East Hampstead"
 county = "Rockingham"
-longitude = -71.14269
 latitude = 42.893629
+longitude = -71.14269
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03826"
+

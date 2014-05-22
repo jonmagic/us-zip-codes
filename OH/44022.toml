@@ -1,6 +1,8 @@
-zip_code = "44022"
-state = "OH"
 city = "Chagrin Falls"
 county = "Cuyahoga"
-longitude = -81.431436
 latitude = 41.449353
+longitude = -81.431436
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44022"
+

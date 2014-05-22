@@ -1,6 +1,8 @@
-zip_code = "30747"
-state = "GA"
 city = "Summerville"
 county = "Chattooga"
-longitude = -85.315546
 latitude = 34.484159
+longitude = -85.315546
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30747"
+

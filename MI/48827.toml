@@ -1,6 +1,8 @@
-zip_code = "48827"
-state = "MI"
 city = "Eaton Rapids"
 county = "Eaton"
-longitude = -84.797012
 latitude = 42.590246
+longitude = -84.797012
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48827"
+

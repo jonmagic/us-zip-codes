@@ -1,6 +1,8 @@
-zip_code = "38547"
-state = "TN"
 city = "Brush Creek"
 county = "Smith"
-longitude = -86.00636
 latitude = 36.166413
+longitude = -86.00636
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38547"
+

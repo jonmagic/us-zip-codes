@@ -1,6 +1,8 @@
-zip_code = "35615"
-state = "AL"
 city = "Belle Mina"
 county = "Limestone"
-longitude = -87.030479
 latitude = 34.774907
+longitude = -87.030479
+state = ""
+state_code_alpha2 = ""
+zip_code = "35615"
+

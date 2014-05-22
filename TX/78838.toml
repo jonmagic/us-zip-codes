@@ -1,6 +1,8 @@
-zip_code = "78838"
-state = "TX"
 city = "Concan"
 county = "Uvalde"
-longitude = -99.762039
 latitude = 29.357005
+longitude = -99.762039
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78838"
+

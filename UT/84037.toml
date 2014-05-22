@@ -1,6 +1,8 @@
-zip_code = "84037"
-state = "UT"
 city = "Kaysville"
 county = "Davis"
-longitude = -111.92797
 latitude = 40.960691
+longitude = -111.92797
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84037"
+

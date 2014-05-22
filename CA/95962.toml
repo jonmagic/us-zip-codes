@@ -1,6 +1,8 @@
-zip_code = "95962"
-state = "CA"
 city = "Oregon House"
 county = "Yuba"
-longitude = -121.347605
 latitude = 39.210524
+longitude = -121.347605
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95962"
+

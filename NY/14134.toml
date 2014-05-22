@@ -1,6 +1,8 @@
-zip_code = "14134"
-state = "NY"
 city = "Sardinia"
 county = "Erie"
-longitude = -78.517233
 latitude = 42.532281
+longitude = -78.517233
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14134"
+

@@ -1,6 +1,8 @@
-zip_code = "07832"
-state = "NJ"
 city = "Columbia"
 county = "Warren"
-longitude = -75.029163
 latitude = 40.893979
+longitude = -75.029163
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07832"
+

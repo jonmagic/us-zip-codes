@@ -1,6 +1,8 @@
-zip_code = "08861"
-state = "NJ"
 city = "Perth Amboy"
 county = "Middlesex"
-longitude = -74.279144
 latitude = 40.520654
+longitude = -74.279144
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08861"
+

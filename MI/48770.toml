@@ -1,6 +1,8 @@
-zip_code = "48770"
-state = "MI"
 city = "Whittemore"
 county = "Iosco"
-longitude = -83.688778
 latitude = 44.262826
+longitude = -83.688778
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48770"
+

@@ -1,6 +1,8 @@
-zip_code = "20874"
-state = "MD"
 city = "Germantown"
 county = "Montgomery"
-longitude = -77.282223
 latitude = 39.135512
+longitude = -77.282223
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20874"
+

@@ -1,6 +1,8 @@
-zip_code = "26224"
-state = "WV"
 city = "Helvetia"
 county = "Randolph"
-longitude = -79.850148
 latitude = 38.89487
+longitude = -79.850148
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26224"
+

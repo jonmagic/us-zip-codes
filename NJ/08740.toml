@@ -1,6 +1,8 @@
-zip_code = "08740"
-state = "NJ"
 city = "Ocean Gate"
 county = "Ocean"
-longitude = -74.133332
 latitude = 39.926628
+longitude = -74.133332
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08740"
+

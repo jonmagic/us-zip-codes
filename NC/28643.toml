@@ -1,6 +1,8 @@
-zip_code = "28643"
-state = "NC"
 city = "Lansing"
 county = "Ashe"
-longitude = -81.553069
 latitude = 36.502581
+longitude = -81.553069
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28643"
+

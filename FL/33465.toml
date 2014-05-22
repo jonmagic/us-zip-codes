@@ -1,6 +1,8 @@
-zip_code = "33465"
-state = "FL"
 city = "Lake Worth"
 county = "Palm Beach"
-longitude = -80.132569
 latitude = 26.628272
+longitude = -80.132569
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33465"
+

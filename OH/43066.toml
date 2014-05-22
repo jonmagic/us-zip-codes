@@ -1,6 +1,8 @@
-zip_code = "43066"
-state = "OH"
 city = "Radnor"
 county = "Delaware"
-longitude = -83.172985
 latitude = 40.380541
+longitude = -83.172985
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43066"
+

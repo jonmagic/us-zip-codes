@@ -1,6 +1,8 @@
-zip_code = "81154"
-state = "CO"
 city = "South Fork"
 county = "Rio Grande"
-longitude = -106.597775
 latitude = 37.638307
+longitude = -106.597775
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81154"
+

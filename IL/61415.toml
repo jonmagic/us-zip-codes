@@ -1,6 +1,8 @@
-zip_code = "61415"
-state = "IL"
 city = "Avon"
 county = "Fulton"
-longitude = -90.362984
 latitude = 40.608139
+longitude = -90.362984
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61415"
+

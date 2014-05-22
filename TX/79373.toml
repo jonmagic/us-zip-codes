@@ -1,6 +1,8 @@
-zip_code = "79373"
-state = "TX"
 city = "Tahoka"
 county = "Lynn"
-longitude = -101.816443
 latitude = 33.178077
+longitude = -101.816443
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79373"
+

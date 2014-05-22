@@ -1,6 +1,8 @@
-zip_code = "03603"
-state = "NH"
 city = "Charlestown"
 county = "Sullivan"
-longitude = -72.370222
 latitude = 43.268117
+longitude = -72.370222
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03603"
+

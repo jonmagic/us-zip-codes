@@ -1,6 +1,8 @@
-zip_code = "41568"
-state = "KY"
 city = "Stopover"
 county = "Pike"
-longitude = -82.078363
 latitude = 37.509279
+longitude = -82.078363
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41568"
+

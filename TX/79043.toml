@@ -1,6 +1,8 @@
-zip_code = "79043"
-state = "TX"
 city = "Hart"
 county = "Castro"
-longitude = -102.117552
 latitude = 34.385133
+longitude = -102.117552
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79043"
+

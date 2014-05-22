@@ -1,6 +1,8 @@
-zip_code = "47037"
-state = "IN"
 city = "Osgood"
 county = "Ripley"
-longitude = -85.285367
 latitude = 39.172808
+longitude = -85.285367
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47037"
+

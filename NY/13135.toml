@@ -1,6 +1,8 @@
-zip_code = "13135"
-state = "NY"
 city = "Phoenix"
 county = "Oswego"
-longitude = -76.260803
 latitude = 43.33021
+longitude = -76.260803
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13135"
+

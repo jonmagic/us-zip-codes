@@ -1,6 +1,8 @@
-zip_code = "81232"
-state = "CO"
 city = "Hillside"
 county = "Fremont"
-longitude = -105.642451
 latitude = 38.285533
+longitude = -105.642451
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81232"
+

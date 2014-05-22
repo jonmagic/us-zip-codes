@@ -1,6 +1,8 @@
-zip_code = "16063"
-state = "PA"
 city = "Zelienople"
 county = "Butler"
-longitude = -80.10939
 latitude = 40.7609
+longitude = -80.10939
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16063"
+

@@ -1,6 +1,8 @@
-zip_code = "28719"
-state = "NC"
 city = "Cherokee"
 county = "Swain"
-longitude = -83.34906
 latitude = 35.494881
+longitude = -83.34906
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28719"
+

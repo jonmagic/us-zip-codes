@@ -1,6 +1,8 @@
-zip_code = "14842"
-state = "NY"
 city = "Himrod"
 county = "Yates"
-longitude = -76.96452
 latitude = 42.577714
+longitude = -76.96452
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14842"
+

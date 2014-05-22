@@ -1,6 +1,8 @@
-zip_code = "45350"
-state = "OH"
 city = "North Star"
 county = "Darke"
-longitude = -84.619129
 latitude = 40.135426
+longitude = -84.619129
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45350"
+

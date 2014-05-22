@@ -1,6 +1,8 @@
-zip_code = "70346"
-state = "LA"
 city = "Donaldsonville"
 county = "Ascension"
-longitude = -90.967424
 latitude = 30.159584
+longitude = -90.967424
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70346"
+

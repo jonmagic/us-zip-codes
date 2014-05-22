@@ -1,6 +1,8 @@
-zip_code = "60470"
-state = "IL"
 city = "Ransom"
 county = "La Salle"
-longitude = -88.663755
 latitude = 41.172532
+longitude = -88.663755
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60470"
+

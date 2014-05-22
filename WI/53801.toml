@@ -1,6 +1,8 @@
-zip_code = "53801"
-state = "WI"
 city = "Bagley"
 county = "Grant"
-longitude = -90.823145
 latitude = 42.796401
+longitude = -90.823145
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53801"
+

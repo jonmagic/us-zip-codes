@@ -1,6 +1,8 @@
-zip_code = "36275"
-state = "AL"
 city = "Spring Garden"
 county = "Cherokee"
-longitude = -85.552143
 latitude = 33.977829
+longitude = -85.552143
+state = ""
+state_code_alpha2 = ""
+zip_code = "36275"
+

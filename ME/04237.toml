@@ -1,6 +1,8 @@
-zip_code = "04237"
-state = "ME"
 city = "Hanover"
 county = "Oxford"
-longitude = -70.735691
 latitude = 44.494347
+longitude = -70.735691
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04237"
+

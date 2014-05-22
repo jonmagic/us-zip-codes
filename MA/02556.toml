@@ -1,6 +1,8 @@
-zip_code = "02556"
-state = "MA"
 city = "North Falmouth"
 county = "Barnstable"
-longitude = -70.375475
 latitude = 41.652967
+longitude = -70.375475
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02556"
+

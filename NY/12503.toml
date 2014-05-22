@@ -1,6 +1,8 @@
-zip_code = "12503"
-state = "NY"
 city = "Ancramdale"
 county = "Columbia"
-longitude = -73.587575
 latitude = 42.043039
+longitude = -73.587575
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12503"
+

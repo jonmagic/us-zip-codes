@@ -1,6 +1,8 @@
-zip_code = "22922"
-state = "VA"
 city = "Arrington"
 county = "Nelson"
-longitude = -78.947944
 latitude = 37.690183
+longitude = -78.947944
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22922"
+

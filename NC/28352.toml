@@ -1,6 +1,8 @@
-zip_code = "28352"
-state = "NC"
 city = "Laurinburg"
 county = "Scotland"
-longitude = -79.475606
 latitude = 34.796929
+longitude = -79.475606
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28352"
+

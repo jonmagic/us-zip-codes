@@ -1,6 +1,8 @@
-zip_code = "08741"
-state = "NJ"
 city = "Pine Beach"
 county = "Ocean"
-longitude = -74.109626
 latitude = 40.003246
+longitude = -74.109626
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08741"
+

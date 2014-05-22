@@ -1,6 +1,8 @@
-zip_code = "78641"
-state = "TX"
 city = "Leander"
 county = "Williamson"
-longitude = -97.857453
 latitude = 30.583474
+longitude = -97.857453
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78641"
+

@@ -1,6 +1,8 @@
-zip_code = "49878"
-state = "MI"
 city = "Rapid River"
 county = "Delta"
-longitude = -86.804734
 latitude = 45.913952
+longitude = -86.804734
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49878"
+

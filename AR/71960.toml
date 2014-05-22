@@ -1,6 +1,8 @@
-zip_code = "71960"
-state = "AR"
 city = "Norman"
 county = "Montgomery"
-longitude = -93.669613
 latitude = 34.474709
+longitude = -93.669613
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71960"
+

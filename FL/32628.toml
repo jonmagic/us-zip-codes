@@ -1,6 +1,8 @@
-zip_code = "32628"
-state = "FL"
 city = "Cross City"
 county = "Dixie"
-longitude = -83.089669
 latitude = 29.680616
+longitude = -83.089669
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32628"
+

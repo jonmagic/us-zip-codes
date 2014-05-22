@@ -1,6 +1,8 @@
-zip_code = "47358"
-state = "IN"
 city = "Modoc"
 county = "Randolph"
-longitude = -85.108514
 latitude = 40.055419
+longitude = -85.108514
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47358"
+

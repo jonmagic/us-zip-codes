@@ -1,6 +1,8 @@
-zip_code = "17332"
-state = "PA"
 city = "Hanover"
 county = "York"
-longitude = -76.735116
 latitude = 39.775037
+longitude = -76.735116
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17332"
+

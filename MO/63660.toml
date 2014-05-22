@@ -1,6 +1,8 @@
-zip_code = "63660"
-state = "MO"
 city = "Mineral Point"
 county = "Washington"
-longitude = -90.742423
 latitude = 37.936112
+longitude = -90.742423
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63660"
+

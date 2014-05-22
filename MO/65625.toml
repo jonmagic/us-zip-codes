@@ -1,6 +1,8 @@
-zip_code = "65625"
-state = "MO"
 city = "Cassville"
 county = "Barry"
-longitude = -93.875744
 latitude = 36.683825
+longitude = -93.875744
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65625"
+

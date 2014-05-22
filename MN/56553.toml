@@ -1,6 +1,8 @@
-zip_code = "56553"
-state = "MN"
 city = "Kent"
 county = "Wilkin"
-longitude = -96.528032
 latitude = 46.326166
+longitude = -96.528032
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56553"
+

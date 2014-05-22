@@ -1,6 +1,8 @@
-zip_code = "63665"
-state = "MO"
 city = "Redford"
 county = "Reynolds"
-longitude = -91.024337
 latitude = 37.327153
+longitude = -91.024337
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63665"
+

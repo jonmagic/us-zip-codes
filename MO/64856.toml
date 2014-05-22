@@ -1,6 +1,8 @@
-zip_code = "64856"
-state = "MO"
 city = "Pineville"
 county = "Mcdonald"
-longitude = -94.377022
 latitude = 36.573955
+longitude = -94.377022
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64856"
+

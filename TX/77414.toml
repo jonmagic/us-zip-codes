@@ -1,6 +1,8 @@
-zip_code = "77414"
-state = "TX"
 city = "Bay City"
 county = "Matagorda"
-longitude = -95.917347
 latitude = 28.86362
+longitude = -95.917347
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77414"
+

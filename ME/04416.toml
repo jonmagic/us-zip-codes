@@ -1,6 +1,8 @@
-zip_code = "04416"
-state = "ME"
 city = "Bucksport"
 county = "Hancock"
-longitude = -68.773241
 latitude = 44.600448
+longitude = -68.773241
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04416"
+

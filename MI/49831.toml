@@ -1,6 +1,8 @@
-zip_code = "49831"
-state = "MI"
 city = "Felch"
 county = "Dickinson"
-longitude = -87.793865
 latitude = 46.022634
+longitude = -87.793865
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49831"
+

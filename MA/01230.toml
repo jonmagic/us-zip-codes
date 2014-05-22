@@ -1,6 +1,8 @@
-zip_code = "01230"
-state = "MA"
 city = "Great Barrington"
 county = "Berkshire"
-longitude = -73.26665
 latitude = 42.299392
+longitude = -73.26665
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01230"
+

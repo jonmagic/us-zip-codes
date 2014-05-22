@@ -1,6 +1,8 @@
-zip_code = "53582"
-state = "WI"
 city = "Ridgeway"
 county = "Iowa"
-longitude = -89.986458
 latitude = 43.016577
+longitude = -89.986458
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53582"
+

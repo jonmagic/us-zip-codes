@@ -1,6 +1,8 @@
-zip_code = "21080"
-state = "MD"
 city = "Henryton"
 county = "Carroll"
-longitude = -77.049302
 latitude = 39.534703
+longitude = -77.049302
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21080"
+

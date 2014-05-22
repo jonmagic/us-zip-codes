@@ -1,6 +1,8 @@
-zip_code = "14418"
-state = "NY"
 city = "Branchport"
 county = "Yates"
-longitude = -77.227187
 latitude = 42.622634
+longitude = -77.227187
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14418"
+

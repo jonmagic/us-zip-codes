@@ -1,6 +1,8 @@
-zip_code = "30109"
-state = "GA"
 city = "Bowdon Junction"
 county = "Carroll"
-longitude = -85.136227
 latitude = 33.653355
+longitude = -85.136227
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30109"
+

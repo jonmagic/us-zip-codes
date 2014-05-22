@@ -1,6 +1,8 @@
-zip_code = "15479"
-state = "PA"
 city = "Smithton"
 county = "Westmoreland"
-longitude = -79.738092
 latitude = 40.155299
+longitude = -79.738092
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15479"
+

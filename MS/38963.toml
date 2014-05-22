@@ -1,6 +1,8 @@
-zip_code = "38963"
-state = "MS"
 city = "Tutwiler"
 county = "Tallahatchie"
-longitude = -90.349894
 latitude = 34.022051
+longitude = -90.349894
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38963"
+

@@ -1,6 +1,8 @@
-zip_code = "41826"
-state = "KY"
 city = "Jeremiah"
 county = "Letcher"
-longitude = -82.837148
 latitude = 37.135577
+longitude = -82.837148
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41826"
+

@@ -1,6 +1,8 @@
-zip_code = "44092"
-state = "OH"
 city = "Wickliffe"
 county = "Lake"
-longitude = -81.458638
 latitude = 41.597299
+longitude = -81.458638
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44092"
+

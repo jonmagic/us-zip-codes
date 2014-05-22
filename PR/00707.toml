@@ -1,6 +1,8 @@
-zip_code = "00707"
-state = "PR"
 city = "Maunabo"
 county = "Maunabo"
-longitude = -65.898719
 latitude = 18.007014
+longitude = -65.898719
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00707"
+

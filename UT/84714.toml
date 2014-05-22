@@ -1,6 +1,8 @@
-zip_code = "84714"
-state = "UT"
 city = "Beryl"
 county = "Iron"
-longitude = -113.663891
 latitude = 37.721369
+longitude = -113.663891
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84714"
+

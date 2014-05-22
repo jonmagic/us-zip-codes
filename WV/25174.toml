@@ -1,6 +1,8 @@
-zip_code = "25174"
-state = "WV"
 city = "Rock Creek"
 county = "Raleigh"
-longitude = -81.418351
 latitude = 37.854721
+longitude = -81.418351
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25174"
+

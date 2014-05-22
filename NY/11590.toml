@@ -1,6 +1,8 @@
-zip_code = "11590"
-state = "NY"
 city = "Westbury"
 county = "Nassau"
-longitude = -73.571521
 latitude = 40.74505
+longitude = -73.571521
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11590"
+

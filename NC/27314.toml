@@ -1,6 +1,8 @@
-zip_code = "27314"
-state = "NC"
 city = "Prospect Hill"
 county = "Caswell"
-longitude = -79.200365
 latitude = 36.293921
+longitude = -79.200365
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27314"
+

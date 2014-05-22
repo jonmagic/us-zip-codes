@@ -1,6 +1,8 @@
-zip_code = "73530"
-state = "OK"
 city = "Davidson"
 county = "Tillman"
-longitude = -99.076314
 latitude = 34.242236
+longitude = -99.076314
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73530"
+

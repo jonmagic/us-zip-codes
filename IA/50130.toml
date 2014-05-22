@@ -1,6 +1,8 @@
-zip_code = "50130"
-state = "IA"
 city = "Jewell"
 county = "Hamilton"
-longitude = -93.721503
 latitude = 42.339466
+longitude = -93.721503
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50130"
+

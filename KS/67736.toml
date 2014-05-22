@@ -1,6 +1,8 @@
-zip_code = "67736"
-state = "KS"
 city = "Gove"
 county = "Gove"
-longitude = -100.483367
 latitude = 38.915304
+longitude = -100.483367
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67736"
+

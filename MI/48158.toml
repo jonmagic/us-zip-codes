@@ -1,6 +1,8 @@
-zip_code = "48158"
-state = "MI"
 city = "Manchester"
 county = "Washtenaw"
-longitude = -84.013795
 latitude = 42.18314
+longitude = -84.013795
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48158"
+

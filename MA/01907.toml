@@ -1,6 +1,8 @@
-zip_code = "01907"
-state = "MA"
 city = "Swampscott"
 county = "Essex"
-longitude = -70.905893
 latitude = 42.513295
+longitude = -70.905893
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01907"
+

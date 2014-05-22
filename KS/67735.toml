@@ -1,6 +1,8 @@
-zip_code = "67735"
-state = "KS"
 city = "Goodland"
 county = "Sherman"
-longitude = -101.798885
 latitude = 39.358123
+longitude = -101.798885
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67735"
+

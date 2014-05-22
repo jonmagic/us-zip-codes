@@ -1,6 +1,8 @@
-zip_code = "78382"
-state = "TX"
 city = "Rockport"
 county = "Aransas"
-longitude = -97.101567
 latitude = 28.070458
+longitude = -97.101567
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78382"
+

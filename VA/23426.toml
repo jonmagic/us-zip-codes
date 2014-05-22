@@ -1,6 +1,8 @@
-zip_code = "23426"
-state = "VA"
 city = "Sanford"
 county = "Accomack"
-longitude = -75.678111
 latitude = 37.922894
+longitude = -75.678111
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23426"
+

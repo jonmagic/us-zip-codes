@@ -1,6 +1,8 @@
-zip_code = "69144"
-state = "NE"
 city = "Keystone"
 county = "Keith"
-longitude = -101.604569
 latitude = 41.293525
+longitude = -101.604569
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69144"
+

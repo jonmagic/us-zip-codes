@@ -1,6 +1,8 @@
-zip_code = "56009"
-state = "MN"
 city = "Alden"
 county = "Freeborn"
-longitude = -93.532143
 latitude = 43.733525
+longitude = -93.532143
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56009"
+

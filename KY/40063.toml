@@ -1,6 +1,8 @@
-zip_code = "40063"
-state = "KY"
 city = "Saint Mary"
 county = "Marion"
-longitude = -85.355132
 latitude = 37.579519
+longitude = -85.355132
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40063"
+

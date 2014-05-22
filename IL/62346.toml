@@ -1,6 +1,8 @@
-zip_code = "62346"
-state = "IL"
 city = "La Prairie"
 county = "Adams"
-longitude = -91.004209
 latitude = 40.148051
+longitude = -91.004209
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62346"
+

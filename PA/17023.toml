@@ -1,6 +1,8 @@
-zip_code = "17023"
-state = "PA"
 city = "Elizabethville"
 county = "Dauphin"
-longitude = -76.767913
 latitude = 40.584804
+longitude = -76.767913
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17023"
+

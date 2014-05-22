@@ -1,6 +1,8 @@
-zip_code = "64060"
-state = "MO"
 city = "Kearney"
 county = "Clay"
-longitude = -94.363191
 latitude = 39.374073
+longitude = -94.363191
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64060"
+

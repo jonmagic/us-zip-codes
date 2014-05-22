@@ -1,6 +1,8 @@
-zip_code = "67363"
-state = "KS"
 city = "Sycamore"
 county = "Montgomery"
-longitude = -95.71697
 latitude = 37.328119
+longitude = -95.71697
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67363"
+

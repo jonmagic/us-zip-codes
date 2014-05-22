@@ -1,6 +1,8 @@
-zip_code = "61011"
-state = "IL"
 city = "Caledonia"
 county = "Boone"
-longitude = -88.843027
 latitude = 42.397024
+longitude = -88.843027
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61011"
+

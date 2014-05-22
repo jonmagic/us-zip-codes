@@ -1,6 +1,8 @@
-zip_code = "68937"
-state = "NE"
 city = "Elwood"
 county = "Gosper"
-longitude = -99.831972
 latitude = 40.56962
+longitude = -99.831972
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68937"
+

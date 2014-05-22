@@ -1,6 +1,8 @@
-zip_code = "25880"
-state = "WV"
 city = "Mount Hope"
 county = "Fayette"
-longitude = -81.19331
 latitude = 38.00309
+longitude = -81.19331
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25880"
+

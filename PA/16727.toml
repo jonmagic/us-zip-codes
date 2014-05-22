@@ -1,6 +1,8 @@
-zip_code = "16727"
-state = "PA"
 city = "Derrick City"
 county = "Mckean"
-longitude = -78.546304
 latitude = 41.982786
+longitude = -78.546304
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16727"
+

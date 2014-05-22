@@ -1,6 +1,8 @@
-zip_code = "39743"
-state = "MS"
 city = "Crawford"
 county = "Lowndes"
-longitude = -88.556056
 latitude = 33.334688
+longitude = -88.556056
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39743"
+

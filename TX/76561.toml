@@ -1,6 +1,8 @@
-zip_code = "76561"
-state = "TX"
 city = "Oglesby"
 county = "Coryell"
-longitude = -97.560418
 latitude = 31.415049
+longitude = -97.560418
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76561"
+

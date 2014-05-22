@@ -1,6 +1,8 @@
-zip_code = "99321"
-state = "WA"
 city = "Beverly"
 county = "Grant"
-longitude = -119.935689
 latitude = 46.844992
+longitude = -119.935689
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99321"
+

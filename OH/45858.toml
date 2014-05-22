@@ -1,6 +1,8 @@
-zip_code = "45858"
-state = "OH"
 city = "Mc Comb"
 county = "Hancock"
-longitude = -83.784671
 latitude = 41.09817
+longitude = -83.784671
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45858"
+

@@ -1,6 +1,8 @@
-zip_code = "59257"
-state = "MT"
 city = "Redstone"
 county = "Sheridan"
-longitude = -104.940164
 latitude = 48.728018
+longitude = -104.940164
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59257"
+

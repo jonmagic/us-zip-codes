@@ -1,6 +1,8 @@
-zip_code = "14091"
-state = "NY"
 city = "Lawtons"
 county = "Erie"
-longitude = -78.94475
 latitude = 42.54386
+longitude = -78.94475
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14091"
+

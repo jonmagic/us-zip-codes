@@ -1,6 +1,8 @@
-zip_code = "53901"
-state = "WI"
 city = "Portage"
 county = "Columbia"
-longitude = -89.399335
 latitude = 43.50666
+longitude = -89.399335
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53901"
+

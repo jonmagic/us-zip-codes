@@ -1,6 +1,8 @@
-zip_code = "29115"
-state = "SC"
 city = "Orangeburg"
 county = "Orangeburg"
-longitude = -80.821825
 latitude = 33.490935
+longitude = -80.821825
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29115"
+

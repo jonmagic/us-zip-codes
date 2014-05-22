@@ -1,6 +1,8 @@
-zip_code = "43440"
-state = "OH"
 city = "Lakeside Marblehead"
 county = "Ottawa"
-longitude = -82.776567
 latitude = 41.524698
+longitude = -82.776567
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43440"
+

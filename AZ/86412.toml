@@ -1,6 +1,8 @@
-zip_code = "86412"
-state = "AZ"
 city = "Hualapai"
 county = "Mohave"
-longitude = -113.843241
 latitude = 35.397172
+longitude = -113.843241
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86412"
+

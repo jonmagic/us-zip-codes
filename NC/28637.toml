@@ -1,6 +1,8 @@
-zip_code = "28637"
-state = "NC"
 city = "Hildebran"
 county = "Burke"
-longitude = -81.497816
 latitude = 35.727107
+longitude = -81.497816
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28637"
+

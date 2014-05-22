@@ -1,6 +1,8 @@
-zip_code = "80530"
-state = "CO"
 city = "Frederick"
 county = "Weld"
-longitude = -104.938057
 latitude = 40.123557
+longitude = -104.938057
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80530"
+

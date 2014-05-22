@@ -1,6 +1,8 @@
-zip_code = "87565"
-state = "NM"
 city = "San Jose"
 county = "San Miguel"
-longitude = -105.544995
 latitude = 35.422716
+longitude = -105.544995
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87565"
+

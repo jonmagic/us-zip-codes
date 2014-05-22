@@ -1,6 +1,8 @@
-zip_code = "97875"
-state = "OR"
 city = "Stanfield"
 county = "Umatilla"
-longitude = -119.176169
 latitude = 45.806358
+longitude = -119.176169
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97875"
+

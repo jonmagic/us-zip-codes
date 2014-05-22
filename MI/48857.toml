@@ -1,6 +1,8 @@
-zip_code = "48857"
-state = "MI"
 city = "Morrice"
 county = "Shiawassee"
-longitude = -84.136097
 latitude = 42.844288
+longitude = -84.136097
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48857"
+

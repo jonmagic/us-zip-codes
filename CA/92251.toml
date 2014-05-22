@@ -1,6 +1,8 @@
-zip_code = "92251"
-state = "CA"
 city = "Imperial"
 county = "Imperial"
-longitude = -115.640538
 latitude = 33.008903
+longitude = -115.640538
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92251"
+

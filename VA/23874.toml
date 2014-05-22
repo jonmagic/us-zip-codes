@@ -1,6 +1,8 @@
-zip_code = "23874"
-state = "VA"
 city = "Newsoms"
 county = "Southampton"
-longitude = -77.092706
 latitude = 36.607792
+longitude = -77.092706
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23874"
+

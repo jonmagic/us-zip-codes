@@ -1,6 +1,8 @@
-zip_code = "95547"
-state = "CA"
 city = "Hydesville"
 county = "Humboldt"
-longitude = -124.09898
 latitude = 40.548691
+longitude = -124.09898
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95547"
+

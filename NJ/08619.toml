@@ -1,6 +1,8 @@
-zip_code = "08619"
-state = "NJ"
 city = "Trenton"
 county = "Mercer"
-longitude = -74.696151
 latitude = 40.241808
+longitude = -74.696151
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08619"
+

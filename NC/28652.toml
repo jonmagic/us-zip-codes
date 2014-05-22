@@ -1,6 +1,8 @@
-zip_code = "28652"
-state = "NC"
 city = "Minneapolis"
 county = "Avery"
-longitude = -81.934265
 latitude = 36.086466
+longitude = -81.934265
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28652"
+

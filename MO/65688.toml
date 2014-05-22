@@ -1,6 +1,8 @@
-zip_code = "65688"
-state = "MO"
 city = "Brandsville"
 county = "Howell"
-longitude = -91.697596
 latitude = 36.648817
+longitude = -91.697596
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65688"
+

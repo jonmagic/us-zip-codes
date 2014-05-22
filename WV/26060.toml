@@ -1,6 +1,8 @@
-zip_code = "26060"
-state = "WV"
 city = "Valley Grove"
 county = "Ohio"
-longitude = -80.589611
 latitude = 40.078249
+longitude = -80.589611
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26060"
+

@@ -1,6 +1,8 @@
-zip_code = "17094"
-state = "PA"
 city = "Thompsontown"
 county = "Juniata"
-longitude = -77.235359
 latitude = 40.565325
+longitude = -77.235359
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17094"
+

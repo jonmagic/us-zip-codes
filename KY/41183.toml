@@ -1,6 +1,8 @@
-zip_code = "41183"
-state = "KY"
 city = "Worthington"
 county = "Greenup"
-longitude = -82.727678
 latitude = 38.546615
+longitude = -82.727678
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41183"
+

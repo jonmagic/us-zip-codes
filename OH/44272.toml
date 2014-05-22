@@ -1,6 +1,8 @@
-zip_code = "44272"
-state = "OH"
 city = "Rootstown"
 county = "Portage"
-longitude = -81.173572
 latitude = 41.078728
+longitude = -81.173572
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44272"
+

@@ -1,6 +1,8 @@
-zip_code = "19736"
-state = "DE"
 city = "Yorklyn"
 county = "New Castle"
-longitude = -75.660413
 latitude = 39.797126
+longitude = -75.660413
+state = "Delaware"
+state_code_alpha2 = "DE"
+zip_code = "19736"
+

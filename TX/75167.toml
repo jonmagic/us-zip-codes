@@ -1,6 +1,8 @@
-zip_code = "75167"
-state = "TX"
 city = "Waxahachie"
 county = "Ellis"
-longitude = -96.916207
 latitude = 32.377291
+longitude = -96.916207
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75167"
+

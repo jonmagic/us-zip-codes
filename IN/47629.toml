@@ -1,6 +1,8 @@
-zip_code = "47629"
-state = "IN"
 city = "Newburgh"
 county = "Warrick"
-longitude = -87.245214
 latitude = 38.06242
+longitude = -87.245214
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47629"
+

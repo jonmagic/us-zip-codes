@@ -1,6 +1,8 @@
-zip_code = "51355"
-state = "IA"
 city = "Okoboji"
 county = "Dickinson"
-longitude = -95.077599
 latitude = 43.429006
+longitude = -95.077599
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51355"
+

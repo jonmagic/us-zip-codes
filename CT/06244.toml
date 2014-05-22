@@ -1,6 +1,8 @@
-zip_code = "06244"
-state = "CT"
 city = "East Woodstock"
 county = "Windham"
-longitude = -71.981045
 latitude = 41.984327
+longitude = -71.981045
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06244"
+

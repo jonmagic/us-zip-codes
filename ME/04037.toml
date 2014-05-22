@@ -1,6 +1,8 @@
-zip_code = "04037"
-state = "ME"
 city = "Fryeburg"
 county = "Oxford"
-longitude = -70.964418
 latitude = 44.044292
+longitude = -70.964418
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04037"
+

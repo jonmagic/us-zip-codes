@@ -1,6 +1,8 @@
-zip_code = "72712"
-state = "AR"
 city = "Bentonville"
 county = "Benton"
-longitude = -94.223419
 latitude = 36.347107
+longitude = -94.223419
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72712"
+

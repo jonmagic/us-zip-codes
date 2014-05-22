@@ -1,6 +1,8 @@
-zip_code = "31637"
-state = "GA"
 city = "Lenox"
 county = "Cook"
-longitude = -83.468529
 latitude = 31.271045
+longitude = -83.468529
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31637"
+

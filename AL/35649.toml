@@ -1,6 +1,8 @@
-zip_code = "35649"
-state = "AL"
 city = "Mooresville"
 county = "Limestone"
-longitude = -86.874641
 latitude = 34.625877
+longitude = -86.874641
+state = ""
+state_code_alpha2 = ""
+zip_code = "35649"
+

@@ -1,6 +1,8 @@
-zip_code = "74358"
-state = "OK"
 city = "North Miami"
 county = "Ottawa"
-longitude = -94.885709
 latitude = 36.916334
+longitude = -94.885709
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74358"
+

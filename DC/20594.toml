@@ -1,6 +1,8 @@
-zip_code = "20594"
-state = "DC"
 city = "Washington"
 county = "District Of Columbia"
-longitude = -77.018372
 latitude = 38.88494
+longitude = -77.018372
+state = "District of Columbia"
+state_code_alpha2 = "DC"
+zip_code = "20594"
+

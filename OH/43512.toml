@@ -1,6 +1,8 @@
-zip_code = "43512"
-state = "OH"
 city = "Defiance"
 county = "Defiance"
-longitude = -84.390413
 latitude = 41.296657
+longitude = -84.390413
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43512"
+

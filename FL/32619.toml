@@ -1,6 +1,8 @@
-zip_code = "32619"
-state = "FL"
 city = "Bell"
 county = "Gilchrist"
-longitude = -82.865081
 latitude = 29.749093
+longitude = -82.865081
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32619"
+

@@ -1,6 +1,8 @@
-zip_code = "22831"
-state = "VA"
 city = "Hinton"
 county = "Rockingham"
-longitude = -78.999618
 latitude = 38.534126
+longitude = -78.999618
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22831"
+

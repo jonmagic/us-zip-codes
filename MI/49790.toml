@@ -1,6 +1,8 @@
-zip_code = "49790"
-state = "MI"
 city = "Strongs"
 county = "Chippewa"
-longitude = -84.966792
 latitude = 46.387377
+longitude = -84.966792
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49790"
+

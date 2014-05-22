@@ -1,6 +1,8 @@
-zip_code = "72324"
-state = "AR"
 city = "Cherry Valley"
 county = "Cross"
-longitude = -90.788851
 latitude = 35.340002
+longitude = -90.788851
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72324"
+

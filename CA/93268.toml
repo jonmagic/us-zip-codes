@@ -1,6 +1,8 @@
-zip_code = "93268"
-state = "CA"
 city = "Taft"
 county = "Kern"
-longitude = -118.413077
 latitude = 35.703306
+longitude = -118.413077
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93268"
+

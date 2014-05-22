@@ -1,6 +1,8 @@
-zip_code = "70558"
-state = "LA"
 city = "Milton"
 county = "Lafayette"
-longitude = -92.064797
 latitude = 30.098819
+longitude = -92.064797
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70558"
+

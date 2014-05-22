@@ -1,6 +1,8 @@
-zip_code = "97825"
-state = "OR"
 city = "Dayville"
 county = "Grant"
-longitude = -119.533402
 latitude = 44.465268
+longitude = -119.533402
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97825"
+

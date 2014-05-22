@@ -1,6 +1,8 @@
-zip_code = "66716"
-state = "KS"
 city = "Bronson"
 county = "Bourbon"
-longitude = -95.02624
 latitude = 37.874455
+longitude = -95.02624
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66716"
+

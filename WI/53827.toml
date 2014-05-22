@@ -1,6 +1,8 @@
-zip_code = "53827"
-state = "WI"
 city = "Woodman"
 county = "Grant"
-longitude = -90.853002
 latitude = 43.035813
+longitude = -90.853002
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53827"
+

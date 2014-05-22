@@ -1,6 +1,8 @@
-zip_code = "31779"
-state = "GA"
 city = "Pelham"
 county = "Mitchell"
-longitude = -84.223371
 latitude = 31.225572
+longitude = -84.223371
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31779"
+

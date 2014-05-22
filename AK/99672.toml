@@ -1,6 +1,8 @@
-zip_code = "99672"
-state = "AK"
 city = "Sterling"
 county = "Kenai Peninsula"
-longitude = -150.853238
 latitude = 60.513614
+longitude = -150.853238
+state = ""
+state_code_alpha2 = ""
+zip_code = "99672"
+

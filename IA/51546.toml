@@ -1,6 +1,8 @@
-zip_code = "51546"
-state = "IA"
 city = "Logan"
 county = "Harrison"
-longitude = -95.786047
 latitude = 41.657856
+longitude = -95.786047
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51546"
+

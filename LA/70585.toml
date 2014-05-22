@@ -1,6 +1,8 @@
-zip_code = "70585"
-state = "LA"
 city = "Turkey Creek"
 county = "Evangeline"
-longitude = -92.430522
 latitude = 30.901424
+longitude = -92.430522
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70585"
+

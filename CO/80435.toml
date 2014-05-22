@@ -1,6 +1,8 @@
-zip_code = "80435"
-state = "CO"
 city = "Dillon"
 county = "Summit"
-longitude = -105.974117
 latitude = 39.595212
+longitude = -105.974117
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80435"
+

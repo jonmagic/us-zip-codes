@@ -1,6 +1,8 @@
-zip_code = "21555"
-state = "MD"
 city = "Oldtown"
 county = "Allegany"
-longitude = -78.572564
 latitude = 39.596645
+longitude = -78.572564
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21555"
+

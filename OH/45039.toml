@@ -1,6 +1,8 @@
-zip_code = "45039"
-state = "OH"
 city = "Maineville"
 county = "Warren"
-longitude = -84.243763
 latitude = 39.316973
+longitude = -84.243763
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45039"
+

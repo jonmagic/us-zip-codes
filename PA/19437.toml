@@ -1,6 +1,8 @@
-zip_code = "19437"
-state = "PA"
 city = "Gwynedd Valley"
 county = "Montgomery"
-longitude = -75.257855
 latitude = 40.181054
+longitude = -75.257855
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19437"
+

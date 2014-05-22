@@ -1,6 +1,8 @@
-zip_code = "47161"
-state = "IN"
 city = "New Salisbury"
 county = "Harrison"
-longitude = -86.105996
 latitude = 38.328025
+longitude = -86.105996
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47161"
+

@@ -1,6 +1,8 @@
-zip_code = "33877"
-state = "FL"
 city = "Waverly"
 county = "Polk"
-longitude = -81.614414
 latitude = 27.976883
+longitude = -81.614414
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33877"
+

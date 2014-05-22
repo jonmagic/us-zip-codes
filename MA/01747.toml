@@ -1,6 +1,8 @@
-zip_code = "01747"
-state = "MA"
 city = "Hopedale"
 county = "Worcester"
-longitude = -71.533138
 latitude = 42.127515
+longitude = -71.533138
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01747"
+

@@ -1,6 +1,8 @@
-zip_code = "03262"
-state = "NH"
 city = "North Woodstock"
 county = "Grafton"
-longitude = -71.686326
 latitude = 44.035391
+longitude = -71.686326
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03262"
+

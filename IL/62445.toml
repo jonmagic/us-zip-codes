@@ -1,6 +1,8 @@
-zip_code = "62445"
-state = "IL"
 city = "Montrose"
 county = "Effingham"
-longitude = -88.37756
 latitude = 39.163869
+longitude = -88.37756
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62445"
+

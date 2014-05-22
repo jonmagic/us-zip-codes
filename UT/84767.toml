@@ -1,6 +1,8 @@
-zip_code = "84767"
-state = "UT"
 city = "Springdale"
 county = "Washington"
-longitude = -113.013922
 latitude = 37.186249
+longitude = -113.013922
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84767"
+

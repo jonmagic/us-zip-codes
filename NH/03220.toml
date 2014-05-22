@@ -1,6 +1,8 @@
-zip_code = "03220"
-state = "NH"
 city = "Belmont"
 county = "Belknap"
-longitude = -71.40709
 latitude = 43.455551
+longitude = -71.40709
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03220"
+

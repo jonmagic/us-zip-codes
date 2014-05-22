@@ -1,6 +1,8 @@
-zip_code = "25544"
-state = "WV"
 city = "Myra"
 county = "Lincoln"
-longitude = -82.113554
 latitude = 38.222163
+longitude = -82.113554
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25544"
+

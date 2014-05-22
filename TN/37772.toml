@@ -1,6 +1,8 @@
-zip_code = "37772"
-state = "TN"
 city = "Lenoir City"
 county = "Loudon"
-longitude = -84.256679
 latitude = 35.787243
+longitude = -84.256679
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37772"
+

@@ -1,6 +1,8 @@
-zip_code = "52730"
-state = "IA"
 city = "Camanche"
 county = "Clinton"
-longitude = -90.317574
 latitude = 41.813438
+longitude = -90.317574
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52730"
+

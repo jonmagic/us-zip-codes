@@ -1,6 +1,8 @@
-zip_code = "63342"
-state = "MO"
 city = "Dutzow"
 county = "Warren"
-longitude = -90.996216
 latitude = 38.605967
+longitude = -90.996216
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63342"
+

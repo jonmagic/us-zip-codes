@@ -1,6 +1,8 @@
-zip_code = "74039"
-state = "OK"
 city = "Kellyville"
 county = "Creek"
-longitude = -96.240843
 latitude = 35.908301
+longitude = -96.240843
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74039"
+

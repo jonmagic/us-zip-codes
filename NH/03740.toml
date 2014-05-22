@@ -1,6 +1,8 @@
-zip_code = "03740"
-state = "NH"
 city = "Bath"
 county = "Grafton"
-longitude = -71.948852
 latitude = 44.114163
+longitude = -71.948852
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03740"
+

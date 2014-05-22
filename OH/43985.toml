@@ -1,6 +1,8 @@
-zip_code = "43985"
-state = "OH"
 city = "Holloway"
 county = "Belmont"
-longitude = -80.970135
 latitude = 40.011338
+longitude = -80.970135
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43985"
+

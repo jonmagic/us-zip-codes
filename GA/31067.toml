@@ -1,6 +1,8 @@
-zip_code = "31067"
-state = "GA"
 city = "Oconee"
 county = "Washington"
-longitude = -82.946903
 latitude = 32.876666
+longitude = -82.946903
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31067"
+

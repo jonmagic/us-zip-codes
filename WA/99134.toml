@@ -1,6 +1,8 @@
-zip_code = "99134"
-state = "WA"
 city = "Harrington"
 county = "Lincoln"
-longitude = -118.254439
 latitude = 47.478233
+longitude = -118.254439
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99134"
+

@@ -1,6 +1,8 @@
-zip_code = "95386"
-state = "CA"
 city = "Waterford"
 county = "Stanislaus"
-longitude = -120.775617
 latitude = 37.659644
+longitude = -120.775617
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95386"
+

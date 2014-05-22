@@ -1,6 +1,8 @@
-zip_code = "03766"
-state = "NH"
 city = "Lebanon"
 county = "Grafton"
-longitude = -72.23546
 latitude = 43.637148
+longitude = -72.23546
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03766"
+

@@ -1,6 +1,8 @@
-zip_code = "14588"
-state = "NY"
 city = "Willard"
 county = "Seneca"
-longitude = -76.872442
 latitude = 42.683451
+longitude = -76.872442
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14588"
+

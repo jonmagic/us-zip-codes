@@ -1,6 +1,8 @@
-zip_code = "16822"
-state = "PA"
 city = "Beech Creek"
 county = "Clinton"
-longitude = -77.50553
 latitude = 41.105476
+longitude = -77.50553
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16822"
+

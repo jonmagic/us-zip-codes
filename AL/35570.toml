@@ -1,6 +1,8 @@
-zip_code = "35570"
-state = "AL"
 city = "Hamilton"
 county = "Marion"
-longitude = -87.994648
 latitude = 34.167583
+longitude = -87.994648
+state = ""
+state_code_alpha2 = ""
+zip_code = "35570"
+

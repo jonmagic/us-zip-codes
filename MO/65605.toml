@@ -1,6 +1,8 @@
-zip_code = "65605"
-state = "MO"
 city = "Aurora"
 county = "Lawrence"
-longitude = -93.790376
 latitude = 37.005666
+longitude = -93.790376
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65605"
+

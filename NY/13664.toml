@@ -1,6 +1,8 @@
-zip_code = "13664"
-state = "NY"
 city = "Morristown"
 county = "Saint Lawrence"
-longitude = -75.655877
 latitude = 44.555889
+longitude = -75.655877
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13664"
+

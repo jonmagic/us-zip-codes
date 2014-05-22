@@ -1,6 +1,8 @@
-zip_code = "99686"
-state = "AK"
 city = "Valdez"
 county = "Valdez Cordova"
-longitude = -145.775152
 latitude = 61.68557
+longitude = -145.775152
+state = ""
+state_code_alpha2 = ""
+zip_code = "99686"
+

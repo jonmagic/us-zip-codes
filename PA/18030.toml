@@ -1,6 +1,8 @@
-zip_code = "18030"
-state = "PA"
 city = "Bowmanstown"
 county = "Carbon"
-longitude = -75.661425
 latitude = 40.801062
+longitude = -75.661425
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18030"
+

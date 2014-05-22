@@ -1,6 +1,8 @@
-zip_code = "97842"
-state = "OR"
 city = "Imnaha"
 county = "Wallowa"
-longitude = -116.807469
 latitude = 45.503578
+longitude = -116.807469
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97842"
+

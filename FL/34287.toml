@@ -1,6 +1,8 @@
-zip_code = "34287"
-state = "FL"
 city = "North Port"
 county = "Sarasota"
-longitude = -82.334882
 latitude = 27.189487
+longitude = -82.334882
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34287"
+

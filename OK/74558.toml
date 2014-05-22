@@ -1,6 +1,8 @@
-zip_code = "74558"
-state = "OK"
 city = "Nashoba"
 county = "Pushmataha"
-longitude = -95.358406
 latitude = 34.418801
+longitude = -95.358406
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74558"
+

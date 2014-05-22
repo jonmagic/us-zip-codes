@@ -1,6 +1,8 @@
-zip_code = "81331"
-state = "CO"
 city = "Pleasant View"
 county = "Montezuma"
-longitude = -108.829926
 latitude = 37.551564
+longitude = -108.829926
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81331"
+

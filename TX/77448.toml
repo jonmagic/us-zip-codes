@@ -1,6 +1,8 @@
-zip_code = "77448"
-state = "TX"
 city = "Hungerford"
 county = "Wharton"
-longitude = -96.092868
 latitude = 29.413676
+longitude = -96.092868
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77448"
+

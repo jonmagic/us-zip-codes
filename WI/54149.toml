@@ -1,6 +1,8 @@
-zip_code = "54149"
-state = "WI"
 city = "Mountain"
 county = "Oconto"
-longitude = -88.47889
 latitude = 45.095725
+longitude = -88.47889
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54149"
+

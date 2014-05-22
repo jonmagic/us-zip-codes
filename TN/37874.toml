@@ -1,6 +1,8 @@
-zip_code = "37874"
-state = "TN"
 city = "Sweetwater"
 county = "Monroe"
-longitude = -84.410561
 latitude = 35.571343
+longitude = -84.410561
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37874"
+

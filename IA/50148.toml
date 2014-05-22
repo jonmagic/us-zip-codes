@@ -1,6 +1,8 @@
-zip_code = "50148"
-state = "IA"
 city = "Liscomb"
 county = "Marshall"
-longitude = -92.969854
 latitude = 42.175223
+longitude = -92.969854
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50148"
+

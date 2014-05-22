@@ -1,6 +1,8 @@
-zip_code = "36080"
-state = "AL"
 city = "Titus"
 county = "Elmore"
-longitude = -86.257604
 latitude = 32.700393
+longitude = -86.257604
+state = ""
+state_code_alpha2 = ""
+zip_code = "36080"
+

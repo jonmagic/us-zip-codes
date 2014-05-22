@@ -1,6 +1,8 @@
-zip_code = "97419"
-state = "OR"
 city = "Cheshire"
 county = "Lane"
-longitude = -123.368242
 latitude = 44.210177
+longitude = -123.368242
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97419"
+

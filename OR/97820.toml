@@ -1,6 +1,8 @@
-zip_code = "97820"
-state = "OR"
 city = "Canyon City"
 county = "Grant"
-longitude = -118.946498
 latitude = 44.391149
+longitude = -118.946498
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97820"
+

@@ -1,6 +1,8 @@
-zip_code = "17941"
-state = "PA"
 city = "Klingerstown"
 county = "Schuylkill"
-longitude = -76.578173
 latitude = 40.687178
+longitude = -76.578173
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17941"
+

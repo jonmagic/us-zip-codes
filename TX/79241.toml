@@ -1,6 +1,8 @@
-zip_code = "79241"
-state = "TX"
 city = "Lockney"
 county = "Floyd"
-longitude = -101.443848
 latitude = 34.123072
+longitude = -101.443848
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79241"
+

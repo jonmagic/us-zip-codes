@@ -1,6 +1,8 @@
-zip_code = "11718"
-state = "NY"
 city = "Brightwaters"
 county = "Suffolk"
-longitude = -73.260912
 latitude = 40.715424
+longitude = -73.260912
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11718"
+

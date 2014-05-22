@@ -1,6 +1,8 @@
-zip_code = "84050"
-state = "UT"
 city = "Morgan"
 county = "Morgan"
-longitude = -111.702746
 latitude = 41.068883
+longitude = -111.702746
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84050"
+

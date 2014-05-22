@@ -1,6 +1,8 @@
-zip_code = "17537"
-state = "PA"
 city = "Lampeter"
 county = "Lancaster"
-longitude = -76.238729
 latitude = 39.988548
+longitude = -76.238729
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17537"
+

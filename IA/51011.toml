@@ -1,6 +1,8 @@
-zip_code = "51011"
-state = "IA"
 city = "Chatsworth"
 county = "Sioux"
-longitude = -96.494824
 latitude = 42.926468
+longitude = -96.494824
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51011"
+

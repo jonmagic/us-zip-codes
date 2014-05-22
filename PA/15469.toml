@@ -1,6 +1,8 @@
-zip_code = "15469"
-state = "PA"
 city = "Normalville"
 county = "Fayette"
-longitude = -79.438215
 latitude = 40.00786
+longitude = -79.438215
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15469"
+

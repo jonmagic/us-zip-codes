@@ -1,6 +1,8 @@
-zip_code = "37138"
-state = "TN"
 city = "Old Hickory"
 county = "Davidson"
-longitude = -86.633545
 latitude = 36.137706
+longitude = -86.633545
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37138"
+

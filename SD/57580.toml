@@ -1,6 +1,8 @@
-zip_code = "57580"
-state = "SD"
 city = "Winner"
 county = "Tripp"
-longitude = -99.803286
 latitude = 43.331763
+longitude = -99.803286
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57580"
+

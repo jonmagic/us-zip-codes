@@ -1,6 +1,8 @@
-zip_code = "67008"
-state = "KS"
 city = "Atlanta"
 county = "Cowley"
-longitude = -96.720974
 latitude = 37.378279
+longitude = -96.720974
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67008"
+

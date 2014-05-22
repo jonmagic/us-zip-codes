@@ -1,6 +1,8 @@
-zip_code = "40823"
-state = "KY"
 city = "Cumberland"
 county = "Harlan"
-longitude = -83.163759
 latitude = 36.912209
+longitude = -83.163759
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40823"
+

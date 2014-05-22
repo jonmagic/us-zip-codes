@@ -1,6 +1,8 @@
-zip_code = "13459"
-state = "NY"
 city = "Sharon Springs"
 county = "Schoharie"
-longitude = -74.584971
 latitude = 42.787077
+longitude = -74.584971
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13459"
+

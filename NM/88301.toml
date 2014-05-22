@@ -1,6 +1,8 @@
-zip_code = "88301"
-state = "NM"
 city = "Carrizozo"
 county = "Lincoln"
-longitude = -105.875816
 latitude = 33.641799
+longitude = -105.875816
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88301"
+

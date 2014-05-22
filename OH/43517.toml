@@ -1,6 +1,8 @@
-zip_code = "43517"
-state = "OH"
 city = "Edgerton"
 county = "Williams"
-longitude = -84.620862
 latitude = 41.554099
+longitude = -84.620862
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43517"
+

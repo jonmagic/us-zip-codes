@@ -1,6 +1,8 @@
-zip_code = "23404"
-state = "VA"
 city = "Locustville"
 county = "Accomack"
-longitude = -75.672604
 latitude = 37.677193
+longitude = -75.672604
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23404"
+

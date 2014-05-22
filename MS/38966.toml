@@ -1,6 +1,8 @@
-zip_code = "38966"
-state = "MS"
 city = "Webb"
 county = "Tallahatchie"
-longitude = -90.335055
 latitude = 33.898064
+longitude = -90.335055
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38966"
+

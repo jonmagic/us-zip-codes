@@ -1,6 +1,8 @@
-zip_code = "13126"
-state = "NY"
 city = "Oswego"
 county = "Oswego"
-longitude = -76.342172
 latitude = 43.465388
+longitude = -76.342172
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13126"
+

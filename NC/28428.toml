@@ -1,6 +1,8 @@
-zip_code = "28428"
-state = "NC"
 city = "Carolina Beach"
 county = "New Hanover"
-longitude = -77.895702
 latitude = 34.035151
+longitude = -77.895702
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28428"
+

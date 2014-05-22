@@ -1,6 +1,8 @@
-zip_code = "69143"
-state = "NE"
 city = "Hershey"
 county = "Lincoln"
-longitude = -100.96308
 latitude = 40.98993
+longitude = -100.96308
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69143"
+

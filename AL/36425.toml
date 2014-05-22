@@ -1,6 +1,8 @@
-zip_code = "36425"
-state = "AL"
 city = "Beatrice"
 county = "Monroe"
-longitude = -87.250028
 latitude = 31.56779
+longitude = -87.250028
+state = ""
+state_code_alpha2 = ""
+zip_code = "36425"
+

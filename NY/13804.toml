@@ -1,6 +1,8 @@
-zip_code = "13804"
-state = "NY"
 city = "Masonville"
 county = "Delaware"
-longitude = -74.925617
 latitude = 42.183045
+longitude = -74.925617
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13804"
+

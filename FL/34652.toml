@@ -1,6 +1,8 @@
-zip_code = "34652"
-state = "FL"
 city = "New Port Richey"
 county = "Pasco"
-longitude = -82.736882
 latitude = 28.239369
+longitude = -82.736882
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34652"
+

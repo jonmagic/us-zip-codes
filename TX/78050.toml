@@ -1,6 +1,8 @@
-zip_code = "78050"
-state = "TX"
 city = "Leming"
 county = "Atascosa"
-longitude = -98.488128
 latitude = 29.101362
+longitude = -98.488128
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78050"
+

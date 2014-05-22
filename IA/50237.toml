@@ -1,6 +1,8 @@
-zip_code = "50237"
-state = "IA"
 city = "Runnells"
 county = "Polk"
-longitude = -93.398946
 latitude = 41.561367
+longitude = -93.398946
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50237"
+

@@ -1,6 +1,8 @@
-zip_code = "58652"
-state = "ND"
 city = "Richardton"
 county = "Stark"
-longitude = -102.264513
 latitude = 46.820533
+longitude = -102.264513
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58652"
+

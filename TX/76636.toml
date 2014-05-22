@@ -1,6 +1,8 @@
-zip_code = "76636"
-state = "TX"
 city = "Covington"
 county = "Hill"
-longitude = -97.229962
 latitude = 32.235057
+longitude = -97.229962
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76636"
+

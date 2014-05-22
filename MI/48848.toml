@@ -1,6 +1,8 @@
-zip_code = "48848"
-state = "MI"
 city = "Laingsburg"
 county = "Shiawassee"
-longitude = -84.313294
 latitude = 42.879874
+longitude = -84.313294
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48848"
+

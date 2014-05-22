@@ -1,6 +1,8 @@
-zip_code = "79777"
-state = "TX"
 city = "Pyote"
 county = "Ward"
-longitude = -103.126666
 latitude = 31.538694
+longitude = -103.126666
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79777"
+

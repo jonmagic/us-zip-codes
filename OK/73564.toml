@@ -1,6 +1,8 @@
-zip_code = "73564"
-state = "OK"
 city = "Roosevelt"
 county = "Kiowa"
-longitude = -99.021205
 latitude = 34.850598
+longitude = -99.021205
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73564"
+

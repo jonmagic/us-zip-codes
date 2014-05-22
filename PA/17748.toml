@@ -1,6 +1,8 @@
-zip_code = "17748"
-state = "PA"
 city = "Mc Elhattan"
 county = "Clinton"
-longitude = -77.369964
 latitude = 41.135507
+longitude = -77.369964
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17748"
+

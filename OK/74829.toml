@@ -1,6 +1,8 @@
-zip_code = "74829"
-state = "OK"
 city = "Boley"
 county = "Okfuskee"
-longitude = -96.495334
 latitude = 35.513491
+longitude = -96.495334
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74829"
+

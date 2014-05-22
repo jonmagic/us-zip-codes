@@ -1,6 +1,8 @@
-zip_code = "93429"
-state = "CA"
 city = "Casmalia"
 county = "Santa Barbara"
-longitude = -120.534979
 latitude = 34.845765
+longitude = -120.534979
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93429"
+

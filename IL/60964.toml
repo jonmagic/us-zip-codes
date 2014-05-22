@@ -1,6 +1,8 @@
-zip_code = "60964"
-state = "IL"
 city = "Saint Anne"
 county = "Kankakee"
-longitude = -87.687329
 latitude = 41.068206
+longitude = -87.687329
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60964"
+

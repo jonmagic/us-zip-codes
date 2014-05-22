@@ -1,6 +1,8 @@
-zip_code = "13659"
-state = "NY"
 city = "Lorraine"
 county = "Jefferson"
-longitude = -75.899974
 latitude = 43.75037
+longitude = -75.899974
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13659"
+

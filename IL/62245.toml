@@ -1,6 +1,8 @@
-zip_code = "62245"
-state = "IL"
 city = "Germantown"
 county = "Clinton"
-longitude = -89.559413
 latitude = 38.560662
+longitude = -89.559413
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62245"
+

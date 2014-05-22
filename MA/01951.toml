@@ -1,6 +1,8 @@
-zip_code = "01951"
-state = "MA"
 city = "Newbury"
 county = "Essex"
-longitude = -70.867246
 latitude = 42.777524
+longitude = -70.867246
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01951"
+

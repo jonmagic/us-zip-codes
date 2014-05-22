@@ -1,6 +1,8 @@
-zip_code = "64756"
-state = "MO"
 city = "Jerico Springs"
 county = "Cedar"
-longitude = -94.010074
 latitude = 37.618851
+longitude = -94.010074
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64756"
+

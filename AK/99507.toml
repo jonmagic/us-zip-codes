@@ -1,6 +1,8 @@
-zip_code = "99507"
-state = "AK"
 city = "Anchorage"
 county = "Anchorage"
-longitude = -149.776157
 latitude = 61.151903
+longitude = -149.776157
+state = ""
+state_code_alpha2 = ""
+zip_code = "99507"
+

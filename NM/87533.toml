@@ -1,6 +1,8 @@
-zip_code = "87533"
-state = "NM"
 city = "Espanola"
 county = "Rio Arriba"
-longitude = -106.065392
 latitude = 35.986585
+longitude = -106.065392
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87533"
+

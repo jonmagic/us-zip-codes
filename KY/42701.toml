@@ -1,6 +1,8 @@
-zip_code = "42701"
-state = "KY"
 city = "Elizabethtown"
 county = "Hardin"
-longitude = -85.878391
 latitude = 37.684807
+longitude = -85.878391
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42701"
+

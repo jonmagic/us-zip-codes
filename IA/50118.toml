@@ -1,6 +1,8 @@
-zip_code = "50118"
-state = "IA"
 city = "Hartford"
 county = "Warren"
-longitude = -93.36963
 latitude = 41.439093
+longitude = -93.36963
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50118"
+

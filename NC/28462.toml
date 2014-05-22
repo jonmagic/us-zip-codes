@@ -1,6 +1,8 @@
-zip_code = "28462"
-state = "NC"
 city = "Supply"
 county = "Brunswick"
-longitude = -78.223678
 latitude = 34.002551
+longitude = -78.223678
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28462"
+

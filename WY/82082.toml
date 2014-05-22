@@ -1,6 +1,8 @@
-zip_code = "82082"
-state = "WY"
 city = "Pine Bluffs"
 county = "Laramie"
-longitude = -104.205462
 latitude = 41.277286
+longitude = -104.205462
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82082"
+

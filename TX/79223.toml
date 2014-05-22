@@ -1,6 +1,8 @@
-zip_code = "79223"
-state = "TX"
 city = "Cee Vee"
 county = "Cottle"
-longitude = -100.258156
 latitude = 34.074854
+longitude = -100.258156
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79223"
+

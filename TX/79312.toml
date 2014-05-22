@@ -1,6 +1,8 @@
-zip_code = "79312"
-state = "TX"
 city = "Amherst"
 county = "Lamb"
-longitude = -102.425378
 latitude = 34.02831
+longitude = -102.425378
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79312"
+

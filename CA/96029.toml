@@ -1,6 +1,8 @@
-zip_code = "96029"
-state = "CA"
 city = "Flournoy"
 county = "Tehama"
-longitude = -122.491767
 latitude = 39.902424
+longitude = -122.491767
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96029"
+

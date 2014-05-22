@@ -1,6 +1,8 @@
-zip_code = "49619"
-state = "MI"
 city = "Brethren"
 county = "Manistee"
-longitude = -85.972541
 latitude = 44.309195
+longitude = -85.972541
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49619"
+

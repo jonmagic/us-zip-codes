@@ -1,6 +1,8 @@
-zip_code = "20770"
-state = "MD"
 city = "Greenbelt"
 county = "Prince Georges"
-longitude = -76.880966
 latitude = 38.995909
+longitude = -76.880966
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20770"
+

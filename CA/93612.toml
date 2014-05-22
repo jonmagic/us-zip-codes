@@ -1,6 +1,8 @@
-zip_code = "93612"
-state = "CA"
 city = "Clovis"
 county = "Fresno"
-longitude = -119.585303
 latitude = 36.878242
+longitude = -119.585303
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93612"
+

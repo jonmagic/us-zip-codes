@@ -1,6 +1,8 @@
-zip_code = "13076"
-state = "NY"
 city = "Hastings"
 county = "Oswego"
-longitude = -76.189586
 latitude = 43.338817
+longitude = -76.189586
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13076"
+

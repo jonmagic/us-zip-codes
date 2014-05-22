@@ -1,6 +1,8 @@
-zip_code = "75941"
-state = "TX"
 city = "Diboll"
 county = "Angelina"
-longitude = -94.593924
 latitude = 31.221634
+longitude = -94.593924
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75941"
+

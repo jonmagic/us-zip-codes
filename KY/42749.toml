@@ -1,6 +1,8 @@
-zip_code = "42749"
-state = "KY"
 city = "Horse Cave"
 county = "Hart"
-longitude = -85.89552
 latitude = 37.202266
+longitude = -85.89552
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42749"
+

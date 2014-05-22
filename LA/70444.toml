@@ -1,6 +1,8 @@
-zip_code = "70444"
-state = "LA"
 city = "Kentwood"
 county = "Tangipahoa"
-longitude = -90.428043
 latitude = 30.814466
+longitude = -90.428043
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70444"
+

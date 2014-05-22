@@ -1,6 +1,8 @@
-zip_code = "67548"
-state = "KS"
 city = "La Crosse"
 county = "Rush"
-longitude = -99.300546
 latitude = 38.531867
+longitude = -99.300546
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67548"
+

@@ -1,6 +1,8 @@
-zip_code = "10916"
-state = "NY"
 city = "Campbell Hall"
 county = "Orange"
-longitude = -74.258172
 latitude = 41.443168
+longitude = -74.258172
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10916"
+

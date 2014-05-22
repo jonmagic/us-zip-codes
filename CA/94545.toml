@@ -1,6 +1,8 @@
-zip_code = "94545"
-state = "CA"
 city = "Hayward"
 county = "Alameda"
-longitude = -122.092324
 latitude = 37.635482
+longitude = -122.092324
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94545"
+

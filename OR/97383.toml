@@ -1,6 +1,8 @@
-zip_code = "97383"
-state = "OR"
 city = "Stayton"
 county = "Marion"
-longitude = -122.726619
 latitude = 44.807707
+longitude = -122.726619
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97383"
+

@@ -1,6 +1,8 @@
-zip_code = "31711"
-state = "GA"
 city = "Andersonville"
 county = "Sumter"
-longitude = -84.163983
 latitude = 32.155949
+longitude = -84.163983
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31711"
+

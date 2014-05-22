@@ -1,6 +1,8 @@
-zip_code = "41030"
-state = "KY"
 city = "Crittenden"
 county = "Grant"
-longitude = -84.597256
 latitude = 38.770542
+longitude = -84.597256
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41030"
+

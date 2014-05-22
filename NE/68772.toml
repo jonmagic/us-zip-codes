@@ -1,6 +1,8 @@
-zip_code = "68772"
-state = "NE"
 city = "Rose"
 county = "Rock"
-longitude = -99.455891
 latitude = 42.445152
+longitude = -99.455891
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68772"
+

@@ -1,6 +1,8 @@
-zip_code = "97436"
-state = "OR"
 city = "Elkton"
 county = "Douglas"
-longitude = -123.556893
 latitude = 43.573594
+longitude = -123.556893
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97436"
+

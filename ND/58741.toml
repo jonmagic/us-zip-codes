@@ -1,6 +1,8 @@
-zip_code = "58741"
-state = "ND"
 city = "Granville"
 county = "Mchenry"
-longitude = -100.67856
 latitude = 48.305738
+longitude = -100.67856
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58741"
+

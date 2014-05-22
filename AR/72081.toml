@@ -1,6 +1,8 @@
-zip_code = "72081"
-state = "AR"
 city = "Judsonia"
 county = "White"
-longitude = -91.758198
 latitude = 35.39438
+longitude = -91.758198
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72081"
+

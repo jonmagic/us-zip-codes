@@ -1,6 +1,8 @@
-zip_code = "39440"
-state = "MS"
 city = "Laurel"
 county = "Jones"
-longitude = -89.114317
 latitude = 31.711733
+longitude = -89.114317
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39440"
+

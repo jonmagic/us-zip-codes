@@ -1,6 +1,8 @@
-zip_code = "17778"
-state = "PA"
 city = "Westport"
 county = "Clinton"
-longitude = -77.969664
 latitude = 41.270789
+longitude = -77.969664
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17778"
+

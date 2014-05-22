@@ -1,6 +1,8 @@
-zip_code = "77876"
-state = "TX"
 city = "Shiro"
 county = "Grimes"
-longitude = -96.018489
 latitude = 30.494286
+longitude = -96.018489
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77876"
+

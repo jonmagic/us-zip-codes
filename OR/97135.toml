@@ -1,6 +1,8 @@
-zip_code = "97135"
-state = "OR"
 city = "Pacific City"
 county = "Tillamook"
-longitude = -123.95897
 latitude = 45.204976
+longitude = -123.95897
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97135"
+

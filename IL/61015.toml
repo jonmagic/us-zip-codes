@@ -1,6 +1,8 @@
-zip_code = "61015"
-state = "IL"
 city = "Chana"
 county = "Ogle"
-longitude = -89.19964
 latitude = 41.99742
+longitude = -89.19964
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61015"
+

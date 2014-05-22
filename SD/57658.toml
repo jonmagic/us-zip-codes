@@ -1,6 +1,8 @@
-zip_code = "57658"
-state = "SD"
 city = "Wakpala"
 county = "Corson"
-longitude = -100.537928
 latitude = 45.655452
+longitude = -100.537928
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57658"
+

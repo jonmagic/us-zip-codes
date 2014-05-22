@@ -1,6 +1,8 @@
-zip_code = "14887"
-state = "NY"
 city = "Tyrone"
 county = "Schuyler"
-longitude = -77.026768
 latitude = 42.399371
+longitude = -77.026768
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14887"
+

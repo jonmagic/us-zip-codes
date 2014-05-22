@@ -1,6 +1,8 @@
-zip_code = "47126"
-state = "IN"
 city = "Henryville"
 county = "Clark"
-longitude = -85.774327
 latitude = 38.5504
+longitude = -85.774327
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47126"
+

@@ -1,6 +1,8 @@
-zip_code = "37853"
-state = "TN"
 city = "Rockford"
 county = "Blount"
-longitude = -83.906157
 latitude = 35.837548
+longitude = -83.906157
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37853"
+

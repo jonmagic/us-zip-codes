@@ -1,6 +1,8 @@
-zip_code = "26101"
-state = "WV"
 city = "Parkersburg"
 county = "Wood"
-longitude = -81.55477
 latitude = 39.286315
+longitude = -81.55477
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26101"
+

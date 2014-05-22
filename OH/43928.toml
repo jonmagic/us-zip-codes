@@ -1,6 +1,8 @@
-zip_code = "43928"
-state = "OH"
 city = "Glencoe"
 county = "Belmont"
-longitude = -80.899286
 latitude = 40.010896
+longitude = -80.899286
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43928"
+

@@ -1,6 +1,8 @@
-zip_code = "67022"
-state = "KS"
 city = "Caldwell"
 county = "Sumner"
-longitude = -97.601664
 latitude = 37.133257
+longitude = -97.601664
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67022"
+

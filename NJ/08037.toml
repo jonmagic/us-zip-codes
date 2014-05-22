@@ -1,6 +1,8 @@
-zip_code = "08037"
-state = "NJ"
 city = "Hammonton"
 county = "Atlantic"
-longitude = -74.711081
 latitude = 39.563616
+longitude = -74.711081
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08037"
+

@@ -1,6 +1,8 @@
-zip_code = "31713"
-state = "GA"
 city = "Arlington"
 county = "Calhoun"
-longitude = -84.699156
 latitude = 31.47718
+longitude = -84.699156
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31713"
+

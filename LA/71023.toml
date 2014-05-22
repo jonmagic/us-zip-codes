@@ -1,6 +1,8 @@
-zip_code = "71023"
-state = "LA"
 city = "Doyline"
 county = "Webster"
-longitude = -93.392015
 latitude = 32.688512
+longitude = -93.392015
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71023"
+

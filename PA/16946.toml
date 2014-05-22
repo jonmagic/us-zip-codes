@@ -1,6 +1,8 @@
-zip_code = "16946"
-state = "PA"
 city = "Tioga"
 county = "Tioga"
-longitude = -77.2292
 latitude = 41.943444
+longitude = -77.2292
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16946"
+

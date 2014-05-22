@@ -1,6 +1,8 @@
-zip_code = "37395"
-state = "TN"
 city = "Watts Bar Dam"
 county = "Rhea"
-longitude = -84.928921
 latitude = 35.61722
+longitude = -84.928921
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37395"
+

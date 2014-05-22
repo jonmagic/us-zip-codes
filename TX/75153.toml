@@ -1,6 +1,8 @@
-zip_code = "75153"
-state = "TX"
 city = "Powell"
 county = "Navarro"
-longitude = -96.338746
 latitude = 32.165005
+longitude = -96.338746
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75153"
+

@@ -1,6 +1,8 @@
-zip_code = "46703"
-state = "IN"
 city = "Angola"
 county = "Steuben"
-longitude = -85.000474
 latitude = 41.672567
+longitude = -85.000474
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46703"
+

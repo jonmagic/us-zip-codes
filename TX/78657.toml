@@ -1,6 +1,8 @@
-zip_code = "78657"
-state = "TX"
 city = "Marble Falls"
 county = "Burnet"
-longitude = -98.333113
 latitude = 30.537773
+longitude = -98.333113
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78657"
+

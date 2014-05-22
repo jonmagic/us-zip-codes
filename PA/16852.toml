@@ -1,6 +1,8 @@
-zip_code = "16852"
-state = "PA"
 city = "Madisonburg"
 county = "Centre"
-longitude = -77.760172
 latitude = 40.972229
+longitude = -77.760172
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16852"
+

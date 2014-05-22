@@ -1,6 +1,8 @@
-zip_code = "66853"
-state = "KS"
 city = "Hamilton"
 county = "Greenwood"
-longitude = -96.199508
 latitude = 37.980393
+longitude = -96.199508
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66853"
+

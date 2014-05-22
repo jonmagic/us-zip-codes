@@ -1,6 +1,8 @@
-zip_code = "26205"
-state = "WV"
 city = "Craigsville"
 county = "Nicholas"
-longitude = -80.645376
 latitude = 38.329918
+longitude = -80.645376
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26205"
+

@@ -1,6 +1,8 @@
-zip_code = "15827"
-state = "PA"
 city = "Byrnedale"
 county = "Elk"
-longitude = -78.50435
 latitude = 41.291008
+longitude = -78.50435
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15827"
+

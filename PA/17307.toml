@@ -1,6 +1,8 @@
-zip_code = "17307"
-state = "PA"
 city = "Biglerville"
 county = "Adams"
-longitude = -77.287491
 latitude = 39.933286
+longitude = -77.287491
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17307"
+

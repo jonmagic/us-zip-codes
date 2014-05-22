@@ -1,6 +1,8 @@
-zip_code = "34610"
-state = "FL"
 city = "Spring Hill"
 county = "Pasco"
-longitude = -82.524063
 latitude = 28.377455
+longitude = -82.524063
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34610"
+

@@ -1,6 +1,8 @@
-zip_code = "44822"
-state = "OH"
 city = "Butler"
 county = "Richland"
-longitude = -82.406952
 latitude = 40.587193
+longitude = -82.406952
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44822"
+

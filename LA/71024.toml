@@ -1,6 +1,8 @@
-zip_code = "71024"
-state = "LA"
 city = "Dubberly"
 county = "Webster"
-longitude = -93.308919
 latitude = 32.687275
+longitude = -93.308919
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71024"
+

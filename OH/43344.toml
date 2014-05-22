@@ -1,6 +1,8 @@
-zip_code = "43344"
-state = "OH"
 city = "Richwood"
 county = "Union"
-longitude = -83.352079
 latitude = 40.427182
+longitude = -83.352079
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43344"
+

@@ -1,6 +1,8 @@
-zip_code = "46989"
-state = "IN"
 city = "Upland"
 county = "Grant"
-longitude = -85.62512
 latitude = 40.455985
+longitude = -85.62512
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46989"
+

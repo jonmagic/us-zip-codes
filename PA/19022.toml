@@ -1,6 +1,8 @@
-zip_code = "19022"
-state = "PA"
 city = "Crum Lynne"
 county = "Delaware"
-longitude = -75.319632
 latitude = 39.898162
+longitude = -75.319632
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19022"
+

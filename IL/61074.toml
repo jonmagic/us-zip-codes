@@ -1,6 +1,8 @@
-zip_code = "61074"
-state = "IL"
 city = "Savanna"
 county = "Carroll"
-longitude = -90.005039
 latitude = 42.077282
+longitude = -90.005039
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61074"
+

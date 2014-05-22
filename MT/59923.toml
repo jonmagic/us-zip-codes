@@ -1,6 +1,8 @@
-zip_code = "59923"
-state = "MT"
 city = "Libby"
 county = "Lincoln"
-longitude = -115.394062
 latitude = 48.380992
+longitude = -115.394062
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59923"
+

@@ -1,6 +1,8 @@
-zip_code = "35964"
-state = "AL"
 city = "Douglas"
 county = "Marshall"
-longitude = -86.319824
 latitude = 34.34962
+longitude = -86.319824
+state = ""
+state_code_alpha2 = ""
+zip_code = "35964"
+

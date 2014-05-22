@@ -1,6 +1,8 @@
-zip_code = "00690"
-state = "PR"
 city = "San Antonio"
 county = "Aguadilla"
-longitude = -67.139597
 latitude = 18.476196
+longitude = -67.139597
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00690"
+

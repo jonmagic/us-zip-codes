@@ -1,6 +1,8 @@
-zip_code = "76686"
-state = "TX"
 city = "Tehuacana"
 county = "Limestone"
-longitude = -96.541589
 latitude = 31.750384
+longitude = -96.541589
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76686"
+

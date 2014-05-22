@@ -1,6 +1,8 @@
-zip_code = "37118"
-state = "TN"
 city = "Milton"
 county = "Rutherford"
-longitude = -86.19487
 latitude = 35.908701
+longitude = -86.19487
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37118"
+

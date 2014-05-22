@@ -1,6 +1,8 @@
-zip_code = "23047"
-state = "VA"
 city = "Doswell"
 county = "Hanover"
-longitude = -77.513156
 latitude = 37.846874
+longitude = -77.513156
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23047"
+

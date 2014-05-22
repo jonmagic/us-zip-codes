@@ -1,6 +1,8 @@
-zip_code = "48661"
-state = "MI"
 city = "West Branch"
 county = "Ogemaw"
-longitude = -84.202733
 latitude = 44.33095
+longitude = -84.202733
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48661"
+

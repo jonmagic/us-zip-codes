@@ -1,6 +1,8 @@
-zip_code = "41831"
-state = "KY"
 city = "Leburn"
 county = "Knott"
-longitude = -82.967672
 latitude = 37.370519
+longitude = -82.967672
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41831"
+

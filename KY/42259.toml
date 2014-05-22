@@ -1,6 +1,8 @@
-zip_code = "42259"
-state = "KY"
 city = "Mammoth Cave"
 county = "Edmonson"
-longitude = -86.168796
 latitude = 37.280199
+longitude = -86.168796
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42259"
+

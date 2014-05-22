@@ -1,6 +1,8 @@
-zip_code = "53572"
-state = "WI"
 city = "Mount Horeb"
 county = "Dane"
-longitude = -89.513903
 latitude = 42.973438
+longitude = -89.513903
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53572"
+

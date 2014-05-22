@@ -1,6 +1,8 @@
-zip_code = "72112"
-state = "AR"
 city = "Newport"
 county = "Jackson"
-longitude = -91.203951
 latitude = 35.569278
+longitude = -91.203951
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72112"
+

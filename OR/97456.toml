@@ -1,6 +1,8 @@
-zip_code = "97456"
-state = "OR"
 city = "Monroe"
 county = "Benton"
-longitude = -123.325952
 latitude = 44.346783
+longitude = -123.325952
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97456"
+

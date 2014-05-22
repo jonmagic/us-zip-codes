@@ -1,6 +1,8 @@
-zip_code = "84329"
-state = "UT"
 city = "Park Valley"
 county = "Box Elder"
-longitude = -113.523193
 latitude = 41.808234
+longitude = -113.523193
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84329"
+

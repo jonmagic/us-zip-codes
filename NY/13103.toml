@@ -1,6 +1,8 @@
-zip_code = "13103"
-state = "NY"
 city = "Mallory"
 county = "Oswego"
-longitude = -76.096357
 latitude = 43.339851
+longitude = -76.096357
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13103"
+

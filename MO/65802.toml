@@ -1,6 +1,8 @@
-zip_code = "65802"
-state = "MO"
 city = "Springfield"
 county = "Greene"
-longitude = -93.31994
 latitude = 37.18457
+longitude = -93.31994
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65802"
+

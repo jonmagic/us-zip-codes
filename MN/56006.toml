@@ -1,6 +1,8 @@
-zip_code = "56006"
-state = "MN"
 city = "Mankato"
 county = "Blue Earth"
-longitude = -94.069828
 latitude = 44.056047
+longitude = -94.069828
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56006"
+

@@ -1,6 +1,8 @@
-zip_code = "78652"
-state = "TX"
 city = "Manchaca"
 county = "Travis"
-longitude = -97.839325
 latitude = 30.123827
+longitude = -97.839325
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78652"
+

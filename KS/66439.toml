@@ -1,6 +1,8 @@
-zip_code = "66439"
-state = "KS"
 city = "Horton"
 county = "Brown"
-longitude = -95.527212
 latitude = 39.664076
+longitude = -95.527212
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66439"
+

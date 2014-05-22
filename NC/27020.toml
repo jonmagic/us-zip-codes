@@ -1,6 +1,8 @@
-zip_code = "27020"
-state = "NC"
 city = "Hamptonville"
 county = "Yadkin"
-longitude = -80.80111
 latitude = 36.119371
+longitude = -80.80111
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27020"
+

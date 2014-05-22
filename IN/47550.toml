@@ -1,6 +1,8 @@
-zip_code = "47550"
-state = "IN"
 city = "Lamar"
 county = "Spencer"
-longitude = -86.94971
 latitude = 38.042888
+longitude = -86.94971
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47550"
+

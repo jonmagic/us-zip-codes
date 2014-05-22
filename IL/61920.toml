@@ -1,6 +1,8 @@
-zip_code = "61920"
-state = "IL"
 city = "Charleston"
 county = "Coles"
-longitude = -88.160348
 latitude = 39.499622
+longitude = -88.160348
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61920"
+

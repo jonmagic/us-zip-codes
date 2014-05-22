@@ -1,6 +1,8 @@
-zip_code = "88312"
-state = "NM"
 city = "Alto"
 county = "Lincoln"
-longitude = -105.652113
 latitude = 33.388573
+longitude = -105.652113
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88312"
+

@@ -1,6 +1,8 @@
-zip_code = "73079"
-state = "OK"
 city = "Pocasset"
 county = "Grady"
-longitude = -97.881959
 latitude = 35.031247
+longitude = -97.881959
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73079"
+

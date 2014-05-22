@@ -1,6 +1,8 @@
-zip_code = "36856"
-state = "AL"
 city = "Fort Mitchell"
 county = "Russell"
-longitude = -84.997165
 latitude = 32.296518
+longitude = -84.997165
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36856"
+

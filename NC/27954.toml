@@ -1,6 +1,8 @@
-zip_code = "27954"
-state = "NC"
 city = "Manteo"
 county = "Dare"
-longitude = -75.681122
 latitude = 35.950867
+longitude = -75.681122
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27954"
+

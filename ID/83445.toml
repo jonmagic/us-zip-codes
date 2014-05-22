@@ -1,6 +1,8 @@
-zip_code = "83445"
-state = "ID"
 city = "Saint Anthony"
 county = "Fremont"
-longitude = -111.703605
 latitude = 43.962969
+longitude = -111.703605
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83445"
+

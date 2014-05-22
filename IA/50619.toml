@@ -1,6 +1,8 @@
-zip_code = "50619"
-state = "IA"
 city = "Clarksville"
 county = "Butler"
-longitude = -92.653238
 latitude = 42.793119
+longitude = -92.653238
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50619"
+

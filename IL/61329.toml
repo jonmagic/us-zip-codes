@@ -1,6 +1,8 @@
-zip_code = "61329"
-state = "IL"
 city = "Ladd"
 county = "Bureau"
-longitude = -89.203827
 latitude = 41.37951
+longitude = -89.203827
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61329"
+

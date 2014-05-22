@@ -1,6 +1,8 @@
-zip_code = "35578"
-state = "AL"
 city = "Nauvoo"
 county = "Walker"
-longitude = -87.469627
 latitude = 33.885529
+longitude = -87.469627
+state = ""
+state_code_alpha2 = ""
+zip_code = "35578"
+

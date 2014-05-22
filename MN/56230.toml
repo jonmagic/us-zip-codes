@@ -1,6 +1,8 @@
-zip_code = "56230"
-state = "MN"
 city = "Danube"
 county = "Renville"
-longitude = -95.09754
 latitude = 44.76007
+longitude = -95.09754
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56230"
+

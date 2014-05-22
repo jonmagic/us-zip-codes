@@ -1,6 +1,8 @@
-zip_code = "24069"
-state = "VA"
 city = "Cascade"
 county = "Pittsylvania"
-longitude = -79.616614
 latitude = 36.594226
+longitude = -79.616614
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24069"
+

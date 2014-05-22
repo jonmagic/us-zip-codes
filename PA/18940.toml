@@ -1,6 +1,8 @@
-zip_code = "18940"
-state = "PA"
 city = "Newtown"
 county = "Bucks"
-longitude = -74.955535
 latitude = 40.263042
+longitude = -74.955535
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18940"
+

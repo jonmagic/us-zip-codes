@@ -1,6 +1,8 @@
-zip_code = "04982"
-state = "ME"
 city = "Stratton"
 county = "Franklin"
-longitude = -70.381639
 latitude = 45.063384
+longitude = -70.381639
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04982"
+

@@ -1,6 +1,8 @@
-zip_code = "47040"
-state = "IN"
 city = "Rising Sun"
 county = "Ohio"
-longitude = -84.984085
 latitude = 38.958134
+longitude = -84.984085
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47040"
+

@@ -1,6 +1,8 @@
-zip_code = "85069"
-state = "AZ"
 city = "Phoenix"
 county = "Maricopa"
-longitude = -112.18717
 latitude = 33.276539
+longitude = -112.18717
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85069"
+

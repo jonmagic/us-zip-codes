@@ -1,6 +1,8 @@
-zip_code = "83234"
-state = "ID"
 city = "Downey"
 county = "Bannock"
-longitude = -112.120195
 latitude = 42.473005
+longitude = -112.120195
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83234"
+

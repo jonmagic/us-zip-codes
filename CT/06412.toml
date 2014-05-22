@@ -1,6 +1,8 @@
-zip_code = "06412"
-state = "CT"
 city = "Chester"
 county = "Middlesex"
-longitude = -72.461805
 latitude = 41.39027
+longitude = -72.461805
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06412"
+

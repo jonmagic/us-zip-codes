@@ -1,6 +1,8 @@
-zip_code = "02148"
-state = "MA"
 city = "Malden"
 county = "Middlesex"
-longitude = -71.085396
 latitude = 42.436545
+longitude = -71.085396
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02148"
+

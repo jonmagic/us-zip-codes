@@ -1,6 +1,8 @@
-zip_code = "80735"
-state = "CO"
 city = "Idalia"
 county = "Yuma"
-longitude = -102.426235
 latitude = 39.816703
+longitude = -102.426235
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80735"
+

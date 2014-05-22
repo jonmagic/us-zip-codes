@@ -1,6 +1,8 @@
-zip_code = "03244"
-state = "NH"
 city = "Hillsboro"
 county = "Hillsborough"
-longitude = -71.914287
 latitude = 43.12295
+longitude = -71.914287
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03244"
+

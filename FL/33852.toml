@@ -1,6 +1,8 @@
-zip_code = "33852"
-state = "FL"
 city = "Lake Placid"
 county = "Highlands"
-longitude = -81.36628
 latitude = 27.336002
+longitude = -81.36628
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33852"
+

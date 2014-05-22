@@ -1,6 +1,8 @@
-zip_code = "97103"
-state = "OR"
 city = "Astoria"
 county = "Clatsop"
-longitude = -123.795996
 latitude = 46.142206
+longitude = -123.795996
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97103"
+

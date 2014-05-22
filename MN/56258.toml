@@ -1,6 +1,8 @@
-zip_code = "56258"
-state = "MN"
 city = "Marshall"
 county = "Lyon"
-longitude = -95.785872
 latitude = 44.460429
+longitude = -95.785872
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56258"
+

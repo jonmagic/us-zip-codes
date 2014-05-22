@@ -1,6 +1,8 @@
-zip_code = "45352"
-state = "OH"
 city = "Palestine"
 county = "Darke"
-longitude = -84.745706
 latitude = 40.050323
+longitude = -84.745706
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45352"
+

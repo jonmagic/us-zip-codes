@@ -1,6 +1,8 @@
-zip_code = "97750"
-state = "OR"
 city = "Mitchell"
 county = "Wheeler"
-longitude = -120.014665
 latitude = 44.644668
+longitude = -120.014665
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97750"
+

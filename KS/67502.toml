@@ -1,6 +1,8 @@
-zip_code = "67502"
-state = "KS"
 city = "Hutchinson"
 county = "Reno"
-longitude = -97.893663
 latitude = 38.115643
+longitude = -97.893663
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67502"
+

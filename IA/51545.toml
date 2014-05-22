@@ -1,6 +1,8 @@
-zip_code = "51545"
-state = "IA"
 city = "Little Sioux"
 county = "Harrison"
-longitude = -96.005056
 latitude = 41.787434
+longitude = -96.005056
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51545"
+

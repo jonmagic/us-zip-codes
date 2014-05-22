@@ -1,6 +1,8 @@
-zip_code = "31785"
-state = "GA"
 city = "Sasser"
 county = "Terrell"
-longitude = -84.32748
 latitude = 31.689973
+longitude = -84.32748
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31785"
+

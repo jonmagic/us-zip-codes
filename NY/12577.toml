@@ -1,6 +1,8 @@
-zip_code = "12577"
-state = "NY"
 city = "Salisbury Mills"
 county = "Orange"
-longitude = -74.121804
 latitude = 41.437176
+longitude = -74.121804
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12577"
+

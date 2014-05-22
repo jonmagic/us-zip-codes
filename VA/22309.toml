@@ -1,6 +1,8 @@
-zip_code = "22309"
-state = "VA"
 city = "Alexandria"
 county = "Fairfax"
-longitude = -77.171945
 latitude = 38.722264
+longitude = -77.171945
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22309"
+

@@ -1,6 +1,8 @@
-zip_code = "58476"
-state = "ND"
 city = "Pingree"
 county = "Stutsman"
-longitude = -99.014385
 latitude = 47.203846
+longitude = -99.014385
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58476"
+

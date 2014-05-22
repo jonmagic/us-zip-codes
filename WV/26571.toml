@@ -1,6 +1,8 @@
-zip_code = "26571"
-state = "WV"
 city = "Farmington"
 county = "Marion"
-longitude = -80.252582
 latitude = 39.506654
+longitude = -80.252582
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26571"
+

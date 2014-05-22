@@ -1,6 +1,8 @@
-zip_code = "54447"
-state = "WI"
 city = "Lublin"
 county = "Taylor"
-longitude = -90.769811
 latitude = 45.16658
+longitude = -90.769811
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54447"
+

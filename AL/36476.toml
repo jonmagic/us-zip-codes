@@ -1,6 +1,8 @@
-zip_code = "36476"
-state = "AL"
 city = "River Falls"
 county = "Covington"
-longitude = -86.444833
 latitude = 31.260882
+longitude = -86.444833
+state = ""
+state_code_alpha2 = ""
+zip_code = "36476"
+

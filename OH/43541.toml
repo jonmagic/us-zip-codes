@@ -1,6 +1,8 @@
-zip_code = "43541"
-state = "OH"
 city = "Milton Center"
 county = "Wood"
-longitude = -83.829596
 latitude = 41.300891
+longitude = -83.829596
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43541"
+

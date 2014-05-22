@@ -1,6 +1,8 @@
-zip_code = "83836"
-state = "ID"
 city = "Hope"
 county = "Bonner"
-longitude = -116.279202
 latitude = 48.248701
+longitude = -116.279202
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83836"
+

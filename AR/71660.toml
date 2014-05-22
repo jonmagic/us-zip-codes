@@ -1,6 +1,8 @@
-zip_code = "71660"
-state = "AR"
 city = "New Edinburg"
 county = "Cleveland"
-longitude = -92.214399
 latitude = 33.884167
+longitude = -92.214399
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71660"
+

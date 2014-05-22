@@ -1,6 +1,8 @@
-zip_code = "11752"
-state = "NY"
 city = "Islip Terrace"
 county = "Suffolk"
-longitude = -73.182854
 latitude = 40.757226
+longitude = -73.182854
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11752"
+

@@ -1,6 +1,8 @@
-zip_code = "70743"
-state = "LA"
 city = "Hester"
 county = "Saint James"
-longitude = -90.781355
 latitude = 30.020595
+longitude = -90.781355
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70743"
+

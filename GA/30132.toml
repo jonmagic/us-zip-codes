@@ -1,6 +1,8 @@
-zip_code = "30132"
-state = "GA"
 city = "Dallas"
 county = "Paulding"
-longitude = -84.866654
 latitude = 33.935396
+longitude = -84.866654
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30132"
+

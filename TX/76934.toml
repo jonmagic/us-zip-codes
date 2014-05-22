@@ -1,6 +1,8 @@
-zip_code = "76934"
-state = "TX"
 city = "Carlsbad"
 county = "Tom Green"
-longitude = -100.669391
 latitude = 31.626621
+longitude = -100.669391
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76934"
+

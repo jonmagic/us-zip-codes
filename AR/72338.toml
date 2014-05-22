@@ -1,6 +1,8 @@
-zip_code = "72338"
-state = "AR"
 city = "Frenchmans Bayou"
 county = "Mississippi"
-longitude = -90.188375
 latitude = 35.459134
+longitude = -90.188375
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72338"
+

@@ -1,6 +1,8 @@
-zip_code = "61057"
-state = "IL"
 city = "Nachusa"
 county = "Lee"
-longitude = -89.38957
 latitude = 41.831577
+longitude = -89.38957
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61057"
+

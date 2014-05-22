@@ -1,6 +1,8 @@
-zip_code = "66938"
-state = "KS"
 city = "Clyde"
 county = "Cloud"
-longitude = -97.398639
 latitude = 39.59127
+longitude = -97.398639
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66938"
+

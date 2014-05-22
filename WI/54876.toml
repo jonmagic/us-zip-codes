@@ -1,6 +1,8 @@
-zip_code = "54876"
-state = "WI"
 city = "Stone Lake"
 county = "Sawyer"
-longitude = -91.462771
 latitude = 45.821216
+longitude = -91.462771
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54876"
+

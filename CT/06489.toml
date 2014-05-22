@@ -1,6 +1,8 @@
-zip_code = "06489"
-state = "CT"
 city = "Southington"
 county = "Hartford"
-longitude = -72.871945
 latitude = 41.604786
+longitude = -72.871945
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06489"
+

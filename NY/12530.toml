@@ -1,6 +1,8 @@
-zip_code = "12530"
-state = "NY"
 city = "Hollowville"
 county = "Columbia"
-longitude = -73.687001
 latitude = 42.210991
+longitude = -73.687001
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12530"
+

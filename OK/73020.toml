@@ -1,6 +1,8 @@
-zip_code = "73020"
-state = "OK"
 city = "Choctaw"
 county = "Oklahoma"
-longitude = -97.249071
 latitude = 35.51876
+longitude = -97.249071
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73020"
+

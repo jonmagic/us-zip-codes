@@ -1,6 +1,8 @@
-zip_code = "28396"
-state = "NC"
 city = "Wagram"
 county = "Scotland"
-longitude = -79.404128
 latitude = 34.903601
+longitude = -79.404128
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28396"
+

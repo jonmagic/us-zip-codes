@@ -1,6 +1,8 @@
-zip_code = "29672"
-state = "SC"
 city = "Seneca"
 county = "Oconee"
-longitude = -82.945651
 latitude = 34.773984
+longitude = -82.945651
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29672"
+

@@ -1,6 +1,8 @@
-zip_code = "54418"
-state = "WI"
 city = "Bryant"
 county = "Langlade"
-longitude = -88.994008
 latitude = 45.160395
+longitude = -88.994008
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54418"
+

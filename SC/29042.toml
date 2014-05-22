@@ -1,6 +1,8 @@
-zip_code = "29042"
-state = "SC"
 city = "Denmark"
 county = "Bamberg"
-longitude = -81.104895
 latitude = 33.237543
+longitude = -81.104895
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29042"
+

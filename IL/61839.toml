@@ -1,6 +1,8 @@
-zip_code = "61839"
-state = "IL"
 city = "De Land"
 county = "Piatt"
-longitude = -88.623262
 latitude = 40.124321
+longitude = -88.623262
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61839"
+

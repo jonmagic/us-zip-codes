@@ -1,6 +1,8 @@
-zip_code = "08827"
-state = "NJ"
 city = "Hampton"
 county = "Hunterdon"
-longitude = -74.964692
 latitude = 40.6667
+longitude = -74.964692
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08827"
+

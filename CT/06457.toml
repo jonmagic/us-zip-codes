@@ -1,6 +1,8 @@
-zip_code = "06457"
-state = "CT"
 city = "Middletown"
 county = "Middlesex"
-longitude = -72.655357
 latitude = 41.550139
+longitude = -72.655357
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06457"
+

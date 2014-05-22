@@ -1,6 +1,8 @@
-zip_code = "28367"
-state = "NC"
 city = "Norman"
 county = "Richmond"
-longitude = -79.73794
 latitude = 35.162723
+longitude = -79.73794
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28367"
+

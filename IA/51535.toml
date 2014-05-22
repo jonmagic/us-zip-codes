@@ -1,6 +1,8 @@
-zip_code = "51535"
-state = "IA"
 city = "Griswold"
 county = "Cass"
-longitude = -95.041216
 latitude = 41.236242
+longitude = -95.041216
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51535"
+

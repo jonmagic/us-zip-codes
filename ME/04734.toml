@@ -1,6 +1,8 @@
-zip_code = "04734"
-state = "ME"
 city = "Blaine"
 county = "Aroostook"
-longitude = -68.886826
 latitude = 46.516166
+longitude = -68.886826
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04734"
+

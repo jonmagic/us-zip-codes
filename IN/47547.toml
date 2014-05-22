@@ -1,6 +1,8 @@
-zip_code = "47547"
-state = "IN"
 city = "Jasper"
 county = "Dubois"
-longitude = -86.876173
 latitude = 38.364749
+longitude = -86.876173
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47547"
+

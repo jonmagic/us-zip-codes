@@ -1,6 +1,8 @@
-zip_code = "45138"
-state = "OH"
 city = "Lees Creek"
 county = "Clinton"
-longitude = -83.647583
 latitude = 39.416747
+longitude = -83.647583
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45138"
+

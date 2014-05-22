@@ -1,6 +1,8 @@
-zip_code = "70783"
-state = "LA"
 city = "Ventress"
 county = "Pointe Coupee"
-longitude = -91.476768
 latitude = 30.689213
+longitude = -91.476768
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70783"
+

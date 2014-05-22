@@ -1,6 +1,8 @@
-zip_code = "46953"
-state = "IN"
 city = "Marion"
 county = "Grant"
-longitude = -85.626401
 latitude = 40.499959
+longitude = -85.626401
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46953"
+

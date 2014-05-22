@@ -1,6 +1,8 @@
-zip_code = "66857"
-state = "KS"
 city = "Le Roy"
 county = "Coffey"
-longitude = -95.685599
 latitude = 38.11486
+longitude = -95.685599
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66857"
+

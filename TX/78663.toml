@@ -1,6 +1,8 @@
-zip_code = "78663"
-state = "TX"
 city = "Round Mountain"
 county = "Blanco"
-longitude = -98.356711
 latitude = 30.414943
+longitude = -98.356711
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78663"
+

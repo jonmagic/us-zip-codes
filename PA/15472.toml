@@ -1,6 +1,8 @@
-zip_code = "15472"
-state = "PA"
 city = "Oliver"
 county = "Fayette"
-longitude = -79.715837
 latitude = 39.918319
+longitude = -79.715837
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15472"
+

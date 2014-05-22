@@ -1,6 +1,8 @@
-zip_code = "49737"
-state = "MI"
 city = "Good Hart"
 county = "Emmet"
-longitude = -85.113678
 latitude = 45.580183
+longitude = -85.113678
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49737"
+

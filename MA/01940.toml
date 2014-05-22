@@ -1,6 +1,8 @@
-zip_code = "01940"
-state = "MA"
 city = "Lynnfield"
 county = "Essex"
-longitude = -71.028775
 latitude = 42.533732
+longitude = -71.028775
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01940"
+

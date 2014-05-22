@@ -1,6 +1,8 @@
-zip_code = "07857"
-state = "NJ"
 city = "Netcong"
 county = "Morris"
-longitude = -74.700159
 latitude = 40.897808
+longitude = -74.700159
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07857"
+

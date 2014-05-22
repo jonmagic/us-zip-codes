@@ -1,6 +1,8 @@
-zip_code = "12016"
-state = "NY"
 city = "Auriesville"
 county = "Montgomery"
-longitude = -74.423606
 latitude = 42.910206
+longitude = -74.423606
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12016"
+

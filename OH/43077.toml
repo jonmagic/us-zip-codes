@@ -1,6 +1,8 @@
-zip_code = "43077"
-state = "OH"
 city = "Unionville Center"
 county = "Union"
-longitude = -83.30822
 latitude = 40.124392
+longitude = -83.30822
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43077"
+

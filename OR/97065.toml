@@ -1,6 +1,8 @@
-zip_code = "97065"
-state = "OR"
 city = "Wasco"
 county = "Sherman"
-longitude = -120.710276
 latitude = 45.403298
+longitude = -120.710276
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97065"
+

@@ -1,6 +1,8 @@
-zip_code = "78634"
-state = "TX"
 city = "Hutto"
 county = "Williamson"
-longitude = -97.554189
 latitude = 30.551885
+longitude = -97.554189
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78634"
+

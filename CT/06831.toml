@@ -1,6 +1,8 @@
-zip_code = "06831"
-state = "CT"
 city = "Greenwich"
 county = "Fairfield"
-longitude = -73.654472
 latitude = 41.079983
+longitude = -73.654472
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06831"
+

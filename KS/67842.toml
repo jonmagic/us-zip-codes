@@ -1,6 +1,8 @@
-zip_code = "67842"
-state = "KS"
 city = "Ford"
 county = "Ford"
-longitude = -99.799449
 latitude = 37.587839
+longitude = -99.799449
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67842"
+

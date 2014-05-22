@@ -1,6 +1,8 @@
-zip_code = "72435"
-state = "AR"
 city = "Knobel"
 county = "Clay"
-longitude = -90.472819
 latitude = 36.360817
+longitude = -90.472819
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72435"
+

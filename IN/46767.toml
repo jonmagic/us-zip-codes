@@ -1,6 +1,8 @@
-zip_code = "46767"
-state = "IN"
 city = "Ligonier"
 county = "Noble"
-longitude = -85.42573
 latitude = 41.405478
+longitude = -85.42573
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46767"
+

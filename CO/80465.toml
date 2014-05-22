@@ -1,6 +1,8 @@
-zip_code = "80465"
-state = "CO"
 city = "Morrison"
 county = "Jefferson"
-longitude = -105.201967
 latitude = 39.610289
+longitude = -105.201967
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80465"
+

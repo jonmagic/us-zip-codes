@@ -1,6 +1,8 @@
-zip_code = "82435"
-state = "WY"
 city = "Powell"
 county = "Park"
-longitude = -108.948914
 latitude = 44.615962
+longitude = -108.948914
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82435"
+

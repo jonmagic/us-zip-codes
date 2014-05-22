@@ -1,6 +1,8 @@
-zip_code = "35452"
-state = "AL"
 city = "Coker"
 county = "Tuscaloosa"
-longitude = -87.688789
 latitude = 33.293358
+longitude = -87.688789
+state = ""
+state_code_alpha2 = ""
+zip_code = "35452"
+

@@ -1,6 +1,8 @@
-zip_code = "72951"
-state = "AR"
 city = "Ratcliff"
 county = "Logan"
-longitude = -93.889921
 latitude = 35.291693
+longitude = -93.889921
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72951"
+

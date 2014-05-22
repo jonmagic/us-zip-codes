@@ -1,6 +1,8 @@
-zip_code = "36346"
-state = "AL"
 city = "Jack"
 county = "Coffee"
-longitude = -85.970956
 latitude = 31.565157
+longitude = -85.970956
+state = ""
+state_code_alpha2 = ""
+zip_code = "36346"
+

@@ -1,6 +1,8 @@
-zip_code = "43045"
-state = "OH"
 city = "Milford Center"
 county = "Union"
-longitude = -83.441008
 latitude = 40.170089
+longitude = -83.441008
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43045"
+

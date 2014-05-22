@@ -1,6 +1,8 @@
-zip_code = "59014"
-state = "MT"
 city = "Bridger"
 county = "Carbon"
-longitude = -108.920853
 latitude = 45.335953
+longitude = -108.920853
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59014"
+

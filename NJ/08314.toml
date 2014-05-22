@@ -1,6 +1,8 @@
-zip_code = "08314"
-state = "NJ"
 city = "Delmont"
 county = "Cumberland"
-longitude = -74.977352
 latitude = 39.358151
+longitude = -74.977352
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08314"
+

@@ -1,6 +1,8 @@
-zip_code = "61843"
-state = "IL"
 city = "Fisher"
 county = "Champaign"
-longitude = -88.208104
 latitude = 40.137239
+longitude = -88.208104
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61843"
+

@@ -1,6 +1,8 @@
-zip_code = "70081"
-state = "LA"
 city = "Pilottown"
 county = "Plaquemines"
-longitude = -89.364034
 latitude = 29.285081
+longitude = -89.364034
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70081"
+

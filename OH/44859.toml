@@ -1,6 +1,8 @@
-zip_code = "44859"
-state = "OH"
 city = "Nova"
 county = "Ashland"
-longitude = -82.329107
 latitude = 41.011373
+longitude = -82.329107
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44859"
+

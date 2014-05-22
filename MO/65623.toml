@@ -1,6 +1,8 @@
-zip_code = "65623"
-state = "MO"
 city = "Butterfield"
 county = "Barry"
-longitude = -93.906436
 latitude = 36.74901
+longitude = -93.906436
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65623"
+

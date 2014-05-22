@@ -1,6 +1,8 @@
-zip_code = "68346"
-state = "NE"
 city = "Dunbar"
 county = "Otoe"
-longitude = -96.030125
 latitude = 40.634055
+longitude = -96.030125
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68346"
+

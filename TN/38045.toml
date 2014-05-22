@@ -1,6 +1,8 @@
-zip_code = "38045"
-state = "TN"
 city = "Laconia"
 county = "Fayette"
-longitude = -89.232185
 latitude = 35.290428
+longitude = -89.232185
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38045"
+

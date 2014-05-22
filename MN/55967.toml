@@ -1,6 +1,8 @@
-zip_code = "55967"
-state = "MN"
 city = "Racine"
 county = "Mower"
-longitude = -92.483567
 latitude = 43.784072
+longitude = -92.483567
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55967"
+

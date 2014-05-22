@@ -1,6 +1,8 @@
-zip_code = "36872"
-state = "AL"
 city = "Valley"
 county = "Lee"
-longitude = -85.349003
 latitude = 32.578185
+longitude = -85.349003
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36872"
+

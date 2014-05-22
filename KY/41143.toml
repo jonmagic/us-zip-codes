@@ -1,6 +1,8 @@
-zip_code = "41143"
-state = "KY"
 city = "Grayson"
 county = "Carter"
-longitude = -83.000742
 latitude = 38.324893
+longitude = -83.000742
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41143"
+

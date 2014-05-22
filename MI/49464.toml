@@ -1,6 +1,8 @@
-zip_code = "49464"
-state = "MI"
 city = "Zeeland"
 county = "Ottawa"
-longitude = -85.969722
 latitude = 42.869816
+longitude = -85.969722
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49464"
+

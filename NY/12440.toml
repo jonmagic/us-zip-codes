@@ -1,6 +1,8 @@
-zip_code = "12440"
-state = "NY"
 city = "High Falls"
 county = "Ulster"
-longitude = -74.146678
 latitude = 41.872233
+longitude = -74.146678
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12440"
+

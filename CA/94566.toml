@@ -1,6 +1,8 @@
-zip_code = "94566"
-state = "CA"
 city = "Pleasanton"
 county = "Alameda"
-longitude = -121.862128
 latitude = 37.646081
+longitude = -121.862128
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94566"
+

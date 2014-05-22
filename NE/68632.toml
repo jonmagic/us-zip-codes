@@ -1,6 +1,8 @@
-zip_code = "68632"
-state = "NE"
 city = "David City"
 county = "Butler"
-longitude = -97.157229
 latitude = 41.220715
+longitude = -97.157229
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68632"
+

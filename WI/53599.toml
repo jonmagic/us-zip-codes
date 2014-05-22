@@ -1,6 +1,8 @@
-zip_code = "53599"
-state = "WI"
 city = "Woodford"
 county = "Lafayette"
-longitude = -89.862202
 latitude = 42.649309
+longitude = -89.862202
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53599"
+

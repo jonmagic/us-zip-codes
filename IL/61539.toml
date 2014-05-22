@@ -1,6 +1,8 @@
-zip_code = "61539"
-state = "IL"
 city = "Kingston Mines"
 county = "Peoria"
-longitude = -89.768481
 latitude = 40.557119
+longitude = -89.768481
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61539"
+

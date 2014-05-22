@@ -1,6 +1,8 @@
-zip_code = "80701"
-state = "CO"
 city = "Fort Morgan"
 county = "Morgan"
-longitude = -103.847648
 latitude = 40.262591
+longitude = -103.847648
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80701"
+

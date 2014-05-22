@@ -1,6 +1,8 @@
-zip_code = "15730"
-state = "PA"
 city = "Coolspring"
 county = "Jefferson"
-longitude = -78.925563
 latitude = 40.967066
+longitude = -78.925563
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15730"
+

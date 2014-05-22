@@ -1,6 +1,8 @@
-zip_code = "26164"
-state = "WV"
 city = "Ravenswood"
 county = "Jackson"
-longitude = -81.713983
 latitude = 38.98882
+longitude = -81.713983
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26164"
+

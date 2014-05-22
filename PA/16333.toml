@@ -1,6 +1,8 @@
-zip_code = "16333"
-state = "PA"
 city = "Ludlow"
 county = "Mckean"
-longitude = -78.78726
 latitude = 41.742791
+longitude = -78.78726
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16333"
+

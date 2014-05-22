@@ -1,6 +1,8 @@
-zip_code = "58320"
-state = "ND"
 city = "Brinsmade"
 county = "Benson"
-longitude = -99.404705
 latitude = 48.28641
+longitude = -99.404705
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58320"
+

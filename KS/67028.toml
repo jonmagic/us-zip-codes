@@ -1,6 +1,8 @@
-zip_code = "67028"
-state = "KS"
 city = "Coats"
 county = "Pratt"
-longitude = -98.889244
 latitude = 37.638236
+longitude = -98.889244
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67028"
+

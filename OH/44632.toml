@@ -1,6 +1,8 @@
-zip_code = "44632"
-state = "OH"
 city = "Hartville"
 county = "Stark"
-longitude = -81.442635
 latitude = 40.822158
+longitude = -81.442635
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44632"
+

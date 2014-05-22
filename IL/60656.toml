@@ -1,6 +1,8 @@
-zip_code = "60656"
-state = "IL"
 city = "Chicago"
 county = "Cook"
-longitude = -87.865763
 latitude = 41.97353
+longitude = -87.865763
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60656"
+

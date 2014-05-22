@@ -1,6 +1,8 @@
-zip_code = "58214"
-state = "ND"
 city = "Arvilla"
 county = "Grand Forks"
-longitude = -97.494107
 latitude = 47.925956
+longitude = -97.494107
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58214"
+

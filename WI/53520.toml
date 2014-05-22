@@ -1,6 +1,8 @@
-zip_code = "53520"
-state = "WI"
 city = "Brodhead"
 county = "Green"
-longitude = -89.580126
 latitude = 42.605797
+longitude = -89.580126
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53520"
+

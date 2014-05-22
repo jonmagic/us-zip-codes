@@ -1,6 +1,8 @@
-zip_code = "45159"
-state = "OH"
 city = "New Vienna"
 county = "Clinton"
-longitude = -83.702933
 latitude = 39.349254
+longitude = -83.702933
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45159"
+

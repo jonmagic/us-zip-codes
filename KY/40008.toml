@@ -1,6 +1,8 @@
-zip_code = "40008"
-state = "KY"
 city = "Bloomfield"
 county = "Nelson"
-longitude = -85.327083
 latitude = 37.826549
+longitude = -85.327083
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40008"
+

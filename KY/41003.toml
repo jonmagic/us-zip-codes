@@ -1,6 +1,8 @@
-zip_code = "41003"
-state = "KY"
 city = "Berry"
 county = "Harrison"
-longitude = -84.347201
 latitude = 38.442076
+longitude = -84.347201
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41003"
+

@@ -1,6 +1,8 @@
-zip_code = "24941"
-state = "WV"
 city = "Gap Mills"
 county = "Monroe"
-longitude = -80.340084
 latitude = 37.58902
+longitude = -80.340084
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24941"
+

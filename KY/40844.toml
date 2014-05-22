@@ -1,6 +1,8 @@
-zip_code = "40844"
-state = "KY"
 city = "Hoskinston"
 county = "Leslie"
-longitude = -83.424395
 latitude = 37.070198
+longitude = -83.424395
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40844"
+

@@ -1,6 +1,8 @@
-zip_code = "81036"
-state = "CO"
 city = "Eads"
 county = "Kiowa"
-longitude = -102.554901
 latitude = 38.440752
+longitude = -102.554901
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81036"
+

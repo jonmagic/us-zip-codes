@@ -1,6 +1,8 @@
-zip_code = "44017"
-state = "OH"
 city = "Berea"
 county = "Cuyahoga"
-longitude = -81.693019
 latitude = 41.456905
+longitude = -81.693019
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44017"
+

@@ -1,6 +1,8 @@
-zip_code = "42223"
-state = "KY"
 city = "Fort Campbell"
 county = "Christian"
-longitude = -87.458858
 latitude = 36.657253
+longitude = -87.458858
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42223"
+

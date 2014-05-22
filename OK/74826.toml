@@ -1,6 +1,8 @@
-zip_code = "74826"
-state = "OK"
 city = "Asher"
 county = "Pottawatomie"
-longitude = -96.946216
 latitude = 34.96959
+longitude = -96.946216
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74826"
+

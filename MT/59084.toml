@@ -1,6 +1,8 @@
-zip_code = "59084"
-state = "MT"
 city = "Teigen"
 county = "Petroleum"
-longitude = -108.281168
 latitude = 47.173641
+longitude = -108.281168
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59084"
+

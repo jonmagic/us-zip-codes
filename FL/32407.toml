@@ -1,6 +1,8 @@
-zip_code = "32407"
-state = "FL"
 city = "Panama City Beach"
 county = "Bay"
-longitude = -85.813624
 latitude = 30.200682
+longitude = -85.813624
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32407"
+

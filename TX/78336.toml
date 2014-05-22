@@ -1,6 +1,8 @@
-zip_code = "78336"
-state = "TX"
 city = "Aransas Pass"
 county = "San Patricio"
-longitude = -97.513458
 latitude = 27.94979
+longitude = -97.513458
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78336"
+

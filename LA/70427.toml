@@ -1,6 +1,8 @@
-zip_code = "70427"
-state = "LA"
 city = "Bogalusa"
 county = "Washington"
-longitude = -90.044253
 latitude = 30.791723
+longitude = -90.044253
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70427"
+

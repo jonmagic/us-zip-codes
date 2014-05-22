@@ -1,6 +1,8 @@
-zip_code = "20144"
-state = "VA"
 city = "Delaplane"
 county = "Fauquier"
-longitude = -77.967401
 latitude = 38.911315
+longitude = -77.967401
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20144"
+

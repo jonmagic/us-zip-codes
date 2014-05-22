@@ -1,6 +1,8 @@
-zip_code = "59474"
-state = "MT"
 city = "Shelby"
 county = "Toole"
-longitude = -111.73233
 latitude = 48.610551
+longitude = -111.73233
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59474"
+

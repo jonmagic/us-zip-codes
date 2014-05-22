@@ -1,6 +1,8 @@
-zip_code = "15664"
-state = "PA"
 city = "Mammoth"
 county = "Westmoreland"
-longitude = -79.617187
 latitude = 40.310772
+longitude = -79.617187
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15664"
+

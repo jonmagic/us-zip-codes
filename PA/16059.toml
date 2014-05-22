@@ -1,6 +1,8 @@
-zip_code = "16059"
-state = "PA"
 city = "Valencia"
 county = "Butler"
-longitude = -79.937074
 latitude = 40.710689
+longitude = -79.937074
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16059"
+

@@ -1,6 +1,8 @@
-zip_code = "55367"
-state = "MN"
 city = "New Germany"
 county = "Carver"
-longitude = -93.970832
 latitude = 44.899612
+longitude = -93.970832
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55367"
+

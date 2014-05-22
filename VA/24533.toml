@@ -1,6 +1,8 @@
-zip_code = "24533"
-state = "VA"
 city = "Clifford"
 county = "Amherst"
-longitude = -78.946324
 latitude = 37.537969
+longitude = -78.946324
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24533"
+

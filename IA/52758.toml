@@ -1,6 +1,8 @@
-zip_code = "52758"
-state = "IA"
 city = "Mc Causland"
 county = "Scott"
-longitude = -90.453905
 latitude = 41.743048
+longitude = -90.453905
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52758"
+

@@ -1,6 +1,8 @@
-zip_code = "98675"
-state = "WA"
 city = "Yacolt"
 county = "Clark"
-longitude = -122.498993
 latitude = 45.824611
+longitude = -122.498993
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98675"
+

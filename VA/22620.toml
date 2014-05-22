@@ -1,6 +1,8 @@
-zip_code = "22620"
-state = "VA"
 city = "Boyce"
 county = "Clarke"
-longitude = -78.060132
 latitude = 39.048614
+longitude = -78.060132
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22620"
+

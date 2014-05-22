@@ -1,6 +1,8 @@
-zip_code = "38666"
-state = "MS"
 city = "Sardis"
 county = "Panola"
-longitude = -89.930441
 latitude = 34.358883
+longitude = -89.930441
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38666"
+

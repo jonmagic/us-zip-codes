@@ -1,6 +1,8 @@
-zip_code = "14857"
-state = "NY"
 city = "Lakemont"
 county = "Yates"
-longitude = -76.927019
 latitude = 42.512632
+longitude = -76.927019
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14857"
+

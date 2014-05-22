@@ -1,6 +1,8 @@
-zip_code = "70646"
-state = "LA"
 city = "Hayes"
 county = "Calcasieu"
-longitude = -92.945098
 latitude = 30.11138
+longitude = -92.945098
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70646"
+

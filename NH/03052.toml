@@ -1,6 +1,8 @@
-zip_code = "03052"
-state = "NH"
 city = "Litchfield"
 county = "Hillsborough"
-longitude = -71.485331
 latitude = 42.886789
+longitude = -71.485331
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03052"
+

@@ -1,6 +1,8 @@
-zip_code = "77983"
-state = "TX"
 city = "Seadrift"
 county = "Calhoun"
-longitude = -96.667313
 latitude = 28.427276
+longitude = -96.667313
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77983"
+

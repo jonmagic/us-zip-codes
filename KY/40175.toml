@@ -1,6 +1,8 @@
-zip_code = "40175"
-state = "KY"
 city = "Vine Grove"
 county = "Hardin"
-longitude = -86.050646
 latitude = 37.803725
+longitude = -86.050646
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40175"
+

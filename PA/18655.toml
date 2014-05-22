@@ -1,6 +1,8 @@
-zip_code = "18655"
-state = "PA"
 city = "Shickshinny"
 county = "Luzerne"
-longitude = -76.108103
 latitude = 41.151321
+longitude = -76.108103
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18655"
+

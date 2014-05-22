@@ -1,6 +1,8 @@
-zip_code = "15085"
-state = "PA"
 city = "Trafford"
 county = "Westmoreland"
-longitude = -79.594643
 latitude = 40.382668
+longitude = -79.594643
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15085"
+

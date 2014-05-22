@@ -1,6 +1,8 @@
-zip_code = "48838"
-state = "MI"
 city = "Greenville"
 county = "Montcalm"
-longitude = -85.077695
 latitude = 43.282538
+longitude = -85.077695
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48838"
+

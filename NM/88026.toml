@@ -1,6 +1,8 @@
-zip_code = "88026"
-state = "NM"
 city = "Santa Clara"
 county = "Grant"
-longitude = -108.075231
 latitude = 32.793596
+longitude = -108.075231
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88026"
+

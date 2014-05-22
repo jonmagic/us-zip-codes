@@ -1,6 +1,8 @@
-zip_code = "58032"
-state = "ND"
 city = "Forman"
 county = "Sargent"
-longitude = -97.633282
 latitude = 46.058634
+longitude = -97.633282
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58032"
+

@@ -1,6 +1,8 @@
-zip_code = "72601"
-state = "AR"
 city = "Harrison"
 county = "Boone"
-longitude = -93.092861
 latitude = 36.295086
+longitude = -93.092861
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72601"
+

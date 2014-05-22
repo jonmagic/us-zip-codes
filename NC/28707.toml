@@ -1,6 +1,8 @@
-zip_code = "28707"
-state = "NC"
 city = "Balsam"
 county = "Jackson"
-longitude = -83.092783
 latitude = 35.430091
+longitude = -83.092783
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28707"
+

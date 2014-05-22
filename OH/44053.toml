@@ -1,6 +1,8 @@
-zip_code = "44053"
-state = "OH"
 city = "Lorain"
 county = "Lorain"
-longitude = -82.218185
 latitude = 41.425292
+longitude = -82.218185
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44053"
+

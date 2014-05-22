@@ -1,6 +1,8 @@
-zip_code = "80749"
-state = "CO"
 city = "Sedgwick"
 county = "Sedgwick"
-longitude = -102.44023
 latitude = 40.875703
+longitude = -102.44023
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80749"
+

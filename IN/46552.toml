@@ -1,6 +1,8 @@
-zip_code = "46552"
-state = "IN"
 city = "New Carlisle"
 county = "St Joseph"
-longitude = -86.455494
 latitude = 41.701172
+longitude = -86.455494
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46552"
+

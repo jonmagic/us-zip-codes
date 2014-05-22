@@ -1,6 +1,8 @@
-zip_code = "23867"
-state = "VA"
 city = "Jarratt"
 county = "Sussex"
-longitude = -77.282567
 latitude = 36.864325
+longitude = -77.282567
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23867"
+

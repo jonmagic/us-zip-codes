@@ -1,6 +1,8 @@
-zip_code = "87007"
-state = "NM"
 city = "Casa Blanca"
 county = "Cibola"
-longitude = -108.056457
 latitude = 34.962954
+longitude = -108.056457
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87007"
+

@@ -1,6 +1,8 @@
-zip_code = "72119"
-state = "AR"
 city = "North Little Rock"
 county = "Pulaski"
-longitude = -92.259781
 latitude = 34.80165
+longitude = -92.259781
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72119"
+

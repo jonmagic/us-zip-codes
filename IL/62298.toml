@@ -1,6 +1,8 @@
-zip_code = "62298"
-state = "IL"
 city = "Waterloo"
 county = "Monroe"
-longitude = -90.155869
 latitude = 38.327408
+longitude = -90.155869
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62298"
+

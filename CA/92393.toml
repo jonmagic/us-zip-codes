@@ -1,6 +1,8 @@
-zip_code = "92393"
-state = "CA"
 city = "Victorville"
 county = "San Bernardino"
-longitude = -115.967051
 latitude = 34.839964
+longitude = -115.967051
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92393"
+

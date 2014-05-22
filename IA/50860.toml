@@ -1,6 +1,8 @@
-zip_code = "50860"
-state = "IA"
 city = "Redding"
 county = "Ringgold"
-longitude = -94.388509
 latitude = 40.604641
+longitude = -94.388509
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50860"
+

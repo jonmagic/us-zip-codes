@@ -1,6 +1,8 @@
-zip_code = "41214"
-state = "KY"
 city = "Debord"
 county = "Martin"
-longitude = -82.559438
 latitude = 37.800137
+longitude = -82.559438
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41214"
+

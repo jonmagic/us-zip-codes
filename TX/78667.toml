@@ -1,6 +1,8 @@
-zip_code = "78667"
-state = "TX"
 city = "San Marcos"
 county = "Hays"
-longitude = -98.003574
 latitude = 30.054378
+longitude = -98.003574
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78667"
+

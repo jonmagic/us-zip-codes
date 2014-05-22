@@ -1,6 +1,8 @@
-zip_code = "29472"
-state = "SC"
 city = "Ridgeville"
 county = "Dorchester"
-longitude = -80.37462
 latitude = 33.032573
+longitude = -80.37462
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29472"
+

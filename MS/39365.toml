@@ -1,6 +1,8 @@
-zip_code = "39365"
-state = "MS"
 city = "Union"
 county = "Neshoba"
-longitude = -89.111993
 latitude = 32.643921
+longitude = -89.111993
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39365"
+

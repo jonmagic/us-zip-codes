@@ -1,6 +1,8 @@
-zip_code = "89018"
-state = "NV"
 city = "Indian Springs"
 county = "Clark"
-longitude = -115.535079
 latitude = 36.431289
+longitude = -115.535079
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89018"
+

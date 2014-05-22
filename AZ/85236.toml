@@ -1,6 +1,8 @@
-zip_code = "85236"
-state = "AZ"
 city = "Higley"
 county = "Maricopa"
-longitude = -111.69546
 latitude = 33.299317
+longitude = -111.69546
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85236"
+

@@ -1,6 +1,8 @@
-zip_code = "77857"
-state = "TX"
 city = "Gause"
 county = "Milam"
-longitude = -96.723691
 latitude = 30.783324
+longitude = -96.723691
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77857"
+

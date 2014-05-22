@@ -1,6 +1,8 @@
-zip_code = "02031"
-state = "MA"
 city = "East Mansfield"
 county = "Bristol"
-longitude = -71.200894
 latitude = 41.998799
+longitude = -71.200894
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02031"
+

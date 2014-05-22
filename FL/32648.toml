@@ -1,6 +1,8 @@
-zip_code = "32648"
-state = "FL"
 city = "Horseshoe Beach"
 county = "Dixie"
-longitude = -83.19261
 latitude = 29.538213
+longitude = -83.19261
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32648"
+

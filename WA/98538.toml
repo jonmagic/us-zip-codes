@@ -1,6 +1,8 @@
-zip_code = "98538"
-state = "WA"
 city = "Curtis"
 county = "Lewis"
-longitude = -123.146764
 latitude = 46.495639
+longitude = -123.146764
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98538"
+

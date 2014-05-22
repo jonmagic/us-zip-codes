@@ -1,6 +1,8 @@
-zip_code = "52656"
-state = "IA"
 city = "West Point"
 county = "Lee"
-longitude = -91.461569
 latitude = 40.610778
+longitude = -91.461569
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52656"
+

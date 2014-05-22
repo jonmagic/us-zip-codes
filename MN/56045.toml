@@ -1,6 +1,8 @@
-zip_code = "56045"
-state = "MN"
 city = "Hollandale"
 county = "Freeborn"
-longitude = -93.204246
 latitude = 43.759484
+longitude = -93.204246
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56045"
+

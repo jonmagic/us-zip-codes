@@ -1,6 +1,8 @@
-zip_code = "84065"
-state = "UT"
 city = "Riverton"
 county = "Salt Lake"
-longitude = -112.00627
 latitude = 40.495129
+longitude = -112.00627
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84065"
+

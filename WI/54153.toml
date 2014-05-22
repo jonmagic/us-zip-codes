@@ -1,6 +1,8 @@
-zip_code = "54153"
-state = "WI"
 city = "Oconto"
 county = "Oconto"
-longitude = -88.082586
 latitude = 44.897088
+longitude = -88.082586
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54153"
+

@@ -1,6 +1,8 @@
-zip_code = "35593"
-state = "AL"
 city = "Vina"
 county = "Franklin"
-longitude = -87.954816
 latitude = 34.404307
+longitude = -87.954816
+state = ""
+state_code_alpha2 = ""
+zip_code = "35593"
+

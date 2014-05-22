@@ -1,6 +1,8 @@
-zip_code = "12430"
-state = "NY"
 city = "Fleischmanns"
 county = "Delaware"
-longitude = -74.547279
 latitude = 42.177175
+longitude = -74.547279
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12430"
+

@@ -1,6 +1,8 @@
-zip_code = "12065"
-state = "NY"
 city = "Clifton Park"
 county = "Saratoga"
-longitude = -73.792524
 latitude = 42.850576
+longitude = -73.792524
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12065"
+

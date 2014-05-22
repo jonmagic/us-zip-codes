@@ -1,6 +1,8 @@
-zip_code = "65464"
-state = "MO"
 city = "Elk Creek"
 county = "Texas"
-longitude = -91.913367
 latitude = 37.187845
+longitude = -91.913367
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65464"
+

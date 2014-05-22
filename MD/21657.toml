@@ -1,6 +1,8 @@
-zip_code = "21657"
-state = "MD"
 city = "Queen Anne"
 county = "Queen Annes"
-longitude = -75.975322
 latitude = 38.975882
+longitude = -75.975322
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21657"
+

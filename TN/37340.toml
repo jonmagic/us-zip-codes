@@ -1,6 +1,8 @@
-zip_code = "37340"
-state = "TN"
 city = "Guild"
 county = "Marion"
-longitude = -85.517231
 latitude = 35.029115
+longitude = -85.517231
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37340"
+

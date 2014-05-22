@@ -1,6 +1,8 @@
-zip_code = "31729"
-state = "GA"
 city = "Calvary"
 county = "Grady"
-longitude = -84.351846
 latitude = 30.71471
+longitude = -84.351846
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31729"
+

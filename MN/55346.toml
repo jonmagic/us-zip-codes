@@ -1,6 +1,8 @@
-zip_code = "55346"
-state = "MN"
 city = "Eden Prairie"
 county = "Hennepin"
-longitude = -93.47808
 latitude = 44.875463
+longitude = -93.47808
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55346"
+

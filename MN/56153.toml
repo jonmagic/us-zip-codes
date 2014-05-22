@@ -1,6 +1,8 @@
-zip_code = "56153"
-state = "MN"
 city = "Leota"
 county = "Nobles"
-longitude = -96.012811
 latitude = 43.840423
+longitude = -96.012811
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56153"
+

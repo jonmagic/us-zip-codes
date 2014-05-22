@@ -1,6 +1,8 @@
-zip_code = "42251"
-state = "KY"
 city = "Huntsville"
 county = "Butler"
-longitude = -86.885846
 latitude = 37.157967
+longitude = -86.885846
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42251"
+

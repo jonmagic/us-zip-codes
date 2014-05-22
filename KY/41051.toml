@@ -1,6 +1,8 @@
-zip_code = "41051"
-state = "KY"
 city = "Independence"
 county = "Kenton"
-longitude = -84.54745
 latitude = 38.923041
+longitude = -84.54745
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41051"
+

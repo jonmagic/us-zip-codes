@@ -1,6 +1,8 @@
-zip_code = "61728"
-state = "IL"
 city = "Colfax"
 county = "Mclean"
-longitude = -88.614116
 latitude = 40.566345
+longitude = -88.614116
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61728"
+

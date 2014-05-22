@@ -1,6 +1,8 @@
-zip_code = "97381"
-state = "OR"
 city = "Silverton"
 county = "Marion"
-longitude = -122.748442
 latitude = 44.954501
+longitude = -122.748442
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97381"
+

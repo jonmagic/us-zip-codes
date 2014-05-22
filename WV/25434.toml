@@ -1,6 +1,8 @@
-zip_code = "25434"
-state = "WV"
 city = "Paw Paw"
 county = "Morgan"
-longitude = -78.45729
 latitude = 39.530566
+longitude = -78.45729
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25434"
+

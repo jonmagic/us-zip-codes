@@ -1,6 +1,8 @@
-zip_code = "01542"
-state = "MA"
 city = "Rochdale"
 county = "Worcester"
-longitude = -71.914361
 latitude = 42.220085
+longitude = -71.914361
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01542"
+

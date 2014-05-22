@@ -1,6 +1,8 @@
-zip_code = "76446"
-state = "TX"
 city = "Dublin"
 county = "Erath"
-longitude = -98.289028
 latitude = 32.123145
+longitude = -98.289028
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76446"
+

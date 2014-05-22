@@ -1,6 +1,8 @@
-zip_code = "41528"
-state = "KY"
 city = "Freeburn"
 county = "Pike"
-longitude = -82.129733
 latitude = 37.551774
+longitude = -82.129733
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41528"
+

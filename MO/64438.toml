@@ -1,6 +1,8 @@
-zip_code = "64438"
-state = "MO"
 city = "Darlington"
 county = "Gentry"
-longitude = -94.397811
 latitude = 40.197663
+longitude = -94.397811
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64438"
+

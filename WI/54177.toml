@@ -1,6 +1,8 @@
-zip_code = "54177"
-state = "WI"
 city = "Wausaukee"
 county = "Marinette"
-longitude = -87.876231
 latitude = 45.383307
+longitude = -87.876231
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54177"
+

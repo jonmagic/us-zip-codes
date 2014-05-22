@@ -1,6 +1,8 @@
-zip_code = "77873"
-state = "TX"
 city = "Richards"
 county = "Grimes"
-longitude = -95.895889
 latitude = 30.579623
+longitude = -95.895889
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77873"
+

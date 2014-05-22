@@ -1,6 +1,8 @@
-zip_code = "28693"
-state = "NC"
 city = "Warrensville"
 county = "Ashe"
-longitude = -81.572935
 latitude = 36.455704
+longitude = -81.572935
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28693"
+

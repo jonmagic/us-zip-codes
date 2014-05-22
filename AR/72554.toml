@@ -1,6 +1,8 @@
-zip_code = "72554"
-state = "AR"
 city = "Mammoth Spring"
 county = "Fulton"
-longitude = -91.546818
 latitude = 36.492437
+longitude = -91.546818
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72554"
+

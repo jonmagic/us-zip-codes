@@ -1,6 +1,8 @@
-zip_code = "27204"
-state = "NC"
 city = "Asheboro"
 county = "Randolph"
-longitude = -79.720556
 latitude = 35.788286
+longitude = -79.720556
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27204"
+

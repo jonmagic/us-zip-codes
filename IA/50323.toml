@@ -1,6 +1,8 @@
-zip_code = "50323"
-state = "IA"
 city = "Urbandale"
 county = "Polk"
-longitude = -93.771676
 latitude = 41.62938
+longitude = -93.771676
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50323"
+

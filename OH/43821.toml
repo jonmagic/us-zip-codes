@@ -1,6 +1,8 @@
-zip_code = "43821"
-state = "OH"
 city = "Dresden"
 county = "Muskingum"
-longitude = -81.999822
 latitude = 40.106916
+longitude = -81.999822
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43821"
+

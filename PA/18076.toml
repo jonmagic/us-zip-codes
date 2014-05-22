@@ -1,6 +1,8 @@
-zip_code = "18076"
-state = "PA"
 city = "Red Hill"
 county = "Montgomery"
-longitude = -75.505547
 latitude = 40.387419
+longitude = -75.505547
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18076"
+

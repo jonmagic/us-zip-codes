@@ -1,6 +1,8 @@
-zip_code = "31307"
-state = "GA"
 city = "Eden"
 county = "Effingham"
-longitude = -81.353756
 latitude = 32.174021
+longitude = -81.353756
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31307"
+

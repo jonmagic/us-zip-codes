@@ -1,6 +1,8 @@
-zip_code = "63467"
-state = "MO"
 city = "Saverton"
 county = "Ralls"
-longitude = -91.270502
 latitude = 39.650045
+longitude = -91.270502
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63467"
+

@@ -1,6 +1,8 @@
-zip_code = "10922"
-state = "NY"
 city = "Fort Montgomery"
 county = "Orange"
-longitude = -73.99175
 latitude = 41.334557
+longitude = -73.99175
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10922"
+

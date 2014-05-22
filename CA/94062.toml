@@ -1,6 +1,8 @@
-zip_code = "94062"
-state = "CA"
 city = "Redwood City"
 county = "San Mateo"
-longitude = -122.295997
 latitude = 37.424539
+longitude = -122.295997
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94062"
+

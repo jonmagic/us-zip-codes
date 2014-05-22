@@ -1,6 +1,8 @@
-zip_code = "45866"
-state = "OH"
 city = "Montezuma"
 county = "Mercer"
-longitude = -84.549391
 latitude = 40.489028
+longitude = -84.549391
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45866"
+

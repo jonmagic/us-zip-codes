@@ -1,6 +1,8 @@
-zip_code = "14767"
-state = "NY"
 city = "Panama"
 county = "Chautauqua"
-longitude = -79.505101
 latitude = 42.191346
+longitude = -79.505101
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14767"
+

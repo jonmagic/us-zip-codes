@@ -1,6 +1,8 @@
-zip_code = "95612"
-state = "CA"
 city = "Clarksburg"
 county = "Yolo"
-longitude = -121.594875
 latitude = 38.43141
+longitude = -121.594875
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95612"
+

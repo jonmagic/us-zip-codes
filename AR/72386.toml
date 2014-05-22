@@ -1,6 +1,8 @@
-zip_code = "72386"
-state = "AR"
 city = "Tyronza"
 county = "Poinsett"
-longitude = -90.397619
 latitude = 35.49813
+longitude = -90.397619
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72386"
+

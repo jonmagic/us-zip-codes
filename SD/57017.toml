@@ -1,6 +1,8 @@
-zip_code = "57017"
-state = "SD"
 city = "Colman"
 county = "Moody"
-longitude = -96.814237
 latitude = 43.984778
+longitude = -96.814237
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57017"
+

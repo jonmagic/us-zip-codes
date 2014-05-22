@@ -1,6 +1,8 @@
-zip_code = "71461"
-state = "LA"
 city = "Newllano"
 county = "Vernon"
-longitude = -93.311433
 latitude = 31.096279
+longitude = -93.311433
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71461"
+

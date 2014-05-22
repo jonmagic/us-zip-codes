@@ -1,6 +1,8 @@
-zip_code = "51647"
-state = "IA"
 city = "Northboro"
 county = "Page"
-longitude = -95.316476
 latitude = 40.609974
+longitude = -95.316476
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51647"
+

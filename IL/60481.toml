@@ -1,6 +1,8 @@
-zip_code = "60481"
-state = "IL"
 city = "Wilmington"
 county = "Will"
-longitude = -88.084716
 latitude = 41.35934
+longitude = -88.084716
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60481"
+

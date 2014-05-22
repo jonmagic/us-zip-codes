@@ -1,6 +1,8 @@
-zip_code = "32564"
-state = "FL"
 city = "Holt"
 county = "Okaloosa"
-longitude = -86.719764
 latitude = 30.741616
+longitude = -86.719764
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32564"
+

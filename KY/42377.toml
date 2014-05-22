@@ -1,6 +1,8 @@
-zip_code = "42377"
-state = "KY"
 city = "West Louisville"
 county = "Daviess"
-longitude = -87.112823
 latitude = 37.745491
+longitude = -87.112823
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42377"
+

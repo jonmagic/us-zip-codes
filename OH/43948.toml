@@ -1,6 +1,8 @@
-zip_code = "43948"
-state = "OH"
 city = "Smithfield"
 county = "Jefferson"
-longitude = -80.784927
 latitude = 40.28006
+longitude = -80.784927
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43948"
+

@@ -1,6 +1,8 @@
-zip_code = "14454"
-state = "NY"
 city = "Geneseo"
 county = "Livingston"
-longitude = -77.777872
 latitude = 42.783801
+longitude = -77.777872
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14454"
+

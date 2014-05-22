@@ -1,6 +1,8 @@
-zip_code = "83619"
-state = "ID"
 city = "Fruitland"
 county = "Payette"
-longitude = -116.900775
 latitude = 43.974615
+longitude = -116.900775
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83619"
+

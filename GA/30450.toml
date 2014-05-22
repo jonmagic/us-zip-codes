@@ -1,6 +1,8 @@
-zip_code = "30450"
-state = "GA"
 city = "Portal"
 county = "Bulloch"
-longitude = -81.924195
 latitude = 32.552055
+longitude = -81.924195
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30450"
+

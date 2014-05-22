@@ -1,6 +1,8 @@
-zip_code = "77639"
-state = "TX"
 city = "Orangefield"
 county = "Orange"
-longitude = -93.859903
 latitude = 30.063101
+longitude = -93.859903
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77639"
+

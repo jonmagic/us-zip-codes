@@ -1,6 +1,8 @@
-zip_code = "38048"
-state = "TN"
 city = "Macon"
 county = "Fayette"
-longitude = -89.481362
 latitude = 35.15066
+longitude = -89.481362
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38048"
+

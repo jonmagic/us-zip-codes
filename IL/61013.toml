@@ -1,6 +1,8 @@
-zip_code = "61013"
-state = "IL"
 city = "Cedarville"
 county = "Stephenson"
-longitude = -89.636483
 latitude = 42.376127
+longitude = -89.636483
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61013"
+

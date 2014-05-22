@@ -1,6 +1,8 @@
-zip_code = "35453"
-state = "AL"
 city = "Cottondale"
 county = "Tuscaloosa"
-longitude = -87.383843
 latitude = 33.18178
+longitude = -87.383843
+state = ""
+state_code_alpha2 = ""
+zip_code = "35453"
+

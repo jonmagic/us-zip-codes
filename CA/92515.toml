@@ -1,6 +1,8 @@
-zip_code = "92515"
-state = "CA"
 city = "Riverside"
 county = "Riverside"
-longitude = -116.055617
 latitude = 33.752886
+longitude = -116.055617
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92515"
+

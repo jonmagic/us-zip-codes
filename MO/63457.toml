@@ -1,6 +1,8 @@
-zip_code = "63457"
-state = "MO"
 city = "Monticello"
 county = "Lewis"
-longitude = -91.68774
 latitude = 40.090883
+longitude = -91.68774
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63457"
+

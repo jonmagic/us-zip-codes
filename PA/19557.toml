@@ -1,6 +1,8 @@
-zip_code = "19557"
-state = "PA"
 city = "Stony Run"
 county = "Berks"
-longitude = -75.814984
 latitude = 40.613868
+longitude = -75.814984
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19557"
+

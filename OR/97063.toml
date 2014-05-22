@@ -1,6 +1,8 @@
-zip_code = "97063"
-state = "OR"
 city = "Tygh Valley"
 county = "Wasco"
-longitude = -121.233727
 latitude = 45.297105
+longitude = -121.233727
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97063"
+

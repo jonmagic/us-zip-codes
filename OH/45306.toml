@@ -1,6 +1,8 @@
-zip_code = "45306"
-state = "OH"
 city = "Botkins"
 county = "Shelby"
-longitude = -84.189245
 latitude = 40.439778
+longitude = -84.189245
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45306"
+

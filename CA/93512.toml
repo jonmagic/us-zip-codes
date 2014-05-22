@@ -1,6 +1,8 @@
-zip_code = "93512"
-state = "CA"
 city = "Benton"
 county = "Mono"
-longitude = -118.624903
 latitude = 37.496842
+longitude = -118.624903
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93512"
+

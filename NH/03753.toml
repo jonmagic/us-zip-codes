@@ -1,6 +1,8 @@
-zip_code = "03753"
-state = "NH"
 city = "Grantham"
 county = "Sullivan"
-longitude = -72.218445
 latitude = 43.463101
+longitude = -72.218445
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03753"
+

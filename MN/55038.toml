@@ -1,6 +1,8 @@
-zip_code = "55038"
-state = "MN"
 city = "Hugo"
 county = "Washington"
-longitude = -92.945218
 latitude = 45.182366
+longitude = -92.945218
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55038"
+

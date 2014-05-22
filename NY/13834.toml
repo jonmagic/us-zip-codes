@@ -1,6 +1,8 @@
-zip_code = "13834"
-state = "NY"
 city = "Portlandville"
 county = "Otsego"
-longitude = -74.966985
 latitude = 42.539439
+longitude = -74.966985
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13834"
+

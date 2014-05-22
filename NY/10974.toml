@@ -1,6 +1,8 @@
-zip_code = "10974"
-state = "NY"
 city = "Sloatsburg"
 county = "Rockland"
-longitude = -74.200784
 latitude = 41.157473
+longitude = -74.200784
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10974"
+

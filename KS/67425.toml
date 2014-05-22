@@ -1,6 +1,8 @@
-zip_code = "67425"
-state = "KS"
 city = "Brookville"
 county = "Saline"
-longitude = -97.854579
 latitude = 38.783921
+longitude = -97.854579
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67425"
+

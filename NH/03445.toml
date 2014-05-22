@@ -1,6 +1,8 @@
-zip_code = "03445"
-state = "NH"
 city = "Sullivan"
 county = "Cheshire"
-longitude = -72.201903
 latitude = 42.998225
+longitude = -72.201903
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03445"
+

@@ -1,6 +1,8 @@
-zip_code = "17957"
-state = "PA"
 city = "Muir"
 county = "Schuylkill"
-longitude = -76.516075
 latitude = 40.592578
+longitude = -76.516075
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17957"
+

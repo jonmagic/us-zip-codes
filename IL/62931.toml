@@ -1,6 +1,8 @@
-zip_code = "62931"
-state = "IL"
 city = "Elizabethtown"
 county = "Hardin"
-longitude = -88.238292
 latitude = 37.500757
+longitude = -88.238292
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62931"
+

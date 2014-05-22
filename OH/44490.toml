@@ -1,6 +1,8 @@
-zip_code = "44490"
-state = "OH"
 city = "Washingtonville"
 county = "Columbiana"
-longitude = -80.767064
 latitude = 40.896699
+longitude = -80.767064
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44490"
+

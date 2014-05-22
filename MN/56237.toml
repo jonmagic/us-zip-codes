@@ -1,6 +1,8 @@
-zip_code = "56237"
-state = "MN"
 city = "Echo"
 county = "Yellow Medicine"
-longitude = -95.411535
 latitude = 44.617739
+longitude = -95.411535
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56237"
+

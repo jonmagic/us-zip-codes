@@ -1,6 +1,8 @@
-zip_code = "14840"
-state = "NY"
 city = "Hammondsport"
 county = "Steuben"
-longitude = -77.198396
 latitude = 42.322455
+longitude = -77.198396
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14840"
+

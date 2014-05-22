@@ -1,6 +1,8 @@
-zip_code = "11426"
-state = "NY"
 city = "Bellerose"
 county = "Queens"
-longitude = -73.723176
 latitude = 40.736798
+longitude = -73.723176
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11426"
+

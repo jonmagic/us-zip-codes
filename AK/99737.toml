@@ -1,6 +1,8 @@
-zip_code = "99737"
-state = "AK"
 city = "Delta Junction"
 county = "Southeast Fairbanks"
-longitude = -143.422478
 latitude = 63.107461
+longitude = -143.422478
+state = ""
+state_code_alpha2 = ""
+zip_code = "99737"
+

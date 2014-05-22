@@ -1,6 +1,8 @@
-zip_code = "59540"
-state = "MT"
 city = "Rudyard"
 county = "Hill"
-longitude = -110.110287
 latitude = 48.566602
+longitude = -110.110287
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59540"
+

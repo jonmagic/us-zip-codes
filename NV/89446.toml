@@ -1,6 +1,8 @@
-zip_code = "89446"
-state = "NV"
 city = "Winnemucca"
 county = "Humboldt"
-longitude = -117.760165
 latitude = 41.076358
+longitude = -117.760165
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89446"
+

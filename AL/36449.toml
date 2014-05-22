@@ -1,6 +1,8 @@
-zip_code = "36449"
-state = "AL"
 city = "Goodway"
 county = "Monroe"
-longitude = -87.345345
 latitude = 31.529531
+longitude = -87.345345
+state = ""
+state_code_alpha2 = ""
+zip_code = "36449"
+

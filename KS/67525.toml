@@ -1,6 +1,8 @@
-zip_code = "67525"
-state = "KS"
 city = "Claflin"
 county = "Barton"
-longitude = -98.627068
 latitude = 38.565876
+longitude = -98.627068
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67525"
+

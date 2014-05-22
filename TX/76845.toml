@@ -1,6 +1,8 @@
-zip_code = "76845"
-state = "TX"
 city = "Gouldbusk"
 county = "Coleman"
-longitude = -99.546975
 latitude = 31.528604
+longitude = -99.546975
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76845"
+

@@ -1,6 +1,8 @@
-zip_code = "71999"
-state = "AR"
 city = "Arkadelphia"
 county = "Clark"
-longitude = -93.189406
 latitude = 34.055486
+longitude = -93.189406
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71999"
+

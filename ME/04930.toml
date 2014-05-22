@@ -1,6 +1,8 @@
-zip_code = "04930"
-state = "ME"
 city = "Dexter"
 county = "Penobscot"
-longitude = -69.203773
 latitude = 44.964532
+longitude = -69.203773
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04930"
+

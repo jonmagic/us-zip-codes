@@ -1,6 +1,8 @@
-zip_code = "62893"
-state = "IL"
 city = "Walnut Hill"
 county = "Marion"
-longitude = -88.929247
 latitude = 38.547927
+longitude = -88.929247
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62893"
+

@@ -1,6 +1,8 @@
-zip_code = "51009"
-state = "IA"
 city = "Calumet"
 county = "Obrien"
-longitude = -95.570082
 latitude = 42.9552
+longitude = -95.570082
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51009"
+

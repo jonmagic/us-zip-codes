@@ -1,6 +1,8 @@
-zip_code = "84316"
-state = "UT"
 city = "Howell"
 county = "Box Elder"
-longitude = -112.396755
 latitude = 41.77328
+longitude = -112.396755
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84316"
+

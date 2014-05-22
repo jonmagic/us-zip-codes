@@ -1,6 +1,8 @@
-zip_code = "76599"
-state = "TX"
 city = "Gatesville"
 county = "Coryell"
-longitude = -97.734728
 latitude = 31.470598
+longitude = -97.734728
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76599"
+

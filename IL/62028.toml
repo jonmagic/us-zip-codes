@@ -1,6 +1,8 @@
-zip_code = "62028"
-state = "IL"
 city = "Elsah"
 county = "Jersey"
-longitude = -90.338648
 latitude = 38.959647
+longitude = -90.338648
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62028"
+

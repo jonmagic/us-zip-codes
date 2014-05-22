@@ -1,6 +1,8 @@
-zip_code = "49098"
-state = "MI"
 city = "Watervliet"
 county = "Berrien"
-longitude = -86.271878
 latitude = 42.161397
+longitude = -86.271878
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49098"
+

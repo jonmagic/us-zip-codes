@@ -1,6 +1,8 @@
-zip_code = "28366"
-state = "NC"
 city = "Newton Grove"
 county = "Sampson"
-longitude = -78.333526
 latitude = 35.14936
+longitude = -78.333526
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28366"
+

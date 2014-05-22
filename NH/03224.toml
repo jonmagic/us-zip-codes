@@ -1,6 +1,8 @@
-zip_code = "03224"
-state = "NH"
 city = "Canterbury"
 county = "Merrimack"
-longitude = -71.604226
 latitude = 43.378281
+longitude = -71.604226
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03224"
+

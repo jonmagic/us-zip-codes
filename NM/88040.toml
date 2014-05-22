@@ -1,6 +1,8 @@
-zip_code = "88040"
-state = "NM"
 city = "Hachita"
 county = "Grant"
-longitude = -108.331605
 latitude = 31.890411
+longitude = -108.331605
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88040"
+

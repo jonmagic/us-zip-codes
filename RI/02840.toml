@@ -1,6 +1,8 @@
-zip_code = "02840"
-state = "RI"
 city = "Newport"
 county = "Newport"
-longitude = -71.327084
 latitude = 41.487552
+longitude = -71.327084
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02840"
+

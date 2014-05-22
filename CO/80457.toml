@@ -1,6 +1,8 @@
-zip_code = "80457"
-state = "CO"
 city = "Kittredge"
 county = "Jefferson"
-longitude = -105.278194
 latitude = 39.648137
+longitude = -105.278194
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80457"
+

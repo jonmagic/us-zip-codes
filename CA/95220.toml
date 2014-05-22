@@ -1,6 +1,8 @@
-zip_code = "95220"
-state = "CA"
 city = "Acampo"
 county = "San Joaquin"
-longitude = -121.230207
 latitude = 38.198666
+longitude = -121.230207
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95220"
+

@@ -1,6 +1,8 @@
-zip_code = "78832"
-state = "TX"
 city = "Brackettville"
 county = "Kinney"
-longitude = -100.421055
 latitude = 29.299888
+longitude = -100.421055
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78832"
+

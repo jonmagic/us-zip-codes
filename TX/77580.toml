@@ -1,6 +1,8 @@
-zip_code = "77580"
-state = "TX"
 city = "Mont Belvieu"
 county = "Chambers"
-longitude = -94.842939
 latitude = 29.856137
+longitude = -94.842939
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77580"
+

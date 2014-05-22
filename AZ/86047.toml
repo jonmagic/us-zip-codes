@@ -1,6 +1,8 @@
-zip_code = "86047"
-state = "AZ"
 city = "Winslow"
 county = "Navajo"
-longitude = -110.35061
 latitude = 34.633764
+longitude = -110.35061
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86047"
+

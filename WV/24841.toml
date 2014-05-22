@@ -1,6 +1,8 @@
-zip_code = "24841"
-state = "WV"
 city = "Havaco"
 county = "Mcdowell"
-longitude = -81.576548
 latitude = 37.405828
+longitude = -81.576548
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24841"
+

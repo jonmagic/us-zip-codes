@@ -1,6 +1,8 @@
-zip_code = "71241"
-state = "LA"
 city = "Farmerville"
 county = "Union"
-longitude = -92.39525
 latitude = 32.777031
+longitude = -92.39525
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71241"
+

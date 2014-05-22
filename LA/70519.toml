@@ -1,6 +1,8 @@
-zip_code = "70519"
-state = "LA"
 city = "Cade"
 county = "Saint Martin"
-longitude = -91.911387
 latitude = 30.079692
+longitude = -91.911387
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70519"
+

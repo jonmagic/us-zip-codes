@@ -1,6 +1,8 @@
-zip_code = "49332"
-state = "MI"
 city = "Mecosta"
 county = "Mecosta"
-longitude = -85.31329
 latitude = 43.60077
+longitude = -85.31329
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49332"
+

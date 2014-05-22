@@ -1,6 +1,8 @@
-zip_code = "73425"
-state = "OK"
 city = "Countyline"
 county = "Stephens"
-longitude = -97.852223
 latitude = 34.48532
+longitude = -97.852223
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73425"
+

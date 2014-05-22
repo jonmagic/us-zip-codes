@@ -1,6 +1,8 @@
-zip_code = "16743"
-state = "PA"
 city = "Port Allegany"
 county = "Mckean"
-longitude = -78.457878
 latitude = 41.881851
+longitude = -78.457878
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16743"
+

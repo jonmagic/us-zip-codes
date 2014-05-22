@@ -1,6 +1,8 @@
-zip_code = "15557"
-state = "PA"
 city = "Rockwood"
 county = "Somerset"
-longitude = -79.141476
 latitude = 39.955145
+longitude = -79.141476
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15557"
+

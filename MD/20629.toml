@@ -1,6 +1,8 @@
-zip_code = "20629"
-state = "MD"
 city = "Dowell"
 county = "Calvert"
-longitude = -76.434476
 latitude = 38.376974
+longitude = -76.434476
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20629"
+

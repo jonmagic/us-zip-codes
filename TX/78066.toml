@@ -1,6 +1,8 @@
-zip_code = "78066"
-state = "TX"
 city = "Rio Medina"
 county = "Medina"
-longitude = -98.869444
 latitude = 29.461171
+longitude = -98.869444
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78066"
+

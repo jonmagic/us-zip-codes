@@ -1,6 +1,8 @@
-zip_code = "61772"
-state = "IL"
 city = "Shirley"
 county = "Mclean"
-longitude = -88.864303
 latitude = 40.519236
+longitude = -88.864303
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61772"
+

@@ -1,6 +1,8 @@
-zip_code = "28365"
-state = "NC"
 city = "Mount Olive"
 county = "Wayne"
-longitude = -78.09006
 latitude = 35.229061
+longitude = -78.09006
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28365"
+

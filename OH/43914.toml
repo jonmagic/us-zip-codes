@@ -1,6 +1,8 @@
-zip_code = "43914"
-state = "OH"
 city = "Cameron"
 county = "Monroe"
-longitude = -80.945431
 latitude = 39.768729
+longitude = -80.945431
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43914"
+

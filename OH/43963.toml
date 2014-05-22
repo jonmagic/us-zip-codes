@@ -1,6 +1,8 @@
-zip_code = "43963"
-state = "OH"
 city = "Tiltonsville"
 county = "Jefferson"
-longitude = -80.738107
 latitude = 40.22676
+longitude = -80.738107
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43963"
+

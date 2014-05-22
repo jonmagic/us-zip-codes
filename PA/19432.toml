@@ -1,6 +1,8 @@
-zip_code = "19432"
-state = "PA"
 city = "Devault"
 county = "Chester"
-longitude = -75.559975
 latitude = 40.079629
+longitude = -75.559975
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19432"
+

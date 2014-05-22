@@ -1,6 +1,8 @@
-zip_code = "28082"
-state = "NC"
 city = "Kannapolis"
 county = "Cabarrus"
-longitude = -80.541088
 latitude = 35.346285
+longitude = -80.541088
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28082"
+

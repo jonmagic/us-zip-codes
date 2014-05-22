@@ -1,6 +1,8 @@
-zip_code = "70515"
-state = "LA"
 city = "Basile"
 county = "Evangeline"
-longitude = -92.519207
 latitude = 30.67837
+longitude = -92.519207
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70515"
+

@@ -1,6 +1,8 @@
-zip_code = "00795"
-state = "PR"
 city = "Juana Diaz"
 county = "Juana Diaz"
-longitude = -66.493218
 latitude = 17.997367
+longitude = -66.493218
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00795"
+

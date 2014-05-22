@@ -1,6 +1,8 @@
-zip_code = "78146"
-state = "TX"
 city = "Pettus"
 county = "Bee"
-longitude = -97.808154
 latitude = 28.616396
+longitude = -97.808154
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78146"
+

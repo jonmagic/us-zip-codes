@@ -1,6 +1,8 @@
-zip_code = "31075"
-state = "GA"
 city = "Rentz"
 county = "Laurens"
-longitude = -82.966995
 latitude = 32.379902
+longitude = -82.966995
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31075"
+

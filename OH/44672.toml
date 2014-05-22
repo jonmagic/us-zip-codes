@@ -1,6 +1,8 @@
-zip_code = "44672"
-state = "OH"
 city = "Sebring"
 county = "Mahoning"
-longitude = -81.021736
 latitude = 40.920492
+longitude = -81.021736
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44672"
+

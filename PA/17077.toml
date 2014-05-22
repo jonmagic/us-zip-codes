@@ -1,6 +1,8 @@
-zip_code = "17077"
-state = "PA"
 city = "Ono"
 county = "Lebanon"
-longitude = -76.414757
 latitude = 40.375404
+longitude = -76.414757
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17077"
+

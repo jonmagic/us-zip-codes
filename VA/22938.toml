@@ -1,6 +1,8 @@
-zip_code = "22938"
-state = "VA"
 city = "Faber"
 county = "Nelson"
-longitude = -78.816071
 latitude = 37.859373
+longitude = -78.816071
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22938"
+

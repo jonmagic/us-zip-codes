@@ -1,6 +1,8 @@
-zip_code = "46929"
-state = "IN"
 city = "Flora"
 county = "Carroll"
-longitude = -86.490521
 latitude = 40.556269
+longitude = -86.490521
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46929"
+

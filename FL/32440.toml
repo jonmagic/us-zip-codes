@@ -1,6 +1,8 @@
-zip_code = "32440"
-state = "FL"
 city = "Graceville"
 county = "Jackson"
-longitude = -85.361113
 latitude = 30.882994
+longitude = -85.361113
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32440"
+

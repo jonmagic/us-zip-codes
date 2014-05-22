@@ -1,6 +1,8 @@
-zip_code = "30176"
-state = "GA"
 city = "Tallapoosa"
 county = "Haralson"
-longitude = -85.261585
 latitude = 33.770057
+longitude = -85.261585
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30176"
+

@@ -1,6 +1,8 @@
-zip_code = "45683"
-state = "OH"
 city = "Stockdale"
 county = "Pike"
-longitude = -82.858402
 latitude = 38.955485
+longitude = -82.858402
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45683"
+

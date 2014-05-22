@@ -1,6 +1,8 @@
-zip_code = "44644"
-state = "OH"
 city = "Malvern"
 county = "Carroll"
-longitude = -81.200395
 latitude = 40.590393
+longitude = -81.200395
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44644"
+

@@ -1,6 +1,8 @@
-zip_code = "76522"
-state = "TX"
 city = "Copperas Cove"
 county = "Coryell"
-longitude = -97.930051
 latitude = 31.202919
+longitude = -97.930051
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76522"
+

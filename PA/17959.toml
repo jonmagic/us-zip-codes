@@ -1,6 +1,8 @@
-zip_code = "17959"
-state = "PA"
 city = "New Philadelphia"
 county = "Schuylkill"
-longitude = -76.155786
 latitude = 40.675413
+longitude = -76.155786
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17959"
+

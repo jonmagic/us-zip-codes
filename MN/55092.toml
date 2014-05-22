@@ -1,6 +1,8 @@
-zip_code = "55092"
-state = "MN"
 city = "Wyoming"
 county = "Chisago"
-longitude = -92.967517
 latitude = 45.336417
+longitude = -92.967517
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55092"
+

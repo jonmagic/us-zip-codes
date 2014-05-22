@@ -1,6 +1,8 @@
-zip_code = "30094"
-state = "GA"
 city = "Conyers"
 county = "Rockdale"
-longitude = -84.068288
 latitude = 33.611119
+longitude = -84.068288
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30094"
+

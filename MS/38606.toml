@@ -1,6 +1,8 @@
-zip_code = "38606"
-state = "MS"
 city = "Batesville"
 county = "Panola"
-longitude = -89.956497
 latitude = 34.343102
+longitude = -89.956497
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38606"
+

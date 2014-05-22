@@ -1,6 +1,8 @@
-zip_code = "94703"
-state = "CA"
 city = "Berkeley"
 county = "Alameda"
-longitude = -122.27573
 latitude = 37.865725
+longitude = -122.27573
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94703"
+

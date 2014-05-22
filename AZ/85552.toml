@@ -1,6 +1,8 @@
-zip_code = "85552"
-state = "AZ"
 city = "Thatcher"
 county = "Graham"
-longitude = -109.746133
 latitude = 32.850436
+longitude = -109.746133
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85552"
+

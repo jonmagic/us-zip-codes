@@ -1,6 +1,8 @@
-zip_code = "02468"
-state = "MA"
 city = "Waban"
 county = "Middlesex"
-longitude = -71.231534
 latitude = 42.327146
+longitude = -71.231534
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02468"
+

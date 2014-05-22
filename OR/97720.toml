@@ -1,6 +1,8 @@
-zip_code = "97720"
-state = "OR"
 city = "Burns"
 county = "Harney"
-longitude = -118.874273
 latitude = 43.554287
+longitude = -118.874273
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97720"
+

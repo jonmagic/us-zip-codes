@@ -1,6 +1,8 @@
-zip_code = "56304"
-state = "MN"
 city = "Saint Cloud"
 county = "Stearns"
-longitude = -94.440969
 latitude = 45.544864
+longitude = -94.440969
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56304"
+

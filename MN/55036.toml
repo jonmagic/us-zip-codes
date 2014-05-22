@@ -1,6 +1,8 @@
-zip_code = "55036"
-state = "MN"
 city = "Henriette"
 county = "Pine"
-longitude = -93.124235
 latitude = 45.854335
+longitude = -93.124235
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55036"
+

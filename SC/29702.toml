@@ -1,6 +1,8 @@
-zip_code = "29702"
-state = "SC"
 city = "Blacksburg"
 county = "Cherokee"
-longitude = -81.494193
 latitude = 35.10953
+longitude = -81.494193
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29702"
+

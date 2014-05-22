@@ -1,6 +1,8 @@
-zip_code = "27282"
-state = "NC"
 city = "Jamestown"
 county = "Guilford"
-longitude = -79.926902
 latitude = 35.996926
+longitude = -79.926902
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27282"
+

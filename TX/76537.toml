@@ -1,6 +1,8 @@
-zip_code = "76537"
-state = "TX"
 city = "Jarrell"
 county = "Williamson"
-longitude = -97.594186
 latitude = 30.811931
+longitude = -97.594186
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76537"
+

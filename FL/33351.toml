@@ -1,6 +1,8 @@
-zip_code = "33351"
-state = "FL"
 city = "Fort Lauderdale"
 county = "Broward"
-longitude = -80.266437
 latitude = 26.108554
+longitude = -80.266437
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33351"
+

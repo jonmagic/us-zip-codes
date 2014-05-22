@@ -1,6 +1,8 @@
-zip_code = "37713"
-state = "TN"
 city = "Bybee"
 county = "Cocke"
-longitude = -83.121619
 latitude = 36.104208
+longitude = -83.121619
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37713"
+

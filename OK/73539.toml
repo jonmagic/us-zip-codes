@@ -1,6 +1,8 @@
-zip_code = "73539"
-state = "OK"
 city = "Elmer"
 county = "Jackson"
-longitude = -99.347951
 latitude = 34.481717
+longitude = -99.347951
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73539"
+

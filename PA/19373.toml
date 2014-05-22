@@ -1,6 +1,8 @@
-zip_code = "19373"
-state = "PA"
 city = "Thornton"
 county = "Delaware"
-longitude = -75.535383
 latitude = 39.905987
+longitude = -75.535383
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19373"
+

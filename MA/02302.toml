@@ -1,6 +1,8 @@
-zip_code = "02302"
-state = "MA"
 city = "Brockton"
 county = "Plymouth"
-longitude = -71.000189
 latitude = 42.08475
+longitude = -71.000189
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02302"
+

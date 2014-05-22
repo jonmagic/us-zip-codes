@@ -1,6 +1,8 @@
-zip_code = "16651"
-state = "PA"
 city = "Houtzdale"
 county = "Clearfield"
-longitude = -78.377189
 latitude = 40.78995
+longitude = -78.377189
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16651"
+

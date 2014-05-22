@@ -1,6 +1,8 @@
-zip_code = "68366"
-state = "NE"
 city = "Greenwood"
 county = "Cass"
-longitude = -96.290223
 latitude = 40.905385
+longitude = -96.290223
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68366"
+

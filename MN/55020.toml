@@ -1,6 +1,8 @@
-zip_code = "55020"
-state = "MN"
 city = "Elko"
 county = "Scott"
-longitude = -93.369473
 latitude = 44.588963
+longitude = -93.369473
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55020"
+

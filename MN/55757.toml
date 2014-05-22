@@ -1,6 +1,8 @@
-zip_code = "55757"
-state = "MN"
 city = "Kettle River"
 county = "Carlton"
-longitude = -92.908622
 latitude = 46.52049
+longitude = -92.908622
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55757"
+

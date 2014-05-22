@@ -1,6 +1,8 @@
-zip_code = "72166"
-state = "AR"
 city = "Tichnor"
 county = "Arkansas"
-longitude = -91.227608
 latitude = 34.079836
+longitude = -91.227608
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72166"
+

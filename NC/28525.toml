@@ -1,6 +1,8 @@
-zip_code = "28525"
-state = "NC"
 city = "Deep Run"
 county = "Lenoir"
-longitude = -77.688191
 latitude = 35.134409
+longitude = -77.688191
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28525"
+

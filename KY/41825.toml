@@ -1,6 +1,8 @@
-zip_code = "41825"
-state = "KY"
 city = "Jackhorn"
 county = "Letcher"
-longitude = -82.722772
 latitude = 37.224615
+longitude = -82.722772
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41825"
+

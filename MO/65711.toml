@@ -1,6 +1,8 @@
-zip_code = "65711"
-state = "MO"
 city = "Mountain Grove"
 county = "Wright"
-longitude = -92.432734
 latitude = 37.265652
+longitude = -92.432734
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65711"
+

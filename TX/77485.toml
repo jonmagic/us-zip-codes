@@ -1,6 +1,8 @@
-zip_code = "77485"
-state = "TX"
 city = "Wallis"
 county = "Austin"
-longitude = -96.279263
 latitude = 29.789915
+longitude = -96.279263
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77485"
+

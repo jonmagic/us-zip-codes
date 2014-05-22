@@ -1,6 +1,8 @@
-zip_code = "61533"
-state = "IL"
 city = "Glasford"
 county = "Peoria"
-longitude = -89.815144
 latitude = 40.589183
+longitude = -89.815144
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61533"
+

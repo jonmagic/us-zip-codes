@@ -1,6 +1,8 @@
-zip_code = "98011"
-state = "WA"
 city = "Bothell"
 county = "King"
-longitude = -122.214376
 latitude = 47.750689
+longitude = -122.214376
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98011"
+

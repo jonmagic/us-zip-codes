@@ -1,6 +1,8 @@
-zip_code = "37727"
-state = "TN"
 city = "Del Rio"
 county = "Cocke"
-longitude = -83.006316
 latitude = 35.909233
+longitude = -83.006316
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37727"
+

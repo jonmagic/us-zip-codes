@@ -1,6 +1,8 @@
-zip_code = "04556"
-state = "ME"
 city = "Edgecomb"
 county = "Lincoln"
-longitude = -69.587334
 latitude = 43.931748
+longitude = -69.587334
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04556"
+

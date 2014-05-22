@@ -1,6 +1,8 @@
-zip_code = "36521"
-state = "AL"
 city = "Chunchula"
 county = "Mobile"
-longitude = -88.181921
 latitude = 30.929148
+longitude = -88.181921
+state = ""
+state_code_alpha2 = ""
+zip_code = "36521"
+

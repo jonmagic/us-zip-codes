@@ -1,6 +1,8 @@
-zip_code = "46816"
-state = "IN"
 city = "Fort Wayne"
 county = "Allen"
-longitude = -85.033817
 latitude = 40.988047
+longitude = -85.033817
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46816"
+

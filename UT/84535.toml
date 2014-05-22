@@ -1,6 +1,8 @@
-zip_code = "84535"
-state = "UT"
 city = "Monticello"
 county = "San Juan"
-longitude = -109.259108
 latitude = 38.099745
+longitude = -109.259108
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84535"
+

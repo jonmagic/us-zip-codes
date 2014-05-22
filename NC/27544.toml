@@ -1,6 +1,8 @@
-zip_code = "27544"
-state = "NC"
 city = "Kittrell"
 county = "Vance"
-longitude = -78.450087
 latitude = 36.220048
+longitude = -78.450087
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27544"
+

@@ -1,6 +1,8 @@
-zip_code = "24534"
-state = "VA"
 city = "Clover"
 county = "Halifax"
-longitude = -78.748218
 latitude = 36.875823
+longitude = -78.748218
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24534"
+

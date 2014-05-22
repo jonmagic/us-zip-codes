@@ -1,6 +1,8 @@
-zip_code = "25039"
-state = "WV"
 city = "Cedar Grove"
 county = "Kanawha"
-longitude = -81.59823
 latitude = 38.279199
+longitude = -81.59823
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25039"
+

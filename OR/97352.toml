@@ -1,6 +1,8 @@
-zip_code = "97352"
-state = "OR"
 city = "Jefferson"
 county = "Marion"
-longitude = -123.003516
 latitude = 44.768025
+longitude = -123.003516
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97352"
+

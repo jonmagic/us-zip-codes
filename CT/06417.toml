@@ -1,6 +1,8 @@
-zip_code = "06417"
-state = "CT"
 city = "Deep River"
 county = "Middlesex"
-longitude = -72.452284
 latitude = 41.368124
+longitude = -72.452284
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06417"
+

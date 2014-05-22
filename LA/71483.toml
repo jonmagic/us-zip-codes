@@ -1,6 +1,8 @@
-zip_code = "71483"
-state = "LA"
 city = "Winnfield"
 county = "Winn"
-longitude = -92.669269
 latitude = 31.914948
+longitude = -92.669269
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71483"
+

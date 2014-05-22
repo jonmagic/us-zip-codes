@@ -1,6 +1,8 @@
-zip_code = "59276"
-state = "MT"
 city = "Whitetail"
 county = "Daniels"
-longitude = -105.161657
 latitude = 48.8956
+longitude = -105.161657
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59276"
+

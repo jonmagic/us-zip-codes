@@ -1,6 +1,8 @@
-zip_code = "30230"
-state = "GA"
 city = "Hogansville"
 county = "Troup"
-longitude = -84.960566
 latitude = 33.144151
+longitude = -84.960566
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30230"
+

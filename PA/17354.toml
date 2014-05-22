@@ -1,6 +1,8 @@
-zip_code = "17354"
-state = "PA"
 city = "Porters Sideling"
 county = "York"
-longitude = -76.89927
 latitude = 39.82457
+longitude = -76.89927
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17354"
+

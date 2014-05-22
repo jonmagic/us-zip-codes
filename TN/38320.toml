@@ -1,6 +1,8 @@
-zip_code = "38320"
-state = "TN"
 city = "Camden"
 county = "Benton"
-longitude = -88.101856
 latitude = 36.082972
+longitude = -88.101856
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38320"
+

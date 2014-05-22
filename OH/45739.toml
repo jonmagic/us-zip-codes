@@ -1,6 +1,8 @@
-zip_code = "45739"
-state = "OH"
 city = "Hockingport"
 county = "Athens"
-longitude = -81.744573
 latitude = 39.197888
+longitude = -81.744573
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45739"
+

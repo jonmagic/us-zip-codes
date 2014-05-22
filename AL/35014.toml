@@ -1,6 +1,8 @@
-zip_code = "35014"
-state = "AL"
 city = "Alpine"
 county = "Talladega"
-longitude = -86.233878
 latitude = 33.403969
+longitude = -86.233878
+state = ""
+state_code_alpha2 = ""
+zip_code = "35014"
+

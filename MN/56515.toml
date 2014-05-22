@@ -1,6 +1,8 @@
-zip_code = "56515"
-state = "MN"
 city = "Battle Lake"
 county = "Otter Tail"
-longitude = -95.707485
 latitude = 46.294519
+longitude = -95.707485
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56515"
+

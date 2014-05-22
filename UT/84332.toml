@@ -1,6 +1,8 @@
-zip_code = "84332"
-state = "UT"
 city = "Providence"
 county = "Cache"
-longitude = -111.915564
 latitude = 41.797849
+longitude = -111.915564
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84332"
+

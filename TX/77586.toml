@@ -1,6 +1,8 @@
-zip_code = "77586"
-state = "TX"
 city = "Seabrook"
 county = "Harris"
-longitude = -95.101012
 latitude = 29.602041
+longitude = -95.101012
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77586"
+

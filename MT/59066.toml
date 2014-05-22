@@ -1,6 +1,8 @@
-zip_code = "59066"
-state = "MT"
 city = "Pryor"
 county = "Big Horn"
-longitude = -107.481697
 latitude = 45.518708
+longitude = -107.481697
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59066"
+

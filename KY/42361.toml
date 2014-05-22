@@ -1,6 +1,8 @@
-zip_code = "42361"
-state = "KY"
 city = "Olaton"
 county = "Ohio"
-longitude = -86.718192
 latitude = 37.518118
+longitude = -86.718192
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42361"
+

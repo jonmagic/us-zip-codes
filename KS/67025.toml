@@ -1,6 +1,8 @@
-zip_code = "67025"
-state = "KS"
 city = "Cheney"
 county = "Sedgwick"
-longitude = -97.73513
 latitude = 37.633711
+longitude = -97.73513
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67025"
+

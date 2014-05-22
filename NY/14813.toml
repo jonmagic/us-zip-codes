@@ -1,6 +1,8 @@
-zip_code = "14813"
-state = "NY"
 city = "Belmont"
 county = "Allegany"
-longitude = -77.963148
 latitude = 42.242168
+longitude = -77.963148
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14813"
+

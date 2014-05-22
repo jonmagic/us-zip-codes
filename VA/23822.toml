@@ -1,6 +1,8 @@
-zip_code = "23822"
-state = "VA"
 city = "Ammon"
 county = "Dinwiddie"
-longitude = -77.647495
 latitude = 37.072361
+longitude = -77.647495
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23822"
+

@@ -1,6 +1,8 @@
-zip_code = "42444"
-state = "KY"
 city = "Poole"
 county = "Webster"
-longitude = -87.643862
 latitude = 37.641002
+longitude = -87.643862
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42444"
+

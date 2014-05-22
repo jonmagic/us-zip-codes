@@ -1,6 +1,8 @@
-zip_code = "16686"
-state = "PA"
 city = "Tyrone"
 county = "Blair"
-longitude = -78.340045
 latitude = 40.522068
+longitude = -78.340045
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16686"
+

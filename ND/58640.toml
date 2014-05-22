@@ -1,6 +1,8 @@
-zip_code = "58640"
-state = "ND"
 city = "Killdeer"
 county = "Dunn"
-longitude = -102.703916
 latitude = 47.526978
+longitude = -102.703916
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58640"
+

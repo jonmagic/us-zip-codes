@@ -1,6 +1,8 @@
-zip_code = "30114"
-state = "GA"
 city = "Canton"
 county = "Cherokee"
-longitude = -84.49093
 latitude = 34.250547
+longitude = -84.49093
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30114"
+

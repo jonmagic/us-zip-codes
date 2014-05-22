@@ -1,6 +1,8 @@
-zip_code = "29001"
-state = "SC"
 city = "Alcolu"
 county = "Clarendon"
-longitude = -80.190733
 latitude = 33.685155
+longitude = -80.190733
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29001"
+

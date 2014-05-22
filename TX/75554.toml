@@ -1,6 +1,8 @@
-zip_code = "75554"
-state = "TX"
 city = "Avery"
 county = "Red River"
-longitude = -94.772766
 latitude = 33.551468
+longitude = -94.772766
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75554"
+

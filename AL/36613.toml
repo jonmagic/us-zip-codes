@@ -1,6 +1,8 @@
-zip_code = "36613"
-state = "AL"
 city = "Eight Mile"
 county = "Mobile"
-longitude = -88.196296
 latitude = 30.769758
+longitude = -88.196296
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36613"
+

@@ -1,6 +1,8 @@
-zip_code = "16340"
-state = "PA"
 city = "Pittsfield"
 county = "Warren"
-longitude = -79.432589
 latitude = 41.862381
+longitude = -79.432589
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16340"
+

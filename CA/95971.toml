@@ -1,6 +1,8 @@
-zip_code = "95971"
-state = "CA"
 city = "Quincy"
 county = "Plumas"
-longitude = -121.017725
 latitude = 40.005131
+longitude = -121.017725
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95971"
+

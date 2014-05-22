@@ -1,6 +1,8 @@
-zip_code = "97324"
-state = "OR"
 city = "Alsea"
 county = "Benton"
-longitude = -123.588271
 latitude = 44.377113
+longitude = -123.588271
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97324"
+

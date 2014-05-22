@@ -1,6 +1,8 @@
-zip_code = "05495"
-state = "VT"
 city = "Williston"
 county = "Chittenden"
-longitude = -73.026735
 latitude = 44.430096
+longitude = -73.026735
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05495"
+

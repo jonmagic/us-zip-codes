@@ -1,6 +1,8 @@
-zip_code = "91914"
-state = "CA"
 city = "Chula Vista"
 county = "San Diego"
-longitude = -116.966139
 latitude = 32.656159
+longitude = -116.966139
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91914"
+

@@ -1,6 +1,8 @@
-zip_code = "03082"
-state = "NH"
 city = "Lyndeborough"
 county = "Hillsborough"
-longitude = -71.773947
 latitude = 42.902031
+longitude = -71.773947
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03082"
+

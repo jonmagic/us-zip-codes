@@ -1,6 +1,8 @@
-zip_code = "72029"
-state = "AR"
 city = "Clarendon"
 county = "Monroe"
-longitude = -91.247509
 latitude = 34.745361
+longitude = -91.247509
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72029"
+

@@ -1,6 +1,8 @@
-zip_code = "32920"
-state = "FL"
 city = "Cape Canaveral"
 county = "Brevard"
-longitude = -80.614323
 latitude = 28.394642
+longitude = -80.614323
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32920"
+

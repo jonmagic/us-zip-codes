@@ -1,6 +1,8 @@
-zip_code = "21679"
-state = "MD"
 city = "Wye Mills"
 county = "Talbot"
-longitude = -76.073905
 latitude = 38.91506
+longitude = -76.073905
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21679"
+

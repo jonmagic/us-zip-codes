@@ -1,6 +1,8 @@
-zip_code = "47556"
-state = "IN"
 city = "Mariah Hill"
 county = "Spencer"
-longitude = -86.917205
 latitude = 38.16644
+longitude = -86.917205
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47556"
+

@@ -1,6 +1,8 @@
-zip_code = "60519"
-state = "IL"
 city = "Eola"
 county = "Du Page"
-longitude = -88.246193
 latitude = 41.777235
+longitude = -88.246193
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60519"
+

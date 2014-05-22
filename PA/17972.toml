@@ -1,6 +1,8 @@
-zip_code = "17972"
-state = "PA"
 city = "Schuylkill Haven"
 county = "Schuylkill"
-longitude = -76.154856
 latitude = 40.602048
+longitude = -76.154856
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17972"
+

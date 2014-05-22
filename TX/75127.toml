@@ -1,6 +1,8 @@
-zip_code = "75127"
-state = "TX"
 city = "Fruitvale"
 county = "Van Zandt"
-longitude = -95.79425
 latitude = 32.685045
+longitude = -95.79425
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75127"
+

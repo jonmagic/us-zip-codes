@@ -1,6 +1,8 @@
-zip_code = "18507"
-state = "PA"
 city = "Moosic"
 county = "Lackawanna"
-longitude = -75.706584
 latitude = 41.361332
+longitude = -75.706584
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18507"
+

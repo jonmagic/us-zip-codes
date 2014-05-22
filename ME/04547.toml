@@ -1,6 +1,8 @@
-zip_code = "04547"
-state = "ME"
 city = "Friendship"
 county = "Knox"
-longitude = -69.231179
 latitude = 44.010424
+longitude = -69.231179
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04547"
+

@@ -1,6 +1,8 @@
-zip_code = "06377"
-state = "CT"
 city = "Sterling"
 county = "Windham"
-longitude = -71.823184
 latitude = 41.719948
+longitude = -71.823184
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06377"
+

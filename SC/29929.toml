@@ -1,6 +1,8 @@
-zip_code = "29929"
-state = "SC"
 city = "Islandton"
 county = "Colleton"
-longitude = -80.948043
 latitude = 32.946307
+longitude = -80.948043
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29929"
+

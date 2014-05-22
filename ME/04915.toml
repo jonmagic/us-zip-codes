@@ -1,6 +1,8 @@
-zip_code = "04915"
-state = "ME"
 city = "Belfast"
 county = "Waldo"
-longitude = -69.040297
 latitude = 44.404619
+longitude = -69.040297
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04915"
+

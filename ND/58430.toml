@@ -1,6 +1,8 @@
-zip_code = "58430"
-state = "ND"
 city = "Denhoff"
 county = "Sheridan"
-longitude = -100.271687
 latitude = 47.529679
+longitude = -100.271687
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58430"
+

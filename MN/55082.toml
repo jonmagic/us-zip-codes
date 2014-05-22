@@ -1,6 +1,8 @@
-zip_code = "55082"
-state = "MN"
 city = "Stillwater"
 county = "Washington"
-longitude = -92.84736
 latitude = 45.061416
+longitude = -92.84736
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55082"
+

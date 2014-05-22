@@ -1,6 +1,8 @@
-zip_code = "58461"
-state = "ND"
 city = "Litchville"
 county = "Barnes"
-longitude = -98.186443
 latitude = 46.717981
+longitude = -98.186443
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58461"
+

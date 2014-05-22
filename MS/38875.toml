@@ -1,6 +1,8 @@
-zip_code = "38875"
-state = "MS"
 city = "Trebloc"
 county = "Chickasaw"
-longitude = -88.955351
 latitude = 33.906827
+longitude = -88.955351
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38875"
+

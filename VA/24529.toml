@@ -1,6 +1,8 @@
-zip_code = "24529"
-state = "VA"
 city = "Buffalo Junction"
 county = "Mecklenburg"
-longitude = -78.641645
 latitude = 36.61405
+longitude = -78.641645
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24529"
+

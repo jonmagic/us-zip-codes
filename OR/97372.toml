@@ -1,6 +1,8 @@
-zip_code = "97372"
-state = "OR"
 city = "Rose Lodge"
 county = "Lincoln"
-longitude = -123.892016
 latitude = 44.659979
+longitude = -123.892016
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97372"
+

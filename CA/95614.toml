@@ -1,6 +1,8 @@
-zip_code = "95614"
-state = "CA"
 city = "Cool"
 county = "El Dorado"
-longitude = -120.986029
 latitude = 38.877956
+longitude = -120.986029
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95614"
+

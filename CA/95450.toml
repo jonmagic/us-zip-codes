@@ -1,6 +1,8 @@
-zip_code = "95450"
-state = "CA"
 city = "Jenner"
 county = "Sonoma"
-longitude = -123.227415
 latitude = 38.546934
+longitude = -123.227415
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95450"
+

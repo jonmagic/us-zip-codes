@@ -1,6 +1,8 @@
-zip_code = "93531"
-state = "CA"
 city = "Keene"
 county = "Kern"
-longitude = -118.581032
 latitude = 35.226499
+longitude = -118.581032
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93531"
+

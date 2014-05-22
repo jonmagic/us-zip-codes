@@ -1,6 +1,8 @@
-zip_code = "75669"
-state = "TX"
 city = "Long Branch"
 county = "Panola"
-longitude = -94.538115
 latitude = 32.044916
+longitude = -94.538115
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75669"
+

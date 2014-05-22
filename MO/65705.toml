@@ -1,6 +1,8 @@
-zip_code = "65705"
-state = "MO"
 city = "Marionville"
 county = "Lawrence"
-longitude = -93.628454
 latitude = 37.065338
+longitude = -93.628454
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65705"
+

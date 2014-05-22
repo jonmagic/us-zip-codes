@@ -1,6 +1,8 @@
-zip_code = "69340"
-state = "NE"
 city = "Ellsworth"
 county = "Sheridan"
-longitude = -102.399697
 latitude = 42.502412
+longitude = -102.399697
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69340"
+

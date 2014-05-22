@@ -1,6 +1,8 @@
-zip_code = "50666"
-state = "IA"
 city = "Plainfield"
 county = "Bremer"
-longitude = -92.470373
 latitude = 42.840591
+longitude = -92.470373
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50666"
+

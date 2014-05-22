@@ -1,6 +1,8 @@
-zip_code = "27897"
-state = "NC"
 city = "Woodland"
 county = "Northampton"
-longitude = -77.313667
 latitude = 36.393691
+longitude = -77.313667
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27897"
+

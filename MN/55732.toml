@@ -1,6 +1,8 @@
-zip_code = "55732"
-state = "MN"
 city = "Embarrass"
 county = "Saint Louis"
-longitude = -92.228145
 latitude = 47.662641
+longitude = -92.228145
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55732"
+

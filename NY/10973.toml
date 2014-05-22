@@ -1,6 +1,8 @@
-zip_code = "10973"
-state = "NY"
 city = "Slate Hill"
 county = "Orange"
-longitude = -74.480395
 latitude = 41.386099
+longitude = -74.480395
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10973"
+

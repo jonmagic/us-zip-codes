@@ -1,6 +1,8 @@
-zip_code = "08805"
-state = "NJ"
 city = "Bound Brook"
 county = "Somerset"
-longitude = -74.538249
 latitude = 40.575402
+longitude = -74.538249
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08805"
+

@@ -1,6 +1,8 @@
-zip_code = "61732"
-state = "IL"
 city = "Danvers"
 county = "Mclean"
-longitude = -88.882841
 latitude = 40.43644
+longitude = -88.882841
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61732"
+

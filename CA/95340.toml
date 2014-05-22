@@ -1,6 +1,8 @@
-zip_code = "95340"
-state = "CA"
 city = "Merced"
 county = "Merced"
-longitude = -120.475427
 latitude = 37.338191
+longitude = -120.475427
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95340"
+

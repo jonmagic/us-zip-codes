@@ -1,6 +1,8 @@
-zip_code = "72858"
-state = "AR"
 city = "Pottsville"
 county = "Pope"
-longitude = -93.026834
 latitude = 35.232993
+longitude = -93.026834
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72858"
+

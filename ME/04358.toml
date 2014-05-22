@@ -1,6 +1,8 @@
-zip_code = "04358"
-state = "ME"
 city = "South China"
 county = "Kennebec"
-longitude = -69.586327
 latitude = 44.375578
+longitude = -69.586327
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04358"
+

@@ -1,6 +1,8 @@
-zip_code = "28308"
-state = "NC"
 city = "Pope A F B"
 county = "Cumberland"
-longitude = -79.013799
 latitude = 35.173377
+longitude = -79.013799
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28308"
+

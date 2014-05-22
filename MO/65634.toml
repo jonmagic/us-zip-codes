@@ -1,6 +1,8 @@
-zip_code = "65634"
-state = "MO"
 city = "Cross Timbers"
 county = "Hickory"
-longitude = -93.228867
 latitude = 38.024206
+longitude = -93.228867
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65634"
+

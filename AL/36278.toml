@@ -1,6 +1,8 @@
-zip_code = "36278"
-state = "AL"
 city = "Wedowee"
 county = "Randolph"
-longitude = -85.498377
 latitude = 33.318053
+longitude = -85.498377
+state = ""
+state_code_alpha2 = ""
+zip_code = "36278"
+

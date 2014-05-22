@@ -1,6 +1,8 @@
-zip_code = "06077"
-state = "CT"
 city = "Staffordville"
 county = "Tolland"
-longitude = -72.257735
 latitude = 41.991645
+longitude = -72.257735
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06077"
+

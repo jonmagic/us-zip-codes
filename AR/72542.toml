@@ -1,6 +1,8 @@
-zip_code = "72542"
-state = "AR"
 city = "Hardy"
 county = "Sharp"
-longitude = -91.481669
 latitude = 36.178441
+longitude = -91.481669
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72542"
+

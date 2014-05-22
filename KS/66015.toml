@@ -1,6 +1,8 @@
-zip_code = "66015"
-state = "KS"
 city = "Colony"
 county = "Anderson"
-longitude = -95.299014
 latitude = 38.213685
+longitude = -95.299014
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66015"
+

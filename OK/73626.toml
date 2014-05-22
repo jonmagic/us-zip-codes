@@ -1,6 +1,8 @@
-zip_code = "73626"
-state = "OK"
 city = "Canute"
 county = "Washita"
-longitude = -99.280304
 latitude = 35.418882
+longitude = -99.280304
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73626"
+

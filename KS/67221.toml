@@ -1,6 +1,8 @@
-zip_code = "67221"
-state = "KS"
 city = "Mcconnell Afb"
 county = "Sedgwick"
-longitude = -97.26626
 latitude = 37.628158
+longitude = -97.26626
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67221"
+

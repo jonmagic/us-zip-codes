@@ -1,6 +1,8 @@
-zip_code = "54448"
-state = "WI"
 city = "Marathon"
 county = "Marathon"
-longitude = -89.80077
 latitude = 44.875437
+longitude = -89.80077
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54448"
+

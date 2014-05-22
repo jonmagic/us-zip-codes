@@ -1,6 +1,8 @@
-zip_code = "19009"
-state = "PA"
 city = "Bryn Athyn"
 county = "Montgomery"
-longitude = -75.062292
 latitude = 40.135012
+longitude = -75.062292
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19009"
+

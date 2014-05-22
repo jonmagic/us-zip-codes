@@ -1,6 +1,8 @@
-zip_code = "66064"
-state = "KS"
 city = "Osawatomie"
 county = "Miami"
-longitude = -94.891655
 latitude = 38.558533
+longitude = -94.891655
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66064"
+

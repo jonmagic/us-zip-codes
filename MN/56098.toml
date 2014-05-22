@@ -1,6 +1,8 @@
-zip_code = "56098"
-state = "MN"
 city = "Winnebago"
 county = "Faribault"
-longitude = -93.948241
 latitude = 43.673848
+longitude = -93.948241
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56098"
+

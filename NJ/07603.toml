@@ -1,6 +1,8 @@
-zip_code = "07603"
-state = "NJ"
 city = "Bogota"
 county = "Bergen"
-longitude = -74.030484
 latitude = 40.874773
+longitude = -74.030484
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07603"
+

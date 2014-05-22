@@ -1,6 +1,8 @@
-zip_code = "76567"
-state = "TX"
 city = "Rockdale"
 county = "Milam"
-longitude = -97.035158
 latitude = 30.655359
+longitude = -97.035158
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76567"
+

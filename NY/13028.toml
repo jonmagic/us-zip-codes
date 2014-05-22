@@ -1,6 +1,8 @@
-zip_code = "13028"
-state = "NY"
 city = "Bernhards Bay"
 county = "Oswego"
-longitude = -76.135765
 latitude = 43.310494
+longitude = -76.135765
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13028"
+

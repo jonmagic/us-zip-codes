@@ -1,6 +1,8 @@
-zip_code = "58038"
-state = "ND"
 city = "Grandin"
 county = "Cass"
-longitude = -96.96915
 latitude = 47.072418
+longitude = -96.96915
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58038"
+

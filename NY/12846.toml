@@ -1,6 +1,8 @@
-zip_code = "12846"
-state = "NY"
 city = "Lake Luzerne"
 county = "Warren"
-longitude = -73.771547
 latitude = 43.455598
+longitude = -73.771547
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12846"
+

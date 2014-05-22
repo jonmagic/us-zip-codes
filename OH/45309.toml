@@ -1,6 +1,8 @@
-zip_code = "45309"
-state = "OH"
 city = "Brookville"
 county = "Montgomery"
-longitude = -84.330392
 latitude = 39.836157
+longitude = -84.330392
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45309"
+

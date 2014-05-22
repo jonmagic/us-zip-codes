@@ -1,6 +1,8 @@
-zip_code = "49235"
-state = "MI"
 city = "Clayton"
 county = "Lenawee"
-longitude = -84.156209
 latitude = 41.930577
+longitude = -84.156209
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49235"
+

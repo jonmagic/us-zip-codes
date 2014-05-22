@@ -1,6 +1,8 @@
-zip_code = "63868"
-state = "MO"
 city = "Morehouse"
 county = "New Madrid"
-longitude = -89.68472
 latitude = 36.850353
+longitude = -89.68472
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63868"
+

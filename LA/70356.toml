@@ -1,6 +1,8 @@
-zip_code = "70356"
-state = "LA"
 city = "Gibson"
 county = "Terrebonne"
-longitude = -90.912489
 latitude = 29.654609
+longitude = -90.912489
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70356"
+

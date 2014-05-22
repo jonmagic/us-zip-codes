@@ -1,6 +1,8 @@
-zip_code = "22844"
-state = "VA"
 city = "New Market"
 county = "Shenandoah"
-longitude = -78.677685
 latitude = 38.673777
+longitude = -78.677685
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22844"
+

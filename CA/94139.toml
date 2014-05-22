@@ -1,6 +1,8 @@
-zip_code = "94139"
-state = "CA"
 city = "San Francisco"
 county = "San Francisco"
-longitude = -122.727802
 latitude = 37.784827
+longitude = -122.727802
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94139"
+

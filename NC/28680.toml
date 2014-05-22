@@ -1,6 +1,8 @@
-zip_code = "28680"
-state = "NC"
 city = "Morganton"
 county = "Burke"
-longitude = -81.695292
 latitude = 35.750657
+longitude = -81.695292
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28680"
+

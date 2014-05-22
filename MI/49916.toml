@@ -1,6 +1,8 @@
-zip_code = "49916"
-state = "MI"
 city = "Chassell"
 county = "Houghton"
-longitude = -88.572499
 latitude = 47.020152
+longitude = -88.572499
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49916"
+

@@ -1,6 +1,8 @@
-zip_code = "21617"
-state = "MD"
 city = "Centreville"
 county = "Queen Annes"
-longitude = -76.091375
 latitude = 39.084003
+longitude = -76.091375
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21617"
+

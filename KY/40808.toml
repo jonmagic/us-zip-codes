@@ -1,6 +1,8 @@
-zip_code = "40808"
-state = "KY"
 city = "Big Laurel"
 county = "Harlan"
-longitude = -83.206701
 latitude = 36.984102
+longitude = -83.206701
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40808"
+

@@ -1,6 +1,8 @@
-zip_code = "02481"
-state = "MA"
 city = "Wellesley Hills"
 county = "Norfolk"
-longitude = -71.274652
 latitude = 42.310597
+longitude = -71.274652
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02481"
+

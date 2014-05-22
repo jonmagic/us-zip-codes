@@ -1,6 +1,8 @@
-zip_code = "43335"
-state = "OH"
 city = "Martel"
 county = "Marion"
-longitude = -82.909984
 latitude = 40.668497
+longitude = -82.909984
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43335"
+

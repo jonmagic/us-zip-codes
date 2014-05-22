@@ -1,6 +1,8 @@
-zip_code = "81134"
-state = "CO"
 city = "Garcia"
 county = "Costilla"
-longitude = -105.530023
 latitude = 37.092195
+longitude = -105.530023
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81134"
+

@@ -1,6 +1,8 @@
-zip_code = "23022"
-state = "VA"
 city = "Bremo Bluff"
 county = "Fluvanna"
-longitude = -78.277393
 latitude = 37.848408
+longitude = -78.277393
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23022"
+

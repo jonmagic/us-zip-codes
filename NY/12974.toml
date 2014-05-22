@@ -1,6 +1,8 @@
-zip_code = "12974"
-state = "NY"
 city = "Port Henry"
 county = "Essex"
-longitude = -73.461308
 latitude = 44.087072
+longitude = -73.461308
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12974"
+

@@ -1,6 +1,8 @@
-zip_code = "37335"
-state = "TN"
 city = "Flintville"
 county = "Lincoln"
-longitude = -86.412954
 latitude = 35.058083
+longitude = -86.412954
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37335"
+

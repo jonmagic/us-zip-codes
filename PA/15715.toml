@@ -1,6 +1,8 @@
-zip_code = "15715"
-state = "PA"
 city = "Big Run"
 county = "Jefferson"
-longitude = -78.875799
 latitude = 40.970448
+longitude = -78.875799
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15715"
+

@@ -1,6 +1,8 @@
-zip_code = "98040"
-state = "WA"
 city = "Mercer Island"
 county = "King"
-longitude = -122.228083
 latitude = 47.56025
+longitude = -122.228083
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98040"
+

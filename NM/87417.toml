@@ -1,6 +1,8 @@
-zip_code = "87417"
-state = "NM"
 city = "Kirtland"
 county = "San Juan"
-longitude = -108.318698
 latitude = 36.742972
+longitude = -108.318698
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87417"
+

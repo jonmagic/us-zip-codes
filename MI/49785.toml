@@ -1,6 +1,8 @@
-zip_code = "49785"
-state = "MI"
 city = "Kincheloe"
 county = "Chippewa"
-longitude = -84.405367
 latitude = 46.181451
+longitude = -84.405367
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49785"
+

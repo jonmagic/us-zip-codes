@@ -1,6 +1,8 @@
-zip_code = "59870"
-state = "MT"
 city = "Stevensville"
 county = "Ravalli"
-longitude = -114.047154
 latitude = 46.320508
+longitude = -114.047154
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59870"
+

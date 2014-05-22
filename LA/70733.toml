@@ -1,6 +1,8 @@
-zip_code = "70733"
-state = "LA"
 city = "French Settlement"
 county = "Livingston"
-longitude = -90.779704
 latitude = 30.30657
+longitude = -90.779704
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70733"
+

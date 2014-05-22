@@ -1,6 +1,8 @@
-zip_code = "67070"
-state = "KS"
 city = "Kiowa"
 county = "Barber"
-longitude = -98.503736
 latitude = 37.138561
+longitude = -98.503736
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67070"
+

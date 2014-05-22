@@ -1,6 +1,8 @@
-zip_code = "37301"
-state = "TN"
 city = "Altamont"
 county = "Grundy"
-longitude = -85.789682
 latitude = 35.360328
+longitude = -85.789682
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37301"
+

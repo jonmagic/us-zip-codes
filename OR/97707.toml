@@ -1,6 +1,8 @@
-zip_code = "97707"
-state = "OR"
 city = "Bend"
 county = "Deschutes"
-longitude = -121.576423
 latitude = 43.843071
+longitude = -121.576423
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97707"
+

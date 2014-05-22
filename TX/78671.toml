@@ -1,6 +1,8 @@
-zip_code = "78671"
-state = "TX"
 city = "Stonewall"
 county = "Gillespie"
-longitude = -98.706737
 latitude = 30.289559
+longitude = -98.706737
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78671"
+

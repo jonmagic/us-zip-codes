@@ -1,6 +1,8 @@
-zip_code = "67864"
-state = "KS"
 city = "Meade"
 county = "Meade"
-longitude = -100.316583
 latitude = 37.238357
+longitude = -100.316583
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67864"
+

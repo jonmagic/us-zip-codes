@@ -1,6 +1,8 @@
-zip_code = "33470"
-state = "FL"
 city = "Loxahatchee"
 county = "Palm Beach"
-longitude = -80.294771
 latitude = 26.649816
+longitude = -80.294771
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33470"
+

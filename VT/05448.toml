@@ -1,6 +1,8 @@
-zip_code = "05448"
-state = "VT"
 city = "East Fairfield"
 county = "Franklin"
-longitude = -72.882683
 latitude = 44.741186
+longitude = -72.882683
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05448"
+

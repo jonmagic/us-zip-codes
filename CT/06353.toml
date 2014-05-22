@@ -1,6 +1,8 @@
-zip_code = "06353"
-state = "CT"
 city = "Montville"
 county = "New London"
-longitude = -72.137471
 latitude = 41.452548
+longitude = -72.137471
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06353"
+

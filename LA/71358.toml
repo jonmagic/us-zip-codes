@@ -1,6 +1,8 @@
-zip_code = "71358"
-state = "LA"
 city = "Palmetto"
 county = "Saint Landry"
-longitude = -91.895195
 latitude = 30.72662
+longitude = -91.895195
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71358"
+

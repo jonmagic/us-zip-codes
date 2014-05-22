@@ -1,6 +1,8 @@
-zip_code = "52326"
-state = "IA"
 city = "Quasqueton"
 county = "Buchanan"
-longitude = -91.710553
 latitude = 42.469908
+longitude = -91.710553
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52326"
+

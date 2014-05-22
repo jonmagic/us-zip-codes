@@ -1,6 +1,8 @@
-zip_code = "36313"
-state = "AL"
 city = "Bellwood"
 county = "Geneva"
-longitude = -85.813687
 latitude = 31.150094
+longitude = -85.813687
+state = ""
+state_code_alpha2 = ""
+zip_code = "36313"
+

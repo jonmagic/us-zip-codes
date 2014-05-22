@@ -1,6 +1,8 @@
-zip_code = "18955"
-state = "PA"
 city = "Richlandtown"
 county = "Bucks"
-longitude = -75.314639
 latitude = 40.47963
+longitude = -75.314639
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18955"
+

@@ -1,6 +1,8 @@
-zip_code = "30441"
-state = "GA"
 city = "Midville"
 county = "Burke"
-longitude = -82.172337
 latitude = 32.926431
+longitude = -82.172337
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30441"
+

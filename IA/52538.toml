@@ -1,6 +1,8 @@
-zip_code = "52538"
-state = "IA"
 city = "West Grove"
 county = "Davis"
-longitude = -92.408679
 latitude = 40.745286
+longitude = -92.408679
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52538"
+

@@ -1,6 +1,8 @@
-zip_code = "37763"
-state = "TN"
 city = "Kingston"
 county = "Roane"
-longitude = -84.521104
 latitude = 35.816595
+longitude = -84.521104
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37763"
+

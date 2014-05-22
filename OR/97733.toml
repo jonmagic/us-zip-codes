@@ -1,6 +1,8 @@
-zip_code = "97733"
-state = "OR"
 city = "Crescent"
 county = "Klamath"
-longitude = -121.710925
 latitude = 43.444217
+longitude = -121.710925
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97733"
+

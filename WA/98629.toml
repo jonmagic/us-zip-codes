@@ -1,6 +1,8 @@
-zip_code = "98629"
-state = "WA"
 city = "La Center"
 county = "Clark"
-longitude = -122.615416
 latitude = 45.881459
+longitude = -122.615416
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98629"
+

@@ -1,6 +1,8 @@
-zip_code = "07073"
-state = "NJ"
 city = "East Rutherford"
 county = "Bergen"
-longitude = -74.093886
 latitude = 40.828399
+longitude = -74.093886
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07073"
+

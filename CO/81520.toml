@@ -1,6 +1,8 @@
-zip_code = "81520"
-state = "CO"
 city = "Clifton"
 county = "Mesa"
-longitude = -108.404055
 latitude = 39.08246
+longitude = -108.404055
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81520"
+

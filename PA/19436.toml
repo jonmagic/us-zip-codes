@@ -1,6 +1,8 @@
-zip_code = "19436"
-state = "PA"
 city = "Gwynedd"
 county = "Montgomery"
-longitude = -75.250665
 latitude = 40.200757
+longitude = -75.250665
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19436"
+

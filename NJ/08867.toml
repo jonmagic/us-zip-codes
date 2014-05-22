@@ -1,6 +1,8 @@
-zip_code = "08867"
-state = "NJ"
 city = "Pittstown"
 county = "Hunterdon"
-longitude = -74.976982
 latitude = 40.585926
+longitude = -74.976982
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08867"
+

@@ -1,6 +1,8 @@
-zip_code = "92624"
-state = "CA"
 city = "Capistrano Beach"
 county = "Orange"
-longitude = -117.662824
 latitude = 33.455277
+longitude = -117.662824
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92624"
+

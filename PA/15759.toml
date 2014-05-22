@@ -1,6 +1,8 @@
-zip_code = "15759"
-state = "PA"
 city = "Marion Center"
 county = "Indiana"
-longitude = -79.051607
 latitude = 40.685945
+longitude = -79.051607
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15759"
+

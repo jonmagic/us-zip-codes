@@ -1,6 +1,8 @@
-zip_code = "76874"
-state = "TX"
 city = "Roosevelt"
 county = "Kimble"
-longitude = -99.709428
 latitude = 30.498845
+longitude = -99.709428
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76874"
+

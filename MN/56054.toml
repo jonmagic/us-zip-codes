@@ -1,6 +1,8 @@
-zip_code = "56054"
-state = "MN"
 city = "Lafayette"
 county = "Nicollet"
-longitude = -94.293887
 latitude = 44.361224
+longitude = -94.293887
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56054"
+

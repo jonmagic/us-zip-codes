@@ -1,6 +1,8 @@
-zip_code = "50157"
-state = "IA"
 city = "Malcom"
 county = "Poweshiek"
-longitude = -92.512822
 latitude = 41.732036
+longitude = -92.512822
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50157"
+

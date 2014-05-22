@@ -1,6 +1,8 @@
-zip_code = "06360"
-state = "CT"
 city = "Norwich"
 county = "New London"
-longitude = -71.994757
 latitude = 41.499398
+longitude = -71.994757
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06360"
+

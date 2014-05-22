@@ -1,6 +1,8 @@
-zip_code = "06414"
-state = "CT"
 city = "Cobalt"
 county = "Middlesex"
-longitude = -72.558055
 latitude = 41.566668
+longitude = -72.558055
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06414"
+

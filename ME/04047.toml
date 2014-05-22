@@ -1,6 +1,8 @@
-zip_code = "04047"
-state = "ME"
 city = "Parsonsfield"
 county = "York"
-longitude = -70.909196
 latitude = 43.744987
+longitude = -70.909196
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04047"
+

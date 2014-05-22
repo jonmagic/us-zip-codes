@@ -1,6 +1,8 @@
-zip_code = "76253"
-state = "TX"
 city = "Myra"
 county = "Cooke"
-longitude = -97.309018
 latitude = 33.617841
+longitude = -97.309018
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76253"
+

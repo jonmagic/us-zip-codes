@@ -1,6 +1,8 @@
-zip_code = "48862"
-state = "MI"
 city = "North Star"
 county = "Gratiot"
-longitude = -84.497138
 latitude = 43.356518
+longitude = -84.497138
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48862"
+

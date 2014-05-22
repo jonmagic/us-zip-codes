@@ -1,6 +1,8 @@
-zip_code = "37867"
-state = "TN"
 city = "Shawanee"
 county = "Claiborne"
-longitude = -83.647254
 latitude = 36.580283
+longitude = -83.647254
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37867"
+

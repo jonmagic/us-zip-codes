@@ -1,6 +1,8 @@
-zip_code = "50661"
-state = "IA"
 city = "North Washington"
 county = "Chickasaw"
-longitude = -92.414422
 latitude = 43.117425
+longitude = -92.414422
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50661"
+

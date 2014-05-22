@@ -1,6 +1,8 @@
-zip_code = "71659"
-state = "AR"
 city = "Moscow"
 county = "Jefferson"
-longitude = -91.79456
 latitude = 34.134089
+longitude = -91.79456
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71659"
+

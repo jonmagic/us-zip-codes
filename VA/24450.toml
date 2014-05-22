@@ -1,6 +1,8 @@
-zip_code = "24450"
-state = "VA"
 city = "Lexington"
 county = "Lexington City"
-longitude = -79.443495
 latitude = 37.779976
+longitude = -79.443495
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24450"
+

@@ -1,6 +1,8 @@
-zip_code = "72855"
-state = "AR"
 city = "Paris"
 county = "Logan"
-longitude = -93.615999
 latitude = 35.274106
+longitude = -93.615999
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72855"
+

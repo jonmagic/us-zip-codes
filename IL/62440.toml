@@ -1,6 +1,8 @@
-zip_code = "62440"
-state = "IL"
 city = "Lerna"
 county = "Coles"
-longitude = -88.270006
 latitude = 39.418401
+longitude = -88.270006
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62440"
+

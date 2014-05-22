@@ -1,6 +1,8 @@
-zip_code = "29065"
-state = "SC"
 city = "Jenkinsville"
 county = "Fairfield"
-longitude = -81.285308
 latitude = 34.301089
+longitude = -81.285308
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29065"
+

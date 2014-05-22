@@ -1,6 +1,8 @@
-zip_code = "95720"
-state = "CA"
 city = "Kyburz"
 county = "El Dorado"
-longitude = -120.25249
 latitude = 38.892518
+longitude = -120.25249
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95720"
+

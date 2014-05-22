@@ -1,6 +1,8 @@
-zip_code = "94803"
-state = "CA"
 city = "El Sobrante"
 county = "Contra Costa"
-longitude = -122.206177
 latitude = 37.966422
+longitude = -122.206177
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94803"
+

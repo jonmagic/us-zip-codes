@@ -1,6 +1,8 @@
-zip_code = "47615"
-state = "IN"
 city = "Grandview"
 county = "Spencer"
-longitude = -86.996351
 latitude = 38.003542
+longitude = -86.996351
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47615"
+

@@ -1,6 +1,8 @@
-zip_code = "95965"
-state = "CA"
 city = "Oroville"
 county = "Butte"
-longitude = -121.58212
 latitude = 39.578352
+longitude = -121.58212
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95965"
+

@@ -1,6 +1,8 @@
-zip_code = "06242"
-state = "CT"
 city = "Eastford"
 county = "Windham"
-longitude = -72.041112
 latitude = 41.927524
+longitude = -72.041112
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06242"
+

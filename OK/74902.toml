@@ -1,6 +1,8 @@
-zip_code = "74902"
-state = "OK"
 city = "Pocola"
 county = "Le Flore"
-longitude = -94.579744
 latitude = 35.158316
+longitude = -94.579744
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74902"
+

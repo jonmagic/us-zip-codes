@@ -1,6 +1,8 @@
-zip_code = "35035"
-state = "AL"
 city = "Brierfield"
 county = "Bibb"
-longitude = -86.9598
 latitude = 33.016616
+longitude = -86.9598
+state = ""
+state_code_alpha2 = ""
+zip_code = "35035"
+

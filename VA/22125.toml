@@ -1,6 +1,8 @@
-zip_code = "22125"
-state = "VA"
 city = "Occoquan"
 county = "Prince William"
-longitude = -77.26052
 latitude = 38.681615
+longitude = -77.26052
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22125"
+

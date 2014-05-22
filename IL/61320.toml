@@ -1,6 +1,8 @@
-zip_code = "61320"
-state = "IL"
 city = "Dalzell"
 county = "Bureau"
-longitude = -89.479804
 latitude = 41.366748
+longitude = -89.479804
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61320"
+

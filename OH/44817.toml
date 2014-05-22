@@ -1,6 +1,8 @@
-zip_code = "44817"
-state = "OH"
 city = "Bloomdale"
 county = "Wood"
-longitude = -83.535075
 latitude = 41.217112
+longitude = -83.535075
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44817"
+

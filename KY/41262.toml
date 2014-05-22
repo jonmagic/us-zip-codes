@@ -1,6 +1,8 @@
-zip_code = "41262"
-state = "KY"
 city = "Tomahawk"
 county = "Martin"
-longitude = -82.645668
 latitude = 37.825114
+longitude = -82.645668
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41262"
+

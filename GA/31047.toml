@@ -1,6 +1,8 @@
-zip_code = "31047"
-state = "GA"
 city = "Kathleen"
 county = "Houston"
-longitude = -83.646436
 latitude = 32.454331
+longitude = -83.646436
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31047"
+

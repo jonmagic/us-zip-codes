@@ -1,6 +1,8 @@
-zip_code = "78109"
-state = "TX"
 city = "Converse"
 county = "Bexar"
-longitude = -98.250136
 latitude = 29.378081
+longitude = -98.250136
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78109"
+

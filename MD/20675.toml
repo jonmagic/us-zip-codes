@@ -1,6 +1,8 @@
-zip_code = "20675"
-state = "MD"
 city = "Pomfret"
 county = "Charles"
-longitude = -77.015916
 latitude = 38.576096
+longitude = -77.015916
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20675"
+

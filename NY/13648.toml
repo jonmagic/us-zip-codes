@@ -1,6 +1,8 @@
-zip_code = "13648"
-state = "NY"
 city = "Harrisville"
 county = "Lewis"
-longitude = -75.480342
 latitude = 43.818705
+longitude = -75.480342
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13648"
+

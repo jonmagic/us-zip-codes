@@ -1,6 +1,8 @@
-zip_code = "46504"
-state = "IN"
 city = "Bourbon"
 county = "Marshall"
-longitude = -86.150818
 latitude = 41.323904
+longitude = -86.150818
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46504"
+

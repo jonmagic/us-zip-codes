@@ -1,6 +1,8 @@
-zip_code = "19072"
-state = "PA"
 city = "Narberth"
 county = "Montgomery"
-longitude = -75.259975
 latitude = 40.020911
+longitude = -75.259975
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19072"
+

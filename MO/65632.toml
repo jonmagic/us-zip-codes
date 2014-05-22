@@ -1,6 +1,8 @@
-zip_code = "65632"
-state = "MO"
 city = "Conway"
 county = "Laclede"
-longitude = -92.72801
 latitude = 37.532463
+longitude = -92.72801
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65632"
+

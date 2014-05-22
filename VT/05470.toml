@@ -1,6 +1,8 @@
-zip_code = "05470"
-state = "VT"
 city = "Montgomery"
 county = "Franklin"
-longitude = -72.895849
 latitude = 44.824855
+longitude = -72.895849
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05470"
+

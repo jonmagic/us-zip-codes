@@ -1,6 +1,8 @@
-zip_code = "15078"
-state = "PA"
 city = "Slovan"
 county = "Washington"
-longitude = -80.387917
 latitude = 40.358435
+longitude = -80.387917
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15078"
+

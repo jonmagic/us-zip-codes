@@ -1,6 +1,8 @@
-zip_code = "52657"
-state = "IA"
 city = "Saint Paul"
 county = "Lee"
-longitude = -91.478305
 latitude = 40.758742
+longitude = -91.478305
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52657"
+

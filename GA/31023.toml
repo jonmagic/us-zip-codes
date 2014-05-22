@@ -1,6 +1,8 @@
-zip_code = "31023"
-state = "GA"
 city = "Eastman"
 county = "Dodge"
-longitude = -83.194358
 latitude = 32.143564
+longitude = -83.194358
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31023"
+

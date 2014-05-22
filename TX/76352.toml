@@ -1,6 +1,8 @@
-zip_code = "76352"
-state = "TX"
 city = "Bluegrove"
 county = "Clay"
-longitude = -98.184762
 latitude = 33.811665
+longitude = -98.184762
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76352"
+

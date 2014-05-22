@@ -1,6 +1,8 @@
-zip_code = "61856"
-state = "IL"
 city = "Monticello"
 county = "Piatt"
-longitude = -88.597923
 latitude = 40.050289
+longitude = -88.597923
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61856"
+

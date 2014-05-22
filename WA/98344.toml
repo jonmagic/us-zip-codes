@@ -1,6 +1,8 @@
-zip_code = "98344"
-state = "WA"
 city = "Kapowsin"
 county = "Pierce"
-longitude = -122.222642
 latitude = 46.989916
+longitude = -122.222642
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98344"
+

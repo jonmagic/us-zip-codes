@@ -1,6 +1,8 @@
-zip_code = "46938"
-state = "IN"
 city = "Jonesboro"
 county = "Grant"
-longitude = -85.650398
 latitude = 40.44673
+longitude = -85.650398
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46938"
+

@@ -1,6 +1,8 @@
-zip_code = "57279"
-state = "SD"
 city = "Wilmot"
 county = "Roberts"
-longitude = -96.832256
 latitude = 45.39857
+longitude = -96.832256
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57279"
+

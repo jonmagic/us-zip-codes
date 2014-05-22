@@ -1,6 +1,8 @@
-zip_code = "10596"
-state = "NY"
 city = "Verplanck"
 county = "Westchester"
-longitude = -73.958727
 latitude = 41.254823
+longitude = -73.958727
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10596"
+

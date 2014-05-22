@@ -1,6 +1,8 @@
-zip_code = "83241"
-state = "ID"
 city = "Grace"
 county = "Caribou"
-longitude = -111.76691
 latitude = 42.525874
+longitude = -111.76691
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83241"
+

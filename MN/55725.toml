@@ -1,6 +1,8 @@
-zip_code = "55725"
-state = "MN"
 city = "Crane Lake"
 county = "Saint Louis"
-longitude = -92.525385
 latitude = 48.241245
+longitude = -92.525385
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55725"
+

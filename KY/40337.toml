@@ -1,6 +1,8 @@
-zip_code = "40337"
-state = "KY"
 city = "Jeffersonville"
 county = "Montgomery"
-longitude = -83.870275
 latitude = 37.964096
+longitude = -83.870275
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40337"
+

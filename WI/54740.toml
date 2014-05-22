@@ -1,6 +1,8 @@
-zip_code = "54740"
-state = "WI"
 city = "Elmwood"
 county = "Pierce"
-longitude = -92.226414
 latitude = 44.744453
+longitude = -92.226414
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54740"
+

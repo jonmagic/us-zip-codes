@@ -1,6 +1,8 @@
-zip_code = "75403"
-state = "TX"
 city = "Greenville"
 county = "Hunt"
-longitude = -96.048665
 latitude = 33.218505
+longitude = -96.048665
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75403"
+

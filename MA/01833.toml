@@ -1,6 +1,8 @@
-zip_code = "01833"
-state = "MA"
 city = "Georgetown"
 county = "Essex"
-longitude = -70.981298
 latitude = 42.72377
+longitude = -70.981298
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01833"
+

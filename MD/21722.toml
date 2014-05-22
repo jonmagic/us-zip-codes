@@ -1,6 +1,8 @@
-zip_code = "21722"
-state = "MD"
 city = "Clear Spring"
 county = "Washington"
-longitude = -77.906389
 latitude = 39.665751
+longitude = -77.906389
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21722"
+

@@ -1,6 +1,8 @@
-zip_code = "83612"
-state = "ID"
 city = "Council"
 county = "Adams"
-longitude = -116.548601
 latitude = 44.853452
+longitude = -116.548601
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83612"
+

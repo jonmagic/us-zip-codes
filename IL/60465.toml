@@ -1,6 +1,8 @@
-zip_code = "60465"
-state = "IL"
 city = "Palos Hills"
 county = "Cook"
-longitude = -87.68732
 latitude = 41.811929
+longitude = -87.68732
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60465"
+

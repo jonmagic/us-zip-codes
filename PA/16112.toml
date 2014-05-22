@@ -1,6 +1,8 @@
-zip_code = "16112"
-state = "PA"
 city = "Bessemer"
 county = "Lawrence"
-longitude = -80.486131
 latitude = 40.95621
+longitude = -80.486131
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16112"
+

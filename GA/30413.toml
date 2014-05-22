@@ -1,6 +1,8 @@
-zip_code = "30413"
-state = "GA"
 city = "Bartow"
 county = "Jefferson"
-longitude = -82.466644
 latitude = 32.88914
+longitude = -82.466644
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30413"
+

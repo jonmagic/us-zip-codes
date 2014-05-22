@@ -1,6 +1,8 @@
-zip_code = "48467"
-state = "MI"
 city = "Port Austin"
 county = "Huron"
-longitude = -83.052623
 latitude = 43.99756
+longitude = -83.052623
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48467"
+

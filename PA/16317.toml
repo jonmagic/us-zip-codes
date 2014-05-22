@@ -1,6 +1,8 @@
-zip_code = "16317"
-state = "PA"
 city = "Cooperstown"
 county = "Venango"
-longitude = -79.887384
 latitude = 41.496472
+longitude = -79.887384
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16317"
+

@@ -1,6 +1,8 @@
-zip_code = "15465"
-state = "PA"
 city = "Mount Braddock"
 county = "Fayette"
-longitude = -79.65217
 latitude = 39.932084
+longitude = -79.65217
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15465"
+

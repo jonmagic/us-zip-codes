@@ -1,6 +1,8 @@
-zip_code = "56527"
-state = "MN"
 city = "Deer Creek"
 county = "Otter Tail"
-longitude = -95.318951
 latitude = 46.392933
+longitude = -95.318951
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56527"
+

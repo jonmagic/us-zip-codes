@@ -1,6 +1,8 @@
-zip_code = "51445"
-state = "IA"
 city = "Ida Grove"
 county = "Ida"
-longitude = -95.477979
 latitude = 42.326783
+longitude = -95.477979
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51445"
+

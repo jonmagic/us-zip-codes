@@ -1,6 +1,8 @@
-zip_code = "19007"
-state = "PA"
 city = "Bristol"
 county = "Bucks"
-longitude = -74.853608
 latitude = 40.115859
+longitude = -74.853608
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19007"
+

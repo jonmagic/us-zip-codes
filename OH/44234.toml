@@ -1,6 +1,8 @@
-zip_code = "44234"
-state = "OH"
 city = "Hiram"
 county = "Portage"
-longitude = -81.1652
 latitude = 41.310354
+longitude = -81.1652
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44234"
+

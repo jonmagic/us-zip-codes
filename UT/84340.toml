@@ -1,6 +1,8 @@
-zip_code = "84340"
-state = "UT"
 city = "Willard"
 county = "Box Elder"
-longitude = -112.04765
 latitude = 41.387828
+longitude = -112.04765
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84340"
+

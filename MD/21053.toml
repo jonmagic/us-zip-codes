@@ -1,6 +1,8 @@
-zip_code = "21053"
-state = "MD"
 city = "Freeland"
 county = "Baltimore"
-longitude = -76.717644
 latitude = 39.687103
+longitude = -76.717644
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21053"
+

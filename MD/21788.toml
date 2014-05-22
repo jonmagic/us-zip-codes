@@ -1,6 +1,8 @@
-zip_code = "21788"
-state = "MD"
 city = "Thurmont"
 county = "Frederick"
-longitude = -77.398931
 latitude = 39.610876
+longitude = -77.398931
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21788"
+

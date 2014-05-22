@@ -1,6 +1,8 @@
-zip_code = "94965"
-state = "CA"
 city = "Sausalito"
 county = "Marin"
-longitude = -122.531423
 latitude = 37.850417
+longitude = -122.531423
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94965"
+

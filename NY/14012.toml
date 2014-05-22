@@ -1,6 +1,8 @@
-zip_code = "14012"
-state = "NY"
 city = "Barker"
 county = "Niagara"
-longitude = -78.534963
 latitude = 43.327031
+longitude = -78.534963
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14012"
+

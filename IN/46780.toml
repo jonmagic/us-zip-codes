@@ -1,6 +1,8 @@
-zip_code = "46780"
-state = "IN"
 city = "Pleasant Mills"
 county = "Adams"
-longitude = -84.937926
 latitude = 40.74532
+longitude = -84.937926
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46780"
+

@@ -1,6 +1,8 @@
-zip_code = "55607"
-state = "MN"
 city = "Isabella"
 county = "Lake"
-longitude = -91.498861
 latitude = 47.660406
+longitude = -91.498861
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55607"
+

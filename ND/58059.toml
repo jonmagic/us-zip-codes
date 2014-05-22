@@ -1,6 +1,8 @@
-zip_code = "58059"
-state = "ND"
 city = "Mapleton"
 county = "Cass"
-longitude = -97.115726
 latitude = 46.861424
+longitude = -97.115726
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58059"
+

@@ -1,6 +1,8 @@
-zip_code = "38870"
-state = "MS"
 city = "Smithville"
 county = "Monroe"
-longitude = -88.365609
 latitude = 34.045269
+longitude = -88.365609
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38870"
+

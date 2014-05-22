@@ -1,6 +1,8 @@
-zip_code = "77831"
-state = "TX"
 city = "Bedias"
 county = "Grimes"
-longitude = -95.954649
 latitude = 30.706523
+longitude = -95.954649
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77831"
+

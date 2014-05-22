@@ -1,6 +1,8 @@
-zip_code = "07834"
-state = "NJ"
 city = "Denville"
 county = "Morris"
-longitude = -74.489349
 latitude = 40.881248
+longitude = -74.489349
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07834"
+

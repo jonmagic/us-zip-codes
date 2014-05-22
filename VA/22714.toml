@@ -1,6 +1,8 @@
-zip_code = "22714"
-state = "VA"
 city = "Brandy Station"
 county = "Culpeper"
-longitude = -77.901265
 latitude = 38.511323
+longitude = -77.901265
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22714"
+

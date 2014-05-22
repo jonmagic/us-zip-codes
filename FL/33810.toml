@@ -1,6 +1,8 @@
-zip_code = "33810"
-state = "FL"
 city = "Lakeland"
 county = "Polk"
-longitude = -82.037153
 latitude = 28.147923
+longitude = -82.037153
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33810"
+

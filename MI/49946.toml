@@ -1,6 +1,8 @@
-zip_code = "49946"
-state = "MI"
 city = "Lanse"
 county = "Baraga"
-longitude = -88.44705
 latitude = 46.740227
+longitude = -88.44705
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49946"
+

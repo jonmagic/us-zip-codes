@@ -1,6 +1,8 @@
-zip_code = "55921"
-state = "MN"
 city = "Caledonia"
 county = "Houston"
-longitude = -91.458938
 latitude = 43.635474
+longitude = -91.458938
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55921"
+

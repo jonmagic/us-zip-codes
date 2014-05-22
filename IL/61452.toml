@@ -1,6 +1,8 @@
-zip_code = "61452"
-state = "IL"
 city = "Littleton"
 county = "Schuyler"
-longitude = -90.652911
 latitude = 40.20621
+longitude = -90.652911
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61452"
+

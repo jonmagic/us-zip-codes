@@ -1,6 +1,8 @@
-zip_code = "37132"
-state = "TN"
 city = "Murfreesboro"
 county = "Rutherford"
-longitude = -86.420958
 latitude = 35.859565
+longitude = -86.420958
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37132"
+

@@ -1,6 +1,8 @@
-zip_code = "01560"
-state = "MA"
 city = "South Grafton"
 county = "Worcester"
-longitude = -71.681912
 latitude = 42.176544
+longitude = -71.681912
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01560"
+

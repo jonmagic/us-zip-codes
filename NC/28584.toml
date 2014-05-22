@@ -1,6 +1,8 @@
-zip_code = "28584"
-state = "NC"
 city = "Swansboro"
 county = "Onslow"
-longitude = -77.173963
 latitude = 34.776677
+longitude = -77.173963
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28584"
+

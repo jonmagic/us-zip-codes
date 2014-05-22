@@ -1,6 +1,8 @@
-zip_code = "44888"
-state = "OH"
 city = "Willard"
 county = "Huron"
-longitude = -82.588928
 latitude = 41.141541
+longitude = -82.588928
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44888"
+

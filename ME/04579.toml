@@ -1,6 +1,8 @@
-zip_code = "04579"
-state = "ME"
 city = "Woolwich"
 county = "Sagadahoc"
-longitude = -69.764378
 latitude = 43.938696
+longitude = -69.764378
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04579"
+

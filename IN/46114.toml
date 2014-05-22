@@ -1,6 +1,8 @@
-zip_code = "46114"
-state = "IN"
 city = "Cartersburg"
 county = "Hendricks"
-longitude = -86.510386
 latitude = 39.762448
+longitude = -86.510386
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46114"
+

@@ -1,6 +1,8 @@
-zip_code = "50268"
-state = "IA"
 city = "What Cheer"
 county = "Keokuk"
-longitude = -92.331335
 latitude = 41.396307
+longitude = -92.331335
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50268"
+

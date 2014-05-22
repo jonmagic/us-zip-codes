@@ -1,6 +1,8 @@
-zip_code = "97910"
-state = "OR"
 city = "Jordan Valley"
 county = "Malheur"
-longitude = -117.469061
 latitude = 42.951169
+longitude = -117.469061
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97910"
+

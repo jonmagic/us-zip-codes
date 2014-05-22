@@ -1,6 +1,8 @@
-zip_code = "08318"
-state = "NJ"
 city = "Elmer"
 county = "Salem"
-longitude = -75.198368
 latitude = 39.548074
+longitude = -75.198368
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08318"
+

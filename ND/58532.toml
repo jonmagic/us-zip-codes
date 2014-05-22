@@ -1,6 +1,8 @@
-zip_code = "58532"
-state = "ND"
 city = "Driscoll"
 county = "Burleigh"
-longitude = -100.18329
 latitude = 46.851141
+longitude = -100.18329
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58532"
+

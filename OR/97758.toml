@@ -1,6 +1,8 @@
-zip_code = "97758"
-state = "OR"
 city = "Riley"
 county = "Harney"
-longitude = -119.069624
 latitude = 43.019785
+longitude = -119.069624
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97758"
+

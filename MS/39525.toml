@@ -1,6 +1,8 @@
-zip_code = "39525"
-state = "MS"
 city = "Diamondhead"
 county = "Hancock"
-longitude = -89.377942
 latitude = 30.372821
+longitude = -89.377942
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39525"
+

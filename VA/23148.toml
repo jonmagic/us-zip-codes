@@ -1,6 +1,8 @@
-zip_code = "23148"
-state = "VA"
 city = "Saint Stephens Church"
 county = "King And Queen"
-longitude = -77.047727
 latitude = 37.753427
+longitude = -77.047727
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23148"
+

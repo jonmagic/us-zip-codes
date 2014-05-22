@@ -1,6 +1,8 @@
-zip_code = "54837"
-state = "WI"
 city = "Frederic"
 county = "Polk"
-longitude = -92.429333
 latitude = 45.526263
+longitude = -92.429333
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54837"
+

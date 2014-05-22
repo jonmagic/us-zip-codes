@@ -1,6 +1,8 @@
-zip_code = "48896"
-state = "MI"
 city = "Winn"
 county = "Isabella"
-longitude = -84.906289
 latitude = 43.530832
+longitude = -84.906289
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48896"
+

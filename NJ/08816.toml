@@ -1,6 +1,8 @@
-zip_code = "08816"
-state = "NJ"
 city = "East Brunswick"
 county = "Middlesex"
-longitude = -74.421695
 latitude = 40.427697
+longitude = -74.421695
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08816"
+

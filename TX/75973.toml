@@ -1,6 +1,8 @@
-zip_code = "75973"
-state = "TX"
 city = "Shelbyville"
 county = "Shelby"
-longitude = -94.152946
 latitude = 31.774637
+longitude = -94.152946
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75973"
+

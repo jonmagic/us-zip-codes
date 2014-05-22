@@ -1,6 +1,8 @@
-zip_code = "52156"
-state = "IA"
 city = "Luana"
 county = "Clayton"
-longitude = -91.47665
 latitude = 43.020695
+longitude = -91.47665
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52156"
+

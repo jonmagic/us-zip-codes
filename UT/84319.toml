@@ -1,6 +1,8 @@
-zip_code = "84319"
-state = "UT"
 city = "Hyrum"
 county = "Cache"
-longitude = -111.879653
 latitude = 41.717589
+longitude = -111.879653
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84319"
+

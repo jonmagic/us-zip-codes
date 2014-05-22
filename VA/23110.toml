@@ -1,6 +1,8 @@
-zip_code = "23110"
-state = "VA"
 city = "Mattaponi"
 county = "King And Queen"
-longitude = -76.810087
 latitude = 37.613475
+longitude = -76.810087
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23110"
+

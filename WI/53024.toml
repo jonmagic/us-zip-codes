@@ -1,6 +1,8 @@
-zip_code = "53024"
-state = "WI"
 city = "Grafton"
 county = "Ozaukee"
-longitude = -87.94104
 latitude = 43.299956
+longitude = -87.94104
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53024"
+

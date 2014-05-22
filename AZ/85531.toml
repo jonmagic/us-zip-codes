@@ -1,6 +1,8 @@
-zip_code = "85531"
-state = "AZ"
 city = "Central"
 county = "Graham"
-longitude = -109.787778
 latitude = 32.869243
+longitude = -109.787778
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85531"
+

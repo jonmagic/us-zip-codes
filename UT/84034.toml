@@ -1,6 +1,8 @@
-zip_code = "84034"
-state = "UT"
 city = "Ibapah"
 county = "Tooele"
-longitude = -113.095905
 latitude = 40.489989
+longitude = -113.095905
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84034"
+

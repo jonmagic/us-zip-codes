@@ -1,6 +1,8 @@
-zip_code = "86327"
-state = "AZ"
 city = "Dewey"
 county = "Yavapai"
-longitude = -112.284396
 latitude = 34.55652
+longitude = -112.284396
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86327"
+

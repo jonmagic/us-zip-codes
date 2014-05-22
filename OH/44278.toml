@@ -1,6 +1,8 @@
-zip_code = "44278"
-state = "OH"
 city = "Tallmadge"
 county = "Summit"
-longitude = -81.428883
 latitude = 41.096656
+longitude = -81.428883
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44278"
+

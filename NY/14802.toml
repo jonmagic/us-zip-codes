@@ -1,6 +1,8 @@
-zip_code = "14802"
-state = "NY"
 city = "Alfred"
 county = "Allegany"
-longitude = -77.783192
 latitude = 42.240535
+longitude = -77.783192
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14802"
+

@@ -1,6 +1,8 @@
-zip_code = "62844"
-state = "IL"
 city = "Grayville"
 county = "White"
-longitude = -88.122963
 latitude = 38.147618
+longitude = -88.122963
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62844"
+

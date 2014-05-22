@@ -1,6 +1,8 @@
-zip_code = "59644"
-state = "MT"
 city = "Townsend"
 county = "Broadwater"
-longitude = -111.399649
 latitude = 46.406137
+longitude = -111.399649
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59644"
+

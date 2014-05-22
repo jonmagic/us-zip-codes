@@ -1,6 +1,8 @@
-zip_code = "64073"
-state = "MO"
 city = "Mosby"
 county = "Clay"
-longitude = -94.293888
 latitude = 39.314899
+longitude = -94.293888
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64073"
+

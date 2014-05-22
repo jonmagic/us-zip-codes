@@ -1,6 +1,8 @@
-zip_code = "49716"
-state = "MI"
 city = "Brutus"
 county = "Cheboygan"
-longitude = -84.703893
 latitude = 45.506991
+longitude = -84.703893
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49716"
+

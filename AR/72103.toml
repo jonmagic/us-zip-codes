@@ -1,6 +1,8 @@
-zip_code = "72103"
-state = "AR"
 city = "Mabelvale"
 county = "Pulaski"
-longitude = -92.384905
 latitude = 34.647826
+longitude = -92.384905
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72103"
+

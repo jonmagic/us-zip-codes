@@ -1,6 +1,8 @@
-zip_code = "41569"
-state = "KY"
 city = "Toler"
 county = "Pike"
-longitude = -82.286675
 latitude = 37.608343
+longitude = -82.286675
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41569"
+

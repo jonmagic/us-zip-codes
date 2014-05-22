@@ -1,6 +1,8 @@
-zip_code = "30084"
-state = "GA"
 city = "Tucker"
 county = "Dekalb"
-longitude = -84.215369
 latitude = 33.853945
+longitude = -84.215369
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30084"
+

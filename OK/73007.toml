@@ -1,6 +1,8 @@
-zip_code = "73007"
-state = "OK"
 city = "Arcadia"
 county = "Oklahoma"
-longitude = -97.309856
 latitude = 35.672506
+longitude = -97.309856
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73007"
+

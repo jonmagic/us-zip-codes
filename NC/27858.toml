@@ -1,6 +1,8 @@
-zip_code = "27858"
-state = "NC"
 city = "Greenville"
 county = "Pitt"
-longitude = -77.402789
 latitude = 35.616949
+longitude = -77.402789
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27858"
+

@@ -1,6 +1,8 @@
-zip_code = "30620"
-state = "GA"
 city = "Bethlehem"
 county = "Barrow"
-longitude = -83.721536
 latitude = 33.943652
+longitude = -83.721536
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30620"
+

@@ -1,6 +1,8 @@
-zip_code = "04758"
-state = "ME"
 city = "Mars Hill"
 county = "Aroostook"
-longitude = -67.84817
 latitude = 46.551571
+longitude = -67.84817
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04758"
+

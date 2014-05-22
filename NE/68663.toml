@@ -1,6 +1,8 @@
-zip_code = "68663"
-state = "NE"
 city = "Silver Creek"
 county = "Merrick"
-longitude = -97.723453
 latitude = 41.303844
+longitude = -97.723453
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68663"
+

@@ -1,6 +1,8 @@
-zip_code = "49863"
-state = "MI"
 city = "Nadeau"
 county = "Menominee"
-longitude = -87.56331
 latitude = 45.608658
+longitude = -87.56331
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49863"
+

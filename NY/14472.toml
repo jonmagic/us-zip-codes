@@ -1,6 +1,8 @@
-zip_code = "14472"
-state = "NY"
 city = "Honeoye Falls"
 county = "Monroe"
-longitude = -77.606771
 latitude = 42.982513
+longitude = -77.606771
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14472"
+

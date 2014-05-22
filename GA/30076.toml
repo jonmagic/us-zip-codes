@@ -1,6 +1,8 @@
-zip_code = "30076"
-state = "GA"
 city = "Roswell"
 county = "Fulton"
-longitude = -84.320162
 latitude = 34.027783
+longitude = -84.320162
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30076"
+

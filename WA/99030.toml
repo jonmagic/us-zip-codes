@@ -1,6 +1,8 @@
-zip_code = "99030"
-state = "WA"
 city = "Rockford"
 county = "Spokane"
-longitude = -117.255465
 latitude = 47.672177
+longitude = -117.255465
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99030"
+

@@ -1,6 +1,8 @@
-zip_code = "75436"
-state = "TX"
 city = "Detroit"
 county = "Red River"
-longitude = -95.262837
 latitude = 33.664645
+longitude = -95.262837
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75436"
+

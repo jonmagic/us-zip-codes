@@ -1,6 +1,8 @@
-zip_code = "38375"
-state = "TN"
 city = "Selmer"
 county = "Mcnairy"
-longitude = -88.580145
 latitude = 35.214443
+longitude = -88.580145
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38375"
+

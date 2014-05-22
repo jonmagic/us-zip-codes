@@ -1,6 +1,8 @@
-zip_code = "42064"
-state = "KY"
 city = "Marion"
 county = "Crittenden"
-longitude = -88.087479
 latitude = 37.322088
+longitude = -88.087479
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42064"
+

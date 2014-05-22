@@ -1,6 +1,8 @@
-zip_code = "26612"
-state = "WV"
 city = "Centralia"
 county = "Braxton"
-longitude = -80.586148
 latitude = 38.620506
+longitude = -80.586148
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26612"
+

@@ -1,6 +1,8 @@
-zip_code = "62673"
-state = "IL"
 city = "Oakford"
 county = "Menard"
-longitude = -89.966028
 latitude = 40.100737
+longitude = -89.966028
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62673"
+

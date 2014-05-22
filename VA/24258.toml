@@ -1,6 +1,8 @@
-zip_code = "24258"
-state = "VA"
 city = "Hiltons"
 county = "Scott"
-longitude = -82.639637
 latitude = 36.739474
+longitude = -82.639637
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24258"
+

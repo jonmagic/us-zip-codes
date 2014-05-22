@@ -1,6 +1,8 @@
-zip_code = "74859"
-state = "OK"
 city = "Okemah"
 county = "Okfuskee"
-longitude = -96.430286
 latitude = 35.462681
+longitude = -96.430286
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74859"
+

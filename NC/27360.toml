@@ -1,6 +1,8 @@
-zip_code = "27360"
-state = "NC"
 city = "Thomasville"
 county = "Davidson"
-longitude = -80.124764
 latitude = 35.854539
+longitude = -80.124764
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27360"
+

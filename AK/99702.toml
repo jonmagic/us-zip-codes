@@ -1,6 +1,8 @@
-zip_code = "99702"
-state = "AK"
 city = "Eielson Afb"
 county = "Fairbanks North Star"
-longitude = -147.463336
 latitude = 64.790803
+longitude = -147.463336
+state = ""
+state_code_alpha2 = ""
+zip_code = "99702"
+

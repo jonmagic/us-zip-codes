@@ -1,6 +1,8 @@
-zip_code = "14463"
-state = "NY"
 city = "Hall"
 county = "Ontario"
-longitude = -77.063876
 latitude = 42.796578
+longitude = -77.063876
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14463"
+

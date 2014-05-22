@@ -1,6 +1,8 @@
-zip_code = "00984"
-state = "PR"
 city = "Carolina"
 county = "Carolina"
-longitude = -65.972495
 latitude = 18.393355
+longitude = -65.972495
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00984"
+

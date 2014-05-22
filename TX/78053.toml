@@ -1,6 +1,8 @@
-zip_code = "78053"
-state = "TX"
 city = "Mc Coy"
 county = "Atascosa"
-longitude = -98.268515
 latitude = 28.851823
+longitude = -98.268515
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78053"
+

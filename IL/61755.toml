@@ -1,6 +1,8 @@
-zip_code = "61755"
-state = "IL"
 city = "Mackinaw"
 county = "Tazewell"
-longitude = -89.369718
 latitude = 40.530344
+longitude = -89.369718
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61755"
+

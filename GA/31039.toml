@@ -1,6 +1,8 @@
-zip_code = "31039"
-state = "GA"
 city = "Howard"
 county = "Taylor"
-longitude = -84.227675
 latitude = 32.559781
+longitude = -84.227675
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31039"
+

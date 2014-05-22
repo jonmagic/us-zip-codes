@@ -1,6 +1,8 @@
-zip_code = "54932"
-state = "WI"
 city = "Eldorado"
 county = "Fond Du Lac"
-longitude = -88.582166
 latitude = 43.832253
+longitude = -88.582166
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54932"
+

@@ -1,6 +1,8 @@
-zip_code = "65339"
-state = "MO"
 city = "Malta Bend"
 county = "Saline"
-longitude = -93.377596
 latitude = 39.148119
+longitude = -93.377596
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65339"
+

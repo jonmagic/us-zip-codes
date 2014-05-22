@@ -1,6 +1,8 @@
-zip_code = "60542"
-state = "IL"
 city = "North Aurora"
 county = "Kane"
-longitude = -88.335182
 latitude = 41.807369
+longitude = -88.335182
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60542"
+

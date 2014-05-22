@@ -1,6 +1,8 @@
-zip_code = "37083"
-state = "TN"
 city = "Lafayette"
 county = "Macon"
-longitude = -86.025585
 latitude = 36.52772
+longitude = -86.025585
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37083"
+

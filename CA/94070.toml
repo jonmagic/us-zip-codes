@@ -1,6 +1,8 @@
-zip_code = "94070"
-state = "CA"
 city = "San Carlos"
 county = "San Mateo"
-longitude = -122.29815
 latitude = 37.498586
+longitude = -122.29815
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94070"
+

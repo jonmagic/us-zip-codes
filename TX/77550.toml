@@ -1,6 +1,8 @@
-zip_code = "77550"
-state = "TX"
 city = "Galveston"
 county = "Galveston"
-longitude = -94.913451
 latitude = 29.323619
+longitude = -94.913451
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77550"
+

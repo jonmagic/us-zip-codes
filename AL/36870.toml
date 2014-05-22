@@ -1,6 +1,8 @@
-zip_code = "36870"
-state = "AL"
 city = "Phenix City"
 county = "Russell"
-longitude = -85.123979
 latitude = 32.478145
+longitude = -85.123979
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36870"
+

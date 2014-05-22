@@ -1,6 +1,8 @@
-zip_code = "39520"
-state = "MS"
 city = "Bay Saint Louis"
 county = "Hancock"
-longitude = -89.463187
 latitude = 30.295608
+longitude = -89.463187
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39520"
+

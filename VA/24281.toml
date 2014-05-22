@@ -1,6 +1,8 @@
-zip_code = "24281"
-state = "VA"
 city = "Rose Hill"
 county = "Lee"
-longitude = -83.22336
 latitude = 36.743491
+longitude = -83.22336
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24281"
+

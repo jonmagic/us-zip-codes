@@ -1,6 +1,8 @@
-zip_code = "81131"
-state = "CO"
 city = "Crestone"
 county = "Saguache"
-longitude = -105.68788
 latitude = 37.953038
+longitude = -105.68788
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81131"
+

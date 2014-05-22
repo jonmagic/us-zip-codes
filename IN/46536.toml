@@ -1,6 +1,8 @@
-zip_code = "46536"
-state = "IN"
 city = "Lakeville"
 county = "St Joseph"
-longitude = -86.270086
 latitude = 41.526373
+longitude = -86.270086
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46536"
+

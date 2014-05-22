@@ -1,6 +1,8 @@
-zip_code = "23709"
-state = "VA"
 city = "Portsmouth"
 county = "Portsmouth City"
-longitude = -76.355165
 latitude = 36.868553
+longitude = -76.355165
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23709"
+

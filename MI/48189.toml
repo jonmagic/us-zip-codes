@@ -1,6 +1,8 @@
-zip_code = "48189"
-state = "MI"
 city = "Whitmore Lake"
 county = "Washtenaw"
-longitude = -83.783736
 latitude = 42.386914
+longitude = -83.783736
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48189"
+

@@ -1,6 +1,8 @@
-zip_code = "49739"
-state = "MI"
 city = "Grayling"
 county = "Crawford"
-longitude = -84.610441
 latitude = 44.682996
+longitude = -84.610441
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49739"
+

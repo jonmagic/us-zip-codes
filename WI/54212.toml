@@ -1,6 +1,8 @@
-zip_code = "54212"
-state = "WI"
 city = "Fish Creek"
 county = "Door"
-longitude = -87.209899
 latitude = 45.11038
+longitude = -87.209899
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54212"
+

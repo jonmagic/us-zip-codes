@@ -1,6 +1,8 @@
-zip_code = "52306"
-state = "IA"
 city = "Mechanicsville"
 county = "Cedar"
-longitude = -91.269378
 latitude = 41.866983
+longitude = -91.269378
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52306"
+

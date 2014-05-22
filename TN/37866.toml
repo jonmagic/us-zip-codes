@@ -1,6 +1,8 @@
-zip_code = "37866"
-state = "TN"
 city = "Sharps Chapel"
 county = "Union"
-longitude = -83.82039
 latitude = 36.342768
+longitude = -83.82039
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37866"
+

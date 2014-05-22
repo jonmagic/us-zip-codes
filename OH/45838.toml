@@ -1,6 +1,8 @@
-zip_code = "45838"
-state = "OH"
 city = "Elgin"
 county = "Van Wert"
-longitude = -84.485028
 latitude = 40.735491
+longitude = -84.485028
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45838"
+

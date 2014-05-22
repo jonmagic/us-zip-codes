@@ -1,6 +1,8 @@
-zip_code = "72427"
-state = "AR"
 city = "Egypt"
 county = "Craighead"
-longitude = -90.94278
 latitude = 35.863996
+longitude = -90.94278
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72427"
+

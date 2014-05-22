@@ -1,6 +1,8 @@
-zip_code = "07075"
-state = "NJ"
 city = "Wood Ridge"
 county = "Bergen"
-longitude = -74.089585
 latitude = 40.848599
+longitude = -74.089585
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07075"
+

@@ -1,6 +1,8 @@
-zip_code = "07410"
-state = "NJ"
 city = "Fair Lawn"
 county = "Bergen"
-longitude = -74.119236
 latitude = 40.935348
+longitude = -74.119236
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07410"
+

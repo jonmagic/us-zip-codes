@@ -1,6 +1,8 @@
-zip_code = "50457"
-state = "IA"
 city = "Meservey"
 county = "Cerro Gordo"
-longitude = -93.292969
 latitude = 43.059175
+longitude = -93.292969
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50457"
+

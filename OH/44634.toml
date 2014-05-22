@@ -1,6 +1,8 @@
-zip_code = "44634"
-state = "OH"
 city = "Homeworth"
 county = "Columbiana"
-longitude = -81.033298
 latitude = 40.830059
+longitude = -81.033298
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44634"
+

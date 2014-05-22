@@ -1,6 +1,8 @@
-zip_code = "18611"
-state = "PA"
 city = "Cambra"
 county = "Luzerne"
-longitude = -75.775517
 latitude = 41.110259
+longitude = -75.775517
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18611"
+

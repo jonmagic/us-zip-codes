@@ -1,6 +1,8 @@
-zip_code = "14480"
-state = "NY"
 city = "Lakeville"
 county = "Livingston"
-longitude = -77.703091
 latitude = 42.837288
+longitude = -77.703091
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14480"
+

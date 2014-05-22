@@ -1,6 +1,8 @@
-zip_code = "01908"
-state = "MA"
 city = "Nahant"
 county = "Essex"
-longitude = -70.922442
 latitude = 42.427296
+longitude = -70.922442
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01908"
+

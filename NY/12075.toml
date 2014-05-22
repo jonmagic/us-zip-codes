@@ -1,6 +1,8 @@
-zip_code = "12075"
-state = "NY"
 city = "Ghent"
 county = "Columbia"
-longitude = -73.589731
 latitude = 42.366064
+longitude = -73.589731
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12075"
+

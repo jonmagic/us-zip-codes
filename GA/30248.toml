@@ -1,6 +1,8 @@
-zip_code = "30248"
-state = "GA"
 city = "Locust Grove"
 county = "Henry"
-longitude = -84.115645
 latitude = 33.372111
+longitude = -84.115645
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30248"
+

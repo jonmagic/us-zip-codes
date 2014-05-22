@@ -1,6 +1,8 @@
-zip_code = "13492"
-state = "NY"
 city = "Whitesboro"
 county = "Oneida"
-longitude = -75.287643
 latitude = 43.197827
+longitude = -75.287643
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13492"
+

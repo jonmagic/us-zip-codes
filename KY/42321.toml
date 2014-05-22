@@ -1,6 +1,8 @@
-zip_code = "42321"
-state = "KY"
 city = "Beech Creek"
 county = "Muhlenberg"
-longitude = -87.024457
 latitude = 37.153324
+longitude = -87.024457
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42321"
+

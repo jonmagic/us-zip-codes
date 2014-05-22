@@ -1,6 +1,8 @@
-zip_code = "58018"
-state = "ND"
 city = "Colfax"
 county = "Richland"
-longitude = -96.873653
 latitude = 46.457386
+longitude = -96.873653
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58018"
+

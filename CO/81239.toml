@@ -1,6 +1,8 @@
-zip_code = "81239"
-state = "CO"
 city = "Parlin"
 county = "Gunnison"
-longitude = -106.635214
 latitude = 38.537083
+longitude = -106.635214
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81239"
+

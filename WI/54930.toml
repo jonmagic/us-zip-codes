@@ -1,6 +1,8 @@
-zip_code = "54930"
-state = "WI"
 city = "Coloma"
 county = "Waushara"
-longitude = -89.486854
 latitude = 44.026085
+longitude = -89.486854
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54930"
+

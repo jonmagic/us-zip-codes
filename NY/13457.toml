@@ -1,6 +1,8 @@
-zip_code = "13457"
-state = "NY"
 city = "Schuyler Lake"
 county = "Otsego"
-longitude = -75.048502
 latitude = 42.775805
+longitude = -75.048502
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13457"
+

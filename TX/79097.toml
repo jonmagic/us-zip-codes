@@ -1,6 +1,8 @@
-zip_code = "79097"
-state = "TX"
 city = "White Deer"
 county = "Carson"
-longitude = -101.176661
 latitude = 35.414902
+longitude = -101.176661
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79097"
+

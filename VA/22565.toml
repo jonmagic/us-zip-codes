@@ -1,6 +1,8 @@
-zip_code = "22565"
-state = "VA"
 city = "Thornburg"
 county = "Spotsylvania"
-longitude = -77.518865
 latitude = 38.137216
+longitude = -77.518865
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22565"
+

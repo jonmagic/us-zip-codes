@@ -1,6 +1,8 @@
-zip_code = "62208"
-state = "IL"
 city = "Fairview Heights"
 county = "Saint Clair"
-longitude = -90.006304
 latitude = 38.59666
+longitude = -90.006304
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62208"
+

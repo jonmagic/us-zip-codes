@@ -1,6 +1,8 @@
-zip_code = "97621"
-state = "OR"
 city = "Beatty"
 county = "Klamath"
-longitude = -121.259056
 latitude = 42.464842
+longitude = -121.259056
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97621"
+

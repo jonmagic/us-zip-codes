@@ -1,6 +1,8 @@
-zip_code = "01961"
-state = "MA"
 city = "Peabody"
 county = "Essex"
-longitude = -70.879123
 latitude = 42.635443
+longitude = -70.879123
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01961"
+

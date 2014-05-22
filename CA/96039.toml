@@ -1,6 +1,8 @@
-zip_code = "96039"
-state = "CA"
 city = "Happy Camp"
 county = "Siskiyou"
-longitude = -123.421603
 latitude = 41.666514
+longitude = -123.421603
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96039"
+

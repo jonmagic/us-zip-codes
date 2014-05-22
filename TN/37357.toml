@@ -1,6 +1,8 @@
-zip_code = "37357"
-state = "TN"
 city = "Morrison"
 county = "Warren"
-longitude = -85.875966
 latitude = 35.621365
+longitude = -85.875966
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37357"
+

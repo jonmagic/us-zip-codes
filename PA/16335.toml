@@ -1,6 +1,8 @@
-zip_code = "16335"
-state = "PA"
 city = "Meadville"
 county = "Crawford"
-longitude = -80.114891
 latitude = 41.611599
+longitude = -80.114891
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16335"
+

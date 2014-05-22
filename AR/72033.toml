@@ -1,6 +1,8 @@
-zip_code = "72033"
-state = "AR"
 city = "Conway"
 county = "Faulkner"
-longitude = -92.354915
 latitude = 35.105306
+longitude = -92.354915
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72033"
+

@@ -1,6 +1,8 @@
-zip_code = "53952"
-state = "WI"
 city = "Oxford"
 county = "Marquette"
-longitude = -89.463944
 latitude = 43.767789
+longitude = -89.463944
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53952"
+

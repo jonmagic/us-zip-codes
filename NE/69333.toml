@@ -1,6 +1,8 @@
-zip_code = "69333"
-state = "NE"
 city = "Ashby"
 county = "Grant"
-longitude = -101.746919
 latitude = 41.919117
+longitude = -101.746919
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69333"
+

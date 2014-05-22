@@ -1,6 +1,8 @@
-zip_code = "50627"
-state = "IA"
 city = "Eldora"
 county = "Hardin"
-longitude = -93.141651
 latitude = 42.335289
+longitude = -93.141651
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50627"
+

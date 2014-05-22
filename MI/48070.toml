@@ -1,6 +1,8 @@
-zip_code = "48070"
-state = "MI"
 city = "Huntington Woods"
 county = "Oakland"
-longitude = -83.166376
 latitude = 42.481786
+longitude = -83.166376
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48070"
+

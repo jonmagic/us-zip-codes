@@ -1,6 +1,8 @@
-zip_code = "67054"
-state = "KS"
 city = "Greensburg"
 county = "Kiowa"
-longitude = -99.204968
 latitude = 37.607534
+longitude = -99.204968
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67054"
+

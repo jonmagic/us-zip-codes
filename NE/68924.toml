@@ -1,6 +1,8 @@
-zip_code = "68924"
-state = "NE"
 city = "Axtell"
 county = "Kearney"
-longitude = -99.091654
 latitude = 40.50339
+longitude = -99.091654
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68924"
+

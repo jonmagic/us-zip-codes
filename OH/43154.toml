@@ -1,6 +1,8 @@
-zip_code = "43154"
-state = "OH"
 city = "Stoutsville"
 county = "Fairfield"
-longitude = -82.80858
 latitude = 39.616
+longitude = -82.80858
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43154"
+

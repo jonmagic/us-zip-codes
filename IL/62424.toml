@@ -1,6 +1,8 @@
-zip_code = "62424"
-state = "IL"
 city = "Dieterich"
 county = "Effingham"
-longitude = -88.576045
 latitude = 39.049843
+longitude = -88.576045
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62424"
+

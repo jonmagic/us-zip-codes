@@ -1,6 +1,8 @@
-zip_code = "44860"
-state = "OH"
 city = "Oceola"
 county = "Crawford"
-longitude = -83.102857
 latitude = 40.835677
+longitude = -83.102857
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44860"
+

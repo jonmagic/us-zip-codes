@@ -1,6 +1,8 @@
-zip_code = "71835"
-state = "AR"
 city = "Emmet"
 county = "Nevada"
-longitude = -93.42928
 latitude = 33.761471
+longitude = -93.42928
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71835"
+

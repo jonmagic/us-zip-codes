@@ -1,6 +1,8 @@
-zip_code = "37816"
-state = "TN"
 city = "Morristown"
 county = "Hamblen"
-longitude = -83.275211
 latitude = 36.213293
+longitude = -83.275211
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37816"
+

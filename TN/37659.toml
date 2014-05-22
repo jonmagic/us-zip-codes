@@ -1,6 +1,8 @@
-zip_code = "37659"
-state = "TN"
 city = "Jonesborough"
 county = "Washington"
-longitude = -82.489065
 latitude = 36.289189
+longitude = -82.489065
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37659"
+

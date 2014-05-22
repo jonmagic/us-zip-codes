@@ -1,6 +1,8 @@
-zip_code = "82060"
-state = "WY"
 city = "Hillsdale"
 county = "Laramie"
-longitude = -104.493307
 latitude = 41.213557
+longitude = -104.493307
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82060"
+

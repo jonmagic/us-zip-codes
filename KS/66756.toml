@@ -1,6 +1,8 @@
-zip_code = "66756"
-state = "KS"
 city = "Mulberry"
 county = "Crawford"
-longitude = -94.661105
 latitude = 37.54259
+longitude = -94.661105
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66756"
+

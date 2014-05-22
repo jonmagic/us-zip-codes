@@ -1,6 +1,8 @@
-zip_code = "41520"
-state = "KY"
 city = "Dorton"
 county = "Pike"
-longitude = -82.57732
 latitude = 37.279027
+longitude = -82.57732
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41520"
+

@@ -1,6 +1,8 @@
-zip_code = "59035"
-state = "MT"
 city = "Yellowtail"
 county = "Big Horn"
-longitude = -107.925665
 latitude = 45.308898
+longitude = -107.925665
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59035"
+

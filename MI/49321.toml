@@ -1,6 +1,8 @@
-zip_code = "49321"
-state = "MI"
 city = "Comstock Park"
 county = "Kent"
-longitude = -85.679652
 latitude = 43.081164
+longitude = -85.679652
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49321"
+

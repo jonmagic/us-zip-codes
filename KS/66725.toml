@@ -1,6 +1,8 @@
-zip_code = "66725"
-state = "KS"
 city = "Columbus"
 county = "Cherokee"
-longitude = -94.889857
 latitude = 37.169887
+longitude = -94.889857
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66725"
+

@@ -1,6 +1,8 @@
-zip_code = "80742"
-state = "CO"
 city = "New Raymer"
 county = "Weld"
-longitude = -103.878656
 latitude = 40.736271
+longitude = -103.878656
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80742"
+

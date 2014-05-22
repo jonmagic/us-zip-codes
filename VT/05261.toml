@@ -1,6 +1,8 @@
-zip_code = "05261"
-state = "VT"
 city = "Pownal"
 county = "Bennington"
-longitude = -73.201254
 latitude = 42.790682
+longitude = -73.201254
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05261"
+

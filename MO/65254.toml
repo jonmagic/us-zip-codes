@@ -1,6 +1,8 @@
-zip_code = "65254"
-state = "MO"
 city = "Glasgow"
 county = "Howard"
-longitude = -92.826306
 latitude = 39.159075
+longitude = -92.826306
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65254"
+

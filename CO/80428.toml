@@ -1,6 +1,8 @@
-zip_code = "80428"
-state = "CO"
 city = "Clark"
 county = "Routt"
-longitude = -106.913996
 latitude = 40.730717
+longitude = -106.913996
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80428"
+

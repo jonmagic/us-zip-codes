@@ -1,6 +1,8 @@
-zip_code = "85230"
-state = "AZ"
 city = "Casa Grande"
 county = "Pinal"
-longitude = -111.705441
 latitude = 32.815123
+longitude = -111.705441
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85230"
+

@@ -1,6 +1,8 @@
-zip_code = "50424"
-state = "IA"
 city = "Buffalo Center"
 county = "Winnebago"
-longitude = -93.803062
 latitude = 43.37731
+longitude = -93.803062
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50424"
+

@@ -1,6 +1,8 @@
-zip_code = "17922"
-state = "PA"
 city = "Auburn"
 county = "Schuylkill"
-longitude = -76.14932
 latitude = 40.59782
+longitude = -76.14932
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17922"
+

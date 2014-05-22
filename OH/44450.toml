@@ -1,6 +1,8 @@
-zip_code = "44450"
-state = "OH"
 city = "North Bloomfield"
 county = "Trumbull"
-longitude = -80.818751
 latitude = 41.443995
+longitude = -80.818751
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44450"
+

@@ -1,6 +1,8 @@
-zip_code = "26338"
-state = "WV"
 city = "Camden"
 county = "Lewis"
-longitude = -80.58037
 latitude = 39.115329
+longitude = -80.58037
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26338"
+

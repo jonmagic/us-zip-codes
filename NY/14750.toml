@@ -1,6 +1,8 @@
-zip_code = "14750"
-state = "NY"
 city = "Lakewood"
 county = "Chautauqua"
-longitude = -79.440009
 latitude = 42.12481
+longitude = -79.440009
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14750"
+

@@ -1,6 +1,8 @@
-zip_code = "23421"
-state = "VA"
 city = "Parksley"
 county = "Accomack"
-longitude = -75.633717
 latitude = 37.840771
+longitude = -75.633717
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23421"
+

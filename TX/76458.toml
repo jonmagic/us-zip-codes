@@ -1,6 +1,8 @@
-zip_code = "76458"
-state = "TX"
 city = "Jacksboro"
 county = "Jack"
-longitude = -98.264241
 latitude = 33.246805
+longitude = -98.264241
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76458"
+

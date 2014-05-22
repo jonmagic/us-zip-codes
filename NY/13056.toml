@@ -1,6 +1,8 @@
-zip_code = "13056"
-state = "NY"
 city = "East Homer"
 county = "Cortland"
-longitude = -76.105201
 latitude = 42.677155
+longitude = -76.105201
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13056"
+

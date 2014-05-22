@@ -1,6 +1,8 @@
-zip_code = "79325"
-state = "TX"
 city = "Farwell"
 county = "Parmer"
-longitude = -102.784569
 latitude = 34.524376
+longitude = -102.784569
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79325"
+

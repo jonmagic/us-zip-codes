@@ -1,6 +1,8 @@
-zip_code = "08759"
-state = "NJ"
 city = "Manchester Township"
 county = "Ocean"
-longitude = -74.29782
 latitude = 39.945798
+longitude = -74.29782
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08759"
+

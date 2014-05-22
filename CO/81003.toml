@@ -1,6 +1,8 @@
-zip_code = "81003"
-state = "CO"
 city = "Pueblo"
 county = "Pueblo"
-longitude = -104.763851
 latitude = 38.121031
+longitude = -104.763851
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81003"
+

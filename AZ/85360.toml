@@ -1,6 +1,8 @@
-zip_code = "85360"
-state = "AZ"
 city = "Wikieup"
 county = "Mohave"
-longitude = -113.8106
 latitude = 35.74782
+longitude = -113.8106
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85360"
+

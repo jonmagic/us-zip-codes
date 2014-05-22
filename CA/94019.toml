@@ -1,6 +1,8 @@
-zip_code = "94019"
-state = "CA"
 city = "Half Moon Bay"
 county = "San Mateo"
-longitude = -122.415566
 latitude = 37.389057
+longitude = -122.415566
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94019"
+

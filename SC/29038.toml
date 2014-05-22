@@ -1,6 +1,8 @@
-zip_code = "29038"
-state = "SC"
 city = "Cope"
 county = "Orangeburg"
-longitude = -80.956389
 latitude = 33.381696
+longitude = -80.956389
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29038"
+

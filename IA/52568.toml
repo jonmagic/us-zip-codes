@@ -1,6 +1,8 @@
-zip_code = "52568"
-state = "IA"
 city = "Martinsburg"
 county = "Keokuk"
-longitude = -92.271472
 latitude = 41.194806
+longitude = -92.271472
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52568"
+

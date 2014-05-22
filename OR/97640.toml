@@ -1,6 +1,8 @@
-zip_code = "97640"
-state = "OR"
 city = "Summer Lake"
 county = "Lake"
-longitude = -120.794615
 latitude = 42.944694
+longitude = -120.794615
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97640"
+

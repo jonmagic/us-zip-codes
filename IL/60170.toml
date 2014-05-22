@@ -1,6 +1,8 @@
-zip_code = "60170"
-state = "IL"
 city = "Plato Center"
 county = "Kane"
-longitude = -88.425931
 latitude = 42.025776
+longitude = -88.425931
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60170"
+

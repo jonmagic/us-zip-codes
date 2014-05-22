@@ -1,6 +1,8 @@
-zip_code = "68407"
-state = "NE"
 city = "Murdock"
 county = "Cass"
-longitude = -96.268221
 latitude = 40.907906
+longitude = -96.268221
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68407"
+

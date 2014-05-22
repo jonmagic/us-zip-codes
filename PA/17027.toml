@@ -1,6 +1,8 @@
-zip_code = "17027"
-state = "PA"
 city = "Grantham"
 county = "Cumberland"
-longitude = -76.996398
 latitude = 40.157981
+longitude = -76.996398
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17027"
+

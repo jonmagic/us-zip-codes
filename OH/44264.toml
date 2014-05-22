@@ -1,6 +1,8 @@
-zip_code = "44264"
-state = "OH"
 city = "Peninsula"
 county = "Summit"
-longitude = -81.549261
 latitude = 41.230355
+longitude = -81.549261
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44264"
+

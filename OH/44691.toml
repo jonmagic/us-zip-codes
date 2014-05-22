@@ -1,6 +1,8 @@
-zip_code = "44691"
-state = "OH"
 city = "Wooster"
 county = "Wayne"
-longitude = -81.895377
 latitude = 40.830699
+longitude = -81.895377
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44691"
+

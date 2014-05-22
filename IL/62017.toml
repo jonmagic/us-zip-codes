@@ -1,6 +1,8 @@
-zip_code = "62017"
-state = "IL"
 city = "Coffeen"
 county = "Montgomery"
-longitude = -89.380042
 latitude = 39.070254
+longitude = -89.380042
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62017"
+

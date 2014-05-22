@@ -1,6 +1,8 @@
-zip_code = "29175"
-state = "SC"
 city = "Westville"
 county = "Kershaw"
-longitude = -80.603298
 latitude = 34.441802
+longitude = -80.603298
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29175"
+

@@ -1,6 +1,8 @@
-zip_code = "66761"
-state = "KS"
 city = "Piqua"
 county = "Woodson"
-longitude = -95.56937
 latitude = 37.914531
+longitude = -95.56937
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66761"
+

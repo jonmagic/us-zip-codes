@@ -1,6 +1,8 @@
-zip_code = "14062"
-state = "NY"
 city = "Forestville"
 county = "Chautauqua"
-longitude = -79.172343
 latitude = 42.441146
+longitude = -79.172343
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14062"
+

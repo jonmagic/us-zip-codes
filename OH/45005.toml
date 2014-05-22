@@ -1,6 +1,8 @@
-zip_code = "45005"
-state = "OH"
 city = "Franklin"
 county = "Warren"
-longitude = -84.186961
 latitude = 39.526049
+longitude = -84.186961
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45005"
+

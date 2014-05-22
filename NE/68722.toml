@@ -1,6 +1,8 @@
-zip_code = "68722"
-state = "NE"
 city = "Butte"
 county = "Boyd"
-longitude = -98.847065
 latitude = 42.911492
+longitude = -98.847065
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68722"
+

@@ -1,6 +1,8 @@
-zip_code = "35441"
-state = "AL"
 city = "Akron"
 county = "Hale"
-longitude = -87.721868
 latitude = 32.855347
+longitude = -87.721868
+state = ""
+state_code_alpha2 = ""
+zip_code = "35441"
+

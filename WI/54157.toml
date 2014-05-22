@@ -1,6 +1,8 @@
-zip_code = "54157"
-state = "WI"
 city = "Peshtigo"
 county = "Marinette"
-longitude = -87.902
 latitude = 45.174269
+longitude = -87.902
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54157"
+

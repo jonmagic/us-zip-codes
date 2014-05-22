@@ -1,6 +1,8 @@
-zip_code = "29483"
-state = "SC"
 city = "Summerville"
 county = "Dorchester"
-longitude = -80.431751
 latitude = 33.040201
+longitude = -80.431751
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29483"
+

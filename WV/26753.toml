@@ -1,6 +1,8 @@
-zip_code = "26753"
-state = "WV"
 city = "Ridgeley"
 county = "Mineral"
-longitude = -78.769112
 latitude = 39.600736
+longitude = -78.769112
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26753"
+

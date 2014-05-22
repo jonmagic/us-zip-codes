@@ -1,6 +1,8 @@
-zip_code = "76687"
-state = "TX"
 city = "Thornton"
 county = "Limestone"
-longitude = -96.57281
 latitude = 31.409873
+longitude = -96.57281
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76687"
+

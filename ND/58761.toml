@@ -1,6 +1,8 @@
-zip_code = "58761"
-state = "ND"
 city = "Mohall"
 county = "Renville"
-longitude = -101.605847
 latitude = 48.726868
+longitude = -101.605847
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58761"
+

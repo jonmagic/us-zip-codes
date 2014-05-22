@@ -1,6 +1,8 @@
-zip_code = "45837"
-state = "OH"
 city = "Dupont"
 county = "Putnam"
-longitude = -84.319494
 latitude = 41.046252
+longitude = -84.319494
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45837"
+

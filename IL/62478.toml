@@ -1,6 +1,8 @@
-zip_code = "62478"
-state = "IL"
 city = "West York"
 county = "Crawford"
-longitude = -87.723392
 latitude = 39.158846
+longitude = -87.723392
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62478"
+

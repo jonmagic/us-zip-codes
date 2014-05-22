@@ -1,6 +1,8 @@
-zip_code = "99320"
-state = "WA"
 city = "Benton City"
 county = "Benton"
-longitude = -119.483517
 latitude = 46.24204
+longitude = -119.483517
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99320"
+

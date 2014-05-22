@@ -1,6 +1,8 @@
-zip_code = "79742"
-state = "TX"
 city = "Grandfalls"
 county = "Ward"
-longitude = -102.854027
 latitude = 31.340332
+longitude = -102.854027
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79742"
+

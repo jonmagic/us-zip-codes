@@ -1,6 +1,8 @@
-zip_code = "52760"
-state = "IA"
 city = "Moscow"
 county = "Muscatine"
-longitude = -91.058797
 latitude = 41.552779
+longitude = -91.058797
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52760"
+

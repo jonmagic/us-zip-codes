@@ -1,6 +1,8 @@
-zip_code = "78611"
-state = "TX"
 city = "Burnet"
 county = "Burnet"
-longitude = -98.238816
 latitude = 30.749465
+longitude = -98.238816
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78611"
+

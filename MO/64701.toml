@@ -1,6 +1,8 @@
-zip_code = "64701"
-state = "MO"
 city = "Harrisonville"
 county = "Cass"
-longitude = -94.321556
 latitude = 38.615239
+longitude = -94.321556
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64701"
+

@@ -1,6 +1,8 @@
-zip_code = "13464"
-state = "NY"
 city = "Smyrna"
 county = "Chenango"
-longitude = -75.593362
 latitude = 42.672573
+longitude = -75.593362
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13464"
+

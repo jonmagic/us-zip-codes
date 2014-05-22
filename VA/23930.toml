@@ -1,6 +1,8 @@
-zip_code = "23930"
-state = "VA"
 city = "Crewe"
 county = "Nottoway"
-longitude = -78.095474
 latitude = 37.150355
+longitude = -78.095474
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23930"
+

@@ -1,6 +1,8 @@
-zip_code = "67026"
-state = "KS"
 city = "Clearwater"
 county = "Sedgwick"
-longitude = -97.488432
 latitude = 37.548282
+longitude = -97.488432
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67026"
+

@@ -1,6 +1,8 @@
-zip_code = "78003"
-state = "TX"
 city = "Bandera"
 county = "Bandera"
-longitude = -99.104014
 latitude = 29.724328
+longitude = -99.104014
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78003"
+

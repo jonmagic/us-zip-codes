@@ -1,6 +1,8 @@
-zip_code = "97813"
-state = "OR"
 city = "Athena"
 county = "Umatilla"
-longitude = -118.524881
 latitude = 45.82394
+longitude = -118.524881
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97813"
+

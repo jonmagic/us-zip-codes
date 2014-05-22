@@ -1,6 +1,8 @@
-zip_code = "32068"
-state = "FL"
 city = "Middleburg"
 county = "Clay"
-longitude = -81.847794
 latitude = 30.078597
+longitude = -81.847794
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32068"
+

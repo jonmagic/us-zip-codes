@@ -1,6 +1,8 @@
-zip_code = "64631"
-state = "MO"
 city = "Bucklin"
 county = "Linn"
-longitude = -93.009571
 latitude = 39.839738
+longitude = -93.009571
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64631"
+

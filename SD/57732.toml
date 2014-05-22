@@ -1,6 +1,8 @@
-zip_code = "57732"
-state = "SD"
 city = "Deadwood"
 county = "Lawrence"
-longitude = -103.735731
 latitude = 44.36485
+longitude = -103.735731
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57732"
+

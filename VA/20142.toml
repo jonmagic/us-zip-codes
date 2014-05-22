@@ -1,6 +1,8 @@
-zip_code = "20142"
-state = "VA"
 city = "Round Hill"
 county = "Loudoun"
-longitude = -77.774665
 latitude = 39.130665
+longitude = -77.774665
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20142"
+

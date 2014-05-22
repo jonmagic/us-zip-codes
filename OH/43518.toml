@@ -1,6 +1,8 @@
-zip_code = "43518"
-state = "OH"
 city = "Edon"
 county = "Williams"
-longitude = -84.738401
 latitude = 41.58754
+longitude = -84.738401
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43518"
+

@@ -1,6 +1,8 @@
-zip_code = "36201"
-state = "AL"
 city = "Anniston"
 county = "Calhoun"
-longitude = -85.792328
 latitude = 33.759768
+longitude = -85.792328
+state = ""
+state_code_alpha2 = ""
+zip_code = "36201"
+

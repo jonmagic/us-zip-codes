@@ -1,6 +1,8 @@
-zip_code = "66740"
-state = "KS"
 city = "Galesburg"
 county = "Neosho"
-longitude = -95.370691
 latitude = 37.472432
+longitude = -95.370691
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66740"
+

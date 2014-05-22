@@ -1,6 +1,8 @@
-zip_code = "14521"
-state = "NY"
 city = "Ovid"
 county = "Seneca"
-longitude = -76.794102
 latitude = 42.689791
+longitude = -76.794102
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14521"
+

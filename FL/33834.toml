@@ -1,6 +1,8 @@
-zip_code = "33834"
-state = "FL"
 city = "Bowling Green"
 county = "Hardee"
-longitude = -81.85069
 latitude = 27.601936
+longitude = -81.85069
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33834"
+

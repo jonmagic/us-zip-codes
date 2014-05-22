@@ -1,6 +1,8 @@
-zip_code = "85292"
-state = "AZ"
 city = "Winkelman"
 county = "Gila"
-longitude = -110.789035
 latitude = 33.070467
+longitude = -110.789035
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85292"
+

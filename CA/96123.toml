@@ -1,6 +1,8 @@
-zip_code = "96123"
-state = "CA"
 city = "Ravendale"
 county = "Lassen"
-longitude = -120.326259
 latitude = 40.776154
+longitude = -120.326259
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96123"
+

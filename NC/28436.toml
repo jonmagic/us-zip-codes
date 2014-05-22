@@ -1,6 +1,8 @@
-zip_code = "28436"
-state = "NC"
 city = "Delco"
 county = "Columbus"
-longitude = -78.260664
 latitude = 34.283839
+longitude = -78.260664
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28436"
+

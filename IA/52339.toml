@@ -1,6 +1,8 @@
-zip_code = "52339"
-state = "IA"
 city = "Tama"
 county = "Tama"
-longitude = -92.585494
 latitude = 41.934093
+longitude = -92.585494
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52339"
+

@@ -1,6 +1,8 @@
-zip_code = "12023"
-state = "NY"
 city = "Berne"
 county = "Albany"
-longitude = -74.154615
 latitude = 42.602236
+longitude = -74.154615
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12023"
+

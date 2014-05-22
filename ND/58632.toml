@@ -1,6 +1,8 @@
-zip_code = "58632"
-state = "ND"
 city = "Golva"
 county = "Golden Valley"
-longitude = -103.952158
 latitude = 46.672225
+longitude = -103.952158
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58632"
+

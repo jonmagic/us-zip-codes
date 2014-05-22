@@ -1,6 +1,8 @@
-zip_code = "49893"
-state = "MI"
 city = "Wallace"
 county = "Menominee"
-longitude = -87.585611
 latitude = 45.295383
+longitude = -87.585611
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49893"
+

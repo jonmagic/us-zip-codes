@@ -1,6 +1,8 @@
-zip_code = "46052"
-state = "IN"
 city = "Lebanon"
 county = "Boone"
-longitude = -86.490381
 latitude = 40.050302
+longitude = -86.490381
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46052"
+

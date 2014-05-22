@@ -1,6 +1,8 @@
-zip_code = "61126"
-state = "IL"
 city = "Rockford"
 county = "Winnebago"
-longitude = -89.170527
 latitude = 42.325364
+longitude = -89.170527
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61126"
+

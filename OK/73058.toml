@@ -1,6 +1,8 @@
-zip_code = "73058"
-state = "OK"
 city = "Meridian"
 county = "Logan"
-longitude = -97.22659
 latitude = 35.775549
+longitude = -97.22659
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73058"
+

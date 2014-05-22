@@ -1,6 +1,8 @@
-zip_code = "80615"
-state = "CO"
 city = "Eaton"
 county = "Weld"
-longitude = -104.660412
 latitude = 40.350055
+longitude = -104.660412
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80615"
+

@@ -1,6 +1,8 @@
-zip_code = "49748"
-state = "MI"
 city = "Hulbert"
 county = "Chippewa"
-longitude = -85.176386
 latitude = 46.390752
+longitude = -85.176386
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49748"
+

@@ -1,6 +1,8 @@
-zip_code = "22713"
-state = "VA"
 city = "Boston"
 county = "Culpeper"
-longitude = -78.132778
 latitude = 38.537138
+longitude = -78.132778
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22713"
+

@@ -1,6 +1,8 @@
-zip_code = "53075"
-state = "WI"
 city = "Random Lake"
 county = "Sheboygan"
-longitude = -88.000555
 latitude = 43.582924
+longitude = -88.000555
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53075"
+

@@ -1,6 +1,8 @@
-zip_code = "61942"
-state = "IL"
 city = "Newman"
 county = "Douglas"
-longitude = -88.029696
 latitude = 39.800771
+longitude = -88.029696
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61942"
+

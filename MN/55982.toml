@@ -1,6 +1,8 @@
-zip_code = "55982"
-state = "MN"
 city = "Waltham"
 county = "Mower"
-longitude = -92.79693
 latitude = 43.694738
+longitude = -92.79693
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55982"
+

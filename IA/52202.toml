@@ -1,6 +1,8 @@
-zip_code = "52202"
-state = "IA"
 city = "Alburnett"
 county = "Linn"
-longitude = -91.645825
 latitude = 42.157086
+longitude = -91.645825
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52202"
+

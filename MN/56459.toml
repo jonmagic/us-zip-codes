@@ -1,6 +1,8 @@
-zip_code = "56459"
-state = "MN"
 city = "Lake Hubert"
 county = "Crow Wing"
-longitude = -94.251926
 latitude = 46.498749
+longitude = -94.251926
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56459"
+

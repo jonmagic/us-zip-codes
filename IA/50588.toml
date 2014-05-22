@@ -1,6 +1,8 @@
-zip_code = "50588"
-state = "IA"
 city = "Storm Lake"
 county = "Buena Vista"
-longitude = -95.151811
 latitude = 42.693184
+longitude = -95.151811
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50588"
+

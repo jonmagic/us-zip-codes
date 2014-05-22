@@ -1,6 +1,8 @@
-zip_code = "48851"
-state = "MI"
 city = "Lyons"
 county = "Ionia"
-longitude = -84.958071
 latitude = 42.956819
+longitude = -84.958071
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48851"
+

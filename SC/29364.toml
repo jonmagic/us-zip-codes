@@ -1,6 +1,8 @@
-zip_code = "29364"
-state = "SC"
 city = "Lockhart"
 county = "Union"
-longitude = -81.477843
 latitude = 34.79259
+longitude = -81.477843
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29364"
+

@@ -1,6 +1,8 @@
-zip_code = "68922"
-state = "NE"
 city = "Arapahoe"
 county = "Furnas"
-longitude = -99.842844
 latitude = 40.294628
+longitude = -99.842844
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68922"
+

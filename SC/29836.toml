@@ -1,6 +1,8 @@
-zip_code = "29836"
-state = "SC"
 city = "Martin"
 county = "Allendale"
-longitude = -81.348337
 latitude = 32.951573
+longitude = -81.348337
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29836"
+

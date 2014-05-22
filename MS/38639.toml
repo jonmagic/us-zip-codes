@@ -1,6 +1,8 @@
-zip_code = "38639"
-state = "MS"
 city = "Jonestown"
 county = "Coahoma"
-longitude = -90.429351
 latitude = 34.30373
+longitude = -90.429351
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38639"
+

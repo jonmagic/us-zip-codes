@@ -1,6 +1,8 @@
-zip_code = "44818"
-state = "OH"
 city = "Bloomville"
 county = "Seneca"
-longitude = -82.968764
 latitude = 41.046546
+longitude = -82.968764
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44818"
+

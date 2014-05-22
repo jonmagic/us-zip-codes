@@ -1,6 +1,8 @@
-zip_code = "45359"
-state = "OH"
 city = "Pleasant Hill"
 county = "Miami"
-longitude = -84.348699
 latitude = 40.050483
+longitude = -84.348699
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45359"
+

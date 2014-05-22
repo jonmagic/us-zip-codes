@@ -1,6 +1,8 @@
-zip_code = "98647"
-state = "WA"
 city = "Skamokawa"
 county = "Wahkiakum"
-longitude = -123.456145
 latitude = 46.300349
+longitude = -123.456145
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98647"
+

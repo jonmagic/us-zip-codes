@@ -1,6 +1,8 @@
-zip_code = "68827"
-state = "NE"
 city = "Chapman"
 county = "Merrick"
-longitude = -98.188441
 latitude = 41.046263
+longitude = -98.188441
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68827"
+

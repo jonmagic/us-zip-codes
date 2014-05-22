@@ -1,6 +1,8 @@
-zip_code = "43004"
-state = "OH"
 city = "Blacklick"
 county = "Franklin"
-longitude = -82.839198
 latitude = 40.016713
+longitude = -82.839198
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43004"
+

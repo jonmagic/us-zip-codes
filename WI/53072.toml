@@ -1,6 +1,8 @@
-zip_code = "53072"
-state = "WI"
 city = "Pewaukee"
 county = "Waukesha"
-longitude = -88.264875
 latitude = 43.080185
+longitude = -88.264875
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53072"
+

@@ -1,6 +1,8 @@
-zip_code = "12188"
-state = "NY"
 city = "Waterford"
 county = "Saratoga"
-longitude = -73.702433
 latitude = 42.845579
+longitude = -73.702433
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12188"
+

@@ -1,6 +1,8 @@
-zip_code = "75766"
-state = "TX"
 city = "Jacksonville"
 county = "Cherokee"
-longitude = -95.155683
 latitude = 31.865305
+longitude = -95.155683
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75766"
+

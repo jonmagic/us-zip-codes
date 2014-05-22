@@ -1,6 +1,8 @@
-zip_code = "02536"
-state = "MA"
 city = "East Falmouth"
 county = "Barnstable"
-longitude = -70.562843
 latitude = 41.662506
+longitude = -70.562843
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02536"
+

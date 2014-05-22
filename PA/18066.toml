@@ -1,6 +1,8 @@
-zip_code = "18066"
-state = "PA"
 city = "New Tripoli"
 county = "Lehigh"
-longitude = -75.759361
 latitude = 40.652611
+longitude = -75.759361
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18066"
+

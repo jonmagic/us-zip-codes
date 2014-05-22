@@ -1,6 +1,8 @@
-zip_code = "55936"
-state = "MN"
 city = "Grand Meadow"
 county = "Mower"
-longitude = -92.544587
 latitude = 43.668417
+longitude = -92.544587
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55936"
+

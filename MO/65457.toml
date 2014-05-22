@@ -1,6 +1,8 @@
-zip_code = "65457"
-state = "MO"
 city = "Devils Elbow"
 county = "Pulaski"
-longitude = -92.056898
 latitude = 37.851231
+longitude = -92.056898
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65457"
+

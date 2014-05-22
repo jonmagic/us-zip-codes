@@ -1,6 +1,8 @@
-zip_code = "99716"
-state = "AK"
 city = "Two Rivers"
 county = "Fairbanks North Star"
-longitude = -146.898195
 latitude = 64.874591
+longitude = -146.898195
+state = ""
+state_code_alpha2 = ""
+zip_code = "99716"
+

@@ -1,6 +1,8 @@
-zip_code = "98365"
-state = "WA"
 city = "Port Ludlow"
 county = "Jefferson"
-longitude = -122.709606
 latitude = 47.911892
+longitude = -122.709606
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98365"
+

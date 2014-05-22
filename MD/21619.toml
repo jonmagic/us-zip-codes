@@ -1,6 +1,8 @@
-zip_code = "21619"
-state = "MD"
 city = "Chester"
 county = "Queen Annes"
-longitude = -76.279172
 latitude = 38.946034
+longitude = -76.279172
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21619"
+

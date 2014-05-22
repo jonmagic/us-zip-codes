@@ -1,6 +1,8 @@
-zip_code = "23694"
-state = "VA"
 city = "Lackey"
 county = "York"
-longitude = -76.55901
 latitude = 37.223152
+longitude = -76.55901
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23694"
+

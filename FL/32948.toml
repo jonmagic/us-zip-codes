@@ -1,6 +1,8 @@
-zip_code = "32948"
-state = "FL"
 city = "Fellsmere"
 county = "Indian River"
-longitude = -80.609403
 latitude = 27.775251
+longitude = -80.609403
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32948"
+

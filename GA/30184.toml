@@ -1,6 +1,8 @@
-zip_code = "30184"
-state = "GA"
 city = "White"
 county = "Bartow"
-longitude = -84.753929
 latitude = 34.264331
+longitude = -84.753929
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30184"
+

@@ -1,6 +1,8 @@
-zip_code = "92561"
-state = "CA"
 city = "Mountain Center"
 county = "Riverside"
-longitude = -116.556695
 latitude = 33.640142
+longitude = -116.556695
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92561"
+

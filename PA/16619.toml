@@ -1,6 +1,8 @@
-zip_code = "16619"
-state = "PA"
 city = "Blandburg"
 county = "Cambria"
-longitude = -78.413712
 latitude = 40.684687
+longitude = -78.413712
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16619"
+

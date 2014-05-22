@@ -1,6 +1,8 @@
-zip_code = "50511"
-state = "IA"
 city = "Algona"
 county = "Kossuth"
-longitude = -94.166994
 latitude = 43.109313
+longitude = -94.166994
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50511"
+

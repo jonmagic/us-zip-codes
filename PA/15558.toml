@@ -1,6 +1,8 @@
-zip_code = "15558"
-state = "PA"
 city = "Salisbury"
 county = "Somerset"
-longitude = -79.083318
 latitude = 39.941261
+longitude = -79.083318
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15558"
+

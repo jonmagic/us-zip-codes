@@ -1,6 +1,8 @@
-zip_code = "55935"
-state = "MN"
 city = "Fountain"
 county = "Fillmore"
-longitude = -92.075216
 latitude = 43.651181
+longitude = -92.075216
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55935"
+

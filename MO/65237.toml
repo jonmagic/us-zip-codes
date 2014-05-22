@@ -1,6 +1,8 @@
-zip_code = "65237"
-state = "MO"
 city = "Bunceton"
 county = "Cooper"
-longitude = -92.790412
 latitude = 38.759637
+longitude = -92.790412
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65237"
+

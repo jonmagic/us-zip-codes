@@ -1,6 +1,8 @@
-zip_code = "16057"
-state = "PA"
 city = "Slippery Rock"
 county = "Butler"
-longitude = -80.043821
 latitude = 41.052427
+longitude = -80.043821
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16057"
+

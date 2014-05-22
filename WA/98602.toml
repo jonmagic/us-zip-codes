@@ -1,6 +1,8 @@
-zip_code = "98602"
-state = "WA"
 city = "Appleton"
 county = "Klickitat"
-longitude = -121.312852
 latitude = 45.850437
+longitude = -121.312852
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98602"
+

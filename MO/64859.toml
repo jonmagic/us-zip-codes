@@ -1,6 +1,8 @@
-zip_code = "64859"
-state = "MO"
 city = "Reeds"
 county = "Jasper"
-longitude = -94.248598
 latitude = 37.165311
+longitude = -94.248598
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64859"
+

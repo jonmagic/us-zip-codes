@@ -1,6 +1,8 @@
-zip_code = "26852"
-state = "WV"
 city = "Purgitsville"
 county = "Hampshire"
-longitude = -78.659428
 latitude = 39.314071
+longitude = -78.659428
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26852"
+

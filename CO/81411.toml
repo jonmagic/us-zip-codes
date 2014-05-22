@@ -1,6 +1,8 @@
-zip_code = "81411"
-state = "CO"
 city = "Bedrock"
 county = "Montrose"
-longitude = -108.937369
 latitude = 38.34867
+longitude = -108.937369
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81411"
+

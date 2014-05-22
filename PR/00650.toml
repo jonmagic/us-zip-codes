@@ -1,6 +1,8 @@
-zip_code = "00650"
-state = "PR"
 city = "Florida"
 county = "Florida"
-longitude = -66.562311
 latitude = 18.360125
+longitude = -66.562311
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00650"
+

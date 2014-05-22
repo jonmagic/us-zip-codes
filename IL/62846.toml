@@ -1,6 +1,8 @@
-zip_code = "62846"
-state = "IL"
 city = "Ina"
 county = "Jefferson"
-longitude = -88.819501
 latitude = 38.155485
+longitude = -88.819501
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62846"
+

@@ -1,6 +1,8 @@
-zip_code = "93920"
-state = "CA"
 city = "Big Sur"
 county = "Monterey"
-longitude = -121.607774
 latitude = 36.054105
+longitude = -121.607774
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93920"
+

@@ -1,6 +1,8 @@
-zip_code = "32041"
-state = "FL"
 city = "Yulee"
 county = "Nassau"
-longitude = -81.590249
 latitude = 30.6233
+longitude = -81.590249
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32041"
+

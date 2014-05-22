@@ -1,6 +1,8 @@
-zip_code = "75551"
-state = "TX"
 city = "Atlanta"
 county = "Cass"
-longitude = -94.242023
 latitude = 33.08447
+longitude = -94.242023
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75551"
+

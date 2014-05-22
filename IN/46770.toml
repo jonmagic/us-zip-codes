@@ -1,6 +1,8 @@
-zip_code = "46770"
-state = "IN"
 city = "Markle"
 county = "Huntington"
-longitude = -85.354611
 latitude = 40.862309
+longitude = -85.354611
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46770"
+

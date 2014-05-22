@@ -1,6 +1,8 @@
-zip_code = "49733"
-state = "MI"
 city = "Frederic"
 county = "Crawford"
-longitude = -84.697844
 latitude = 44.786738
+longitude = -84.697844
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49733"
+

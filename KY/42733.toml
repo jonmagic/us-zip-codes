@@ -1,6 +1,8 @@
-zip_code = "42733"
-state = "KY"
 city = "Elk Horn"
 county = "Taylor"
-longitude = -85.218987
 latitude = 37.340494
+longitude = -85.218987
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42733"
+

@@ -1,6 +1,8 @@
-zip_code = "19036"
-state = "PA"
 city = "Glenolden"
 county = "Delaware"
-longitude = -75.29268
 latitude = 39.902512
+longitude = -75.29268
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19036"
+

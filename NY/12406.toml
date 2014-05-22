@@ -1,6 +1,8 @@
-zip_code = "12406"
-state = "NY"
 city = "Arkville"
 county = "Delaware"
-longitude = -74.572054
 latitude = 42.141725
+longitude = -74.572054
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12406"
+

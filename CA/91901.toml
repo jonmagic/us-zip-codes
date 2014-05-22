@@ -1,6 +1,8 @@
-zip_code = "91901"
-state = "CA"
 city = "Alpine"
 county = "San Diego"
-longitude = -116.976341
 latitude = 32.74081
+longitude = -116.976341
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "91901"
+

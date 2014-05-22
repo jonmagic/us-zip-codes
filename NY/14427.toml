@@ -1,6 +1,8 @@
-zip_code = "14427"
-state = "NY"
 city = "Castile"
 county = "Wyoming"
-longitude = -78.059147
 latitude = 42.62674
+longitude = -78.059147
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14427"
+

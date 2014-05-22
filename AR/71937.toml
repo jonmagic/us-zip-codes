@@ -1,6 +1,8 @@
-zip_code = "71937"
-state = "AR"
 city = "Cove"
 county = "Polk"
-longitude = -94.383483
 latitude = 34.354193
+longitude = -94.383483
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71937"
+

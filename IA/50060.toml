@@ -1,6 +1,8 @@
-zip_code = "50060"
-state = "IA"
 city = "Corydon"
 county = "Wayne"
-longitude = -93.327355
 latitude = 40.777093
+longitude = -93.327355
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50060"
+

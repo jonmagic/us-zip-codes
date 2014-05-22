@@ -1,6 +1,8 @@
-zip_code = "28373"
-state = "NC"
 city = "Pinebluff"
 county = "Moore"
-longitude = -79.466296
 latitude = 35.100733
+longitude = -79.466296
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28373"
+

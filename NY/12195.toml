@@ -1,6 +1,8 @@
-zip_code = "12195"
-state = "NY"
 city = "West Lebanon"
 county = "Columbia"
-longitude = -73.474809
 latitude = 42.479384
+longitude = -73.474809
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12195"
+

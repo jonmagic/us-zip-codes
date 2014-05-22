@@ -1,6 +1,8 @@
-zip_code = "83854"
-state = "ID"
 city = "Post Falls"
 county = "Kootenai"
-longitude = -116.946395
 latitude = 47.795737
+longitude = -116.946395
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83854"
+

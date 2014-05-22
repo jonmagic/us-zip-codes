@@ -1,6 +1,8 @@
-zip_code = "06385"
-state = "CT"
 city = "Waterford"
 county = "New London"
-longitude = -72.126498
 latitude = 41.456698
+longitude = -72.126498
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06385"
+

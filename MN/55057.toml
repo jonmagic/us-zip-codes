@@ -1,6 +1,8 @@
-zip_code = "55057"
-state = "MN"
 city = "Northfield"
 county = "Rice"
-longitude = -93.241838
 latitude = 44.376816
+longitude = -93.241838
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55057"
+

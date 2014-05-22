@@ -1,6 +1,8 @@
-zip_code = "55369"
-state = "MN"
 city = "Osseo"
 county = "Hennepin"
-longitude = -93.458932
 latitude = 45.128414
+longitude = -93.458932
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55369"
+

@@ -1,6 +1,8 @@
-zip_code = "54121"
-state = "WI"
 city = "Florence"
 county = "Florence"
-longitude = -88.284254
 latitude = 45.845525
+longitude = -88.284254
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54121"
+

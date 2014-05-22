@@ -1,6 +1,8 @@
-zip_code = "23069"
-state = "VA"
 city = "Hanover"
 county = "Hanover"
-longitude = -77.337944
 latitude = 37.735448
+longitude = -77.337944
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23069"
+

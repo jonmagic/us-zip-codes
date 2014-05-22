@@ -1,6 +1,8 @@
-zip_code = "13146"
-state = "NY"
 city = "Savannah"
 county = "Wayne"
-longitude = -76.762705
 latitude = 43.099386
+longitude = -76.762705
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13146"
+

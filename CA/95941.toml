@@ -1,6 +1,8 @@
-zip_code = "95941"
-state = "CA"
 city = "Forbestown"
 county = "Butte"
-longitude = -121.265237
 latitude = 39.528374
+longitude = -121.265237
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95941"
+

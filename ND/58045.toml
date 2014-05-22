@@ -1,6 +1,8 @@
-zip_code = "58045"
-state = "ND"
 city = "Hillsboro"
 county = "Traill"
-longitude = -97.060324
 latitude = 47.383461
+longitude = -97.060324
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58045"
+

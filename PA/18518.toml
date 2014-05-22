@@ -1,6 +1,8 @@
-zip_code = "18518"
-state = "PA"
 city = "Old Forge"
 county = "Lackawanna"
-longitude = -75.730836
 latitude = 41.372779
+longitude = -75.730836
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18518"
+

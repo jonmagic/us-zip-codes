@@ -1,6 +1,8 @@
-zip_code = "76502"
-state = "TX"
 city = "Temple"
 county = "Bell"
-longitude = -97.402704
 latitude = 31.104581
+longitude = -97.402704
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76502"
+

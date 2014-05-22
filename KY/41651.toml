@@ -1,6 +1,8 @@
-zip_code = "41651"
-state = "KY"
 city = "Minnie"
 county = "Floyd"
-longitude = -82.76464
 latitude = 37.454849
+longitude = -82.76464
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41651"
+

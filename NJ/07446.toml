@@ -1,6 +1,8 @@
-zip_code = "07446"
-state = "NJ"
 city = "Ramsey"
 county = "Bergen"
-longitude = -74.133441
 latitude = 41.059124
+longitude = -74.133441
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07446"
+

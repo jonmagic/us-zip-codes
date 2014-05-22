@@ -1,6 +1,8 @@
-zip_code = "58528"
-state = "ND"
 city = "Cannon Ball"
 county = "Sioux"
-longitude = -100.688991
 latitude = 46.361639
+longitude = -100.688991
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58528"
+

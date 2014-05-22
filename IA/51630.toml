@@ -1,6 +1,8 @@
-zip_code = "51630"
-state = "IA"
 city = "Blanchard"
 county = "Page"
-longitude = -95.152493
 latitude = 40.616851
+longitude = -95.152493
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51630"
+

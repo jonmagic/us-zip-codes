@@ -1,6 +1,8 @@
-zip_code = "20616"
-state = "MD"
 city = "Bryans Road"
 county = "Charles"
-longitude = -77.084649
 latitude = 38.636227
+longitude = -77.084649
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20616"
+

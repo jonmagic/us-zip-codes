@@ -1,6 +1,8 @@
-zip_code = "43116"
-state = "OH"
 city = "Commercial Point"
 county = "Pickaway"
-longitude = -83.060153
 latitude = 39.769857
+longitude = -83.060153
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43116"
+

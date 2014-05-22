@@ -1,6 +1,8 @@
-zip_code = "50273"
-state = "IA"
 city = "Winterset"
 county = "Madison"
-longitude = -94.042219
 latitude = 41.351621
+longitude = -94.042219
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50273"
+

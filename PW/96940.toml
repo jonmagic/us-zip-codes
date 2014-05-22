@@ -1,6 +1,8 @@
-zip_code = "96940"
-state = "PW"
 city = "Palau"
 county = "Palau"
-longitude = 134.362169
 latitude = 7.225664
+longitude = 134.362169
+state = "Palau"
+state_code_alpha2 = "PW"
+zip_code = "96940"
+

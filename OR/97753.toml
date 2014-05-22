@@ -1,6 +1,8 @@
-zip_code = "97753"
-state = "OR"
 city = "Powell Butte"
 county = "Crook"
-longitude = -121.008489
 latitude = 44.232525
+longitude = -121.008489
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97753"
+

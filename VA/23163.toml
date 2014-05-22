@@ -1,6 +1,8 @@
-zip_code = "23163"
-state = "VA"
 city = "Susan"
 county = "Mathews"
-longitude = -76.316136
 latitude = 37.350792
+longitude = -76.316136
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23163"
+

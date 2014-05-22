@@ -1,6 +1,8 @@
-zip_code = "53021"
-state = "WI"
 city = "Fredonia"
 county = "Ozaukee"
-longitude = -87.961162
 latitude = 43.477015
+longitude = -87.961162
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53021"
+

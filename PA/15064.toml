@@ -1,6 +1,8 @@
-zip_code = "15064"
-state = "PA"
 city = "Morgan"
 county = "Allegheny"
-longitude = -80.14155
 latitude = 40.355865
+longitude = -80.14155
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15064"
+

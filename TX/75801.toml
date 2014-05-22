@@ -1,6 +1,8 @@
-zip_code = "75801"
-state = "TX"
 city = "Palestine"
 county = "Anderson"
-longitude = -95.685179
 latitude = 31.848542
+longitude = -95.685179
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75801"
+

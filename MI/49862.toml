@@ -1,6 +1,8 @@
-zip_code = "49862"
-state = "MI"
 city = "Munising"
 county = "Alger"
-longitude = -86.460319
 latitude = 46.414779
+longitude = -86.460319
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49862"
+

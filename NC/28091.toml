@@ -1,6 +1,8 @@
-zip_code = "28091"
-state = "NC"
 city = "Lilesville"
 county = "Anson"
-longitude = -79.98678
 latitude = 34.967043
+longitude = -79.98678
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28091"
+

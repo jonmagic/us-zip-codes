@@ -1,6 +1,8 @@
-zip_code = "08242"
-state = "NJ"
 city = "Rio Grande"
 county = "Cape May"
-longitude = -74.883671
 latitude = 39.017283
+longitude = -74.883671
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08242"
+

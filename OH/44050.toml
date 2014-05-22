@@ -1,6 +1,8 @@
-zip_code = "44050"
-state = "OH"
 city = "Lagrange"
 county = "Lorain"
-longitude = -82.119671
 latitude = 41.258201
+longitude = -82.119671
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44050"
+

@@ -1,6 +1,8 @@
-zip_code = "16403"
-state = "PA"
 city = "Cambridge Springs"
 county = "Crawford"
-longitude = -80.059383
 latitude = 41.803393
+longitude = -80.059383
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16403"
+

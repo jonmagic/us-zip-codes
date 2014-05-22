@@ -1,6 +1,8 @@
-zip_code = "95703"
-state = "CA"
 city = "Applegate"
 county = "Placer"
-longitude = -120.994598
 latitude = 38.998186
+longitude = -120.994598
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95703"
+

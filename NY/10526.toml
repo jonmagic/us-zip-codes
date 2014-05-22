@@ -1,6 +1,8 @@
-zip_code = "10526"
-state = "NY"
 city = "Goldens Bridge"
 county = "Westchester"
-longitude = -73.647891
 latitude = 41.300361
+longitude = -73.647891
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10526"
+

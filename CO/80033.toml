@@ -1,6 +1,8 @@
-zip_code = "80033"
-state = "CO"
 city = "Wheat Ridge"
 county = "Jefferson"
-longitude = -105.108182
 latitude = 39.776986
+longitude = -105.108182
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80033"
+

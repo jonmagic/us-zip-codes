@@ -1,6 +1,8 @@
-zip_code = "81427"
-state = "CO"
 city = "Ouray"
 county = "Ouray"
-longitude = -107.728712
 latitude = 38.087654
+longitude = -107.728712
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81427"
+

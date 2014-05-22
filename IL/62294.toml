@@ -1,6 +1,8 @@
-zip_code = "62294"
-state = "IL"
 city = "Troy"
 county = "Madison"
-longitude = -89.895817
 latitude = 38.721612
+longitude = -89.895817
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62294"
+

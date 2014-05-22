@@ -1,6 +1,8 @@
-zip_code = "46960"
-state = "IN"
 city = "Monterey"
 county = "Pulaski"
-longitude = -86.544617
 latitude = 41.124552
+longitude = -86.544617
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46960"
+

@@ -1,6 +1,8 @@
-zip_code = "56051"
-state = "MN"
 city = "Kiester"
 county = "Faribault"
-longitude = -93.708504
 latitude = 43.550446
+longitude = -93.708504
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56051"
+

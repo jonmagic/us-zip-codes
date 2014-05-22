@@ -1,6 +1,8 @@
-zip_code = "08023"
-state = "NJ"
 city = "Deepwater"
 county = "Salem"
-longitude = -75.493433
 latitude = 39.681545
+longitude = -75.493433
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08023"
+

@@ -1,6 +1,8 @@
-zip_code = "25086"
-state = "WV"
 city = "Glasgow"
 county = "Kanawha"
-longitude = -81.406705
 latitude = 38.215547
+longitude = -81.406705
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25086"
+

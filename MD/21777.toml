@@ -1,6 +1,8 @@
-zip_code = "21777"
-state = "MD"
 city = "Point Of Rocks"
 county = "Frederick"
-longitude = -77.532068
 latitude = 39.27777
+longitude = -77.532068
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21777"
+

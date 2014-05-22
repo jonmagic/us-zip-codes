@@ -1,6 +1,8 @@
-zip_code = "46792"
-state = "IN"
 city = "Warren"
 county = "Huntington"
-longitude = -85.468798
 latitude = 40.712066
+longitude = -85.468798
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46792"
+

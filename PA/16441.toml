@@ -1,6 +1,8 @@
-zip_code = "16441"
-state = "PA"
 city = "Waterford"
 county = "Erie"
-longitude = -79.997581
 latitude = 41.970601
+longitude = -79.997581
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16441"
+

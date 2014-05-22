@@ -1,6 +1,8 @@
-zip_code = "64781"
-state = "MO"
 city = "Roscoe"
 county = "Saint Clair"
-longitude = -93.781478
 latitude = 38.024133
+longitude = -93.781478
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64781"
+

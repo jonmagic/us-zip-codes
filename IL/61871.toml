@@ -1,6 +1,8 @@
-zip_code = "61871"
-state = "IL"
 city = "Royal"
 county = "Champaign"
-longitude = -87.974197
 latitude = 40.192376
+longitude = -87.974197
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61871"
+

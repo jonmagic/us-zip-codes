@@ -1,6 +1,8 @@
-zip_code = "39667"
-state = "MS"
 city = "Tylertown"
 county = "Walthall"
-longitude = -90.090824
 latitude = 31.175558
+longitude = -90.090824
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39667"
+

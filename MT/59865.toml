@@ -1,6 +1,8 @@
-zip_code = "59865"
-state = "MT"
 city = "Saint Ignatius"
 county = "Lake"
-longitude = -114.064086
 latitude = 47.37245
+longitude = -114.064086
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59865"
+

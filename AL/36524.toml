@@ -1,6 +1,8 @@
-zip_code = "36524"
-state = "AL"
 city = "Coffeeville"
 county = "Clarke"
-longitude = -88.061865
 latitude = 31.816246
+longitude = -88.061865
+state = ""
+state_code_alpha2 = ""
+zip_code = "36524"
+

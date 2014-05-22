@@ -1,6 +1,8 @@
-zip_code = "56029"
-state = "MN"
 city = "Emmons"
 county = "Freeborn"
-longitude = -93.403429
 latitude = 43.652544
+longitude = -93.403429
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56029"
+

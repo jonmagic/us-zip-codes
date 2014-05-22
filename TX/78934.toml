@@ -1,6 +1,8 @@
-zip_code = "78934"
-state = "TX"
 city = "Columbus"
 county = "Colorado"
-longitude = -96.592531
 latitude = 29.69632
+longitude = -96.592531
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78934"
+

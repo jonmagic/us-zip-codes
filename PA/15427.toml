@@ -1,6 +1,8 @@
-zip_code = "15427"
-state = "PA"
 city = "Daisytown"
 county = "Washington"
-longitude = -79.973302
 latitude = 40.065064
+longitude = -79.973302
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15427"
+

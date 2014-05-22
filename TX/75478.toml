@@ -1,6 +1,8 @@
-zip_code = "75478"
-state = "TX"
 city = "Saltillo"
 county = "Hopkins"
-longitude = -95.585464
 latitude = 33.168606
+longitude = -95.585464
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75478"
+

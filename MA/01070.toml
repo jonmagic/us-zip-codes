@@ -1,6 +1,8 @@
-zip_code = "01070"
-state = "MA"
 city = "Plainfield"
 county = "Hampshire"
-longitude = -72.958397
 latitude = 42.448984
+longitude = -72.958397
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01070"
+

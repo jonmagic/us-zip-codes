@@ -1,6 +1,8 @@
-zip_code = "62691"
-state = "IL"
 city = "Virginia"
 county = "Cass"
-longitude = -90.176415
 latitude = 39.958003
+longitude = -90.176415
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62691"
+

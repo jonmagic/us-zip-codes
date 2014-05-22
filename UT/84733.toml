@@ -1,6 +1,8 @@
-zip_code = "84733"
-state = "UT"
 city = "Gunlock"
 county = "Washington"
-longitude = -113.760596
 latitude = 37.287695
+longitude = -113.760596
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84733"
+

@@ -1,6 +1,8 @@
-zip_code = "15347"
-state = "PA"
 city = "Meadow Lands"
 county = "Washington"
-longitude = -80.226885
 latitude = 40.217358
+longitude = -80.226885
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15347"
+

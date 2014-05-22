@@ -1,6 +1,8 @@
-zip_code = "59875"
-state = "MT"
 city = "Victor"
 county = "Ravalli"
-longitude = -114.160159
 latitude = 46.395224
+longitude = -114.160159
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59875"
+

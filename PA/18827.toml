@@ -1,6 +1,8 @@
-zip_code = "18827"
-state = "PA"
 city = "Lanesboro"
 county = "Susquehanna"
-longitude = -75.637286
 latitude = 41.95752
+longitude = -75.637286
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18827"
+

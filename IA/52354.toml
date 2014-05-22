@@ -1,6 +1,8 @@
-zip_code = "52354"
-state = "IA"
 city = "Watkins"
 county = "Benton"
-longitude = -91.978744
 latitude = 41.92003
+longitude = -91.978744
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52354"
+

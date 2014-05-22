@@ -1,6 +1,8 @@
-zip_code = "41812"
-state = "KY"
 city = "Deane"
 county = "Letcher"
-longitude = -82.769564
 latitude = 37.240912
+longitude = -82.769564
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41812"
+

@@ -1,6 +1,8 @@
-zip_code = "48818"
-state = "MI"
 city = "Crystal"
 county = "Montcalm"
-longitude = -84.95489
 latitude = 43.267035
+longitude = -84.95489
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48818"
+

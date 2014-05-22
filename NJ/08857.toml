@@ -1,6 +1,8 @@
-zip_code = "08857"
-state = "NJ"
 city = "Old Bridge"
 county = "Middlesex"
-longitude = -74.314319
 latitude = 40.407319
+longitude = -74.314319
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08857"
+

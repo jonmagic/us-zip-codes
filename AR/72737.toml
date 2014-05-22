@@ -1,6 +1,8 @@
-zip_code = "72737"
-state = "AR"
 city = "Greenland"
 county = "Washington"
-longitude = -94.152899
 latitude = 35.928186
+longitude = -94.152899
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72737"
+

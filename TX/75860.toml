@@ -1,6 +1,8 @@
-zip_code = "75860"
-state = "TX"
 city = "Teague"
 county = "Freestone"
-longitude = -96.21236
 latitude = 31.627713
+longitude = -96.21236
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75860"
+

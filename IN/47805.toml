@@ -1,6 +1,8 @@
-zip_code = "47805"
-state = "IN"
 city = "Terre Haute"
 county = "Vigo"
-longitude = -87.325458
 latitude = 39.532737
+longitude = -87.325458
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47805"
+

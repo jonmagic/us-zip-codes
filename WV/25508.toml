@@ -1,6 +1,8 @@
-zip_code = "25508"
-state = "WV"
 city = "Chapmanville"
 county = "Logan"
-longitude = -82.01076
 latitude = 37.96087
+longitude = -82.01076
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25508"
+

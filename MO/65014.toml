@@ -1,6 +1,8 @@
-zip_code = "65014"
-state = "MO"
 city = "Bland"
 county = "Gasconade"
-longitude = -91.520173
 latitude = 38.393844
+longitude = -91.520173
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65014"
+

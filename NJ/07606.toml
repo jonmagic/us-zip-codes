@@ -1,6 +1,8 @@
-zip_code = "07606"
-state = "NJ"
 city = "South Hackensack"
 county = "Bergen"
-longitude = -74.048884
 latitude = 40.857899
+longitude = -74.048884
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07606"
+

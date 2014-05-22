@@ -1,6 +1,8 @@
-zip_code = "18348"
-state = "PA"
 city = "Pocono Lake Preserve"
 county = "Monroe"
-longitude = -75.30798
 latitude = 41.033755
+longitude = -75.30798
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18348"
+

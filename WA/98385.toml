@@ -1,6 +1,8 @@
-zip_code = "98385"
-state = "WA"
 city = "South Prairie"
 county = "Pierce"
-longitude = -122.096799
 latitude = 47.138271
+longitude = -122.096799
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98385"
+

@@ -1,6 +1,8 @@
-zip_code = "25213"
-state = "WV"
 city = "Winfield"
 county = "Putnam"
-longitude = -81.914048
 latitude = 38.50099
+longitude = -81.914048
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25213"
+

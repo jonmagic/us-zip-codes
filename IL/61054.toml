@@ -1,6 +1,8 @@
-zip_code = "61054"
-state = "IL"
 city = "Mount Morris"
 county = "Ogle"
-longitude = -89.352968
 latitude = 42.058183
+longitude = -89.352968
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61054"
+

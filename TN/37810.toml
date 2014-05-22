@@ -1,6 +1,8 @@
-zip_code = "37810"
-state = "TN"
 city = "Mohawk"
 county = "Greene"
-longitude = -83.083417
 latitude = 36.179069
+longitude = -83.083417
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37810"
+

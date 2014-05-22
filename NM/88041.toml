@@ -1,6 +1,8 @@
-zip_code = "88041"
-state = "NM"
 city = "Hanover"
 county = "Grant"
-longitude = -107.954524
 latitude = 32.804493
+longitude = -107.954524
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88041"
+

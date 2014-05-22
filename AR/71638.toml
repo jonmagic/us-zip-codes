@@ -1,6 +1,8 @@
-zip_code = "71638"
-state = "AR"
 city = "Dermott"
 county = "Chicot"
-longitude = -91.394712
 latitude = 33.470414
+longitude = -91.394712
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71638"
+

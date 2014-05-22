@@ -1,6 +1,8 @@
-zip_code = "37135"
-state = "TN"
 city = "Nolensville"
 county = "Williamson"
-longitude = -86.675349
 latitude = 35.925201
+longitude = -86.675349
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37135"
+

@@ -1,6 +1,8 @@
-zip_code = "48104"
-state = "MI"
 city = "Ann Arbor"
 county = "Washtenaw"
-longitude = -83.727826
 latitude = 42.270903
+longitude = -83.727826
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48104"
+

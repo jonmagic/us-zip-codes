@@ -1,6 +1,8 @@
-zip_code = "02873"
-state = "RI"
 city = "Rockville"
 county = "Washington"
-longitude = -71.774023
 latitude = 41.519922
+longitude = -71.774023
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02873"
+

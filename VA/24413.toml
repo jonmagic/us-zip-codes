@@ -1,6 +1,8 @@
-zip_code = "24413"
-state = "VA"
 city = "Blue Grass"
 county = "Highland"
-longitude = -79.559157
 latitude = 38.385967
+longitude = -79.559157
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24413"
+

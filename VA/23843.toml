@@ -1,6 +1,8 @@
-zip_code = "23843"
-state = "VA"
 city = "Dolphin"
 county = "Brunswick"
-longitude = -77.807345
 latitude = 36.849008
+longitude = -77.807345
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23843"
+

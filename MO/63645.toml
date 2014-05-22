@@ -1,6 +1,8 @@
-zip_code = "63645"
-state = "MO"
 city = "Fredericktown"
 county = "Madison"
-longitude = -90.336244
 latitude = 37.490565
+longitude = -90.336244
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63645"
+

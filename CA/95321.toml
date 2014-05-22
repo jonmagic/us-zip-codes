@@ -1,6 +1,8 @@
-zip_code = "95321"
-state = "CA"
 city = "Groveland"
 county = "Tuolumne"
-longitude = -120.088197
 latitude = 37.867634
+longitude = -120.088197
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95321"
+

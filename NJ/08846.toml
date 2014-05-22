@@ -1,6 +1,8 @@
-zip_code = "08846"
-state = "NJ"
 city = "Middlesex"
 county = "Middlesex"
-longitude = -74.499398
 latitude = 40.575202
+longitude = -74.499398
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08846"
+

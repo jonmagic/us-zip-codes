@@ -1,6 +1,8 @@
-zip_code = "40161"
-state = "KY"
 city = "Rhodelia"
 county = "Meade"
-longitude = -86.398391
 latitude = 38.005963
+longitude = -86.398391
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40161"
+

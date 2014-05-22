@@ -1,6 +1,8 @@
-zip_code = "71009"
-state = "LA"
 city = "Blanchard"
 county = "Caddo"
-longitude = -93.896895
 latitude = 32.632741
+longitude = -93.896895
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71009"
+

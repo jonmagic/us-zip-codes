@@ -1,6 +1,8 @@
-zip_code = "17322"
-state = "PA"
 city = "Felton"
 county = "York"
-longitude = -76.576556
 latitude = 39.844726
+longitude = -76.576556
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17322"
+

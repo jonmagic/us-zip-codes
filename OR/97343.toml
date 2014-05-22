@@ -1,6 +1,8 @@
-zip_code = "97343"
-state = "OR"
 city = "Eddyville"
 county = "Lincoln"
-longitude = -123.736099
 latitude = 44.604237
+longitude = -123.736099
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97343"
+

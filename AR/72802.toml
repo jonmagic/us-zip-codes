@@ -1,6 +1,8 @@
-zip_code = "72802"
-state = "AR"
 city = "Russellville"
 county = "Pope"
-longitude = -93.071219
 latitude = 35.306683
+longitude = -93.071219
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72802"
+

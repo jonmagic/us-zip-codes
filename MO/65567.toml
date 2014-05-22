@@ -1,6 +1,8 @@
-zip_code = "65567"
-state = "MO"
 city = "Stoutland"
 county = "Camden"
-longitude = -92.462635
 latitude = 37.837263
+longitude = -92.462635
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65567"
+

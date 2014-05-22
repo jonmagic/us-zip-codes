@@ -1,6 +1,8 @@
-zip_code = "99356"
-state = "WA"
 city = "Roosevelt"
 county = "Klickitat"
-longitude = -120.354257
 latitude = 45.851428
+longitude = -120.354257
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99356"
+

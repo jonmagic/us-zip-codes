@@ -1,6 +1,8 @@
-zip_code = "31771"
-state = "GA"
 city = "Norman Park"
 county = "Colquitt"
-longitude = -83.654904
 latitude = 31.246179
+longitude = -83.654904
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31771"
+

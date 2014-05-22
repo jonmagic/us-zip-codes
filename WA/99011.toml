@@ -1,6 +1,8 @@
-zip_code = "99011"
-state = "WA"
 city = "Fairchild Air Force Base"
 county = "Spokane"
-longitude = -117.654603
 latitude = 47.633161
+longitude = -117.654603
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99011"
+

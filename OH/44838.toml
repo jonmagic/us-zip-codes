@@ -1,6 +1,8 @@
-zip_code = "44838"
-state = "OH"
 city = "Hayesville"
 county = "Ashland"
-longitude = -82.249991
 latitude = 40.768006
+longitude = -82.249991
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44838"
+

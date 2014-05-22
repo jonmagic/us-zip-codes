@@ -1,6 +1,8 @@
-zip_code = "84742"
-state = "UT"
 city = "Kanarraville"
 county = "Iron"
-longitude = -113.203633
 latitude = 37.522753
+longitude = -113.203633
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84742"
+

@@ -1,6 +1,8 @@
-zip_code = "24326"
-state = "VA"
 city = "Elk Creek"
 county = "Grayson"
-longitude = -81.187968
 latitude = 36.718676
+longitude = -81.187968
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24326"
+

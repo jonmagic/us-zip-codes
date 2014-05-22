@@ -1,6 +1,8 @@
-zip_code = "35161"
-state = "AL"
 city = "Talladega"
 county = "Talladega"
-longitude = -86.102782
 latitude = 33.420206
+longitude = -86.102782
+state = ""
+state_code_alpha2 = ""
+zip_code = "35161"
+

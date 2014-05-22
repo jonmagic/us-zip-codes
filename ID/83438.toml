@@ -1,6 +1,8 @@
-zip_code = "83438"
-state = "ID"
 city = "Parker"
 county = "Fremont"
-longitude = -111.60171
 latitude = 44.319199
+longitude = -111.60171
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83438"
+

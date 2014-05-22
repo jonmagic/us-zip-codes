@@ -1,6 +1,8 @@
-zip_code = "68779"
-state = "NE"
 city = "Stanton"
 county = "Stanton"
-longitude = -97.203396
 latitude = 41.982175
+longitude = -97.203396
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68779"
+

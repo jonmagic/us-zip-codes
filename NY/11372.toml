@@ -1,6 +1,8 @@
-zip_code = "11372"
-state = "NY"
 city = "Jackson Heights"
 county = "Queens"
-longitude = -73.882508
 latitude = 40.751146
+longitude = -73.882508
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11372"
+

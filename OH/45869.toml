@@ -1,6 +1,8 @@
-zip_code = "45869"
-state = "OH"
 city = "New Bremen"
 county = "Auglaize"
-longitude = -84.2145
 latitude = 40.504687
+longitude = -84.2145
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45869"
+

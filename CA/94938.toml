@@ -1,6 +1,8 @@
-zip_code = "94938"
-state = "CA"
 city = "Lagunitas"
 county = "Marin"
-longitude = -122.699183
 latitude = 38.022974
+longitude = -122.699183
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94938"
+

@@ -1,6 +1,8 @@
-zip_code = "38039"
-state = "TN"
 city = "Grand Junction"
 county = "Hardeman"
-longitude = -89.140622
 latitude = 35.055153
+longitude = -89.140622
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38039"
+

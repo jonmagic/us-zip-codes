@@ -1,6 +1,8 @@
-zip_code = "89027"
-state = "NV"
 city = "Mesquite"
 county = "Clark"
-longitude = -114.728855
 latitude = 36.437362
+longitude = -114.728855
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89027"
+

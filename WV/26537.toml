@@ -1,6 +1,8 @@
-zip_code = "26537"
-state = "WV"
 city = "Kingwood"
 county = "Preston"
-longitude = -79.67596
 latitude = 39.471673
+longitude = -79.67596
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26537"
+

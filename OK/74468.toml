@@ -1,6 +1,8 @@
-zip_code = "74468"
-state = "OK"
 city = "Wainwright"
 county = "Muskogee"
-longitude = -95.408146
 latitude = 35.559244
+longitude = -95.408146
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74468"
+

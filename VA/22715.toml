@@ -1,6 +1,8 @@
-zip_code = "22715"
-state = "VA"
 city = "Brightwood"
 county = "Madison"
-longitude = -78.189878
 latitude = 38.418207
+longitude = -78.189878
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22715"
+

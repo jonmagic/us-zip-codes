@@ -1,6 +1,8 @@
-zip_code = "31709"
-state = "GA"
 city = "Americus"
 county = "Sumter"
-longitude = -84.215282
 latitude = 32.040432
+longitude = -84.215282
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31709"
+

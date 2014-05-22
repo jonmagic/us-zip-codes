@@ -1,6 +1,8 @@
-zip_code = "43757"
-state = "OH"
 city = "Malaga"
 county = "Monroe"
-longitude = -81.151604
 latitude = 39.859373
+longitude = -81.151604
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43757"
+

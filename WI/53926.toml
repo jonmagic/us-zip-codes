@@ -1,6 +1,8 @@
-zip_code = "53926"
-state = "WI"
 city = "Dalton"
 county = "Green Lake"
-longitude = -89.186656
 latitude = 43.679317
+longitude = -89.186656
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53926"
+

@@ -1,6 +1,8 @@
-zip_code = "55371"
-state = "MN"
 city = "Princeton"
 county = "Mille Lacs"
-longitude = -93.63663
 latitude = 45.740703
+longitude = -93.63663
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55371"
+

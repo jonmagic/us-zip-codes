@@ -1,6 +1,8 @@
-zip_code = "39305"
-state = "MS"
 city = "Meridian"
 county = "Lauderdale"
-longitude = -88.658234
 latitude = 32.403111
+longitude = -88.658234
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39305"
+

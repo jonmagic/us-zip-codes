@@ -1,6 +1,8 @@
-zip_code = "55016"
-state = "MN"
 city = "Cottage Grove"
 county = "Washington"
-longitude = -92.92861
 latitude = 44.818216
+longitude = -92.92861
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55016"
+

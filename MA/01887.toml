@@ -1,6 +1,8 @@
-zip_code = "01887"
-state = "MA"
 city = "Wilmington"
 county = "Middlesex"
-longitude = -71.173888
 latitude = 42.561782
+longitude = -71.173888
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01887"
+

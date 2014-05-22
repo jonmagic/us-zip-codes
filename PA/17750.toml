@@ -1,6 +1,8 @@
-zip_code = "17750"
-state = "PA"
 city = "Mackeyville"
 county = "Clinton"
-longitude = -77.495147
 latitude = 41.032529
+longitude = -77.495147
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17750"
+

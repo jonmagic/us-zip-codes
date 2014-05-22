@@ -1,6 +1,8 @@
-zip_code = "48439"
-state = "MI"
 city = "Grand Blanc"
 county = "Genesee"
-longitude = -83.67376
 latitude = 42.9227
+longitude = -83.67376
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48439"
+

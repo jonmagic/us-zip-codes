@@ -1,6 +1,8 @@
-zip_code = "43078"
-state = "OH"
 city = "Urbana"
 county = "Champaign"
-longitude = -83.797312
 latitude = 40.121722
+longitude = -83.797312
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43078"
+

@@ -1,6 +1,8 @@
-zip_code = "23962"
-state = "VA"
 city = "Randolph"
 county = "Charlotte"
-longitude = -78.705413
 latitude = 36.951533
+longitude = -78.705413
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23962"
+

@@ -1,6 +1,8 @@
-zip_code = "22937"
-state = "VA"
 city = "Esmont"
 county = "Albemarle"
-longitude = -78.609661
 latitude = 37.82019
+longitude = -78.609661
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22937"
+

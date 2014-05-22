@@ -1,6 +1,8 @@
-zip_code = "01093"
-state = "MA"
 city = "Whately"
 county = "Franklin"
-longitude = -72.652511
 latitude = 42.442673
+longitude = -72.652511
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01093"
+

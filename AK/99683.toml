@@ -1,6 +1,8 @@
-zip_code = "99683"
-state = "AK"
 city = "Trapper Creek"
 county = "Matanuska Susitna"
-longitude = -150.009239
 latitude = 61.720499
+longitude = -150.009239
+state = ""
+state_code_alpha2 = ""
+zip_code = "99683"
+

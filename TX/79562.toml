@@ -1,6 +1,8 @@
-zip_code = "79562"
-state = "TX"
 city = "Tuscola"
 county = "Taylor"
-longitude = -99.909752
 latitude = 32.300287
+longitude = -99.909752
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79562"
+

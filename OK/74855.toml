@@ -1,6 +1,8 @@
-zip_code = "74855"
-state = "OK"
 city = "Meeker"
 county = "Lincoln"
-longitude = -96.907623
 latitude = 35.486112
+longitude = -96.907623
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74855"
+

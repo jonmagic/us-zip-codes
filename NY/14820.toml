@@ -1,6 +1,8 @@
-zip_code = "14820"
-state = "NY"
 city = "Cameron Mills"
 county = "Steuben"
-longitude = -77.280502
 latitude = 42.180046
+longitude = -77.280502
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14820"
+

@@ -1,6 +1,8 @@
-zip_code = "76444"
-state = "TX"
 city = "De Leon"
 county = "Comanche"
-longitude = -98.650751
 latitude = 32.070468
+longitude = -98.650751
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76444"
+

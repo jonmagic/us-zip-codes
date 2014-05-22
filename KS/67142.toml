@@ -1,6 +1,8 @@
-zip_code = "67142"
-state = "KS"
 city = "Spivey"
 county = "Kingman"
-longitude = -98.209956
 latitude = 37.491201
+longitude = -98.209956
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67142"
+

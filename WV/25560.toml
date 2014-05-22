@@ -1,6 +1,8 @@
-zip_code = "25560"
-state = "WV"
 city = "Scott Depot"
 county = "Putnam"
-longitude = -81.896554
 latitude = 38.450355
+longitude = -81.896554
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25560"
+

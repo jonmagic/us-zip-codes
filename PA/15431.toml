@@ -1,6 +1,8 @@
-zip_code = "15431"
-state = "PA"
 city = "Dunbar"
 county = "Fayette"
-longitude = -79.723151
 latitude = 39.949088
+longitude = -79.723151
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15431"
+

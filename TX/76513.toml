@@ -1,6 +1,8 @@
-zip_code = "76513"
-state = "TX"
 city = "Belton"
 county = "Bell"
-longitude = -97.521848
 latitude = 30.983551
+longitude = -97.521848
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76513"
+

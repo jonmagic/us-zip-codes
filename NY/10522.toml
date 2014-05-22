@@ -1,6 +1,8 @@
-zip_code = "10522"
-state = "NY"
 city = "Dobbs Ferry"
 county = "Westchester"
-longitude = -73.865178
 latitude = 41.011147
+longitude = -73.865178
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10522"
+

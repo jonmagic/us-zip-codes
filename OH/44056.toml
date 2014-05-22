@@ -1,6 +1,8 @@
-zip_code = "44056"
-state = "OH"
 city = "Macedonia"
 county = "Summit"
-longitude = -81.492511
 latitude = 41.311288
+longitude = -81.492511
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44056"
+

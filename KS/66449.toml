@@ -1,6 +1,8 @@
-zip_code = "66449"
-state = "KS"
 city = "Leonardville"
 county = "Riley"
-longitude = -96.848345
 latitude = 39.401675
+longitude = -96.848345
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66449"
+

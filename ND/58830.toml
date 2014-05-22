@@ -1,6 +1,8 @@
-zip_code = "58830"
-state = "ND"
 city = "Alamo"
 county = "Williams"
-longitude = -103.47341
 latitude = 48.538749
+longitude = -103.47341
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58830"
+

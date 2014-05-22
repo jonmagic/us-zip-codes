@@ -1,6 +1,8 @@
-zip_code = "14127"
-state = "NY"
 city = "Orchard Park"
 county = "Erie"
-longitude = -78.704437
 latitude = 42.742541
+longitude = -78.704437
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14127"
+

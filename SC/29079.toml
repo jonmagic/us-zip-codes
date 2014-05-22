@@ -1,6 +1,8 @@
-zip_code = "29079"
-state = "SC"
 city = "Lydia"
 county = "Darlington"
-longitude = -80.100896
 latitude = 34.278255
+longitude = -80.100896
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29079"
+

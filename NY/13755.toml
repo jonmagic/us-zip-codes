@@ -1,6 +1,8 @@
-zip_code = "13755"
-state = "NY"
 city = "Downsville"
 county = "Delaware"
-longitude = -74.900852
 latitude = 42.035768
+longitude = -74.900852
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13755"
+

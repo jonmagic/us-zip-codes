@@ -1,6 +1,8 @@
-zip_code = "15038"
-state = "PA"
 city = "Elrama"
 county = "Washington"
-longitude = -79.925235
 latitude = 40.252086
+longitude = -79.925235
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15038"
+

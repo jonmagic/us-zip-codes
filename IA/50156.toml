@@ -1,6 +1,8 @@
-zip_code = "50156"
-state = "IA"
 city = "Madrid"
 county = "Boone"
-longitude = -93.797086
 latitude = 41.92886
+longitude = -93.797086
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50156"
+

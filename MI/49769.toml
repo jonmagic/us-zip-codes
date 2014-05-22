@@ -1,6 +1,8 @@
-zip_code = "49769"
-state = "MI"
 city = "Pellston"
 county = "Emmet"
-longitude = -84.863241
 latitude = 45.566112
+longitude = -84.863241
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49769"
+

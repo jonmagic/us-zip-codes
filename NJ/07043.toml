@@ -1,6 +1,8 @@
-zip_code = "07043"
-state = "NJ"
 city = "Montclair"
 county = "Essex"
-longitude = -74.19448
 latitude = 40.8034
+longitude = -74.19448
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07043"
+

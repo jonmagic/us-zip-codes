@@ -1,6 +1,8 @@
-zip_code = "38781"
-state = "MS"
 city = "Winstonville"
 county = "Bolivar"
-longitude = -90.737149
 latitude = 33.887774
+longitude = -90.737149
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38781"
+

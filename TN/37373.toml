@@ -1,6 +1,8 @@
-zip_code = "37373"
-state = "TN"
 city = "Sale Creek"
 county = "Hamilton"
-longitude = -85.104336
 latitude = 35.388975
+longitude = -85.104336
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37373"
+

@@ -1,6 +1,8 @@
-zip_code = "04950"
-state = "ME"
 city = "Madison"
 county = "Somerset"
-longitude = -69.805662
 latitude = 44.786404
+longitude = -69.805662
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04950"
+

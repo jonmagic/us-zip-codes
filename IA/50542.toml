@@ -1,6 +1,8 @@
-zip_code = "50542"
-state = "IA"
 city = "Goldfield"
 county = "Wright"
-longitude = -93.91222
 latitude = 42.785534
+longitude = -93.91222
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50542"
+

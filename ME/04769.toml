@@ -1,6 +1,8 @@
-zip_code = "04769"
-state = "ME"
 city = "Presque Isle"
 county = "Aroostook"
-longitude = -68.012557
 latitude = 46.715072
+longitude = -68.012557
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04769"
+

@@ -1,6 +1,8 @@
-zip_code = "54768"
-state = "WI"
 city = "Stanley"
 county = "Chippewa"
-longitude = -91.069525
 latitude = 44.993395
+longitude = -91.069525
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54768"
+

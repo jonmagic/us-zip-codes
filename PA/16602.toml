@@ -1,6 +1,8 @@
-zip_code = "16602"
-state = "PA"
 city = "Altoona"
 county = "Blair"
-longitude = -78.382635
 latitude = 40.508219
+longitude = -78.382635
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16602"
+

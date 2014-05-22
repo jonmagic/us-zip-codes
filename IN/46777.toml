@@ -1,6 +1,8 @@
-zip_code = "46777"
-state = "IN"
 city = "Ossian"
 county = "Wells"
-longitude = -85.203797
 latitude = 40.855435
+longitude = -85.203797
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46777"
+

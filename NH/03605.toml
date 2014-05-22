@@ -1,6 +1,8 @@
-zip_code = "03605"
-state = "NH"
 city = "Lempster"
 county = "Sullivan"
-longitude = -72.196758
 latitude = 43.213615
+longitude = -72.196758
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03605"
+

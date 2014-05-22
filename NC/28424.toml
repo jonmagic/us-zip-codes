@@ -1,6 +1,8 @@
-zip_code = "28424"
-state = "NC"
 city = "Brunswick"
 county = "Columbus"
-longitude = -78.699417
 latitude = 34.290716
+longitude = -78.699417
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28424"
+

@@ -1,6 +1,8 @@
-zip_code = "47995"
-state = "IN"
 city = "Wolcott"
 county = "White"
-longitude = -86.989485
 latitude = 40.726466
+longitude = -86.989485
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47995"
+

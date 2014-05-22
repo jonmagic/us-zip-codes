@@ -1,6 +1,8 @@
-zip_code = "96020"
-state = "CA"
 city = "Chester"
 county = "Plumas"
-longitude = -121.200726
 latitude = 40.277282
+longitude = -121.200726
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96020"
+

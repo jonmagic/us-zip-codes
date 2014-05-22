@@ -1,6 +1,8 @@
-zip_code = "30439"
-state = "GA"
 city = "Metter"
 county = "Candler"
-longitude = -82.048201
 latitude = 32.39938
+longitude = -82.048201
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30439"
+

@@ -1,6 +1,8 @@
-zip_code = "68802"
-state = "NE"
 city = "Grand Island"
 county = "Hall"
-longitude = -98.50213
 latitude = 40.872457
+longitude = -98.50213
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68802"
+

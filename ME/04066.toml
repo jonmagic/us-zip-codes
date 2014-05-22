@@ -1,6 +1,8 @@
-zip_code = "04066"
-state = "ME"
 city = "Orrs Island"
 county = "Cumberland"
-longitude = -69.975477
 latitude = 43.779982
+longitude = -69.975477
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04066"
+

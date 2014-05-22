@@ -1,6 +1,8 @@
-zip_code = "70354"
-state = "LA"
 city = "Galliano"
 county = "Lafourche"
-longitude = -90.304724
 latitude = 29.437009
+longitude = -90.304724
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70354"
+

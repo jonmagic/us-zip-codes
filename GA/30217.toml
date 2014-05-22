@@ -1,6 +1,8 @@
-zip_code = "30217"
-state = "GA"
 city = "Franklin"
 county = "Heard"
-longitude = -85.134045
 latitude = 33.278005
+longitude = -85.134045
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30217"
+

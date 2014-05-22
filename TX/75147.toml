@@ -1,6 +1,8 @@
-zip_code = "75147"
-state = "TX"
 city = "Mabank"
 county = "Kaufman"
-longitude = -96.135356
 latitude = 32.463647
+longitude = -96.135356
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75147"
+

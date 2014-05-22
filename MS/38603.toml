@@ -1,6 +1,8 @@
-zip_code = "38603"
-state = "MS"
 city = "Ashland"
 county = "Benton"
-longitude = -89.163282
 latitude = 34.741457
+longitude = -89.163282
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38603"
+

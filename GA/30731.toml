@@ -1,6 +1,8 @@
-zip_code = "30731"
-state = "GA"
 city = "Menlo"
 county = "Chattooga"
-longitude = -85.414081
 latitude = 34.518597
+longitude = -85.414081
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30731"
+

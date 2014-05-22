@@ -1,6 +1,8 @@
-zip_code = "51060"
-state = "IA"
 city = "Ute"
 county = "Monona"
-longitude = -95.720898
 latitude = 42.033712
+longitude = -95.720898
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51060"
+

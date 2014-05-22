@@ -1,6 +1,8 @@
-zip_code = "42718"
-state = "KY"
 city = "Campbellsville"
 county = "Taylor"
-longitude = -85.357952
 latitude = 37.337416
+longitude = -85.357952
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42718"
+

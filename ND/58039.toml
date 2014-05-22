@@ -1,6 +1,8 @@
-zip_code = "58039"
-state = "ND"
 city = "Great Bend"
 county = "Richland"
-longitude = -96.843465
 latitude = 46.160427
+longitude = -96.843465
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58039"
+

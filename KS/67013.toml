@@ -1,6 +1,8 @@
-zip_code = "67013"
-state = "KS"
 city = "Belle Plaine"
 county = "Sumner"
-longitude = -97.287694
 latitude = 37.359755
+longitude = -97.287694
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67013"
+

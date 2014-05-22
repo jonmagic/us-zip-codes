@@ -1,6 +1,8 @@
-zip_code = "28787"
-state = "NC"
 city = "Weaverville"
 county = "Buncombe"
-longitude = -82.588915
 latitude = 35.702704
+longitude = -82.588915
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28787"
+

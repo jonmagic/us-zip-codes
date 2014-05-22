@@ -1,6 +1,8 @@
-zip_code = "45628"
-state = "OH"
 city = "Frankfort"
 county = "Ross"
-longitude = -83.182591
 latitude = 39.387165
+longitude = -83.182591
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45628"
+

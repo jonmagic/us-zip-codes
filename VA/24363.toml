@@ -1,6 +1,8 @@
-zip_code = "24363"
-state = "VA"
 city = "Mouth Of Wilson"
 county = "Grayson"
-longitude = -81.367509
 latitude = 36.657529
+longitude = -81.367509
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24363"
+

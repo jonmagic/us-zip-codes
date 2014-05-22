@@ -1,6 +1,8 @@
-zip_code = "25676"
-state = "WV"
 city = "Lenore"
 county = "Mingo"
-longitude = -82.10801
 latitude = 37.743063
+longitude = -82.10801
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25676"
+

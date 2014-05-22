@@ -1,6 +1,8 @@
-zip_code = "10518"
-state = "NY"
 city = "Cross River"
 county = "Westchester"
-longitude = -73.612074
 latitude = 41.269896
+longitude = -73.612074
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10518"
+

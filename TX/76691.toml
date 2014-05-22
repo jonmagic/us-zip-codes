@@ -1,6 +1,8 @@
-zip_code = "76691"
-state = "TX"
 city = "West"
 county = "Mclennan"
-longitude = -97.102936
 latitude = 31.759903
+longitude = -97.102936
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76691"
+

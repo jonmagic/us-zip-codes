@@ -1,6 +1,8 @@
-zip_code = "07648"
-state = "NJ"
 city = "Norwood"
 county = "Bergen"
-longitude = -73.949747
 latitude = 40.992921
+longitude = -73.949747
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07648"
+

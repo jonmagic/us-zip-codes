@@ -1,6 +1,8 @@
-zip_code = "74546"
-state = "OK"
 city = "Haileyville"
 county = "Pittsburg"
-longitude = -95.577718
 latitude = 34.849958
+longitude = -95.577718
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74546"
+

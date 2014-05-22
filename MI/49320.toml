@@ -1,6 +1,8 @@
-zip_code = "49320"
-state = "MI"
 city = "Chippewa Lake"
 county = "Mecosta"
-longitude = -85.278303
 latitude = 43.755335
+longitude = -85.278303
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49320"
+

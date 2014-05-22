@@ -1,6 +1,8 @@
-zip_code = "22920"
-state = "VA"
 city = "Afton"
 county = "Nelson"
-longitude = -78.82231
 latitude = 37.972758
+longitude = -78.82231
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22920"
+

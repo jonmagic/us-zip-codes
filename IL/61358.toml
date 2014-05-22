@@ -1,6 +1,8 @@
-zip_code = "61358"
-state = "IL"
 city = "Rutland"
 county = "La Salle"
-longitude = -88.989048
 latitude = 40.985846
+longitude = -88.989048
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61358"
+

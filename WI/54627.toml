@@ -1,6 +1,8 @@
-zip_code = "54627"
-state = "WI"
 city = "Ettrick"
 county = "Trempealeau"
-longitude = -91.257707
 latitude = 44.184171
+longitude = -91.257707
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54627"
+

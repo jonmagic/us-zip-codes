@@ -1,6 +1,8 @@
-zip_code = "94005"
-state = "CA"
 city = "Brisbane"
 county = "San Mateo"
-longitude = -122.404332
 latitude = 37.689182
+longitude = -122.404332
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94005"
+

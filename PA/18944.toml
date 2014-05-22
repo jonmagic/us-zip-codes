@@ -1,6 +1,8 @@
-zip_code = "18944"
-state = "PA"
 city = "Perkasie"
 county = "Bucks"
-longitude = -75.233253
 latitude = 40.390196
+longitude = -75.233253
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18944"
+

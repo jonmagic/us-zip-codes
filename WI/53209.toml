@@ -1,6 +1,8 @@
-zip_code = "53209"
-state = "WI"
 city = "Milwaukee"
 county = "Milwaukee"
-longitude = -87.942653
 latitude = 43.140909
+longitude = -87.942653
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53209"
+

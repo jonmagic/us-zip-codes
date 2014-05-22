@@ -1,6 +1,8 @@
-zip_code = "79086"
-state = "TX"
 city = "Sunray"
 county = "Moore"
-longitude = -101.820002
 latitude = 36.019612
+longitude = -101.820002
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79086"
+

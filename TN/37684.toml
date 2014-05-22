@@ -1,6 +1,8 @@
-zip_code = "37684"
-state = "TN"
 city = "Mountain Home"
 county = "Washington"
-longitude = -82.501212
 latitude = 36.271729
+longitude = -82.501212
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37684"
+

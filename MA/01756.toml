@@ -1,6 +1,8 @@
-zip_code = "01756"
-state = "MA"
 city = "Mendon"
 county = "Worcester"
-longitude = -71.546961
 latitude = 42.100352
+longitude = -71.546961
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01756"
+

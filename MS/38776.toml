@@ -1,6 +1,8 @@
-zip_code = "38776"
-state = "MS"
 city = "Stoneville"
 county = "Washington"
-longitude = -90.910404
 latitude = 33.409614
+longitude = -90.910404
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38776"
+

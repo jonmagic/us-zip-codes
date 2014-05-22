@@ -1,6 +1,8 @@
-zip_code = "55334"
-state = "MN"
 city = "Gaylord"
 county = "Sibley"
-longitude = -94.191699
 latitude = 44.572583
+longitude = -94.191699
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55334"
+

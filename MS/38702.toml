@@ -1,6 +1,8 @@
-zip_code = "38702"
-state = "MS"
 city = "Greenville"
 county = "Washington"
-longitude = -90.994597
 latitude = 33.425792
+longitude = -90.994597
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38702"
+

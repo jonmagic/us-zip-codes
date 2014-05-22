@@ -1,6 +1,8 @@
-zip_code = "17585"
-state = "PA"
 city = "Witmer"
 county = "Lancaster"
-longitude = -76.211427
 latitude = 40.048398
+longitude = -76.211427
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17585"
+

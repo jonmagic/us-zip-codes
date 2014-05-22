@@ -1,6 +1,8 @@
-zip_code = "58483"
-state = "ND"
 city = "Streeter"
 county = "Stutsman"
-longitude = -99.344287
 latitude = 46.718326
+longitude = -99.344287
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58483"
+

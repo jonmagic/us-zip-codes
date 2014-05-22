@@ -1,6 +1,8 @@
-zip_code = "02633"
-state = "MA"
 city = "Chatham"
 county = "Barnstable"
-longitude = -70.0468
 latitude = 41.859559
+longitude = -70.0468
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02633"
+

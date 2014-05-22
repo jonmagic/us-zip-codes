@@ -1,6 +1,8 @@
-zip_code = "72516"
-state = "AR"
 city = "Boswell"
 county = "Izard"
-longitude = -91.944673
 latitude = 36.064329
+longitude = -91.944673
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72516"
+

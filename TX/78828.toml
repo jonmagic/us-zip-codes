@@ -1,6 +1,8 @@
-zip_code = "78828"
-state = "TX"
 city = "Barksdale"
 county = "Edwards"
-longitude = -100.105033
 latitude = 29.828166
+longitude = -100.105033
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78828"
+

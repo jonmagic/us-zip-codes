@@ -1,6 +1,8 @@
-zip_code = "16879"
-state = "PA"
 city = "Winburne"
 county = "Clearfield"
-longitude = -78.422403
 latitude = 40.989115
+longitude = -78.422403
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16879"
+

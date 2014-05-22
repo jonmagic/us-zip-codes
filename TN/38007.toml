@@ -1,6 +1,8 @@
-zip_code = "38007"
-state = "TN"
 city = "Bogota"
 county = "Dyer"
-longitude = -89.437684
 latitude = 36.158668
+longitude = -89.437684
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38007"
+

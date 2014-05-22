@@ -1,6 +1,8 @@
-zip_code = "37618"
-state = "TN"
 city = "Bluff City"
 county = "Sullivan"
-longitude = -82.261059
 latitude = 36.479403
+longitude = -82.261059
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37618"
+

@@ -1,6 +1,8 @@
-zip_code = "78653"
-state = "TX"
 city = "Manor"
 county = "Travis"
-longitude = -97.512902
 latitude = 30.343501
+longitude = -97.512902
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78653"
+

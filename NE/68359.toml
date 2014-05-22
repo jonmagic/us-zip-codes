@@ -1,6 +1,8 @@
-zip_code = "68359"
-state = "NE"
 city = "Friend"
 county = "Saline"
-longitude = -97.111028
 latitude = 40.526915
+longitude = -97.111028
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68359"
+

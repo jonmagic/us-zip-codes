@@ -1,6 +1,8 @@
-zip_code = "50523"
-state = "IA"
 city = "Callender"
 county = "Webster"
-longitude = -94.280864
 latitude = 42.347134
+longitude = -94.280864
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50523"
+

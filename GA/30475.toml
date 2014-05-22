@@ -1,6 +1,8 @@
-zip_code = "30475"
-state = "GA"
 city = "Vidalia"
 county = "Toombs"
-longitude = -82.373889
 latitude = 32.177513
+longitude = -82.373889
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30475"
+

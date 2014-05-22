@@ -1,6 +1,8 @@
-zip_code = "62467"
-state = "IL"
 city = "Teutopolis"
 county = "Effingham"
-longitude = -88.450793
 latitude = 39.132706
+longitude = -88.450793
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62467"
+

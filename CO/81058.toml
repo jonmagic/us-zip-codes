@@ -1,6 +1,8 @@
-zip_code = "81058"
-state = "CO"
 city = "Manzanola"
 county = "Otero"
-longitude = -103.885189
 latitude = 38.082793
+longitude = -103.885189
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81058"
+

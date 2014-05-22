@@ -1,6 +1,8 @@
-zip_code = "31512"
-state = "GA"
 city = "Ambrose"
 county = "Coffee"
-longitude = -82.987305
 latitude = 31.549597
+longitude = -82.987305
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31512"
+

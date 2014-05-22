@@ -1,6 +1,8 @@
-zip_code = "02152"
-state = "MA"
 city = "Winthrop"
 county = "Suffolk"
-longitude = -70.981679
 latitude = 42.378447
+longitude = -70.981679
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02152"
+

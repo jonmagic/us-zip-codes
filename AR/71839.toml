@@ -1,6 +1,8 @@
-zip_code = "71839"
-state = "AR"
 city = "Garland City"
 county = "Lafayette"
-longitude = -93.612966
 latitude = 33.25024
+longitude = -93.612966
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71839"
+

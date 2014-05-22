@@ -1,6 +1,8 @@
-zip_code = "02139"
-state = "MA"
 city = "Cambridge"
 county = "Middlesex"
-longitude = -71.101842
 latitude = 42.365146
+longitude = -71.101842
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02139"
+

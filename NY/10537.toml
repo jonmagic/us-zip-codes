@@ -1,6 +1,8 @@
-zip_code = "10537"
-state = "NY"
 city = "Lake Peekskill"
 county = "Putnam"
-longitude = -73.718016
 latitude = 41.394819
+longitude = -73.718016
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10537"
+

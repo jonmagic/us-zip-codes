@@ -1,6 +1,8 @@
-zip_code = "02364"
-state = "MA"
 city = "Kingston"
 county = "Plymouth"
-longitude = -70.744813
 latitude = 41.979405
+longitude = -70.744813
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02364"
+

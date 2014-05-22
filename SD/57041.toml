@@ -1,6 +1,8 @@
-zip_code = "57041"
-state = "SD"
 city = "Lyons"
 county = "Minnehaha"
-longitude = -96.870928
 latitude = 43.728488
+longitude = -96.870928
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57041"
+

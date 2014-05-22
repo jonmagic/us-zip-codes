@@ -1,6 +1,8 @@
-zip_code = "64601"
-state = "MO"
 city = "Chillicothe"
 county = "Livingston"
-longitude = -93.588876
 latitude = 39.795225
+longitude = -93.588876
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64601"
+

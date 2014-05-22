@@ -1,6 +1,8 @@
-zip_code = "30830"
-state = "GA"
 city = "Waynesboro"
 county = "Burke"
-longitude = -81.986767
 latitude = 33.080724
+longitude = -81.986767
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30830"
+

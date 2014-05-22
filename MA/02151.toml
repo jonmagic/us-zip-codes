@@ -1,6 +1,8 @@
-zip_code = "02151"
-state = "MA"
 city = "Revere"
 county = "Suffolk"
-longitude = -71.020494
 latitude = 42.366303
+longitude = -71.020494
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02151"
+

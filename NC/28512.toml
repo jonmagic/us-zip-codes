@@ -1,6 +1,8 @@
-zip_code = "28512"
-state = "NC"
 city = "Atlantic Beach"
 county = "Carteret"
-longitude = -76.755456
 latitude = 34.741717
+longitude = -76.755456
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28512"
+

@@ -1,6 +1,8 @@
-zip_code = "29697"
-state = "SC"
 city = "Williamston"
 county = "Anderson"
-longitude = -82.612123
 latitude = 34.553642
+longitude = -82.612123
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29697"
+

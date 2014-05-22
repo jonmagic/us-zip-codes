@@ -1,6 +1,8 @@
-zip_code = "03858"
-state = "NH"
 city = "Newton"
 county = "Rockingham"
-longitude = -71.006898
 latitude = 42.937092
+longitude = -71.006898
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03858"
+

@@ -1,6 +1,8 @@
-zip_code = "79087"
-state = "TX"
 city = "Texline"
 county = "Dallam"
-longitude = -102.916844
 latitude = 36.337083
+longitude = -102.916844
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79087"
+

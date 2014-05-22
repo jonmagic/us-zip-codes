@@ -1,6 +1,8 @@
-zip_code = "42602"
-state = "KY"
 city = "Albany"
 county = "Clinton"
-longitude = -85.181967
 latitude = 36.745738
+longitude = -85.181967
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42602"
+

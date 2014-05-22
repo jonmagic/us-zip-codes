@@ -1,6 +1,8 @@
-zip_code = "86512"
-state = "AZ"
 city = "Sanders"
 county = "Apache"
-longitude = -109.285537
 latitude = 35.406729
+longitude = -109.285537
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86512"
+

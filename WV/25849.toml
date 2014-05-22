@@ -1,6 +1,8 @@
-zip_code = "25849"
-state = "WV"
 city = "Glen White"
 county = "Raleigh"
-longitude = -81.279864
 latitude = 37.730624
+longitude = -81.279864
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25849"
+

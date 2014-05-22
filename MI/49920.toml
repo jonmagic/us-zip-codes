@@ -1,6 +1,8 @@
-zip_code = "49920"
-state = "MI"
 city = "Crystal Falls"
 county = "Iron"
-longitude = -88.376197
 latitude = 46.143009
+longitude = -88.376197
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49920"
+

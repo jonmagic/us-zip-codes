@@ -1,6 +1,8 @@
-zip_code = "24974"
-state = "WV"
 city = "Secondcreek"
 county = "Monroe"
-longitude = -80.539672
 latitude = 37.552029
+longitude = -80.539672
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24974"
+

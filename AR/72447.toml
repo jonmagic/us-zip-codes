@@ -1,6 +1,8 @@
-zip_code = "72447"
-state = "AR"
 city = "Monette"
 county = "Craighead"
-longitude = -90.347446
 latitude = 35.909972
+longitude = -90.347446
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72447"
+

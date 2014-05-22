@@ -1,6 +1,8 @@
-zip_code = "94806"
-state = "CA"
 city = "San Pablo"
 county = "Contra Costa"
-longitude = -122.334131
 latitude = 37.959573
+longitude = -122.334131
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94806"
+

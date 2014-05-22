@@ -1,6 +1,8 @@
-zip_code = "56502"
-state = "MN"
 city = "Detroit Lakes"
 county = "Becker"
-longitude = -95.678375
 latitude = 46.933961
+longitude = -95.678375
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56502"
+

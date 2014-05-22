@@ -1,6 +1,8 @@
-zip_code = "47959"
-state = "IN"
 city = "Monon"
 county = "White"
-longitude = -86.93711
 latitude = 40.795391
+longitude = -86.93711
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47959"
+

@@ -1,6 +1,8 @@
-zip_code = "08876"
-state = "NJ"
 city = "Somerville"
 county = "Somerset"
-longitude = -74.66165
 latitude = 40.560314
+longitude = -74.66165
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08876"
+

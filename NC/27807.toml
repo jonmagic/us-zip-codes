@@ -1,6 +1,8 @@
-zip_code = "27807"
-state = "NC"
 city = "Bailey"
 county = "Nash"
-longitude = -78.10562
 latitude = 35.800198
+longitude = -78.10562
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27807"
+

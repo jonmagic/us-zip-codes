@@ -1,6 +1,8 @@
-zip_code = "43050"
-state = "OH"
 city = "Mount Vernon"
 county = "Knox"
-longitude = -82.481346
 latitude = 40.37066
+longitude = -82.481346
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43050"
+

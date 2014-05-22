@@ -1,6 +1,8 @@
-zip_code = "53171"
-state = "WI"
 city = "Somers"
 county = "Kenosha"
-longitude = -87.903161
 latitude = 42.642298
+longitude = -87.903161
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53171"
+

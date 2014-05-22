@@ -1,6 +1,8 @@
-zip_code = "89010"
-state = "NV"
 city = "Dyer"
 county = "Esmeralda"
-longitude = -117.604871
 latitude = 37.585111
+longitude = -117.604871
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89010"
+

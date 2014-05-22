@@ -1,6 +1,8 @@
-zip_code = "48360"
-state = "MI"
 city = "Lake Orion"
 county = "Oakland"
-longitude = -83.272037
 latitude = 42.74288
+longitude = -83.272037
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48360"
+

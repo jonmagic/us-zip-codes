@@ -1,6 +1,8 @@
-zip_code = "52033"
-state = "IA"
 city = "Cascade"
 county = "Dubuque"
-longitude = -90.903195
 latitude = 42.362066
+longitude = -90.903195
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52033"
+

@@ -1,6 +1,8 @@
-zip_code = "72027"
-state = "AR"
 city = "Center Ridge"
 county = "Conway"
-longitude = -92.572763
 latitude = 35.311464
+longitude = -92.572763
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72027"
+

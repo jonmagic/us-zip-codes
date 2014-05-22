@@ -1,6 +1,8 @@
-zip_code = "14061"
-state = "NY"
 city = "Farnham"
 county = "Erie"
-longitude = -79.08404
 latitude = 42.594627
+longitude = -79.08404
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14061"
+

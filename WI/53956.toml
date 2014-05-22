@@ -1,6 +1,8 @@
-zip_code = "53956"
-state = "WI"
 city = "Randolph"
 county = "Dodge"
-longitude = -88.946714
 latitude = 43.534002
+longitude = -88.946714
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53956"
+

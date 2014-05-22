@@ -1,6 +1,8 @@
-zip_code = "29935"
-state = "SC"
 city = "Port Royal"
 county = "Beaufort"
-longitude = -80.684392
 latitude = 32.387434
+longitude = -80.684392
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29935"
+

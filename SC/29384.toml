@@ -1,6 +1,8 @@
-zip_code = "29384"
-state = "SC"
 city = "Waterloo"
 county = "Laurens"
-longitude = -82.095499
 latitude = 34.335762
+longitude = -82.095499
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29384"
+

@@ -1,6 +1,8 @@
-zip_code = "52071"
-state = "IA"
 city = "Saint Donatus"
 county = "Jackson"
-longitude = -90.490269
 latitude = 42.319577
+longitude = -90.490269
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52071"
+

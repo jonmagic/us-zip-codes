@@ -1,6 +1,8 @@
-zip_code = "18434"
-state = "PA"
 city = "Jessup"
 county = "Lackawanna"
-longitude = -75.572238
 latitude = 41.504326
+longitude = -75.572238
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18434"
+

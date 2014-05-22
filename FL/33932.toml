@@ -1,6 +1,8 @@
-zip_code = "33932"
-state = "FL"
 city = "Fort Myers Beach"
 county = "Lee"
-longitude = -81.94861
 latitude = 26.552895
+longitude = -81.94861
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33932"
+

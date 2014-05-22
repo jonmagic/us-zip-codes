@@ -1,6 +1,8 @@
-zip_code = "47637"
-state = "IN"
 city = "Tennyson"
 county = "Warrick"
-longitude = -87.244937
 latitude = 38.118439
+longitude = -87.244937
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47637"
+

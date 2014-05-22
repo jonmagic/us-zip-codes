@@ -1,6 +1,8 @@
-zip_code = "17044"
-state = "PA"
 city = "Lewistown"
 county = "Mifflin"
-longitude = -77.630152
 latitude = 40.564909
+longitude = -77.630152
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17044"
+

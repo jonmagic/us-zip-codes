@@ -1,6 +1,8 @@
-zip_code = "38686"
-state = "MS"
 city = "Walls"
 county = "De Soto"
-longitude = -89.991991
 latitude = 34.875277
+longitude = -89.991991
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38686"
+

@@ -1,6 +1,8 @@
-zip_code = "47017"
-state = "IN"
 city = "Cross Plains"
 county = "Ripley"
-longitude = -85.191159
 latitude = 38.945037
+longitude = -85.191159
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47017"
+

@@ -1,6 +1,8 @@
-zip_code = "12446"
-state = "NY"
 city = "Kerhonkson"
 county = "Ulster"
-longitude = -74.232063
 latitude = 41.884748
+longitude = -74.232063
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12446"
+

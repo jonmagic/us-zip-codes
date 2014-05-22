@@ -1,6 +1,8 @@
-zip_code = "76856"
-state = "TX"
 city = "Mason"
 county = "Mason"
-longitude = -99.142096
 latitude = 30.752875
+longitude = -99.142096
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76856"
+

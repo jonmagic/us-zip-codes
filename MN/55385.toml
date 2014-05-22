@@ -1,6 +1,8 @@
-zip_code = "55385"
-state = "MN"
 city = "Stewart"
 county = "Mcleod"
-longitude = -94.344376
 latitude = 44.766671
+longitude = -94.344376
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55385"
+

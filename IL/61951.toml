@@ -1,6 +1,8 @@
-zip_code = "61951"
-state = "IL"
 city = "Sullivan"
 county = "Moultrie"
-longitude = -88.633539
 latitude = 39.588093
+longitude = -88.633539
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61951"
+

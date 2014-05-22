@@ -1,6 +1,8 @@
-zip_code = "49271"
-state = "MI"
 city = "Pittsford"
 county = "Hillsdale"
-longitude = -84.452585
 latitude = 41.854948
+longitude = -84.452585
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49271"
+

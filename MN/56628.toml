@@ -1,6 +1,8 @@
-zip_code = "56628"
-state = "MN"
 city = "Bigfork"
 county = "Itasca"
-longitude = -93.612694
 latitude = 47.710353
+longitude = -93.612694
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56628"
+

@@ -1,6 +1,8 @@
-zip_code = "33846"
-state = "FL"
 city = "Highland City"
 county = "Polk"
-longitude = -81.867153
 latitude = 27.964651
+longitude = -81.867153
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33846"
+

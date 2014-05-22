@@ -1,6 +1,8 @@
-zip_code = "04079"
-state = "ME"
 city = "Harpswell"
 county = "Cumberland"
-longitude = -69.995537
 latitude = 43.78105
+longitude = -69.995537
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04079"
+

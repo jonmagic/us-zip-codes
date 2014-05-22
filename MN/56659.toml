@@ -1,6 +1,8 @@
-zip_code = "56659"
-state = "MN"
 city = "Max"
 county = "Itasca"
-longitude = -94.015607
 latitude = 47.661759
+longitude = -94.015607
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56659"
+

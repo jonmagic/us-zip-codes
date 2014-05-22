@@ -1,6 +1,8 @@
-zip_code = "70040"
-state = "LA"
 city = "Braithwaite"
 county = "Plaquemines"
-longitude = -89.919691
 latitude = 29.736105
+longitude = -89.919691
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70040"
+

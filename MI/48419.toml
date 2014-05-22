@@ -1,6 +1,8 @@
-zip_code = "48419"
-state = "MI"
 city = "Carsonville"
 county = "Sanilac"
-longitude = -82.663858
 latitude = 43.443662
+longitude = -82.663858
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48419"
+

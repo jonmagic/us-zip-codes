@@ -1,6 +1,8 @@
-zip_code = "62688"
-state = "IL"
 city = "Tallula"
 county = "Menard"
-longitude = -89.943256
 latitude = 39.938136
+longitude = -89.943256
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62688"
+

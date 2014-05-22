@@ -1,6 +1,8 @@
-zip_code = "87577"
-state = "NM"
 city = "Tres Piedras"
 county = "Taos"
-longitude = -105.62924
 latitude = 36.504515
+longitude = -105.62924
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87577"
+

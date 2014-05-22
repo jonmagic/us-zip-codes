@@ -1,6 +1,8 @@
-zip_code = "75754"
-state = "TX"
 city = "Ben Wheeler"
 county = "Van Zandt"
-longitude = -95.712867
 latitude = 32.423029
+longitude = -95.712867
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75754"
+

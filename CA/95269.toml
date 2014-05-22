@@ -1,6 +1,8 @@
-zip_code = "95269"
-state = "CA"
 city = "Stockton"
 county = "San Joaquin"
-longitude = -121.253872
 latitude = 37.889849
+longitude = -121.253872
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95269"
+

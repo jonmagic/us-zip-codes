@@ -1,6 +1,8 @@
-zip_code = "23125"
-state = "VA"
 city = "New Point"
 county = "Mathews"
-longitude = -76.287792
 latitude = 37.343785
+longitude = -76.287792
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23125"
+

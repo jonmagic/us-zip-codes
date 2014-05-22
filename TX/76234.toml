@@ -1,6 +1,8 @@
-zip_code = "76234"
-state = "TX"
 city = "Decatur"
 county = "Wise"
-longitude = -97.610974
 latitude = 33.260148
+longitude = -97.610974
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76234"
+

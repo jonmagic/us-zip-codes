@@ -1,6 +1,8 @@
-zip_code = "54440"
-state = "WI"
 city = "Hatley"
 county = "Marathon"
-longitude = -89.513916
 latitude = 44.797963
+longitude = -89.513916
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54440"
+

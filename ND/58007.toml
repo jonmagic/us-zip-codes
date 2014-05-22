@@ -1,6 +1,8 @@
-zip_code = "58007"
-state = "ND"
 city = "Ayr"
 county = "Cass"
-longitude = -97.462894
 latitude = 47.01392
+longitude = -97.462894
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58007"
+

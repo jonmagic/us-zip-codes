@@ -1,6 +1,8 @@
-zip_code = "15077"
-state = "PA"
 city = "Shippingport"
 county = "Beaver"
-longitude = -80.386344
 latitude = 40.602535
+longitude = -80.386344
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15077"
+

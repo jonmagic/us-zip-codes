@@ -1,6 +1,8 @@
-zip_code = "28776"
-state = "NC"
 city = "Skyland"
 county = "Buncombe"
-longitude = -82.520707
 latitude = 35.483482
+longitude = -82.520707
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28776"
+

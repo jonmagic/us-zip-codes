@@ -1,6 +1,8 @@
-zip_code = "48742"
-state = "MI"
 city = "Lincoln"
 county = "Alcona"
-longitude = -83.454865
 latitude = 44.65922
+longitude = -83.454865
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48742"
+

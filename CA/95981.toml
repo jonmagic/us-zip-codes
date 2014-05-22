@@ -1,6 +1,8 @@
-zip_code = "95981"
-state = "CA"
 city = "Strawberry Valley"
 county = "Yuba"
-longitude = -121.101562
 latitude = 39.577329
+longitude = -121.101562
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95981"
+

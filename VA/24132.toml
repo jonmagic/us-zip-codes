@@ -1,6 +1,8 @@
-zip_code = "24132"
-state = "VA"
 city = "Parrott"
 county = "Pulaski"
-longitude = -80.620517
 latitude = 37.204788
+longitude = -80.620517
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24132"
+

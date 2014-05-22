@@ -1,6 +1,8 @@
-zip_code = "59211"
-state = "MT"
 city = "Antelope"
 county = "Sheridan"
-longitude = -104.360729
 latitude = 48.700718
+longitude = -104.360729
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59211"
+

@@ -1,6 +1,8 @@
-zip_code = "52755"
-state = "IA"
 city = "Lone Tree"
 county = "Johnson"
-longitude = -91.440616
 latitude = 41.510935
+longitude = -91.440616
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52755"
+

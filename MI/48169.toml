@@ -1,6 +1,8 @@
-zip_code = "48169"
-state = "MI"
 city = "Pinckney"
 county = "Livingston"
-longitude = -83.946982
 latitude = 42.467503
+longitude = -83.946982
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48169"
+

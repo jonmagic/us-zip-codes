@@ -1,6 +1,8 @@
-zip_code = "25565"
-state = "WV"
 city = "Spurlockville"
 county = "Lincoln"
-longitude = -82.027154
 latitude = 38.105713
+longitude = -82.027154
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25565"
+

@@ -1,6 +1,8 @@
-zip_code = "65236"
-state = "MO"
 city = "Brunswick"
 county = "Chariton"
-longitude = -93.128077
 latitude = 39.425365
+longitude = -93.128077
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65236"
+

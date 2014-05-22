@@ -1,6 +1,8 @@
-zip_code = "36203"
-state = "AL"
 city = "Oxford"
 county = "Calhoun"
-longitude = -85.899397
 latitude = 33.725908
+longitude = -85.899397
+state = ""
+state_code_alpha2 = ""
+zip_code = "36203"
+

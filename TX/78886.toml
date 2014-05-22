@@ -1,6 +1,8 @@
-zip_code = "78886"
-state = "TX"
 city = "Yancey"
 county = "Medina"
-longitude = -99.145273
 latitude = 29.236464
+longitude = -99.145273
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78886"
+

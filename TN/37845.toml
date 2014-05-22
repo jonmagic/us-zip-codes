@@ -1,6 +1,8 @@
-zip_code = "37845"
-state = "TN"
 city = "Petros"
 county = "Morgan"
-longitude = -84.442969
 latitude = 36.081406
+longitude = -84.442969
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37845"
+

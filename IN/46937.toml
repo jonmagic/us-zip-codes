@@ -1,6 +1,8 @@
-zip_code = "46937"
-state = "IN"
 city = "Hemlock"
 county = "Howard"
-longitude = -86.018139
 latitude = 40.418662
+longitude = -86.018139
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46937"
+

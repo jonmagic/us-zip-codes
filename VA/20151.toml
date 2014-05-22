@@ -1,6 +1,8 @@
-zip_code = "20151"
-state = "VA"
 city = "Chantilly"
 county = "Fairfax"
-longitude = -77.44566
 latitude = 38.88668
+longitude = -77.44566
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20151"
+

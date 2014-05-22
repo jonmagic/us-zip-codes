@@ -1,6 +1,8 @@
-zip_code = "24504"
-state = "VA"
 city = "Lynchburg"
 county = "Lynchburg City"
-longitude = -79.125261
 latitude = 37.405242
+longitude = -79.125261
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24504"
+

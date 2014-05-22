@@ -1,6 +1,8 @@
-zip_code = "66939"
-state = "KS"
 city = "Courtland"
 county = "Republic"
-longitude = -97.666524
 latitude = 39.746555
+longitude = -97.666524
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66939"
+

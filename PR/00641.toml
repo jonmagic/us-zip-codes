@@ -1,6 +1,8 @@
-zip_code = "00641"
-state = "PR"
 city = "Utuado"
 county = "Utuado"
-longitude = -66.698957
 latitude = 18.250027
+longitude = -66.698957
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00641"
+

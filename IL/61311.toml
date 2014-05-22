@@ -1,6 +1,8 @@
-zip_code = "61311"
-state = "IL"
 city = "Ancona"
 county = "Livingston"
-longitude = -88.864211
 latitude = 41.042631
+longitude = -88.864211
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61311"
+

@@ -1,6 +1,8 @@
-zip_code = "02066"
-state = "MA"
 city = "Scituate"
 county = "Plymouth"
-longitude = -70.770188
 latitude = 42.207254
+longitude = -70.770188
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02066"
+

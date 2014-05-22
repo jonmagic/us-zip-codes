@@ -1,6 +1,8 @@
-zip_code = "12153"
-state = "NY"
 city = "Sand Lake"
 county = "Rensselaer"
-longitude = -73.479705
 latitude = 42.635503
+longitude = -73.479705
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12153"
+

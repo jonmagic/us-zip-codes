@@ -1,6 +1,8 @@
-zip_code = "31006"
-state = "GA"
 city = "Butler"
 county = "Taylor"
-longitude = -84.226075
 latitude = 32.572668
+longitude = -84.226075
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31006"
+

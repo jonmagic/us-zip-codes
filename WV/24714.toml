@@ -1,6 +1,8 @@
-zip_code = "24714"
-state = "WV"
 city = "Beeson"
 county = "Mercer"
-longitude = -81.160053
 latitude = 37.460069
+longitude = -81.160053
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24714"
+

@@ -1,6 +1,8 @@
-zip_code = "74020"
-state = "OK"
 city = "Cleveland"
 county = "Pawnee"
-longitude = -96.443319
 latitude = 36.263766
+longitude = -96.443319
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74020"
+

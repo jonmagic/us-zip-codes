@@ -1,6 +1,8 @@
-zip_code = "38926"
-state = "MS"
 city = "Elliott"
 county = "Grenada"
-longitude = -89.758302
 latitude = 33.689476
+longitude = -89.758302
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38926"
+

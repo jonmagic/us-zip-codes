@@ -1,6 +1,8 @@
-zip_code = "14054"
-state = "NY"
 city = "East Bethany"
 county = "Genesee"
-longitude = -78.126525
 latitude = 42.917037
+longitude = -78.126525
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14054"
+

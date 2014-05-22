@@ -1,6 +1,8 @@
-zip_code = "36039"
-state = "AL"
 city = "Hardaway"
 county = "Macon"
-longitude = -85.813517
 latitude = 32.293879
+longitude = -85.813517
+state = ""
+state_code_alpha2 = ""
+zip_code = "36039"
+

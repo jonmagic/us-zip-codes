@@ -1,6 +1,8 @@
-zip_code = "12529"
-state = "NY"
 city = "Hillsdale"
 county = "Columbia"
-longitude = -73.550028
 latitude = 42.19327
+longitude = -73.550028
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12529"
+

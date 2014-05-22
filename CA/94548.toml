@@ -1,6 +1,8 @@
-zip_code = "94548"
-state = "CA"
 city = "Knightsen"
 county = "Contra Costa"
-longitude = -121.665205
 latitude = 37.972622
+longitude = -121.665205
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94548"
+

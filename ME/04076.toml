@@ -1,6 +1,8 @@
-zip_code = "04076"
-state = "ME"
 city = "Shapleigh"
 county = "York"
-longitude = -70.77159
 latitude = 43.510275
+longitude = -70.77159
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04076"
+

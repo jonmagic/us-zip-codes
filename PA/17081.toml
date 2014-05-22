@@ -1,6 +1,8 @@
-zip_code = "17081"
-state = "PA"
 city = "Plainfield"
 county = "Cumberland"
-longitude = -77.284761
 latitude = 40.203019
+longitude = -77.284761
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17081"
+

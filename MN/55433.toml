@@ -1,6 +1,8 @@
-zip_code = "55433"
-state = "MN"
 city = "Minneapolis"
 county = "Anoka"
-longitude = -93.319278
 latitude = 45.164263
+longitude = -93.319278
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55433"
+

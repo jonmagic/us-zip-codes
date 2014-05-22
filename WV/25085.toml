@@ -1,6 +1,8 @@
-zip_code = "25085"
-state = "WV"
 city = "Gauley Bridge"
 county = "Fayette"
-longitude = -81.174906
 latitude = 38.156166
+longitude = -81.174906
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25085"
+

@@ -1,6 +1,8 @@
-zip_code = "88244"
-state = "NM"
 city = "Hobbs"
 county = "Lea"
-longitude = -103.433804
 latitude = 32.785417
+longitude = -103.433804
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88244"
+

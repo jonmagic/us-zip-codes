@@ -1,6 +1,8 @@
-zip_code = "23882"
-state = "VA"
 city = "Stony Creek"
 county = "Sussex"
-longitude = -77.392824
 latitude = 36.878331
+longitude = -77.392824
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23882"
+

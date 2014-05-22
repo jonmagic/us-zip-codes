@@ -1,6 +1,8 @@
-zip_code = "72633"
-state = "AR"
 city = "Everton"
 county = "Boone"
-longitude = -92.953069
 latitude = 36.164402
+longitude = -92.953069
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72633"
+

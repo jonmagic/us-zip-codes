@@ -1,6 +1,8 @@
-zip_code = "24219"
-state = "VA"
 city = "Big Stone Gap"
 county = "Wise"
-longitude = -82.654215
 latitude = 36.894806
+longitude = -82.654215
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24219"
+

@@ -1,6 +1,8 @@
-zip_code = "29828"
-state = "SC"
 city = "Gloverville"
 county = "Aiken"
-longitude = -81.827708
 latitude = 33.518235
+longitude = -81.827708
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29828"
+

@@ -1,6 +1,8 @@
-zip_code = "81140"
-state = "CO"
 city = "La Jara"
 county = "Conejos"
-longitude = -106.007989
 latitude = 37.276566
+longitude = -106.007989
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81140"
+

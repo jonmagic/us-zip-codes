@@ -1,6 +1,8 @@
-zip_code = "36748"
-state = "AL"
 city = "Linden"
 county = "Marengo"
-longitude = -87.749847
 latitude = 32.321943
+longitude = -87.749847
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36748"
+

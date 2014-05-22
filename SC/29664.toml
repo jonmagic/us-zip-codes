@@ -1,6 +1,8 @@
-zip_code = "29664"
-state = "SC"
 city = "Mountain Rest"
 county = "Oconee"
-longitude = -83.191276
 latitude = 34.85656
+longitude = -83.191276
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29664"
+

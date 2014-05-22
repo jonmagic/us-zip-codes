@@ -1,6 +1,8 @@
-zip_code = "76520"
-state = "TX"
 city = "Cameron"
 county = "Milam"
-longitude = -96.902747
 latitude = 30.812561
+longitude = -96.902747
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76520"
+

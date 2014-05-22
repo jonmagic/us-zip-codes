@@ -1,6 +1,8 @@
-zip_code = "70760"
-state = "LA"
 city = "New Roads"
 county = "Pointe Coupee"
-longitude = -91.500474
 latitude = 30.687199
+longitude = -91.500474
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70760"
+

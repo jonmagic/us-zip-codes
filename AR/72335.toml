@@ -1,6 +1,8 @@
-zip_code = "72335"
-state = "AR"
 city = "Forrest City"
 county = "Saint Francis"
-longitude = -90.859555
 latitude = 35.026272
+longitude = -90.859555
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72335"
+

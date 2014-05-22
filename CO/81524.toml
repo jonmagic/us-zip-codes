@@ -1,6 +1,8 @@
-zip_code = "81524"
-state = "CO"
 city = "Loma"
 county = "Mesa"
-longitude = -108.78446
 latitude = 39.256425
+longitude = -108.78446
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81524"
+

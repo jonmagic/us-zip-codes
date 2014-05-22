@@ -1,6 +1,8 @@
-zip_code = "06365"
-state = "CT"
 city = "Preston"
 county = "New London"
-longitude = -71.993427
 latitude = 41.522369
+longitude = -71.993427
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06365"
+

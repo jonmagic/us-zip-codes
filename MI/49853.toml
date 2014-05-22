@@ -1,6 +1,8 @@
-zip_code = "49853"
-state = "MI"
 city = "Mc Millan"
 county = "Luce"
-longitude = -85.658525
 latitude = 46.347592
+longitude = -85.658525
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49853"
+

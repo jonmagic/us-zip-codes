@@ -1,6 +1,8 @@
-zip_code = "06028"
-state = "CT"
 city = "East Windsor Hill"
 county = "Hartford"
-longitude = -72.603033
 latitude = 41.859248
+longitude = -72.603033
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06028"
+

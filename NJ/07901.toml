@@ -1,6 +1,8 @@
-zip_code = "07901"
-state = "NJ"
 city = "Summit"
 county = "Union"
-longitude = -74.361594
 latitude = 40.71275
+longitude = -74.361594
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07901"
+

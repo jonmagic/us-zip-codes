@@ -1,6 +1,8 @@
-zip_code = "14547"
-state = "NY"
 city = "Seneca Castle"
 county = "Ontario"
-longitude = -77.287611
 latitude = 42.808127
+longitude = -77.287611
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14547"
+

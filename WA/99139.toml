@@ -1,6 +1,8 @@
-zip_code = "99139"
-state = "WA"
 city = "Ione"
 county = "Pend Oreille"
-longitude = -117.36469
 latitude = 48.737714
+longitude = -117.36469
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99139"
+

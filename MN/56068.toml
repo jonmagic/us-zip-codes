@@ -1,6 +1,8 @@
-zip_code = "56068"
-state = "MN"
 city = "Minnesota Lake"
 county = "Faribault"
-longitude = -93.817817
 latitude = 43.811561
+longitude = -93.817817
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56068"
+

@@ -1,6 +1,8 @@
-zip_code = "98833"
-state = "WA"
 city = "Mazama"
 county = "Okanogan"
-longitude = -120.457954
 latitude = 48.619527
+longitude = -120.457954
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98833"
+

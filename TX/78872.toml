@@ -1,6 +1,8 @@
-zip_code = "78872"
-state = "TX"
 city = "La Pryor"
 county = "Zavala"
-longitude = -99.843874
 latitude = 28.943649
+longitude = -99.843874
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78872"
+

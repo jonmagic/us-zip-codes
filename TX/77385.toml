@@ -1,6 +1,8 @@
-zip_code = "77385"
-state = "TX"
 city = "Conroe"
 county = "Montgomery"
-longitude = -95.419023
 latitude = 30.191153
+longitude = -95.419023
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77385"
+

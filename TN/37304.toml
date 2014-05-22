@@ -1,6 +1,8 @@
-zip_code = "37304"
-state = "TN"
 city = "Bakewell"
 county = "Hamilton"
-longitude = -85.138046
 latitude = 35.345216
+longitude = -85.138046
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37304"
+

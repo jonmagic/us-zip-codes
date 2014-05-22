@@ -1,6 +1,8 @@
-zip_code = "14766"
-state = "NY"
 city = "Otto"
 county = "Cattaraugus"
-longitude = -78.807283
 latitude = 42.357543
+longitude = -78.807283
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14766"
+

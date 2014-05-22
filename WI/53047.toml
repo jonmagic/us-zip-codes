@@ -1,6 +1,8 @@
-zip_code = "53047"
-state = "WI"
 city = "Lebanon"
 county = "Dodge"
-longitude = -88.6281
 latitude = 43.256793
+longitude = -88.6281
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53047"
+

@@ -1,6 +1,8 @@
-zip_code = "24572"
-state = "VA"
 city = "Madison Heights"
 county = "Amherst"
-longitude = -79.140618
 latitude = 37.475715
+longitude = -79.140618
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24572"
+

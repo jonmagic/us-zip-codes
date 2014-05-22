@@ -1,6 +1,8 @@
-zip_code = "47351"
-state = "IN"
 city = "Kennard"
 county = "Henry"
-longitude = -85.520548
 latitude = 39.904018
+longitude = -85.520548
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47351"
+

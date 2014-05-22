@@ -1,6 +1,8 @@
-zip_code = "26362"
-state = "WV"
 city = "Harrisville"
 county = "Ritchie"
-longitude = -81.034061
 latitude = 39.145318
+longitude = -81.034061
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26362"
+

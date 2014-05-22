@@ -1,6 +1,8 @@
-zip_code = "23124"
-state = "VA"
 city = "New Kent"
 county = "New Kent"
-longitude = -77.005863
 latitude = 37.535579
+longitude = -77.005863
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23124"
+

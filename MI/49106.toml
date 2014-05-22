@@ -1,6 +1,8 @@
-zip_code = "49106"
-state = "MI"
 city = "Bridgman"
 county = "Berrien"
-longitude = -86.544561
 latitude = 41.942151
+longitude = -86.544561
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49106"
+

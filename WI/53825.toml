@@ -1,6 +1,8 @@
-zip_code = "53825"
-state = "WI"
 city = "Stitzer"
 county = "Grant"
-longitude = -90.583575
 latitude = 42.926596
+longitude = -90.583575
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53825"
+

@@ -1,6 +1,8 @@
-zip_code = "04622"
-state = "ME"
 city = "Cherryfield"
 county = "Washington"
-longitude = -67.923248
 latitude = 44.603258
+longitude = -67.923248
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04622"
+

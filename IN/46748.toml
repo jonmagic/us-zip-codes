@@ -1,6 +1,8 @@
-zip_code = "46748"
-state = "IN"
 city = "Huntertown"
 county = "Allen"
-longitude = -85.159437
 latitude = 41.237988
+longitude = -85.159437
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46748"
+

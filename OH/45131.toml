@@ -1,6 +1,8 @@
-zip_code = "45131"
-state = "OH"
 city = "Higginsport"
 county = "Brown"
-longitude = -83.966624
 latitude = 38.790301
+longitude = -83.966624
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45131"
+

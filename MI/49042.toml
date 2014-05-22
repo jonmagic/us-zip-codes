@@ -1,6 +1,8 @@
-zip_code = "49042"
-state = "MI"
 city = "Constantine"
 county = "Saint Joseph"
-longitude = -85.533122
 latitude = 41.936948
+longitude = -85.533122
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49042"
+

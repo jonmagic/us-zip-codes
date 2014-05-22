@@ -1,6 +1,8 @@
-zip_code = "37037"
-state = "TN"
 city = "Christiana"
 county = "Rutherford"
-longitude = -86.368041
 latitude = 35.695974
+longitude = -86.368041
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37037"
+

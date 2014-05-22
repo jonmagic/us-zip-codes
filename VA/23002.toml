@@ -1,6 +1,8 @@
-zip_code = "23002"
-state = "VA"
 city = "Amelia Court House"
 county = "Amelia"
-longitude = -77.984092
 latitude = 37.342768
+longitude = -77.984092
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23002"
+

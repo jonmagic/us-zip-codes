@@ -1,6 +1,8 @@
-zip_code = "18964"
-state = "PA"
 city = "Souderton"
 county = "Montgomery"
-longitude = -75.341026
 latitude = 40.288379
+longitude = -75.341026
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18964"
+

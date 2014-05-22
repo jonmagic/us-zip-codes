@@ -1,6 +1,8 @@
-zip_code = "54476"
-state = "WI"
 city = "Schofield"
 county = "Marathon"
-longitude = -89.576968
 latitude = 44.866501
+longitude = -89.576968
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54476"
+

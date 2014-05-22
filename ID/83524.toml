@@ -1,6 +1,8 @@
-zip_code = "83524"
-state = "ID"
 city = "Culdesac"
 county = "Nez Perce"
-longitude = -116.651362
 latitude = 46.401878
+longitude = -116.651362
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83524"
+

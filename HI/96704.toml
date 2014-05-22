@@ -1,6 +1,8 @@
-zip_code = "96704"
-state = "HI"
 city = "Captain Cook"
 county = "Hawaii"
-longitude = -155.757929
 latitude = 19.269226
+longitude = -155.757929
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96704"
+

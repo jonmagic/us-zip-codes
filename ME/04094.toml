@@ -1,6 +1,8 @@
-zip_code = "04094"
-state = "ME"
 city = "West Kennebunk"
 county = "York"
-longitude = -70.573255
 latitude = 43.406101
+longitude = -70.573255
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04094"
+

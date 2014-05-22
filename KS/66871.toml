@@ -1,6 +1,8 @@
-zip_code = "66871"
-state = "KS"
 city = "Waverly"
 county = "Coffey"
-longitude = -95.628088
 latitude = 38.346908
+longitude = -95.628088
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66871"
+

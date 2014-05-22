@@ -1,6 +1,8 @@
-zip_code = "00662"
-state = "PR"
 city = "Isabela"
 county = "Isabela"
-longitude = -67.028155
 latitude = 18.480285
+longitude = -67.028155
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00662"
+

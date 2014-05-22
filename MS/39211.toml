@@ -1,6 +1,8 @@
-zip_code = "39211"
-state = "MS"
 city = "Jackson"
 county = "Hinds"
-longitude = -90.123786
 latitude = 32.366844
+longitude = -90.123786
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39211"
+

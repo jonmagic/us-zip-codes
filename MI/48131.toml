@@ -1,6 +1,8 @@
-zip_code = "48131"
-state = "MI"
 city = "Dundee"
 county = "Monroe"
-longitude = -83.668808
 latitude = 41.964903
+longitude = -83.668808
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48131"
+

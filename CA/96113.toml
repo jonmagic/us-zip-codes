@@ -1,6 +1,8 @@
-zip_code = "96113"
-state = "CA"
 city = "Herlong"
 county = "Lassen"
-longitude = -120.244727
 latitude = 40.101514
+longitude = -120.244727
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96113"
+

@@ -1,6 +1,8 @@
-zip_code = "52050"
-state = "IA"
 city = "Greeley"
 county = "Delaware"
-longitude = -91.332816
 latitude = 42.554136
+longitude = -91.332816
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52050"
+

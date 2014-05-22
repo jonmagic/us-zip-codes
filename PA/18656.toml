@@ -1,6 +1,8 @@
-zip_code = "18656"
-state = "PA"
 city = "Sweet Valley"
 county = "Luzerne"
-longitude = -76.142277
 latitude = 41.288634
+longitude = -76.142277
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18656"
+

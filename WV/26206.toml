@@ -1,6 +1,8 @@
-zip_code = "26206"
-state = "WV"
 city = "Cowen"
 county = "Webster"
-longitude = -80.564685
 latitude = 38.423224
+longitude = -80.564685
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26206"
+

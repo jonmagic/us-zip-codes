@@ -1,6 +1,8 @@
-zip_code = "75568"
-state = "TX"
 city = "Naples"
 county = "Morris"
-longitude = -94.686156
 latitude = 33.164839
+longitude = -94.686156
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75568"
+

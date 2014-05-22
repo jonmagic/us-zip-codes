@@ -1,6 +1,8 @@
-zip_code = "22026"
-state = "VA"
 city = "Dumfries"
 county = "Prince William"
-longitude = -77.349935
 latitude = 38.584734
+longitude = -77.349935
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22026"
+

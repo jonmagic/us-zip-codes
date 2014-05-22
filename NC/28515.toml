@@ -1,6 +1,8 @@
-zip_code = "28515"
-state = "NC"
 city = "Bayboro"
 county = "Pamlico"
-longitude = -76.70564
 latitude = 35.13584
+longitude = -76.70564
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28515"
+

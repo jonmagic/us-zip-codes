@@ -1,6 +1,8 @@
-zip_code = "76271"
-state = "TX"
 city = "Tioga"
 county = "Grayson"
-longitude = -96.859159
 latitude = 33.532559
+longitude = -96.859159
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76271"
+

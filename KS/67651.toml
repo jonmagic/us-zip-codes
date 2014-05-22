@@ -1,6 +1,8 @@
-zip_code = "67651"
-state = "KS"
 city = "Natoma"
 county = "Osborne"
-longitude = -98.945419
 latitude = 39.227878
+longitude = -98.945419
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67651"
+

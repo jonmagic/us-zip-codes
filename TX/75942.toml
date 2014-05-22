@@ -1,6 +1,8 @@
-zip_code = "75942"
-state = "TX"
 city = "Doucette"
 county = "Tyler"
-longitude = -94.427902
 latitude = 30.808063
+longitude = -94.427902
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75942"
+

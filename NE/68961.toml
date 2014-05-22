@@ -1,6 +1,8 @@
-zip_code = "68961"
-state = "NE"
 city = "Nelson"
 county = "Nuckolls"
-longitude = -98.068371
 latitude = 40.20105
+longitude = -98.068371
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68961"
+

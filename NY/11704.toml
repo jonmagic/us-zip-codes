@@ -1,6 +1,8 @@
-zip_code = "11704"
-state = "NY"
 city = "West Babylon"
 county = "Suffolk"
-longitude = -73.356164
 latitude = 40.709098
+longitude = -73.356164
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11704"
+

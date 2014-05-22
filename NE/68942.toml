@@ -1,6 +1,8 @@
-zip_code = "68942"
-state = "NE"
 city = "Guide Rock"
 county = "Webster"
-longitude = -98.330001
 latitude = 40.071648
+longitude = -98.330001
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68942"
+

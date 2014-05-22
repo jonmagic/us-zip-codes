@@ -1,6 +1,8 @@
-zip_code = "37187"
-state = "TN"
 city = "White Bluff"
 county = "Dickson"
-longitude = -87.226354
 latitude = 36.124378
+longitude = -87.226354
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37187"
+

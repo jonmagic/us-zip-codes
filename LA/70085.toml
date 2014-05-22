@@ -1,6 +1,8 @@
-zip_code = "70085"
-state = "LA"
 city = "Saint Bernard"
 county = "Saint Bernard"
-longitude = -89.775097
 latitude = 29.818387
+longitude = -89.775097
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70085"
+

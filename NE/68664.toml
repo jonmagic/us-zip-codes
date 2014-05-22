@@ -1,6 +1,8 @@
-zip_code = "68664"
-state = "NE"
 city = "Snyder"
 county = "Dodge"
-longitude = -96.787252
 latitude = 41.648478
+longitude = -96.787252
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68664"
+

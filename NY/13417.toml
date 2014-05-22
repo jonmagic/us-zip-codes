@@ -1,6 +1,8 @@
-zip_code = "13417"
-state = "NY"
 city = "New York Mills"
 county = "Oneida"
-longitude = -75.29496
 latitude = 43.100869
+longitude = -75.29496
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13417"
+

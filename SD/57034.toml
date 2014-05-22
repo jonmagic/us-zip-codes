@@ -1,6 +1,8 @@
-zip_code = "57034"
-state = "SD"
 city = "Hudson"
 county = "Lincoln"
-longitude = -96.580939
 latitude = 43.184976
+longitude = -96.580939
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57034"
+

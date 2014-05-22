@@ -1,6 +1,8 @@
-zip_code = "80840"
-state = "CO"
 city = "U S A F Academy"
 county = "El Paso"
-longitude = -104.860561
 latitude = 38.979235
+longitude = -104.860561
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80840"
+

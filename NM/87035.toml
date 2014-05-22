@@ -1,6 +1,8 @@
-zip_code = "87035"
-state = "NM"
 city = "Moriarty"
 county = "Torrance"
-longitude = -106.055796
 latitude = 34.94103
+longitude = -106.055796
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87035"
+

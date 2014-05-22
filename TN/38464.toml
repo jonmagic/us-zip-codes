@@ -1,6 +1,8 @@
-zip_code = "38464"
-state = "TN"
 city = "Lawrenceburg"
 county = "Lawrence"
-longitude = -87.397143
 latitude = 35.235493
+longitude = -87.397143
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38464"
+

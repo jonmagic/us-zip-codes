@@ -1,6 +1,8 @@
-zip_code = "28572"
-state = "NC"
 city = "Pink Hill"
 county = "Lenoir"
-longitude = -77.694287
 latitude = 35.057332
+longitude = -77.694287
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28572"
+

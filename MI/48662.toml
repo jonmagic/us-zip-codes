@@ -1,6 +1,8 @@
-zip_code = "48662"
-state = "MI"
 city = "Wheeler"
 county = "Gratiot"
-longitude = -84.419329
 latitude = 43.379034
+longitude = -84.419329
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48662"
+

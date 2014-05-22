@@ -1,6 +1,8 @@
-zip_code = "68044"
-state = "NE"
 city = "Nickerson"
 county = "Dodge"
-longitude = -96.520741
 latitude = 41.536902
+longitude = -96.520741
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68044"
+

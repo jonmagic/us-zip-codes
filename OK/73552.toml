@@ -1,6 +1,8 @@
-zip_code = "73552"
-state = "OK"
 city = "Indiahoma"
 county = "Comanche"
-longitude = -98.75235
 latitude = 34.618969
+longitude = -98.75235
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73552"
+

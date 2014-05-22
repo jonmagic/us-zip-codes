@@ -1,6 +1,8 @@
-zip_code = "55018"
-state = "MN"
 city = "Dennison"
 county = "Goodhue"
-longitude = -92.955359
 latitude = 44.426537
+longitude = -92.955359
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55018"
+

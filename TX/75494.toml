@@ -1,6 +1,8 @@
-zip_code = "75494"
-state = "TX"
 city = "Winnsboro"
 county = "Wood"
-longitude = -95.306215
 latitude = 32.944701
+longitude = -95.306215
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75494"
+

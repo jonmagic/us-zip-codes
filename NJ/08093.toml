@@ -1,6 +1,8 @@
-zip_code = "08093"
-state = "NJ"
 city = "Westville"
 county = "Gloucester"
-longitude = -75.13732
 latitude = 39.85781
+longitude = -75.13732
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08093"
+

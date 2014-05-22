@@ -1,6 +1,8 @@
-zip_code = "88325"
-state = "NM"
 city = "High Rolls Mountain Park"
 county = "Otero"
-longitude = -105.818942
 latitude = 32.939582
+longitude = -105.818942
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88325"
+

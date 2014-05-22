@@ -1,6 +1,8 @@
-zip_code = "08098"
-state = "NJ"
 city = "Woodstown"
 county = "Salem"
-longitude = -75.379897
 latitude = 39.586
+longitude = -75.379897
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08098"
+

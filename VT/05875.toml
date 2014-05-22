@@ -1,6 +1,8 @@
-zip_code = "05875"
-state = "VT"
 city = "West Glover"
 county = "Orleans"
-longitude = -72.258038
 latitude = 44.710028
+longitude = -72.258038
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05875"
+

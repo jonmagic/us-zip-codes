@@ -1,6 +1,8 @@
-zip_code = "44801"
-state = "OH"
 city = "Adrian"
 county = "Seneca"
-longitude = -83.365404
 latitude = 41.090712
+longitude = -83.365404
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44801"
+

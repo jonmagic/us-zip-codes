@@ -1,6 +1,8 @@
-zip_code = "75189"
-state = "TX"
 city = "Royse City"
 county = "Rockwall"
-longitude = -96.35631
 latitude = 32.919754
+longitude = -96.35631
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75189"
+

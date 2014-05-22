@@ -1,6 +1,8 @@
-zip_code = "15845"
-state = "PA"
 city = "Johnsonburg"
 county = "Elk"
-longitude = -78.687183
 latitude = 41.504669
+longitude = -78.687183
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15845"
+

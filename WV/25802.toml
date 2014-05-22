@@ -1,6 +1,8 @@
-zip_code = "25802"
-state = "WV"
 city = "Beckley"
 county = "Raleigh"
-longitude = -81.224458
 latitude = 37.748935
+longitude = -81.224458
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25802"
+

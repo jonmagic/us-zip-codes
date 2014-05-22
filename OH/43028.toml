@@ -1,6 +1,8 @@
-zip_code = "43028"
-state = "OH"
 city = "Howard"
 county = "Knox"
-longitude = -82.283974
 latitude = 40.418367
+longitude = -82.283974
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43028"
+

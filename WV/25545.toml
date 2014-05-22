@@ -1,6 +1,8 @@
-zip_code = "25545"
-state = "WV"
 city = "Ona"
 county = "Cabell"
-longitude = -82.234177
 latitude = 38.456541
+longitude = -82.234177
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25545"
+

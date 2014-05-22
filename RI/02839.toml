@@ -1,6 +1,8 @@
-zip_code = "02839"
-state = "RI"
 city = "Mapleville"
 county = "Providence"
-longitude = -71.637581
 latitude = 41.941715
+longitude = -71.637581
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02839"
+

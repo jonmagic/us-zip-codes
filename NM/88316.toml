@@ -1,6 +1,8 @@
-zip_code = "88316"
-state = "NM"
 city = "Capitan"
 county = "Lincoln"
-longitude = -105.612793
 latitude = 33.501389
+longitude = -105.612793
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88316"
+

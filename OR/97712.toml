@@ -1,6 +1,8 @@
-zip_code = "97712"
-state = "OR"
 city = "Brothers"
 county = "Deschutes"
-longitude = -120.225618
 latitude = 43.665917
+longitude = -120.225618
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97712"
+

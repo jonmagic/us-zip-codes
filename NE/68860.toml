@@ -1,6 +1,8 @@
-zip_code = "68860"
-state = "NE"
 city = "Oconto"
 county = "Custer"
-longitude = -99.728097
 latitude = 41.393902
+longitude = -99.728097
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68860"
+

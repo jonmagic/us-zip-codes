@@ -1,6 +1,8 @@
-zip_code = "71950"
-state = "AR"
 city = "Kirby"
 county = "Pike"
-longitude = -93.653733
 latitude = 34.146678
+longitude = -93.653733
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71950"
+

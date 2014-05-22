@@ -1,6 +1,8 @@
-zip_code = "32061"
-state = "FL"
 city = "Lulu"
 county = "Columbia"
-longitude = -82.626332
 latitude = 30.211903
+longitude = -82.626332
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32061"
+

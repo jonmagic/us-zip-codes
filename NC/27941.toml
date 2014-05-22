@@ -1,6 +1,8 @@
-zip_code = "27941"
-state = "NC"
 city = "Harbinger"
 county = "Currituck"
-longitude = -75.833856
 latitude = 36.157985
+longitude = -75.833856
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27941"
+

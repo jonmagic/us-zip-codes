@@ -1,6 +1,8 @@
-zip_code = "49245"
-state = "MI"
 city = "Homer"
 county = "Calhoun"
-longitude = -84.848182
 latitude = 42.144355
+longitude = -84.848182
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49245"
+

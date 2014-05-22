@@ -1,6 +1,8 @@
-zip_code = "38473"
-state = "TN"
 city = "Minor Hill"
 county = "Giles"
-longitude = -87.150744
 latitude = 35.036274
+longitude = -87.150744
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38473"
+

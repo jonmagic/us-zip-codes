@@ -1,6 +1,8 @@
-zip_code = "99559"
-state = "AK"
 city = "Bethel"
 county = "Bethel"
-longitude = -162.173906
 latitude = 60.129979
+longitude = -162.173906
+state = ""
+state_code_alpha2 = ""
+zip_code = "99559"
+

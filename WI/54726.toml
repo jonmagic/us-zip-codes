@@ -1,6 +1,8 @@
-zip_code = "54726"
-state = "WI"
 city = "Boyd"
 county = "Chippewa"
-longitude = -91.175615
 latitude = 45.00521
+longitude = -91.175615
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54726"
+

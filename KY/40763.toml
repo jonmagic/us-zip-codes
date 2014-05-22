@@ -1,6 +1,8 @@
-zip_code = "40763"
-state = "KY"
 city = "Siler"
 county = "Whitley"
-longitude = -83.955033
 latitude = 36.702504
+longitude = -83.955033
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40763"
+

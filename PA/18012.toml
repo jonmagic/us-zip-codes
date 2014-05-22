@@ -1,6 +1,8 @@
-zip_code = "18012"
-state = "PA"
 city = "Aquashicola"
 county = "Carbon"
-longitude = -75.59202
 latitude = 40.813281
+longitude = -75.59202
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18012"
+

@@ -1,6 +1,8 @@
-zip_code = "63074"
-state = "MO"
 city = "Saint Ann"
 county = "Saint Louis"
-longitude = -90.389516
 latitude = 38.724651
+longitude = -90.389516
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63074"
+

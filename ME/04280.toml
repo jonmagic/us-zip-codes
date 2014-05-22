@@ -1,6 +1,8 @@
-zip_code = "04280"
-state = "ME"
 city = "Sabattus"
 county = "Androscoggin"
-longitude = -70.126922
 latitude = 44.126723
+longitude = -70.126922
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04280"
+

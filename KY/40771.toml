@@ -1,6 +1,8 @@
-zip_code = "40771"
-state = "KY"
 city = "Woodbine"
 county = "Knox"
-longitude = -83.829985
 latitude = 36.871254
+longitude = -83.829985
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40771"
+

@@ -1,6 +1,8 @@
-zip_code = "02901"
-state = "RI"
 city = "Providence"
 county = "Providence"
-longitude = -71.414451
 latitude = 41.82275
+longitude = -71.414451
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02901"
+

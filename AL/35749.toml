@@ -1,6 +1,8 @@
-zip_code = "35749"
-state = "AL"
 city = "Harvest"
 county = "Madison"
-longitude = -86.703349
 latitude = 34.829768
+longitude = -86.703349
+state = ""
+state_code_alpha2 = ""
+zip_code = "35749"
+

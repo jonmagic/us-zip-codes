@@ -1,6 +1,8 @@
-zip_code = "37066"
-state = "TN"
 city = "Gallatin"
 county = "Sumner"
-longitude = -86.449479
 latitude = 36.401201
+longitude = -86.449479
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37066"
+

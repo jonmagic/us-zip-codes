@@ -1,6 +1,8 @@
-zip_code = "30631"
-state = "GA"
 city = "Crawfordville"
 county = "Taliaferro"
-longitude = -82.858099
 latitude = 33.577007
+longitude = -82.858099
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30631"
+

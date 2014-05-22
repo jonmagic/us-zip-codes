@@ -1,6 +1,8 @@
-zip_code = "32159"
-state = "FL"
 city = "Lady Lake"
 county = "Lake"
-longitude = -81.894367
 latitude = 28.923468
+longitude = -81.894367
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32159"
+

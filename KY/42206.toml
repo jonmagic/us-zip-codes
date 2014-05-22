@@ -1,6 +1,8 @@
-zip_code = "42206"
-state = "KY"
 city = "Auburn"
 county = "Logan"
-longitude = -86.797432
 latitude = 36.835067
+longitude = -86.797432
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42206"
+

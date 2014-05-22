@@ -1,6 +1,8 @@
-zip_code = "85201"
-state = "AZ"
 city = "Mesa"
 county = "Maricopa"
-longitude = -111.856967
 latitude = 33.440695
+longitude = -111.856967
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85201"
+

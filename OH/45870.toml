@@ -1,6 +1,8 @@
-zip_code = "45870"
-state = "OH"
 city = "New Hampshire"
 county = "Auglaize"
-longitude = -83.950093
 latitude = 40.549772
+longitude = -83.950093
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45870"
+

@@ -1,6 +1,8 @@
-zip_code = "35463"
-state = "AL"
 city = "Fosters"
 county = "Tuscaloosa"
-longitude = -87.697507
 latitude = 33.084337
+longitude = -87.697507
+state = ""
+state_code_alpha2 = ""
+zip_code = "35463"
+

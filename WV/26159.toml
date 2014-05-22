@@ -1,6 +1,8 @@
-zip_code = "26159"
-state = "WV"
 city = "Paden City"
 county = "Wetzel"
-longitude = -80.929167
 latitude = 39.606691
+longitude = -80.929167
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26159"
+

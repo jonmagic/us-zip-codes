@@ -1,6 +1,8 @@
-zip_code = "97411"
-state = "OR"
 city = "Bandon"
 county = "Coos"
-longitude = -124.389936
 latitude = 43.088824
+longitude = -124.389936
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97411"
+

@@ -1,6 +1,8 @@
-zip_code = "71028"
-state = "LA"
 city = "Gibsland"
 county = "Bienville"
-longitude = -93.047718
 latitude = 32.475847
+longitude = -93.047718
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71028"
+

@@ -1,6 +1,8 @@
-zip_code = "59427"
-state = "MT"
 city = "Cut Bank"
 county = "Glacier"
-longitude = -112.93062
 latitude = 48.654298
+longitude = -112.93062
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59427"
+

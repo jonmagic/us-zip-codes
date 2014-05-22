@@ -1,6 +1,8 @@
-zip_code = "65239"
-state = "MO"
 city = "Cairo"
 county = "Randolph"
-longitude = -92.470668
 latitude = 39.534445
+longitude = -92.470668
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65239"
+

@@ -1,6 +1,8 @@
-zip_code = "15434"
-state = "PA"
 city = "Elco"
 county = "Washington"
-longitude = -79.875826
 latitude = 40.080438
+longitude = -79.875826
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15434"
+

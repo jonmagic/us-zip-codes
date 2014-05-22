@@ -1,6 +1,8 @@
-zip_code = "79372"
-state = "TX"
 city = "Sundown"
 county = "Hockley"
-longitude = -102.438638
 latitude = 33.494472
+longitude = -102.438638
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79372"
+

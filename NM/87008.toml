@@ -1,6 +1,8 @@
-zip_code = "87008"
-state = "NM"
 city = "Cedar Crest"
 county = "Bernalillo"
-longitude = -106.375103
 latitude = 35.124363
+longitude = -106.375103
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87008"
+

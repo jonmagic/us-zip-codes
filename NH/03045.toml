@@ -1,6 +1,8 @@
-zip_code = "03045"
-state = "NH"
 city = "Goffstown"
 county = "Hillsborough"
-longitude = -71.687633
 latitude = 42.94671
+longitude = -71.687633
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03045"
+

@@ -1,6 +1,8 @@
-zip_code = "45629"
-state = "OH"
 city = "Franklin Furnace"
 county = "Scioto"
-longitude = -82.802128
 latitude = 38.650439
+longitude = -82.802128
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45629"
+

@@ -1,6 +1,8 @@
-zip_code = "30810"
-state = "GA"
 city = "Gibson"
 county = "Glascock"
-longitude = -82.599738
 latitude = 33.223471
+longitude = -82.599738
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30810"
+

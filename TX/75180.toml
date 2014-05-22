@@ -1,6 +1,8 @@
-zip_code = "75180"
-state = "TX"
 city = "Mesquite"
 county = "Dallas"
-longitude = -96.615271
 latitude = 32.721225
+longitude = -96.615271
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75180"
+

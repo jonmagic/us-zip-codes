@@ -1,6 +1,8 @@
-zip_code = "04068"
-state = "ME"
 city = "Porter"
 county = "Oxford"
-longitude = -70.935379
 latitude = 43.848322
+longitude = -70.935379
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04068"
+

@@ -1,6 +1,8 @@
-zip_code = "21123"
-state = "MD"
 city = "Pasadena"
 county = "Anne Arundel"
-longitude = -76.594942
 latitude = 38.974203
+longitude = -76.594942
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21123"
+

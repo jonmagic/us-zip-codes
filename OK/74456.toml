@@ -1,6 +1,8 @@
-zip_code = "74456"
-state = "OK"
 city = "Preston"
 county = "Okmulgee"
-longitude = -95.952741
 latitude = 35.616975
+longitude = -95.952741
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74456"
+

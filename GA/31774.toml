@@ -1,6 +1,8 @@
-zip_code = "31774"
-state = "GA"
 city = "Ocilla"
 county = "Irwin"
-longitude = -83.269632
 latitude = 31.571754
+longitude = -83.269632
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31774"
+

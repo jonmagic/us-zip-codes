@@ -1,6 +1,8 @@
-zip_code = "78570"
-state = "TX"
 city = "Mercedes"
 county = "Hidalgo"
-longitude = -98.075583
 latitude = 26.209065
+longitude = -98.075583
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78570"
+

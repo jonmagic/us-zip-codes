@@ -1,6 +1,8 @@
-zip_code = "53550"
-state = "WI"
 city = "Juda"
 county = "Green"
-longitude = -89.507906
 latitude = 42.564434
+longitude = -89.507906
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53550"
+

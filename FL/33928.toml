@@ -1,6 +1,8 @@
-zip_code = "33928"
-state = "FL"
 city = "Estero"
 county = "Lee"
-longitude = -81.705902
 latitude = 26.472274
+longitude = -81.705902
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33928"
+

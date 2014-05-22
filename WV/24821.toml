@@ -1,6 +1,8 @@
-zip_code = "24821"
-state = "WV"
 city = "Caretta"
 county = "Mcdowell"
-longitude = -81.634292
 latitude = 37.38297
+longitude = -81.634292
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24821"
+

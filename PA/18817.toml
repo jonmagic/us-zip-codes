@@ -1,6 +1,8 @@
-zip_code = "18817"
-state = "PA"
 city = "East Smithfield"
 county = "Bradford"
-longitude = -76.521266
 latitude = 41.77197
+longitude = -76.521266
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18817"
+

@@ -1,6 +1,8 @@
-zip_code = "35986"
-state = "AL"
 city = "Rainsville"
 county = "De Kalb"
-longitude = -85.761585
 latitude = 34.419163
+longitude = -85.761585
+state = ""
+state_code_alpha2 = ""
+zip_code = "35986"
+

@@ -1,6 +1,8 @@
-zip_code = "67879"
-state = "KS"
 city = "Tribune"
 county = "Greeley"
-longitude = -101.747853
 latitude = 38.469704
+longitude = -101.747853
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67879"
+

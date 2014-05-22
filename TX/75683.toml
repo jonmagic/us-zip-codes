@@ -1,6 +1,8 @@
-zip_code = "75683"
-state = "TX"
 city = "Ore City"
 county = "Upshur"
-longitude = -94.771016
 latitude = 32.832441
+longitude = -94.771016
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75683"
+

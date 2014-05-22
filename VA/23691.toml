@@ -1,6 +1,8 @@
-zip_code = "23691"
-state = "VA"
 city = "Yorktown"
 county = "York"
-longitude = -76.494054
 latitude = 37.203185
+longitude = -76.494054
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23691"
+

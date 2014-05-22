@@ -1,6 +1,8 @@
-zip_code = "13905"
-state = "NY"
 city = "Binghamton"
 county = "Broome"
-longitude = -75.922159
 latitude = 42.173709
+longitude = -75.922159
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13905"
+

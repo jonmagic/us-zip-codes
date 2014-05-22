@@ -1,6 +1,8 @@
-zip_code = "53183"
-state = "WI"
 city = "Wales"
 county = "Waukesha"
-longitude = -88.376916
 latitude = 43.003573
+longitude = -88.376916
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53183"
+

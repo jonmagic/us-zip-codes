@@ -1,6 +1,8 @@
-zip_code = "16928"
-state = "PA"
 city = "Knoxville"
 county = "Tioga"
-longitude = -77.445729
 latitude = 41.93602
+longitude = -77.445729
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16928"
+

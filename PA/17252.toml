@@ -1,6 +1,8 @@
-zip_code = "17252"
-state = "PA"
 city = "Saint Thomas"
 county = "Franklin"
-longitude = -77.811826
 latitude = 39.916149
+longitude = -77.811826
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17252"
+

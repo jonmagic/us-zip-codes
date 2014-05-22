@@ -1,6 +1,8 @@
-zip_code = "55721"
-state = "MN"
 city = "Cohasset"
 county = "Itasca"
-longitude = -93.516501
 latitude = 47.238241
+longitude = -93.516501
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55721"
+

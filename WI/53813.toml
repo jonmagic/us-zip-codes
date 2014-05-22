@@ -1,6 +1,8 @@
-zip_code = "53813"
-state = "WI"
 city = "Lancaster"
 county = "Grant"
-longitude = -90.684965
 latitude = 42.864155
+longitude = -90.684965
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53813"
+

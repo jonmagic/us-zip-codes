@@ -1,6 +1,8 @@
-zip_code = "49835"
-state = "MI"
 city = "Garden"
 county = "Delta"
-longitude = -86.586125
 latitude = 45.756636
+longitude = -86.586125
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49835"
+

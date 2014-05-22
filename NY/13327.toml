@@ -1,6 +1,8 @@
-zip_code = "13327"
-state = "NY"
 city = "Croghan"
 county = "Lewis"
-longitude = -75.365264
 latitude = 43.909848
+longitude = -75.365264
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13327"
+

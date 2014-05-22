@@ -1,6 +1,8 @@
-zip_code = "30448"
-state = "GA"
 city = "Nunez"
 county = "Emanuel"
-longitude = -82.372622
 latitude = 32.475892
+longitude = -82.372622
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30448"
+

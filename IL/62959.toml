@@ -1,6 +1,8 @@
-zip_code = "62959"
-state = "IL"
 city = "Marion"
 county = "Williamson"
-longitude = -88.912852
 latitude = 37.729571
+longitude = -88.912852
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62959"
+

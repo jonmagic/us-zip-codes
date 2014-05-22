@@ -1,6 +1,8 @@
-zip_code = "38652"
-state = "MS"
 city = "New Albany"
 county = "Union"
-longitude = -88.963649
 latitude = 34.488692
+longitude = -88.963649
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38652"
+

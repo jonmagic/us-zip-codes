@@ -1,6 +1,8 @@
-zip_code = "45356"
-state = "OH"
 city = "Piqua"
 county = "Miami"
-longitude = -84.228811
 latitude = 40.123618
+longitude = -84.228811
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45356"
+

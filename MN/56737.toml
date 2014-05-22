@@ -1,6 +1,8 @@
-zip_code = "56737"
-state = "MN"
 city = "Middle River"
 county = "Marshall"
-longitude = -96.513779
 latitude = 48.438104
+longitude = -96.513779
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56737"
+

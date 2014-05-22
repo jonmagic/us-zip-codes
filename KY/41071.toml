@@ -1,6 +1,8 @@
-zip_code = "41071"
-state = "KY"
 city = "Newport"
 county = "Campbell"
-longitude = -84.478742
 latitude = 39.056261
+longitude = -84.478742
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41071"
+

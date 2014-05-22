@@ -1,6 +1,8 @@
-zip_code = "46176"
-state = "IN"
 city = "Shelbyville"
 county = "Shelby"
-longitude = -85.791993
 latitude = 39.511568
+longitude = -85.791993
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46176"
+

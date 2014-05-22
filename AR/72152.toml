@@ -1,6 +1,8 @@
-zip_code = "72152"
-state = "AR"
 city = "Sherrill"
 county = "Jefferson"
-longitude = -91.927642
 latitude = 34.363527
+longitude = -91.927642
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72152"
+

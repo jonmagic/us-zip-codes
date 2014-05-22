@@ -1,6 +1,8 @@
-zip_code = "94568"
-state = "CA"
 city = "Dublin"
 county = "Alameda"
-longitude = -121.906329
 latitude = 37.714402
+longitude = -121.906329
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94568"
+

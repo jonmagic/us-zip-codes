@@ -1,6 +1,8 @@
-zip_code = "19010"
-state = "PA"
 city = "Bryn Mawr"
 county = "Delaware"
-longitude = -75.344833
 latitude = 39.955561
+longitude = -75.344833
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19010"
+

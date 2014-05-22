@@ -1,6 +1,8 @@
-zip_code = "13350"
-state = "NY"
 city = "Herkimer"
 county = "Herkimer"
-longitude = -74.933404
 latitude = 43.026867
+longitude = -74.933404
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13350"
+

@@ -1,6 +1,8 @@
-zip_code = "36370"
-state = "AL"
 city = "Pansey"
 county = "Houston"
-longitude = -85.157345
 latitude = 31.14031
+longitude = -85.157345
+state = ""
+state_code_alpha2 = ""
+zip_code = "36370"
+

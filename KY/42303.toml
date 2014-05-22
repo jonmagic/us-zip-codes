@@ -1,6 +1,8 @@
-zip_code = "42303"
-state = "KY"
 city = "Owensboro"
 county = "Daviess"
-longitude = -87.042939
 latitude = 37.779387
+longitude = -87.042939
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42303"
+

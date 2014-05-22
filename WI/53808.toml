@@ -1,6 +1,8 @@
-zip_code = "53808"
-state = "WI"
 city = "Dickeyville"
 county = "Grant"
-longitude = -90.583298
 latitude = 42.635081
+longitude = -90.583298
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53808"
+

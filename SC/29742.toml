@@ -1,6 +1,8 @@
-zip_code = "29742"
-state = "SC"
 city = "Sharon"
 county = "York"
-longitude = -81.338537
 latitude = 34.932788
+longitude = -81.338537
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29742"
+

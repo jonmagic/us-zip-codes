@@ -1,6 +1,8 @@
-zip_code = "76380"
-state = "TX"
 city = "Seymour"
 county = "Baylor"
-longitude = -99.263681
 latitude = 33.620131
+longitude = -99.263681
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76380"
+

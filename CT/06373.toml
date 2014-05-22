@@ -1,6 +1,8 @@
-zip_code = "06373"
-state = "CT"
 city = "Oneco"
 county = "Windham"
-longitude = -71.817759
 latitude = 41.678546
+longitude = -71.817759
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06373"
+

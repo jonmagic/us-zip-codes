@@ -1,6 +1,8 @@
-zip_code = "15323"
-state = "PA"
 city = "Claysville"
 county = "Washington"
-longitude = -80.251693
 latitude = 40.11016
+longitude = -80.251693
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15323"
+

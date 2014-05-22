@@ -1,6 +1,8 @@
-zip_code = "88122"
-state = "NM"
 city = "Kenna"
 county = "Roosevelt"
-longitude = -103.709525
 latitude = 33.883159
+longitude = -103.709525
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88122"
+

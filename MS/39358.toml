@@ -1,6 +1,8 @@
-zip_code = "39358"
-state = "MS"
 city = "Scooba"
 county = "Kemper"
-longitude = -88.478138
 latitude = 32.822624
+longitude = -88.478138
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39358"
+

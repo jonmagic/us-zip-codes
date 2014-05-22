@@ -1,6 +1,8 @@
-zip_code = "85609"
-state = "AZ"
 city = "Dragoon"
 county = "Cochise"
-longitude = -109.818047
 latitude = 32.040753
+longitude = -109.818047
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85609"
+

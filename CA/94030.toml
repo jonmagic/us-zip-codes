@@ -1,6 +1,8 @@
-zip_code = "94030"
-state = "CA"
 city = "Millbrae"
 county = "San Mateo"
-longitude = -122.400083
 latitude = 37.598385
+longitude = -122.400083
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94030"
+

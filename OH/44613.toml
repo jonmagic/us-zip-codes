@@ -1,6 +1,8 @@
-zip_code = "44613"
-state = "OH"
 city = "Brewster"
 county = "Stark"
-longitude = -81.595746
 latitude = 40.714208
+longitude = -81.595746
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44613"
+

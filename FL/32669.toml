@@ -1,6 +1,8 @@
-zip_code = "32669"
-state = "FL"
 city = "Newberry"
 county = "Alachua"
-longitude = -82.564624
 latitude = 29.687249
+longitude = -82.564624
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32669"
+

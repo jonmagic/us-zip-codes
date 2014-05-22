@@ -1,6 +1,8 @@
-zip_code = "95603"
-state = "CA"
 city = "Auburn"
 county = "Placer"
-longitude = -121.067718
 latitude = 38.973505
+longitude = -121.067718
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95603"
+

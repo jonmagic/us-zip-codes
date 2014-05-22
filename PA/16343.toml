@@ -1,6 +1,8 @@
-zip_code = "16343"
-state = "PA"
 city = "Reno"
 county = "Venango"
-longitude = -79.749341
 latitude = 41.411018
+longitude = -79.749341
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16343"
+

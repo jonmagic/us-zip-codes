@@ -1,6 +1,8 @@
-zip_code = "58844"
-state = "ND"
 city = "Fortuna"
 county = "Divide"
-longitude = -103.467251
 latitude = 48.816502
+longitude = -103.467251
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58844"
+

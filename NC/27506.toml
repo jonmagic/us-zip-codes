@@ -1,6 +1,8 @@
-zip_code = "27506"
-state = "NC"
 city = "Buies Creek"
 county = "Harnett"
-longitude = -78.713729
 latitude = 35.420467
+longitude = -78.713729
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27506"
+

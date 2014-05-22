@@ -1,6 +1,8 @@
-zip_code = "67640"
-state = "KS"
 city = "Gorham"
 county = "Russell"
-longitude = -99.010803
 latitude = 38.852325
+longitude = -99.010803
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67640"
+

@@ -1,6 +1,8 @@
-zip_code = "07059"
-state = "NJ"
 city = "Warren"
 county = "Somerset"
-longitude = -74.532449
 latitude = 40.629101
+longitude = -74.532449
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07059"
+

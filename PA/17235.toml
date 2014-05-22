@@ -1,6 +1,8 @@
-zip_code = "17235"
-state = "PA"
 city = "Marion"
 county = "Franklin"
-longitude = -77.69815
 latitude = 39.858699
+longitude = -77.69815
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17235"
+

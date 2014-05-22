@@ -1,6 +1,8 @@
-zip_code = "45374"
-state = "OH"
 city = "Troy"
 county = "Miami"
-longitude = -84.229799
 latitude = 40.03997
+longitude = -84.229799
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45374"
+

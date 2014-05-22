@@ -1,6 +1,8 @@
-zip_code = "65338"
-state = "MO"
 city = "Lincoln"
 county = "Benton"
-longitude = -93.334544
 latitude = 38.395302
+longitude = -93.334544
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65338"
+

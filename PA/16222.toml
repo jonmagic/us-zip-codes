@@ -1,6 +1,8 @@
-zip_code = "16222"
-state = "PA"
 city = "Dayton"
 county = "Armstrong"
-longitude = -79.240054
 latitude = 40.881227
+longitude = -79.240054
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16222"
+

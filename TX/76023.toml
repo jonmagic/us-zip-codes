@@ -1,6 +1,8 @@
-zip_code = "76023"
-state = "TX"
 city = "Boyd"
 county = "Wise"
-longitude = -97.638617
 latitude = 33.111268
+longitude = -97.638617
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76023"
+

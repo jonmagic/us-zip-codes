@@ -1,6 +1,8 @@
-zip_code = "96094"
-state = "CA"
 city = "Weed"
 county = "Siskiyou"
-longitude = -122.408583
 latitude = 41.6661
+longitude = -122.408583
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96094"
+

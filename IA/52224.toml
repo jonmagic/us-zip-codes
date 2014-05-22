@@ -1,6 +1,8 @@
-zip_code = "52224"
-state = "IA"
 city = "Dysart"
 county = "Tama"
-longitude = -92.36492
 latitude = 42.195645
+longitude = -92.36492
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52224"
+

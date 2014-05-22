@@ -1,6 +1,8 @@
-zip_code = "56113"
-state = "MN"
 city = "Arco"
 county = "Lincoln"
-longitude = -96.1842
 latitude = 44.382668
+longitude = -96.1842
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56113"
+

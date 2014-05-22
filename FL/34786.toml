@@ -1,6 +1,8 @@
-zip_code = "34786"
-state = "FL"
 city = "Windermere"
 county = "Orange"
-longitude = -81.543979
 latitude = 28.481031
+longitude = -81.543979
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34786"
+

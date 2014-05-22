@@ -1,6 +1,8 @@
-zip_code = "08343"
-state = "NJ"
 city = "Monroeville"
 county = "Gloucester"
-longitude = -75.144475
 latitude = 39.641089
+longitude = -75.144475
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08343"
+

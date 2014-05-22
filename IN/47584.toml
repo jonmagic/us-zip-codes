@@ -1,6 +1,8 @@
-zip_code = "47584"
-state = "IN"
 city = "Spurgeon"
 county = "Pike"
-longitude = -87.230482
 latitude = 38.26376
+longitude = -87.230482
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47584"
+

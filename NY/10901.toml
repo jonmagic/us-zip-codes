@@ -1,6 +1,8 @@
-zip_code = "10901"
-state = "NY"
 city = "Suffern"
 county = "Rockland"
-longitude = -74.105737
 latitude = 41.137295
+longitude = -74.105737
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10901"
+

@@ -1,6 +1,8 @@
-zip_code = "40759"
-state = "KY"
 city = "Rockholds"
 county = "Whitley"
-longitude = -84.070522
 latitude = 36.832568
+longitude = -84.070522
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40759"
+

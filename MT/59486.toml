@@ -1,6 +1,8 @@
-zip_code = "59486"
-state = "MT"
 city = "Valier"
 county = "Pondera"
-longitude = -112.311973
 latitude = 48.270833
+longitude = -112.311973
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59486"
+

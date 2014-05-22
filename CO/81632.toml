@@ -1,6 +1,8 @@
-zip_code = "81632"
-state = "CO"
 city = "Edwards"
 county = "Eagle"
-longitude = -106.620644
 latitude = 39.638166
+longitude = -106.620644
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81632"
+

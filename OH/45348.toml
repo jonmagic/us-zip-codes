@@ -1,6 +1,8 @@
-zip_code = "45348"
-state = "OH"
 city = "New Weston"
 county = "Darke"
-longitude = -84.633911
 latitude = 40.316833
+longitude = -84.633911
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45348"
+

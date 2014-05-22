@@ -1,6 +1,8 @@
-zip_code = "80455"
-state = "CO"
 city = "Jamestown"
 county = "Boulder"
-longitude = -105.423992
 latitude = 40.101985
+longitude = -105.423992
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80455"
+

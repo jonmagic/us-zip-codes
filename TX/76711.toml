@@ -1,6 +1,8 @@
-zip_code = "76711"
-state = "TX"
 city = "Waco"
 county = "Mclennan"
-longitude = -97.15473
 latitude = 31.517516
+longitude = -97.15473
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76711"
+

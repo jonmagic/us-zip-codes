@@ -1,6 +1,8 @@
-zip_code = "37742"
-state = "TN"
 city = "Greenback"
 county = "Loudon"
-longitude = -84.189652
 latitude = 35.674723
+longitude = -84.189652
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37742"
+

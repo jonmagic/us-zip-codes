@@ -1,6 +1,8 @@
-zip_code = "78410"
-state = "TX"
 city = "Corpus Christi"
 county = "Nueces"
-longitude = -97.584067
 latitude = 27.82437
+longitude = -97.584067
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78410"
+

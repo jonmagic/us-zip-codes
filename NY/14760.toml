@@ -1,6 +1,8 @@
-zip_code = "14760"
-state = "NY"
 city = "Olean"
 county = "Cattaraugus"
-longitude = -78.425973
 latitude = 42.082142
+longitude = -78.425973
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14760"
+

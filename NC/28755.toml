@@ -1,6 +1,8 @@
-zip_code = "28755"
-state = "NC"
 city = "Micaville"
 county = "Yancey"
-longitude = -82.196202
 latitude = 35.83924
+longitude = -82.196202
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28755"
+

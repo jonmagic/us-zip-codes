@@ -1,6 +1,8 @@
-zip_code = "41612"
-state = "KY"
 city = "Bypro"
 county = "Floyd"
-longitude = -82.716529
 latitude = 37.346545
+longitude = -82.716529
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41612"
+

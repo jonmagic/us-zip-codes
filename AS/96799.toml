@@ -1,6 +1,8 @@
-zip_code = "96799"
-state = "AS"
 city = "Pago Pago"
 county = "American Samoa"
-longitude = -170.7716
 latitude = -7.209975
+longitude = -170.7716
+state = "America Samoa"
+state_code_alpha2 = "AS"
+zip_code = "96799"
+

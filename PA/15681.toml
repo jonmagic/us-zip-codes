@@ -1,6 +1,8 @@
-zip_code = "15681"
-state = "PA"
 city = "Saltsburg"
 county = "Indiana"
-longitude = -79.397809
 latitude = 40.542875
+longitude = -79.397809
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15681"
+

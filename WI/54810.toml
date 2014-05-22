@@ -1,6 +1,8 @@
-zip_code = "54810"
-state = "WI"
 city = "Balsam Lake"
 county = "Polk"
-longitude = -92.378752
 latitude = 45.421648
+longitude = -92.378752
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54810"
+

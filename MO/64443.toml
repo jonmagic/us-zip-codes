@@ -1,6 +1,8 @@
-zip_code = "64443"
-state = "MO"
 city = "Easton"
 county = "Buchanan"
-longitude = -94.657139
 latitude = 39.750787
+longitude = -94.657139
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64443"
+

@@ -1,6 +1,8 @@
-zip_code = "33868"
-state = "FL"
 city = "Polk City"
 county = "Polk"
-longitude = -81.760824
 latitude = 28.03668
+longitude = -81.760824
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33868"
+

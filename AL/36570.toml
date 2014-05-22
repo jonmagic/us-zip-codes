@@ -1,6 +1,8 @@
-zip_code = "36570"
-state = "AL"
 city = "Salitpa"
 county = "Clarke"
-longitude = -87.840875
 latitude = 31.58842
+longitude = -87.840875
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36570"
+

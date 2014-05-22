@@ -1,6 +1,8 @@
-zip_code = "33781"
-state = "FL"
 city = "Pinellas Park"
 county = "Pinellas"
-longitude = -82.758523
 latitude = 27.868101
+longitude = -82.758523
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33781"
+

@@ -1,6 +1,8 @@
-zip_code = "61047"
-state = "IL"
 city = "Leaf River"
 county = "Ogle"
-longitude = -89.278387
 latitude = 42.147816
+longitude = -89.278387
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61047"
+

@@ -1,6 +1,8 @@
-zip_code = "54943"
-state = "WI"
 city = "Hancock"
 county = "Waushara"
-longitude = -89.491566
 latitude = 44.103548
+longitude = -89.491566
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54943"
+

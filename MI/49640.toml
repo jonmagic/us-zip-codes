@@ -1,6 +1,8 @@
-zip_code = "49640"
-state = "MI"
 city = "Honor"
 county = "Benzie"
-longitude = -86.050384
 latitude = 44.690037
+longitude = -86.050384
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49640"
+

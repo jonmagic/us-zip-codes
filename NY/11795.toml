@@ -1,6 +1,8 @@
-zip_code = "11795"
-state = "NY"
 city = "West Islip"
 county = "Suffolk"
-longitude = -73.290905
 latitude = 40.699825
+longitude = -73.290905
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11795"
+

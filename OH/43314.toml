@@ -1,6 +1,8 @@
-zip_code = "43314"
-state = "OH"
 city = "Caledonia"
 county = "Marion"
-longitude = -82.958179
 latitude = 40.631257
+longitude = -82.958179
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43314"
+

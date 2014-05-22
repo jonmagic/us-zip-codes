@@ -1,6 +1,8 @@
-zip_code = "74741"
-state = "OK"
 city = "Hendrix"
 county = "Bryan"
-longitude = -96.354429
 latitude = 33.772161
+longitude = -96.354429
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74741"
+

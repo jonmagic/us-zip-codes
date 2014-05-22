@@ -1,6 +1,8 @@
-zip_code = "46745"
-state = "IN"
 city = "Hoagland"
 county = "Allen"
-longitude = -85.002148
 latitude = 40.957347
+longitude = -85.002148
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46745"
+

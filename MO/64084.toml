@@ -1,6 +1,8 @@
-zip_code = "64084"
-state = "MO"
 city = "Rayville"
 county = "Ray"
-longitude = -94.068581
 latitude = 39.380157
+longitude = -94.068581
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64084"
+

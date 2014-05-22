@@ -1,6 +1,8 @@
-zip_code = "06897"
-state = "CT"
 city = "Wilton"
 county = "Fairfield"
-longitude = -73.439165
 latitude = 41.209695
+longitude = -73.439165
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06897"
+

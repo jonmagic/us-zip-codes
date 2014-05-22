@@ -1,6 +1,8 @@
-zip_code = "50477"
-state = "IA"
 city = "Swaledale"
 county = "Cerro Gordo"
-longitude = -93.35609
 latitude = 42.984273
+longitude = -93.35609
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50477"
+

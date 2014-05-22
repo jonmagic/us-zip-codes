@@ -1,6 +1,8 @@
-zip_code = "66424"
-state = "KS"
 city = "Everest"
 county = "Brown"
-longitude = -95.462469
 latitude = 39.699141
+longitude = -95.462469
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66424"
+

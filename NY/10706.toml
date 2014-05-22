@@ -1,6 +1,8 @@
-zip_code = "10706"
-state = "NY"
 city = "Hastings On Hudson"
 county = "Westchester"
-longitude = -73.862969
 latitude = 40.987797
+longitude = -73.862969
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10706"
+

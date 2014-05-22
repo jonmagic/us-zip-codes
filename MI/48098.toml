@@ -1,6 +1,8 @@
-zip_code = "48098"
-state = "MI"
 city = "Troy"
 county = "Oakland"
-longitude = -83.14908
 latitude = 42.599883
+longitude = -83.14908
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48098"
+

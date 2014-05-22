@@ -1,6 +1,8 @@
-zip_code = "77476"
-state = "TX"
 city = "Simonton"
 county = "Fort Bend"
-longitude = -95.965953
 latitude = 29.667486
+longitude = -95.965953
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77476"
+

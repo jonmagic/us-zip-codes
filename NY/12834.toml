@@ -1,6 +1,8 @@
-zip_code = "12834"
-state = "NY"
 city = "Greenwich"
 county = "Washington"
-longitude = -73.434261
 latitude = 43.212754
+longitude = -73.434261
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12834"
+

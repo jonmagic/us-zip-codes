@@ -1,6 +1,8 @@
-zip_code = "67436"
-state = "KS"
 city = "Delphos"
 county = "Ottawa"
-longitude = -97.714625
 latitude = 39.263098
+longitude = -97.714625
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67436"
+

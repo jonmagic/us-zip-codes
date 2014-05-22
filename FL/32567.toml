@@ -1,6 +1,8 @@
-zip_code = "32567"
-state = "FL"
 city = "Laurel Hill"
 county = "Okaloosa"
-longitude = -86.512784
 latitude = 30.715985
+longitude = -86.512784
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32567"
+

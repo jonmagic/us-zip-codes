@@ -1,6 +1,8 @@
-zip_code = "27867"
-state = "NC"
 city = "Potecasi"
 county = "Northampton"
-longitude = -77.483072
 latitude = 36.356129
+longitude = -77.483072
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27867"
+

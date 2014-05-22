@@ -1,6 +1,8 @@
-zip_code = "04928"
-state = "ME"
 city = "Corinna"
 county = "Penobscot"
-longitude = -69.228736
 latitude = 44.944157
+longitude = -69.228736
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04928"
+

@@ -1,6 +1,8 @@
-zip_code = "01054"
-state = "MA"
 city = "Leverett"
 county = "Franklin"
-longitude = -72.467543
 latitude = 42.474681
+longitude = -72.467543
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01054"
+

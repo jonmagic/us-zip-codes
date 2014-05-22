@@ -1,6 +1,8 @@
-zip_code = "12784"
-state = "NY"
 city = "Thompsonville"
 county = "Sullivan"
-longitude = -74.584061
 latitude = 41.714311
+longitude = -74.584061
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12784"
+

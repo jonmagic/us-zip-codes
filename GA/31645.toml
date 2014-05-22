@@ -1,6 +1,8 @@
-zip_code = "31645"
-state = "GA"
 city = "Ray City"
 county = "Berrien"
-longitude = -83.228709
 latitude = 31.083619
+longitude = -83.228709
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31645"
+

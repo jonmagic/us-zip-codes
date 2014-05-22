@@ -1,6 +1,8 @@
-zip_code = "54952"
-state = "WI"
 city = "Menasha"
 county = "Winnebago"
-longitude = -88.569088
 latitude = 44.141025
+longitude = -88.569088
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54952"
+

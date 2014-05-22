@@ -1,6 +1,8 @@
-zip_code = "82941"
-state = "WY"
 city = "Pinedale"
 county = "Sublette"
-longitude = -109.938968
 latitude = 42.849757
+longitude = -109.938968
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82941"
+

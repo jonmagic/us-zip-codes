@@ -1,6 +1,8 @@
-zip_code = "71279"
-state = "LA"
 city = "Start"
 county = "Richland"
-longitude = -91.856326
 latitude = 32.49191
+longitude = -91.856326
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71279"
+

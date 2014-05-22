@@ -1,6 +1,8 @@
-zip_code = "30179"
-state = "GA"
 city = "Temple"
 county = "Carroll"
-longitude = -85.026107
 latitude = 33.73746
+longitude = -85.026107
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30179"
+

@@ -1,6 +1,8 @@
-zip_code = "23968"
-state = "VA"
 city = "Skipwith"
 county = "Mecklenburg"
-longitude = -78.530076
 latitude = 36.723976
+longitude = -78.530076
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23968"
+

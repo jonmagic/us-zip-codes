@@ -1,6 +1,8 @@
-zip_code = "73052"
-state = "OK"
 city = "Lindsay"
 county = "Garvin"
-longitude = -97.51668
 latitude = 34.836481
+longitude = -97.51668
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73052"
+

@@ -1,6 +1,8 @@
-zip_code = "73016"
-state = "OK"
 city = "Cashion"
 county = "Kingfisher"
-longitude = -97.699679
 latitude = 35.818432
+longitude = -97.699679
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73016"
+

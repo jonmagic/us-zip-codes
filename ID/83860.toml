@@ -1,6 +1,8 @@
-zip_code = "83860"
-state = "ID"
 city = "Sagle"
 county = "Bonner"
-longitude = -116.644705
 latitude = 48.193853
+longitude = -116.644705
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83860"
+

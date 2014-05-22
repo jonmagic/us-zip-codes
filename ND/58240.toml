@@ -1,6 +1,8 @@
-zip_code = "58240"
-state = "ND"
 city = "Hatton"
 county = "Traill"
-longitude = -97.459319
 latitude = 47.638521
+longitude = -97.459319
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58240"
+

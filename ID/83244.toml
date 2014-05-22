@@ -1,6 +1,8 @@
-zip_code = "83244"
-state = "ID"
 city = "Howe"
 county = "Butte"
-longitude = -113.087828
 latitude = 43.908662
+longitude = -113.087828
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83244"
+

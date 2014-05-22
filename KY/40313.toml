@@ -1,6 +1,8 @@
-zip_code = "40313"
-state = "KY"
 city = "Clearfield"
 county = "Rowan"
-longitude = -83.442495
 latitude = 38.128726
+longitude = -83.442495
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40313"
+

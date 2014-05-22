@@ -1,6 +1,8 @@
-zip_code = "97835"
-state = "OR"
 city = "Helix"
 county = "Umatilla"
-longitude = -118.755877
 latitude = 45.909854
+longitude = -118.755877
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97835"
+

@@ -1,6 +1,8 @@
-zip_code = "24868"
-state = "WV"
 city = "Northfork"
 county = "Mcdowell"
-longitude = -81.419578
 latitude = 37.389939
+longitude = -81.419578
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24868"
+

@@ -1,6 +1,8 @@
-zip_code = "35542"
-state = "AL"
 city = "Bankston"
 county = "Fayette"
-longitude = -87.774117
 latitude = 33.712675
+longitude = -87.774117
+state = ""
+state_code_alpha2 = ""
+zip_code = "35542"
+

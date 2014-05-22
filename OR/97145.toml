@@ -1,6 +1,8 @@
-zip_code = "97145"
-state = "OR"
 city = "Tolovana Park"
 county = "Clatsop"
-longitude = -123.959518
 latitude = 45.866346
+longitude = -123.959518
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97145"
+

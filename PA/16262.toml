@@ -1,6 +1,8 @@
-zip_code = "16262"
-state = "PA"
 city = "Worthington"
 county = "Armstrong"
-longitude = -79.629766
 latitude = 40.837764
+longitude = -79.629766
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16262"
+

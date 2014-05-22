@@ -1,6 +1,8 @@
-zip_code = "98355"
-state = "WA"
 city = "Mineral"
 county = "Lewis"
-longitude = -122.093813
 latitude = 46.713843
+longitude = -122.093813
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98355"
+

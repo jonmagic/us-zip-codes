@@ -1,6 +1,8 @@
-zip_code = "40339"
-state = "KY"
 city = "Keene"
 county = "Jessamine"
-longitude = -84.656887
 latitude = 37.950381
+longitude = -84.656887
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40339"
+

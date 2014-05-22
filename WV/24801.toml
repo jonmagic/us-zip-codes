@@ -1,6 +1,8 @@
-zip_code = "24801"
-state = "WV"
 city = "Welch"
 county = "Mcdowell"
-longitude = -81.539352
 latitude = 37.411086
+longitude = -81.539352
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24801"
+

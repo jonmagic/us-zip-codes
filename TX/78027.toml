@@ -1,6 +1,8 @@
-zip_code = "78027"
-state = "TX"
 city = "Kendalia"
 county = "Kendall"
-longitude = -98.540536
 latitude = 29.968844
+longitude = -98.540536
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78027"
+

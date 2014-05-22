@@ -1,6 +1,8 @@
-zip_code = "71008"
-state = "LA"
 city = "Bienville"
 county = "Bienville"
-longitude = -92.996065
 latitude = 32.355774
+longitude = -92.996065
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71008"
+

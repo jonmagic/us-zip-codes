@@ -1,6 +1,8 @@
-zip_code = "62272"
-state = "IL"
 city = "Percy"
 county = "Randolph"
-longitude = -89.626074
 latitude = 37.997145
+longitude = -89.626074
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62272"
+

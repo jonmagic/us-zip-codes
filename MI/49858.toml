@@ -1,6 +1,8 @@
-zip_code = "49858"
-state = "MI"
 city = "Menominee"
 county = "Menominee"
-longitude = -87.56772
 latitude = 45.228959
+longitude = -87.56772
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49858"
+

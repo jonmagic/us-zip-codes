@@ -1,6 +1,8 @@
-zip_code = "56171"
-state = "MN"
 city = "Sherburn"
 county = "Martin"
-longitude = -94.759431
 latitude = 43.667369
+longitude = -94.759431
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56171"
+

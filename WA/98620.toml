@@ -1,6 +1,8 @@
-zip_code = "98620"
-state = "WA"
 city = "Goldendale"
 county = "Klickitat"
-longitude = -120.768762
 latitude = 45.840666
+longitude = -120.768762
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98620"
+

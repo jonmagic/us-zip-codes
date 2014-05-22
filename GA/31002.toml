@@ -1,6 +1,8 @@
-zip_code = "31002"
-state = "GA"
 city = "Adrian"
 county = "Emanuel"
-longitude = -82.540305
 latitude = 32.56887
+longitude = -82.540305
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31002"
+

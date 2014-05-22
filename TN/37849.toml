@@ -1,6 +1,8 @@
-zip_code = "37849"
-state = "TN"
 city = "Powell"
 county = "Knox"
-longitude = -84.021456
 latitude = 36.071877
+longitude = -84.021456
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37849"
+

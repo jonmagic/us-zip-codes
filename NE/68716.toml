@@ -1,6 +1,8 @@
-zip_code = "68716"
-state = "NE"
 city = "Beemer"
 county = "Cuming"
-longitude = -96.816403
 latitude = 41.909399
+longitude = -96.816403
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68716"
+

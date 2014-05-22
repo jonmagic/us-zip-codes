@@ -1,6 +1,8 @@
-zip_code = "14706"
-state = "NY"
 city = "Allegany"
 county = "Cattaraugus"
-longitude = -78.516218
 latitude = 42.116168
+longitude = -78.516218
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14706"
+

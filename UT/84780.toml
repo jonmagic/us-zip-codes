@@ -1,6 +1,8 @@
-zip_code = "84780"
-state = "UT"
 city = "Washington"
 county = "Washington"
-longitude = -113.583816
 latitude = 37.322604
+longitude = -113.583816
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84780"
+

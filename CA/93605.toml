@@ -1,6 +1,8 @@
-zip_code = "93605"
-state = "CA"
 city = "Big Creek"
 county = "Fresno"
-longitude = -119.247413
 latitude = 37.213607
+longitude = -119.247413
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93605"
+

@@ -1,6 +1,8 @@
-zip_code = "77510"
-state = "TX"
 city = "Santa Fe"
 county = "Galveston"
-longitude = -95.073408
 latitude = 29.403211
+longitude = -95.073408
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77510"
+

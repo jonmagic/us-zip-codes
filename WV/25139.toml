@@ -1,6 +1,8 @@
-zip_code = "25139"
-state = "WV"
 city = "Mount Carbon"
 county = "Fayette"
-longitude = -81.29309
 latitude = 38.139916
+longitude = -81.29309
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25139"
+

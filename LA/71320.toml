@@ -1,6 +1,8 @@
-zip_code = "71320"
-state = "LA"
 city = "Bordelonville"
 county = "Avoyelles"
-longitude = -91.906093
 latitude = 31.091942
+longitude = -91.906093
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71320"
+

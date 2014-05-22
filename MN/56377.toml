@@ -1,6 +1,8 @@
-zip_code = "56377"
-state = "MN"
 city = "Sartell"
 county = "Stearns"
-longitude = -94.355049
 latitude = 45.573808
+longitude = -94.355049
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56377"
+

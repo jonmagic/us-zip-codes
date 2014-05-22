@@ -1,6 +1,8 @@
-zip_code = "57068"
-state = "SD"
 city = "Valley Springs"
 county = "Minnehaha"
-longitude = -96.528511
 latitude = 43.594402
+longitude = -96.528511
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57068"
+

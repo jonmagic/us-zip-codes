@@ -1,6 +1,8 @@
-zip_code = "81033"
-state = "CO"
 city = "Crowley"
 county = "Crowley"
-longitude = -103.804241
 latitude = 38.229447
+longitude = -103.804241
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81033"
+

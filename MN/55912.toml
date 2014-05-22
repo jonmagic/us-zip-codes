@@ -1,6 +1,8 @@
-zip_code = "55912"
-state = "MN"
 city = "Austin"
 county = "Mower"
-longitude = -92.976818
 latitude = 43.699305
+longitude = -92.976818
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55912"
+

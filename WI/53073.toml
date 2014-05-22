@@ -1,6 +1,8 @@
-zip_code = "53073"
-state = "WI"
 city = "Plymouth"
 county = "Sheboygan"
-longitude = -87.975773
 latitude = 43.768454
+longitude = -87.975773
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53073"
+

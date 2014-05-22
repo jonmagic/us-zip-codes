@@ -1,6 +1,8 @@
-zip_code = "99169"
-state = "WA"
 city = "Ritzville"
 county = "Adams"
-longitude = -118.4813
 latitude = 47.087055
+longitude = -118.4813
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99169"
+

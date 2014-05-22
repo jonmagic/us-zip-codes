@@ -1,6 +1,8 @@
-zip_code = "74569"
-state = "OK"
 city = "Stringtown"
 county = "Atoka"
-longitude = -96.012309
 latitude = 34.456722
+longitude = -96.012309
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74569"
+

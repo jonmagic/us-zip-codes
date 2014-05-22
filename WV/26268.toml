@@ -1,6 +1,8 @@
-zip_code = "26268"
-state = "WV"
 city = "Glady"
 county = "Randolph"
-longitude = -79.814713
 latitude = 38.75338
+longitude = -79.814713
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26268"
+

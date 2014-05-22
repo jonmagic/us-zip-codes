@@ -1,6 +1,8 @@
-zip_code = "02858"
-state = "RI"
 city = "Oakland"
 county = "Providence"
-longitude = -71.647542
 latitude = 41.962303
+longitude = -71.647542
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02858"
+

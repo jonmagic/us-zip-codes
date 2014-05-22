@@ -1,6 +1,8 @@
-zip_code = "56341"
-state = "MN"
 city = "Holmes City"
 county = "Douglas"
-longitude = -95.541618
 latitude = 45.830998
+longitude = -95.541618
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56341"
+

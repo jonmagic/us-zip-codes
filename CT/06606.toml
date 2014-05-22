@@ -1,6 +1,8 @@
-zip_code = "06606"
-state = "CT"
 city = "Bridgeport"
 county = "Fairfield"
-longitude = -73.211807
 latitude = 41.208796
+longitude = -73.211807
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06606"
+

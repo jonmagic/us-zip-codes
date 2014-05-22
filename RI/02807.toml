@@ -1,6 +1,8 @@
-zip_code = "02807"
-state = "RI"
 city = "Block Island"
 county = "Washington"
-longitude = -71.577696
 latitude = 41.188888
+longitude = -71.577696
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02807"
+

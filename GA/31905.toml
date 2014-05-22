@@ -1,6 +1,8 @@
-zip_code = "31905"
-state = "GA"
 city = "Fort Benning"
 county = "Muscogee"
-longitude = -84.931457
 latitude = 32.392337
+longitude = -84.931457
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31905"
+

@@ -1,6 +1,8 @@
-zip_code = "74560"
-state = "OK"
 city = "Pittsburg"
 county = "Pittsburg"
-longitude = -95.897915
 latitude = 34.718754
+longitude = -95.897915
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74560"
+

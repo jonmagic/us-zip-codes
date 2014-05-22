@@ -1,6 +1,8 @@
-zip_code = "18660"
-state = "PA"
 city = "Wapwallopen"
 county = "Luzerne"
-longitude = -76.039935
 latitude = 41.142698
+longitude = -76.039935
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18660"
+

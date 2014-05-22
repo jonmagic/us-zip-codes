@@ -1,6 +1,8 @@
-zip_code = "16936"
-state = "PA"
 city = "Millerton"
 county = "Tioga"
-longitude = -77.011231
 latitude = 41.90843
+longitude = -77.011231
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16936"
+

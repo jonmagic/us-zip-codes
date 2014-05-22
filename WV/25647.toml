@@ -1,6 +1,8 @@
-zip_code = "25647"
-state = "WV"
 city = "Switzer"
 county = "Logan"
-longitude = -81.990849
 latitude = 37.784635
+longitude = -81.990849
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25647"
+

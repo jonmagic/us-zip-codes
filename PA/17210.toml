@@ -1,6 +1,8 @@
-zip_code = "17210"
-state = "PA"
 city = "Amberson"
 county = "Franklin"
-longitude = -77.661354
 latitude = 40.171667
+longitude = -77.661354
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17210"
+

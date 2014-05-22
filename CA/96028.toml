@@ -1,6 +1,8 @@
-zip_code = "96028"
-state = "CA"
 city = "Fall River Mills"
 county = "Shasta"
-longitude = -121.471061
 latitude = 41.034309
+longitude = -121.471061
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96028"
+

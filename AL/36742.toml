@@ -1,6 +1,8 @@
-zip_code = "36742"
-state = "AL"
 city = "Gallion"
 county = "Hale"
-longitude = -87.672092
 latitude = 32.52418
+longitude = -87.672092
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36742"
+

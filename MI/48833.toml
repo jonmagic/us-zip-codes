@@ -1,6 +1,8 @@
-zip_code = "48833"
-state = "MI"
 city = "Eureka"
 county = "Clinton"
-longitude = -84.600723
 latitude = 42.944209
+longitude = -84.600723
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48833"
+

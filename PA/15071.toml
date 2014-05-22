@@ -1,6 +1,8 @@
-zip_code = "15071"
-state = "PA"
 city = "Oakdale"
 county = "Allegheny"
-longitude = -80.184169
 latitude = 40.403348
+longitude = -80.184169
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15071"
+

@@ -1,6 +1,8 @@
-zip_code = "59085"
-state = "MT"
 city = "Two Dot"
 county = "Wheatland"
-longitude = -110.071194
 latitude = 46.424187
+longitude = -110.071194
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59085"
+

@@ -1,6 +1,8 @@
-zip_code = "02635"
-state = "MA"
 city = "Cotuit"
 county = "Barnstable"
-longitude = -70.43638
 latitude = 41.624341
+longitude = -70.43638
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02635"
+

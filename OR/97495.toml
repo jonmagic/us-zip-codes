@@ -1,6 +1,8 @@
-zip_code = "97495"
-state = "OR"
 city = "Winchester"
 county = "Douglas"
-longitude = -123.325617
 latitude = 43.333141
+longitude = -123.325617
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97495"
+

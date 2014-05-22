@@ -1,6 +1,8 @@
-zip_code = "19473"
-state = "PA"
 city = "Schwenksville"
 county = "Montgomery"
-longitude = -75.478534
 latitude = 40.224789
+longitude = -75.478534
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19473"
+

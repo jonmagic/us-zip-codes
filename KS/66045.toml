@@ -1,6 +1,8 @@
-zip_code = "66045"
-state = "KS"
 city = "Lawrence"
 county = "Douglas"
-longitude = -95.275623
 latitude = 38.952526
+longitude = -95.275623
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66045"
+

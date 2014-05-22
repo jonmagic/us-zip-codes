@@ -1,6 +1,8 @@
-zip_code = "23310"
-state = "VA"
 city = "Cape Charles"
 county = "Northampton"
-longitude = -75.961975
 latitude = 37.259125
+longitude = -75.961975
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23310"
+

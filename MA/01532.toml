@@ -1,6 +1,8 @@
-zip_code = "01532"
-state = "MA"
 city = "Northborough"
 county = "Worcester"
-longitude = -71.64282
 latitude = 42.322118
+longitude = -71.64282
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01532"
+

@@ -1,6 +1,8 @@
-zip_code = "97331"
-state = "OR"
 city = "Corvallis"
 county = "Benton"
-longitude = -123.278957
 latitude = 44.565613
+longitude = -123.278957
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97331"
+

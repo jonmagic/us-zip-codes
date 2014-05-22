@@ -1,6 +1,8 @@
-zip_code = "36526"
-state = "AL"
 city = "Daphne"
 county = "Baldwin"
-longitude = -87.6912
 latitude = 30.540328
+longitude = -87.6912
+state = ""
+state_code_alpha2 = ""
+zip_code = "36526"
+

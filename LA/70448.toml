@@ -1,6 +1,8 @@
-zip_code = "70448"
-state = "LA"
 city = "Mandeville"
 county = "Saint Tammany"
-longitude = -89.977719
 latitude = 30.37706
+longitude = -89.977719
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70448"
+

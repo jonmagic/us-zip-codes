@@ -1,6 +1,8 @@
-zip_code = "54454"
-state = "WI"
 city = "Milladore"
 county = "Wood"
-longitude = -89.904543
 latitude = 44.598179
+longitude = -89.904543
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54454"
+

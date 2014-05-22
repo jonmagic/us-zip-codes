@@ -1,6 +1,8 @@
-zip_code = "12823"
-state = "NY"
 city = "Cossayuna"
 county = "Washington"
-longitude = -73.458063
 latitude = 43.154262
+longitude = -73.458063
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12823"
+

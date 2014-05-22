@@ -1,6 +1,8 @@
-zip_code = "24354"
-state = "VA"
 city = "Marion"
 county = "Smyth"
-longitude = -81.597841
 latitude = 36.832324
+longitude = -81.597841
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24354"
+

@@ -1,6 +1,8 @@
-zip_code = "58313"
-state = "ND"
 city = "Balta"
 county = "Pierce"
-longitude = -99.992145
 latitude = 48.104177
+longitude = -99.992145
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58313"
+

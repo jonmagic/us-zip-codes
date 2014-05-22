@@ -1,6 +1,8 @@
-zip_code = "67854"
-state = "KS"
 city = "Jetmore"
 county = "Hodgeman"
-longitude = -99.893681
 latitude = 38.023937
+longitude = -99.893681
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67854"
+

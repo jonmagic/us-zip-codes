@@ -1,6 +1,8 @@
-zip_code = "79232"
-state = "TX"
 city = "Dumont"
 county = "King"
-longitude = -100.254835
 latitude = 33.616572
+longitude = -100.254835
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79232"
+

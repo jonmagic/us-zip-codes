@@ -1,6 +1,8 @@
-zip_code = "24597"
-state = "VA"
 city = "Vernon Hill"
 county = "Halifax"
-longitude = -79.067906
 latitude = 36.838178
+longitude = -79.067906
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24597"
+

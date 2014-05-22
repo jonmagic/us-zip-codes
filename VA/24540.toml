@@ -1,6 +1,8 @@
-zip_code = "24540"
-state = "VA"
 city = "Danville"
 county = "Danville City"
-longitude = -79.376228
 latitude = 36.603501
+longitude = -79.376228
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24540"
+

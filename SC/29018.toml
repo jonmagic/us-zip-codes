@@ -1,6 +1,8 @@
-zip_code = "29018"
-state = "SC"
 city = "Bowman"
 county = "Orangeburg"
-longitude = -80.565482
 latitude = 33.341855
+longitude = -80.565482
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29018"
+

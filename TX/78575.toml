@@ -1,6 +1,8 @@
-zip_code = "78575"
-state = "TX"
 city = "Olmito"
 county = "Cameron"
-longitude = -97.547392
 latitude = 26.006779
+longitude = -97.547392
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78575"
+

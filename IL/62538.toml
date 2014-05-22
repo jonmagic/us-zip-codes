@@ -1,6 +1,8 @@
-zip_code = "62538"
-state = "IL"
 city = "Harvel"
 county = "Montgomery"
-longitude = -89.522401
 latitude = 39.367208
+longitude = -89.522401
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62538"
+

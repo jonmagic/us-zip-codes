@@ -1,6 +1,8 @@
-zip_code = "77546"
-state = "TX"
 city = "Friendswood"
 county = "Galveston"
-longitude = -95.156545
 latitude = 29.482185
+longitude = -95.156545
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77546"
+

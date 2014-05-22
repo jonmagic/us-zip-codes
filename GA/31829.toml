@@ -1,6 +1,8 @@
-zip_code = "31829"
-state = "GA"
 city = "Upatoi"
 county = "Muscogee"
-longitude = -84.733865
 latitude = 32.564771
+longitude = -84.733865
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31829"
+

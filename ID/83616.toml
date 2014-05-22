@@ -1,6 +1,8 @@
-zip_code = "83616"
-state = "ID"
 city = "Eagle"
 county = "Ada"
-longitude = -116.41033
 latitude = 43.735179
+longitude = -116.41033
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83616"
+

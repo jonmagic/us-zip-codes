@@ -1,6 +1,8 @@
-zip_code = "43908"
-state = "OH"
 city = "Bergholz"
 county = "Jefferson"
-longitude = -80.856529
 latitude = 40.50022
+longitude = -80.856529
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43908"
+

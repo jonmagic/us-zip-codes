@@ -1,6 +1,8 @@
-zip_code = "93950"
-state = "CA"
 city = "Pacific Grove"
 county = "Monterey"
-longitude = -121.544387
 latitude = 36.408303
+longitude = -121.544387
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93950"
+

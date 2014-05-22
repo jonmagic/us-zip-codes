@@ -1,6 +1,8 @@
-zip_code = "87567"
-state = "NM"
 city = "Santa Cruz"
 county = "Santa Fe"
-longitude = -106.035116
 latitude = 35.993095
+longitude = -106.035116
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87567"
+

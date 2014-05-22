@@ -1,6 +1,8 @@
-zip_code = "86434"
-state = "AZ"
 city = "Peach Springs"
 county = "Mohave"
-longitude = -113.415346
 latitude = 35.540361
+longitude = -113.415346
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86434"
+

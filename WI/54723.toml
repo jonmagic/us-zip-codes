@@ -1,6 +1,8 @@
-zip_code = "54723"
-state = "WI"
 city = "Bay City"
 county = "Pierce"
-longitude = -92.435186
 latitude = 44.631517
+longitude = -92.435186
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54723"
+

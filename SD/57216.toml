@@ -1,6 +1,8 @@
-zip_code = "57216"
-state = "SD"
 city = "Big Stone City"
 county = "Grant"
-longitude = -96.534574
 latitude = 45.170552
+longitude = -96.534574
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57216"
+

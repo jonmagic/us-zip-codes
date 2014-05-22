@@ -1,6 +1,8 @@
-zip_code = "56723"
-state = "MN"
 city = "Fisher"
 county = "Polk"
-longitude = -96.798532
 latitude = 47.799949
+longitude = -96.798532
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56723"
+

@@ -1,6 +1,8 @@
-zip_code = "47588"
-state = "IN"
 city = "Troy"
 county = "Spencer"
-longitude = -86.798123
 latitude = 38.033118
+longitude = -86.798123
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47588"
+

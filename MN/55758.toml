@@ -1,6 +1,8 @@
-zip_code = "55758"
-state = "MN"
 city = "Kinney"
 county = "Saint Louis"
-longitude = -92.740216
 latitude = 47.512132
+longitude = -92.740216
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55758"
+

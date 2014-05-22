@@ -1,6 +1,8 @@
-zip_code = "34488"
-state = "FL"
 city = "Silver Springs"
 county = "Marion"
-longitude = -81.95316
 latitude = 29.263549
+longitude = -81.95316
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34488"
+

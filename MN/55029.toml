@@ -1,6 +1,8 @@
-zip_code = "55029"
-state = "MN"
 city = "Grandy"
 county = "Isanti"
-longitude = -93.201107
 latitude = 45.642235
+longitude = -93.201107
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55029"
+

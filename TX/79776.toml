@@ -1,6 +1,8 @@
-zip_code = "79776"
-state = "TX"
 city = "Penwell"
 county = "Ector"
-longitude = -102.587906
 latitude = 31.733396
+longitude = -102.587906
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79776"
+

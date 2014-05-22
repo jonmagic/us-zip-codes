@@ -1,6 +1,8 @@
-zip_code = "30113"
-state = "GA"
 city = "Buchanan"
 county = "Haralson"
-longitude = -85.210444
 latitude = 33.836682
+longitude = -85.210444
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30113"
+

@@ -1,6 +1,8 @@
-zip_code = "95673"
-state = "CA"
 city = "Rio Linda"
 county = "Sacramento"
-longitude = -121.459135
 latitude = 38.478399
+longitude = -121.459135
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95673"
+

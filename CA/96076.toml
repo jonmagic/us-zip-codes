@@ -1,6 +1,8 @@
-zip_code = "96076"
-state = "CA"
 city = "Platina"
 county = "Shasta"
-longitude = -122.936967
 latitude = 40.375954
+longitude = -122.936967
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96076"
+

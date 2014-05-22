@@ -1,6 +1,8 @@
-zip_code = "23899"
-state = "VA"
 city = "Claremont"
 county = "Surry"
-longitude = -76.984159
 latitude = 37.199009
+longitude = -76.984159
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23899"
+

@@ -1,6 +1,8 @@
-zip_code = "14052"
-state = "NY"
 city = "East Aurora"
 county = "Erie"
-longitude = -78.577136
 latitude = 42.768209
+longitude = -78.577136
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14052"
+

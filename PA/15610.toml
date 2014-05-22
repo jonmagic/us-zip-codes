@@ -1,6 +1,8 @@
-zip_code = "15610"
-state = "PA"
 city = "Acme"
 county = "Westmoreland"
-longitude = -79.405069
 latitude = 40.120149
+longitude = -79.405069
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15610"
+

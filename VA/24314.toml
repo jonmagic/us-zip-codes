@@ -1,6 +1,8 @@
-zip_code = "24314"
-state = "VA"
 city = "Bastian"
 county = "Bland"
-longitude = -81.15842
 latitude = 37.127348
+longitude = -81.15842
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24314"
+

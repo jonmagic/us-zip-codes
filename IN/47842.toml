@@ -1,6 +1,8 @@
-zip_code = "47842"
-state = "IN"
 city = "Clinton"
 county = "Vermillion"
-longitude = -87.458654
 latitude = 39.746685
+longitude = -87.458654
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47842"
+

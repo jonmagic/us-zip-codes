@@ -1,6 +1,8 @@
-zip_code = "67516"
-state = "KS"
 city = "Bazine"
 county = "Ness"
-longitude = -99.692538
 latitude = 38.445565
+longitude = -99.692538
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67516"
+

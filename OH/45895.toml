@@ -1,6 +1,8 @@
-zip_code = "45895"
-state = "OH"
 city = "Wapakoneta"
 county = "Auglaize"
-longitude = -84.152138
 latitude = 40.582252
+longitude = -84.152138
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45895"
+

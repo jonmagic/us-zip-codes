@@ -1,6 +1,8 @@
-zip_code = "40447"
-state = "KY"
 city = "Mc Kee"
 county = "Jackson"
-longitude = -84.025131
 latitude = 37.433778
+longitude = -84.025131
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40447"
+

@@ -1,6 +1,8 @@
-zip_code = "25159"
-state = "WV"
 city = "Poca"
 county = "Putnam"
-longitude = -81.783795
 latitude = 38.479147
+longitude = -81.783795
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25159"
+

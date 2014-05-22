@@ -1,6 +1,8 @@
-zip_code = "04575"
-state = "ME"
 city = "West Boothbay Harbor"
 county = "Lincoln"
-longitude = -69.660795
 latitude = 43.854534
+longitude = -69.660795
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04575"
+

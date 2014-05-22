@@ -1,6 +1,8 @@
-zip_code = "21028"
-state = "MD"
 city = "Churchville"
 county = "Harford"
-longitude = -76.236427
 latitude = 39.563172
+longitude = -76.236427
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21028"
+

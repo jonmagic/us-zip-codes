@@ -1,6 +1,8 @@
-zip_code = "27371"
-state = "NC"
 city = "Troy"
 county = "Montgomery"
-longitude = -79.907346
 latitude = 35.393595
+longitude = -79.907346
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27371"
+

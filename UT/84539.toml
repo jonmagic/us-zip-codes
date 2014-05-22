@@ -1,6 +1,8 @@
-zip_code = "84539"
-state = "UT"
 city = "Sunnyside"
 county = "Carbon"
-longitude = -110.398832
 latitude = 39.534651
+longitude = -110.398832
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84539"
+

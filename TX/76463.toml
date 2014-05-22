@@ -1,6 +1,8 @@
-zip_code = "76463"
-state = "TX"
 city = "Mingus"
 county = "Palo Pinto"
-longitude = -98.421901
 latitude = 32.538075
+longitude = -98.421901
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76463"
+

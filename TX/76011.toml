@@ -1,6 +1,8 @@
-zip_code = "76011"
-state = "TX"
 city = "Arlington"
 county = "Tarrant"
-longitude = -97.079633
 latitude = 32.771455
+longitude = -97.079633
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76011"
+

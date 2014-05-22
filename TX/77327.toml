@@ -1,6 +1,8 @@
-zip_code = "77327"
-state = "TX"
 city = "Cleveland"
 county = "Liberty"
-longitude = -94.978471
 latitude = 30.343114
+longitude = -94.978471
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77327"
+

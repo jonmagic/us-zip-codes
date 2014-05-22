@@ -1,6 +1,8 @@
-zip_code = "66056"
-state = "KS"
 city = "Mound City"
 county = "Linn"
-longitude = -94.766019
 latitude = 38.243571
+longitude = -94.766019
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66056"
+

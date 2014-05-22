@@ -1,6 +1,8 @@
-zip_code = "68930"
-state = "NE"
 city = "Blue Hill"
 county = "Webster"
-longitude = -98.450468
 latitude = 40.316739
+longitude = -98.450468
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68930"
+

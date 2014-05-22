@@ -1,6 +1,8 @@
-zip_code = "51344"
-state = "IA"
 city = "Gruver"
 county = "Emmet"
-longitude = -94.704925
 latitude = 43.393593
+longitude = -94.704925
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51344"
+

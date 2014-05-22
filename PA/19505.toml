@@ -1,6 +1,8 @@
-zip_code = "19505"
-state = "PA"
 city = "Bechtelsville"
 county = "Berks"
-longitude = -75.741863
 latitude = 40.458523
+longitude = -75.741863
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19505"
+

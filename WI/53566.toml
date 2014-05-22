@@ -1,6 +1,8 @@
-zip_code = "53566"
-state = "WI"
 city = "Monroe"
 county = "Green"
-longitude = -89.656994
 latitude = 42.612966
+longitude = -89.656994
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53566"
+

@@ -1,6 +1,8 @@
-zip_code = "11351"
-state = "NY"
 city = "Flushing"
 county = "Queens"
-longitude = -73.831698
 latitude = 40.781703
+longitude = -73.831698
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11351"
+

@@ -1,6 +1,8 @@
-zip_code = "32434"
-state = "FL"
 city = "Mossy Head"
 county = "Walton"
-longitude = -86.342683
 latitude = 30.762486
+longitude = -86.342683
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32434"
+

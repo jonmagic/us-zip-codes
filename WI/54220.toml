@@ -1,6 +1,8 @@
-zip_code = "54220"
-state = "WI"
 city = "Manitowoc"
 county = "Manitowoc"
-longitude = -87.714403
 latitude = 44.109709
+longitude = -87.714403
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54220"
+

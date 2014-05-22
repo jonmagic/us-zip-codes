@@ -1,6 +1,8 @@
-zip_code = "76077"
-state = "TX"
 city = "Rainbow"
 county = "Somervell"
-longitude = -97.704041
 latitude = 32.284006
+longitude = -97.704041
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76077"
+

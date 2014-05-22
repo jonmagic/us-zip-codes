@@ -1,6 +1,8 @@
-zip_code = "52327"
-state = "IA"
 city = "Riverside"
 county = "Washington"
-longitude = -91.580364
 latitude = 41.39539
+longitude = -91.580364
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52327"
+

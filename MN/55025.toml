@@ -1,6 +1,8 @@
-zip_code = "55025"
-state = "MN"
 city = "Forest Lake"
 county = "Washington"
-longitude = -92.949266
 latitude = 45.246466
+longitude = -92.949266
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55025"
+

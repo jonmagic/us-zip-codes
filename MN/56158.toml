@@ -1,6 +1,8 @@
-zip_code = "56158"
-state = "MN"
 city = "Magnolia"
 county = "Rock"
-longitude = -96.07695
 latitude = 43.644047
+longitude = -96.07695
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56158"
+

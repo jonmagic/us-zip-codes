@@ -1,6 +1,8 @@
-zip_code = "15841"
-state = "PA"
 city = "Force"
 county = "Elk"
-longitude = -78.551668
 latitude = 41.283709
+longitude = -78.551668
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15841"
+

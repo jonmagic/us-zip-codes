@@ -1,6 +1,8 @@
-zip_code = "15549"
-state = "PA"
 city = "Listie"
 county = "Somerset"
-longitude = -79.012306
 latitude = 40.020764
+longitude = -79.012306
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15549"
+

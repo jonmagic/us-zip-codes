@@ -1,6 +1,8 @@
-zip_code = "92173"
-state = "CA"
 city = "San Ysidro"
 county = "San Diego"
-longitude = -116.997475
 latitude = 32.566356
+longitude = -116.997475
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92173"
+

@@ -1,6 +1,8 @@
-zip_code = "17979"
-state = "PA"
 city = "Summit Station"
 county = "Schuylkill"
-longitude = -76.203767
 latitude = 40.554516
+longitude = -76.203767
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17979"
+

@@ -1,6 +1,8 @@
-zip_code = "78070"
-state = "TX"
 city = "Spring Branch"
 county = "Comal"
-longitude = -98.408614
 latitude = 29.881355
+longitude = -98.408614
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78070"
+

@@ -1,6 +1,8 @@
-zip_code = "96757"
-state = "HI"
 city = "Kualapuu"
 county = "Maui"
-longitude = -157.02544
 latitude = 21.16101
+longitude = -157.02544
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96757"
+

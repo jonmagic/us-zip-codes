@@ -1,6 +1,8 @@
-zip_code = "75497"
-state = "TX"
 city = "Yantis"
 county = "Wood"
-longitude = -95.579297
 latitude = 32.891514
+longitude = -95.579297
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75497"
+

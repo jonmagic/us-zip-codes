@@ -1,6 +1,8 @@
-zip_code = "33844"
-state = "FL"
 city = "Haines City"
 county = "Polk"
-longitude = -81.592933
 latitude = 28.075834
+longitude = -81.592933
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33844"
+

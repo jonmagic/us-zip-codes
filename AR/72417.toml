@@ -1,6 +1,8 @@
-zip_code = "72417"
-state = "AR"
 city = "Brookland"
 county = "Craighead"
-longitude = -90.489547
 latitude = 35.891366
+longitude = -90.489547
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72417"
+

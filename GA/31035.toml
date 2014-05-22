@@ -1,6 +1,8 @@
-zip_code = "31035"
-state = "GA"
 city = "Harrison"
 county = "Washington"
-longitude = -82.702399
 latitude = 32.855295
+longitude = -82.702399
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31035"
+

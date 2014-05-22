@@ -1,6 +1,8 @@
-zip_code = "56523"
-state = "MN"
 city = "Climax"
 county = "Polk"
-longitude = -96.87154
 latitude = 47.683698
+longitude = -96.87154
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56523"
+

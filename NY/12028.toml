@@ -1,6 +1,8 @@
-zip_code = "12028"
-state = "NY"
 city = "Buskirk"
 county = "Rensselaer"
-longitude = -73.454055
 latitude = 42.851332
+longitude = -73.454055
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12028"
+

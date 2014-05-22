@@ -1,6 +1,8 @@
-zip_code = "29466"
-state = "SC"
 city = "Mount Pleasant"
 county = "Charleston"
-longitude = -79.804893
 latitude = 32.867373
+longitude = -79.804893
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29466"
+

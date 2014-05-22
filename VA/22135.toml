@@ -1,6 +1,8 @@
-zip_code = "22135"
-state = "VA"
 city = "Quantico"
 county = "Prince William"
-longitude = -77.466897
 latitude = 38.721912
+longitude = -77.466897
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22135"
+

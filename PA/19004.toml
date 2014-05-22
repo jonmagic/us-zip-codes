@@ -1,6 +1,8 @@
-zip_code = "19004"
-state = "PA"
 city = "Bala Cynwyd"
 county = "Montgomery"
-longitude = -75.228224
 latitude = 40.013811
+longitude = -75.228224
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19004"
+

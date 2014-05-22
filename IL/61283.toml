@@ -1,6 +1,8 @@
-zip_code = "61283"
-state = "IL"
 city = "Tampico"
 county = "Whiteside"
-longitude = -89.756769
 latitude = 41.637929
+longitude = -89.756769
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61283"
+

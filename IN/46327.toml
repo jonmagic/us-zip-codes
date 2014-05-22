@@ -1,6 +1,8 @@
-zip_code = "46327"
-state = "IN"
 city = "Hammond"
 county = "Lake"
-longitude = -87.49039
 latitude = 41.615085
+longitude = -87.49039
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46327"
+

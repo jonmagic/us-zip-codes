@@ -1,6 +1,8 @@
-zip_code = "93065"
-state = "CA"
 city = "Simi Valley"
 county = "Ventura"
-longitude = -118.733903
 latitude = 34.272162
+longitude = -118.733903
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93065"
+

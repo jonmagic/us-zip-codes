@@ -1,6 +1,8 @@
-zip_code = "14715"
-state = "NY"
 city = "Bolivar"
 county = "Allegany"
-longitude = -78.139391
 latitude = 42.154417
+longitude = -78.139391
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14715"
+

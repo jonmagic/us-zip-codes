@@ -1,6 +1,8 @@
-zip_code = "54766"
-state = "WI"
 city = "Sheldon"
 county = "Rusk"
-longitude = -90.887173
 latitude = 45.349548
+longitude = -90.887173
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54766"
+

@@ -1,6 +1,8 @@
-zip_code = "74824"
-state = "OK"
 city = "Agra"
 county = "Lincoln"
-longitude = -96.873793
 latitude = 35.908981
+longitude = -96.873793
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74824"
+

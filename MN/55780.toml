@@ -1,6 +1,8 @@
-zip_code = "55780"
-state = "MN"
 city = "Sawyer"
 county = "Carlton"
-longitude = -92.639079
 latitude = 46.701794
+longitude = -92.639079
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55780"
+

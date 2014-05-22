@@ -1,6 +1,8 @@
-zip_code = "41834"
-state = "KY"
 city = "Littcarr"
 county = "Knott"
-longitude = -82.944607
 latitude = 37.275003
+longitude = -82.944607
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41834"
+

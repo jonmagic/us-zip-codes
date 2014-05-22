@@ -1,6 +1,8 @@
-zip_code = "49911"
-state = "MI"
 city = "Bessemer"
 county = "Gogebic"
-longitude = -89.992677
 latitude = 46.423427
+longitude = -89.992677
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49911"
+

@@ -1,6 +1,8 @@
-zip_code = "25079"
-state = "WV"
 city = "Falling Rock"
 county = "Kanawha"
-longitude = -81.398422
 latitude = 38.495072
+longitude = -81.398422
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25079"
+

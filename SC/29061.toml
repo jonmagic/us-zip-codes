@@ -1,6 +1,8 @@
-zip_code = "29061"
-state = "SC"
 city = "Hopkins"
 county = "Richland"
-longitude = -80.823
 latitude = 33.920355
+longitude = -80.823
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29061"
+

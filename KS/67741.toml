@@ -1,6 +1,8 @@
-zip_code = "67741"
-state = "KS"
 city = "Kanorado"
 county = "Sherman"
-longitude = -101.967481
 latitude = 39.365231
+longitude = -101.967481
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67741"
+

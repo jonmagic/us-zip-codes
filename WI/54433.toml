@@ -1,6 +1,8 @@
-zip_code = "54433"
-state = "WI"
 city = "Gilman"
 county = "Taylor"
-longitude = -90.632113
 latitude = 45.197791
+longitude = -90.632113
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54433"
+

@@ -1,6 +1,8 @@
-zip_code = "01922"
-state = "MA"
 city = "Byfield"
 county = "Essex"
-longitude = -70.92812
 latitude = 42.763216
+longitude = -70.92812
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01922"
+

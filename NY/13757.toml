@@ -1,6 +1,8 @@
-zip_code = "13757"
-state = "NY"
 city = "East Meredith"
 county = "Delaware"
-longitude = -74.977712
 latitude = 42.350091
+longitude = -74.977712
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13757"
+

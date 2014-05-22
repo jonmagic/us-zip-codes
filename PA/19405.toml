@@ -1,6 +1,8 @@
-zip_code = "19405"
-state = "PA"
 city = "Bridgeport"
 county = "Montgomery"
-longitude = -75.362127
 latitude = 40.120931
+longitude = -75.362127
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19405"
+

@@ -1,6 +1,8 @@
-zip_code = "44048"
-state = "OH"
 city = "Kingsville"
 county = "Ashtabula"
-longitude = -80.647299
 latitude = 41.846175
+longitude = -80.647299
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44048"
+

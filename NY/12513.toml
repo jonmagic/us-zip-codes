@@ -1,6 +1,8 @@
-zip_code = "12513"
-state = "NY"
 city = "Claverack"
 county = "Columbia"
-longitude = -73.694642
 latitude = 42.206862
+longitude = -73.694642
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12513"
+

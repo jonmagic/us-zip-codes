@@ -1,6 +1,8 @@
-zip_code = "68724"
-state = "NE"
 city = "Center"
 county = "Knox"
-longitude = -97.866951
 latitude = 42.597304
+longitude = -97.866951
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68724"
+

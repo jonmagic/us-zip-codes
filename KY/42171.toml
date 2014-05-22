@@ -1,6 +1,8 @@
-zip_code = "42171"
-state = "KY"
 city = "Smiths Grove"
 county = "Warren"
-longitude = -86.187045
 latitude = 37.01823
+longitude = -86.187045
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42171"
+

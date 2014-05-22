@@ -1,6 +1,8 @@
-zip_code = "84022"
-state = "UT"
 city = "Dugway"
 county = "Tooele"
-longitude = -112.689833
 latitude = 40.270806
+longitude = -112.689833
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84022"
+

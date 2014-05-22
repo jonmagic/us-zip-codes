@@ -1,6 +1,8 @@
-zip_code = "46755"
-state = "IN"
 city = "Kendallville"
 county = "Noble"
-longitude = -85.389073
 latitude = 41.431488
+longitude = -85.389073
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46755"
+

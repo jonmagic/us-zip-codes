@@ -1,6 +1,8 @@
-zip_code = "10505"
-state = "NY"
 city = "Baldwin Place"
 county = "Westchester"
-longitude = -73.749244
 latitude = 41.33431
+longitude = -73.749244
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10505"
+

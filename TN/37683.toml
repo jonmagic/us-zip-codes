@@ -1,6 +1,8 @@
-zip_code = "37683"
-state = "TN"
 city = "Mountain City"
 county = "Johnson"
-longitude = -81.823043
 latitude = 36.451666
+longitude = -81.823043
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37683"
+

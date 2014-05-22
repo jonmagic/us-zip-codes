@@ -1,6 +1,8 @@
-zip_code = "55055"
-state = "MN"
 city = "Newport"
 county = "Washington"
-longitude = -92.993263
 latitude = 44.872395
+longitude = -92.993263
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55055"
+

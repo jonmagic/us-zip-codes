@@ -1,6 +1,8 @@
-zip_code = "46916"
-state = "IN"
 city = "Burrows"
 county = "Carroll"
-longitude = -86.573952
 latitude = 40.584272
+longitude = -86.573952
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46916"
+

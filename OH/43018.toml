@@ -1,6 +1,8 @@
-zip_code = "43018"
-state = "OH"
 city = "Etna"
 county = "Licking"
-longitude = -82.683686
 latitude = 39.957167
+longitude = -82.683686
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43018"
+

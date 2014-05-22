@@ -1,6 +1,8 @@
-zip_code = "99161"
-state = "WA"
 city = "Palouse"
 county = "Whitman"
-longitude = -117.157476
 latitude = 46.770141
+longitude = -117.157476
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99161"
+

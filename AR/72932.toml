@@ -1,6 +1,8 @@
-zip_code = "72932"
-state = "AR"
 city = "Cedarville"
 county = "Crawford"
-longitude = -94.369383
 latitude = 35.654281
+longitude = -94.369383
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72932"
+

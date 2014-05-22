@@ -1,6 +1,8 @@
-zip_code = "16411"
-state = "PA"
 city = "East Springfield"
 county = "Erie"
-longitude = -80.439619
 latitude = 41.982574
+longitude = -80.439619
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16411"
+

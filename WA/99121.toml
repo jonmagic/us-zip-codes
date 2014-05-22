@@ -1,6 +1,8 @@
-zip_code = "99121"
-state = "WA"
 city = "Danville"
 county = "Ferry"
-longitude = -118.505768
 latitude = 48.954016
+longitude = -118.505768
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99121"
+

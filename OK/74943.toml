@@ -1,6 +1,8 @@
-zip_code = "74943"
-state = "OK"
 city = "Lequire"
 county = "Haskell"
-longitude = -95.118733
 latitude = 35.218128
+longitude = -95.118733
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74943"
+

@@ -1,6 +1,8 @@
-zip_code = "76524"
-state = "TX"
 city = "Eddy"
 county = "Mclennan"
-longitude = -97.277397
 latitude = 31.308813
+longitude = -97.277397
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76524"
+

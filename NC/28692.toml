@@ -1,6 +1,8 @@
-zip_code = "28692"
-state = "NC"
 city = "Vilas"
 county = "Watauga"
-longitude = -81.802644
 latitude = 36.266185
+longitude = -81.802644
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28692"
+

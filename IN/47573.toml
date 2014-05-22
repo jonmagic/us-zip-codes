@@ -1,6 +1,8 @@
-zip_code = "47573"
-state = "IN"
 city = "Ragsdale"
 county = "Knox"
-longitude = -87.321357
 latitude = 38.744136
+longitude = -87.321357
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47573"
+

@@ -1,6 +1,8 @@
-zip_code = "46913"
-state = "IN"
 city = "Bringhurst"
 county = "Carroll"
-longitude = -86.507065
 latitude = 40.500141
+longitude = -86.507065
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46913"
+

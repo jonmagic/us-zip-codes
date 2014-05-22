@@ -1,6 +1,8 @@
-zip_code = "81656"
-state = "CO"
 city = "Woody Creek"
 county = "Pitkin"
-longitude = -106.898514
 latitude = 39.283116
+longitude = -106.898514
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81656"
+

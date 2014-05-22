@@ -1,6 +1,8 @@
-zip_code = "76677"
-state = "TX"
 city = "Perry"
 county = "Falls"
-longitude = -96.937574
 latitude = 31.254242
+longitude = -96.937574
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76677"
+

@@ -1,6 +1,8 @@
-zip_code = "66507"
-state = "KS"
 city = "Maple Hill"
 county = "Wabaunsee"
-longitude = -96.131584
 latitude = 39.070808
+longitude = -96.131584
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66507"
+

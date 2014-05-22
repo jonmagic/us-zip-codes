@@ -1,6 +1,8 @@
-zip_code = "56219"
-state = "MN"
 city = "Browns Valley"
 county = "Traverse"
-longitude = -96.834959
 latitude = 45.59432
+longitude = -96.834959
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56219"
+

@@ -1,6 +1,8 @@
-zip_code = "64096"
-state = "MO"
 city = "Waverly"
 county = "Lafayette"
-longitude = -93.586904
 latitude = 39.188917
+longitude = -93.586904
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64096"
+

@@ -1,6 +1,8 @@
-zip_code = "11104"
-state = "NY"
 city = "Sunnyside"
 county = "Queens"
-longitude = -73.918216
 latitude = 40.742794
+longitude = -73.918216
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11104"
+

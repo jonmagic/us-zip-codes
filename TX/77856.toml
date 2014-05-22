@@ -1,6 +1,8 @@
-zip_code = "77856"
-state = "TX"
 city = "Franklin"
 county = "Robertson"
-longitude = -96.517098
 latitude = 31.000137
+longitude = -96.517098
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77856"
+

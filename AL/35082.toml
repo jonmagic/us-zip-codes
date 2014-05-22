@@ -1,6 +1,8 @@
-zip_code = "35082"
-state = "AL"
 city = "Hollins"
 county = "Clay"
-longitude = -86.138624
 latitude = 33.116229
+longitude = -86.138624
+state = ""
+state_code_alpha2 = ""
+zip_code = "35082"
+

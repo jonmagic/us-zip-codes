@@ -1,6 +1,8 @@
-zip_code = "29475"
-state = "SC"
 city = "Ruffin"
 county = "Colleton"
-longitude = -80.819421
 latitude = 32.899004
+longitude = -80.819421
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29475"
+

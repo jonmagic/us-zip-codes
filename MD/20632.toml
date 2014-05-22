@@ -1,6 +1,8 @@
-zip_code = "20632"
-state = "MD"
 city = "Faulkner"
 county = "Charles"
-longitude = -76.948718
 latitude = 38.421762
+longitude = -76.948718
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20632"
+

@@ -1,6 +1,8 @@
-zip_code = "43029"
-state = "OH"
 city = "Irwin"
 county = "Union"
-longitude = -83.442548
 latitude = 40.128208
+longitude = -83.442548
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43029"
+

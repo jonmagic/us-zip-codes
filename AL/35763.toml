@@ -1,6 +1,8 @@
-zip_code = "35763"
-state = "AL"
 city = "Owens Cross Roads"
 county = "Madison"
-longitude = -86.464438
 latitude = 34.724161
+longitude = -86.464438
+state = ""
+state_code_alpha2 = ""
+zip_code = "35763"
+

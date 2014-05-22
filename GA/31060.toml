@@ -1,6 +1,8 @@
-zip_code = "31060"
-state = "GA"
 city = "Milan"
 county = "Telfair"
-longitude = -82.926588
 latitude = 31.964005
+longitude = -82.926588
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31060"
+

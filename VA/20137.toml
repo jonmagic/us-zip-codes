@@ -1,6 +1,8 @@
-zip_code = "20137"
-state = "VA"
 city = "Broad Run"
 county = "Fauquier"
-longitude = -77.736814
 latitude = 38.819464
+longitude = -77.736814
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20137"
+

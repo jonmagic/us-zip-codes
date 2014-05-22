@@ -1,6 +1,8 @@
-zip_code = "28136"
-state = "NC"
 city = "Polkville"
 county = "Cleveland"
-longitude = -81.630272
 latitude = 35.396126
+longitude = -81.630272
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28136"
+

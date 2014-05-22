@@ -1,6 +1,8 @@
-zip_code = "45051"
-state = "OH"
 city = "Mount Saint Joseph"
 county = "Hamilton"
-longitude = -84.643096
 latitude = 39.09646
+longitude = -84.643096
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45051"
+

@@ -1,6 +1,8 @@
-zip_code = "46112"
-state = "IN"
 city = "Brownsburg"
 county = "Hendricks"
-longitude = -86.470429
 latitude = 39.807038
+longitude = -86.470429
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46112"
+

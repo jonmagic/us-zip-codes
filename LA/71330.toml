@@ -1,6 +1,8 @@
-zip_code = "71330"
-state = "LA"
 city = "Echo"
 county = "Rapides"
-longitude = -92.25888
 latitude = 31.119858
+longitude = -92.25888
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71330"
+

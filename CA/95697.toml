@@ -1,6 +1,8 @@
-zip_code = "95697"
-state = "CA"
 city = "Yolo"
 county = "Yolo"
-longitude = -121.832156
 latitude = 38.751038
+longitude = -121.832156
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95697"
+

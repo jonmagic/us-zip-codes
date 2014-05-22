@@ -1,6 +1,8 @@
-zip_code = "26151"
-state = "WV"
 city = "Mount Zion"
 county = "Calhoun"
-longitude = -81.132151
 latitude = 38.828582
+longitude = -81.132151
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26151"
+

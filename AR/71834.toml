@@ -1,6 +1,8 @@
-zip_code = "71834"
-state = "AR"
 city = "Doddridge"
 county = "Miller"
-longitude = -94.023737
 latitude = 33.441724
+longitude = -94.023737
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71834"
+

@@ -1,6 +1,8 @@
-zip_code = "74547"
-state = "OK"
 city = "Hartshorne"
 county = "Pittsburg"
-longitude = -95.544861
 latitude = 34.982457
+longitude = -95.544861
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74547"
+

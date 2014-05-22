@@ -1,6 +1,8 @@
-zip_code = "12053"
-state = "NY"
 city = "Delanson"
 county = "Schenectady"
-longitude = -74.197936
 latitude = 42.77788
+longitude = -74.197936
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12053"
+

@@ -1,6 +1,8 @@
-zip_code = "83444"
-state = "ID"
 city = "Roberts"
 county = "Jefferson"
-longitude = -112.173195
 latitude = 43.698922
+longitude = -112.173195
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83444"
+

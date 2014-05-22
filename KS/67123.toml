@@ -1,6 +1,8 @@
-zip_code = "67123"
-state = "KS"
 city = "Potwin"
 county = "Butler"
-longitude = -97.038364
 latitude = 37.937595
+longitude = -97.038364
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67123"
+

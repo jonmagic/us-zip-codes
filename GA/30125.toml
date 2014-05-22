@@ -1,6 +1,8 @@
-zip_code = "30125"
-state = "GA"
 city = "Cedartown"
 county = "Polk"
-longitude = -85.239429
 latitude = 33.998841
+longitude = -85.239429
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30125"
+

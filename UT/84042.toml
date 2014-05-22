@@ -1,6 +1,8 @@
-zip_code = "84042"
-state = "UT"
 city = "Lindon"
 county = "Utah"
-longitude = -111.719923
 latitude = 40.340251
+longitude = -111.719923
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84042"
+

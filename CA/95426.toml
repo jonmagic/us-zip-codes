@@ -1,6 +1,8 @@
-zip_code = "95426"
-state = "CA"
 city = "Cobb"
 county = "Lake"
-longitude = -122.732911
 latitude = 38.82677
+longitude = -122.732911
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95426"
+

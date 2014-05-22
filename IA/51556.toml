@@ -1,6 +1,8 @@
-zip_code = "51556"
-state = "IA"
 city = "Modale"
 county = "Harrison"
-longitude = -96.013027
 latitude = 41.643973
+longitude = -96.013027
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51556"
+

@@ -1,6 +1,8 @@
-zip_code = "48042"
-state = "MI"
 city = "Macomb"
 county = "Macomb"
-longitude = -82.916262
 latitude = 42.673476
+longitude = -82.916262
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48042"
+

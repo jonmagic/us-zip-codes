@@ -1,6 +1,8 @@
-zip_code = "64844"
-state = "MO"
 city = "Granby"
 county = "Newton"
-longitude = -94.253163
 latitude = 36.905518
+longitude = -94.253163
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64844"
+

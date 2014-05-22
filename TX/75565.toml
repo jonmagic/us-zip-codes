@@ -1,6 +1,8 @@
-zip_code = "75565"
-state = "TX"
 city = "Mc Leod"
 county = "Cass"
-longitude = -94.348359
 latitude = 33.095778
+longitude = -94.348359
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75565"
+

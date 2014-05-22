@@ -1,6 +1,8 @@
-zip_code = "11516"
-state = "NY"
 city = "Cedarhurst"
 county = "Nassau"
-longitude = -73.725825
 latitude = 40.626453
+longitude = -73.725825
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11516"
+

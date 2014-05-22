@@ -1,6 +1,8 @@
-zip_code = "51247"
-state = "IA"
 city = "Rock Valley"
 county = "Sioux"
-longitude = -96.204802
 latitude = 43.084636
+longitude = -96.204802
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51247"
+

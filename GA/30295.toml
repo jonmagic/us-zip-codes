@@ -1,6 +1,8 @@
-zip_code = "30295"
-state = "GA"
 city = "Zebulon"
 county = "Pike"
-longitude = -84.321736
 latitude = 33.077371
+longitude = -84.321736
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30295"
+

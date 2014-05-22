@@ -1,6 +1,8 @@
-zip_code = "06468"
-state = "CT"
 city = "Monroe"
 county = "Fairfield"
-longitude = -73.236918
 latitude = 41.341845
+longitude = -73.236918
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06468"
+

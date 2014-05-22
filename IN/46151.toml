@@ -1,6 +1,8 @@
-zip_code = "46151"
-state = "IN"
 city = "Martinsville"
 county = "Morgan"
-longitude = -86.466792
 latitude = 39.477625
+longitude = -86.466792
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46151"
+

@@ -1,6 +1,8 @@
-zip_code = "07649"
-state = "NJ"
 city = "Oradell"
 county = "Bergen"
-longitude = -74.026983
 latitude = 40.955347
+longitude = -74.026983
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07649"
+

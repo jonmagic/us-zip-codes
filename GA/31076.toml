@@ -1,6 +1,8 @@
-zip_code = "31076"
-state = "GA"
 city = "Reynolds"
 county = "Taylor"
-longitude = -84.092715
 latitude = 32.551695
+longitude = -84.092715
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31076"
+

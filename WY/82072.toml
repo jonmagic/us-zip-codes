@@ -1,6 +1,8 @@
-zip_code = "82072"
-state = "WY"
 city = "Laramie"
 county = "Albany"
-longitude = -105.708717
 latitude = 41.582018
+longitude = -105.708717
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82072"
+

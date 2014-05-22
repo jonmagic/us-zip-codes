@@ -1,6 +1,8 @@
-zip_code = "28762"
-state = "NC"
 city = "Old Fort"
 county = "Mcdowell"
-longitude = -82.148319
 latitude = 35.616257
+longitude = -82.148319
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28762"
+

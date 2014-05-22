@@ -1,6 +1,8 @@
-zip_code = "08034"
-state = "NJ"
 city = "Cherry Hill"
 county = "Camden"
-longitude = -75.035015
 latitude = 39.899962
+longitude = -75.035015
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08034"
+

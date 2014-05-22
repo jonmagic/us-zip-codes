@@ -1,6 +1,8 @@
-zip_code = "99742"
-state = "AK"
 city = "Gambell"
 county = "Nome"
-longitude = -165.672344
 latitude = 64.755604
+longitude = -165.672344
+state = ""
+state_code_alpha2 = ""
+zip_code = "99742"
+

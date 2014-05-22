@@ -1,6 +1,8 @@
-zip_code = "55008"
-state = "MN"
 city = "Cambridge"
 county = "Isanti"
-longitude = -93.263457
 latitude = 45.602457
+longitude = -93.263457
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55008"
+

@@ -1,6 +1,8 @@
-zip_code = "65436"
-state = "MO"
 city = "Beulah"
 county = "Phelps"
-longitude = -91.906391
 latitude = 37.615826
+longitude = -91.906391
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65436"
+

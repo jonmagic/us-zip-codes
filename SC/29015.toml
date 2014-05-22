@@ -1,6 +1,8 @@
-zip_code = "29015"
-state = "SC"
 city = "Blair"
 county = "Fairfield"
-longitude = -81.270211
 latitude = 34.41478
+longitude = -81.270211
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29015"
+

@@ -1,6 +1,8 @@
-zip_code = "06763"
-state = "CT"
 city = "Morris"
 county = "Litchfield"
-longitude = -73.212587
 latitude = 41.689616
+longitude = -73.212587
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06763"
+

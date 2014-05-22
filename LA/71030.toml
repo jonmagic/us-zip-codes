@@ -1,6 +1,8 @@
-zip_code = "71030"
-state = "LA"
 city = "Gloster"
 county = "De Soto"
-longitude = -93.842634
 latitude = 32.111056
+longitude = -93.842634
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71030"
+

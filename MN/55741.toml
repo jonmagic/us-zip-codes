@@ -1,6 +1,8 @@
-zip_code = "55741"
-state = "MN"
 city = "Gilbert"
 county = "Saint Louis"
-longitude = -92.366335
 latitude = 47.447686
+longitude = -92.366335
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55741"
+

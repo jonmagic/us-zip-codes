@@ -1,6 +1,8 @@
-zip_code = "26531"
-state = "WV"
 city = "Dellslow"
 county = "Monongalia"
-longitude = -79.895832
 latitude = 39.605344
+longitude = -79.895832
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26531"
+

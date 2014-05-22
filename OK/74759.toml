@@ -1,6 +1,8 @@
-zip_code = "74759"
-state = "OK"
 city = "Soper"
 county = "Choctaw"
-longitude = -95.696492
 latitude = 34.03264
+longitude = -95.696492
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74759"
+

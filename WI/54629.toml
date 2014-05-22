@@ -1,6 +1,8 @@
-zip_code = "54629"
-state = "WI"
 city = "Fountain City"
 county = "Buffalo"
-longitude = -91.674962
 latitude = 44.170774
+longitude = -91.674962
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54629"
+

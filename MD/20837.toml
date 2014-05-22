@@ -1,6 +1,8 @@
-zip_code = "20837"
-state = "MD"
 city = "Poolesville"
 county = "Montgomery"
-longitude = -77.403211
 latitude = 39.123705
+longitude = -77.403211
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20837"
+

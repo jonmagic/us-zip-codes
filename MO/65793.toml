@@ -1,6 +1,8 @@
-zip_code = "65793"
-state = "MO"
 city = "Willow Springs"
 county = "Howell"
-longitude = -91.89891
 latitude = 36.933184
+longitude = -91.89891
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65793"
+

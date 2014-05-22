@@ -1,6 +1,8 @@
-zip_code = "48348"
-state = "MI"
 city = "Clarkston"
 county = "Oakland"
-longitude = -83.403984
 latitude = 42.760507
+longitude = -83.403984
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48348"
+

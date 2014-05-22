@@ -1,6 +1,8 @@
-zip_code = "34142"
-state = "FL"
 city = "Immokalee"
 county = "Collier"
-longitude = -81.415175
 latitude = 26.18437
+longitude = -81.415175
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34142"
+

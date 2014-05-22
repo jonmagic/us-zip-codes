@@ -1,6 +1,8 @@
-zip_code = "25865"
-state = "WV"
 city = "Lester"
 county = "Raleigh"
-longitude = -81.317326
 latitude = 37.73121
+longitude = -81.317326
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25865"
+

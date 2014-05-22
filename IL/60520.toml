@@ -1,6 +1,8 @@
-zip_code = "60520"
-state = "IL"
 city = "Hinckley"
 county = "De Kalb"
-longitude = -88.686052
 latitude = 41.740713
+longitude = -88.686052
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60520"
+

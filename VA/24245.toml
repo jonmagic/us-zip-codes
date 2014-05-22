@@ -1,6 +1,8 @@
-zip_code = "24245"
-state = "VA"
 city = "Dungannon"
 county = "Scott"
-longitude = -82.471457
 latitude = 36.828738
+longitude = -82.471457
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24245"
+

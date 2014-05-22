@@ -1,6 +1,8 @@
-zip_code = "41230"
-state = "KY"
 city = "Louisa"
 county = "Lawrence"
-longitude = -82.605591
 latitude = 38.104327
+longitude = -82.605591
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41230"
+

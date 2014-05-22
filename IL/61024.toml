@@ -1,6 +1,8 @@
-zip_code = "61024"
-state = "IL"
 city = "Durand"
 county = "Winnebago"
-longitude = -89.213377
 latitude = 42.434686
+longitude = -89.213377
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61024"
+

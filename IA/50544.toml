@@ -1,6 +1,8 @@
-zip_code = "50544"
-state = "IA"
 city = "Harcourt"
 county = "Webster"
-longitude = -94.16463
 latitude = 42.260243
+longitude = -94.16463
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50544"
+

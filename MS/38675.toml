@@ -1,6 +1,8 @@
-zip_code = "38675"
-state = "MS"
 city = "Tula"
 county = "Lafayette"
-longitude = -89.483865
 latitude = 34.358201
+longitude = -89.483865
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38675"
+

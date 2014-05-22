@@ -1,6 +1,8 @@
-zip_code = "56353"
-state = "MN"
 city = "Milaca"
 county = "Mille Lacs"
-longitude = -93.620355
 latitude = 45.90321
+longitude = -93.620355
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56353"
+

@@ -1,6 +1,8 @@
-zip_code = "03814"
-state = "NH"
 city = "Center Ossipee"
 county = "Carroll"
-longitude = -71.122689
 latitude = 43.762429
+longitude = -71.122689
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03814"
+

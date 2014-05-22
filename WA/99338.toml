@@ -1,6 +1,8 @@
-zip_code = "99338"
-state = "WA"
 city = "Kennewick"
 county = "Benton"
-longitude = -119.263991
 latitude = 46.155994
+longitude = -119.263991
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99338"
+

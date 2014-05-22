@@ -1,6 +1,8 @@
-zip_code = "11040"
-state = "NY"
 city = "New Hyde Park"
 county = "Nassau"
-longitude = -73.682824
 latitude = 40.729351
+longitude = -73.682824
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11040"
+

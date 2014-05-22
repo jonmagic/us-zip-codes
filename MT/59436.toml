@@ -1,6 +1,8 @@
-zip_code = "59436"
-state = "MT"
 city = "Fairfield"
 county = "Teton"
-longitude = -112.207191
 latitude = 47.61386
+longitude = -112.207191
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59436"
+

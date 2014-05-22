@@ -1,6 +1,8 @@
-zip_code = "65662"
-state = "MO"
 city = "Grovespring"
 county = "Wright"
-longitude = -92.581914
 latitude = 37.396509
+longitude = -92.581914
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65662"
+

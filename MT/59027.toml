@@ -1,6 +1,8 @@
-zip_code = "59027"
-state = "MT"
 city = "Emigrant"
 county = "Park"
-longitude = -110.792071
 latitude = 45.270789
+longitude = -110.792071
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59027"
+

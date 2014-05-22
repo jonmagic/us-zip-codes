@@ -1,6 +1,8 @@
-zip_code = "16136"
-state = "PA"
 city = "Koppel"
 county = "Beaver"
-longitude = -80.328009
 latitude = 40.834767
+longitude = -80.328009
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16136"
+

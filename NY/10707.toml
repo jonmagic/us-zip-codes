@@ -1,6 +1,8 @@
-zip_code = "10707"
-state = "NY"
 city = "Tuckahoe"
 county = "Westchester"
-longitude = -73.816127
 latitude = 40.960498
+longitude = -73.816127
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10707"
+

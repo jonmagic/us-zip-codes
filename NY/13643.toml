@@ -1,6 +1,8 @@
-zip_code = "13643"
-state = "NY"
 city = "Great Bend"
 county = "Jefferson"
-longitude = -75.728357
 latitude = 44.014698
+longitude = -75.728357
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13643"
+

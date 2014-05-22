@@ -1,6 +1,8 @@
-zip_code = "40456"
-state = "KY"
 city = "Mount Vernon"
 county = "Rockcastle"
-longitude = -84.337882
 latitude = 37.398303
+longitude = -84.337882
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40456"
+

@@ -1,6 +1,8 @@
-zip_code = "31030"
-state = "GA"
 city = "Fort Valley"
 county = "Peach"
-longitude = -83.854528
 latitude = 32.560698
+longitude = -83.854528
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31030"
+

@@ -1,6 +1,8 @@
-zip_code = "60061"
-state = "IL"
 city = "Vernon Hills"
 county = "Lake"
-longitude = -87.962973
 latitude = 42.231183
+longitude = -87.962973
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60061"
+

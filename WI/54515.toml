@@ -1,6 +1,8 @@
-zip_code = "54515"
-state = "WI"
 city = "Catawba"
 county = "Price"
-longitude = -90.504465
 latitude = 45.535762
+longitude = -90.504465
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54515"
+

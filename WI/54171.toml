@@ -1,6 +1,8 @@
-zip_code = "54171"
-state = "WI"
 city = "Sobieski"
 county = "Oconto"
-longitude = -88.121792
 latitude = 44.726641
+longitude = -88.121792
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54171"
+

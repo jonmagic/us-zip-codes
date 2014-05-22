@@ -1,6 +1,8 @@
-zip_code = "02460"
-state = "MA"
 city = "Newtonville"
 county = "Middlesex"
-longitude = -71.182371
 latitude = 42.374296
+longitude = -71.182371
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02460"
+

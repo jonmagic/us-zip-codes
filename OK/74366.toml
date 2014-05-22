@@ -1,6 +1,8 @@
-zip_code = "74366"
-state = "OK"
 city = "Spavinaw"
 county = "Mayes"
-longitude = -95.049656
 latitude = 36.396264
+longitude = -95.049656
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74366"
+

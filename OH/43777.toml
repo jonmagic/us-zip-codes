@@ -1,6 +1,8 @@
-zip_code = "43777"
-state = "OH"
 city = "Roseville"
 county = "Muskingum"
-longitude = -82.039389
 latitude = 39.821869
+longitude = -82.039389
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43777"
+

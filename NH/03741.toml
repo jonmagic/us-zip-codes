@@ -1,6 +1,8 @@
-zip_code = "03741"
-state = "NH"
 city = "Canaan"
 county = "Grafton"
-longitude = -72.057312
 latitude = 43.63123
+longitude = -72.057312
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03741"
+

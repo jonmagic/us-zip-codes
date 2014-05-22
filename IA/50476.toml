@@ -1,6 +1,8 @@
-zip_code = "50476"
-state = "IA"
 city = "Stacyville"
 county = "Mitchell"
-longitude = -92.853243
 latitude = 43.435628
+longitude = -92.853243
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50476"
+

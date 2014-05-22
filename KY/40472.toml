@@ -1,6 +1,8 @@
-zip_code = "40472"
-state = "KY"
 city = "Ravenna"
 county = "Estill"
-longitude = -83.856874
 latitude = 37.713915
+longitude = -83.856874
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40472"
+

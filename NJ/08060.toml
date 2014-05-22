@@ -1,6 +1,8 @@
-zip_code = "08060"
-state = "NJ"
 city = "Mount Holly"
 county = "Burlington"
-longitude = -74.801869
 latitude = 40.044956
+longitude = -74.801869
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08060"
+

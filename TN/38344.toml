@@ -1,6 +1,8 @@
-zip_code = "38344"
-state = "TN"
 city = "Huntingdon"
 county = "Carroll"
-longitude = -88.433709
 latitude = 35.985967
+longitude = -88.433709
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38344"
+

@@ -1,6 +1,8 @@
-zip_code = "37036"
-state = "TN"
 city = "Charlotte"
 county = "Dickson"
-longitude = -87.278993
 latitude = 36.232191
+longitude = -87.278993
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37036"
+

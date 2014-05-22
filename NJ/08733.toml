@@ -1,6 +1,8 @@
-zip_code = "08733"
-state = "NJ"
 city = "Lakehurst"
 county = "Ocean"
-longitude = -74.28224
 latitude = 39.992317
+longitude = -74.28224
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08733"
+

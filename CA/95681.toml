@@ -1,6 +1,8 @@
-zip_code = "95681"
-state = "CA"
 city = "Sheridan"
 county = "Placer"
-longitude = -121.346893
 latitude = 38.989408
+longitude = -121.346893
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95681"
+

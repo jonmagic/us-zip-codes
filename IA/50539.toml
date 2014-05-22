@@ -1,6 +1,8 @@
-zip_code = "50539"
-state = "IA"
 city = "Fenton"
 county = "Kossuth"
-longitude = -94.384458
 latitude = 43.241336
+longitude = -94.384458
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50539"
+

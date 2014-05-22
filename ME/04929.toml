@@ -1,6 +1,8 @@
-zip_code = "04929"
-state = "ME"
 city = "Detroit"
 county = "Somerset"
-longitude = -69.322662
 latitude = 44.761527
+longitude = -69.322662
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04929"
+

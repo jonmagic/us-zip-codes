@@ -1,6 +1,8 @@
-zip_code = "56255"
-state = "MN"
 city = "Lucan"
 county = "Redwood"
-longitude = -95.409783
 latitude = 44.472194
+longitude = -95.409783
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56255"
+

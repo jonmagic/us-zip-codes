@@ -1,6 +1,8 @@
-zip_code = "60963"
-state = "IL"
 city = "Rossville"
 county = "Vermilion"
-longitude = -87.682897
 latitude = 40.363126
+longitude = -87.682897
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60963"
+

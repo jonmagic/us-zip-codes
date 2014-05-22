@@ -1,6 +1,8 @@
-zip_code = "75417"
-state = "TX"
 city = "Bogata"
 county = "Red River"
-longitude = -95.211712
 latitude = 33.470494
+longitude = -95.211712
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75417"
+

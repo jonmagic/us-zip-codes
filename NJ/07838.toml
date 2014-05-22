@@ -1,6 +1,8 @@
-zip_code = "07838"
-state = "NJ"
 city = "Great Meadows"
 county = "Warren"
-longitude = -74.937714
 latitude = 40.888834
+longitude = -74.937714
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07838"
+

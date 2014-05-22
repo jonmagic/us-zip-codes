@@ -1,6 +1,8 @@
-zip_code = "58789"
-state = "ND"
 city = "Upham"
 county = "Mchenry"
-longitude = -100.831317
 latitude = 48.348495
+longitude = -100.831317
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58789"
+

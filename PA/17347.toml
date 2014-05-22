@@ -1,6 +1,8 @@
-zip_code = "17347"
-state = "PA"
 city = "Mount Wolf"
 county = "York"
-longitude = -76.552798
 latitude = 39.942848
+longitude = -76.552798
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17347"
+

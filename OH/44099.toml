@@ -1,6 +1,8 @@
-zip_code = "44099"
-state = "OH"
 city = "Windsor"
 county = "Ashtabula"
-longitude = -80.967673
 latitude = 41.549414
+longitude = -80.967673
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44099"
+

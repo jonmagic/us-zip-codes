@@ -1,6 +1,8 @@
-zip_code = "43523"
-state = "OH"
 city = "Grelton"
 county = "Henry"
-longitude = -84.000532
 latitude = 41.341081
+longitude = -84.000532
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43523"
+

@@ -1,6 +1,8 @@
-zip_code = "41005"
-state = "KY"
 city = "Burlington"
 county = "Boone"
-longitude = -84.773564
 latitude = 39.015027
+longitude = -84.773564
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41005"
+

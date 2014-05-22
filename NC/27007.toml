@@ -1,6 +1,8 @@
-zip_code = "27007"
-state = "NC"
 city = "Ararat"
 county = "Surry"
-longitude = -80.589507
 latitude = 36.385903
+longitude = -80.589507
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27007"
+

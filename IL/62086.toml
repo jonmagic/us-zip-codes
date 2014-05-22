@@ -1,6 +1,8 @@
-zip_code = "62086"
-state = "IL"
 city = "Sorento"
 county = "Bond"
-longitude = -89.554727
 latitude = 38.961617
+longitude = -89.554727
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62086"
+

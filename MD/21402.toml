@@ -1,6 +1,8 @@
-zip_code = "21402"
-state = "MD"
 city = "Annapolis"
 county = "Anne Arundel"
-longitude = -76.452032
 latitude = 39.04811
+longitude = -76.452032
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21402"
+

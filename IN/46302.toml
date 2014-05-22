@@ -1,6 +1,8 @@
-zip_code = "46302"
-state = "IN"
 city = "Boone Grove"
 county = "Porter"
-longitude = -87.130431
 latitude = 41.354186
+longitude = -87.130431
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46302"
+

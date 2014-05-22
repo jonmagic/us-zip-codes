@@ -1,6 +1,8 @@
-zip_code = "18435"
-state = "PA"
 city = "Lackawaxen"
 county = "Pike"
-longitude = -75.009368
 latitude = 41.475422
+longitude = -75.009368
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18435"
+

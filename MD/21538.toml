@@ -1,6 +1,8 @@
-zip_code = "21538"
-state = "MD"
 city = "Kitzmiller"
 county = "Garrett"
-longitude = -79.222202
 latitude = 39.416917
+longitude = -79.222202
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21538"
+

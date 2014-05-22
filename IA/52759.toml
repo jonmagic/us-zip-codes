@@ -1,6 +1,8 @@
-zip_code = "52759"
-state = "IA"
 city = "Montpelier"
 county = "Muscatine"
-longitude = -90.808767
 latitude = 41.462494
+longitude = -90.808767
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52759"
+

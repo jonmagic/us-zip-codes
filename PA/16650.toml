@@ -1,6 +1,8 @@
-zip_code = "16650"
-state = "PA"
 city = "Hopewell"
 county = "Bedford"
-longitude = -78.279287
 latitude = 40.108984
+longitude = -78.279287
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16650"
+

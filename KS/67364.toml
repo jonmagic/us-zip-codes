@@ -1,6 +1,8 @@
-zip_code = "67364"
-state = "KS"
 city = "Tyro"
 county = "Montgomery"
-longitude = -95.823721
 latitude = 37.036984
+longitude = -95.823721
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67364"
+

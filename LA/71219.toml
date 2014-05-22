@@ -1,6 +1,8 @@
-zip_code = "71219"
-state = "LA"
 city = "Baskin"
 county = "Franklin"
-longitude = -91.68543
 latitude = 32.311261
+longitude = -91.68543
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71219"
+

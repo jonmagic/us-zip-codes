@@ -1,6 +1,8 @@
-zip_code = "74033"
-state = "OK"
 city = "Glenpool"
 county = "Tulsa"
-longitude = -95.998172
 latitude = 36.102858
+longitude = -95.998172
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74033"
+

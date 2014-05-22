@@ -1,6 +1,8 @@
-zip_code = "56024"
-state = "MN"
 city = "Eagle Lake"
 county = "Blue Earth"
-longitude = -93.882127
 latitude = 44.163231
+longitude = -93.882127
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56024"
+

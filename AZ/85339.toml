@@ -1,6 +1,8 @@
-zip_code = "85339"
-state = "AZ"
 city = "Laveen"
 county = "Maricopa"
-longitude = -112.182248
 latitude = 33.335057
+longitude = -112.182248
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85339"
+

@@ -1,6 +1,8 @@
-zip_code = "47460"
-state = "IN"
 city = "Spencer"
 county = "Owen"
-longitude = -86.756423
 latitude = 39.313258
+longitude = -86.756423
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47460"
+

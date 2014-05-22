@@ -1,6 +1,8 @@
-zip_code = "52241"
-state = "IA"
 city = "Coralville"
 county = "Johnson"
-longitude = -91.6332
 latitude = 41.699942
+longitude = -91.6332
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52241"
+

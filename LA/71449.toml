@@ -1,6 +1,8 @@
-zip_code = "71449"
-state = "LA"
 city = "Many"
 county = "Sabine"
-longitude = -93.51155
 latitude = 31.530019
+longitude = -93.51155
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71449"
+

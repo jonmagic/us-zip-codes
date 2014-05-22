@@ -1,6 +1,8 @@
-zip_code = "47941"
-state = "IN"
 city = "Dayton"
 county = "Tippecanoe"
-longitude = -86.763031
 latitude = 40.362781
+longitude = -86.763031
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47941"
+

@@ -1,6 +1,8 @@
-zip_code = "70773"
-state = "LA"
 city = "Rougon"
 county = "Pointe Coupee"
-longitude = -91.415059
 latitude = 30.602606
+longitude = -91.415059
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70773"
+

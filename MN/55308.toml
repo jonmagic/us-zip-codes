@@ -1,6 +1,8 @@
-zip_code = "55308"
-state = "MN"
 city = "Becker"
 county = "Sherburne"
-longitude = -93.842187
 latitude = 45.451864
+longitude = -93.842187
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55308"
+

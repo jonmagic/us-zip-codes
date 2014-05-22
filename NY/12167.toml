@@ -1,6 +1,8 @@
-zip_code = "12167"
-state = "NY"
 city = "Stamford"
 county = "Delaware"
-longitude = -74.61939
 latitude = 42.413508
+longitude = -74.61939
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12167"
+

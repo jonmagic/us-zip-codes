@@ -1,6 +1,8 @@
-zip_code = "02718"
-state = "MA"
 city = "East Taunton"
 county = "Bristol"
-longitude = -71.013148
 latitude = 41.871407
+longitude = -71.013148
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02718"
+

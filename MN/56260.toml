@@ -1,6 +1,8 @@
-zip_code = "56260"
-state = "MN"
 city = "Maynard"
 county = "Chippewa"
-longitude = -95.573816
 latitude = 44.999613
+longitude = -95.573816
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56260"
+

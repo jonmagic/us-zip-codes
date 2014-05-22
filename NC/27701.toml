@@ -1,6 +1,8 @@
-zip_code = "27701"
-state = "NC"
 city = "Durham"
 county = "Durham"
-longitude = -78.875467
 latitude = 36.004307
+longitude = -78.875467
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27701"
+

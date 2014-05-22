@@ -1,6 +1,8 @@
-zip_code = "95494"
-state = "CA"
 city = "Yorkville"
 county = "Mendocino"
-longitude = -123.268378
 latitude = 38.934552
+longitude = -123.268378
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95494"
+

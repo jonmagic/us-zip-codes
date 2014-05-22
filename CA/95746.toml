@@ -1,6 +1,8 @@
-zip_code = "95746"
-state = "CA"
 city = "Granite Bay"
 county = "Placer"
-longitude = -121.183436
 latitude = 38.756614
+longitude = -121.183436
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95746"
+

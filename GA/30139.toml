@@ -1,6 +1,8 @@
-zip_code = "30139"
-state = "GA"
 city = "Fairmount"
 county = "Gordon"
-longitude = -84.743027
 latitude = 34.462493
+longitude = -84.743027
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30139"
+

@@ -1,6 +1,8 @@
-zip_code = "97368"
-state = "OR"
 city = "Otis"
 county = "Lincoln"
-longitude = -123.905622
 latitude = 45.002157
+longitude = -123.905622
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97368"
+

@@ -1,6 +1,8 @@
-zip_code = "75028"
-state = "TX"
 city = "Flower Mound"
 county = "Denton"
-longitude = -97.102543
 latitude = 33.030903
+longitude = -97.102543
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75028"
+

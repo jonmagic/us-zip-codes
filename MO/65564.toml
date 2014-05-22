@@ -1,6 +1,8 @@
-zip_code = "65564"
-state = "MO"
 city = "Solo"
 county = "Texas"
-longitude = -91.962351
 latitude = 37.242824
+longitude = -91.962351
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65564"
+

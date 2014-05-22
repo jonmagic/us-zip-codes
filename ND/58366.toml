@@ -1,6 +1,8 @@
-zip_code = "58366"
-state = "ND"
 city = "Rolette"
 county = "Rolette"
-longitude = -99.878456
 latitude = 48.700886
+longitude = -99.878456
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58366"
+

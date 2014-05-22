@@ -1,6 +1,8 @@
-zip_code = "02359"
-state = "MA"
 city = "Pembroke"
 county = "Plymouth"
-longitude = -70.800778
 latitude = 42.065702
+longitude = -70.800778
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02359"
+

@@ -1,6 +1,8 @@
-zip_code = "06239"
-state = "CT"
 city = "Danielson"
 county = "Windham"
-longitude = -71.874354
 latitude = 41.864901
+longitude = -71.874354
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06239"
+

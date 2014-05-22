@@ -1,6 +1,8 @@
-zip_code = "96713"
-state = "HI"
 city = "Hana"
 county = "Maui"
-longitude = -156.02293
 latitude = 20.725172
+longitude = -156.02293
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96713"
+

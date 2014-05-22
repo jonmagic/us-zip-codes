@@ -1,6 +1,8 @@
-zip_code = "56176"
-state = "MN"
 city = "Trimont"
 county = "Martin"
-longitude = -94.713525
 latitude = 43.783229
+longitude = -94.713525
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56176"
+

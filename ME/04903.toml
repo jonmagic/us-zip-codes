@@ -1,6 +1,8 @@
-zip_code = "04903"
-state = "ME"
 city = "Waterville"
 county = "Kennebec"
-longitude = -69.713178
 latitude = 44.549225
+longitude = -69.713178
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04903"
+

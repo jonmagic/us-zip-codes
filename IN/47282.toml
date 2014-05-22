@@ -1,6 +1,8 @@
-zip_code = "47282"
-state = "IN"
 city = "Vernon"
 county = "Jennings"
-longitude = -85.616595
 latitude = 38.982509
+longitude = -85.616595
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47282"
+

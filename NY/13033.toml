@@ -1,6 +1,8 @@
-zip_code = "13033"
-state = "NY"
 city = "Cato"
 county = "Cayuga"
-longitude = -76.579082
 latitude = 43.185529
+longitude = -76.579082
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13033"
+

@@ -1,6 +1,8 @@
-zip_code = "27504"
-state = "NC"
 city = "Benson"
 county = "Johnston"
-longitude = -78.402967
 latitude = 35.40709
+longitude = -78.402967
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27504"
+

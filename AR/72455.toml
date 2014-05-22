@@ -1,6 +1,8 @@
-zip_code = "72455"
-state = "AR"
 city = "Pocahontas"
 county = "Randolph"
-longitude = -91.084748
 latitude = 36.324042
+longitude = -91.084748
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72455"
+

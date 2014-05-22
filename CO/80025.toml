@@ -1,6 +1,8 @@
-zip_code = "80025"
-state = "CO"
 city = "Eldorado Springs"
 county = "Boulder"
-longitude = -105.287967
 latitude = 39.93242
+longitude = -105.287967
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80025"
+

@@ -1,6 +1,8 @@
-zip_code = "64489"
-state = "MO"
 city = "Stanberry"
 county = "Gentry"
-longitude = -94.539859
 latitude = 40.216886
+longitude = -94.539859
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64489"
+

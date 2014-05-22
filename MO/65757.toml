@@ -1,6 +1,8 @@
-zip_code = "65757"
-state = "MO"
 city = "Strafford"
 county = "Greene"
-longitude = -93.307207
 latitude = 37.310494
+longitude = -93.307207
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65757"
+

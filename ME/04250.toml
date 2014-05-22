@@ -1,6 +1,8 @@
-zip_code = "04250"
-state = "ME"
 city = "Lisbon"
 county = "Androscoggin"
-longitude = -70.101247
 latitude = 44.033026
+longitude = -70.101247
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04250"
+

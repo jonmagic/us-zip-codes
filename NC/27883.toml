@@ -1,6 +1,8 @@
-zip_code = "27883"
-state = "NC"
 city = "Stantonsburg"
 county = "Wilson"
-longitude = -77.805965
 latitude = 35.656386
+longitude = -77.805965
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27883"
+

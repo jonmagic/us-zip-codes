@@ -1,6 +1,8 @@
-zip_code = "35673"
-state = "AL"
 city = "Trinity"
 county = "Morgan"
-longitude = -87.078896
 latitude = 34.591393
+longitude = -87.078896
+state = ""
+state_code_alpha2 = ""
+zip_code = "35673"
+

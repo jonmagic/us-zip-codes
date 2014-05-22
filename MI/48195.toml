@@ -1,6 +1,8 @@
-zip_code = "48195"
-state = "MI"
 city = "Southgate"
 county = "Wayne"
-longitude = -83.285939
 latitude = 42.257801
+longitude = -83.285939
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48195"
+

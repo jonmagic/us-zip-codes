@@ -1,6 +1,8 @@
-zip_code = "96762"
-state = "HI"
 city = "Laie"
 county = "Honolulu"
-longitude = -157.90205
 latitude = 21.61095
+longitude = -157.90205
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96762"
+

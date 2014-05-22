@@ -1,6 +1,8 @@
-zip_code = "35135"
-state = "AL"
 city = "Riverside"
 county = "Saint Clair"
-longitude = -86.221589
 latitude = 33.622079
+longitude = -86.221589
+state = ""
+state_code_alpha2 = ""
+zip_code = "35135"
+

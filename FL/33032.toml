@@ -1,6 +1,8 @@
-zip_code = "33032"
-state = "FL"
 city = "Homestead"
 county = "Miami-Dade"
-longitude = -80.458168
 latitude = 25.558428
+longitude = -80.458168
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33032"
+

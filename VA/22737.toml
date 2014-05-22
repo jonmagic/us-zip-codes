@@ -1,6 +1,8 @@
-zip_code = "22737"
-state = "VA"
 city = "Rixeyville"
 county = "Culpeper"
-longitude = -78.002489
 latitude = 38.588388
+longitude = -78.002489
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22737"
+

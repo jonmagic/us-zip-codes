@@ -1,6 +1,8 @@
-zip_code = "64636"
-state = "MO"
 city = "Coffey"
 county = "Daviess"
-longitude = -93.990293
 latitude = 40.104835
+longitude = -93.990293
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64636"
+

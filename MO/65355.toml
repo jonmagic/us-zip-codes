@@ -1,6 +1,8 @@
-zip_code = "65355"
-state = "MO"
 city = "Warsaw"
 county = "Benton"
-longitude = -93.327381
 latitude = 38.31555
+longitude = -93.327381
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65355"
+

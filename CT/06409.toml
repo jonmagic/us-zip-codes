@@ -1,6 +1,8 @@
-zip_code = "06409"
-state = "CT"
 city = "Centerbrook"
 county = "Middlesex"
-longitude = -72.41338
 latitude = 41.349098
+longitude = -72.41338
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06409"
+

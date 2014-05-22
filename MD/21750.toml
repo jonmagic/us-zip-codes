@@ -1,6 +1,8 @@
-zip_code = "21750"
-state = "MD"
 city = "Hancock"
 county = "Washington"
-longitude = -78.050204
 latitude = 39.58895
+longitude = -78.050204
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21750"
+

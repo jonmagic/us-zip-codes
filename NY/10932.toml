@@ -1,6 +1,8 @@
-zip_code = "10932"
-state = "NY"
 city = "Howells"
 county = "Orange"
-longitude = -74.484249
 latitude = 41.485227
+longitude = -74.484249
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10932"
+

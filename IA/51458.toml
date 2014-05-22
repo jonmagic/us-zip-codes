@@ -1,6 +1,8 @@
-zip_code = "51458"
-state = "IA"
 city = "Odebolt"
 county = "Sac"
-longitude = -95.100688
 latitude = 42.319844
+longitude = -95.100688
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51458"
+

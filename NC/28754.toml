@@ -1,6 +1,8 @@
-zip_code = "28754"
-state = "NC"
 city = "Mars Hill"
 county = "Madison"
-longitude = -82.516228
 latitude = 35.879456
+longitude = -82.516228
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28754"
+

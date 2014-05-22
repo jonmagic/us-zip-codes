@@ -1,6 +1,8 @@
-zip_code = "93652"
-state = "CA"
 city = "Raisin"
 county = "Fresno"
-longitude = -119.902728
 latitude = 36.591897
+longitude = -119.902728
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93652"
+

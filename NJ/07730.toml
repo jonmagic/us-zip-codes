@@ -1,6 +1,8 @@
-zip_code = "07730"
-state = "NJ"
 city = "Hazlet"
 county = "Monmouth"
-longitude = -74.176036
 latitude = 40.423057
+longitude = -74.176036
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07730"
+

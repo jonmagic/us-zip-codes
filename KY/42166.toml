@@ -1,6 +1,8 @@
-zip_code = "42166"
-state = "KY"
 city = "Summer Shade"
 county = "Metcalfe"
-longitude = -85.660577
 latitude = 36.956935
+longitude = -85.660577
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42166"
+

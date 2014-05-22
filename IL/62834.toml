@@ -1,6 +1,8 @@
-zip_code = "62834"
-state = "IL"
 city = "Emma"
 county = "White"
-longitude = -88.120182
 latitude = 37.97622
+longitude = -88.120182
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62834"
+

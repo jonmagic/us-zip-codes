@@ -1,6 +1,8 @@
-zip_code = "30555"
-state = "GA"
 city = "Mc Caysville"
 county = "Fannin"
-longitude = -84.403709
 latitude = 34.936986
+longitude = -84.403709
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30555"
+

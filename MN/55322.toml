@@ -1,6 +1,8 @@
-zip_code = "55322"
-state = "MN"
 city = "Cologne"
 county = "Carver"
-longitude = -93.787041
 latitude = 44.768262
+longitude = -93.787041
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55322"
+

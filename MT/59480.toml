@@ -1,6 +1,8 @@
-zip_code = "59480"
-state = "MT"
 city = "Stockett"
 county = "Cascade"
-longitude = -111.083851
 latitude = 47.25466
+longitude = -111.083851
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59480"
+

@@ -1,6 +1,8 @@
-zip_code = "74042"
-state = "OK"
 city = "Lenapah"
 county = "Nowata"
-longitude = -95.629628
 latitude = 36.922429
+longitude = -95.629628
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74042"
+

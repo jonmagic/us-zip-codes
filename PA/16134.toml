@@ -1,6 +1,8 @@
-zip_code = "16134"
-state = "PA"
 city = "Jamestown"
 county = "Mercer"
-longitude = -80.449185
 latitude = 41.456649
+longitude = -80.449185
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16134"
+

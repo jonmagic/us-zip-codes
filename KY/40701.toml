@@ -1,6 +1,8 @@
-zip_code = "40701"
-state = "KY"
 city = "Corbin"
 county = "Whitley"
-longitude = -84.184688
 latitude = 36.854371
+longitude = -84.184688
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40701"
+

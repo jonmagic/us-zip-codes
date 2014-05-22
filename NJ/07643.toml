@@ -1,6 +1,8 @@
-zip_code = "07643"
-state = "NJ"
 city = "Little Ferry"
 county = "Bergen"
-longitude = -74.076029
 latitude = 40.925361
+longitude = -74.076029
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07643"
+

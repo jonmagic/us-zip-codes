@@ -1,6 +1,8 @@
-zip_code = "03064"
-state = "NH"
 city = "Nashua"
 county = "Hillsborough"
-longitude = -71.628611
 latitude = 42.774237
+longitude = -71.628611
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03064"
+

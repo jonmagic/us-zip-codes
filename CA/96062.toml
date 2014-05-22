@@ -1,6 +1,8 @@
-zip_code = "96062"
-state = "CA"
 city = "Millville"
 county = "Shasta"
-longitude = -122.067214
 latitude = 40.570081
+longitude = -122.067214
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96062"
+

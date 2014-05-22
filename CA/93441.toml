@@ -1,6 +1,8 @@
-zip_code = "93441"
-state = "CA"
 city = "Los Olivos"
 county = "Santa Barbara"
-longitude = -120.068487
 latitude = 34.693012
+longitude = -120.068487
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93441"
+

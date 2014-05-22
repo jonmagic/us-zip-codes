@@ -1,6 +1,8 @@
-zip_code = "63433"
-state = "MO"
 city = "Ashburn"
 county = "Pike"
-longitude = -91.184425
 latitude = 39.56103
+longitude = -91.184425
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63433"
+

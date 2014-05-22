@@ -1,6 +1,8 @@
-zip_code = "51333"
-state = "IA"
 city = "Dickens"
 county = "Clay"
-longitude = -94.983739
 latitude = 43.135131
+longitude = -94.983739
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51333"
+

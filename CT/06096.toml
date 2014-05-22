@@ -1,6 +1,8 @@
-zip_code = "06096"
-state = "CT"
 city = "Windsor Locks"
 county = "Hartford"
-longitude = -72.660245
 latitude = 41.933846
+longitude = -72.660245
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06096"
+

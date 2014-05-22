@@ -1,6 +1,8 @@
-zip_code = "53965"
-state = "WI"
 city = "Wisconsin Dells"
 county = "Columbia"
-longitude = -89.44168
 latitude = 43.568982
+longitude = -89.44168
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53965"
+

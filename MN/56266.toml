@@ -1,6 +1,8 @@
-zip_code = "56266"
-state = "MN"
 city = "Morgan"
 county = "Redwood"
-longitude = -94.976823
 latitude = 44.404589
+longitude = -94.976823
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56266"
+

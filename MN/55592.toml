@@ -1,6 +1,8 @@
-zip_code = "55592"
-state = "MN"
 city = "Maple Plain"
 county = "Wright"
-longitude = -93.888099
 latitude = 45.200875
+longitude = -93.888099
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55592"
+

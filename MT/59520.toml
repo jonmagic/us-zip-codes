@@ -1,6 +1,8 @@
-zip_code = "59520"
-state = "MT"
 city = "Big Sandy"
 county = "Chouteau"
-longitude = -110.311201
 latitude = 48.17641
+longitude = -110.311201
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59520"
+

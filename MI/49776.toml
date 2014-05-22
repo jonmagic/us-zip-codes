@@ -1,6 +1,8 @@
-zip_code = "49776"
-state = "MI"
 city = "Posen"
 county = "Presque Isle"
-longitude = -83.734615
 latitude = 45.278913
+longitude = -83.734615
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49776"
+

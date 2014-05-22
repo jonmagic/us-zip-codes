@@ -1,6 +1,8 @@
-zip_code = "49339"
-state = "MI"
 city = "Pierson"
 county = "Montcalm"
-longitude = -85.473124
 latitude = 43.368549
+longitude = -85.473124
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49339"
+

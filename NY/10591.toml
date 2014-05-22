@@ -1,6 +1,8 @@
-zip_code = "10591"
-state = "NY"
 city = "Tarrytown"
 county = "Westchester"
-longitude = -73.844034
 latitude = 41.089703
+longitude = -73.844034
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10591"
+

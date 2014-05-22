@@ -1,6 +1,8 @@
-zip_code = "12025"
-state = "NY"
 city = "Broadalbin"
 county = "Fulton"
-longitude = -74.160753
 latitude = 43.082793
+longitude = -74.160753
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12025"
+

@@ -1,6 +1,8 @@
-zip_code = "07058"
-state = "NJ"
 city = "Pine Brook"
 county = "Morris"
-longitude = -74.340144
 latitude = 40.871014
+longitude = -74.340144
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07058"
+

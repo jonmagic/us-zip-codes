@@ -1,6 +1,8 @@
-zip_code = "61064"
-state = "IL"
 city = "Polo"
 county = "Ogle"
-longitude = -89.323812
 latitude = 41.989578
+longitude = -89.323812
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61064"
+

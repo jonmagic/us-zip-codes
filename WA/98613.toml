@@ -1,6 +1,8 @@
-zip_code = "98613"
-state = "WA"
 city = "Centerville"
 county = "Klickitat"
-longitude = -120.993902
 latitude = 45.738205
+longitude = -120.993902
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98613"
+

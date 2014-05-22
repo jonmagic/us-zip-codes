@@ -1,6 +1,8 @@
-zip_code = "10519"
-state = "NY"
 city = "Croton Falls"
 county = "Westchester"
-longitude = -73.661014
 latitude = 41.347727
+longitude = -73.661014
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10519"
+

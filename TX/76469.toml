@@ -1,6 +1,8 @@
-zip_code = "76469"
-state = "TX"
 city = "Putnam"
 county = "Callahan"
-longitude = -99.195668
 latitude = 32.374033
+longitude = -99.195668
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76469"
+

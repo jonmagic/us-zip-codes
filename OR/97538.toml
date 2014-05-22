@@ -1,6 +1,8 @@
-zip_code = "97538"
-state = "OR"
 city = "Selma"
 county = "Josephine"
-longitude = -123.551451
 latitude = 42.265435
+longitude = -123.551451
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97538"
+

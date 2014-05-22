@@ -1,6 +1,8 @@
-zip_code = "03282"
-state = "NH"
 city = "Wentworth"
 county = "Grafton"
-longitude = -71.840883
 latitude = 43.967542
+longitude = -71.840883
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03282"
+

@@ -1,6 +1,8 @@
-zip_code = "38552"
-state = "TN"
 city = "Chestnut Mound"
 county = "Smith"
-longitude = -85.825952
 latitude = 36.212422
+longitude = -85.825952
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38552"
+

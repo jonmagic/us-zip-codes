@@ -1,6 +1,8 @@
-zip_code = "32157"
-state = "FL"
 city = "Lake Como"
 county = "Putnam"
-longitude = -81.591447
 latitude = 29.45817
+longitude = -81.591447
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32157"
+

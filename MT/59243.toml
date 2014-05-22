@@ -1,6 +1,8 @@
-zip_code = "59243"
-state = "MT"
 city = "Lambert"
 county = "Richland"
-longitude = -104.638367
 latitude = 47.752074
+longitude = -104.638367
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59243"
+

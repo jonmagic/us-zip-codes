@@ -1,6 +1,8 @@
-zip_code = "35769"
-state = "AL"
 city = "Scottsboro"
 county = "Jackson"
-longitude = -86.056162
 latitude = 34.617951
+longitude = -86.056162
+state = ""
+state_code_alpha2 = ""
+zip_code = "35769"
+

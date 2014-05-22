@@ -1,6 +1,8 @@
-zip_code = "41004"
-state = "KY"
 city = "Brooksville"
 county = "Bracken"
-longitude = -84.093504
 latitude = 38.638654
+longitude = -84.093504
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41004"
+

@@ -1,6 +1,8 @@
-zip_code = "57196"
-state = "SD"
 city = "Sioux Falls"
 county = "Minnehaha"
-longitude = -96.79134
 latitude = 43.674582
+longitude = -96.79134
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57196"
+

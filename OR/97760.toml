@@ -1,6 +1,8 @@
-zip_code = "97760"
-state = "OR"
 city = "Terrebonne"
 county = "Deschutes"
-longitude = -121.245224
 latitude = 44.349792
+longitude = -121.245224
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97760"
+

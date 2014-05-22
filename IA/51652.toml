@@ -1,6 +1,8 @@
-zip_code = "51652"
-state = "IA"
 city = "Sidney"
 county = "Fremont"
-longitude = -95.626355
 latitude = 40.77152
+longitude = -95.626355
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51652"
+

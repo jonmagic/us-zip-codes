@@ -1,6 +1,8 @@
-zip_code = "44803"
-state = "OH"
 city = "Amsden"
 county = "Seneca"
-longitude = -82.910552
 latitude = 41.037511
+longitude = -82.910552
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44803"
+

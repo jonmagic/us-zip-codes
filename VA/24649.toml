@@ -1,6 +1,8 @@
-zip_code = "24649"
-state = "VA"
 city = "Swords Creek"
 county = "Russell"
-longitude = -81.9271
 latitude = 37.045445
+longitude = -81.9271
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24649"
+

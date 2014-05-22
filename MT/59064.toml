@@ -1,6 +1,8 @@
-zip_code = "59064"
-state = "MT"
 city = "Pompeys Pillar"
 county = "Yellowstone"
-longitude = -107.938592
 latitude = 45.964417
+longitude = -107.938592
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59064"
+

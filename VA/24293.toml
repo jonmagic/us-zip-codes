@@ -1,6 +1,8 @@
-zip_code = "24293"
-state = "VA"
 city = "Wise"
 county = "Wise"
-longitude = -82.570697
 latitude = 37.002843
+longitude = -82.570697
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24293"
+

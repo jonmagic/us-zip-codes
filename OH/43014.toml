@@ -1,6 +1,8 @@
-zip_code = "43014"
-state = "OH"
 city = "Danville"
 county = "Knox"
-longitude = -82.270253
 latitude = 40.417167
+longitude = -82.270253
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43014"
+

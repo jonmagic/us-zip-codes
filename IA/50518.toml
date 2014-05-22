@@ -1,6 +1,8 @@
-zip_code = "50518"
-state = "IA"
 city = "Barnum"
 county = "Webster"
-longitude = -94.369181
 latitude = 42.552043
+longitude = -94.369181
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50518"
+

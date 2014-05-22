@@ -1,6 +1,8 @@
-zip_code = "62954"
-state = "IL"
 city = "Junction"
 county = "Gallatin"
-longitude = -88.260046
 latitude = 37.695153
+longitude = -88.260046
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62954"
+

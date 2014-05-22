@@ -1,6 +1,8 @@
-zip_code = "54858"
-state = "WI"
 city = "Milltown"
 county = "Polk"
-longitude = -92.461712
 latitude = 45.51583
+longitude = -92.461712
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54858"
+

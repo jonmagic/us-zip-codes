@@ -1,6 +1,8 @@
-zip_code = "64024"
-state = "MO"
 city = "Excelsior Springs"
 county = "Clay"
-longitude = -94.274632
 latitude = 39.332601
+longitude = -94.274632
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64024"
+

@@ -1,6 +1,8 @@
-zip_code = "77864"
-state = "TX"
 city = "Madisonville"
 county = "Madison"
-longitude = -95.890751
 latitude = 30.970828
+longitude = -95.890751
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77864"
+

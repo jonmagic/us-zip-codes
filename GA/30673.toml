@@ -1,6 +1,8 @@
-zip_code = "30673"
-state = "GA"
 city = "Washington"
 county = "Wilkes"
-longitude = -82.710833
 latitude = 33.73149
+longitude = -82.710833
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30673"
+

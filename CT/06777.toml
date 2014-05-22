@@ -1,6 +1,8 @@
-zip_code = "06777"
-state = "CT"
 city = "New Preston Marble Dale"
 county = "Litchfield"
-longitude = -73.310346
 latitude = 41.690297
+longitude = -73.310346
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06777"
+

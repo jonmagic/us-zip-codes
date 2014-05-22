@@ -1,6 +1,8 @@
-zip_code = "44140"
-state = "OH"
 city = "Bay Village"
 county = "Cuyahoga"
-longitude = -81.921513
 latitude = 41.490967
+longitude = -81.921513
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44140"
+

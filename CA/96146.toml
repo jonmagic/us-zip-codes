@@ -1,6 +1,8 @@
-zip_code = "96146"
-state = "CA"
 city = "Olympic Valley"
 county = "Placer"
-longitude = -120.19544
 latitude = 39.175186
+longitude = -120.19544
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96146"
+

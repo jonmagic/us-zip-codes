@@ -1,6 +1,8 @@
-zip_code = "77584"
-state = "TX"
 city = "Pearland"
 county = "Brazoria"
-longitude = -95.33232
 latitude = 29.54017
+longitude = -95.33232
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77584"
+

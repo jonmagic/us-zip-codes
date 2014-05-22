@@ -1,6 +1,8 @@
-zip_code = "92262"
-state = "CA"
 city = "Palm Springs"
 county = "Riverside"
-longitude = -116.527996
 latitude = 33.842567
+longitude = -116.527996
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92262"
+

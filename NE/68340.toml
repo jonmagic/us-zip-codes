@@ -1,6 +1,8 @@
-zip_code = "68340"
-state = "NE"
 city = "Deshler"
 county = "Thayer"
-longitude = -97.723461
 latitude = 40.139448
+longitude = -97.723461
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68340"
+

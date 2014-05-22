@@ -1,6 +1,8 @@
-zip_code = "48386"
-state = "MI"
 city = "White Lake"
 county = "Oakland"
-longitude = -83.478714
 latitude = 42.657843
+longitude = -83.478714
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48386"
+

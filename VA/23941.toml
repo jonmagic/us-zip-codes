@@ -1,6 +1,8 @@
-zip_code = "23941"
-state = "VA"
 city = "Fort Mitchell"
 county = "Lunenburg"
-longitude = -78.248333
 latitude = 36.948129
+longitude = -78.248333
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23941"
+

@@ -1,6 +1,8 @@
-zip_code = "88036"
-state = "NM"
 city = "Fort Bayard"
 county = "Grant"
-longitude = -108.007527
 latitude = 32.757427
+longitude = -108.007527
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88036"
+

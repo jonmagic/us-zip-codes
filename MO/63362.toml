@@ -1,6 +1,8 @@
-zip_code = "63362"
-state = "MO"
 city = "Moscow Mills"
 county = "Lincoln"
-longitude = -90.913818
 latitude = 38.948248
+longitude = -90.913818
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63362"
+

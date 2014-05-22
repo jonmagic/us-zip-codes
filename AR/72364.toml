@@ -1,6 +1,8 @@
-zip_code = "72364"
-state = "AR"
 city = "Marion"
 county = "Crittenden"
-longitude = -90.294424
 latitude = 35.174997
+longitude = -90.294424
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72364"
+

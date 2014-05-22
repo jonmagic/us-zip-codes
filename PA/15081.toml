@@ -1,6 +1,8 @@
-zip_code = "15081"
-state = "PA"
 city = "South Heights"
 county = "Beaver"
-longitude = -80.238332
 latitude = 40.576267
+longitude = -80.238332
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15081"
+

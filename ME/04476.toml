@@ -1,6 +1,8 @@
-zip_code = "04476"
-state = "ME"
 city = "Penobscot"
 county = "Hancock"
-longitude = -68.721716
 latitude = 44.433911
+longitude = -68.721716
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04476"
+

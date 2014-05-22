@@ -1,6 +1,8 @@
-zip_code = "44429"
-state = "OH"
 city = "Lake Milton"
 county = "Mahoning"
-longitude = -80.973988
 latitude = 41.097587
+longitude = -80.973988
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44429"
+

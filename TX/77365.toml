@@ -1,6 +1,8 @@
-zip_code = "77365"
-state = "TX"
 city = "Porter"
 county = "Montgomery"
-longitude = -95.400036
 latitude = 30.21308
+longitude = -95.400036
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77365"
+

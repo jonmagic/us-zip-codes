@@ -1,6 +1,8 @@
-zip_code = "12983"
-state = "NY"
 city = "Saranac Lake"
 county = "Franklin"
-longitude = -74.272104
 latitude = 44.583429
+longitude = -74.272104
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12983"
+

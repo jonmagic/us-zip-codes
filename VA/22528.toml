@@ -1,6 +1,8 @@
-zip_code = "22528"
-state = "VA"
 city = "Nuttsville"
 county = "Lancaster"
-longitude = -76.409946
 latitude = 37.713175
+longitude = -76.409946
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22528"
+

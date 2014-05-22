@@ -1,6 +1,8 @@
-zip_code = "07656"
-state = "NJ"
 city = "Park Ridge"
 county = "Bergen"
-longitude = -74.042948
 latitude = 41.032868
+longitude = -74.042948
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07656"
+

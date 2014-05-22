@@ -1,6 +1,8 @@
-zip_code = "25262"
-state = "WV"
 city = "Millwood"
 county = "Jackson"
-longitude = -81.835048
 latitude = 38.905595
+longitude = -81.835048
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25262"
+

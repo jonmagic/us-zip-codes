@@ -1,6 +1,8 @@
-zip_code = "32617"
-state = "FL"
 city = "Anthony"
 county = "Marion"
-longitude = -82.082367
 latitude = 29.337795
+longitude = -82.082367
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32617"
+

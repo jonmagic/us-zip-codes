@@ -1,6 +1,8 @@
-zip_code = "65260"
-state = "MO"
 city = "Jacksonville"
 county = "Randolph"
-longitude = -92.361437
 latitude = 39.60614
+longitude = -92.361437
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65260"
+

@@ -1,6 +1,8 @@
-zip_code = "50263"
-state = "IA"
 city = "Waukee"
 county = "Dallas"
-longitude = -93.875317
 latitude = 41.59896
+longitude = -93.875317
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50263"
+

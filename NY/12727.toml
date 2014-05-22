@@ -1,6 +1,8 @@
-zip_code = "12727"
-state = "NY"
 city = "Cochecton Center"
 county = "Sullivan"
-longitude = -74.755373
 latitude = 41.719016
+longitude = -74.755373
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12727"
+

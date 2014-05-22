@@ -1,6 +1,8 @@
-zip_code = "12056"
-state = "NY"
 city = "Duanesburg"
 county = "Schenectady"
-longitude = -74.085963
 latitude = 42.770065
+longitude = -74.085963
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12056"
+

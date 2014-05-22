@@ -1,6 +1,8 @@
-zip_code = "31805"
-state = "GA"
 city = "Cusseta"
 county = "Chattahoochee"
-longitude = -84.736706
 latitude = 32.292547
+longitude = -84.736706
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31805"
+

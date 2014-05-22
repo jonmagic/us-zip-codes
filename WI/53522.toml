@@ -1,6 +1,8 @@
-zip_code = "53522"
-state = "WI"
 city = "Browntown"
 county = "Green"
-longitude = -89.778793
 latitude = 42.563199
+longitude = -89.778793
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53522"
+

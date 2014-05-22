@@ -1,6 +1,8 @@
-zip_code = "53017"
-state = "WI"
 city = "Colgate"
 county = "Washington"
-longitude = -88.241501
 latitude = 43.209445
+longitude = -88.241501
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53017"
+

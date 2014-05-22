@@ -1,6 +1,8 @@
-zip_code = "08085"
-state = "NJ"
 city = "Swedesboro"
 county = "Gloucester"
-longitude = -75.318049
 latitude = 39.75274
+longitude = -75.318049
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08085"
+

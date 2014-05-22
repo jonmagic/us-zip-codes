@@ -1,6 +1,8 @@
-zip_code = "56744"
-state = "MN"
 city = "Oslo"
 county = "Marshall"
-longitude = -97.130755
 latitude = 48.19941
+longitude = -97.130755
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56744"
+

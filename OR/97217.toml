@@ -1,6 +1,8 @@
-zip_code = "97217"
-state = "OR"
 city = "Portland"
 county = "Multnomah"
-longitude = -122.704308
 latitude = 45.594589
+longitude = -122.704308
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97217"
+

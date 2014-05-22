@@ -1,6 +1,8 @@
-zip_code = "05822"
-state = "VT"
 city = "Barton"
 county = "Orleans"
-longitude = -72.199084
 latitude = 44.73663
+longitude = -72.199084
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05822"
+

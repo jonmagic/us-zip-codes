@@ -1,6 +1,8 @@
-zip_code = "06241"
-state = "CT"
 city = "Dayville"
 county = "Windham"
-longitude = -71.858826
 latitude = 41.854975
+longitude = -71.858826
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06241"
+

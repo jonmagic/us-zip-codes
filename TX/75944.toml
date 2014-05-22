@@ -1,6 +1,8 @@
-zip_code = "75944"
-state = "TX"
 city = "Etoile"
 county = "Nacogdoches"
-longitude = -94.639022
 latitude = 31.534162
+longitude = -94.639022
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75944"
+

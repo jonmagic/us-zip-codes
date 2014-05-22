@@ -1,6 +1,8 @@
-zip_code = "74031"
-state = "OK"
 city = "Foyil"
 county = "Rogers"
-longitude = -95.571646
 latitude = 36.336457
+longitude = -95.571646
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74031"
+

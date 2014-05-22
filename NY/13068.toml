@@ -1,6 +1,8 @@
-zip_code = "13068"
-state = "NY"
 city = "Freeville"
 county = "Tompkins"
-longitude = -76.372864
 latitude = 42.49653
+longitude = -76.372864
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13068"
+

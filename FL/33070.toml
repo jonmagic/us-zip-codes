@@ -1,6 +1,8 @@
-zip_code = "33070"
-state = "FL"
 city = "Tavernier"
 county = "Monroe"
-longitude = -80.713465
 latitude = 24.925108
+longitude = -80.713465
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33070"
+

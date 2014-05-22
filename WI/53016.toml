@@ -1,6 +1,8 @@
-zip_code = "53016"
-state = "WI"
 city = "Clyman"
 county = "Dodge"
-longitude = -88.720642
 latitude = 43.31546
+longitude = -88.720642
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53016"
+

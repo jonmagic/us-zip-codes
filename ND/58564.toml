@@ -1,6 +1,8 @@
-zip_code = "58564"
-state = "ND"
 city = "Raleigh"
 county = "Grant"
-longitude = -101.372162
 latitude = 46.267125
+longitude = -101.372162
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58564"
+

@@ -1,6 +1,8 @@
-zip_code = "40977"
-state = "KY"
 city = "Pineville"
 county = "Bell"
-longitude = -83.766776
 latitude = 36.715863
+longitude = -83.766776
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40977"
+

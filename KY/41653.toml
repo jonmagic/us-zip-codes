@@ -1,6 +1,8 @@
-zip_code = "41653"
-state = "KY"
 city = "Prestonsburg"
 county = "Floyd"
-longitude = -82.771139
 latitude = 37.536748
+longitude = -82.771139
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41653"
+

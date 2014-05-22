@@ -1,6 +1,8 @@
-zip_code = "80402"
-state = "CO"
 city = "Golden"
 county = "Jefferson"
-longitude = -105.223945
 latitude = 39.522014
+longitude = -105.223945
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80402"
+

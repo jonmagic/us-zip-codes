@@ -1,6 +1,8 @@
-zip_code = "62425"
-state = "IL"
 city = "Dundas"
 county = "Richland"
-longitude = -88.090524
 latitude = 38.819798
+longitude = -88.090524
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62425"
+

@@ -1,6 +1,8 @@
-zip_code = "61830"
-state = "IL"
 city = "Cisco"
 county = "Piatt"
-longitude = -88.69568
 latitude = 40.028868
+longitude = -88.69568
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61830"
+

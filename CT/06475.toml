@@ -1,6 +1,8 @@
-zip_code = "06475"
-state = "CT"
 city = "Old Saybrook"
 county = "Middlesex"
-longitude = -72.389129
 latitude = 41.300448
+longitude = -72.389129
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06475"
+

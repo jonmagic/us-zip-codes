@@ -1,6 +1,8 @@
-zip_code = "26674"
-state = "WV"
 city = "Jodie"
 county = "Fayette"
-longitude = -81.185153
 latitude = 38.20125
+longitude = -81.185153
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26674"
+

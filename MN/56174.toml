@@ -1,6 +1,8 @@
-zip_code = "56174"
-state = "MN"
 city = "Storden"
 county = "Cottonwood"
-longitude = -95.319366
 latitude = 44.039624
+longitude = -95.319366
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56174"
+

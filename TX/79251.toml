@@ -1,6 +1,8 @@
-zip_code = "79251"
-state = "TX"
 city = "Quail"
 county = "Collingsworth"
-longitude = -100.270689
 latitude = 34.964812
+longitude = -100.270689
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79251"
+

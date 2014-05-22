@@ -1,6 +1,8 @@
-zip_code = "46393"
-state = "IN"
 city = "Wheeler"
 county = "Porter"
-longitude = -87.179177
 latitude = 41.511578
+longitude = -87.179177
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46393"
+

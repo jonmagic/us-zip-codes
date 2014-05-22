@@ -1,6 +1,8 @@
-zip_code = "46915"
-state = "IN"
 city = "Burlington"
 county = "Carroll"
-longitude = -86.394248
 latitude = 40.495181
+longitude = -86.394248
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46915"
+

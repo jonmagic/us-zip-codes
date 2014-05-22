@@ -1,6 +1,8 @@
-zip_code = "10590"
-state = "NY"
 city = "South Salem"
 county = "Westchester"
-longitude = -73.542714
 latitude = 41.254331
+longitude = -73.542714
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10590"
+

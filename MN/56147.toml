@@ -1,6 +1,8 @@
-zip_code = "56147"
-state = "MN"
 city = "Kenneth"
 county = "Rock"
-longitude = -96.252794
 latitude = 43.674883
+longitude = -96.252794
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56147"
+

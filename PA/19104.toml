@@ -1,6 +1,8 @@
-zip_code = "19104"
-state = "PA"
 city = "Philadelphia"
 county = "Philadelphia"
-longitude = -75.19668
 latitude = 39.960912
+longitude = -75.19668
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19104"
+

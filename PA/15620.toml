@@ -1,6 +1,8 @@
-zip_code = "15620"
-state = "PA"
 city = "Bradenville"
 county = "Westmoreland"
-longitude = -79.343421
 latitude = 40.323845
+longitude = -79.343421
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15620"
+

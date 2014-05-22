@@ -1,6 +1,8 @@
-zip_code = "59043"
-state = "MT"
 city = "Lame Deer"
 county = "Rosebud"
-longitude = -106.678901
 latitude = 45.620185
+longitude = -106.678901
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59043"
+

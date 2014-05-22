@@ -1,6 +1,8 @@
-zip_code = "47335"
-state = "IN"
 city = "Dublin"
 county = "Wayne"
-longitude = -85.204359
 latitude = 39.812688
+longitude = -85.204359
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47335"
+

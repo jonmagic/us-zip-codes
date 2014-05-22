@@ -1,6 +1,8 @@
-zip_code = "44487"
-state = "OH"
 city = "Warren"
 county = "Trumbull"
-longitude = -80.761269
 latitude = 41.317424
+longitude = -80.761269
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44487"
+

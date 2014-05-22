@@ -1,6 +1,8 @@
-zip_code = "16844"
-state = "PA"
 city = "Julian"
 county = "Centre"
-longitude = -77.750812
 latitude = 40.901934
+longitude = -77.750812
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16844"
+

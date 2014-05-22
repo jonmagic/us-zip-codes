@@ -1,6 +1,8 @@
-zip_code = "03043"
-state = "NH"
 city = "Francestown"
 county = "Hillsborough"
-longitude = -71.816505
 latitude = 42.916233
+longitude = -71.816505
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03043"
+

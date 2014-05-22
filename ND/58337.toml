@@ -1,6 +1,8 @@
-zip_code = "58337"
-state = "ND"
 city = "Hamberg"
 county = "Wells"
-longitude = -99.667737
 latitude = 47.587372
+longitude = -99.667737
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58337"
+

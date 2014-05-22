@@ -1,6 +1,8 @@
-zip_code = "43944"
-state = "OH"
 city = "Richmond"
 county = "Jefferson"
-longitude = -80.791768
 latitude = 40.441964
+longitude = -80.791768
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43944"
+

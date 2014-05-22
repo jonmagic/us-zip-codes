@@ -1,6 +1,8 @@
-zip_code = "83281"
-state = "ID"
 city = "Swanlake"
 county = "Bannock"
-longitude = -111.978055
 latitude = 42.319496
+longitude = -111.978055
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83281"
+

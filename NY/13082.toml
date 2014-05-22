@@ -1,6 +1,8 @@
-zip_code = "13082"
-state = "NY"
 city = "Kirkville"
 county = "Onondaga"
-longitude = -75.961597
 latitude = 43.103886
+longitude = -75.961597
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13082"
+

@@ -1,6 +1,8 @@
-zip_code = "42086"
-state = "KY"
 city = "West Paducah"
 county = "Mccracken"
-longitude = -88.810261
 latitude = 37.082918
+longitude = -88.810261
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42086"
+

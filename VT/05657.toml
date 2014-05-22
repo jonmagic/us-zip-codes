@@ -1,6 +1,8 @@
-zip_code = "05657"
-state = "VT"
 city = "Lake Elmore"
 county = "Lamoille"
-longitude = -72.647519
 latitude = 44.599905
+longitude = -72.647519
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05657"
+

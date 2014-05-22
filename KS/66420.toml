@@ -1,6 +1,8 @@
-zip_code = "66420"
-state = "KS"
 city = "Dover"
 county = "Shawnee"
-longitude = -95.917186
 latitude = 38.964532
+longitude = -95.917186
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66420"
+

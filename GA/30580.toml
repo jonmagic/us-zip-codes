@@ -1,6 +1,8 @@
-zip_code = "30580"
-state = "GA"
 city = "Turnerville"
 county = "Habersham"
-longitude = -83.43578
 latitude = 34.676584
+longitude = -83.43578
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30580"
+

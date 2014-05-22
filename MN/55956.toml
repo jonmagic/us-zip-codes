@@ -1,6 +1,8 @@
-zip_code = "55956"
-state = "MN"
 city = "Mazeppa"
 county = "Wabasha"
-longitude = -92.513947
 latitude = 44.241752
+longitude = -92.513947
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55956"
+

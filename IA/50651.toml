@@ -1,6 +1,8 @@
-zip_code = "50651"
-state = "IA"
 city = "La Porte City"
 county = "Black Hawk"
-longitude = -92.206097
 latitude = 42.369559
+longitude = -92.206097
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50651"
+

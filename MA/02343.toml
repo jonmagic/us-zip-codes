@@ -1,6 +1,8 @@
-zip_code = "02343"
-state = "MA"
 city = "Holbrook"
 county = "Norfolk"
-longitude = -71.00289
 latitude = 42.144424
+longitude = -71.00289
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02343"
+

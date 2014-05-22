@@ -1,6 +1,8 @@
-zip_code = "29114"
-state = "SC"
 city = "Olanta"
 county = "Florence"
-longitude = -79.903726
 latitude = 33.937811
+longitude = -79.903726
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29114"
+

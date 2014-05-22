@@ -1,6 +1,8 @@
-zip_code = "59273"
-state = "MT"
 city = "Vandalia"
 county = "Valley"
-longitude = -106.609665
 latitude = 48.330241
+longitude = -106.609665
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59273"
+

@@ -1,6 +1,8 @@
-zip_code = "48115"
-state = "MI"
 city = "Bridgewater"
 county = "Washtenaw"
-longitude = -83.911693
 latitude = 42.160216
+longitude = -83.911693
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48115"
+

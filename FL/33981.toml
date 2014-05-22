@@ -1,6 +1,8 @@
-zip_code = "33981"
-state = "FL"
 city = "Port Charlotte"
 county = "Charlotte"
-longitude = -82.232398
 latitude = 26.93457
+longitude = -82.232398
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33981"
+

@@ -1,6 +1,8 @@
-zip_code = "26033"
-state = "WV"
 city = "Cameron"
 county = "Marshall"
-longitude = -80.555275
 latitude = 39.872322
+longitude = -80.555275
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26033"
+

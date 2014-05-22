@@ -1,6 +1,8 @@
-zip_code = "36549"
-state = "AL"
 city = "Lillian"
 county = "Baldwin"
-longitude = -87.458796
 latitude = 30.39736
+longitude = -87.458796
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36549"
+

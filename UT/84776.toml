@@ -1,6 +1,8 @@
-zip_code = "84776"
-state = "UT"
 city = "Tropic"
 county = "Garfield"
-longitude = -112.083565
 latitude = 37.626146
+longitude = -112.083565
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84776"
+

@@ -1,6 +1,8 @@
-zip_code = "87004"
-state = "NM"
 city = "Bernalillo"
 county = "Sandoval"
-longitude = -106.742896
 latitude = 35.629445
+longitude = -106.742896
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87004"
+

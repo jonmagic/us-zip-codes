@@ -1,6 +1,8 @@
-zip_code = "17082"
-state = "PA"
 city = "Port Royal"
 county = "Juniata"
-longitude = -77.395272
 latitude = 40.549581
+longitude = -77.395272
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17082"
+

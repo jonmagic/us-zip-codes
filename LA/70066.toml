@@ -1,6 +1,8 @@
-zip_code = "70066"
-state = "LA"
 city = "Killona"
 county = "Saint Charles"
-longitude = -90.45072
 latitude = 30.003409
+longitude = -90.45072
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70066"
+

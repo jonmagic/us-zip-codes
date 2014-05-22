@@ -1,6 +1,8 @@
-zip_code = "17942"
-state = "PA"
 city = "Landingville"
 county = "Schuylkill"
-longitude = -76.229623
 latitude = 40.722587
+longitude = -76.229623
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17942"
+

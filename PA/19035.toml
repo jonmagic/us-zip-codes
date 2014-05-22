@@ -1,6 +1,8 @@
-zip_code = "19035"
-state = "PA"
 city = "Gladwyne"
 county = "Montgomery"
-longitude = -75.280686
 latitude = 40.04486
+longitude = -75.280686
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19035"
+

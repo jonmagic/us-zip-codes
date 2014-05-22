@@ -1,6 +1,8 @@
-zip_code = "52223"
-state = "IA"
 city = "Delhi"
 county = "Delaware"
-longitude = -91.31071
 latitude = 42.413678
+longitude = -91.31071
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52223"
+

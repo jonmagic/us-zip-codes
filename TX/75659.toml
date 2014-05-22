@@ -1,6 +1,8 @@
-zip_code = "75659"
-state = "TX"
 city = "Jonesville"
 county = "Harrison"
-longitude = -94.110636
 latitude = 32.507491
+longitude = -94.110636
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75659"
+

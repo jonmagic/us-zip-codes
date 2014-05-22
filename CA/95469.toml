@@ -1,6 +1,8 @@
-zip_code = "95469"
-state = "CA"
 city = "Potter Valley"
 county = "Mendocino"
-longitude = -123.106751
 latitude = 39.360935
+longitude = -123.106751
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95469"
+

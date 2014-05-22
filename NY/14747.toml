@@ -1,6 +1,8 @@
-zip_code = "14747"
-state = "NY"
 city = "Kennedy"
 county = "Chautauqua"
-longitude = -79.111065
 latitude = 42.152725
+longitude = -79.111065
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14747"
+

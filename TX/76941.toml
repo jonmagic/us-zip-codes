@@ -1,6 +1,8 @@
-zip_code = "76941"
-state = "TX"
 city = "Mertzon"
 county = "Irion"
-longitude = -100.874701
 latitude = 31.347682
+longitude = -100.874701
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76941"
+

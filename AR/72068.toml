@@ -1,6 +1,8 @@
-zip_code = "72068"
-state = "AR"
 city = "Higginson"
 county = "White"
-longitude = -91.710779
 latitude = 35.152032
+longitude = -91.710779
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72068"
+

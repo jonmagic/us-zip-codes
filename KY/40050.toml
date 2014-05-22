@@ -1,6 +1,8 @@
-zip_code = "40050"
-state = "KY"
 city = "New Castle"
 county = "Henry"
-longitude = -85.18706
 latitude = 38.427404
+longitude = -85.18706
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40050"
+

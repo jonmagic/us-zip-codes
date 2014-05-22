@@ -1,6 +1,8 @@
-zip_code = "43830"
-state = "OH"
 city = "Nashport"
 county = "Muskingum"
-longitude = -82.099574
 latitude = 40.063883
+longitude = -82.099574
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43830"
+

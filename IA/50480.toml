@@ -1,6 +1,8 @@
-zip_code = "50480"
-state = "IA"
 city = "Titonka"
 county = "Kossuth"
-longitude = -94.05929
 latitude = 43.253389
+longitude = -94.05929
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50480"
+

@@ -1,6 +1,8 @@
-zip_code = "66080"
-state = "KS"
 city = "Richmond"
 county = "Franklin"
-longitude = -95.312506
 latitude = 38.436338
+longitude = -95.312506
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66080"
+

@@ -1,6 +1,8 @@
-zip_code = "12458"
-state = "NY"
 city = "Napanoch"
 county = "Ulster"
-longitude = -74.420108
 latitude = 41.80137
+longitude = -74.420108
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12458"
+

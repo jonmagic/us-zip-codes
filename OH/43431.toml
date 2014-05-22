@@ -1,6 +1,8 @@
-zip_code = "43431"
-state = "OH"
 city = "Gibsonburg"
 county = "Sandusky"
-longitude = -83.317648
 latitude = 41.392094
+longitude = -83.317648
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43431"
+

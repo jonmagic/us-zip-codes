@@ -1,6 +1,8 @@
-zip_code = "53943"
-state = "WI"
 city = "Loganville"
 county = "Sauk"
-longitude = -90.017885
 latitude = 43.385775
+longitude = -90.017885
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53943"
+

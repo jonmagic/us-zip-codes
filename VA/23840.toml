@@ -1,6 +1,8 @@
-zip_code = "23840"
-state = "VA"
 city = "Dewitt"
 county = "Dinwiddie"
-longitude = -77.677945
 latitude = 37.069327
+longitude = -77.677945
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23840"
+

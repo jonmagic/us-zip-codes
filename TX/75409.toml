@@ -1,6 +1,8 @@
-zip_code = "75409"
-state = "TX"
 city = "Anna"
 county = "Collin"
-longitude = -96.524804
 latitude = 33.323709
+longitude = -96.524804
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75409"
+

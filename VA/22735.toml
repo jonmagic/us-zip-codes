@@ -1,6 +1,8 @@
-zip_code = "22735"
-state = "VA"
 city = "Reva"
 county = "Culpeper"
-longitude = -78.150059
 latitude = 38.486703
+longitude = -78.150059
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22735"
+

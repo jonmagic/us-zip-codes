@@ -1,6 +1,8 @@
-zip_code = "73744"
-state = "OK"
 city = "Hitchcock"
 county = "Blaine"
-longitude = -98.350529
 latitude = 35.970011
+longitude = -98.350529
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73744"
+

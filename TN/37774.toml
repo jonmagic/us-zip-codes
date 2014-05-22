@@ -1,6 +1,8 @@
-zip_code = "37774"
-state = "TN"
 city = "Loudon"
 county = "Loudon"
-longitude = -84.344062
 latitude = 35.738092
+longitude = -84.344062
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37774"
+

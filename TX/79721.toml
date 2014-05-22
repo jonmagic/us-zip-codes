@@ -1,6 +1,8 @@
-zip_code = "79721"
-state = "TX"
 city = "Big Spring"
 county = "Howard"
-longitude = -101.373968
 latitude = 32.27328
+longitude = -101.373968
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79721"
+

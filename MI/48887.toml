@@ -1,6 +1,8 @@
-zip_code = "48887"
-state = "MI"
 city = "Smyrna"
 county = "Ionia"
-longitude = -85.074665
 latitude = 42.944929
+longitude = -85.074665
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48887"
+

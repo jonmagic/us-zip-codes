@@ -1,6 +1,8 @@
-zip_code = "10538"
-state = "NY"
 city = "Larchmont"
 county = "Westchester"
-longitude = -73.755284
 latitude = 41.090197
+longitude = -73.755284
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10538"
+

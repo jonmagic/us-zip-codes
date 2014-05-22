@@ -1,6 +1,8 @@
-zip_code = "97406"
-state = "OR"
 city = "Agness"
 county = "Curry"
-longitude = -124.133206
 latitude = 42.656925
+longitude = -124.133206
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97406"
+

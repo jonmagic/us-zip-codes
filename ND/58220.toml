@@ -1,6 +1,8 @@
-zip_code = "58220"
-state = "ND"
 city = "Cavalier"
 county = "Pembina"
-longitude = -97.699122
 latitude = 48.738902
+longitude = -97.699122
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58220"
+

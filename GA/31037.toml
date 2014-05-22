@@ -1,6 +1,8 @@
-zip_code = "31037"
-state = "GA"
 city = "Helena"
 county = "Telfair"
-longitude = -82.9747
 latitude = 32.047457
+longitude = -82.9747
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31037"
+

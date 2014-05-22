@@ -1,6 +1,8 @@
-zip_code = "73460"
-state = "OK"
 city = "Tishomingo"
 county = "Johnston"
-longitude = -96.655188
 latitude = 34.275856
+longitude = -96.655188
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73460"
+

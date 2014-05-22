@@ -1,6 +1,8 @@
-zip_code = "39638"
-state = "MS"
 city = "Gloster"
 county = "Amite"
-longitude = -90.916006
 latitude = 31.199644
+longitude = -90.916006
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39638"
+

@@ -1,6 +1,8 @@
-zip_code = "72534"
-state = "AR"
 city = "Floral"
 county = "Independence"
-longitude = -91.712976
 latitude = 35.663046
+longitude = -91.712976
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72534"
+

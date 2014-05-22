@@ -1,6 +1,8 @@
-zip_code = "98028"
-state = "WA"
 city = "Kenmore"
 county = "King"
-longitude = -122.124643
 latitude = 47.754219
+longitude = -122.124643
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98028"
+

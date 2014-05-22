@@ -1,6 +1,8 @@
-zip_code = "43721"
-state = "OH"
 city = "Brownsville"
 county = "Licking"
-longitude = -82.255984
 latitude = 39.94518
+longitude = -82.255984
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43721"
+

@@ -1,6 +1,8 @@
-zip_code = "15756"
-state = "PA"
 city = "Mc Intyre"
 county = "Indiana"
-longitude = -79.299931
 latitude = 40.568381
+longitude = -79.299931
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15756"
+

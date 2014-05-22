@@ -1,6 +1,8 @@
-zip_code = "75068"
-state = "TX"
 city = "Little Elm"
 county = "Denton"
-longitude = -96.958293
 latitude = 33.17679
+longitude = -96.958293
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75068"
+

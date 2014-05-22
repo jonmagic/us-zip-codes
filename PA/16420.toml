@@ -1,6 +1,8 @@
-zip_code = "16420"
-state = "PA"
 city = "Grand Valley"
 county = "Warren"
-longitude = -79.264322
 latitude = 41.811682
+longitude = -79.264322
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16420"
+

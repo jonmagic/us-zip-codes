@@ -1,6 +1,8 @@
-zip_code = "37359"
-state = "TN"
 city = "Mulberry"
 county = "Lincoln"
-longitude = -86.467197
 latitude = 35.194599
+longitude = -86.467197
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37359"
+

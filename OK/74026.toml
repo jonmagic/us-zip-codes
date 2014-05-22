@@ -1,6 +1,8 @@
-zip_code = "74026"
-state = "OK"
 city = "Davenport"
 county = "Lincoln"
-longitude = -96.766992
 latitude = 35.708886
+longitude = -96.766992
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74026"
+

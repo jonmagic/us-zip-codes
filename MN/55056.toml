@@ -1,6 +1,8 @@
-zip_code = "55056"
-state = "MN"
 city = "North Branch"
 county = "Chisago"
-longitude = -92.885433
 latitude = 45.556522
+longitude = -92.885433
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55056"
+

@@ -1,6 +1,8 @@
-zip_code = "07931"
-state = "NJ"
 city = "Far Hills"
 county = "Somerset"
-longitude = -74.653603
 latitude = 40.699572
+longitude = -74.653603
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07931"
+

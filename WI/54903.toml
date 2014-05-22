@@ -1,6 +1,8 @@
-zip_code = "54903"
-state = "WI"
 city = "Oshkosh"
 county = "Winnebago"
-longitude = -88.644873
 latitude = 44.06858
+longitude = -88.644873
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54903"
+

@@ -1,6 +1,8 @@
-zip_code = "42219"
-state = "KY"
 city = "Dunbar"
 county = "Butler"
-longitude = -86.767822
 latitude = 37.170909
+longitude = -86.767822
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42219"
+

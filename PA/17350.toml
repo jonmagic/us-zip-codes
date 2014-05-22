@@ -1,6 +1,8 @@
-zip_code = "17350"
-state = "PA"
 city = "New Oxford"
 county = "Adams"
-longitude = -77.077431
 latitude = 39.881881
+longitude = -77.077431
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17350"
+

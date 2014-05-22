@@ -1,6 +1,8 @@
-zip_code = "20130"
-state = "VA"
 city = "Paris"
 county = "Fauquier"
-longitude = -77.954597
 latitude = 39.004843
+longitude = -77.954597
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20130"
+

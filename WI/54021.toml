@@ -1,6 +1,8 @@
-zip_code = "54021"
-state = "WI"
 city = "Prescott"
 county = "Pierce"
-longitude = -92.640483
 latitude = 44.747209
+longitude = -92.640483
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54021"
+

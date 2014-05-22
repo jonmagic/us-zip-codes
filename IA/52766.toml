@@ -1,6 +1,8 @@
-zip_code = "52766"
-state = "IA"
 city = "Nichols"
 county = "Muscatine"
-longitude = -91.196155
 latitude = 41.492577
+longitude = -91.196155
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52766"
+

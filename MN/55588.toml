@@ -1,6 +1,8 @@
-zip_code = "55588"
-state = "MN"
 city = "Monticello"
 county = "Wright"
-longitude = -93.880245
 latitude = 44.989512
+longitude = -93.880245
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55588"
+

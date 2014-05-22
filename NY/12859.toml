@@ -1,6 +1,8 @@
-zip_code = "12859"
-state = "NY"
 city = "Porter Corners"
 county = "Saratoga"
-longitude = -73.891854
 latitude = 43.20138
+longitude = -73.891854
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12859"
+

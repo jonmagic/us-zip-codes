@@ -1,6 +1,8 @@
-zip_code = "54213"
-state = "WI"
 city = "Forestville"
 county = "Door"
-longitude = -87.528122
 latitude = 44.722418
+longitude = -87.528122
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54213"
+

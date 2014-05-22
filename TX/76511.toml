@@ -1,6 +1,8 @@
-zip_code = "76511"
-state = "TX"
 city = "Bartlett"
 county = "Bell"
-longitude = -97.417295
 latitude = 30.906295
+longitude = -97.417295
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76511"
+

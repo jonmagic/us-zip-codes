@@ -1,6 +1,8 @@
-zip_code = "53074"
-state = "WI"
 city = "Port Washington"
 county = "Ozaukee"
-longitude = -87.881232
 latitude = 43.387702
+longitude = -87.881232
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53074"
+

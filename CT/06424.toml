@@ -1,6 +1,8 @@
-zip_code = "06424"
-state = "CT"
 city = "East Hampton"
 county = "Middlesex"
-longitude = -72.494927
 latitude = 41.559841
+longitude = -72.494927
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06424"
+

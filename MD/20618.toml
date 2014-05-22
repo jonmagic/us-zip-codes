@@ -1,6 +1,8 @@
-zip_code = "20618"
-state = "MD"
 city = "Bushwood"
 county = "Saint Marys"
-longitude = -76.763069
 latitude = 38.309507
+longitude = -76.763069
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20618"
+

@@ -1,6 +1,8 @@
-zip_code = "95242"
-state = "CA"
 city = "Lodi"
 county = "San Joaquin"
-longitude = -121.422011
 latitude = 38.138318
+longitude = -121.422011
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95242"
+

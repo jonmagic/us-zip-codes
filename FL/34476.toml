@@ -1,6 +1,8 @@
-zip_code = "34476"
-state = "FL"
 city = "Ocala"
 county = "Marion"
-longitude = -82.242211
 latitude = 29.115896
+longitude = -82.242211
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34476"
+

@@ -1,6 +1,8 @@
-zip_code = "97016"
-state = "OR"
 city = "Clatskanie"
 county = "Columbia"
-longitude = -123.205886
 latitude = 46.066499
+longitude = -123.205886
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97016"
+

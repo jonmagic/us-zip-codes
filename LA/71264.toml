@@ -1,6 +1,8 @@
-zip_code = "71264"
-state = "LA"
 city = "Oak Ridge"
 county = "Morehouse"
-longitude = -91.759778
 latitude = 32.606213
+longitude = -91.759778
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71264"
+

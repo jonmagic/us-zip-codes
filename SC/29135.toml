@@ -1,6 +1,8 @@
-zip_code = "29135"
-state = "SC"
 city = "Saint Matthews"
 county = "Calhoun"
-longitude = -80.867833
 latitude = 33.696732
+longitude = -80.867833
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29135"
+

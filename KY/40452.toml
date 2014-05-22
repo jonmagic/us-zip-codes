@@ -1,6 +1,8 @@
-zip_code = "40452"
-state = "KY"
 city = "Mitchellsburg"
 county = "Boyle"
-longitude = -84.94918
 latitude = 37.603345
+longitude = -84.94918
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40452"
+

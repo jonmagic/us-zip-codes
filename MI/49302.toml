@@ -1,6 +1,8 @@
-zip_code = "49302"
-state = "MI"
 city = "Alto"
 county = "Kent"
-longitude = -85.402859
 latitude = 42.856096
+longitude = -85.402859
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49302"
+

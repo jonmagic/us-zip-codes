@@ -1,6 +1,8 @@
-zip_code = "86432"
-state = "AZ"
 city = "Littlefield"
 county = "Mohave"
-longitude = -114.543288
 latitude = 34.901161
+longitude = -114.543288
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86432"
+

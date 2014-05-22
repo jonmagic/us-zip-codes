@@ -1,6 +1,8 @@
-zip_code = "76370"
-state = "TX"
 city = "Megargel"
 county = "Archer"
-longitude = -98.929727
 latitude = 33.453275
+longitude = -98.929727
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76370"
+

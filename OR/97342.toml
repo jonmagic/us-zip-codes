@@ -1,6 +1,8 @@
-zip_code = "97342"
-state = "OR"
 city = "Detroit"
 county = "Marion"
-longitude = -122.066865
 latitude = 44.735834
+longitude = -122.066865
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97342"
+

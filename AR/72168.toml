@@ -1,6 +1,8 @@
-zip_code = "72168"
-state = "AR"
 city = "Tucker"
 county = "Jefferson"
-longitude = -91.96546
 latitude = 34.431352
+longitude = -91.96546
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72168"
+

@@ -1,6 +1,8 @@
-zip_code = "26621"
-state = "WV"
 city = "Flatwoods"
 county = "Braxton"
-longitude = -80.574704
 latitude = 38.733696
+longitude = -80.574704
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26621"
+

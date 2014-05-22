@@ -1,6 +1,8 @@
-zip_code = "58041"
-state = "ND"
 city = "Hankinson"
 county = "Richland"
-longitude = -96.92473
 latitude = 46.073423
+longitude = -96.92473
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58041"
+

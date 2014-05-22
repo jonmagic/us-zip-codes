@@ -1,6 +1,8 @@
-zip_code = "50857"
-state = "IA"
 city = "Nodaway"
 county = "Adams"
-longitude = -94.871606
 latitude = 40.9765
+longitude = -94.871606
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50857"
+

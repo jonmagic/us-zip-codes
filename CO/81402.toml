@@ -1,6 +1,8 @@
-zip_code = "81402"
-state = "CO"
 city = "Montrose"
 county = "Montrose"
-longitude = -107.885975
 latitude = 38.485093
+longitude = -107.885975
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81402"
+

@@ -1,6 +1,8 @@
-zip_code = "62984"
-state = "IL"
 city = "Shawneetown"
 county = "Gallatin"
-longitude = -88.183169
 latitude = 37.710189
+longitude = -88.183169
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62984"
+

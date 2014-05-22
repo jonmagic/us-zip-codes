@@ -1,6 +1,8 @@
-zip_code = "12495"
-state = "NY"
 city = "Willow"
 county = "Ulster"
-longitude = -74.203575
 latitude = 42.046885
+longitude = -74.203575
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12495"
+

@@ -1,6 +1,8 @@
-zip_code = "78861"
-state = "TX"
 city = "Hondo"
 county = "Medina"
-longitude = -99.176245
 latitude = 29.398586
+longitude = -99.176245
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78861"
+

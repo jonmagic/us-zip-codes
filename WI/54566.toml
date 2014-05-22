@@ -1,6 +1,8 @@
-zip_code = "54566"
-state = "WI"
 city = "Wabeno"
 county = "Forest"
-longitude = -88.619413
 latitude = 45.443574
+longitude = -88.619413
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54566"
+

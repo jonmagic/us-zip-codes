@@ -1,6 +1,8 @@
-zip_code = "75701"
-state = "TX"
 city = "Tyler"
 county = "Smith"
-longitude = -95.200403
 latitude = 32.288029
+longitude = -95.200403
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75701"
+

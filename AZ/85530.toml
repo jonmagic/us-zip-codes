@@ -1,6 +1,8 @@
-zip_code = "85530"
-state = "AZ"
 city = "Bylas"
 county = "Graham"
-longitude = -109.785973
 latitude = 33.038678
+longitude = -109.785973
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85530"
+

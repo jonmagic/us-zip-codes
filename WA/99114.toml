@@ -1,6 +1,8 @@
-zip_code = "99114"
-state = "WA"
 city = "Colville"
 county = "Stevens"
-longitude = -117.809315
 latitude = 48.676916
+longitude = -117.809315
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99114"
+

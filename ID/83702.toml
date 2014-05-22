@@ -1,6 +1,8 @@
-zip_code = "83702"
-state = "ID"
 city = "Boise"
 county = "Ada"
-longitude = -116.195004
 latitude = 43.661963
+longitude = -116.195004
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83702"
+

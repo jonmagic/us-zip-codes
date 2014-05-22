@@ -1,6 +1,8 @@
-zip_code = "80022"
-state = "CO"
 city = "Commerce City"
 county = "Adams"
-longitude = -104.771527
 latitude = 39.869835
+longitude = -104.771527
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80022"
+

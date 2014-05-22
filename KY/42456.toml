@@ -1,6 +1,8 @@
-zip_code = "42456"
-state = "KY"
 city = "Slaughters"
 county = "Webster"
-longitude = -87.534622
 latitude = 37.505442
+longitude = -87.534622
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42456"
+

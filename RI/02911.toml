@@ -1,6 +1,8 @@
-zip_code = "02911"
-state = "RI"
 city = "North Providence"
 county = "Providence"
-longitude = -71.449202
 latitude = 41.838749
+longitude = -71.449202
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02911"
+

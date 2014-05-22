@@ -1,6 +1,8 @@
-zip_code = "82440"
-state = "WY"
 city = "Ralston"
 county = "Park"
-longitude = -108.883283
 latitude = 44.69496
+longitude = -108.883283
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82440"
+

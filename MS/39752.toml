@@ -1,6 +1,8 @@
-zip_code = "39752"
-state = "MS"
 city = "Mathiston"
 county = "Webster"
-longitude = -89.130294
 latitude = 33.540161
+longitude = -89.130294
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39752"
+

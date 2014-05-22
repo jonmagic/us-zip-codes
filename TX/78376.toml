@@ -1,6 +1,8 @@
-zip_code = "78376"
-state = "TX"
 city = "Realitos"
 county = "Duval"
-longitude = -98.517894
 latitude = 27.660242
+longitude = -98.517894
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78376"
+

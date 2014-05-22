@@ -1,6 +1,8 @@
-zip_code = "99660"
-state = "AK"
 city = "Saint Paul Island"
 county = "Aleutians West"
-longitude = -176.787412
 latitude = 54.24018
+longitude = -176.787412
+state = ""
+state_code_alpha2 = ""
+zip_code = "99660"
+

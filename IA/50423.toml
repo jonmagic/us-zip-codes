@@ -1,6 +1,8 @@
-zip_code = "50423"
-state = "IA"
 city = "Britt"
 county = "Hancock"
-longitude = -93.734689
 latitude = 43.081779
+longitude = -93.734689
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50423"
+

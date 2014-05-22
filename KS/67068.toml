@@ -1,6 +1,8 @@
-zip_code = "67068"
-state = "KS"
 city = "Kingman"
 county = "Kingman"
-longitude = -98.130432
 latitude = 37.596364
+longitude = -98.130432
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67068"
+

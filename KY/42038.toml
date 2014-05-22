@@ -1,6 +1,8 @@
-zip_code = "42038"
-state = "KY"
 city = "Eddyville"
 county = "Lyon"
-longitude = -88.024871
 latitude = 37.044697
+longitude = -88.024871
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42038"
+

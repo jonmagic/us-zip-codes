@@ -1,6 +1,8 @@
-zip_code = "57446"
-state = "SD"
 city = "Hecla"
 county = "Brown"
-longitude = -98.157861
 latitude = 45.849431
+longitude = -98.157861
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57446"
+

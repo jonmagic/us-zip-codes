@@ -1,6 +1,8 @@
-zip_code = "25607"
-state = "WV"
 city = "Amherstdale"
 county = "Logan"
-longitude = -81.783341
 latitude = 37.795916
+longitude = -81.783341
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25607"
+

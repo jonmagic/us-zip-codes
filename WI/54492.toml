@@ -1,6 +1,8 @@
-zip_code = "54492"
-state = "WI"
 city = "Stevens Point"
 county = "Portage"
-longitude = -89.528584
 latitude = 44.509433
+longitude = -89.528584
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54492"
+

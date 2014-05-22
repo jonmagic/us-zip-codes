@@ -1,6 +1,8 @@
-zip_code = "34448"
-state = "FL"
 city = "Homosassa"
 county = "Citrus"
-longitude = -82.567981
 latitude = 28.787963
+longitude = -82.567981
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34448"
+

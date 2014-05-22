@@ -1,6 +1,8 @@
-zip_code = "22067"
-state = "VA"
 city = "Greenway"
 county = "Fairfax"
-longitude = -77.233103
 latitude = 38.96451
+longitude = -77.233103
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22067"
+

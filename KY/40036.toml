@@ -1,6 +1,8 @@
-zip_code = "40036"
-state = "KY"
 city = "Lockport"
 county = "Henry"
-longitude = -84.988603
 latitude = 38.455714
+longitude = -84.988603
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40036"
+

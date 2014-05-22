@@ -1,6 +1,8 @@
-zip_code = "50613"
-state = "IA"
 city = "Cedar Falls"
 county = "Black Hawk"
-longitude = -92.43585
 latitude = 42.517091
+longitude = -92.43585
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50613"
+

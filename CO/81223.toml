@@ -1,6 +1,8 @@
-zip_code = "81223"
-state = "CO"
 city = "Cotopaxi"
 county = "Fremont"
-longitude = -105.49649
 latitude = 38.439983
+longitude = -105.49649
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81223"
+

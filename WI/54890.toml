@@ -1,6 +1,8 @@
-zip_code = "54890"
-state = "WI"
 city = "Wascott"
 county = "Douglas"
-longitude = -91.921631
 latitude = 46.525129
+longitude = -91.921631
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54890"
+

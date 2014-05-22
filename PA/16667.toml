@@ -1,6 +1,8 @@
-zip_code = "16667"
-state = "PA"
 city = "Osterburg"
 county = "Bedford"
-longitude = -78.493371
 latitude = 40.181801
+longitude = -78.493371
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16667"
+

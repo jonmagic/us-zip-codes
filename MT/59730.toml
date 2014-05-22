@@ -1,6 +1,8 @@
-zip_code = "59730"
-state = "MT"
 city = "Gallatin Gateway"
 county = "Gallatin"
-longitude = -111.24848
 latitude = 45.338987
+longitude = -111.24848
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59730"
+

@@ -1,6 +1,8 @@
-zip_code = "36865"
-state = "AL"
 city = "Loachapoka"
 county = "Lee"
-longitude = -85.349003
 latitude = 32.578185
+longitude = -85.349003
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36865"
+

@@ -1,6 +1,8 @@
-zip_code = "51430"
-state = "IA"
 city = "Arcadia"
 county = "Carroll"
-longitude = -95.015299
 latitude = 42.087657
+longitude = -95.015299
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51430"
+

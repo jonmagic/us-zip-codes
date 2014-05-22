@@ -1,6 +1,8 @@
-zip_code = "95922"
-state = "CA"
 city = "Camptonville"
 county = "Yuba"
-longitude = -121.111454
 latitude = 39.414386
+longitude = -121.111454
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95922"
+

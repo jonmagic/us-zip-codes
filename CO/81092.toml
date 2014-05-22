@@ -1,6 +1,8 @@
-zip_code = "81092"
-state = "CO"
 city = "Wiley"
 county = "Prowers"
-longitude = -102.705397
 latitude = 38.189902
+longitude = -102.705397
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81092"
+

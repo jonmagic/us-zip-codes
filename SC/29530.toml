@@ -1,6 +1,8 @@
-zip_code = "29530"
-state = "SC"
 city = "Coward"
 county = "Florence"
-longitude = -79.756816
 latitude = 33.980551
+longitude = -79.756816
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29530"
+

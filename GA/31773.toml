@@ -1,6 +1,8 @@
-zip_code = "31773"
-state = "GA"
 city = "Ochlocknee"
 county = "Thomas"
-longitude = -84.02725
 latitude = 30.968592
+longitude = -84.02725
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31773"
+

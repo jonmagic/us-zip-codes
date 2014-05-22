@@ -1,6 +1,8 @@
-zip_code = "89002"
-state = "NV"
 city = "Henderson"
 county = "Jefferson"
-longitude = -114.961181640625
 latitude = 36.0003929138184
+longitude = -114.961181640625
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89002"
+

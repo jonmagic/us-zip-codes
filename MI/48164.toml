@@ -1,6 +1,8 @@
-zip_code = "48164"
-state = "MI"
 city = "New Boston"
 county = "Wayne"
-longitude = -83.390422
 latitude = 42.135225
+longitude = -83.390422
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48164"
+

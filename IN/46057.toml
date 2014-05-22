@@ -1,6 +1,8 @@
-zip_code = "46057"
-state = "IN"
 city = "Michigantown"
 county = "Clinton"
-longitude = -86.490945
 latitude = 40.306276
+longitude = -86.490945
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46057"
+

@@ -1,6 +1,8 @@
-zip_code = "25665"
-state = "WV"
 city = "Borderland"
 county = "Mingo"
-longitude = -82.30835
 latitude = 37.721351
+longitude = -82.30835
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25665"
+

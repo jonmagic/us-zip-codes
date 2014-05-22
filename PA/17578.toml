@@ -1,6 +1,8 @@
-zip_code = "17578"
-state = "PA"
 city = "Stevens"
 county = "Lancaster"
-longitude = -76.330001
 latitude = 40.168624
+longitude = -76.330001
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17578"
+

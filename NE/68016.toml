@@ -1,6 +1,8 @@
-zip_code = "68016"
-state = "NE"
 city = "Cedar Creek"
 county = "Cass"
-longitude = -96.104359
 latitude = 41.042487
+longitude = -96.104359
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68016"
+

@@ -1,6 +1,8 @@
-zip_code = "81621"
-state = "CO"
 city = "Basalt"
 county = "Eagle"
-longitude = -106.804842
 latitude = 39.495223
+longitude = -106.804842
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81621"
+

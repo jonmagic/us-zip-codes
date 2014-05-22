@@ -1,6 +1,8 @@
-zip_code = "39476"
-state = "MS"
 city = "Richton"
 county = "Perry"
-longitude = -88.993126
 latitude = 31.318239
+longitude = -88.993126
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39476"
+

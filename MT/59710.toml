@@ -1,6 +1,8 @@
-zip_code = "59710"
-state = "MT"
 city = "Alder"
 county = "Madison"
-longitude = -112.056807
 latitude = 45.193898
+longitude = -112.056807
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59710"
+

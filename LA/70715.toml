@@ -1,6 +1,8 @@
-zip_code = "70715"
-state = "LA"
 city = "Batchelor"
 county = "Pointe Coupee"
-longitude = -91.694354
 latitude = 30.829754
+longitude = -91.694354
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70715"
+

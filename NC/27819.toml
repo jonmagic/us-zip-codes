@@ -1,6 +1,8 @@
-zip_code = "27819"
-state = "NC"
 city = "Conetoe"
 county = "Edgecombe"
-longitude = -77.453286
 latitude = 35.817763
+longitude = -77.453286
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27819"
+

@@ -1,6 +1,8 @@
-zip_code = "46526"
-state = "IN"
 city = "Goshen"
 county = "Elkhart"
-longitude = -85.858059
 latitude = 41.584839
+longitude = -85.858059
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46526"
+

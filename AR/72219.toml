@@ -1,6 +1,8 @@
-zip_code = "72219"
-state = "AR"
 city = "Little Rock"
 county = "Pulaski"
-longitude = -92.392487
 latitude = 34.751918
+longitude = -92.392487
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72219"
+

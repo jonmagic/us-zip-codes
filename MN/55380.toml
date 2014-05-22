@@ -1,6 +1,8 @@
-zip_code = "55380"
-state = "MN"
 city = "Silver Creek"
 county = "Wright"
-longitude = -93.979766
 latitude = 45.315823
+longitude = -93.979766
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55380"
+

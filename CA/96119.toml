@@ -1,6 +1,8 @@
-zip_code = "96119"
-state = "CA"
 city = "Madeline"
 county = "Lassen"
-longitude = -120.554754
 latitude = 40.97664
+longitude = -120.554754
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96119"
+

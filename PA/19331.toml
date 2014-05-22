@@ -1,6 +1,8 @@
-zip_code = "19331"
-state = "PA"
 city = "Concordville"
 county = "Delaware"
-longitude = -75.516529
 latitude = 39.882274
+longitude = -75.516529
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19331"
+

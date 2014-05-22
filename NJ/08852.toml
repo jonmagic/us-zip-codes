@@ -1,6 +1,8 @@
-zip_code = "08852"
-state = "NJ"
 city = "Monmouth Junction"
 county = "Middlesex"
-longitude = -74.555799
 latitude = 40.386942
+longitude = -74.555799
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08852"
+

@@ -1,6 +1,8 @@
-zip_code = "43008"
-state = "OH"
 city = "Buckeye Lake"
 county = "Licking"
-longitude = -82.47972
 latitude = 39.944674
+longitude = -82.47972
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43008"
+

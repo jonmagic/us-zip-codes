@@ -1,6 +1,8 @@
-zip_code = "58638"
-state = "ND"
 city = "Hebron"
 county = "Morton"
-longitude = -101.972303
 latitude = 46.849592
+longitude = -101.972303
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58638"
+

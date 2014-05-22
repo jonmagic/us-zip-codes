@@ -1,6 +1,8 @@
-zip_code = "53188"
-state = "WI"
 city = "Waukesha"
 county = "Waukesha"
-longitude = -88.241786
 latitude = 42.994564
+longitude = -88.241786
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53188"
+

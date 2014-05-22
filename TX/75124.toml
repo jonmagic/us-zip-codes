@@ -1,6 +1,8 @@
-zip_code = "75124"
-state = "TX"
 city = "Eustace"
 county = "Henderson"
-longitude = -95.791559
 latitude = 32.289838
+longitude = -95.791559
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75124"
+

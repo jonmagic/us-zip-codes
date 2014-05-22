@@ -1,6 +1,8 @@
-zip_code = "51046"
-state = "IA"
 city = "Paullina"
 county = "Obrien"
-longitude = -95.69489
 latitude = 42.982521
+longitude = -95.69489
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51046"
+

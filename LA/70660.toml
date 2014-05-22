@@ -1,6 +1,8 @@
-zip_code = "70660"
-state = "LA"
 city = "Singer"
 county = "Beauregard"
-longitude = -93.369139
 latitude = 30.593966
+longitude = -93.369139
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70660"
+

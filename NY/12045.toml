@@ -1,6 +1,8 @@
-zip_code = "12045"
-state = "NY"
 city = "Coeymans"
 county = "Albany"
-longitude = -73.797722
 latitude = 42.475704
+longitude = -73.797722
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12045"
+

@@ -1,6 +1,8 @@
-zip_code = "15676"
-state = "PA"
 city = "Pleasant Unity"
 county = "Westmoreland"
-longitude = -79.454212
 latitude = 40.242429
+longitude = -79.454212
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15676"
+

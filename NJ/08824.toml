@@ -1,6 +1,8 @@
-zip_code = "08824"
-state = "NJ"
 city = "Kendall Park"
 county = "Middlesex"
-longitude = -74.549761
 latitude = 40.422955
+longitude = -74.549761
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08824"
+

@@ -1,6 +1,8 @@
-zip_code = "43402"
-state = "OH"
 city = "Bowling Green"
 county = "Wood"
-longitude = -83.613714
 latitude = 41.376449
+longitude = -83.613714
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43402"
+

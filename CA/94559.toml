@@ -1,6 +1,8 @@
-zip_code = "94559"
-state = "CA"
 city = "Napa"
 county = "Napa"
-longitude = -122.311685
 latitude = 38.256973
+longitude = -122.311685
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94559"
+

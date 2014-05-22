@@ -1,6 +1,8 @@
-zip_code = "97905"
-state = "OR"
 city = "Durkee"
 county = "Baker"
-longitude = -117.412907
 latitude = 44.498826
+longitude = -117.412907
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97905"
+

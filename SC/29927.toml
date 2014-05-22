@@ -1,6 +1,8 @@
-zip_code = "29927"
-state = "SC"
 city = "Hardeeville"
 county = "Jasper"
-longitude = -81.074835
 latitude = 32.244037
+longitude = -81.074835
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29927"
+

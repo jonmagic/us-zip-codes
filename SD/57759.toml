@@ -1,6 +1,8 @@
-zip_code = "57759"
-state = "SD"
 city = "Nemo"
 county = "Lawrence"
-longitude = -103.754204
 latitude = 44.372688
+longitude = -103.754204
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57759"
+

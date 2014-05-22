@@ -1,6 +1,8 @@
-zip_code = "02822"
-state = "RI"
 city = "Exeter"
 county = "Washington"
-longitude = -71.650262
 latitude = 41.5469
+longitude = -71.650262
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02822"
+

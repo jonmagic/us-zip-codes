@@ -1,6 +1,8 @@
-zip_code = "31073"
-state = "GA"
 city = "Plainfield"
 county = "Dodge"
-longitude = -83.122891
 latitude = 32.176429
+longitude = -83.122891
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31073"
+

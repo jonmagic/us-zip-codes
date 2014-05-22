@@ -1,6 +1,8 @@
-zip_code = "89003"
-state = "NV"
 city = "Beatty"
 county = "Nye"
-longitude = -116.609372
 latitude = 36.819857
+longitude = -116.609372
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89003"
+

@@ -1,6 +1,8 @@
-zip_code = "78025"
-state = "TX"
 city = "Ingram"
 county = "Kerr"
-longitude = -99.207682
 latitude = 30.07271
+longitude = -99.207682
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78025"
+

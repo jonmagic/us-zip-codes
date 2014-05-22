@@ -1,6 +1,8 @@
-zip_code = "84104"
-state = "UT"
 city = "Salt Lake City"
 county = "Salt Lake"
-longitude = -111.9841
 latitude = 40.747845
+longitude = -111.9841
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84104"
+

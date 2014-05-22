@@ -1,6 +1,8 @@
-zip_code = "62316"
-state = "IL"
 city = "Bowen"
 county = "Hancock"
-longitude = -91.17718
 latitude = 40.376123
+longitude = -91.17718
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62316"
+

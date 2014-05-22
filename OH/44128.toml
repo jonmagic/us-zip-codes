@@ -1,6 +1,8 @@
-zip_code = "44128"
-state = "OH"
 city = "Cleveland"
 county = "Cuyahoga"
-longitude = -81.533893
 latitude = 41.439352
+longitude = -81.533893
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44128"
+

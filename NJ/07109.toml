@@ -1,6 +1,8 @@
-zip_code = "07109"
-state = "NJ"
 city = "Belleville"
 county = "Essex"
-longitude = -74.167488
 latitude = 40.7821
+longitude = -74.167488
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07109"
+

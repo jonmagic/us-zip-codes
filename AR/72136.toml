@@ -1,6 +1,8 @@
-zip_code = "72136"
-state = "AR"
 city = "Romance"
 county = "White"
-longitude = -92.014311
 latitude = 35.235771
+longitude = -92.014311
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72136"
+

@@ -1,6 +1,8 @@
-zip_code = "17762"
-state = "PA"
 city = "Picture Rocks"
 county = "Lycoming"
-longitude = -76.659535
 latitude = 41.221474
+longitude = -76.659535
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17762"
+

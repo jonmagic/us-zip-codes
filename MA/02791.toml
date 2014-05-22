@@ -1,6 +1,8 @@
-zip_code = "02791"
-state = "MA"
 city = "Westport Point"
 county = "Bristol"
-longitude = -71.085137
 latitude = 41.519104
+longitude = -71.085137
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02791"
+

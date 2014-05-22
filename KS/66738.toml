@@ -1,6 +1,8 @@
-zip_code = "66738"
-state = "KS"
 city = "Fulton"
 county = "Bourbon"
-longitude = -94.720191
 latitude = 38.01017
+longitude = -94.720191
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66738"
+

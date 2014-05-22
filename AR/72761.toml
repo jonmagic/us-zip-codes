@@ -1,6 +1,8 @@
-zip_code = "72761"
-state = "AR"
 city = "Siloam Springs"
 county = "Benton"
-longitude = -94.383778
 latitude = 36.21791
+longitude = -94.383778
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72761"
+

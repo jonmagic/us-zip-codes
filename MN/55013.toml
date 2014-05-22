@@ -1,6 +1,8 @@
-zip_code = "55013"
-state = "MN"
 city = "Chisago City"
 county = "Chisago"
-longitude = -92.902261
 latitude = 45.362621
+longitude = -92.902261
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55013"
+

@@ -1,6 +1,8 @@
-zip_code = "30292"
-state = "GA"
 city = "Williamson"
 county = "Pike"
-longitude = -84.399149
 latitude = 33.117012
+longitude = -84.399149
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30292"
+

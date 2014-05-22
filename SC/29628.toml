@@ -1,6 +1,8 @@
-zip_code = "29628"
-state = "SC"
 city = "Calhoun Falls"
 county = "Abbeville"
-longitude = -82.490284
 latitude = 34.191846
+longitude = -82.490284
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29628"
+

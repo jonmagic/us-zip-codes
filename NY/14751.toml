@@ -1,6 +1,8 @@
-zip_code = "14751"
-state = "NY"
 city = "Leon"
 county = "Cattaraugus"
-longitude = -79.006231
 latitude = 42.298328
+longitude = -79.006231
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14751"
+

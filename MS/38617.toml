@@ -1,6 +1,8 @@
-zip_code = "38617"
-state = "MS"
 city = "Coahoma"
 county = "Coahoma"
-longitude = -90.519949
 latitude = 34.308025
+longitude = -90.519949
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38617"
+

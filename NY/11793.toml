@@ -1,6 +1,8 @@
-zip_code = "11793"
-state = "NY"
 city = "Wantagh"
 county = "Nassau"
-longitude = -73.509519
 latitude = 40.67815
+longitude = -73.509519
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11793"
+

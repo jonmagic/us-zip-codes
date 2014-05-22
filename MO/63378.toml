@@ -1,6 +1,8 @@
-zip_code = "63378"
-state = "MO"
 city = "Treloar"
 county = "Warren"
-longitude = -91.188586
 latitude = 38.770187
+longitude = -91.188586
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63378"
+

@@ -1,6 +1,8 @@
-zip_code = "83325"
-state = "ID"
 city = "Eden"
 county = "Jerome"
-longitude = -114.246706
 latitude = 42.586804
+longitude = -114.246706
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83325"
+

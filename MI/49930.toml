@@ -1,6 +1,8 @@
-zip_code = "49930"
-state = "MI"
 city = "Hancock"
 county = "Houghton"
-longitude = -88.558554
 latitude = 47.156614
+longitude = -88.558554
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49930"
+

@@ -1,6 +1,8 @@
-zip_code = "81527"
-state = "CO"
 city = "Whitewater"
 county = "Mesa"
-longitude = -108.604695
 latitude = 38.814573
+longitude = -108.604695
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81527"
+

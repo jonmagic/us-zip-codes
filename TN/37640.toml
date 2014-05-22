@@ -1,6 +1,8 @@
-zip_code = "37640"
-state = "TN"
 city = "Butler"
 county = "Johnson"
-longitude = -81.919401
 latitude = 36.362685
+longitude = -81.919401
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37640"
+

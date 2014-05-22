@@ -1,6 +1,8 @@
-zip_code = "69152"
-state = "NE"
 city = "Mullen"
 county = "Hooker"
-longitude = -101.045192
 latitude = 42.042143
+longitude = -101.045192
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69152"
+

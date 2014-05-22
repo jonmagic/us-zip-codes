@@ -1,6 +1,8 @@
-zip_code = "87326"
-state = "NM"
 city = "Vanderwagen"
 county = "Mckinley"
-longitude = -108.698459
 latitude = 35.350896
+longitude = -108.698459
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87326"
+

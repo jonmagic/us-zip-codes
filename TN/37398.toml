@@ -1,6 +1,8 @@
-zip_code = "37398"
-state = "TN"
 city = "Winchester"
 county = "Franklin"
-longitude = -86.102966
 latitude = 35.146602
+longitude = -86.102966
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37398"
+

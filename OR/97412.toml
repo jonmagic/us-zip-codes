@@ -1,6 +1,8 @@
-zip_code = "97412"
-state = "OR"
 city = "Blachly"
 county = "Lane"
-longitude = -123.571057
 latitude = 44.174264
+longitude = -123.571057
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97412"
+

@@ -1,6 +1,8 @@
-zip_code = "79244"
-state = "TX"
 city = "Matador"
 county = "Motley"
-longitude = -100.820926
 latitude = 34.01165
+longitude = -100.820926
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79244"
+

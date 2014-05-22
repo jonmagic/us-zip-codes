@@ -1,6 +1,8 @@
-zip_code = "19046"
-state = "PA"
 city = "Jenkintown"
 county = "Montgomery"
-longitude = -75.107767
 latitude = 40.09796
+longitude = -75.107767
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19046"
+

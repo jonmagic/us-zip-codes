@@ -1,6 +1,8 @@
-zip_code = "95659"
-state = "CA"
 city = "Nicolaus"
 county = "Sutter"
-longitude = -121.551933
 latitude = 38.837134
+longitude = -121.551933
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95659"
+

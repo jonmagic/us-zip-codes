@@ -1,6 +1,8 @@
-zip_code = "46571"
-state = "IN"
 city = "Topeka"
 county = "Lagrange"
-longitude = -85.540055
 latitude = 41.578904
+longitude = -85.540055
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46571"
+

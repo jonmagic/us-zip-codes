@@ -1,6 +1,8 @@
-zip_code = "58014"
-state = "ND"
 city = "Chaffee"
 county = "Cass"
-longitude = -97.352437
 latitude = 46.775027
+longitude = -97.352437
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58014"
+

@@ -1,6 +1,8 @@
-zip_code = "46384"
-state = "IN"
 city = "Valparaiso"
 county = "Porter"
-longitude = -87.076094
 latitude = 41.490545
+longitude = -87.076094
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46384"
+

@@ -1,6 +1,8 @@
-zip_code = "18614"
-state = "PA"
 city = "Dushore"
 county = "Sullivan"
-longitude = -76.397554
 latitude = 41.524261
+longitude = -76.397554
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18614"
+

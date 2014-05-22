@@ -1,6 +1,8 @@
-zip_code = "20604"
-state = "MD"
 city = "Waldorf"
 county = "Charles"
-longitude = -76.981651
 latitude = 38.509548
+longitude = -76.981651
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20604"
+

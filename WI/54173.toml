@@ -1,6 +1,8 @@
-zip_code = "54173"
-state = "WI"
 city = "Suamico"
 county = "Brown"
-longitude = -88.122034
 latitude = 44.635701
+longitude = -88.122034
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54173"
+

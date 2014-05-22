@@ -1,6 +1,8 @@
-zip_code = "97828"
-state = "OR"
 city = "Enterprise"
 county = "Wallowa"
-longitude = -117.169858
 latitude = 45.648199
+longitude = -117.169858
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97828"
+

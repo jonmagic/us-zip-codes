@@ -1,6 +1,8 @@
-zip_code = "24416"
-state = "VA"
 city = "Buena Vista"
 county = "Buena Vista City"
-longitude = -79.355121
 latitude = 37.730001
+longitude = -79.355121
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24416"
+

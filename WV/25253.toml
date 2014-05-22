@@ -1,6 +1,8 @@
-zip_code = "25253"
-state = "WV"
 city = "Letart"
 county = "Mason"
-longitude = -81.951871
 latitude = 38.989085
+longitude = -81.951871
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25253"
+

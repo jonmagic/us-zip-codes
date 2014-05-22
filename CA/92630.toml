@@ -1,6 +1,8 @@
-zip_code = "92630"
-state = "CA"
 city = "Lake Forest"
 county = "Orange"
-longitude = -117.693074
 latitude = 33.64079
+longitude = -117.693074
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92630"
+

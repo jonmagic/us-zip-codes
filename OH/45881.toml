@@ -1,6 +1,8 @@
-zip_code = "45881"
-state = "OH"
 city = "Rawson"
 county = "Hancock"
-longitude = -83.770206
 latitude = 40.941562
+longitude = -83.770206
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45881"
+

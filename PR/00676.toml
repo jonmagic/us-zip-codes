@@ -1,6 +1,8 @@
-zip_code = "00676"
-state = "PR"
 city = "Moca"
 county = "Moca"
-longitude = -67.080799
 latitude = 18.383727
+longitude = -67.080799
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00676"
+

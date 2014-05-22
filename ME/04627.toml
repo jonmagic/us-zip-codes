@@ -1,6 +1,8 @@
-zip_code = "04627"
-state = "ME"
 city = "Deer Isle"
 county = "Hancock"
-longitude = -68.711691
 latitude = 44.213503
+longitude = -68.711691
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04627"
+

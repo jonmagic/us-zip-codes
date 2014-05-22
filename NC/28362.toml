@@ -1,6 +1,8 @@
-zip_code = "28362"
-state = "NC"
 city = "Marietta"
 county = "Robeson"
-longitude = -79.127936
 latitude = 34.379114
+longitude = -79.127936
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28362"
+

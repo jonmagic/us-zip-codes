@@ -1,6 +1,8 @@
-zip_code = "02814"
-state = "RI"
 city = "Chepachet"
 county = "Providence"
-longitude = -71.688769
 latitude = 41.888971
+longitude = -71.688769
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02814"
+

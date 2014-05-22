@@ -1,6 +1,8 @@
-zip_code = "63090"
-state = "MO"
 city = "Washington"
 county = "Franklin"
-longitude = -91.023546
 latitude = 38.523478
+longitude = -91.023546
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63090"
+

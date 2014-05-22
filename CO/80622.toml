@@ -1,6 +1,8 @@
-zip_code = "80622"
-state = "CO"
 city = "Galeton"
 county = "Weld"
-longitude = -104.500735
 latitude = 40.536158
+longitude = -104.500735
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80622"
+

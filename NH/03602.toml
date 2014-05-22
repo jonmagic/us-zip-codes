@@ -1,6 +1,8 @@
-zip_code = "03602"
-state = "NH"
 city = "Alstead"
 county = "Cheshire"
-longitude = -72.310623
 latitude = 43.134412
+longitude = -72.310623
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03602"
+

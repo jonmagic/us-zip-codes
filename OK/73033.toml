@@ -1,6 +1,8 @@
-zip_code = "73033"
-state = "OK"
 city = "Eakly"
 county = "Caddo"
-longitude = -98.555431
 latitude = 35.303031
+longitude = -98.555431
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73033"
+

@@ -1,6 +1,8 @@
-zip_code = "36744"
-state = "AL"
 city = "Greensboro"
 county = "Hale"
-longitude = -87.586079
 latitude = 32.699872
+longitude = -87.586079
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36744"
+

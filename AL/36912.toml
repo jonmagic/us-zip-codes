@@ -1,6 +1,8 @@
-zip_code = "36912"
-state = "AL"
 city = "Lisman"
 county = "Choctaw"
-longitude = -88.321388
 latitude = 32.233182
+longitude = -88.321388
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36912"
+

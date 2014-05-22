@@ -1,6 +1,8 @@
-zip_code = "73555"
-state = "OK"
 city = "Manitou"
 county = "Tillman"
-longitude = -98.979191
 latitude = 34.507462
+longitude = -98.979191
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73555"
+

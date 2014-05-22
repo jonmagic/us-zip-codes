@@ -1,6 +1,8 @@
-zip_code = "73010"
-state = "OK"
 city = "Blanchard"
 county = "Mcclain"
-longitude = -97.527291
 latitude = 35.094914
+longitude = -97.527291
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73010"
+

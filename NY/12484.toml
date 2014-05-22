@@ -1,6 +1,8 @@
-zip_code = "12484"
-state = "NY"
 city = "Stone Ridge"
 county = "Ulster"
-longitude = -74.20731
 latitude = 41.846274
+longitude = -74.20731
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12484"
+

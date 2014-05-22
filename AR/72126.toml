@@ -1,6 +1,8 @@
-zip_code = "72126"
-state = "AR"
 city = "Perryville"
 county = "Perry"
-longitude = -92.786535
 latitude = 35.025904
+longitude = -92.786535
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72126"
+

@@ -1,6 +1,8 @@
-zip_code = "33574"
-state = "FL"
 city = "Saint Leo"
 county = "Pasco"
-longitude = -82.269323
 latitude = 28.334752
+longitude = -82.269323
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33574"
+

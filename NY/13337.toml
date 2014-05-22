@@ -1,6 +1,8 @@
-zip_code = "13337"
-state = "NY"
 city = "Fly Creek"
 county = "Otsego"
-longitude = -74.876761
 latitude = 42.755679
+longitude = -74.876761
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13337"
+

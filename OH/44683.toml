@@ -1,6 +1,8 @@
-zip_code = "44683"
-state = "OH"
 city = "Uhrichsville"
 county = "Tuscarawas"
-longitude = -81.356471
 latitude = 40.451788
+longitude = -81.356471
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44683"
+

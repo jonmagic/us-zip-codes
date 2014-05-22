@@ -1,6 +1,8 @@
-zip_code = "70465"
-state = "LA"
 city = "Tangipahoa"
 county = "Tangipahoa"
-longitude = -90.51295
 latitude = 30.863873
+longitude = -90.51295
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70465"
+

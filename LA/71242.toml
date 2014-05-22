@@ -1,6 +1,8 @@
-zip_code = "71242"
-state = "LA"
 city = "Forest"
 county = "West Carroll"
-longitude = -91.398944
 latitude = 32.82388
+longitude = -91.398944
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71242"
+

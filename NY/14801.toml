@@ -1,6 +1,8 @@
-zip_code = "14801"
-state = "NY"
 city = "Addison"
 county = "Steuben"
-longitude = -77.306185
 latitude = 42.206391
+longitude = -77.306185
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14801"
+

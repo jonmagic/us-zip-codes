@@ -1,6 +1,8 @@
-zip_code = "12831"
-state = "NY"
 city = "Gansevoort"
 county = "Saratoga"
-longitude = -73.707415
 latitude = 43.204261
+longitude = -73.707415
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12831"
+

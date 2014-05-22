@@ -1,6 +1,8 @@
-zip_code = "07107"
-state = "NJ"
 city = "Newark"
 county = "Essex"
-longitude = -74.188029
 latitude = 40.7646
+longitude = -74.188029
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07107"
+

@@ -1,6 +1,8 @@
-zip_code = "94587"
-state = "CA"
 city = "Union City"
 county = "Alameda"
-longitude = -121.97362
 latitude = 37.589084
+longitude = -121.97362
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94587"
+

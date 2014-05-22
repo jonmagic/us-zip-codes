@@ -1,6 +1,8 @@
-zip_code = "13355"
-state = "NY"
 city = "Hubbardsville"
 county = "Madison"
-longitude = -75.422764
 latitude = 42.817286
+longitude = -75.422764
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13355"
+

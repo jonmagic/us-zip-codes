@@ -1,6 +1,8 @@
-zip_code = "86433"
-state = "AZ"
 city = "Oatman"
 county = "Mohave"
-longitude = -114.383666
 latitude = 35.028492
+longitude = -114.383666
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86433"
+

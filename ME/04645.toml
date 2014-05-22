@@ -1,6 +1,8 @@
-zip_code = "04645"
-state = "ME"
 city = "Isle Au Haut"
 county = "Knox"
-longitude = -69.148017
 latitude = 44.032196
+longitude = -69.148017
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04645"
+

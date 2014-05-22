@@ -1,6 +1,8 @@
-zip_code = "72425"
-state = "AR"
 city = "Delaplaine"
 county = "Greene"
-longitude = -90.721173
 latitude = 36.208255
+longitude = -90.721173
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72425"
+

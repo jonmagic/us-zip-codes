@@ -1,6 +1,8 @@
-zip_code = "28704"
-state = "NC"
 city = "Arden"
 county = "Buncombe"
-longitude = -82.541808
 latitude = 35.589686
+longitude = -82.541808
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28704"
+

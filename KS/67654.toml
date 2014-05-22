@@ -1,6 +1,8 @@
-zip_code = "67654"
-state = "KS"
 city = "Norton"
 county = "Norton"
-longitude = -99.891726
 latitude = 39.827955
+longitude = -99.891726
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67654"
+

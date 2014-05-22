@@ -1,6 +1,8 @@
-zip_code = "01079"
-state = "MA"
 city = "Thorndike"
 county = "Hampden"
-longitude = -72.329574
 latitude = 42.192892
+longitude = -72.329574
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01079"
+

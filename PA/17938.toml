@@ -1,6 +1,8 @@
-zip_code = "17938"
-state = "PA"
 city = "Hegins"
 county = "Schuylkill"
-longitude = -76.539205
 latitude = 40.688219
+longitude = -76.539205
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17938"
+

@@ -1,6 +1,8 @@
-zip_code = "02813"
-state = "RI"
 city = "Charlestown"
 county = "Washington"
-longitude = -71.66542
 latitude = 41.395079
+longitude = -71.66542
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02813"
+

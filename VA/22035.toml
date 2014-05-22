@@ -1,6 +1,8 @@
-zip_code = "22035"
-state = "VA"
 city = "Fairfax"
 county = "Fairfax"
-longitude = -77.361633
 latitude = 38.855715
+longitude = -77.361633
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22035"
+

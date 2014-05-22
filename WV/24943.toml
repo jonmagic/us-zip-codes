@@ -1,6 +1,8 @@
-zip_code = "24943"
-state = "WV"
 city = "Grassy Meadows"
 county = "Greenbrier"
-longitude = -80.426874
 latitude = 37.975595
+longitude = -80.426874
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24943"
+

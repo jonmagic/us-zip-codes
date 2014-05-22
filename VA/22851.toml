@@ -1,6 +1,8 @@
-zip_code = "22851"
-state = "VA"
 city = "Stanley"
 county = "Page"
-longitude = -78.512018
 latitude = 38.559864
+longitude = -78.512018
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22851"
+

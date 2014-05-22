@@ -1,6 +1,8 @@
-zip_code = "01969"
-state = "MA"
 city = "Rowley"
 county = "Essex"
-longitude = -70.892754
 latitude = 42.716155
+longitude = -70.892754
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01969"
+

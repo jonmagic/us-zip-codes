@@ -1,6 +1,8 @@
-zip_code = "61639"
-state = "IL"
 city = "Peoria"
 county = "Peoria"
-longitude = -89.563646
 latitude = 40.709837
+longitude = -89.563646
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61639"
+

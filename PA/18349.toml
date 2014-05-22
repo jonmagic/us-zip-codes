@@ -1,6 +1,8 @@
-zip_code = "18349"
-state = "PA"
 city = "Pocono Manor"
 county = "Monroe"
-longitude = -75.45882
 latitude = 41.122633
+longitude = -75.45882
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18349"
+

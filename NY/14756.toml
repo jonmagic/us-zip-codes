@@ -1,6 +1,8 @@
-zip_code = "14756"
-state = "NY"
 city = "Maple Springs"
 county = "Chautauqua"
-longitude = -79.417353
 latitude = 42.19815
+longitude = -79.417353
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14756"
+

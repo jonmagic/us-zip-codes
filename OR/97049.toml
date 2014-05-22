@@ -1,6 +1,8 @@
-zip_code = "97049"
-state = "OR"
 city = "Rhododendron"
 county = "Clackamas"
-longitude = -121.915134
 latitude = 45.346537
+longitude = -121.915134
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97049"
+

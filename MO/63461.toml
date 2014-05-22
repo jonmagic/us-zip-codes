@@ -1,6 +1,8 @@
-zip_code = "63461"
-state = "MO"
 city = "Palmyra"
 county = "Marion"
-longitude = -91.609424
 latitude = 39.794531
+longitude = -91.609424
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63461"
+

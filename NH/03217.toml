@@ -1,6 +1,8 @@
-zip_code = "03217"
-state = "NH"
 city = "Ashland"
 county = "Grafton"
-longitude = -71.639896
 latitude = 43.715626
+longitude = -71.639896
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03217"
+

@@ -1,6 +1,8 @@
-zip_code = "47227"
-state = "IN"
 city = "Commiskey"
 county = "Jennings"
-longitude = -85.660004
 latitude = 38.868992
+longitude = -85.660004
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47227"
+

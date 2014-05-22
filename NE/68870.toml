@@ -1,6 +1,8 @@
-zip_code = "68870"
-state = "NE"
 city = "Riverdale"
 county = "Buffalo"
-longitude = -99.126061
 latitude = 40.829478
+longitude = -99.126061
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68870"
+

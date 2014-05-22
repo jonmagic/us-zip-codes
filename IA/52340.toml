@@ -1,6 +1,8 @@
-zip_code = "52340"
-state = "IA"
 city = "Tiffin"
 county = "Johnson"
-longitude = -91.677347
 latitude = 41.701791
+longitude = -91.677347
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52340"
+

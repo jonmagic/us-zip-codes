@@ -1,6 +1,8 @@
-zip_code = "48182"
-state = "MI"
 city = "Temperance"
 county = "Monroe"
-longitude = -83.584998
 latitude = 41.790497
+longitude = -83.584998
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48182"
+

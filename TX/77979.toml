@@ -1,6 +1,8 @@
-zip_code = "77979"
-state = "TX"
 city = "Port Lavaca"
 county = "Calhoun"
-longitude = -96.600353
 latitude = 28.556096
+longitude = -96.600353
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77979"
+

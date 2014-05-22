@@ -1,6 +1,8 @@
-zip_code = "79252"
-state = "TX"
 city = "Quanah"
 county = "Hardeman"
-longitude = -99.857216
 latitude = 34.39086
+longitude = -99.857216
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79252"
+

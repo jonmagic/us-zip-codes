@@ -1,6 +1,8 @@
-zip_code = "42755"
-state = "KY"
 city = "Leitchfield"
 county = "Grayson"
-longitude = -86.343941
 latitude = 37.471943
+longitude = -86.343941
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42755"
+

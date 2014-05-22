@@ -1,6 +1,8 @@
-zip_code = "23250"
-state = "VA"
 city = "Richmond"
 county = "Henrico"
-longitude = -77.332916
 latitude = 37.507498
+longitude = -77.332916
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23250"
+

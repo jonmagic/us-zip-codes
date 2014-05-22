@@ -1,6 +1,8 @@
-zip_code = "50634"
-state = "IA"
 city = "Gilbertville"
 county = "Black Hawk"
-longitude = -92.21986
 latitude = 42.419686
+longitude = -92.21986
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50634"
+

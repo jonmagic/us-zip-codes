@@ -1,6 +1,8 @@
-zip_code = "31556"
-state = "GA"
 city = "Offerman"
 county = "Pierce"
-longitude = -82.115541
 latitude = 31.412649
+longitude = -82.115541
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31556"
+

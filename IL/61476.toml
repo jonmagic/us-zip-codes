@@ -1,6 +1,8 @@
-zip_code = "61476"
-state = "IL"
 city = "Seaton"
 county = "Mercer"
-longitude = -90.760811
 latitude = 41.136652
+longitude = -90.760811
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61476"
+

@@ -1,6 +1,8 @@
-zip_code = "44024"
-state = "OH"
 city = "Chardon"
 county = "Geauga"
-longitude = -81.157142
 latitude = 41.572432
+longitude = -81.157142
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44024"
+

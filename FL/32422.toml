@@ -1,6 +1,8 @@
-zip_code = "32422"
-state = "FL"
 city = "Argyle"
 county = "Walton"
-longitude = -86.031448
 latitude = 30.705557
+longitude = -86.031448
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32422"
+

@@ -1,6 +1,8 @@
-zip_code = "70510"
-state = "LA"
 city = "Abbeville"
 county = "Vermilion"
-longitude = -92.241595
 latitude = 29.946603
+longitude = -92.241595
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70510"
+

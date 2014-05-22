@@ -1,6 +1,8 @@
-zip_code = "49311"
-state = "MI"
 city = "Bradley"
 county = "Allegan"
-longitude = -85.643043
 latitude = 42.633006
+longitude = -85.643043
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49311"
+

@@ -1,6 +1,8 @@
-zip_code = "38581"
-state = "TN"
 city = "Rock Island"
 county = "Warren"
-longitude = -85.678847
 latitude = 35.766758
+longitude = -85.678847
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38581"
+

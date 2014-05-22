@@ -1,6 +1,8 @@
-zip_code = "66944"
-state = "KS"
 city = "Haddam"
 county = "Washington"
-longitude = -97.269445
 latitude = 39.83551
+longitude = -97.269445
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66944"
+

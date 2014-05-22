@@ -1,6 +1,8 @@
-zip_code = "71070"
-state = "LA"
 city = "Saline"
 county = "Bienville"
-longitude = -92.91702
 latitude = 32.19698
+longitude = -92.91702
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71070"
+

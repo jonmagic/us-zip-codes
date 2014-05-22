@@ -1,6 +1,8 @@
-zip_code = "04265"
-state = "ME"
 city = "North Monmouth"
 county = "Kennebec"
-longitude = -70.037848
 latitude = 44.303359
+longitude = -70.037848
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04265"
+

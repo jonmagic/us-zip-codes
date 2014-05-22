@@ -1,6 +1,8 @@
-zip_code = "49087"
-state = "MI"
 city = "Schoolcraft"
 county = "Kalamazoo"
-longitude = -85.656846
 latitude = 42.135078
+longitude = -85.656846
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49087"
+

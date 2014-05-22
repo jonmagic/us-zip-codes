@@ -1,6 +1,8 @@
-zip_code = "30726"
-state = "GA"
 city = "Graysville"
 county = "Catoosa"
-longitude = -85.140798
 latitude = 34.980249
+longitude = -85.140798
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30726"
+

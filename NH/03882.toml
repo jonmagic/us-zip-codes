@@ -1,6 +1,8 @@
-zip_code = "03882"
-state = "NH"
 city = "Effingham"
 county = "Carroll"
-longitude = -70.990155
 latitude = 43.704702
+longitude = -70.990155
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03882"
+

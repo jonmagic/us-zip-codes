@@ -1,6 +1,8 @@
-zip_code = "57439"
-state = "SD"
 city = "Ferney"
 county = "Brown"
-longitude = -98.083721
 latitude = 45.32904
+longitude = -98.083721
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57439"
+

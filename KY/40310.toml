@@ -1,6 +1,8 @@
-zip_code = "40310"
-state = "KY"
 city = "Burgin"
 county = "Mercer"
-longitude = -84.74994
 latitude = 37.754839
+longitude = -84.74994
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40310"
+

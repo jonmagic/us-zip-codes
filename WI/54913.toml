@@ -1,6 +1,8 @@
-zip_code = "54913"
-state = "WI"
 city = "Appleton"
 county = "Outagamie"
-longitude = -88.434297
 latitude = 44.345553
+longitude = -88.434297
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54913"
+

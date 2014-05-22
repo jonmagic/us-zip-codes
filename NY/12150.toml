@@ -1,6 +1,8 @@
-zip_code = "12150"
-state = "NY"
 city = "Rotterdam Junction"
 county = "Schenectady"
-longitude = -74.050083
 latitude = 42.869961
+longitude = -74.050083
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12150"
+

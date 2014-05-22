@@ -1,6 +1,8 @@
-zip_code = "67038"
-state = "KS"
 city = "Dexter"
 county = "Cowley"
-longitude = -96.715776
 latitude = 37.178743
+longitude = -96.715776
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67038"
+

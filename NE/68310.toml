@@ -1,6 +1,8 @@
-zip_code = "68310"
-state = "NE"
 city = "Beatrice"
 county = "Gage"
-longitude = -96.693082
 latitude = 40.313364
+longitude = -96.693082
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68310"
+

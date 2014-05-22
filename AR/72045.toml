@@ -1,6 +1,8 @@
-zip_code = "72045"
-state = "AR"
 city = "El Paso"
 county = "White"
-longitude = -92.043231
 latitude = 35.128619
+longitude = -92.043231
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72045"
+

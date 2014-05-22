@@ -1,6 +1,8 @@
-zip_code = "54942"
-state = "WI"
 city = "Greenville"
 county = "Outagamie"
-longitude = -88.556406
 latitude = 44.286983
+longitude = -88.556406
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54942"
+

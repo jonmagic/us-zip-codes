@@ -1,6 +1,8 @@
-zip_code = "95993"
-state = "CA"
 city = "Yuba City"
 county = "Sutter"
-longitude = -121.737911
 latitude = 39.130338
+longitude = -121.737911
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95993"
+

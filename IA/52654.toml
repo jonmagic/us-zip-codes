@@ -1,6 +1,8 @@
-zip_code = "52654"
-state = "IA"
 city = "Wayland"
 county = "Henry"
-longitude = -91.561327
 latitude = 41.033746
+longitude = -91.561327
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52654"
+

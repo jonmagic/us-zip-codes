@@ -1,6 +1,8 @@
-zip_code = "43136"
-state = "OH"
 city = "Lithopolis"
 county = "Fairfield"
-longitude = -82.7219
 latitude = 39.76155
+longitude = -82.7219
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43136"
+

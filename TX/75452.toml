@@ -1,6 +1,8 @@
-zip_code = "75452"
-state = "TX"
 city = "Leonard"
 county = "Fannin"
-longitude = -96.238027
 latitude = 33.41874
+longitude = -96.238027
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75452"
+

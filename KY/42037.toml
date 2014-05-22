@@ -1,6 +1,8 @@
-zip_code = "42037"
-state = "KY"
 city = "Dycusburg"
 county = "Crittenden"
-longitude = -88.183598
 latitude = 37.157866
+longitude = -88.183598
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42037"
+

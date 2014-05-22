@@ -1,6 +1,8 @@
-zip_code = "70001"
-state = "LA"
 city = "Metairie"
 county = "Jefferson"
-longitude = -90.161821
 latitude = 29.984643
+longitude = -90.161821
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70001"
+

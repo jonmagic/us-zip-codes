@@ -1,6 +1,8 @@
-zip_code = "56309"
-state = "MN"
 city = "Ashby"
 county = "Grant"
-longitude = -95.816743
 latitude = 46.09171
+longitude = -95.816743
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56309"
+

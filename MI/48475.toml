@@ -1,6 +1,8 @@
-zip_code = "48475"
-state = "MI"
 city = "Ubly"
 county = "Huron"
-longitude = -83.023993
 latitude = 43.80794
+longitude = -83.023993
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48475"
+

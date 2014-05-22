@@ -1,6 +1,8 @@
-zip_code = "43613"
-state = "OH"
 city = "Toledo"
 county = "Lucas"
-longitude = -83.606235
 latitude = 41.703548
+longitude = -83.606235
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43613"
+

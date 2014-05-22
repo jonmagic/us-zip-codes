@@ -1,6 +1,8 @@
-zip_code = "83626"
-state = "ID"
 city = "Greenleaf"
 county = "Canyon"
-longitude = -116.76248
 latitude = 43.679989
+longitude = -116.76248
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83626"
+

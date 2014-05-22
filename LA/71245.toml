@@ -1,6 +1,8 @@
-zip_code = "71245"
-state = "LA"
 city = "Grambling"
 county = "Lincoln"
-longitude = -92.73593
 latitude = 32.515626
+longitude = -92.73593
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71245"
+

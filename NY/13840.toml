@@ -1,6 +1,8 @@
-zip_code = "13840"
-state = "NY"
 city = "Smithboro"
 county = "Tioga"
-longitude = -76.400376
 latitude = 42.039512
+longitude = -76.400376
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13840"
+

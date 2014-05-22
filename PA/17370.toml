@@ -1,6 +1,8 @@
-zip_code = "17370"
-state = "PA"
 city = "York Haven"
 county = "York"
-longitude = -76.720322
 latitude = 40.067766
+longitude = -76.720322
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17370"
+

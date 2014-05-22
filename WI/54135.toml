@@ -1,6 +1,8 @@
-zip_code = "54135"
-state = "WI"
 city = "Keshena"
 county = "Menominee"
-longitude = -88.575133
 latitude = 44.88646
+longitude = -88.575133
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54135"
+

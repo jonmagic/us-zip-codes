@@ -1,6 +1,8 @@
-zip_code = "94533"
-state = "CA"
 city = "Fairfield"
 county = "Solano"
-longitude = -122.020276
 latitude = 38.278428
+longitude = -122.020276
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94533"
+

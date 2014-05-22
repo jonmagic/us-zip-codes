@@ -1,6 +1,8 @@
-zip_code = "10802"
-state = "NY"
 city = "New Rochelle"
 county = "Westchester"
-longitude = -73.795361
 latitude = 40.948274
+longitude = -73.795361
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10802"
+

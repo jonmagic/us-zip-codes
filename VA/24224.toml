@@ -1,6 +1,8 @@
-zip_code = "24224"
-state = "VA"
 city = "Castlewood"
 county = "Russell"
-longitude = -81.855318
 latitude = 37.043978
+longitude = -81.855318
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24224"
+

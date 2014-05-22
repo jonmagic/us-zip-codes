@@ -1,6 +1,8 @@
-zip_code = "80755"
-state = "CO"
 city = "Vernon"
 county = "Yuma"
-longitude = -102.434252
 latitude = 39.812149
+longitude = -102.434252
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80755"
+

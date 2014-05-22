@@ -1,6 +1,8 @@
-zip_code = "32038"
-state = "FL"
 city = "Fort White"
 county = "Columbia"
-longitude = -82.626332
 latitude = 30.211903
+longitude = -82.626332
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32038"
+

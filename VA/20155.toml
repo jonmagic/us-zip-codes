@@ -1,6 +1,8 @@
-zip_code = "20155"
-state = "VA"
 city = "Gainesville"
 county = "Prince William"
-longitude = -77.621613
 latitude = 38.815714
+longitude = -77.621613
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20155"
+

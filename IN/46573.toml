@@ -1,6 +1,8 @@
-zip_code = "46573"
-state = "IN"
 city = "Wakarusa"
 county = "Elkhart"
-longitude = -85.882695
 latitude = 41.58574
+longitude = -85.882695
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46573"
+

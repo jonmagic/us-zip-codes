@@ -1,6 +1,8 @@
-zip_code = "21861"
-state = "MD"
 city = "Sharptown"
 county = "Wicomico"
-longitude = -75.719182
 latitude = 38.538904
+longitude = -75.719182
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21861"
+

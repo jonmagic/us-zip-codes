@@ -1,6 +1,8 @@
-zip_code = "12067"
-state = "NY"
 city = "Feura Bush"
 county = "Albany"
-longitude = -73.913714
 latitude = 42.555446
+longitude = -73.913714
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12067"
+

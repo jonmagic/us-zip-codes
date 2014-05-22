@@ -1,6 +1,8 @@
-zip_code = "50152"
-state = "IA"
 city = "Luther"
 county = "Boone"
-longitude = -93.837061
 latitude = 41.938679
+longitude = -93.837061
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50152"
+

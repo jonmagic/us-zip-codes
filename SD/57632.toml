@@ -1,6 +1,8 @@
-zip_code = "57632"
-state = "SD"
 city = "Herreid"
 county = "Campbell"
-longitude = -100.020048
 latitude = 45.833733
+longitude = -100.020048
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57632"
+

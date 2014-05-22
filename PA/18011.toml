@@ -1,6 +1,8 @@
-zip_code = "18011"
-state = "PA"
 city = "Alburtis"
 county = "Lehigh"
-longitude = -75.602941
 latitude = 40.514472
+longitude = -75.602941
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18011"
+

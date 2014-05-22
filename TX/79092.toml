@@ -1,6 +1,8 @@
-zip_code = "79092"
-state = "TX"
 city = "Vega"
 county = "Oldham"
-longitude = -102.421407
 latitude = 35.224143
+longitude = -102.421407
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79092"
+

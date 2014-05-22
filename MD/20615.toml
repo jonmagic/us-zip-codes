@@ -1,6 +1,8 @@
-zip_code = "20615"
-state = "MD"
 city = "Broomes Island"
 county = "Calvert"
-longitude = -76.567469
 latitude = 38.493984
+longitude = -76.567469
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20615"
+

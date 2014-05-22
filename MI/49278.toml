@@ -1,6 +1,8 @@
-zip_code = "49278"
-state = "MI"
 city = "Rollin"
 county = "Lenawee"
-longitude = -84.32652
 latitude = 41.912292
+longitude = -84.32652
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49278"
+

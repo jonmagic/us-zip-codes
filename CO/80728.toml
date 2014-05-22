@@ -1,6 +1,8 @@
-zip_code = "80728"
-state = "CO"
 city = "Fleming"
 county = "Logan"
-longitude = -102.874735
 latitude = 40.598608
+longitude = -102.874735
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80728"
+

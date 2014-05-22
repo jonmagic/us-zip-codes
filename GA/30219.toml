@@ -1,6 +1,8 @@
-zip_code = "30219"
-state = "GA"
 city = "Glenn"
 county = "Heard"
-longitude = -85.170588
 latitude = 33.157214
+longitude = -85.170588
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30219"
+

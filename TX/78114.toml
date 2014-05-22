@@ -1,6 +1,8 @@
-zip_code = "78114"
-state = "TX"
 city = "Floresville"
 county = "Wilson"
-longitude = -98.175887
 latitude = 29.162771
+longitude = -98.175887
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78114"
+

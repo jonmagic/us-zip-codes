@@ -1,6 +1,8 @@
-zip_code = "02667"
-state = "MA"
 city = "Wellfleet"
 county = "Barnstable"
-longitude = -70.022806
 latitude = 41.821307
+longitude = -70.022806
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02667"
+

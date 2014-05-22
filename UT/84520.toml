@@ -1,6 +1,8 @@
-zip_code = "84520"
-state = "UT"
 city = "East Carbon"
 county = "Carbon"
-longitude = -110.403536
 latitude = 39.531795
+longitude = -110.403536
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84520"
+

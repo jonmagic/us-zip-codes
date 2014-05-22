@@ -1,6 +1,8 @@
-zip_code = "66440"
-state = "KS"
 city = "Hoyt"
 county = "Jackson"
-longitude = -95.685374
 latitude = 39.305187
+longitude = -95.685374
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66440"
+

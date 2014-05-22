@@ -1,6 +1,8 @@
-zip_code = "50434"
-state = "IA"
 city = "Fertile"
 county = "Worth"
-longitude = -93.28496
 latitude = 43.299228
+longitude = -93.28496
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50434"
+

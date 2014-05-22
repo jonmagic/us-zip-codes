@@ -1,6 +1,8 @@
-zip_code = "75475"
-state = "TX"
 city = "Randolph"
 county = "Fannin"
-longitude = -96.254127
 latitude = 33.484594
+longitude = -96.254127
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75475"
+

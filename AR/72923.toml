@@ -1,6 +1,8 @@
-zip_code = "72923"
-state = "AR"
 city = "Barling"
 county = "Sebastian"
-longitude = -94.354857
 latitude = 35.216137
+longitude = -94.354857
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72923"
+

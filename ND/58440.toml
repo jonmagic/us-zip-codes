@@ -1,6 +1,8 @@
-zip_code = "58440"
-state = "ND"
 city = "Fredonia"
 county = "Logan"
-longitude = -99.173337
 latitude = 46.37014
+longitude = -99.173337
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58440"
+

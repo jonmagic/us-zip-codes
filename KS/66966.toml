@@ -1,6 +1,8 @@
-zip_code = "66966"
-state = "KS"
 city = "Scandia"
 county = "Republic"
-longitude = -97.783734
 latitude = 39.794591
+longitude = -97.783734
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66966"
+

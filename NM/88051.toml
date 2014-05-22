@@ -1,6 +1,8 @@
-zip_code = "88051"
-state = "NM"
 city = "Mule Creek"
 county = "Grant"
-longitude = -108.903197
 latitude = 33.107131
+longitude = -108.903197
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88051"
+

@@ -1,6 +1,8 @@
-zip_code = "68128"
-state = "NE"
 city = "La Vista"
 county = "Sarpy"
-longitude = -96.061055
 latitude = 41.164994
+longitude = -96.061055
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68128"
+

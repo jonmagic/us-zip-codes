@@ -1,6 +1,8 @@
-zip_code = "55969"
-state = "MN"
 city = "Rollingstone"
 county = "Winona"
-longitude = -91.819882
 latitude = 44.099266
+longitude = -91.819882
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55969"
+

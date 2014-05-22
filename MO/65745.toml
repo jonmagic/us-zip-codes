@@ -1,6 +1,8 @@
-zip_code = "65745"
-state = "MO"
 city = "Seligman"
 county = "Barry"
-longitude = -93.937458
 latitude = 36.527016
+longitude = -93.937458
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65745"
+

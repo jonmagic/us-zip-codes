@@ -1,6 +1,8 @@
-zip_code = "20170"
-state = "VA"
 city = "Herndon"
 county = "Fairfax"
-longitude = -77.367457
 latitude = 38.983887
+longitude = -77.367457
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20170"
+

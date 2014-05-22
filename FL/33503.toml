@@ -1,6 +1,8 @@
-zip_code = "33503"
-state = "FL"
 city = "Balm"
 county = "Hillsborough"
-longitude = -82.273409
 latitude = 27.764761
+longitude = -82.273409
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33503"
+

@@ -1,6 +1,8 @@
-zip_code = "48097"
-state = "MI"
 city = "Yale"
 county = "Saint Clair"
-longitude = -82.739491
 latitude = 42.879217
+longitude = -82.739491
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48097"
+

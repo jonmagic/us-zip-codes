@@ -1,6 +1,8 @@
-zip_code = "54750"
-state = "WI"
 city = "Maiden Rock"
 county = "Pierce"
-longitude = -92.29072
 latitude = 44.623923
+longitude = -92.29072
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54750"
+

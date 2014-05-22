@@ -1,6 +1,8 @@
-zip_code = "64098"
-state = "MO"
 city = "Weston"
 county = "Platte"
-longitude = -94.928011
 latitude = 39.377692
+longitude = -94.928011
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64098"
+

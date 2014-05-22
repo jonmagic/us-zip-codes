@@ -1,6 +1,8 @@
-zip_code = "67482"
-state = "KS"
 city = "Talmage"
 county = "Dickinson"
-longitude = -97.259116
 latitude = 39.02241
+longitude = -97.259116
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67482"
+

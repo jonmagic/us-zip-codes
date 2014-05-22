@@ -1,6 +1,8 @@
-zip_code = "28385"
-state = "NC"
 city = "Salemburg"
 county = "Sampson"
-longitude = -78.508895
 latitude = 35.045096
+longitude = -78.508895
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28385"
+

@@ -1,6 +1,8 @@
-zip_code = "06778"
-state = "CT"
 city = "Northfield"
 county = "Litchfield"
-longitude = -73.108997
 latitude = 41.707722
+longitude = -73.108997
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06778"
+

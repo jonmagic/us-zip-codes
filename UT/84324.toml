@@ -1,6 +1,8 @@
-zip_code = "84324"
-state = "UT"
 city = "Mantua"
 county = "Box Elder"
-longitude = -111.9424
 latitude = 41.492844
+longitude = -111.9424
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84324"
+

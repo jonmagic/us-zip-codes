@@ -1,6 +1,8 @@
-zip_code = "47446"
-state = "IN"
 city = "Mitchell"
 county = "Lawrence"
-longitude = -86.50326
 latitude = 38.803928
+longitude = -86.50326
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47446"
+

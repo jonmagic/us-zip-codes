@@ -1,6 +1,8 @@
-zip_code = "18433"
-state = "PA"
 city = "Jermyn"
 county = "Lackawanna"
-longitude = -75.618764
 latitude = 41.561174
+longitude = -75.618764
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18433"
+

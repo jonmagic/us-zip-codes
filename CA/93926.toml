@@ -1,6 +1,8 @@
-zip_code = "93926"
-state = "CA"
 city = "Gonzales"
 county = "Monterey"
-longitude = -121.408607
 latitude = 36.502102
+longitude = -121.408607
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93926"
+

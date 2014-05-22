@@ -1,6 +1,8 @@
-zip_code = "61940"
-state = "IL"
 city = "Metcalf"
 county = "Edgar"
-longitude = -87.780032
 latitude = 39.80461
+longitude = -87.780032
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61940"
+

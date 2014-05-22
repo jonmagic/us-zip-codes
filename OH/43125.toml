@@ -1,6 +1,8 @@
-zip_code = "43125"
-state = "OH"
 city = "Groveport"
 county = "Franklin"
-longitude = -82.88487
 latitude = 39.84692
+longitude = -82.88487
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43125"
+

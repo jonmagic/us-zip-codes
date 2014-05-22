@@ -1,6 +1,8 @@
-zip_code = "67117"
-state = "KS"
 city = "North Newton"
 county = "Harvey"
-longitude = -97.355813
 latitude = 38.048707
+longitude = -97.355813
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67117"
+

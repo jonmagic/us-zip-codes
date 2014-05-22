@@ -1,6 +1,8 @@
-zip_code = "29030"
-state = "SC"
 city = "Cameron"
 county = "Calhoun"
-longitude = -80.708141
 latitude = 33.570316
+longitude = -80.708141
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29030"
+

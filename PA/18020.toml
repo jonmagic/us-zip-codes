@@ -1,6 +1,8 @@
-zip_code = "18020"
-state = "PA"
 city = "Bethlehem"
 county = "Northampton"
-longitude = -75.334887
 latitude = 40.669251
+longitude = -75.334887
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18020"
+

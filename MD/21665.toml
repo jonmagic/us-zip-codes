@@ -1,6 +1,8 @@
-zip_code = "21665"
-state = "MD"
 city = "Sherwood"
 county = "Talbot"
-longitude = -76.326606
 latitude = 38.745387
+longitude = -76.326606
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21665"
+

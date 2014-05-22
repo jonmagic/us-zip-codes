@@ -1,6 +1,8 @@
-zip_code = "68320"
-state = "NE"
 city = "Brock"
 county = "Nemaha"
-longitude = -95.960638
 latitude = 40.479009
+longitude = -95.960638
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68320"
+

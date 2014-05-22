@@ -1,6 +1,8 @@
-zip_code = "81328"
-state = "CO"
 city = "Mancos"
 county = "Montezuma"
-longitude = -108.468364
 latitude = 37.336041
+longitude = -108.468364
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81328"
+

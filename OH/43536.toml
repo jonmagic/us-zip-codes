@@ -1,6 +1,8 @@
-zip_code = "43536"
-state = "OH"
 city = "Mark Center"
 county = "Defiance"
-longitude = -84.640393
 latitude = 41.31085
+longitude = -84.640393
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43536"
+

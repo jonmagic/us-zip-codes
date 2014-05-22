@@ -1,6 +1,8 @@
-zip_code = "28747"
-state = "NC"
 city = "Lake Toxaway"
 county = "Transylvania"
-longitude = -82.826781
 latitude = 35.157059
+longitude = -82.826781
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28747"
+

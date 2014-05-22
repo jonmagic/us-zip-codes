@@ -1,6 +1,8 @@
-zip_code = "05354"
-state = "VT"
 city = "Vernon"
 county = "Windham"
-longitude = -72.520166
 latitude = 42.773711
+longitude = -72.520166
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05354"
+

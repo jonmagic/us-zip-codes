@@ -1,6 +1,8 @@
-zip_code = "98382"
-state = "WA"
 city = "Sequim"
 county = "Clallam"
-longitude = -123.080362
 latitude = 48.06773
+longitude = -123.080362
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98382"
+

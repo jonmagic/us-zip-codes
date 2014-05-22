@@ -1,6 +1,8 @@
-zip_code = "87936"
-state = "NM"
 city = "Garfield"
 county = "Dona Ana"
-longitude = -107.100101
 latitude = 32.52512
+longitude = -107.100101
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87936"
+

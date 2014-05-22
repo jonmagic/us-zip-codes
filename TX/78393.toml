@@ -1,6 +1,8 @@
-zip_code = "78393"
-state = "TX"
 city = "Woodsboro"
 county = "Refugio"
-longitude = -97.334538
 latitude = 28.206879
+longitude = -97.334538
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78393"
+

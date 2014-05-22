@@ -1,6 +1,8 @@
-zip_code = "06418"
-state = "CT"
 city = "Derby"
 county = "New Haven"
-longitude = -73.084252
 latitude = 41.327246
+longitude = -73.084252
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06418"
+

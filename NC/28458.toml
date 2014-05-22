@@ -1,6 +1,8 @@
-zip_code = "28458"
-state = "NC"
 city = "Rose Hill"
 county = "Duplin"
-longitude = -78.022982
 latitude = 34.829225
+longitude = -78.022982
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28458"
+

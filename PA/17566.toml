@@ -1,6 +1,8 @@
-zip_code = "17566"
-state = "PA"
 city = "Quarryville"
 county = "Lancaster"
-longitude = -76.148506
 latitude = 39.856368
+longitude = -76.148506
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17566"
+

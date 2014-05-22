@@ -1,6 +1,8 @@
-zip_code = "76906"
-state = "TX"
 city = "San Angelo"
 county = "Tom Green"
-longitude = -100.495114
 latitude = 31.372754
+longitude = -100.495114
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76906"
+

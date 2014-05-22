@@ -1,6 +1,8 @@
-zip_code = "06756"
-state = "CT"
 city = "Goshen"
 county = "Litchfield"
-longitude = -73.239023
 latitude = 41.794278
+longitude = -73.239023
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06756"
+

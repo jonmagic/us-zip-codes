@@ -1,6 +1,8 @@
-zip_code = "07876"
-state = "NJ"
 city = "Succasunna"
 county = "Morris"
-longitude = -74.655255
 latitude = 40.855286
+longitude = -74.655255
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07876"
+

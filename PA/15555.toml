@@ -1,6 +1,8 @@
-zip_code = "15555"
-state = "PA"
 city = "Quecreek"
 county = "Somerset"
-longitude = -79.087198
 latitude = 40.091429
+longitude = -79.087198
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15555"
+

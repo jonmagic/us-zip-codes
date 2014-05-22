@@ -1,6 +1,8 @@
-zip_code = "60954"
-state = "IL"
 city = "Momence"
 county = "Kankakee"
-longitude = -87.868519
 latitude = 41.116572
+longitude = -87.868519
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60954"
+

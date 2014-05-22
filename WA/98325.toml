@@ -1,6 +1,8 @@
-zip_code = "98325"
-state = "WA"
 city = "Chimacum"
 county = "Jefferson"
-longitude = -122.815701
 latitude = 47.915272
+longitude = -122.815701
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98325"
+

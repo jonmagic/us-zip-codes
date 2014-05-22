@@ -1,6 +1,8 @@
-zip_code = "29445"
-state = "SC"
 city = "Goose Creek"
 county = "Berkeley"
-longitude = -80.010088
 latitude = 33.057972
+longitude = -80.010088
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29445"
+

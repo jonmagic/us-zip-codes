@@ -1,6 +1,8 @@
-zip_code = "29669"
-state = "SC"
 city = "Pelzer"
 county = "Anderson"
-longitude = -82.535325
 latitude = 34.656799
+longitude = -82.535325
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29669"
+

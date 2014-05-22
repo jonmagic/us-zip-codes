@@ -1,6 +1,8 @@
-zip_code = "36922"
-state = "AL"
 city = "Ward"
 county = "Choctaw"
-longitude = -88.065479
 latitude = 32.210259
+longitude = -88.065479
+state = "Alabama"
+state_code_alpha2 = "AL"
+zip_code = "36922"
+

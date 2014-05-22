@@ -1,6 +1,8 @@
-zip_code = "79539"
-state = "TX"
 city = "O Brien"
 county = "Haskell"
-longitude = -99.847301
 latitude = 33.286038
+longitude = -99.847301
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79539"
+

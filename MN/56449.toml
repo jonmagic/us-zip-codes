@@ -1,6 +1,8 @@
-zip_code = "56449"
-state = "MN"
 city = "Fort Ripley"
 county = "Crow Wing"
-longitude = -94.245167
 latitude = 46.200293
+longitude = -94.245167
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56449"
+

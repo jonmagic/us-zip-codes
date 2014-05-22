@@ -1,6 +1,8 @@
-zip_code = "58444"
-state = "ND"
 city = "Goodrich"
 county = "Sheridan"
-longitude = -100.14659
 latitude = 47.479529
+longitude = -100.14659
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58444"
+

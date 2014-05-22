@@ -1,6 +1,8 @@
-zip_code = "41142"
-state = "KY"
 city = "Grahn"
 county = "Carter"
-longitude = -83.081077
 latitude = 38.28974
+longitude = -83.081077
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41142"
+

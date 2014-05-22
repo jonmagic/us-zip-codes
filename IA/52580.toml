@@ -1,6 +1,8 @@
-zip_code = "52580"
-state = "IA"
 city = "Packwood"
 county = "Jefferson"
-longitude = -92.092371
 latitude = 41.119571
+longitude = -92.092371
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52580"
+

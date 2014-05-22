@@ -1,6 +1,8 @@
-zip_code = "41007"
-state = "KY"
 city = "California"
 county = "Campbell"
-longitude = -84.317079
 latitude = 38.905563
+longitude = -84.317079
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41007"
+

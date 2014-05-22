@@ -1,6 +1,8 @@
-zip_code = "04981"
-state = "ME"
 city = "Stockton Springs"
 county = "Waldo"
-longitude = -68.891743
 latitude = 44.501114
+longitude = -68.891743
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04981"
+

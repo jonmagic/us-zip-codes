@@ -1,6 +1,8 @@
-zip_code = "42234"
-state = "KY"
 city = "Guthrie"
 county = "Todd"
-longitude = -87.150248
 latitude = 36.714895
+longitude = -87.150248
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42234"
+

@@ -1,6 +1,8 @@
-zip_code = "44250"
-state = "OH"
 city = "Lakemore"
 county = "Summit"
-longitude = -81.427942
 latitude = 41.022156
+longitude = -81.427942
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44250"
+

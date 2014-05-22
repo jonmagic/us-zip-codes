@@ -1,6 +1,8 @@
-zip_code = "02743"
-state = "MA"
 city = "Acushnet"
 county = "Bristol"
-longitude = -70.908286
 latitude = 41.711894
+longitude = -70.908286
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02743"
+

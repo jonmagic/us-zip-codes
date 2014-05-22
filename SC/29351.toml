@@ -1,6 +1,8 @@
-zip_code = "29351"
-state = "SC"
 city = "Joanna"
 county = "Laurens"
-longitude = -81.804172
 latitude = 34.415357
+longitude = -81.804172
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29351"
+

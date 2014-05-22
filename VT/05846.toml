@@ -1,6 +1,8 @@
-zip_code = "05846"
-state = "VT"
 city = "Island Pond"
 county = "Essex"
-longitude = -71.841125
 latitude = 44.832535
+longitude = -71.841125
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05846"
+

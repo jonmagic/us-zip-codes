@@ -1,6 +1,8 @@
-zip_code = "74370"
-state = "OK"
 city = "Wyandotte"
 county = "Ottawa"
-longitude = -94.789475
 latitude = 36.798561
+longitude = -94.789475
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74370"
+

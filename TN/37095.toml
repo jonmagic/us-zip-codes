@@ -1,6 +1,8 @@
-zip_code = "37095"
-state = "TN"
 city = "Liberty"
 county = "Dekalb"
-longitude = -85.944738
 latitude = 35.999286
+longitude = -85.944738
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37095"
+

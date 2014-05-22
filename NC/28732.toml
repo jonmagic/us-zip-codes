@@ -1,6 +1,8 @@
-zip_code = "28732"
-state = "NC"
 city = "Fletcher"
 county = "Henderson"
-longitude = -82.494647
 latitude = 35.370666
+longitude = -82.494647
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28732"
+

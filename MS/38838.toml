@@ -1,6 +1,8 @@
-zip_code = "38838"
-state = "MS"
 city = "Dennis"
 county = "Tishomingo"
-longitude = -88.248391
 latitude = 34.584628
+longitude = -88.248391
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38838"
+

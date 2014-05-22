@@ -1,6 +1,8 @@
-zip_code = "44065"
-state = "OH"
 city = "Newbury"
 county = "Geauga"
-longitude = -81.273831
 latitude = 41.456099
+longitude = -81.273831
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44065"
+

@@ -1,6 +1,8 @@
-zip_code = "08042"
-state = "NJ"
 city = "Juliustown"
 county = "Burlington"
-longitude = -74.66464
 latitude = 40.012273
+longitude = -74.66464
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08042"
+

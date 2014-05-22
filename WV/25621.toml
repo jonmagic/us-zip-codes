@@ -1,6 +1,8 @@
-zip_code = "25621"
-state = "WV"
 city = "Gilbert"
 county = "Mingo"
-longitude = -81.950082
 latitude = 37.636568
+longitude = -81.950082
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25621"
+

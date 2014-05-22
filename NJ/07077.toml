@@ -1,6 +1,8 @@
-zip_code = "07077"
-state = "NJ"
 city = "Sewaren"
 county = "Middlesex"
-longitude = -74.259139
 latitude = 40.551804
+longitude = -74.259139
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07077"
+

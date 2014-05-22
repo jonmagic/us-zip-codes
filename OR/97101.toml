@@ -1,6 +1,8 @@
-zip_code = "97101"
-state = "OR"
 city = "Amity"
 county = "Yamhill"
-longitude = -123.191368
 latitude = 45.121454
+longitude = -123.191368
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97101"
+

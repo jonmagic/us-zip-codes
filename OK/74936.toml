@@ -1,6 +1,8 @@
-zip_code = "74936"
-state = "OK"
 city = "Gans"
 county = "Sequoyah"
-longitude = -94.690149
 latitude = 35.394647
+longitude = -94.690149
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74936"
+

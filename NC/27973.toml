@@ -1,6 +1,8 @@
-zip_code = "27973"
-state = "NC"
 city = "Shawboro"
 county = "Currituck"
-longitude = -76.09242
 latitude = 36.400991
+longitude = -76.09242
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27973"
+

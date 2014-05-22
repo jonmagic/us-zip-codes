@@ -1,6 +1,8 @@
-zip_code = "15642"
-state = "PA"
 city = "Irwin"
 county = "Westmoreland"
-longitude = -79.58406
 latitude = 40.36502
+longitude = -79.58406
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15642"
+

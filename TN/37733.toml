@@ -1,6 +1,8 @@
-zip_code = "37733"
-state = "TN"
 city = "Rugby"
 county = "Morgan"
-longitude = -84.713666
 latitude = 36.351914
+longitude = -84.713666
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37733"
+

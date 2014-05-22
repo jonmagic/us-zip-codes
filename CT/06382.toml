@@ -1,6 +1,8 @@
-zip_code = "06382"
-state = "CT"
 city = "Uncasville"
 county = "New London"
-longitude = -72.069578
 latitude = 41.424507
+longitude = -72.069578
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06382"
+

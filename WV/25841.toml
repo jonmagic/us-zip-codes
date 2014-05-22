@@ -1,6 +1,8 @@
-zip_code = "25841"
-state = "WV"
 city = "Flat Top"
 county = "Mercer"
-longitude = -81.100627
 latitude = 37.554091
+longitude = -81.100627
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25841"
+

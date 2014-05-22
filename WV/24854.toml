@@ -1,6 +1,8 @@
-zip_code = "24854"
-state = "WV"
 city = "Kopperston"
 county = "Wyoming"
-longitude = -81.574986
 latitude = 37.743967
+longitude = -81.574986
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24854"
+

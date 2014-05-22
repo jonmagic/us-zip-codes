@@ -1,6 +1,8 @@
-zip_code = "99752"
-state = "AK"
 city = "Kotzebue"
 county = "Northwest Arctic"
-longitude = -161.780844
 latitude = 66.865256
+longitude = -161.780844
+state = ""
+state_code_alpha2 = ""
+zip_code = "99752"
+

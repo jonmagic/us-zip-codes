@@ -1,6 +1,8 @@
-zip_code = "29915"
-state = "SC"
 city = "Daufuskie Island"
 county = "Beaufort"
-longitude = -80.787899
 latitude = 32.156011
+longitude = -80.787899
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29915"
+

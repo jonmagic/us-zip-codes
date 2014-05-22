@@ -1,6 +1,8 @@
-zip_code = "72957"
-state = "AR"
 city = "Van Buren"
 county = "Crawford"
-longitude = -94.318648
 latitude = 35.494412
+longitude = -94.318648
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72957"
+

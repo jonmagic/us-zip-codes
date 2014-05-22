@@ -1,6 +1,8 @@
-zip_code = "25851"
-state = "WV"
 city = "Harper"
 county = "Raleigh"
-longitude = -81.282759
 latitude = 37.802469
+longitude = -81.282759
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25851"
+

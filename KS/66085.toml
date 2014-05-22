@@ -1,6 +1,8 @@
-zip_code = "66085"
-state = "KS"
 city = "Stilwell"
 county = "Johnson"
-longitude = -94.656698
 latitude = 38.81799
+longitude = -94.656698
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66085"
+

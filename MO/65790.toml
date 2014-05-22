@@ -1,6 +1,8 @@
-zip_code = "65790"
-state = "MO"
 city = "Pottersville"
 county = "Howell"
-longitude = -92.04286
 latitude = 36.701608
+longitude = -92.04286
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65790"
+

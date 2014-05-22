@@ -1,6 +1,8 @@
-zip_code = "68768"
-state = "NE"
 city = "Pilger"
 county = "Stanton"
-longitude = -97.07791
 latitude = 41.976143
+longitude = -97.07791
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68768"
+

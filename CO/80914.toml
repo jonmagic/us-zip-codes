@@ -1,6 +1,8 @@
-zip_code = "80914"
-state = "CO"
 city = "Colorado Springs"
 county = "El Paso"
-longitude = -104.701177
 latitude = 38.819195
+longitude = -104.701177
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80914"
+

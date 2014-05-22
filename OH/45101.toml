@@ -1,6 +1,8 @@
-zip_code = "45101"
-state = "OH"
 city = "Aberdeen"
 county = "Brown"
-longitude = -83.740804
 latitude = 38.693525
+longitude = -83.740804
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45101"
+

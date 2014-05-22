@@ -1,6 +1,8 @@
-zip_code = "66094"
-state = "KS"
 city = "White Cloud"
 county = "Doniphan"
-longitude = -95.29357
 latitude = 39.873744
+longitude = -95.29357
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66094"
+

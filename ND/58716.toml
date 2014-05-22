@@ -1,6 +1,8 @@
-zip_code = "58716"
-state = "ND"
 city = "Benedict"
 county = "Mclean"
-longitude = -101.109594
 latitude = 47.761315
+longitude = -101.109594
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58716"
+

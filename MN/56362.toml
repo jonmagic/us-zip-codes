@@ -1,6 +1,8 @@
-zip_code = "56362"
-state = "MN"
 city = "Paynesville"
 county = "Stearns"
-longitude = -94.734316
 latitude = 45.506403
+longitude = -94.734316
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56362"
+

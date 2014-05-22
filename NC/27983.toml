@@ -1,6 +1,8 @@
-zip_code = "27983"
-state = "NC"
 city = "Windsor"
 county = "Bertie"
-longitude = -76.936954
 latitude = 36.039911
+longitude = -76.936954
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27983"
+

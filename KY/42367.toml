@@ -1,6 +1,8 @@
-zip_code = "42367"
-state = "KY"
 city = "Powderly"
 county = "Muhlenberg"
-longitude = -87.154898
 latitude = 37.242948
+longitude = -87.154898
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42367"
+

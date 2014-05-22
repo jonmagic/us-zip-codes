@@ -1,6 +1,8 @@
-zip_code = "57031"
-state = "SD"
 city = "Gayville"
 county = "Yankton"
-longitude = -97.209902
 latitude = 42.886136
+longitude = -97.209902
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57031"
+

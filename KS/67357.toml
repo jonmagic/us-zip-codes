@@ -1,6 +1,8 @@
-zip_code = "67357"
-state = "KS"
 city = "Parsons"
 county = "Labette"
-longitude = -95.266407
 latitude = 37.217756
+longitude = -95.266407
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67357"
+

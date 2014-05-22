@@ -1,6 +1,8 @@
-zip_code = "24473"
-state = "VA"
 city = "Rockbridge Baths"
 county = "Rockbridge"
-longitude = -79.448586
 latitude = 37.883036
+longitude = -79.448586
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24473"
+

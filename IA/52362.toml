@@ -1,6 +1,8 @@
-zip_code = "52362"
-state = "IA"
 city = "Wyoming"
 county = "Jones"
-longitude = -91.078891
 latitude = 42.065281
+longitude = -91.078891
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52362"
+

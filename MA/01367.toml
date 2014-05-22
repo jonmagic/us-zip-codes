@@ -1,6 +1,8 @@
-zip_code = "01367"
-state = "MA"
 city = "Rowe"
 county = "Franklin"
-longitude = -72.715667
 latitude = 42.683065
+longitude = -72.715667
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01367"
+

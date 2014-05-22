@@ -1,6 +1,8 @@
-zip_code = "53138"
-state = "WI"
 city = "Honey Creek"
 county = "Walworth"
-longitude = -88.541721
 latitude = 42.66749
+longitude = -88.541721
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53138"
+

@@ -1,6 +1,8 @@
-zip_code = "04105"
-state = "ME"
 city = "Falmouth"
 county = "Cumberland"
-longitude = -70.270696
 latitude = 43.73928
+longitude = -70.270696
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04105"
+

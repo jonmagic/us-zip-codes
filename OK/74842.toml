@@ -1,6 +1,8 @@
-zip_code = "74842"
-state = "OK"
 city = "Fittstown"
 county = "Pontotoc"
-longitude = -96.669321
 latitude = 34.735301
+longitude = -96.669321
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74842"
+

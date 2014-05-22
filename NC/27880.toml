@@ -1,6 +1,8 @@
-zip_code = "27880"
-state = "NC"
 city = "Sims"
 county = "Wilson"
-longitude = -78.10039
 latitude = 35.738821
+longitude = -78.10039
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27880"
+

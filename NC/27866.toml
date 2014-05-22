@@ -1,6 +1,8 @@
-zip_code = "27866"
-state = "NC"
 city = "Pleasant Hill"
 county = "Northampton"
-longitude = -77.55694
 latitude = 36.5044
+longitude = -77.55694
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27866"
+

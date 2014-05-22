@@ -1,6 +1,8 @@
-zip_code = "80812"
-state = "CO"
 city = "Cope"
 county = "Washington"
-longitude = -102.99038
 latitude = 39.684772
+longitude = -102.99038
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80812"
+

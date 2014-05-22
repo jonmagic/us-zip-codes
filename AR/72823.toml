@@ -1,6 +1,8 @@
-zip_code = "72823"
-state = "AR"
 city = "Atkins"
 county = "Pope"
-longitude = -92.992285
 latitude = 35.325504
+longitude = -92.992285
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72823"
+

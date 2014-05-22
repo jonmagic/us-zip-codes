@@ -1,6 +1,8 @@
-zip_code = "48420"
-state = "MI"
 city = "Clio"
 county = "Genesee"
-longitude = -83.707374
 latitude = 43.170497
+longitude = -83.707374
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48420"
+

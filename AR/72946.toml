@@ -1,6 +1,8 @@
-zip_code = "72946"
-state = "AR"
 city = "Mountainburg"
 county = "Crawford"
-longitude = -94.149687
 latitude = 35.64644
+longitude = -94.149687
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72946"
+

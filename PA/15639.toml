@@ -1,6 +1,8 @@
-zip_code = "15639"
-state = "PA"
 city = "Hunker"
 county = "Westmoreland"
-longitude = -79.624473
 latitude = 40.328617
+longitude = -79.624473
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15639"
+

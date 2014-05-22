@@ -1,6 +1,8 @@
-zip_code = "95379"
-state = "CA"
 city = "Tuolumne"
 county = "Tuolumne"
-longitude = -120.267887
 latitude = 37.921694
+longitude = -120.267887
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95379"
+

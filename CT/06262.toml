@@ -1,6 +1,8 @@
-zip_code = "06262"
-state = "CT"
 city = "Quinebaug"
 county = "Windham"
-longitude = -71.947077
 latitude = 42.021536
+longitude = -71.947077
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06262"
+

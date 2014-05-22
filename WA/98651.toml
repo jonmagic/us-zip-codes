@@ -1,6 +1,8 @@
-zip_code = "98651"
-state = "WA"
 city = "Underwood"
 county = "Skamania"
-longitude = -121.576567
 latitude = 45.75826
+longitude = -121.576567
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98651"
+

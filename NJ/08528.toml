@@ -1,6 +1,8 @@
-zip_code = "08528"
-state = "NJ"
 city = "Kingston"
 county = "Somerset"
-longitude = -74.609551
 latitude = 40.382756
+longitude = -74.609551
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08528"
+

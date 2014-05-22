@@ -1,6 +1,8 @@
-zip_code = "78361"
-state = "TX"
 city = "Hebbronville"
 county = "Jim Hogg"
-longitude = -98.692717
 latitude = 27.07069
+longitude = -98.692717
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78361"
+

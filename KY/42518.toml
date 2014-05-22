@@ -1,6 +1,8 @@
-zip_code = "42518"
-state = "KY"
 city = "Bronston"
 county = "Pulaski"
-longitude = -84.624731
 latitude = 36.952751
+longitude = -84.624731
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42518"
+

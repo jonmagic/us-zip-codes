@@ -1,6 +1,8 @@
-zip_code = "04426"
-state = "ME"
 city = "Dover Foxcroft"
 county = "Piscataquis"
-longitude = -69.207725
 latitude = 45.171605
+longitude = -69.207725
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04426"
+

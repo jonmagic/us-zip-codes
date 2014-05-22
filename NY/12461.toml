@@ -1,6 +1,8 @@
-zip_code = "12461"
-state = "NY"
 city = "Olivebridge"
 county = "Ulster"
-longitude = -74.273362
 latitude = 41.875001
+longitude = -74.273362
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12461"
+

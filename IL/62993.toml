@@ -1,6 +1,8 @@
-zip_code = "62993"
-state = "IL"
 city = "Unity"
 county = "Alexander"
-longitude = -89.325581
 latitude = 37.152775
+longitude = -89.325581
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62993"
+

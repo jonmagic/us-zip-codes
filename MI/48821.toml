@@ -1,6 +1,8 @@
-zip_code = "48821"
-state = "MI"
 city = "Dimondale"
 county = "Eaton"
-longitude = -84.654181
 latitude = 42.654335
+longitude = -84.654181
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48821"
+

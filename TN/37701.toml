@@ -1,6 +1,8 @@
-zip_code = "37701"
-state = "TN"
 city = "Alcoa"
 county = "Blount"
-longitude = -83.987698
 latitude = 35.815758
+longitude = -83.987698
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37701"
+

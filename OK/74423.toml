@@ -1,6 +1,8 @@
-zip_code = "74423"
-state = "OK"
 city = "Braggs"
 county = "Muskogee"
-longitude = -95.19778
 latitude = 35.662957
+longitude = -95.19778
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74423"
+

@@ -1,6 +1,8 @@
-zip_code = "98568"
-state = "WA"
 city = "Oakville"
 county = "Grays Harbor"
-longitude = -123.283859
 latitude = 46.866084
+longitude = -123.283859
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98568"
+

@@ -1,6 +1,8 @@
-zip_code = "52777"
-state = "IA"
 city = "Wheatland"
 county = "Clinton"
-longitude = -90.682244
 latitude = 41.873852
+longitude = -90.682244
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52777"
+

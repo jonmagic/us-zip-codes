@@ -1,6 +1,8 @@
-zip_code = "48738"
-state = "MI"
 city = "Greenbush"
 county = "Alcona"
-longitude = -83.338437
 latitude = 44.557782
+longitude = -83.338437
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48738"
+

@@ -1,6 +1,8 @@
-zip_code = "48089"
-state = "MI"
 city = "Warren"
 county = "Macomb"
-longitude = -82.995121
 latitude = 42.474786
+longitude = -82.995121
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48089"
+

@@ -1,6 +1,8 @@
-zip_code = "29689"
-state = "SC"
 city = "Townville"
 county = "Anderson"
-longitude = -82.892202
 latitude = 34.533588
+longitude = -82.892202
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29689"
+

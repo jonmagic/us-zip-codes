@@ -1,6 +1,8 @@
-zip_code = "40353"
-state = "KY"
 city = "Mount Sterling"
 county = "Montgomery"
-longitude = -83.924711
 latitude = 38.052103
+longitude = -83.924711
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40353"
+

@@ -1,6 +1,8 @@
-zip_code = "71002"
-state = "LA"
 city = "Ashland"
 county = "Natchitoches"
-longitude = -93.090606
 latitude = 32.137843
+longitude = -93.090606
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71002"
+

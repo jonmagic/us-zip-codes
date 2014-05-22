@@ -1,6 +1,8 @@
-zip_code = "46731"
-state = "IN"
 city = "Craigville"
 county = "Wells"
-longitude = -85.104206
 latitude = 40.794056
+longitude = -85.104206
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46731"
+

@@ -1,6 +1,8 @@
-zip_code = "23866"
-state = "VA"
 city = "Ivor"
 county = "Southampton"
-longitude = -76.900225
 latitude = 36.887634
+longitude = -76.900225
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23866"
+

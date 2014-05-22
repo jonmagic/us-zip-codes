@@ -1,6 +1,8 @@
-zip_code = "28554"
-state = "NC"
 city = "Maury"
 county = "Greene"
-longitude = -77.651024
 latitude = 35.49993
+longitude = -77.651024
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28554"
+

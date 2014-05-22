@@ -1,6 +1,8 @@
-zip_code = "84501"
-state = "UT"
 city = "Price"
 county = "Carbon"
-longitude = -110.650901
 latitude = 39.567883
+longitude = -110.650901
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84501"
+

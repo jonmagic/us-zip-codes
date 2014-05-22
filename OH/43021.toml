@@ -1,6 +1,8 @@
-zip_code = "43021"
-state = "OH"
 city = "Galena"
 county = "Delaware"
-longitude = -82.874886
 latitude = 40.201142
+longitude = -82.874886
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43021"
+

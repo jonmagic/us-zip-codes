@@ -1,6 +1,8 @@
-zip_code = "67301"
-state = "KS"
 city = "Independence"
 county = "Montgomery"
-longitude = -95.756197
 latitude = 37.180636
+longitude = -95.756197
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67301"
+

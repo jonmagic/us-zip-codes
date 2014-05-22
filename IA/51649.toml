@@ -1,6 +1,8 @@
-zip_code = "51649"
-state = "IA"
 city = "Randolph"
 county = "Fremont"
-longitude = -95.537377
 latitude = 40.847951
+longitude = -95.537377
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51649"
+

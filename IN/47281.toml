@@ -1,6 +1,8 @@
-zip_code = "47281"
-state = "IN"
 city = "Vallonia"
 county = "Jackson"
-longitude = -86.092983
 latitude = 38.814419
+longitude = -86.092983
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47281"
+

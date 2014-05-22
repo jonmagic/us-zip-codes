@@ -1,6 +1,8 @@
-zip_code = "47923"
-state = "IN"
 city = "Brookston"
 county = "White"
-longitude = -86.845433
 latitude = 40.661019
+longitude = -86.845433
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47923"
+

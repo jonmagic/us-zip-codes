@@ -1,6 +1,8 @@
-zip_code = "83650"
-state = "ID"
 city = "Murphy"
 county = "Owyhee"
-longitude = -116.032163
 latitude = 42.838437
+longitude = -116.032163
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83650"
+

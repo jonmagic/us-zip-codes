@@ -1,6 +1,8 @@
-zip_code = "50667"
-state = "IA"
 city = "Raymond"
 county = "Black Hawk"
-longitude = -92.21642
 latitude = 42.466587
+longitude = -92.21642
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50667"
+

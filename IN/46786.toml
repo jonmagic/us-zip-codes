@@ -1,6 +1,8 @@
-zip_code = "46786"
-state = "IN"
 city = "South Milford"
 county = "Lagrange"
-longitude = -85.319241
 latitude = 41.536899
+longitude = -85.319241
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46786"
+

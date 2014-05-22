@@ -1,6 +1,8 @@
-zip_code = "94597"
-state = "CA"
 city = "Walnut Creek"
 county = "Contra Costa"
-longitude = -121.955399
 latitude = 37.777208
+longitude = -121.955399
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94597"
+

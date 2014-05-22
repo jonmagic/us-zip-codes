@@ -1,6 +1,8 @@
-zip_code = "70548"
-state = "LA"
 city = "Kaplan"
 county = "Vermilion"
-longitude = -92.315721
 latitude = 29.875194
+longitude = -92.315721
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70548"
+

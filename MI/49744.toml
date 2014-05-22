@@ -1,6 +1,8 @@
-zip_code = "49744"
-state = "MI"
 city = "Herron"
 county = "Alpena"
-longitude = -83.667641
 latitude = 44.996329
+longitude = -83.667641
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49744"
+

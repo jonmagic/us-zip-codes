@@ -1,6 +1,8 @@
-zip_code = "54813"
-state = "WI"
 city = "Barronett"
 county = "Barron"
-longitude = -92.016728
 latitude = 45.557393
+longitude = -92.016728
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54813"
+

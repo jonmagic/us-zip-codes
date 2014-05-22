@@ -1,6 +1,8 @@
-zip_code = "62556"
-state = "IL"
 city = "Palmer"
 county = "Christian"
-longitude = -89.30808
 latitude = 39.429374
+longitude = -89.30808
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62556"
+

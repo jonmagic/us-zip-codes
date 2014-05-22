@@ -1,6 +1,8 @@
-zip_code = "78007"
-state = "TX"
 city = "Calliham"
 county = "Mcmullen"
-longitude = -98.56876
 latitude = 28.350458
+longitude = -98.56876
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78007"
+

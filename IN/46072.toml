@@ -1,6 +1,8 @@
-zip_code = "46072"
-state = "IN"
 city = "Tipton"
 county = "Tipton"
-longitude = -86.063107
 latitude = 40.311418
+longitude = -86.063107
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46072"
+

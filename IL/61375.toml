@@ -1,6 +1,8 @@
-zip_code = "61375"
-state = "IL"
 city = "Varna"
 county = "Marshall"
-longitude = -89.255983
 latitude = 41.033886
+longitude = -89.255983
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61375"
+

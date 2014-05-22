@@ -1,6 +1,8 @@
-zip_code = "75141"
-state = "TX"
 city = "Hutchins"
 county = "Dallas"
-longitude = -96.689174
 latitude = 32.633257
+longitude = -96.689174
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75141"
+

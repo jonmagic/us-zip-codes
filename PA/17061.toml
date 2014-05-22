@@ -1,6 +1,8 @@
-zip_code = "17061"
-state = "PA"
 city = "Millersburg"
 county = "Dauphin"
-longitude = -76.840528
 latitude = 40.571494
+longitude = -76.840528
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17061"
+

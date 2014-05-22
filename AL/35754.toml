@@ -1,6 +1,8 @@
-zip_code = "35754"
-state = "AL"
 city = "Laceys Spring"
 county = "Morgan"
-longitude = -86.62488
 latitude = 34.50544
+longitude = -86.62488
+state = ""
+state_code_alpha2 = ""
+zip_code = "35754"
+

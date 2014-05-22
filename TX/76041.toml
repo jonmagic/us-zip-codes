@@ -1,6 +1,8 @@
-zip_code = "76041"
-state = "TX"
 city = "Forreston"
 county = "Ellis"
-longitude = -96.823225
 latitude = 32.248588
+longitude = -96.823225
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76041"
+

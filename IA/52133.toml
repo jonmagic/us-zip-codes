@@ -1,6 +1,8 @@
-zip_code = "52133"
-state = "IA"
 city = "Castalia"
 county = "Winneshiek"
-longitude = -91.664324
 latitude = 43.136114
+longitude = -91.664324
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52133"
+

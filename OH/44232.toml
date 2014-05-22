@@ -1,6 +1,8 @@
-zip_code = "44232"
-state = "OH"
 city = "Green"
 county = "Summit"
-longitude = -81.461987
 latitude = 40.932506
+longitude = -81.461987
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44232"
+

@@ -1,6 +1,8 @@
-zip_code = "75791"
-state = "TX"
 city = "Whitehouse"
 county = "Smith"
-longitude = -95.217652
 latitude = 32.219518
+longitude = -95.217652
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75791"
+

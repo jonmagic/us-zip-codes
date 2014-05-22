@@ -1,6 +1,8 @@
-zip_code = "04427"
-state = "ME"
 city = "Corinth"
 county = "Penobscot"
-longitude = -68.865187
 latitude = 44.989376
+longitude = -68.865187
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04427"
+

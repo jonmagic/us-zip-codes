@@ -1,6 +1,8 @@
-zip_code = "41179"
-state = "KY"
 city = "Vanceburg"
 county = "Lewis"
-longitude = -83.270248
 latitude = 38.469945
+longitude = -83.270248
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41179"
+

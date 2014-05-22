@@ -1,6 +1,8 @@
-zip_code = "61439"
-state = "IL"
 city = "Henderson"
 county = "Knox"
-longitude = -90.357532
 latitude = 41.027582
+longitude = -90.357532
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61439"
+

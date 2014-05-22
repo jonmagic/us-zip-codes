@@ -1,6 +1,8 @@
-zip_code = "20682"
-state = "MD"
 city = "Rock Point"
 county = "Charles"
-longitude = -76.848093
 latitude = 38.283551
+longitude = -76.848093
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20682"
+

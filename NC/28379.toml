@@ -1,6 +1,8 @@
-zip_code = "28379"
-state = "NC"
 city = "Rockingham"
 county = "Richmond"
-longitude = -79.724173
 latitude = 34.974134
+longitude = -79.724173
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28379"
+

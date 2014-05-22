@@ -1,6 +1,8 @@
-zip_code = "30141"
-state = "GA"
 city = "Hiram"
 county = "Paulding"
-longitude = -84.844274
 latitude = 33.879416
+longitude = -84.844274
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30141"
+

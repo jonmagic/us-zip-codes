@@ -1,6 +1,8 @@
-zip_code = "41776"
-state = "KY"
 city = "Wooton"
 county = "Leslie"
-longitude = -83.267303
 latitude = 37.126066
+longitude = -83.267303
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41776"
+

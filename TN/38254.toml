@@ -1,6 +1,8 @@
-zip_code = "38254"
-state = "TN"
 city = "Samburg"
 county = "Obion"
-longitude = -89.353821
 latitude = 36.379051
+longitude = -89.353821
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38254"
+

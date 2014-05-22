@@ -1,6 +1,8 @@
-zip_code = "95043"
-state = "CA"
 city = "Paicines"
 county = "San Benito"
-longitude = -121.148586
 latitude = 36.587379
+longitude = -121.148586
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95043"
+

@@ -1,6 +1,8 @@
-zip_code = "72158"
-state = "AR"
 city = "Benton"
 county = "Saline"
-longitude = -92.65974
 latitude = 34.635041
+longitude = -92.65974
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72158"
+

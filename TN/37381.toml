@@ -1,6 +1,8 @@
-zip_code = "37381"
-state = "TN"
 city = "Spring City"
 county = "Rhea"
-longitude = -84.819767
 latitude = 35.693499
+longitude = -84.819767
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37381"
+

@@ -1,6 +1,8 @@
-zip_code = "83629"
-state = "ID"
 city = "Horseshoe Bend"
 county = "Boise"
-longitude = -116.11845
 latitude = 43.969086
+longitude = -116.11845
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83629"
+

@@ -1,6 +1,8 @@
-zip_code = "61873"
-state = "IL"
 city = "Saint Joseph"
 county = "Champaign"
-longitude = -88.072851
 latitude = 40.144962
+longitude = -88.072851
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61873"
+

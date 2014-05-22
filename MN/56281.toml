@@ -1,6 +1,8 @@
-zip_code = "56281"
-state = "MN"
 city = "Prinsburg"
 county = "Kandiyohi"
-longitude = -95.000152
 latitude = 45.029662
+longitude = -95.000152
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56281"
+

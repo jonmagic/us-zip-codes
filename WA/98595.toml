@@ -1,6 +1,8 @@
-zip_code = "98595"
-state = "WA"
 city = "Westport"
 county = "Grays Harbor"
-longitude = -123.965158
 latitude = 46.894327
+longitude = -123.965158
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98595"
+

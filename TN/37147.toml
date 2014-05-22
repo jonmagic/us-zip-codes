@@ -1,6 +1,8 @@
-zip_code = "37147"
-state = "TN"
 city = "Pleasantville"
 county = "Hickman"
-longitude = -87.662335
 latitude = 35.692395
+longitude = -87.662335
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37147"
+

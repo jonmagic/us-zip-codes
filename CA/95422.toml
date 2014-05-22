@@ -1,6 +1,8 @@
-zip_code = "95422"
-state = "CA"
 city = "Clearlake"
 county = "Lake"
-longitude = -122.657017
 latitude = 38.946476
+longitude = -122.657017
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95422"
+

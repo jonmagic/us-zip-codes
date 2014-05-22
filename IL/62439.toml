@@ -1,6 +1,8 @@
-zip_code = "62439"
-state = "IL"
 city = "Lawrenceville"
 county = "Lawrence"
-longitude = -87.634235
 latitude = 38.685176
+longitude = -87.634235
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62439"
+

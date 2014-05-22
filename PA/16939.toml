@@ -1,6 +1,8 @@
-zip_code = "16939"
-state = "PA"
 city = "Morris Run"
 county = "Tioga"
-longitude = -77.015194
 latitude = 41.677542
+longitude = -77.015194
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16939"
+

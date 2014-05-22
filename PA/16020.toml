@@ -1,6 +1,8 @@
-zip_code = "16020"
-state = "PA"
 city = "Boyers"
 county = "Butler"
-longitude = -79.900626
 latitude = 41.106846
+longitude = -79.900626
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16020"
+

@@ -1,6 +1,8 @@
-zip_code = "02859"
-state = "RI"
 city = "Pascoag"
 county = "Providence"
-longitude = -71.723316
 latitude = 41.96415
+longitude = -71.723316
+state = "Rhode Island"
+state_code_alpha2 = "RI"
+zip_code = "02859"
+

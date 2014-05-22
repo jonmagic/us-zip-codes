@@ -1,6 +1,8 @@
-zip_code = "70050"
-state = "LA"
 city = "Empire"
 county = "Plaquemines"
-longitude = -89.59563
 latitude = 29.404065
+longitude = -89.59563
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70050"
+

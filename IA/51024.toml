@@ -1,6 +1,8 @@
-zip_code = "51024"
-state = "IA"
 city = "Hinton"
 county = "Plymouth"
-longitude = -96.299512
 latitude = 42.625126
+longitude = -96.299512
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51024"
+

@@ -1,6 +1,8 @@
-zip_code = "39767"
-state = "MS"
 city = "Stewart"
 county = "Montgomery"
-longitude = -89.467862
 latitude = 33.518048
+longitude = -89.467862
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39767"
+

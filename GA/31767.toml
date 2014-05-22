@@ -1,6 +1,8 @@
-zip_code = "31767"
-state = "GA"
 city = "Morris"
 county = "Quitman"
-longitude = -85.024468
 latitude = 31.88141
+longitude = -85.024468
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31767"
+

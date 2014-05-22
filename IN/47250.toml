@@ -1,6 +1,8 @@
-zip_code = "47250"
-state = "IN"
 city = "Madison"
 county = "Jefferson"
-longitude = -85.420605
 latitude = 38.804552
+longitude = -85.420605
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47250"
+

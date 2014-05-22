@@ -1,6 +1,8 @@
-zip_code = "75563"
-state = "TX"
 city = "Linden"
 county = "Cass"
-longitude = -94.264576
 latitude = 33.069718
+longitude = -94.264576
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75563"
+

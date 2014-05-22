@@ -1,6 +1,8 @@
-zip_code = "58565"
-state = "ND"
 city = "Riverdale"
 county = "Mclean"
-longitude = -101.203255
 latitude = 47.396354
+longitude = -101.203255
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58565"
+

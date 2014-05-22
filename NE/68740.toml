@@ -1,6 +1,8 @@
-zip_code = "68740"
-state = "NE"
 city = "Hoskins"
 county = "Wayne"
-longitude = -97.309909
 latitude = 42.221141
+longitude = -97.309909
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68740"
+

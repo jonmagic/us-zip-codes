@@ -1,6 +1,8 @@
-zip_code = "95253"
-state = "CA"
 city = "Victor"
 county = "San Joaquin"
-longitude = -121.203656
 latitude = 38.114669
+longitude = -121.203656
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95253"
+

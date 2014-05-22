@@ -1,6 +1,8 @@
-zip_code = "66018"
-state = "KS"
 city = "De Soto"
 county = "Johnson"
-longitude = -94.97143
 latitude = 38.946156
+longitude = -94.97143
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66018"
+

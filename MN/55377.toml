@@ -1,6 +1,8 @@
-zip_code = "55377"
-state = "MN"
 city = "Santiago"
 county = "Sherburne"
-longitude = -93.815434
 latitude = 45.540181
+longitude = -93.815434
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55377"
+

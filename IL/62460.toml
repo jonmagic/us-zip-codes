@@ -1,6 +1,8 @@
-zip_code = "62460"
-state = "IL"
 city = "Saint Francisville"
 county = "Lawrence"
-longitude = -87.648661
 latitude = 38.592132
+longitude = -87.648661
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62460"
+

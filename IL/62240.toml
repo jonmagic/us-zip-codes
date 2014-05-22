@@ -1,6 +1,8 @@
-zip_code = "62240"
-state = "IL"
 city = "East Carondelet"
 county = "Saint Clair"
-longitude = -90.200514
 latitude = 38.524005
+longitude = -90.200514
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62240"
+

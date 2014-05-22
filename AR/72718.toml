@@ -1,6 +1,8 @@
-zip_code = "72718"
-state = "AR"
 city = "Cave Springs"
 county = "Benton"
-longitude = -94.245722
 latitude = 36.266213
+longitude = -94.245722
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72718"
+

@@ -1,6 +1,8 @@
-zip_code = "66091"
-state = "KS"
 city = "Welda"
 county = "Anderson"
-longitude = -95.343798
 latitude = 38.150424
+longitude = -95.343798
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66091"
+

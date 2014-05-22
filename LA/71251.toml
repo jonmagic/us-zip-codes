@@ -1,6 +1,8 @@
-zip_code = "71251"
-state = "LA"
 city = "Jonesboro"
 county = "Jackson"
-longitude = -92.575528
 latitude = 32.228472
+longitude = -92.575528
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71251"
+

@@ -1,6 +1,8 @@
-zip_code = "41014"
-state = "KY"
 city = "Covington"
 county = "Kenton"
-longitude = -84.511793
 latitude = 39.064211
+longitude = -84.511793
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41014"
+

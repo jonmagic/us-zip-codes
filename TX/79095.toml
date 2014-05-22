@@ -1,6 +1,8 @@
-zip_code = "79095"
-state = "TX"
 city = "Wellington"
 county = "Collingsworth"
-longitude = -100.21447
 latitude = 34.852623
+longitude = -100.21447
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79095"
+

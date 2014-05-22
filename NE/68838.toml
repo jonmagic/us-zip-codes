@@ -1,6 +1,8 @@
-zip_code = "68838"
-state = "NE"
 city = "Farwell"
 county = "Howard"
-longitude = -98.679842
 latitude = 41.206635
+longitude = -98.679842
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68838"
+

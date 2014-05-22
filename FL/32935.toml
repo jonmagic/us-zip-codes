@@ -1,6 +1,8 @@
-zip_code = "32935"
-state = "FL"
 city = "Melbourne"
 county = "Brevard"
-longitude = -80.680583
 latitude = 28.210733
+longitude = -80.680583
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32935"
+

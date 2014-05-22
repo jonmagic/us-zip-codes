@@ -1,6 +1,8 @@
-zip_code = "61754"
-state = "IL"
 city = "Mc Lean"
 county = "Mclean"
-longitude = -89.194639
 latitude = 40.31522
+longitude = -89.194639
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61754"
+

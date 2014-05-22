@@ -1,6 +1,8 @@
-zip_code = "47345"
-state = "IN"
 city = "Greens Fork"
 county = "Wayne"
-longitude = -85.013775
 latitude = 39.893845
+longitude = -85.013775
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47345"
+

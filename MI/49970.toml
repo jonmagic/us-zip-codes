@@ -1,6 +1,8 @@
-zip_code = "49970"
-state = "MI"
 city = "Watton"
 county = "Baraga"
-longitude = -88.335388
 latitude = 46.731668
+longitude = -88.335388
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49970"
+

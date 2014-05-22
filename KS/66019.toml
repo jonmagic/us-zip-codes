@@ -1,6 +1,8 @@
-zip_code = "66019"
-state = "KS"
 city = "Clearview City"
 county = "Johnson"
-longitude = -95.003661
 latitude = 38.946041
+longitude = -95.003661
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66019"
+

@@ -1,6 +1,8 @@
-zip_code = "57793"
-state = "SD"
 city = "Whitewood"
 county = "Lawrence"
-longitude = -103.644136
 latitude = 44.46498
+longitude = -103.644136
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57793"
+

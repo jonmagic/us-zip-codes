@@ -1,6 +1,8 @@
-zip_code = "95987"
-state = "CA"
 city = "Williams"
 county = "Colusa"
-longitude = -122.243739
 latitude = 39.142737
+longitude = -122.243739
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95987"
+

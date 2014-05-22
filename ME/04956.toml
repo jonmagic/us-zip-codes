@@ -1,6 +1,8 @@
-zip_code = "04956"
-state = "ME"
 city = "New Vineyard"
 county = "Franklin"
-longitude = -70.183554
 latitude = 44.952578
+longitude = -70.183554
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04956"
+

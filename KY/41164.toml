@@ -1,6 +1,8 @@
-zip_code = "41164"
-state = "KY"
 city = "Olive Hill"
 county = "Carter"
-longitude = -83.177987
 latitude = 38.349219
+longitude = -83.177987
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41164"
+

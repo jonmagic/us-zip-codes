@@ -1,6 +1,8 @@
-zip_code = "07747"
-state = "NJ"
 city = "Matawan"
 county = "Monmouth"
-longitude = -74.233788
 latitude = 40.407507
+longitude = -74.233788
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07747"
+

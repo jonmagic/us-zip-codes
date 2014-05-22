@@ -1,6 +1,8 @@
-zip_code = "19510"
-state = "PA"
 city = "Blandon"
 county = "Berks"
-longitude = -75.887797
 latitude = 40.371492
+longitude = -75.887797
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19510"
+

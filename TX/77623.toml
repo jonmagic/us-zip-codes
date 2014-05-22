@@ -1,6 +1,8 @@
-zip_code = "77623"
-state = "TX"
 city = "High Island"
 county = "Galveston"
-longitude = -94.426731
 latitude = 29.547224
+longitude = -94.426731
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77623"
+

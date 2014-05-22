@@ -1,6 +1,8 @@
-zip_code = "67355"
-state = "KS"
 city = "Niotaze"
 county = "Chautauqua"
-longitude = -96.012058
 latitude = 37.037043
+longitude = -96.012058
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67355"
+

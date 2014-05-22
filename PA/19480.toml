@@ -1,6 +1,8 @@
-zip_code = "19480"
-state = "PA"
 city = "Uwchland"
 county = "Chester"
-longitude = -75.688005
 latitude = 40.098032
+longitude = -75.688005
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19480"
+

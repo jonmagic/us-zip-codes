@@ -1,6 +1,8 @@
-zip_code = "31017"
-state = "GA"
 city = "Danville"
 county = "Twiggs"
-longitude = -83.269106
 latitude = 32.607654
+longitude = -83.269106
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31017"
+

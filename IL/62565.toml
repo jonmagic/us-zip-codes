@@ -1,6 +1,8 @@
-zip_code = "62565"
-state = "IL"
 city = "Shelbyville"
 county = "Shelby"
-longitude = -88.805788
 latitude = 39.458013
+longitude = -88.805788
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62565"
+

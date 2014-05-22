@@ -1,6 +1,8 @@
-zip_code = "26726"
-state = "WV"
 city = "Keyser"
 county = "Mineral"
-longitude = -78.892554
 latitude = 39.452686
+longitude = -78.892554
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26726"
+

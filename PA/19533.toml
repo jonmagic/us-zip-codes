@@ -1,6 +1,8 @@
-zip_code = "19533"
-state = "PA"
 city = "Leesport"
 county = "Berks"
-longitude = -75.85715
 latitude = 40.420446
+longitude = -75.85715
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19533"
+

@@ -1,6 +1,8 @@
-zip_code = "72758"
-state = "AR"
 city = "Rogers"
 county = "Benton"
-longitude = -94.154459
 latitude = 36.316945
+longitude = -94.154459
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72758"
+

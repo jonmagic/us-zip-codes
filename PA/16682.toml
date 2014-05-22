@@ -1,6 +1,8 @@
-zip_code = "16682"
-state = "PA"
 city = "Sproul"
 county = "Blair"
-longitude = -78.45878
 latitude = 40.271126
+longitude = -78.45878
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16682"
+

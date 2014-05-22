@@ -1,6 +1,8 @@
-zip_code = "62458"
-state = "IL"
 city = "Saint Elmo"
 county = "Fayette"
-longitude = -88.852372
 latitude = 39.025319
+longitude = -88.852372
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62458"
+

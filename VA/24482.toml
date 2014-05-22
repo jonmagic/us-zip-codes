@@ -1,6 +1,8 @@
-zip_code = "24482"
-state = "VA"
 city = "Verona"
 county = "Augusta"
-longitude = -78.989369
 latitude = 38.210585
+longitude = -78.989369
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24482"
+

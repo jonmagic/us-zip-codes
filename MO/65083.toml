@@ -1,6 +1,8 @@
-zip_code = "65083"
-state = "MO"
 city = "Ulman"
 county = "Miller"
-longitude = -92.43301
 latitude = 38.150536
+longitude = -92.43301
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65083"
+

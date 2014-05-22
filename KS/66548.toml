@@ -1,6 +1,8 @@
-zip_code = "66548"
-state = "KS"
 city = "Waterville"
 county = "Marshall"
-longitude = -96.701387
 latitude = 39.763462
+longitude = -96.701387
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66548"
+

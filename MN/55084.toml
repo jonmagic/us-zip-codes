@@ -1,6 +1,8 @@
-zip_code = "55084"
-state = "MN"
 city = "Taylors Falls"
 county = "Chisago"
-longitude = -92.733042
 latitude = 45.457557
+longitude = -92.733042
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55084"
+

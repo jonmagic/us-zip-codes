@@ -1,6 +1,8 @@
-zip_code = "27881"
-state = "NC"
 city = "Speed"
 county = "Edgecombe"
-longitude = -77.585471
 latitude = 35.915927
+longitude = -77.585471
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27881"
+

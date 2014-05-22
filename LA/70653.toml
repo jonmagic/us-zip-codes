@@ -1,6 +1,8 @@
-zip_code = "70653"
-state = "LA"
 city = "Merryville"
 county = "Beauregard"
-longitude = -93.441983
 latitude = 30.682899
+longitude = -93.441983
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70653"
+

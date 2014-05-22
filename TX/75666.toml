@@ -1,6 +1,8 @@
-zip_code = "75666"
-state = "TX"
 city = "Laird Hill"
 county = "Rusk"
-longitude = -94.928795
 latitude = 32.301898
+longitude = -94.928795
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75666"
+

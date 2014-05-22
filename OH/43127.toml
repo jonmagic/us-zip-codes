@@ -1,6 +1,8 @@
-zip_code = "43127"
-state = "OH"
 city = "Haydenville"
 county = "Hocking"
-longitude = -82.328099
 latitude = 39.476564
+longitude = -82.328099
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43127"
+

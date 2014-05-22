@@ -1,6 +1,8 @@
-zip_code = "29571"
-state = "SC"
 city = "Marion"
 county = "Marion"
-longitude = -79.363948
 latitude = 34.164144
+longitude = -79.363948
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29571"
+

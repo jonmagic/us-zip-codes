@@ -1,6 +1,8 @@
-zip_code = "76401"
-state = "TX"
 city = "Stephenville"
 county = "Erath"
-longitude = -98.108828
 latitude = 32.321348
+longitude = -98.108828
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76401"
+

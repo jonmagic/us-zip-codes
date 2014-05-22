@@ -1,6 +1,8 @@
-zip_code = "50325"
-state = "IA"
 city = "Clive"
 county = "Polk"
-longitude = -93.744905
 latitude = 41.607588
+longitude = -93.744905
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50325"
+

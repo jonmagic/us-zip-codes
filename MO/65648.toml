@@ -1,6 +1,8 @@
-zip_code = "65648"
-state = "MO"
 city = "Fair Grove"
 county = "Greene"
-longitude = -93.175093
 latitude = 37.370209
+longitude = -93.175093
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65648"
+

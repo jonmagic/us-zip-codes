@@ -1,6 +1,8 @@
-zip_code = "47581"
-state = "IN"
 city = "Shoals"
 county = "Martin"
-longitude = -86.788412
 latitude = 38.669976
+longitude = -86.788412
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47581"
+

@@ -1,6 +1,8 @@
-zip_code = "01613"
-state = "MA"
 city = "Worcester"
 county = "Worcester"
-longitude = -71.801971
 latitude = 42.293316
+longitude = -71.801971
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01613"
+

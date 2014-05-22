@@ -1,6 +1,8 @@
-zip_code = "05301"
-state = "VT"
 city = "Brattleboro"
 county = "Windham"
-longitude = -72.760753
 latitude = 42.884281
+longitude = -72.760753
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05301"
+

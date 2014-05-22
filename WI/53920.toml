@@ -1,6 +1,8 @@
-zip_code = "53920"
-state = "WI"
 city = "Briggsville"
 county = "Marquette"
-longitude = -89.551629
 latitude = 43.7076
+longitude = -89.551629
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53920"
+

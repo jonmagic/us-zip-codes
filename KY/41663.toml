@@ -1,6 +1,8 @@
-zip_code = "41663"
-state = "KY"
 city = "Tram"
 county = "Floyd"
-longitude = -82.645206
 latitude = 37.572499
+longitude = -82.645206
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41663"
+

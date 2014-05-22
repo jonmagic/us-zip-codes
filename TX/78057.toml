@@ -1,6 +1,8 @@
-zip_code = "78057"
-state = "TX"
 city = "Moore"
 county = "Frio"
-longitude = -99.020436
 latitude = 29.059489
+longitude = -99.020436
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78057"
+

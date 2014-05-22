@@ -1,6 +1,8 @@
-zip_code = "95639"
-state = "CA"
 city = "Hood"
 county = "Sacramento"
-longitude = -121.541649
 latitude = 38.357839
+longitude = -121.541649
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95639"
+

@@ -1,6 +1,8 @@
-zip_code = "35464"
-state = "AL"
 city = "Gainesville"
 county = "Sumter"
-longitude = -88.145715
 latitude = 32.778274
+longitude = -88.145715
+state = ""
+state_code_alpha2 = ""
+zip_code = "35464"
+

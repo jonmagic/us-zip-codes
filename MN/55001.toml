@@ -1,6 +1,8 @@
-zip_code = "55001"
-state = "MN"
 city = "Afton"
 county = "Washington"
-longitude = -92.816193
 latitude = 44.90717
+longitude = -92.816193
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55001"
+

@@ -1,6 +1,8 @@
-zip_code = "04619"
-state = "ME"
 city = "Calais"
 county = "Washington"
-longitude = -67.389101
 latitude = 45.188254
+longitude = -67.389101
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04619"
+

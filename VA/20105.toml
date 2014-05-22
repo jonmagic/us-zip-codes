@@ -1,6 +1,8 @@
-zip_code = "20105"
-state = "VA"
 city = "Aldie"
 county = "Loudoun"
-longitude = -77.60375
 latitude = 38.957718
+longitude = -77.60375
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20105"
+

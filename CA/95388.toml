@@ -1,6 +1,8 @@
-zip_code = "95388"
-state = "CA"
 city = "Winton"
 county = "Merced"
-longitude = -120.55271
 latitude = 37.411145
+longitude = -120.55271
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95388"
+

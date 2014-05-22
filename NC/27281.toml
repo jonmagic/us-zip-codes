@@ -1,6 +1,8 @@
-zip_code = "27281"
-state = "NC"
 city = "Jackson Springs"
 county = "Moore"
-longitude = -79.561566
 latitude = 35.186814
+longitude = -79.561566
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27281"
+

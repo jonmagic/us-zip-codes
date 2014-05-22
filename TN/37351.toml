@@ -1,6 +1,8 @@
-zip_code = "37351"
-state = "TN"
 city = "Lupton City"
 county = "Hamilton"
-longitude = -85.2631
 latitude = 35.104522
+longitude = -85.2631
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37351"
+

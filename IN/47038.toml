@@ -1,6 +1,8 @@
-zip_code = "47038"
-state = "IN"
 city = "Patriot"
 county = "Switzerland"
-longitude = -84.881782
 latitude = 38.84188
+longitude = -84.881782
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47038"
+

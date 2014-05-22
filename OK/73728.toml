@@ -1,6 +1,8 @@
-zip_code = "73728"
-state = "OK"
 city = "Cherokee"
 county = "Alfalfa"
-longitude = -98.366783
 latitude = 36.665351
+longitude = -98.366783
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73728"
+

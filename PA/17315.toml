@@ -1,6 +1,8 @@
-zip_code = "17315"
-state = "PA"
 city = "Dover"
 county = "York"
-longitude = -76.884956
 latitude = 40.004544
+longitude = -76.884956
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17315"
+

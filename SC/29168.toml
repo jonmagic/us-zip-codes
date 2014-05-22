@@ -1,6 +1,8 @@
-zip_code = "29168"
-state = "SC"
 city = "Wedgefield"
 county = "Sumter"
-longitude = -80.498019
 latitude = 33.895272
+longitude = -80.498019
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29168"
+

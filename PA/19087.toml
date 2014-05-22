@@ -1,6 +1,8 @@
-zip_code = "19087"
-state = "PA"
 city = "Wayne"
 county = "Delaware"
-longitude = -75.370934
 latitude = 39.98596
+longitude = -75.370934
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19087"
+

@@ -1,6 +1,8 @@
-zip_code = "72478"
-state = "AR"
 city = "Warm Springs"
 county = "Randolph"
-longitude = -91.054035
 latitude = 36.44533
+longitude = -91.054035
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72478"
+

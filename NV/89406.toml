@@ -1,6 +1,8 @@
-zip_code = "89406"
-state = "NV"
 city = "Fallon"
 county = "Churchill"
-longitude = -118.296879
 latitude = 39.479393
+longitude = -118.296879
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89406"
+

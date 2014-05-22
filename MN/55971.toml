@@ -1,6 +1,8 @@
-zip_code = "55971"
-state = "MN"
 city = "Rushford"
 county = "Fillmore"
-longitude = -91.793376
 latitude = 43.809873
+longitude = -91.793376
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55971"
+

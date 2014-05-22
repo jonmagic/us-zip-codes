@@ -1,6 +1,8 @@
-zip_code = "49227"
-state = "MI"
 city = "Allen"
 county = "Hillsdale"
-longitude = -84.767913
 latitude = 41.956346
+longitude = -84.767913
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49227"
+

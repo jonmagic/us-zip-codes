@@ -1,6 +1,8 @@
-zip_code = "95652"
-state = "CA"
 city = "Mcclellan"
 county = "Sacramento"
-longitude = -121.389613
 latitude = 38.666653
+longitude = -121.389613
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95652"
+

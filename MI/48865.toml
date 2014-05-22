@@ -1,6 +1,8 @@
-zip_code = "48865"
-state = "MI"
 city = "Orleans"
 county = "Ionia"
-longitude = -85.102387
 latitude = 43.078789
+longitude = -85.102387
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48865"
+

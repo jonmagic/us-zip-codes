@@ -1,6 +1,8 @@
-zip_code = "71067"
-state = "LA"
 city = "Princeton"
 county = "Bossier"
-longitude = -93.50865
 latitude = 32.597435
+longitude = -93.50865
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71067"
+

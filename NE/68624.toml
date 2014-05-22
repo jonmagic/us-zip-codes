@@ -1,6 +1,8 @@
-zip_code = "68624"
-state = "NE"
 city = "Bellwood"
 county = "Butler"
-longitude = -97.214802
 latitude = 41.342556
+longitude = -97.214802
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68624"
+

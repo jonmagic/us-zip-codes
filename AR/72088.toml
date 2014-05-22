@@ -1,6 +1,8 @@
-zip_code = "72088"
-state = "AR"
 city = "Fairfield Bay"
 county = "Van Buren"
-longitude = -92.274195
 latitude = 35.602704
+longitude = -92.274195
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72088"
+

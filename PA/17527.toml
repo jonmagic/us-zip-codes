@@ -1,6 +1,8 @@
-zip_code = "17527"
-state = "PA"
 city = "Gap"
 county = "Lancaster"
-longitude = -76.021595
 latitude = 40.011961
+longitude = -76.021595
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17527"
+

@@ -1,6 +1,8 @@
-zip_code = "66521"
-state = "KS"
 city = "Onaga"
 county = "Pottawatomie"
-longitude = -96.34428
 latitude = 39.442426
+longitude = -96.34428
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66521"
+

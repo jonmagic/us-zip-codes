@@ -1,6 +1,8 @@
-zip_code = "53968"
-state = "WI"
 city = "Wonewoc"
 county = "Juneau"
-longitude = -90.203595
 latitude = 43.690867
+longitude = -90.203595
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53968"
+

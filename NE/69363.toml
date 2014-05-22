@@ -1,6 +1,8 @@
-zip_code = "69363"
-state = "NE"
 city = "Scottsbluff"
 county = "Scotts Bluff"
-longitude = -103.70726
 latitude = 41.851012
+longitude = -103.70726
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69363"
+

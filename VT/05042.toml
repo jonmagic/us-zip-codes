@@ -1,6 +1,8 @@
-zip_code = "05042"
-state = "VT"
 city = "East Ryegate"
 county = "Caledonia"
-longitude = -72.086586
 latitude = 44.359629
+longitude = -72.086586
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05042"
+

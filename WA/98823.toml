@@ -1,6 +1,8 @@
-zip_code = "98823"
-state = "WA"
 city = "Ephrata"
 county = "Grant"
-longitude = -119.401958
 latitude = 47.177565
+longitude = -119.401958
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98823"
+

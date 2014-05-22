@@ -1,6 +1,8 @@
-zip_code = "56369"
-state = "MN"
 city = "Rockville"
 county = "Stearns"
-longitude = -94.340582
 latitude = 45.468679
+longitude = -94.340582
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56369"
+

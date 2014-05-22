@@ -1,6 +1,8 @@
-zip_code = "97344"
-state = "OR"
 city = "Falls City"
 county = "Polk"
-longitude = -123.473276
 latitude = 44.870977
+longitude = -123.473276
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97344"
+

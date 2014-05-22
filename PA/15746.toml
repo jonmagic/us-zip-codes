@@ -1,6 +1,8 @@
-zip_code = "15746"
-state = "PA"
 city = "Hillsdale"
 county = "Indiana"
-longitude = -78.877331
 latitude = 40.767854
+longitude = -78.877331
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15746"
+

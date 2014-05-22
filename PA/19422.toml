@@ -1,6 +1,8 @@
-zip_code = "19422"
-state = "PA"
 city = "Blue Bell"
 county = "Montgomery"
-longitude = -75.279941
 latitude = 40.15755
+longitude = -75.279941
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19422"
+

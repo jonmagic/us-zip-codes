@@ -1,6 +1,8 @@
-zip_code = "55075"
-state = "MN"
 city = "South Saint Paul"
 county = "Dakota"
-longitude = -93.049879
 latitude = 44.890315
+longitude = -93.049879
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55075"
+

@@ -1,6 +1,8 @@
-zip_code = "00637"
-state = "PR"
 city = "Sabana Grande"
 county = "Sabana Grande"
-longitude = -66.934911
 latitude = 18.087322
+longitude = -66.934911
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00637"
+

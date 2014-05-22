@@ -1,6 +1,8 @@
-zip_code = "38567"
-state = "TN"
 city = "Hickman"
 county = "Smith"
-longitude = -85.914313
 latitude = 36.138347
+longitude = -85.914313
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38567"
+

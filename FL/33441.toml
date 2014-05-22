@@ -1,6 +1,8 @@
-zip_code = "33441"
-state = "FL"
 city = "Deerfield Beach"
 county = "Broward"
-longitude = -80.140769
 latitude = 26.273761
+longitude = -80.140769
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33441"
+

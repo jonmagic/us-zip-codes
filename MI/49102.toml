@@ -1,6 +1,8 @@
-zip_code = "49102"
-state = "MI"
 city = "Berrien Center"
 county = "Berrien"
-longitude = -86.2681
 latitude = 41.954986
+longitude = -86.2681
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49102"
+

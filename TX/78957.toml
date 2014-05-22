@@ -1,6 +1,8 @@
-zip_code = "78957"
-state = "TX"
 city = "Smithville"
 county = "Bastrop"
-longitude = -97.222121
 latitude = 30.003401
+longitude = -97.222121
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78957"
+

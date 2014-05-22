@@ -1,6 +1,8 @@
-zip_code = "86441"
-state = "AZ"
 city = "Dolan Springs"
 county = "Mohave"
-longitude = -114.243188
 latitude = 35.269759
+longitude = -114.243188
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86441"
+

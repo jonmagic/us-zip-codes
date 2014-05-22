@@ -1,6 +1,8 @@
-zip_code = "38914"
-state = "MS"
 city = "Big Creek"
 county = "Calhoun"
-longitude = -89.431864
 latitude = 33.898213
+longitude = -89.431864
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38914"
+

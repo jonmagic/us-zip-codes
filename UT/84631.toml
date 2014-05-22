@@ -1,6 +1,8 @@
-zip_code = "84631"
-state = "UT"
 city = "Fillmore"
 county = "Millard"
-longitude = -112.467412
 latitude = 39.055572
+longitude = -112.467412
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84631"
+

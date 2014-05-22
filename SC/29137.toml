@@ -1,6 +1,8 @@
-zip_code = "29137"
-state = "SC"
 city = "Salley"
 county = "Aiken"
-longitude = -81.365813
 latitude = 33.605723
+longitude = -81.365813
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29137"
+

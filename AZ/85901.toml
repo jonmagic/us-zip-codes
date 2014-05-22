@@ -1,6 +1,8 @@
-zip_code = "85901"
-state = "AZ"
 city = "Show Low"
 county = "Navajo"
-longitude = -110.032025
 latitude = 34.570811
+longitude = -110.032025
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85901"
+

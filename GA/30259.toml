@@ -1,6 +1,8 @@
-zip_code = "30259"
-state = "GA"
 city = "Moreland"
 county = "Coweta"
-longitude = -84.738721
 latitude = 33.276279
+longitude = -84.738721
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30259"
+

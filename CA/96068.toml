@@ -1,6 +1,8 @@
-zip_code = "96068"
-state = "CA"
 city = "Nubieber"
 county = "Lassen"
-longitude = -121.134222
 latitude = 41.129955
+longitude = -121.134222
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96068"
+

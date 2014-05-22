@@ -1,6 +1,8 @@
-zip_code = "95351"
-state = "CA"
 city = "Modesto"
 county = "Stanislaus"
-longitude = -121.082742
 latitude = 37.636384
+longitude = -121.082742
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95351"
+

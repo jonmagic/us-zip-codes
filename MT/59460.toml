@@ -1,6 +1,8 @@
-zip_code = "59460"
-state = "MT"
 city = "Loma"
 county = "Chouteau"
-longitude = -110.502597
 latitude = 47.936513
+longitude = -110.502597
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59460"
+

@@ -1,6 +1,8 @@
-zip_code = "64018"
-state = "MO"
 city = "Camden Point"
 county = "Platte"
-longitude = -94.725832
 latitude = 39.396278
+longitude = -94.725832
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64018"
+

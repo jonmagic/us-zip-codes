@@ -1,6 +1,8 @@
-zip_code = "61356"
-state = "IL"
 city = "Princeton"
 county = "Bureau"
-longitude = -89.452044
 latitude = 41.424736
+longitude = -89.452044
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61356"
+

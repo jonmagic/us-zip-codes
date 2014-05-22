@@ -1,6 +1,8 @@
-zip_code = "55720"
-state = "MN"
 city = "Cloquet"
 county = "Carlton"
-longitude = -92.549564
 latitude = 46.592512
+longitude = -92.549564
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55720"
+

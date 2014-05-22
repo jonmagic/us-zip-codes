@@ -1,6 +1,8 @@
-zip_code = "60042"
-state = "IL"
 city = "Island Lake"
 county = "Lake"
-longitude = -88.188464
 latitude = 42.27179
+longitude = -88.188464
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60042"
+

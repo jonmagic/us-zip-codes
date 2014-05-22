@@ -1,6 +1,8 @@
-zip_code = "73062"
-state = "OK"
 city = "Mountain View"
 county = "Kiowa"
-longitude = -98.806836
 latitude = 35.087227
+longitude = -98.806836
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73062"
+

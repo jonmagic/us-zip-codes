@@ -1,6 +1,8 @@
-zip_code = "25901"
-state = "WV"
 city = "Oak Hill"
 county = "Fayette"
-longitude = -81.15848
 latitude = 37.959435
+longitude = -81.15848
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25901"
+

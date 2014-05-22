@@ -1,6 +1,8 @@
-zip_code = "21153"
-state = "MD"
 city = "Stevenson"
 county = "Baltimore"
-longitude = -76.730345
 latitude = 39.412905
+longitude = -76.730345
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21153"
+

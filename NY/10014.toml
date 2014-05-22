@@ -1,6 +1,8 @@
-zip_code = "10014"
-state = "NY"
 city = "New York"
 county = "New York"
-longitude = -74.005095
 latitude = 40.738088
+longitude = -74.005095
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10014"
+

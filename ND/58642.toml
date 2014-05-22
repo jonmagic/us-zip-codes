@@ -1,6 +1,8 @@
-zip_code = "58642"
-state = "ND"
 city = "Manning"
 county = "Dunn"
-longitude = -102.622139
 latitude = 47.402085
+longitude = -102.622139
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58642"
+

@@ -1,6 +1,8 @@
-zip_code = "18060"
-state = "PA"
 city = "Limeport"
 county = "Lehigh"
-longitude = -75.57864
 latitude = 40.53484
+longitude = -75.57864
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18060"
+

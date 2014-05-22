@@ -1,6 +1,8 @@
-zip_code = "27014"
-state = "NC"
 city = "Cooleemee"
 county = "Davie"
-longitude = -80.54826
 latitude = 35.819175
+longitude = -80.54826
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27014"
+

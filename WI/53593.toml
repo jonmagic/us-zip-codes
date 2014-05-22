@@ -1,6 +1,8 @@
-zip_code = "53593"
-state = "WI"
 city = "Verona"
 county = "Dane"
-longitude = -89.566512
 latitude = 42.995697
+longitude = -89.566512
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53593"
+

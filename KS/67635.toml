@@ -1,6 +1,8 @@
-zip_code = "67635"
-state = "KS"
 city = "Dresden"
 county = "Decatur"
-longitude = -100.459467
 latitude = 39.784578
+longitude = -100.459467
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67635"
+

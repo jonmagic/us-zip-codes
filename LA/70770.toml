@@ -1,6 +1,8 @@
-zip_code = "70770"
-state = "LA"
 city = "Pride"
 county = "East Baton Rouge"
-longitude = -90.974252
 latitude = 30.646585
+longitude = -90.974252
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70770"
+

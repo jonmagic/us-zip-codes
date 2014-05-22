@@ -1,6 +1,8 @@
-zip_code = "97526"
-state = "OR"
 city = "Grants Pass"
 county = "Josephine"
-longitude = -123.416119
 latitude = 42.402144
+longitude = -123.416119
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97526"
+

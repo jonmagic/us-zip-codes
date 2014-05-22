@@ -1,6 +1,8 @@
-zip_code = "98637"
-state = "WA"
 city = "Nahcotta"
 county = "Pacific"
-longitude = -123.76903
 latitude = 46.514625
+longitude = -123.76903
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98637"
+

@@ -1,6 +1,8 @@
-zip_code = "83851"
-state = "ID"
 city = "Plummer"
 county = "Benewah"
-longitude = -116.862018
 latitude = 47.243487
+longitude = -116.862018
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83851"
+

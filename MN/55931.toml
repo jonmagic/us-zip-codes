@@ -1,6 +1,8 @@
-zip_code = "55931"
-state = "MN"
 city = "Eitzen"
 county = "Houston"
-longitude = -91.463204
 latitude = 43.508371
+longitude = -91.463204
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55931"
+

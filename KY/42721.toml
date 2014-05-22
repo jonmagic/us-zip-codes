@@ -1,6 +1,8 @@
-zip_code = "42721"
-state = "KY"
 city = "Caneyville"
 county = "Grayson"
-longitude = -86.370024
 latitude = 37.430259
+longitude = -86.370024
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42721"
+

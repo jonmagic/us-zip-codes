@@ -1,6 +1,8 @@
-zip_code = "48863"
-state = "MI"
 city = "Oak Grove"
 county = "Livingston"
-longitude = -83.911173
 latitude = 42.603479
+longitude = -83.911173
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48863"
+

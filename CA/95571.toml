@@ -1,6 +1,8 @@
-zip_code = "95571"
-state = "CA"
 city = "Weott"
 county = "Humboldt"
-longitude = -123.882487
 latitude = 40.323964
+longitude = -123.882487
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95571"
+

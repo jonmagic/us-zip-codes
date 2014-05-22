@@ -1,6 +1,8 @@
-zip_code = "36093"
-state = "AL"
 city = "Wetumpka"
 county = "Elmore"
-longitude = -86.099371
 latitude = 32.562179
+longitude = -86.099371
+state = ""
+state_code_alpha2 = ""
+zip_code = "36093"
+

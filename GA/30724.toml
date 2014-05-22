@@ -1,6 +1,8 @@
-zip_code = "30724"
-state = "GA"
 city = "Eton"
 county = "Murray"
-longitude = -84.777863
 latitude = 34.78783
+longitude = -84.777863
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30724"
+

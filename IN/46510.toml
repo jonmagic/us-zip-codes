@@ -1,6 +1,8 @@
-zip_code = "46510"
-state = "IN"
 city = "Claypool"
 county = "Kosciusko"
-longitude = -85.871487
 latitude = 41.136771
+longitude = -85.871487
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46510"
+

@@ -1,6 +1,8 @@
-zip_code = "83855"
-state = "ID"
 city = "Potlatch"
 county = "Latah"
-longitude = -116.935859
 latitude = 46.950211
+longitude = -116.935859
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83855"
+

@@ -1,6 +1,8 @@
-zip_code = "63565"
-state = "MO"
 city = "Unionville"
 county = "Putnam"
-longitude = -93.012329
 latitude = 40.50952
+longitude = -93.012329
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63565"
+

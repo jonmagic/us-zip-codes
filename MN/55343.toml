@@ -1,6 +1,8 @@
-zip_code = "55343"
-state = "MN"
 city = "Hopkins"
 county = "Hennepin"
-longitude = -93.44813
 latitude = 44.913969
+longitude = -93.44813
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55343"
+

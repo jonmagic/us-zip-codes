@@ -1,6 +1,8 @@
-zip_code = "61230"
-state = "IL"
 city = "Albany"
 county = "Whiteside"
-longitude = -90.159676
 latitude = 41.729562
+longitude = -90.159676
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61230"
+

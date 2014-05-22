@@ -1,6 +1,8 @@
-zip_code = "68920"
-state = "NE"
 city = "Alma"
 county = "Harlan"
-longitude = -99.352846
 latitude = 40.101761
+longitude = -99.352846
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68920"
+

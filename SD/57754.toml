@@ -1,6 +1,8 @@
-zip_code = "57754"
-state = "SD"
 city = "Lead"
 county = "Lawrence"
-longitude = -103.752683
 latitude = 44.444505
+longitude = -103.752683
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57754"
+

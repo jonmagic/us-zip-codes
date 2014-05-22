@@ -1,6 +1,8 @@
-zip_code = "71945"
-state = "AR"
 city = "Hatfield"
 county = "Polk"
-longitude = -94.362242
 latitude = 34.5019
+longitude = -94.362242
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71945"
+

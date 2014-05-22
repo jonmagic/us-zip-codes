@@ -1,6 +1,8 @@
-zip_code = "98947"
-state = "WA"
 city = "Tieton"
 county = "Yakima"
-longitude = -120.693103
 latitude = 46.740371
+longitude = -120.693103
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98947"
+

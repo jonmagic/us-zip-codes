@@ -1,6 +1,8 @@
-zip_code = "70569"
-state = "LA"
 city = "Lydia"
 county = "Iberia"
-longitude = -91.812552
 latitude = 29.909643
+longitude = -91.812552
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70569"
+

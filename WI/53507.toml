@@ -1,6 +1,8 @@
-zip_code = "53507"
-state = "WI"
 city = "Barneveld"
 county = "Iowa"
-longitude = -89.897387
 latitude = 43.008396
+longitude = -89.897387
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53507"
+

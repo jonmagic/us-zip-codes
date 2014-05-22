@@ -1,6 +1,8 @@
-zip_code = "00638"
-state = "PR"
 city = "Ciales"
 county = "Ciales"
-longitude = -66.472087
 latitude = 18.33616
+longitude = -66.472087
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00638"
+

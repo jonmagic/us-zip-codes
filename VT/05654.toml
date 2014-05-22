@@ -1,6 +1,8 @@
-zip_code = "05654"
-state = "VT"
 city = "Graniteville"
 county = "Washington"
-longitude = -72.484706
 latitude = 44.155438
+longitude = -72.484706
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05654"
+

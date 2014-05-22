@@ -1,6 +1,8 @@
-zip_code = "46947"
-state = "IN"
 city = "Logansport"
 county = "Cass"
-longitude = -86.375168
 latitude = 40.77927
+longitude = -86.375168
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46947"
+

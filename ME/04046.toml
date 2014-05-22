@@ -1,6 +1,8 @@
-zip_code = "04046"
-state = "ME"
 city = "Kennebunkport"
 county = "York"
-longitude = -70.607475
 latitude = 43.534125
+longitude = -70.607475
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04046"
+

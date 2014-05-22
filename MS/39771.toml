@@ -1,6 +1,8 @@
-zip_code = "39771"
-state = "MS"
 city = "Walthall"
 county = "Webster"
-longitude = -89.298621
 latitude = 33.595758
+longitude = -89.298621
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39771"
+

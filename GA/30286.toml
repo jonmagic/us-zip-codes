@@ -1,6 +1,8 @@
-zip_code = "30286"
-state = "GA"
 city = "Thomaston"
 county = "Upson"
-longitude = -84.336486
 latitude = 32.884509
+longitude = -84.336486
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30286"
+

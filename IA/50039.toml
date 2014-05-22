@@ -1,6 +1,8 @@
-zip_code = "50039"
-state = "IA"
 city = "Bouton"
 county = "Dallas"
-longitude = -94.00881
 latitude = 41.82003
+longitude = -94.00881
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50039"
+

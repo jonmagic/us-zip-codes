@@ -1,6 +1,8 @@
-zip_code = "46311"
-state = "IN"
 city = "Dyer"
 county = "Lake"
-longitude = -87.499489
 latitude = 41.451993
+longitude = -87.499489
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46311"
+

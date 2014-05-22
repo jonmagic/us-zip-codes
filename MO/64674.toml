@@ -1,6 +1,8 @@
-zip_code = "64674"
-state = "MO"
 city = "Purdin"
 county = "Linn"
-longitude = -93.152305
 latitude = 39.964179
+longitude = -93.152305
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64674"
+

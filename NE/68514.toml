@@ -1,6 +1,8 @@
-zip_code = "68514"
-state = "NE"
 city = "Lincoln"
 county = "Lancaster"
-longitude = -96.662138
 latitude = 40.940125
+longitude = -96.662138
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68514"
+

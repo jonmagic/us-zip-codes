@@ -1,6 +1,8 @@
-zip_code = "38929"
-state = "MS"
 city = "Gore Springs"
 county = "Grenada"
-longitude = -89.647197
 latitude = 33.78764
+longitude = -89.647197
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38929"
+

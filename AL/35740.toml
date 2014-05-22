@@ -1,6 +1,8 @@
-zip_code = "35740"
-state = "AL"
 city = "Bridgeport"
 county = "Jackson"
-longitude = -85.803464
 latitude = 34.799983
+longitude = -85.803464
+state = ""
+state_code_alpha2 = ""
+zip_code = "35740"
+

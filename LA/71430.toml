@@ -1,6 +1,8 @@
-zip_code = "71430"
-state = "LA"
 city = "Forest Hill"
 county = "Rapides"
-longitude = -92.448853
 latitude = 31.157736
+longitude = -92.448853
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71430"
+

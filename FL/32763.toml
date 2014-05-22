@@ -1,6 +1,8 @@
-zip_code = "32763"
-state = "FL"
 city = "Orange City"
 county = "Volusia"
-longitude = -81.301856
 latitude = 28.939904
+longitude = -81.301856
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32763"
+

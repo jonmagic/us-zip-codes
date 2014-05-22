@@ -1,6 +1,8 @@
-zip_code = "79379"
-state = "TX"
 city = "Whiteface"
 county = "Cochran"
-longitude = -102.619882
 latitude = 33.598837
+longitude = -102.619882
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79379"
+

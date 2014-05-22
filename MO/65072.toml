@@ -1,6 +1,8 @@
-zip_code = "65072"
-state = "MO"
 city = "Rocky Mount"
 county = "Morgan"
-longitude = -92.734795
 latitude = 38.265465
+longitude = -92.734795
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65072"
+

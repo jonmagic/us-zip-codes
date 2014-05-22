@@ -1,6 +1,8 @@
-zip_code = "54520"
-state = "WI"
 city = "Crandon"
 county = "Forest"
-longitude = -88.891846
 latitude = 45.511846
+longitude = -88.891846
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54520"
+

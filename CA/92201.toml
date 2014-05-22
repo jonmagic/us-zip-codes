@@ -1,6 +1,8 @@
-zip_code = "92201"
-state = "CA"
 city = "Indio"
 county = "Riverside"
-longitude = -116.035705
 latitude = 33.728721
+longitude = -116.035705
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92201"
+

@@ -1,6 +1,8 @@
-zip_code = "07034"
-state = "NJ"
 city = "Lake Hiawatha"
 county = "Morris"
-longitude = -74.379745
 latitude = 40.880649
+longitude = -74.379745
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07034"
+

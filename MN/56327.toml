@@ -1,6 +1,8 @@
-zip_code = "56327"
-state = "MN"
 city = "Farwell"
 county = "Pope"
-longitude = -95.623944
 latitude = 45.728746
+longitude = -95.623944
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56327"
+

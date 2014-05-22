@@ -1,6 +1,8 @@
-zip_code = "68380"
-state = "NE"
 city = "Lewiston"
 county = "Pawnee"
-longitude = -96.379188
 latitude = 40.195573
+longitude = -96.379188
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68380"
+

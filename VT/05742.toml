@@ -1,6 +1,8 @@
-zip_code = "05742"
-state = "VT"
 city = "East Wallingford"
 county = "Rutland"
-longitude = -72.92087
 latitude = 43.446092
+longitude = -72.92087
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05742"
+

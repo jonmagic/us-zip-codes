@@ -1,6 +1,8 @@
-zip_code = "98038"
-state = "WA"
 city = "Maple Valley"
 county = "King"
-longitude = -121.969445
 latitude = 47.409304
+longitude = -121.969445
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98038"
+

@@ -1,6 +1,8 @@
-zip_code = "78377"
-state = "TX"
 city = "Refugio"
 county = "Refugio"
-longitude = -97.297783
 latitude = 28.281826
+longitude = -97.297783
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78377"
+

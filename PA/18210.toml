@@ -1,6 +1,8 @@
-zip_code = "18210"
-state = "PA"
 city = "Albrightsville"
 county = "Carbon"
-longitude = -75.560751
 latitude = 41.012618
+longitude = -75.560751
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18210"
+

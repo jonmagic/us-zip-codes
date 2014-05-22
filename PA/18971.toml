@@ -1,6 +1,8 @@
-zip_code = "18971"
-state = "PA"
 city = "Tylersport"
 county = "Montgomery"
-longitude = -75.376985
 latitude = 40.34698
+longitude = -75.376985
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18971"
+

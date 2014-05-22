@@ -1,6 +1,8 @@
-zip_code = "44133"
-state = "OH"
 city = "North Royalton"
 county = "Cuyahoga"
-longitude = -81.745102
 latitude = 41.314603
+longitude = -81.745102
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44133"
+

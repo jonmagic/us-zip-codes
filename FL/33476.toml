@@ -1,6 +1,8 @@
-zip_code = "33476"
-state = "FL"
 city = "Pahokee"
 county = "Palm Beach"
-longitude = -80.17864
 latitude = 26.623067
+longitude = -80.17864
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33476"
+

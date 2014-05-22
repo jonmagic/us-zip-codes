@@ -1,6 +1,8 @@
-zip_code = "49870"
-state = "MI"
 city = "Norway"
 county = "Dickinson"
-longitude = -87.917602
 latitude = 45.857201
+longitude = -87.917602
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49870"
+

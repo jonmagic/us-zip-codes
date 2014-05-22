@@ -1,6 +1,8 @@
-zip_code = "44021"
-state = "OH"
 city = "Burton"
 county = "Geauga"
-longitude = -81.152938
 latitude = 41.447117
+longitude = -81.152938
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44021"
+

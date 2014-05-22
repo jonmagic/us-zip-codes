@@ -1,6 +1,8 @@
-zip_code = "25989"
-state = "WV"
 city = "White Oak"
 county = "Raleigh"
-longitude = -81.048923
 latitude = 37.684255
+longitude = -81.048923
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25989"
+

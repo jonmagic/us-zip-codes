@@ -1,6 +1,8 @@
-zip_code = "41062"
-state = "KY"
 city = "Minerva"
 county = "Mason"
-longitude = -83.910276
 latitude = 38.719573
+longitude = -83.910276
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41062"
+

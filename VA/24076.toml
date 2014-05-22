@@ -1,6 +1,8 @@
-zip_code = "24076"
-state = "VA"
 city = "Claudville"
 county = "Patrick"
-longitude = -80.36824
 latitude = 36.597733
+longitude = -80.36824
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24076"
+

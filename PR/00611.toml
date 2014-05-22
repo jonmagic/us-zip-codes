@@ -1,6 +1,8 @@
-zip_code = "00611"
-state = "PR"
 city = "Angeles"
 county = "Utuado"
-longitude = -66.80217
 latitude = 18.279531
+longitude = -66.80217
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00611"
+

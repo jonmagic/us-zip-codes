@@ -1,6 +1,8 @@
-zip_code = "96070"
-state = "CA"
 city = "Obrien"
 county = "Shasta"
-longitude = -122.1944
 latitude = 40.735153
+longitude = -122.1944
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96070"
+

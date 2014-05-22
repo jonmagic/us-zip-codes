@@ -1,6 +1,8 @@
-zip_code = "42726"
-state = "KY"
 city = "Clarkson"
 county = "Grayson"
-longitude = -86.208318
 latitude = 37.433583
+longitude = -86.208318
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42726"
+

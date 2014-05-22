@@ -1,6 +1,8 @@
-zip_code = "52302"
-state = "IA"
 city = "Marion"
 county = "Linn"
-longitude = -91.573963
 latitude = 42.056938
+longitude = -91.573963
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52302"
+

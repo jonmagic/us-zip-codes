@@ -1,6 +1,8 @@
-zip_code = "38877"
-state = "MS"
 city = "Van Vleet"
 county = "Chickasaw"
-longitude = -88.898807
 latitude = 33.987089
+longitude = -88.898807
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38877"
+

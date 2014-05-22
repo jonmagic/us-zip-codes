@@ -1,6 +1,8 @@
-zip_code = "58544"
-state = "ND"
 city = "Hazelton"
 county = "Emmons"
-longitude = -100.337283
 latitude = 46.517223
+longitude = -100.337283
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58544"
+

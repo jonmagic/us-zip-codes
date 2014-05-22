@@ -1,6 +1,8 @@
-zip_code = "25816"
-state = "WV"
 city = "Blue Jay"
 county = "Raleigh"
-longitude = -81.136328
 latitude = 37.735161
+longitude = -81.136328
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25816"
+

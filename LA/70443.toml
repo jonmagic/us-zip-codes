@@ -1,6 +1,8 @@
-zip_code = "70443"
-state = "LA"
 city = "Independence"
 county = "Tangipahoa"
-longitude = -90.491168
 latitude = 30.651594
+longitude = -90.491168
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70443"
+

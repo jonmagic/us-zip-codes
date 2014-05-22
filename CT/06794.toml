@@ -1,6 +1,8 @@
-zip_code = "06794"
-state = "CT"
 city = "Washington Depot"
 county = "Litchfield"
-longitude = -73.316951
 latitude = 41.646347
+longitude = -73.316951
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06794"
+

@@ -1,6 +1,8 @@
-zip_code = "42035"
-state = "KY"
 city = "Cunningham"
 county = "Carlisle"
-longitude = -88.995991
 latitude = 36.863147
+longitude = -88.995991
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42035"
+

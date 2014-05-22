@@ -1,6 +1,8 @@
-zip_code = "41097"
-state = "KY"
 city = "Williamstown"
 county = "Grant"
-longitude = -84.603041
 latitude = 38.654385
+longitude = -84.603041
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41097"
+

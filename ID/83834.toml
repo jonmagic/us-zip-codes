@@ -1,6 +1,8 @@
-zip_code = "83834"
-state = "ID"
 city = "Harvard"
 county = "Latah"
-longitude = -116.715837
 latitude = 46.924095
+longitude = -116.715837
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83834"
+

@@ -1,6 +1,8 @@
-zip_code = "51572"
-state = "IA"
 city = "Soldier"
 county = "Monona"
-longitude = -95.778514
 latitude = 41.994014
+longitude = -95.778514
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51572"
+

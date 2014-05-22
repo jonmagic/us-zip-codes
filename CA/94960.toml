@@ -1,6 +1,8 @@
-zip_code = "94960"
-state = "CA"
 city = "San Anselmo"
 county = "Marin"
-longitude = -122.59184
 latitude = 37.986473
+longitude = -122.59184
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94960"
+

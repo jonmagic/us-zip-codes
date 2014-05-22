@@ -1,6 +1,8 @@
-zip_code = "71724"
-state = "AR"
 city = "Calion"
 county = "Union"
-longitude = -92.597514
 latitude = 33.266043
+longitude = -92.597514
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71724"
+

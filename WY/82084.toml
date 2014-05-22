@@ -1,6 +1,8 @@
-zip_code = "82084"
-state = "WY"
 city = "Tie Siding"
 county = "Albany"
-longitude = -105.486538
 latitude = 41.271207
+longitude = -105.486538
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82084"
+

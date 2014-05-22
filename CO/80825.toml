@@ -1,6 +1,8 @@
-zip_code = "80825"
-state = "CO"
 city = "Kit Carson"
 county = "Cheyenne"
-longitude = -102.598136
 latitude = 38.827174
+longitude = -102.598136
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80825"
+

@@ -1,6 +1,8 @@
-zip_code = "66777"
-state = "KS"
 city = "Toronto"
 county = "Woodson"
-longitude = -95.88888
 latitude = 37.814423
+longitude = -95.88888
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66777"
+

@@ -1,6 +1,8 @@
-zip_code = "79072"
-state = "TX"
 city = "Plainview"
 county = "Hale"
-longitude = -101.82702
 latitude = 34.068999
+longitude = -101.82702
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79072"
+

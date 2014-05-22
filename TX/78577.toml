@@ -1,6 +1,8 @@
-zip_code = "78577"
-state = "TX"
 city = "Pharr"
 county = "Hidalgo"
-longitude = -98.127765
 latitude = 26.186698
+longitude = -98.127765
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78577"
+

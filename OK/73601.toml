@@ -1,6 +1,8 @@
-zip_code = "73601"
-state = "OK"
 city = "Clinton"
 county = "Custer"
-longitude = -98.902136
 latitude = 35.60603
+longitude = -98.902136
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73601"
+

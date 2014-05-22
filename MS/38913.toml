@@ -1,6 +1,8 @@
-zip_code = "38913"
-state = "MS"
 city = "Banner"
 county = "Calhoun"
-longitude = -89.395779
 latitude = 34.12266
+longitude = -89.395779
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38913"
+

@@ -1,6 +1,8 @@
-zip_code = "83827"
-state = "ID"
 city = "Elk River"
 county = "Clearwater"
-longitude = -116.214523
 latitude = 46.779553
+longitude = -116.214523
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83827"
+

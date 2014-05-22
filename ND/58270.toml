@@ -1,6 +1,8 @@
-zip_code = "58270"
-state = "ND"
 city = "Park River"
 county = "Walsh"
-longitude = -97.774812
 latitude = 48.420411
+longitude = -97.774812
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58270"
+

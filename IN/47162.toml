@@ -1,6 +1,8 @@
-zip_code = "47162"
-state = "IN"
 city = "New Washington"
 county = "Clark"
-longitude = -85.486131
 latitude = 38.550289
+longitude = -85.486131
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47162"
+

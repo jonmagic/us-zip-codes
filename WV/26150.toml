@@ -1,6 +1,8 @@
-zip_code = "26150"
-state = "WV"
 city = "Mineral Wells"
 county = "Wood"
-longitude = -81.513911
 latitude = 39.189677
+longitude = -81.513911
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26150"
+

@@ -1,6 +1,8 @@
-zip_code = "68875"
-state = "NE"
 city = "Scotia"
 county = "Greeley"
-longitude = -98.703727
 latitude = 41.467579
+longitude = -98.703727
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68875"
+

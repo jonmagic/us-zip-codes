@@ -1,6 +1,8 @@
-zip_code = "36429"
-state = "AL"
 city = "Brooklyn"
 county = "Conecuh"
-longitude = -87.044687
 latitude = 31.466945
+longitude = -87.044687
+state = ""
+state_code_alpha2 = ""
+zip_code = "36429"
+

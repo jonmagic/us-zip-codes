@@ -1,6 +1,8 @@
-zip_code = "38401"
-state = "TN"
 city = "Columbia"
 county = "Maury"
-longitude = -87.00404
 latitude = 35.623997
+longitude = -87.00404
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38401"
+

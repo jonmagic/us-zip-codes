@@ -1,6 +1,8 @@
-zip_code = "51454"
-state = "IA"
 city = "Manilla"
 county = "Crawford"
-longitude = -95.222803
 latitude = 41.968254
+longitude = -95.222803
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51454"
+

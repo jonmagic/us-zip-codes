@@ -1,6 +1,8 @@
-zip_code = "41018"
-state = "KY"
 city = "Erlanger"
 county = "Kenton"
-longitude = -84.591389
 latitude = 39.019684
+longitude = -84.591389
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41018"
+

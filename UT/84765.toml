@@ -1,6 +1,8 @@
-zip_code = "84765"
-state = "UT"
 city = "Santa Clara"
 county = "Washington"
-longitude = -113.676057
 latitude = 37.345219
+longitude = -113.676057
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84765"
+

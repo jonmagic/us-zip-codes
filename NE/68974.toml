@@ -1,6 +1,8 @@
-zip_code = "68974"
-state = "NE"
 city = "Ruskin"
 county = "Nuckolls"
-longitude = -97.91468
 latitude = 40.152394
+longitude = -97.91468
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68974"
+

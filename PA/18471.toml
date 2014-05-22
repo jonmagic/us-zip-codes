@@ -1,6 +1,8 @@
-zip_code = "18471"
-state = "PA"
 city = "Waverly"
 county = "Lackawanna"
-longitude = -75.690608
 latitude = 41.523812
+longitude = -75.690608
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18471"
+

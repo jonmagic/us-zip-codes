@@ -1,6 +1,8 @@
-zip_code = "96038"
-state = "CA"
 city = "Grenada"
 county = "Siskiyou"
-longitude = -122.46953
 latitude = 41.63468
+longitude = -122.46953
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96038"
+

@@ -1,6 +1,8 @@
-zip_code = "88232"
-state = "NM"
 city = "Hagerman"
 county = "Chaves"
-longitude = -104.356588
 latitude = 33.101546
+longitude = -104.356588
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88232"
+

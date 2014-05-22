@@ -1,6 +1,8 @@
-zip_code = "12032"
-state = "NY"
 city = "Caroga Lake"
 county = "Fulton"
-longitude = -74.494888
 latitude = 43.15566
+longitude = -74.494888
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12032"
+

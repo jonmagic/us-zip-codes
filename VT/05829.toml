@@ -1,6 +1,8 @@
-zip_code = "05829"
-state = "VT"
 city = "Derby"
 county = "Orleans"
-longitude = -72.218616
 latitude = 44.952347
+longitude = -72.218616
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05829"
+

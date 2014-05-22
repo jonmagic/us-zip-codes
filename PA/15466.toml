@@ -1,6 +1,8 @@
-zip_code = "15466"
-state = "PA"
 city = "Newell"
 county = "Fayette"
-longitude = -79.894347
 latitude = 40.075064
+longitude = -79.894347
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15466"
+

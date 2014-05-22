@@ -1,6 +1,8 @@
-zip_code = "60440"
-state = "IL"
 city = "Bolingbrook"
 county = "Will"
-longitude = -88.022464
 latitude = 41.623336
+longitude = -88.022464
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60440"
+

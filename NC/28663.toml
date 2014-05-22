@@ -1,6 +1,8 @@
-zip_code = "28663"
-state = "NC"
 city = "Piney Creek"
 county = "Alleghany"
-longitude = -81.301935
 latitude = 36.527637
+longitude = -81.301935
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28663"
+

@@ -1,6 +1,8 @@
-zip_code = "55605"
-state = "MN"
 city = "Grand Portage"
 county = "Cook"
-longitude = -89.851983
 latitude = 47.923022
+longitude = -89.851983
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55605"
+

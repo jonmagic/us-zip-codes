@@ -1,6 +1,8 @@
-zip_code = "64077"
-state = "MO"
 city = "Orrick"
 county = "Ray"
-longitude = -94.024126
 latitude = 39.234415
+longitude = -94.024126
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64077"
+

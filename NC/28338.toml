@@ -1,6 +1,8 @@
-zip_code = "28338"
-state = "NC"
 city = "Ellerbe"
 county = "Richmond"
-longitude = -79.714244
 latitude = 35.095959
+longitude = -79.714244
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28338"
+

@@ -1,6 +1,8 @@
-zip_code = "46582"
-state = "IN"
 city = "Warsaw"
 county = "Kosciusko"
-longitude = -85.849508
 latitude = 41.254225
+longitude = -85.849508
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46582"
+

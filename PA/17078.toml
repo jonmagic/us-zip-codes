@@ -1,6 +1,8 @@
-zip_code = "17078"
-state = "PA"
 city = "Palmyra"
 county = "Lebanon"
-longitude = -76.416907
 latitude = 40.317606
+longitude = -76.416907
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17078"
+

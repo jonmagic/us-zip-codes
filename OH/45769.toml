@@ -1,6 +1,8 @@
-zip_code = "45769"
-state = "OH"
 city = "Pomeroy"
 county = "Meigs"
-longitude = -82.069422
 latitude = 39.07866
+longitude = -82.069422
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45769"
+

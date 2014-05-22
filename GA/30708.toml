@@ -1,6 +1,8 @@
-zip_code = "30708"
-state = "GA"
 city = "Cisco"
 county = "Murray"
-longitude = -84.75688
 latitude = 34.872473
+longitude = -84.75688
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30708"
+

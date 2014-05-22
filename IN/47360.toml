@@ -1,6 +1,8 @@
-zip_code = "47360"
-state = "IN"
 city = "Mooreland"
 county = "Henry"
-longitude = -85.293037
 latitude = 40.01641
+longitude = -85.293037
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47360"
+

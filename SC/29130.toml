@@ -1,6 +1,8 @@
-zip_code = "29130"
-state = "SC"
 city = "Ridgeway"
 county = "Fairfield"
-longitude = -80.926792
 latitude = 34.306879
+longitude = -80.926792
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29130"
+

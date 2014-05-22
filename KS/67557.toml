@@ -1,6 +1,8 @@
-zip_code = "67557"
-state = "KS"
 city = "Macksville"
 county = "Stafford"
-longitude = -98.968997
 latitude = 37.95853
+longitude = -98.968997
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67557"
+

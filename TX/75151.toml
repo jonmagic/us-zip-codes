@@ -1,6 +1,8 @@
-zip_code = "75151"
-state = "TX"
 city = "Corsicana"
 county = "Navarro"
-longitude = -96.473459
 latitude = 32.062395
+longitude = -96.473459
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75151"
+

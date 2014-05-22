@@ -1,6 +1,8 @@
-zip_code = "17921"
-state = "PA"
 city = "Ashland"
 county = "Schuylkill"
-longitude = -76.303085
 latitude = 40.692886
+longitude = -76.303085
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17921"
+

@@ -1,6 +1,8 @@
-zip_code = "65737"
-state = "MO"
 city = "Reeds Spring"
 county = "Stone"
-longitude = -93.344687
 latitude = 36.690661
+longitude = -93.344687
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65737"
+

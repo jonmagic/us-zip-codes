@@ -1,6 +1,8 @@
-zip_code = "16655"
-state = "PA"
 city = "Imler"
 county = "Bedford"
-longitude = -78.537796
 latitude = 40.250384
+longitude = -78.537796
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16655"
+

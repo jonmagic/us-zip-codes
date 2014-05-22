@@ -1,6 +1,8 @@
-zip_code = "59213"
-state = "MT"
 city = "Brockton"
 county = "Roosevelt"
-longitude = -104.94413
 latitude = 48.280119
+longitude = -104.94413
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59213"
+

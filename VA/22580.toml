@@ -1,6 +1,8 @@
-zip_code = "22580"
-state = "VA"
 city = "Woodford"
 county = "Caroline"
-longitude = -77.417234
 latitude = 38.130103
+longitude = -77.417234
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22580"
+

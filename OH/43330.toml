@@ -1,6 +1,8 @@
-zip_code = "43330"
-state = "OH"
 city = "Kirby"
 county = "Wyandot"
-longitude = -83.419606
 latitude = 40.813023
+longitude = -83.419606
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43330"
+

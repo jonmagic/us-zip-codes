@@ -1,6 +1,8 @@
-zip_code = "95699"
-state = "CA"
 city = "Drytown"
 county = "Amador"
-longitude = -120.845706
 latitude = 38.437001
+longitude = -120.845706
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95699"
+

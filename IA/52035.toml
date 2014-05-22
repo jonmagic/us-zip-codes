@@ -1,6 +1,8 @@
-zip_code = "52035"
-state = "IA"
 city = "Colesburg"
 county = "Delaware"
-longitude = -91.347333
 latitude = 42.560859
+longitude = -91.347333
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52035"
+

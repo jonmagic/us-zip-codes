@@ -1,6 +1,8 @@
-zip_code = "14880"
-state = "NY"
 city = "Scio"
 county = "Allegany"
-longitude = -77.965672
 latitude = 42.16615
+longitude = -77.965672
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14880"
+

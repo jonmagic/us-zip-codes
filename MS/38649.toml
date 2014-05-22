@@ -1,6 +1,8 @@
-zip_code = "38649"
-state = "MS"
 city = "Mount Pleasant"
 county = "Marshall"
-longitude = -89.523027
 latitude = 34.953584
+longitude = -89.523027
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38649"
+

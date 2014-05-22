@@ -1,6 +1,8 @@
-zip_code = "37620"
-state = "TN"
 city = "Bristol"
 county = "Sullivan"
-longitude = -82.192545
 latitude = 36.531703
+longitude = -82.192545
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37620"
+

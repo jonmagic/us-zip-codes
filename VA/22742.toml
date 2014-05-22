@@ -1,6 +1,8 @@
-zip_code = "22742"
-state = "VA"
 city = "Sumerduck"
 county = "Fauquier"
-longitude = -77.706223
 latitude = 38.462651
+longitude = -77.706223
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22742"
+

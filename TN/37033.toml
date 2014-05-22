@@ -1,6 +1,8 @@
-zip_code = "37033"
-state = "TN"
 city = "Centerville"
 county = "Hickman"
-longitude = -87.502405
 latitude = 35.750099
+longitude = -87.502405
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37033"
+

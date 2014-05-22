@@ -1,6 +1,8 @@
-zip_code = "38328"
-state = "TN"
 city = "Darden"
 county = "Henderson"
-longitude = -88.215928
 latitude = 35.666113
+longitude = -88.215928
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38328"
+

@@ -1,6 +1,8 @@
-zip_code = "29082"
-state = "SC"
 city = "Lodge"
 county = "Colleton"
-longitude = -80.762449
 latitude = 33.029619
+longitude = -80.762449
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29082"
+

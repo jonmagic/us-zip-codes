@@ -1,6 +1,8 @@
-zip_code = "74079"
-state = "OK"
 city = "Stroud"
 county = "Lincoln"
-longitude = -96.745384
 latitude = 35.709676
+longitude = -96.745384
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74079"
+

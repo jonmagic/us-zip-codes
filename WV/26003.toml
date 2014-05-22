@@ -1,6 +1,8 @@
-zip_code = "26003"
-state = "WV"
 city = "Wheeling"
 county = "Ohio"
-longitude = -80.647599
 latitude = 40.102703
+longitude = -80.647599
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26003"
+

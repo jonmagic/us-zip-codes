@@ -1,6 +1,8 @@
-zip_code = "59537"
-state = "MT"
 city = "Loring"
 county = "Phillips"
-longitude = -108.035444
 latitude = 48.224749
+longitude = -108.035444
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59537"
+

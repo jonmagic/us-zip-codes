@@ -1,6 +1,8 @@
-zip_code = "14059"
-state = "NY"
 city = "Elma"
 county = "Erie"
-longitude = -78.628966
 latitude = 42.828309
+longitude = -78.628966
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14059"
+

@@ -1,6 +1,8 @@
-zip_code = "41745"
-state = "KY"
 city = "Gays Creek"
 county = "Perry"
-longitude = -83.436773
 latitude = 37.349687
+longitude = -83.436773
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41745"
+

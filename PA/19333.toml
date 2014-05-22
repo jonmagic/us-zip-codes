@@ -1,6 +1,8 @@
-zip_code = "19333"
-state = "PA"
 city = "Devon"
 county = "Chester"
-longitude = -75.42746
 latitude = 40.042623
+longitude = -75.42746
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19333"
+

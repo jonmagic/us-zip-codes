@@ -1,6 +1,8 @@
-zip_code = "72125"
-state = "AR"
 city = "Perry"
 county = "Perry"
-longitude = -92.795821
 latitude = 35.044346
+longitude = -92.795821
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72125"
+

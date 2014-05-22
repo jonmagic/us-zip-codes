@@ -1,6 +1,8 @@
-zip_code = "54757"
-state = "WI"
 city = "New Auburn"
 county = "Chippewa"
-longitude = -91.486707
 latitude = 45.118159
+longitude = -91.486707
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54757"
+

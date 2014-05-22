@@ -1,6 +1,8 @@
-zip_code = "72160"
-state = "AR"
 city = "Stuttgart"
 county = "Arkansas"
-longitude = -91.419955
 latitude = 34.387577
+longitude = -91.419955
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72160"
+

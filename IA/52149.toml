@@ -1,6 +1,8 @@
-zip_code = "52149"
-state = "IA"
 city = "Highlandville"
 county = "Winneshiek"
-longitude = -91.689862
 latitude = 43.463765
+longitude = -91.689862
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52149"
+

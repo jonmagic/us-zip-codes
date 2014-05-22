@@ -1,6 +1,8 @@
-zip_code = "48465"
-state = "MI"
 city = "Palms"
 county = "Sanilac"
-longitude = -82.707455
 latitude = 43.614613
+longitude = -82.707455
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48465"
+

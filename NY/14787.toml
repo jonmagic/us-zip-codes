@@ -1,6 +1,8 @@
-zip_code = "14787"
-state = "NY"
 city = "Westfield"
 county = "Chautauqua"
-longitude = -79.484286
 latitude = 42.253734
+longitude = -79.484286
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14787"
+

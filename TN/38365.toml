@@ -1,6 +1,8 @@
-zip_code = "38365"
-state = "TN"
 city = "Pickwick Dam"
 county = "Hardin"
-longitude = -88.225601
 latitude = 35.038284
+longitude = -88.225601
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38365"
+

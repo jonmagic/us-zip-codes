@@ -1,6 +1,8 @@
-zip_code = "48882"
-state = "MI"
 city = "Shaftsburg"
 county = "Shiawassee"
-longitude = -84.295949
 latitude = 42.803973
+longitude = -84.295949
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48882"
+

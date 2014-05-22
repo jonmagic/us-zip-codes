@@ -1,6 +1,8 @@
-zip_code = "84302"
-state = "UT"
 city = "Brigham City"
 county = "Box Elder"
-longitude = -112.061761
 latitude = 41.537922
+longitude = -112.061761
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84302"
+

@@ -1,6 +1,8 @@
-zip_code = "18977"
-state = "PA"
 city = "Washington Crossing"
 county = "Bucks"
-longitude = -74.877828
 latitude = 40.284947
+longitude = -74.877828
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18977"
+

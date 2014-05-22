@@ -1,6 +1,8 @@
-zip_code = "78005"
-state = "TX"
 city = "Bigfoot"
 county = "Frio"
-longitude = -98.857837
 latitude = 28.965841
+longitude = -98.857837
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78005"
+

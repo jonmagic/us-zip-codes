@@ -1,6 +1,8 @@
-zip_code = "80645"
-state = "CO"
 city = "La Salle"
 county = "Weld"
-longitude = -104.665639
 latitude = 40.328185
+longitude = -104.665639
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80645"
+

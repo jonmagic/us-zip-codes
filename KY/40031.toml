@@ -1,6 +1,8 @@
-zip_code = "40031"
-state = "KY"
 city = "La Grange"
 county = "Oldham"
-longitude = -85.454359
 latitude = 38.423186
+longitude = -85.454359
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40031"
+

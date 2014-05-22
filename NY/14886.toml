@@ -1,6 +1,8 @@
-zip_code = "14886"
-state = "NY"
 city = "Trumansburg"
 county = "Tompkins"
-longitude = -76.635158
 latitude = 42.4803
+longitude = -76.635158
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14886"
+

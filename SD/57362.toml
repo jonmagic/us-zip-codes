@@ -1,6 +1,8 @@
-zip_code = "57362"
-state = "SD"
 city = "Miller"
 county = "Hand"
-longitude = -99.062766
 latitude = 44.480979
+longitude = -99.062766
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57362"
+

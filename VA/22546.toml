@@ -1,6 +1,8 @@
-zip_code = "22546"
-state = "VA"
 city = "Ruther Glen"
 county = "Caroline"
-longitude = -77.437767
 latitude = 37.948572
+longitude = -77.437767
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22546"
+

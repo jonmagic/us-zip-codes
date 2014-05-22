@@ -1,6 +1,8 @@
-zip_code = "42371"
-state = "KY"
 city = "Rumsey"
 county = "Mclean"
-longitude = -87.246152
 latitude = 37.470441
+longitude = -87.246152
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42371"
+

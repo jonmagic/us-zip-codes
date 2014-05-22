@@ -1,6 +1,8 @@
-zip_code = "23860"
-state = "VA"
 city = "Hopewell"
 county = "Hopewell City"
-longitude = -77.296596
 latitude = 37.286676
+longitude = -77.296596
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23860"
+

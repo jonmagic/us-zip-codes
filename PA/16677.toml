@@ -1,6 +1,8 @@
-zip_code = "16677"
-state = "PA"
 city = "Sandy Ridge"
 county = "Centre"
-longitude = -78.238986
 latitude = 40.813628
+longitude = -78.238986
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16677"
+

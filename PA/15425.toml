@@ -1,6 +1,8 @@
-zip_code = "15425"
-state = "PA"
 city = "Connellsville"
 county = "Fayette"
-longitude = -79.700949
 latitude = 40.00743
+longitude = -79.700949
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15425"
+

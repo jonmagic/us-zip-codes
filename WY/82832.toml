@@ -1,6 +1,8 @@
-zip_code = "82832"
-state = "WY"
 city = "Banner"
 county = "Sheridan"
-longitude = -106.555587
 latitude = 44.768801
+longitude = -106.555587
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82832"
+

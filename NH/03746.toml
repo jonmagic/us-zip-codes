@@ -1,6 +1,8 @@
-zip_code = "03746"
-state = "NH"
 city = "Cornish Flat"
 county = "Sullivan"
-longitude = -72.193966
 latitude = 43.364504
+longitude = -72.193966
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03746"
+

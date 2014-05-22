@@ -1,6 +1,8 @@
-zip_code = "58475"
-state = "ND"
 city = "Pettibone"
 county = "Kidder"
-longitude = -99.584222
 latitude = 47.153918
+longitude = -99.584222
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58475"
+

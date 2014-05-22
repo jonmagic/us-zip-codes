@@ -1,6 +1,8 @@
-zip_code = "51554"
-state = "IA"
 city = "Mineola"
 county = "Mills"
-longitude = -95.700491
 latitude = 41.141404
+longitude = -95.700491
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51554"
+

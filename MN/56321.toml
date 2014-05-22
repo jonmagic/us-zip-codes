@@ -1,6 +1,8 @@
-zip_code = "56321"
-state = "MN"
 city = "Collegeville"
 county = "Stearns"
-longitude = -94.419941
 latitude = 45.578278
+longitude = -94.419941
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56321"
+

@@ -1,6 +1,8 @@
-zip_code = "02713"
-state = "MA"
 city = "Cuttyhunk"
 county = "Dukes"
-longitude = -70.931309
 latitude = 41.42178
+longitude = -70.931309
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02713"
+

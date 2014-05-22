@@ -1,6 +1,8 @@
-zip_code = "69301"
-state = "NE"
 city = "Alliance"
 county = "Box Butte"
-longitude = -103.073327
 latitude = 42.219844
+longitude = -103.073327
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69301"
+

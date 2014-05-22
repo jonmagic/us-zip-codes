@@ -1,6 +1,8 @@
-zip_code = "73901"
-state = "OK"
 city = "Adams"
 county = "Texas"
-longitude = -101.077969
 latitude = 36.755
+longitude = -101.077969
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73901"
+

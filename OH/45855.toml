@@ -1,6 +1,8 @@
-zip_code = "45855"
-state = "OH"
 city = "Latty"
 county = "Paulding"
-longitude = -84.583005
 latitude = 41.07712
+longitude = -84.583005
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45855"
+

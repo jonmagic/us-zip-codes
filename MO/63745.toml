@@ -1,6 +1,8 @@
-zip_code = "63745"
-state = "MO"
 city = "Dutchtown"
 county = "Cape Girardeau"
-longitude = -89.69768
 latitude = 37.24237
+longitude = -89.69768
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63745"
+

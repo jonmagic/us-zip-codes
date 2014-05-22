@@ -1,6 +1,8 @@
-zip_code = "40374"
-state = "KY"
 city = "Sharpsburg"
 county = "Bath"
-longitude = -83.88438
 latitude = 38.228942
+longitude = -83.88438
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40374"
+

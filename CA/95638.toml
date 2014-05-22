@@ -1,6 +1,8 @@
-zip_code = "95638"
-state = "CA"
 city = "Herald"
 county = "Sacramento"
-longitude = -121.154808
 latitude = 38.320561
+longitude = -121.154808
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95638"
+

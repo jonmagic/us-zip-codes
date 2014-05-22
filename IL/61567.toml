@@ -1,6 +1,8 @@
-zip_code = "61567"
-state = "IL"
 city = "Topeka"
 county = "Mason"
-longitude = -89.885895
 latitude = 40.344336
+longitude = -89.885895
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61567"
+

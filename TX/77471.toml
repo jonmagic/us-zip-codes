@@ -1,6 +1,8 @@
-zip_code = "77471"
-state = "TX"
 city = "Rosenberg"
 county = "Fort Bend"
-longitude = -95.858475
 latitude = 29.555889
+longitude = -95.858475
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77471"
+

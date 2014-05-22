@@ -1,6 +1,8 @@
-zip_code = "62314"
-state = "IL"
 city = "Baylis"
 county = "Pike"
-longitude = -90.90981
 latitude = 39.729666
+longitude = -90.90981
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62314"
+

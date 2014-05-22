@@ -1,6 +1,8 @@
-zip_code = "96073"
-state = "CA"
 city = "Palo Cedro"
 county = "Shasta"
-longitude = -122.201552
 latitude = 40.56844
+longitude = -122.201552
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96073"
+

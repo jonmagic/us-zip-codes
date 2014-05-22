@@ -1,6 +1,8 @@
-zip_code = "11572"
-state = "NY"
 city = "Oceanside"
 county = "Nassau"
-longitude = -73.636923
 latitude = 40.635252
+longitude = -73.636923
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11572"
+

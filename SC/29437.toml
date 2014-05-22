@@ -1,6 +1,8 @@
-zip_code = "29437"
-state = "SC"
 city = "Dorchester"
 county = "Dorchester"
-longitude = -80.493683
 latitude = 33.14975
+longitude = -80.493683
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29437"
+

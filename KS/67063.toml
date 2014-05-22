@@ -1,6 +1,8 @@
-zip_code = "67063"
-state = "KS"
 city = "Hillsboro"
 county = "Marion"
-longitude = -97.205656
 latitude = 38.347988
+longitude = -97.205656
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67063"
+

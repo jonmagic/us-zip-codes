@@ -1,6 +1,8 @@
-zip_code = "58456"
-state = "ND"
 city = "Kulm"
 county = "Lamoure"
-longitude = -98.603141
 latitude = 46.391635
+longitude = -98.603141
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58456"
+

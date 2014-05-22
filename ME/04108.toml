@@ -1,6 +1,8 @@
-zip_code = "04108"
-state = "ME"
 city = "Peaks Island"
 county = "Cumberland"
-longitude = -70.188442
 latitude = 43.662809
+longitude = -70.188442
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04108"
+

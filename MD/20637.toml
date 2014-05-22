@@ -1,6 +1,8 @@
-zip_code = "20637"
-state = "MD"
 city = "Hughesville"
 county = "Charles"
-longitude = -76.781313
 latitude = 38.520572
+longitude = -76.781313
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20637"
+

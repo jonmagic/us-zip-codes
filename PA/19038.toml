@@ -1,6 +1,8 @@
-zip_code = "19038"
-state = "PA"
 city = "Glenside"
 county = "Montgomery"
-longitude = -75.17802
 latitude = 40.101109
+longitude = -75.17802
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19038"
+

@@ -1,6 +1,8 @@
-zip_code = "08514"
-state = "NJ"
 city = "Cream Ridge"
 county = "Monmouth"
-longitude = -74.465018
 latitude = 40.139913
+longitude = -74.465018
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08514"
+

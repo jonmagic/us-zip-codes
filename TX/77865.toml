@@ -1,6 +1,8 @@
-zip_code = "77865"
-state = "TX"
 city = "Marquez"
 county = "Leon"
-longitude = -96.22305
 latitude = 31.253791
+longitude = -96.22305
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77865"
+

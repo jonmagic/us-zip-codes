@@ -1,6 +1,8 @@
-zip_code = "71405"
-state = "LA"
 city = "Ball"
 county = "Rapides"
-longitude = -92.394536
 latitude = 31.415125
+longitude = -92.394536
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71405"
+

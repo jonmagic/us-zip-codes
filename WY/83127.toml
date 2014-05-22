@@ -1,6 +1,8 @@
-zip_code = "83127"
-state = "WY"
 city = "Thayne"
 county = "Lincoln"
-longitude = -110.974174
 latitude = 42.956988
+longitude = -110.974174
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "83127"
+

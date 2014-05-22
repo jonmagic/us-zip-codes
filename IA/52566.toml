@@ -1,6 +1,8 @@
-zip_code = "52566"
-state = "IA"
 city = "Kirkville"
 county = "Wapello"
-longitude = -92.5006
 latitude = 41.143796
+longitude = -92.5006
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52566"
+

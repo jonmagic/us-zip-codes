@@ -1,6 +1,8 @@
-zip_code = "63744"
-state = "MO"
 city = "Delta"
 county = "Cape Girardeau"
-longitude = -89.739429
 latitude = 37.197279
+longitude = -89.739429
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63744"
+

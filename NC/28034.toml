@@ -1,6 +1,8 @@
-zip_code = "28034"
-state = "NC"
 city = "Dallas"
 county = "Gaston"
-longitude = -81.221463
 latitude = 35.349898
+longitude = -81.221463
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28034"
+

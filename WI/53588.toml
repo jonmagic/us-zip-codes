@@ -1,6 +1,8 @@
-zip_code = "53588"
-state = "WI"
 city = "Spring Green"
 county = "Sauk"
-longitude = -90.040066
 latitude = 43.230001
+longitude = -90.040066
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53588"
+

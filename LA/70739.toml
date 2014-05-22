@@ -1,6 +1,8 @@
-zip_code = "70739"
-state = "LA"
 city = "Greenwell Springs"
 county = "East Baton Rouge"
-longitude = -90.963516
 latitude = 30.574145
+longitude = -90.963516
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70739"
+

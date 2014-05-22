@@ -1,6 +1,8 @@
-zip_code = "96133"
-state = "CA"
 city = "Topaz"
 county = "Mono"
-longitude = -119.506094
 latitude = 38.617086
+longitude = -119.506094
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96133"
+

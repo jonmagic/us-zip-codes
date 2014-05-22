@@ -1,6 +1,8 @@
-zip_code = "15411"
-state = "PA"
 city = "Addison"
 county = "Somerset"
-longitude = -79.330768
 latitude = 39.752401
+longitude = -79.330768
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15411"
+

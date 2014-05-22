@@ -1,6 +1,8 @@
-zip_code = "28351"
-state = "NC"
 city = "Laurel Hill"
 county = "Scotland"
-longitude = -79.571125
 latitude = 34.77465
+longitude = -79.571125
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28351"
+

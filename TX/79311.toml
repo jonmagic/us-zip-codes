@@ -1,6 +1,8 @@
-zip_code = "79311"
-state = "TX"
 city = "Abernathy"
 county = "Hale"
-longitude = -101.81782
 latitude = 33.949361
+longitude = -101.81782
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "79311"
+

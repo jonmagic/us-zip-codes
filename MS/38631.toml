@@ -1,6 +1,8 @@
-zip_code = "38631"
-state = "MS"
 city = "Friars Point"
 county = "Coahoma"
-longitude = -90.606054
 latitude = 34.37406
+longitude = -90.606054
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38631"
+

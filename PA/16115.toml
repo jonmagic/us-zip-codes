@@ -1,6 +1,8 @@
-zip_code = "16115"
-state = "PA"
 city = "Darlington"
 county = "Beaver"
-longitude = -80.391487
 latitude = 40.786244
+longitude = -80.391487
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16115"
+

@@ -1,6 +1,8 @@
-zip_code = "56088"
-state = "MN"
 city = "Truman"
 county = "Martin"
-longitude = -94.430809
 latitude = 43.789856
+longitude = -94.430809
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56088"
+

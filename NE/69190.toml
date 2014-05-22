@@ -1,6 +1,8 @@
-zip_code = "69190"
-state = "NE"
 city = "Oshkosh"
 county = "Garden"
-longitude = -102.331762
 latitude = 41.615307
+longitude = -102.331762
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69190"
+

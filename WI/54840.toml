@@ -1,6 +1,8 @@
-zip_code = "54840"
-state = "WI"
 city = "Grantsburg"
 county = "Burnett"
-longitude = -92.693513
 latitude = 45.795342
+longitude = -92.693513
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54840"
+

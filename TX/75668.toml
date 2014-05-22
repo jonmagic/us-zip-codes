@@ -1,6 +1,8 @@
-zip_code = "75668"
-state = "TX"
 city = "Lone Star"
 county = "Morris"
-longitude = -94.704906
 latitude = 32.925231
+longitude = -94.704906
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75668"
+

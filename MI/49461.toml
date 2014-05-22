@@ -1,6 +1,8 @@
-zip_code = "49461"
-state = "MI"
 city = "Whitehall"
 county = "Muskegon"
-longitude = -86.327092
 latitude = 43.345831
+longitude = -86.327092
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49461"
+

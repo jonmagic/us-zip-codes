@@ -1,6 +1,8 @@
-zip_code = "26036"
-state = "WV"
 city = "Dallas"
 county = "Marshall"
-longitude = -80.550114
 latitude = 40.015394
+longitude = -80.550114
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26036"
+

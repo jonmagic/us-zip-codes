@@ -1,6 +1,8 @@
-zip_code = "49752"
-state = "MI"
 city = "Kinross"
 county = "Chippewa"
-longitude = -84.647332
 latitude = 46.259604
+longitude = -84.647332
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49752"
+

@@ -1,6 +1,8 @@
-zip_code = "96768"
-state = "HI"
 city = "Makawao"
 county = "Maui"
-longitude = -156.320242
 latitude = 20.832664
+longitude = -156.320242
+state = "Hawaii"
+state_code_alpha2 = "HI"
+zip_code = "96768"
+

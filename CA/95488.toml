@@ -1,6 +1,8 @@
-zip_code = "95488"
-state = "CA"
 city = "Westport"
 county = "Mendocino"
-longitude = -123.786385
 latitude = 39.660425
+longitude = -123.786385
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95488"
+

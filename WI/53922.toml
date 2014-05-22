@@ -1,6 +1,8 @@
-zip_code = "53922"
-state = "WI"
 city = "Burnett"
 county = "Dodge"
-longitude = -88.73346
 latitude = 43.517272
+longitude = -88.73346
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53922"
+

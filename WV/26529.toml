@@ -1,6 +1,8 @@
-zip_code = "26529"
-state = "WV"
 city = "Core"
 county = "Monongalia"
-longitude = -80.159737
 latitude = 39.651628
+longitude = -80.159737
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26529"
+

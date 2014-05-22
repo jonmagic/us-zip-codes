@@ -1,6 +1,8 @@
-zip_code = "44041"
-state = "OH"
 city = "Geneva"
 county = "Ashtabula"
-longitude = -80.785627
 latitude = 41.736396
+longitude = -80.785627
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44041"
+

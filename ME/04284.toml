@@ -1,6 +1,8 @@
-zip_code = "04284"
-state = "ME"
 city = "Wayne"
 county = "Kennebec"
-longitude = -70.074555
 latitude = 44.359835
+longitude = -70.074555
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04284"
+

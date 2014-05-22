@@ -1,6 +1,8 @@
-zip_code = "07432"
-state = "NJ"
 city = "Midland Park"
 county = "Bergen"
-longitude = -74.142287
 latitude = 40.994697
+longitude = -74.142287
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07432"
+

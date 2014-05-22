@@ -1,6 +1,8 @@
-zip_code = "49277"
-state = "MI"
 city = "Rives Junction"
 county = "Jackson"
-longitude = -84.465133
 latitude = 42.384636
+longitude = -84.465133
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49277"
+

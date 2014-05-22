@@ -1,6 +1,8 @@
-zip_code = "21779"
-state = "MD"
 city = "Rohrersville"
 county = "Washington"
-longitude = -77.66013
 latitude = 39.430227
+longitude = -77.66013
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21779"
+

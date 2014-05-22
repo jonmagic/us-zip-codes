@@ -1,6 +1,8 @@
-zip_code = "66014"
-state = "KS"
 city = "Centerville"
 county = "Linn"
-longitude = -94.890305
 latitude = 38.282583
+longitude = -94.890305
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66014"
+

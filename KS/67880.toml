@@ -1,6 +1,8 @@
-zip_code = "67880"
-state = "KS"
 city = "Ulysses"
 county = "Grant"
-longitude = -101.308565
 latitude = 37.562467
+longitude = -101.308565
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67880"
+

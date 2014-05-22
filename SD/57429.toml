@@ -1,6 +1,8 @@
-zip_code = "57429"
-state = "SD"
 city = "Brentford"
 county = "Spink"
-longitude = -98.319296
 latitude = 45.163452
+longitude = -98.319296
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57429"
+

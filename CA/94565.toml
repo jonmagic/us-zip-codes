@@ -1,6 +1,8 @@
-zip_code = "94565"
-state = "CA"
 city = "Pittsburg"
 county = "Contra Costa"
-longitude = -121.917219
 latitude = 38.00307
+longitude = -121.917219
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94565"
+

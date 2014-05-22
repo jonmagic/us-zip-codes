@@ -1,6 +1,8 @@
-zip_code = "44212"
-state = "OH"
 city = "Brunswick"
 county = "Medina"
-longitude = -81.82281
 latitude = 41.206132
+longitude = -81.82281
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44212"
+

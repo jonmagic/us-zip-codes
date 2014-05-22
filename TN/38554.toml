@@ -1,6 +1,8 @@
-zip_code = "38554"
-state = "TN"
 city = "Crawford"
 county = "Overton"
-longitude = -85.160197
 latitude = 36.244711
+longitude = -85.160197
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38554"
+

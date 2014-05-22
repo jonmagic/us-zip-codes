@@ -1,6 +1,8 @@
-zip_code = "97015"
-state = "OR"
 city = "Clackamas"
 county = "Clackamas"
-longitude = -122.499461
 latitude = 45.415038
+longitude = -122.499461
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97015"
+

@@ -1,6 +1,8 @@
-zip_code = "36432"
-state = "AL"
 city = "Castleberry"
 county = "Conecuh"
-longitude = -86.998104
 latitude = 31.370941
+longitude = -86.998104
+state = ""
+state_code_alpha2 = ""
+zip_code = "36432"
+

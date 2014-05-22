@@ -1,6 +1,8 @@
-zip_code = "16733"
-state = "PA"
 city = "Hazel Hurst"
 county = "Mckean"
-longitude = -78.579739
 latitude = 41.801078
+longitude = -78.579739
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16733"
+

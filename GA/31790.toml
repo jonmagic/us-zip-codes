@@ -1,6 +1,8 @@
-zip_code = "31790"
-state = "GA"
 city = "Sycamore"
 county = "Turner"
-longitude = -83.578336
 latitude = 31.652867
+longitude = -83.578336
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31790"
+

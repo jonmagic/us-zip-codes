@@ -1,6 +1,8 @@
-zip_code = "58063"
-state = "ND"
 city = "Oriska"
 county = "Barnes"
-longitude = -97.789289
 latitude = 46.964791
+longitude = -97.789289
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58063"
+

@@ -1,6 +1,8 @@
-zip_code = "32634"
-state = "FL"
 city = "Fairfield"
 county = "Marion"
-longitude = -82.27648
 latitude = 29.35089
+longitude = -82.27648
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32634"
+

@@ -1,6 +1,8 @@
-zip_code = "29432"
-state = "SC"
 city = "Branchville"
 county = "Orangeburg"
-longitude = -80.792496
 latitude = 33.272291
+longitude = -80.792496
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29432"
+

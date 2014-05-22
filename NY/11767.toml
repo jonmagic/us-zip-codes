@@ -1,6 +1,8 @@
-zip_code = "11767"
-state = "NY"
 city = "Nesconset"
 county = "Suffolk"
-longitude = -73.146763
 latitude = 40.846678
+longitude = -73.146763
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11767"
+

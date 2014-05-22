@@ -1,6 +1,8 @@
-zip_code = "30189"
-state = "GA"
 city = "Woodstock"
 county = "Cherokee"
-longitude = -84.47725
 latitude = 34.147985
+longitude = -84.47725
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30189"
+

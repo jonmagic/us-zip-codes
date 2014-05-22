@@ -1,6 +1,8 @@
-zip_code = "48393"
-state = "MI"
 city = "Wixom"
 county = "Oakland"
-longitude = -83.549145
 latitude = 42.520533
+longitude = -83.549145
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48393"
+

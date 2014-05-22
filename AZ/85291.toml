@@ -1,6 +1,8 @@
-zip_code = "85291"
-state = "AZ"
 city = "Valley Farms"
 county = "Pinal"
-longitude = -111.42979
 latitude = 33.013502
+longitude = -111.42979
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "85291"
+

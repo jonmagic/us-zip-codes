@@ -1,6 +1,8 @@
-zip_code = "94574"
-state = "CA"
 city = "Saint Helena"
 county = "Napa"
-longitude = -122.401289
 latitude = 38.537757
+longitude = -122.401289
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94574"
+

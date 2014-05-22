@@ -1,6 +1,8 @@
-zip_code = "35976"
-state = "AL"
 city = "Guntersville"
 county = "Marshall"
-longitude = -86.27518
 latitude = 34.344851
+longitude = -86.27518
+state = ""
+state_code_alpha2 = ""
+zip_code = "35976"
+

@@ -1,6 +1,8 @@
-zip_code = "17251"
-state = "PA"
 city = "Roxbury"
 county = "Franklin"
-longitude = -77.670626
 latitude = 40.112652
+longitude = -77.670626
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17251"
+

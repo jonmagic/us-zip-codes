@@ -1,6 +1,8 @@
-zip_code = "47106"
-state = "IN"
 city = "Borden"
 county = "Clark"
-longitude = -85.76776
 latitude = 38.482335
+longitude = -85.76776
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47106"
+

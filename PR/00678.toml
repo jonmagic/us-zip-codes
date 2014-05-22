@@ -1,6 +1,8 @@
-zip_code = "00678"
-state = "PR"
 city = "Quebradillas"
 county = "Quebradillas"
-longitude = -66.933689
 latitude = 18.45303
+longitude = -66.933689
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00678"
+

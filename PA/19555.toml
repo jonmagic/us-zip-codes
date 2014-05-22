@@ -1,6 +1,8 @@
-zip_code = "19555"
-state = "PA"
 city = "Shoemakersville"
 county = "Berks"
-longitude = -75.887016
 latitude = 40.411279
+longitude = -75.887016
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19555"
+

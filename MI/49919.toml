@@ -1,6 +1,8 @@
-zip_code = "49919"
-state = "MI"
 city = "Covington"
 county = "Baraga"
-longitude = -88.584598
 latitude = 46.526495
+longitude = -88.584598
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49919"
+

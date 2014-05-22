@@ -1,6 +1,8 @@
-zip_code = "40410"
-state = "KY"
 city = "Bryantsville"
 county = "Garrard"
-longitude = -84.546693
 latitude = 37.651397
+longitude = -84.546693
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40410"
+

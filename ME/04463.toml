@@ -1,6 +1,8 @@
-zip_code = "04463"
-state = "ME"
 city = "Milo"
 county = "Piscataquis"
-longitude = -68.975988
 latitude = 45.244612
+longitude = -68.975988
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04463"
+

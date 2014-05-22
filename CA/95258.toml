@@ -1,6 +1,8 @@
-zip_code = "95258"
-state = "CA"
 city = "Woodbridge"
 county = "San Joaquin"
-longitude = -121.314909
 latitude = 38.157962
+longitude = -121.314909
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95258"
+

@@ -1,6 +1,8 @@
-zip_code = "99173"
-state = "WA"
 city = "Springdale"
 county = "Stevens"
-longitude = -117.828964
 latitude = 48.002188
+longitude = -117.828964
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99173"
+

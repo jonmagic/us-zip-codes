@@ -1,6 +1,8 @@
-zip_code = "41527"
-state = "KY"
 city = "Forest Hills"
 county = "Pike"
-longitude = -82.279522
 latitude = 37.630682
+longitude = -82.279522
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41527"
+

@@ -1,6 +1,8 @@
-zip_code = "98572"
-state = "WA"
 city = "Pe Ell"
 county = "Lewis"
-longitude = -123.314715
 latitude = 46.582897
+longitude = -123.314715
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98572"
+

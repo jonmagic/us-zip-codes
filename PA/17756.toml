@@ -1,6 +1,8 @@
-zip_code = "17756"
-state = "PA"
 city = "Muncy"
 county = "Lycoming"
-longitude = -76.74048
 latitude = 41.244348
+longitude = -76.74048
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17756"
+

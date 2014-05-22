@@ -1,6 +1,8 @@
-zip_code = "35559"
-state = "AL"
 city = "Glen Allen"
 county = "Fayette"
-longitude = -87.696401
 latitude = 33.889566
+longitude = -87.696401
+state = ""
+state_code_alpha2 = ""
+zip_code = "35559"
+

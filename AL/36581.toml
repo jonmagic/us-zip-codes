@@ -1,6 +1,8 @@
-zip_code = "36581"
-state = "AL"
 city = "Sunflower"
 county = "Washington"
-longitude = -88.012236
 latitude = 31.369572
+longitude = -88.012236
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36581"
+

@@ -1,6 +1,8 @@
-zip_code = "39556"
-state = "MS"
 city = "Kiln"
 county = "Hancock"
-longitude = -89.418722
 latitude = 30.487498
+longitude = -89.418722
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39556"
+

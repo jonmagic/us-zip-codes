@@ -1,6 +1,8 @@
-zip_code = "32110"
-state = "FL"
 city = "Bunnell"
 county = "Flagler"
-longitude = -81.33425
 latitude = 29.402177
+longitude = -81.33425
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32110"
+

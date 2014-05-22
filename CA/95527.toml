@@ -1,6 +1,8 @@
-zip_code = "95527"
-state = "CA"
 city = "Burnt Ranch"
 county = "Trinity"
-longitude = -123.107281
 latitude = 40.477722
+longitude = -123.107281
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95527"
+

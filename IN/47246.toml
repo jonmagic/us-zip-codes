@@ -1,6 +1,8 @@
-zip_code = "47246"
-state = "IN"
 city = "Hope"
 county = "Bartholomew"
-longitude = -85.787611
 latitude = 39.20336
+longitude = -85.787611
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47246"
+

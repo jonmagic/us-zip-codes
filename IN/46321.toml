@@ -1,6 +1,8 @@
-zip_code = "46321"
-state = "IN"
 city = "Munster"
 county = "Lake"
-longitude = -87.502585
 latitude = 41.550535
+longitude = -87.502585
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46321"
+

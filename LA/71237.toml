@@ -1,6 +1,8 @@
-zip_code = "71237"
-state = "LA"
 city = "Epps"
 county = "West Carroll"
-longitude = -91.499713
 latitude = 32.718098
+longitude = -91.499713
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71237"
+

@@ -1,6 +1,8 @@
-zip_code = "28609"
-state = "NC"
 city = "Catawba"
 county = "Catawba"
-longitude = -81.044672
 latitude = 35.684978
+longitude = -81.044672
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28609"
+

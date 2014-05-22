@@ -1,6 +1,8 @@
-zip_code = "76093"
-state = "TX"
 city = "Rio Vista"
 county = "Johnson"
-longitude = -97.326177
 latitude = 32.295054
+longitude = -97.326177
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76093"
+

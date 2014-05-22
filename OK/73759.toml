@@ -1,6 +1,8 @@
-zip_code = "73759"
-state = "OK"
 city = "Medford"
 county = "Grant"
-longitude = -97.889923
 latitude = 36.7394
+longitude = -97.889923
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73759"
+

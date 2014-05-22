@@ -1,6 +1,8 @@
-zip_code = "43105"
-state = "OH"
 city = "Baltimore"
 county = "Fairfield"
-longitude = -82.665141
 latitude = 39.77796
+longitude = -82.665141
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43105"
+

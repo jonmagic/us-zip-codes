@@ -1,6 +1,8 @@
-zip_code = "95776"
-state = "CA"
 city = "Woodland"
 county = "Yolo"
-longitude = -121.709713
 latitude = 38.695895
+longitude = -121.709713
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95776"
+

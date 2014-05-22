@@ -1,6 +1,8 @@
-zip_code = "83840"
-state = "ID"
 city = "Kootenai"
 county = "Bonner"
-longitude = -116.515276
 latitude = 48.314378
+longitude = -116.515276
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83840"
+

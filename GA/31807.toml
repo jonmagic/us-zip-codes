@@ -1,6 +1,8 @@
-zip_code = "31807"
-state = "GA"
 city = "Ellerslie"
 county = "Harris"
-longitude = -84.789524
 latitude = 32.631243
+longitude = -84.789524
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31807"
+

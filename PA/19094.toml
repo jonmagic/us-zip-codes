@@ -1,6 +1,8 @@
-zip_code = "19094"
-state = "PA"
 city = "Woodlyn"
 county = "Delaware"
-longitude = -75.346083
 latitude = 39.876862
+longitude = -75.346083
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19094"
+

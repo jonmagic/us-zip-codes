@@ -1,6 +1,8 @@
-zip_code = "75969"
-state = "TX"
 city = "Pollok"
 county = "Angelina"
-longitude = -94.869754
 latitude = 31.440245
+longitude = -94.869754
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75969"
+

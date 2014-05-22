@@ -1,6 +1,8 @@
-zip_code = "40830"
-state = "KY"
 city = "Gulston"
 county = "Harlan"
-longitude = -83.330675
 latitude = 36.77011
+longitude = -83.330675
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40830"
+

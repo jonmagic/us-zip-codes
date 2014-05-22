@@ -1,6 +1,8 @@
-zip_code = "78375"
-state = "TX"
 city = "Premont"
 county = "Jim Wells"
-longitude = -98.164332
 latitude = 27.315242
+longitude = -98.164332
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78375"
+

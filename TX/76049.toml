@@ -1,6 +1,8 @@
-zip_code = "76049"
-state = "TX"
 city = "Granbury"
 county = "Hood"
-longitude = -97.76658
 latitude = 32.449368
+longitude = -97.76658
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76049"
+

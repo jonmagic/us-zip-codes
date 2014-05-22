@@ -1,6 +1,8 @@
-zip_code = "58533"
-state = "ND"
 city = "Elgin"
 county = "Grant"
-longitude = -101.755819
 latitude = 46.367859
+longitude = -101.755819
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58533"
+

@@ -1,6 +1,8 @@
-zip_code = "86036"
-state = "AZ"
 city = "Marble Canyon"
 county = "Coconino"
-longitude = -111.449889
 latitude = 36.922976
+longitude = -111.449889
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86036"
+

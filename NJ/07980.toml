@@ -1,6 +1,8 @@
-zip_code = "07980"
-state = "NJ"
 city = "Stirling"
 county = "Morris"
-longitude = -74.450197
 latitude = 40.69835
+longitude = -74.450197
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07980"
+

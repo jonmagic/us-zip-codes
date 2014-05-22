@@ -1,6 +1,8 @@
-zip_code = "77547"
-state = "TX"
 city = "Galena Park"
 county = "Harris"
-longitude = -95.434241
 latitude = 29.83399
+longitude = -95.434241
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77547"
+

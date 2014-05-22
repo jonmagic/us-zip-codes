@@ -1,6 +1,8 @@
-zip_code = "77836"
-state = "TX"
 city = "Caldwell"
 county = "Burleson"
-longitude = -96.658407
 latitude = 30.526184
+longitude = -96.658407
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77836"
+

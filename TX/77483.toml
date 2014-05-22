@@ -1,6 +1,8 @@
-zip_code = "77483"
-state = "TX"
 city = "Wadsworth"
 county = "Matagorda"
-longitude = -95.945896
 latitude = 28.754719
+longitude = -95.945896
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77483"
+

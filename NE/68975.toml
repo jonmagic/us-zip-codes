@@ -1,6 +1,8 @@
-zip_code = "68975"
-state = "NE"
 city = "Saronville"
 county = "Clay"
-longitude = -97.938811
 latitude = 40.602128
+longitude = -97.938811
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68975"
+

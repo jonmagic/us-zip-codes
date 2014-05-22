@@ -1,6 +1,8 @@
-zip_code = "73096"
-state = "OK"
 city = "Weatherford"
 county = "Custer"
-longitude = -98.703175
 latitude = 35.538228
+longitude = -98.703175
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73096"
+

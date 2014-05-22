@@ -1,6 +1,8 @@
-zip_code = "38774"
-state = "MS"
 city = "Shelby"
 county = "Bolivar"
-longitude = -90.74504
 latitude = 33.957757
+longitude = -90.74504
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38774"
+

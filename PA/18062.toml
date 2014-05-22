@@ -1,6 +1,8 @@
-zip_code = "18062"
-state = "PA"
 city = "Macungie"
 county = "Lehigh"
-longitude = -75.565028
 latitude = 40.517851
+longitude = -75.565028
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18062"
+

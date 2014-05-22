@@ -1,6 +1,8 @@
-zip_code = "66859"
-state = "KS"
 city = "Lost Springs"
 county = "Marion"
-longitude = -96.967811
 latitude = 38.566392
+longitude = -96.967811
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66859"
+

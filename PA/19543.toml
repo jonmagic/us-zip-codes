@@ -1,6 +1,8 @@
-zip_code = "19543"
-state = "PA"
 city = "Morgantown"
 county = "Berks"
-longitude = -75.89161
 latitude = 40.367731
+longitude = -75.89161
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19543"
+

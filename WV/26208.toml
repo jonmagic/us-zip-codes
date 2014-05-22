@@ -1,6 +1,8 @@
-zip_code = "26208"
-state = "WV"
 city = "Camden On Gauley"
 county = "Webster"
-longitude = -80.590651
 latitude = 38.387147
+longitude = -80.590651
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26208"
+

@@ -1,6 +1,8 @@
-zip_code = "44440"
-state = "OH"
 city = "Mineral Ridge"
 county = "Trumbull"
-longitude = -80.78209
 latitude = 41.168441
+longitude = -80.78209
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44440"
+

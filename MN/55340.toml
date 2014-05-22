@@ -1,6 +1,8 @@
-zip_code = "55340"
-state = "MN"
 city = "Hamel"
 county = "Hennepin"
-longitude = -93.568735
 latitude = 45.073663
+longitude = -93.568735
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55340"
+

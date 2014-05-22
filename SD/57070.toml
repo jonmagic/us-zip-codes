@@ -1,6 +1,8 @@
-zip_code = "57070"
-state = "SD"
 city = "Viborg"
 county = "Turner"
-longitude = -97.180373
 latitude = 43.188383
+longitude = -97.180373
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57070"
+

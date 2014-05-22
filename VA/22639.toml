@@ -1,6 +1,8 @@
-zip_code = "22639"
-state = "VA"
 city = "Hume"
 county = "Fauquier"
-longitude = -78.022322
 latitude = 38.830067
+longitude = -78.022322
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22639"
+

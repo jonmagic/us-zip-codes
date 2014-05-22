@@ -1,6 +1,8 @@
-zip_code = "37690"
-state = "TN"
 city = "Telford"
 county = "Washington"
-longitude = -82.56404
 latitude = 36.244143
+longitude = -82.56404
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37690"
+

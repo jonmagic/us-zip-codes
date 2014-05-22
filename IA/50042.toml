@@ -1,6 +1,8 @@
-zip_code = "50042"
-state = "IA"
 city = "Brayton"
 county = "Audubon"
-longitude = -94.878382
 latitude = 41.54069
+longitude = -94.878382
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50042"
+

@@ -1,6 +1,8 @@
-zip_code = "01860"
-state = "MA"
 city = "Merrimac"
 county = "Essex"
-longitude = -71.0896
 latitude = 42.802441
+longitude = -71.0896
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01860"
+

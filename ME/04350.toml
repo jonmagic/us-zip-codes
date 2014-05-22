@@ -1,6 +1,8 @@
-zip_code = "04350"
-state = "ME"
 city = "Litchfield"
 county = "Kennebec"
-longitude = -69.95404
 latitude = 44.158104
+longitude = -69.95404
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04350"
+

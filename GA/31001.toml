@@ -1,6 +1,8 @@
-zip_code = "31001"
-state = "GA"
 city = "Abbeville"
 county = "Wilcox"
-longitude = -83.372515
 latitude = 31.977048
+longitude = -83.372515
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31001"
+

@@ -1,6 +1,8 @@
-zip_code = "98853"
-state = "WA"
 city = "Stratford"
 county = "Grant"
-longitude = -119.312977
 latitude = 47.404308
+longitude = -119.312977
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98853"
+

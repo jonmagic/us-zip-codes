@@ -1,6 +1,8 @@
-zip_code = "75132"
-state = "TX"
 city = "Fate"
 county = "Rockwall"
-longitude = -96.367821
 latitude = 32.955476
+longitude = -96.367821
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75132"
+

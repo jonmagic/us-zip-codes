@@ -1,6 +1,8 @@
-zip_code = "41181"
-state = "KY"
 city = "Willard"
 county = "Carter"
-longitude = -82.907615
 latitude = 38.204459
+longitude = -82.907615
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41181"
+

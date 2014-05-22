@@ -1,6 +1,8 @@
-zip_code = "22718"
-state = "VA"
 city = "Elkwood"
 county = "Culpeper"
-longitude = -77.804343
 latitude = 38.457473
+longitude = -77.804343
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22718"
+

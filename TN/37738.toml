@@ -1,6 +1,8 @@
-zip_code = "37738"
-state = "TN"
 city = "Gatlinburg"
 county = "Sevier"
-longitude = -83.436982
 latitude = 35.727782
+longitude = -83.436982
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37738"
+

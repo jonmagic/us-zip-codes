@@ -1,6 +1,8 @@
-zip_code = "62281"
-state = "IL"
 city = "Saint Jacob"
 county = "Madison"
-longitude = -89.792463
 latitude = 38.705928
+longitude = -89.792463
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62281"
+

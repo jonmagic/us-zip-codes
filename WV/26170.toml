@@ -1,6 +1,8 @@
-zip_code = "26170"
-state = "WV"
 city = "Saint Marys"
 county = "Pleasants"
-longitude = -81.20786
 latitude = 39.408888
+longitude = -81.20786
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "26170"
+

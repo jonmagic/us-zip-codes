@@ -1,6 +1,8 @@
-zip_code = "70537"
-state = "LA"
 city = "Evangeline"
 county = "Acadia"
-longitude = -92.471305
 latitude = 30.203238
+longitude = -92.471305
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70537"
+

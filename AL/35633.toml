@@ -1,6 +1,8 @@
-zip_code = "35633"
-state = "AL"
 city = "Florence"
 county = "Lauderdale"
-longitude = -87.742362
 latitude = 34.880706
+longitude = -87.742362
+state = ""
+state_code_alpha2 = ""
+zip_code = "35633"
+

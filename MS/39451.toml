@@ -1,6 +1,8 @@
-zip_code = "39451"
-state = "MS"
 city = "Leakesville"
 county = "Greene"
-longitude = -88.637767
 latitude = 31.167734
+longitude = -88.637767
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39451"
+

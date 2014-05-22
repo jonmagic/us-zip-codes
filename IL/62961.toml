@@ -1,6 +1,8 @@
-zip_code = "62961"
-state = "IL"
 city = "Millcreek"
 county = "Union"
-longitude = -89.254203
 latitude = 37.340918
+longitude = -89.254203
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62961"
+

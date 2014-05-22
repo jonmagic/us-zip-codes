@@ -1,6 +1,8 @@
-zip_code = "44045"
-state = "OH"
 city = "Grand River"
 county = "Lake"
-longitude = -81.282125
 latitude = 41.742693
+longitude = -81.282125
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44045"
+

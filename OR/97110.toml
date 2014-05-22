@@ -1,6 +1,8 @@
-zip_code = "97110"
-state = "OR"
 city = "Cannon Beach"
 county = "Clatsop"
-longitude = -123.931458
 latitude = 45.946617
+longitude = -123.931458
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97110"
+

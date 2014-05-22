@@ -1,6 +1,8 @@
-zip_code = "28557"
-state = "NC"
 city = "Morehead City"
 county = "Carteret"
-longitude = -76.770987
 latitude = 34.727798
+longitude = -76.770987
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28557"
+

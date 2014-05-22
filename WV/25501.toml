@@ -1,6 +1,8 @@
-zip_code = "25501"
-state = "WV"
 city = "Alkol"
 county = "Lincoln"
-longitude = -81.968862
 latitude = 38.167112
+longitude = -81.968862
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25501"
+

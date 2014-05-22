@@ -1,6 +1,8 @@
-zip_code = "18642"
-state = "PA"
 city = "Duryea"
 county = "Luzerne"
-longitude = -75.938105
 latitude = 41.217263
+longitude = -75.938105
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "18642"
+

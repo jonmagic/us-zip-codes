@@ -1,6 +1,8 @@
-zip_code = "21106"
-state = "MD"
 city = "Mayo"
 county = "Anne Arundel"
-longitude = -76.580934
 latitude = 38.971475
+longitude = -76.580934
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21106"
+

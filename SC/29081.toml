@@ -1,6 +1,8 @@
-zip_code = "29081"
-state = "SC"
 city = "Ehrhardt"
 county = "Bamberg"
-longitude = -81.014013
 latitude = 33.08885
+longitude = -81.014013
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29081"
+

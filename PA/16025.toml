@@ -1,6 +1,8 @@
-zip_code = "16025"
-state = "PA"
 city = "Chicora"
 county = "Butler"
-longitude = -79.777107
 latitude = 40.940484
+longitude = -79.777107
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16025"
+

@@ -1,6 +1,8 @@
-zip_code = "65337"
-state = "MO"
 city = "La Monte"
 county = "Pettis"
-longitude = -93.417093
 latitude = 38.783542
+longitude = -93.417093
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65337"
+

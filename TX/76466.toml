@@ -1,6 +1,8 @@
-zip_code = "76466"
-state = "TX"
 city = "Olden"
 county = "Eastland"
-longitude = -98.734228
 latitude = 32.442088
+longitude = -98.734228
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76466"
+

@@ -1,6 +1,8 @@
-zip_code = "22517"
-state = "VA"
 city = "Mollusk"
 county = "Lancaster"
-longitude = -76.578109
 latitude = 37.75028
+longitude = -76.578109
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22517"
+

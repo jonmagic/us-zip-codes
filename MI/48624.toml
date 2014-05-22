@@ -1,6 +1,8 @@
-zip_code = "48624"
-state = "MI"
 city = "Gladwin"
 county = "Gladwin"
-longitude = -84.429231
 latitude = 44.032603
+longitude = -84.429231
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48624"
+

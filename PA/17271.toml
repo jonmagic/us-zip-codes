@@ -1,6 +1,8 @@
-zip_code = "17271"
-state = "PA"
 city = "Willow Hill"
 county = "Franklin"
-longitude = -77.807221
 latitude = 40.108243
+longitude = -77.807221
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17271"
+

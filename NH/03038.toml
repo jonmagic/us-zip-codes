@@ -1,6 +1,8 @@
-zip_code = "03038"
-state = "NH"
 city = "Derry"
 county = "Rockingham"
-longitude = -71.197169
 latitude = 42.950825
+longitude = -71.197169
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03038"
+

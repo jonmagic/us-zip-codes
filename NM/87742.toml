@@ -1,6 +1,8 @@
-zip_code = "87742"
-state = "NM"
 city = "Rociada"
 county = "San Miguel"
-longitude = -105.390777
 latitude = 35.836395
+longitude = -105.390777
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87742"
+

@@ -1,6 +1,8 @@
-zip_code = "16210"
-state = "PA"
 city = "Adrian"
 county = "Armstrong"
-longitude = -79.545145
 latitude = 40.855727
+longitude = -79.545145
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16210"
+

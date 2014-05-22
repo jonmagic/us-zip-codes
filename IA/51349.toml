@@ -1,6 +1,8 @@
-zip_code = "51349"
-state = "IA"
 city = "May City"
 county = "Osceola"
-longitude = -95.624809
 latitude = 43.377882
+longitude = -95.624809
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51349"
+

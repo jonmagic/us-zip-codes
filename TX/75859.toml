@@ -1,6 +1,8 @@
-zip_code = "75859"
-state = "TX"
 city = "Streetman"
 county = "Freestone"
-longitude = -96.23408
 latitude = 31.837751
+longitude = -96.23408
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75859"
+

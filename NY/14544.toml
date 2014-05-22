@@ -1,6 +1,8 @@
-zip_code = "14544"
-state = "NY"
 city = "Rushville"
 county = "Yates"
-longitude = -77.242693
 latitude = 42.734157
+longitude = -77.242693
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14544"
+

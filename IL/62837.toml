@@ -1,6 +1,8 @@
-zip_code = "62837"
-state = "IL"
 city = "Fairfield"
 county = "Wayne"
-longitude = -88.367146
 latitude = 38.389091
+longitude = -88.367146
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62837"
+

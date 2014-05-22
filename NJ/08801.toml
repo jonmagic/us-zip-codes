@@ -1,6 +1,8 @@
-zip_code = "08801"
-state = "NJ"
 city = "Annandale"
 county = "Hunterdon"
-longitude = -74.890685
 latitude = 40.631008
+longitude = -74.890685
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08801"
+

@@ -1,6 +1,8 @@
-zip_code = "60399"
-state = "IL"
 city = "Bensenville"
 county = "Du Page"
-longitude = 0.0
 latitude = 0.0
+longitude = 0.0
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60399"
+

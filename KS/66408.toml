@@ -1,6 +1,8 @@
-zip_code = "66408"
-state = "KS"
 city = "Bern"
 county = "Nemaha"
-longitude = -95.967077
 latitude = 39.960927
+longitude = -95.967077
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66408"
+

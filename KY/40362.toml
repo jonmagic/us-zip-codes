@@ -1,6 +1,8 @@
-zip_code = "40362"
-state = "KY"
 city = "Paris"
 county = "Bourbon"
-longitude = -84.205944
 latitude = 38.219407
+longitude = -84.205944
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40362"
+

@@ -1,6 +1,8 @@
-zip_code = "27027"
-state = "NC"
 city = "Mayodan"
 county = "Rockingham"
-longitude = -79.930301
 latitude = 36.447936
+longitude = -79.930301
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27027"
+

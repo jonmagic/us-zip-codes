@@ -1,6 +1,8 @@
-zip_code = "48867"
-state = "MI"
 city = "Owosso"
 county = "Shiawassee"
-longitude = -84.184937
 latitude = 42.982578
+longitude = -84.184937
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48867"
+

@@ -1,6 +1,8 @@
-zip_code = "60950"
-state = "IL"
 city = "Manteno"
 county = "Kankakee"
-longitude = -87.87675
 latitude = 41.173292
+longitude = -87.87675
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60950"
+

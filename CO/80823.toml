@@ -1,6 +1,8 @@
-zip_code = "80823"
-state = "CO"
 city = "Karval"
 county = "Lincoln"
-longitude = -103.474701
 latitude = 38.806509
+longitude = -103.474701
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80823"
+

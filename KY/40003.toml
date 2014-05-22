@@ -1,6 +1,8 @@
-zip_code = "40003"
-state = "KY"
 city = "Bagdad"
 county = "Shelby"
-longitude = -85.090374
 latitude = 38.274456
+longitude = -85.090374
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40003"
+

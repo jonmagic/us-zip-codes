@@ -1,6 +1,8 @@
-zip_code = "31738"
-state = "GA"
 city = "Coolidge"
 county = "Thomas"
-longitude = -83.871284
 latitude = 30.976287
+longitude = -83.871284
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "31738"
+

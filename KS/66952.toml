@@ -1,6 +1,8 @@
-zip_code = "66952"
-state = "KS"
 city = "Lebanon"
 county = "Smith"
-longitude = -98.556016
 latitude = 39.807699
+longitude = -98.556016
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66952"
+

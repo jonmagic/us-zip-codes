@@ -1,6 +1,8 @@
-zip_code = "41204"
-state = "KY"
 city = "Boons Camp"
 county = "Johnson"
-longitude = -82.694671
 latitude = 37.822653
+longitude = -82.694671
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41204"
+

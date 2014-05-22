@@ -1,6 +1,8 @@
-zip_code = "65031"
-state = "MO"
 city = "Etterville"
 county = "Miller"
-longitude = -92.438629
 latitude = 38.223649
+longitude = -92.438629
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65031"
+

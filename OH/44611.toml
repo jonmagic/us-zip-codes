@@ -1,6 +1,8 @@
-zip_code = "44611"
-state = "OH"
 city = "Big Prairie"
 county = "Holmes"
-longitude = -82.086715
 latitude = 40.598522
+longitude = -82.086715
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44611"
+

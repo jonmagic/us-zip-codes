@@ -1,6 +1,8 @@
-zip_code = "74844"
-state = "OK"
 city = "Francis"
 county = "Pontotoc"
-longitude = -96.628899
 latitude = 34.874058
+longitude = -96.628899
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74844"
+

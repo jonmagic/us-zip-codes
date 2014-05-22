@@ -1,6 +1,8 @@
-zip_code = "52625"
-state = "IA"
 city = "Donnellson"
 county = "Lee"
-longitude = -91.56008
 latitude = 40.631583
+longitude = -91.56008
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52625"
+

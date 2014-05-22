@@ -1,6 +1,8 @@
-zip_code = "78670"
-state = "TX"
 city = "Staples"
 county = "Guadalupe"
-longitude = -97.971208
 latitude = 29.611797
+longitude = -97.971208
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78670"
+

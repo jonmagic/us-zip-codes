@@ -1,6 +1,8 @@
-zip_code = "23883"
-state = "VA"
 city = "Surry"
 county = "Surry"
-longitude = -76.821125
 latitude = 37.095554
+longitude = -76.821125
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23883"
+

@@ -1,6 +1,8 @@
-zip_code = "51010"
-state = "IA"
 city = "Castana"
 county = "Monona"
-longitude = -95.903339
 latitude = 42.080842
+longitude = -95.903339
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "51010"
+

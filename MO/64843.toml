@@ -1,6 +1,8 @@
-zip_code = "64843"
-state = "MO"
 city = "Goodman"
 county = "Mcdonald"
-longitude = -94.409579
 latitude = 36.738049
+longitude = -94.409579
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64843"
+

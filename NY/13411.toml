@@ -1,6 +1,8 @@
-zip_code = "13411"
-state = "NY"
 city = "New Berlin"
 county = "Chenango"
-longitude = -75.385073
 latitude = 42.631807
+longitude = -75.385073
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13411"
+

@@ -1,6 +1,8 @@
-zip_code = "63628"
-state = "MO"
 city = "Bonne Terre"
 county = "Saint Francois"
-longitude = -90.487988
 latitude = 37.879195
+longitude = -90.487988
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63628"
+

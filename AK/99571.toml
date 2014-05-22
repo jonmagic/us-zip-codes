@@ -1,6 +1,8 @@
-zip_code = "99571"
-state = "AK"
 city = "Cold Bay"
 county = "Aleutians East"
-longitude = -160.654522
 latitude = 55.650875
+longitude = -160.654522
+state = ""
+state_code_alpha2 = ""
+zip_code = "99571"
+

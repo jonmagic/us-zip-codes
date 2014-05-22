@@ -1,6 +1,8 @@
-zip_code = "62231"
-state = "IL"
 city = "Carlyle"
 county = "Clinton"
-longitude = -89.402155
 latitude = 38.620776
+longitude = -89.402155
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62231"
+

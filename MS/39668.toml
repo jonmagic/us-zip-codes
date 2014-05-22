@@ -1,6 +1,8 @@
-zip_code = "39668"
-state = "MS"
 city = "Union Church"
 county = "Jefferson"
-longitude = -90.746168
 latitude = 31.714577
+longitude = -90.746168
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39668"
+

@@ -1,6 +1,8 @@
-zip_code = "14048"
-state = "NY"
 city = "Dunkirk"
 county = "Chautauqua"
-longitude = -79.328287
 latitude = 42.487716
+longitude = -79.328287
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14048"
+

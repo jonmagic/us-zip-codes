@@ -1,6 +1,8 @@
-zip_code = "11741"
-state = "NY"
 city = "Holbrook"
 county = "Suffolk"
-longitude = -73.066689
 latitude = 40.78791
+longitude = -73.066689
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "11741"
+

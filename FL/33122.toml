@@ -1,6 +1,8 @@
-zip_code = "33122"
-state = "FL"
 city = "Miami"
 county = "Miami-Dade"
-longitude = -80.280972
 latitude = 25.800075
+longitude = -80.280972
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33122"
+

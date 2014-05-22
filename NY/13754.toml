@@ -1,6 +1,8 @@
-zip_code = "13754"
-state = "NY"
 city = "Deposit"
 county = "Broome"
-longitude = -75.713691
 latitude = 42.097004
+longitude = -75.713691
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13754"
+

@@ -1,6 +1,8 @@
-zip_code = "46771"
-state = "IN"
 city = "Mongo"
 county = "Lagrange"
-longitude = -85.267567
 latitude = 41.665489
+longitude = -85.267567
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46771"
+

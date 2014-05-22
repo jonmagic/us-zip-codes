@@ -1,6 +1,8 @@
-zip_code = "41640"
-state = "KY"
 city = "Hueysville"
 county = "Floyd"
-longitude = -82.851807
 latitude = 37.508668
+longitude = -82.851807
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41640"
+

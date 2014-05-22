@@ -1,6 +1,8 @@
-zip_code = "95537"
-state = "CA"
 city = "Fields Landing"
 county = "Humboldt"
-longitude = -124.21666
 latitude = 40.72533
+longitude = -124.21666
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95537"
+

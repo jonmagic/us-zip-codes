@@ -1,6 +1,8 @@
-zip_code = "04654"
-state = "ME"
 city = "Machias"
 county = "Washington"
-longitude = -67.469196
 latitude = 44.660627
+longitude = -67.469196
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04654"
+

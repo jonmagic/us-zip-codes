@@ -1,6 +1,8 @@
-zip_code = "16633"
-state = "PA"
 city = "Defiance"
 county = "Bedford"
-longitude = -78.234638
 latitude = 40.160065
+longitude = -78.234638
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16633"
+

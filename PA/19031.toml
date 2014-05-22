@@ -1,6 +1,8 @@
-zip_code = "19031"
-state = "PA"
 city = "Flourtown"
 county = "Montgomery"
-longitude = -75.215071
 latitude = 40.106805
+longitude = -75.215071
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19031"
+

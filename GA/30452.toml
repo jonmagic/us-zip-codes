@@ -1,6 +1,8 @@
-zip_code = "30452"
-state = "GA"
 city = "Register"
 county = "Bulloch"
-longitude = -81.889152
 latitude = 32.398006
+longitude = -81.889152
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30452"
+

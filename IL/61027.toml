@@ -1,6 +1,8 @@
-zip_code = "61027"
-state = "IL"
 city = "Eleroy"
 county = "Stephenson"
-longitude = -89.761171
 latitude = 42.332038
+longitude = -89.761171
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61027"
+

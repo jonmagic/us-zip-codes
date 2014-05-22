@@ -1,6 +1,8 @@
-zip_code = "61815"
-state = "IL"
 city = "Bondville"
 county = "Champaign"
-longitude = -88.378167
 latitude = 40.10838
+longitude = -88.378167
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61815"
+

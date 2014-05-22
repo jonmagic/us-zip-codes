@@ -1,6 +1,8 @@
-zip_code = "17885"
-state = "PA"
 city = "Weikert"
 county = "Union"
-longitude = -77.08184
 latitude = 40.978059
+longitude = -77.08184
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17885"
+

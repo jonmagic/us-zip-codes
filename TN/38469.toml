@@ -1,6 +1,8 @@
-zip_code = "38469"
-state = "TN"
 city = "Loretto"
 county = "Lawrence"
-longitude = -87.433561
 latitude = 35.078858
+longitude = -87.433561
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38469"
+

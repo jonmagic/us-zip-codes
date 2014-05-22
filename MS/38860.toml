@@ -1,6 +1,8 @@
-zip_code = "38860"
-state = "MS"
 city = "Okolona"
 county = "Chickasaw"
-longitude = -88.868022
 latitude = 33.94295
+longitude = -88.868022
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38860"
+

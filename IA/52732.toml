@@ -1,6 +1,8 @@
-zip_code = "52732"
-state = "IA"
 city = "Clinton"
 county = "Clinton"
-longitude = -90.301599
 latitude = 41.899176
+longitude = -90.301599
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52732"
+

@@ -1,6 +1,8 @@
-zip_code = "84725"
-state = "UT"
 city = "Enterprise"
 county = "Washington"
-longitude = -113.689359
 latitude = 37.579739
+longitude = -113.689359
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84725"
+

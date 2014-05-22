@@ -1,6 +1,8 @@
-zip_code = "10930"
-state = "NY"
 city = "Highland Mills"
 county = "Orange"
-longitude = -74.245108
 latitude = 41.372924
+longitude = -74.245108
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10930"
+

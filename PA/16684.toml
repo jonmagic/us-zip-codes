@@ -1,6 +1,8 @@
-zip_code = "16684"
-state = "PA"
 city = "Tipton"
 county = "Blair"
-longitude = -78.303614
 latitude = 40.636691
+longitude = -78.303614
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16684"
+

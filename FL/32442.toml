@@ -1,6 +1,8 @@
-zip_code = "32442"
-state = "FL"
 city = "Grand Ridge"
 county = "Jackson"
-longitude = -85.083627
 latitude = 30.719031
+longitude = -85.083627
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32442"
+

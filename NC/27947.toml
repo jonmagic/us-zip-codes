@@ -1,6 +1,8 @@
-zip_code = "27947"
-state = "NC"
 city = "Jarvisburg"
 county = "Currituck"
-longitude = -75.862128
 latitude = 36.171411
+longitude = -75.862128
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27947"
+

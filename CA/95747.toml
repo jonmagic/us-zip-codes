@@ -1,6 +1,8 @@
-zip_code = "95747"
-state = "CA"
 city = "Roseville"
 county = "Placer"
-longitude = -121.335559
 latitude = 38.779875
+longitude = -121.335559
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95747"
+

@@ -1,6 +1,8 @@
-zip_code = "02662"
-state = "MA"
 city = "South Orleans"
 county = "Barnstable"
-longitude = -69.984123
 latitude = 41.756694
+longitude = -69.984123
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02662"
+

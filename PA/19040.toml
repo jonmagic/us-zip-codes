@@ -1,6 +1,8 @@
-zip_code = "19040"
-state = "PA"
 city = "Hatboro"
 county = "Montgomery"
-longitude = -75.106265
 latitude = 40.182406
+longitude = -75.106265
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19040"
+

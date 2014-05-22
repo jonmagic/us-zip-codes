@@ -1,6 +1,8 @@
-zip_code = "21648"
-state = "MD"
 city = "Madison"
 county = "Dorchester"
-longitude = -76.241202
 latitude = 38.478205
+longitude = -76.241202
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21648"
+

@@ -1,6 +1,8 @@
-zip_code = "49965"
-state = "MI"
 city = "Toivola"
 county = "Houghton"
-longitude = -88.85321
 latitude = 46.910918
+longitude = -88.85321
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49965"
+

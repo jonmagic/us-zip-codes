@@ -1,6 +1,8 @@
-zip_code = "12741"
-state = "NY"
 city = "Hankins"
 county = "Sullivan"
-longitude = -75.05342
 latitude = 41.839135
+longitude = -75.05342
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12741"
+

@@ -1,6 +1,8 @@
-zip_code = "93618"
-state = "CA"
 city = "Dinuba"
 county = "Tulare"
-longitude = -119.395365
 latitude = 36.509532
+longitude = -119.395365
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93618"
+

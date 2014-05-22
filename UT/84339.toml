@@ -1,6 +1,8 @@
-zip_code = "84339"
-state = "UT"
 city = "Wellsville"
 county = "Cache"
-longitude = -111.917588
 latitude = 41.637826
+longitude = -111.917588
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84339"
+

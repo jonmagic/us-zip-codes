@@ -1,6 +1,8 @@
-zip_code = "20640"
-state = "MD"
 city = "Indian Head"
 county = "Charles"
-longitude = -77.052819
 latitude = 38.453999
+longitude = -77.052819
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20640"
+

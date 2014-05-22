@@ -1,6 +1,8 @@
-zip_code = "89883"
-state = "NV"
 city = "West Wendover"
 county = "Elko"
-longitude = -114.412635
 latitude = 40.504545
+longitude = -114.412635
+state = "Nevada"
+state_code_alpha2 = "NV"
+zip_code = "89883"
+

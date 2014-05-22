@@ -1,6 +1,8 @@
-zip_code = "17270"
-state = "PA"
 city = "Williamson"
 county = "Franklin"
-longitude = -77.799733
 latitude = 39.854018
+longitude = -77.799733
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17270"
+

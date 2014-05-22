@@ -1,6 +1,8 @@
-zip_code = "99677"
-state = "AK"
 city = "Tatitlek"
 county = "Valdez Cordova"
-longitude = -144.991027
 latitude = 61.470966
+longitude = -144.991027
+state = ""
+state_code_alpha2 = ""
+zip_code = "99677"
+

@@ -1,6 +1,8 @@
-zip_code = "15132"
-state = "PA"
 city = "Mc Keesport"
 county = "Allegheny"
-longitude = -80.048026
 latitude = 40.407269
+longitude = -80.048026
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15132"
+

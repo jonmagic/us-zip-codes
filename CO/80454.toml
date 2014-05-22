@@ -1,6 +1,8 @@
-zip_code = "80454"
-state = "CO"
 city = "Indian Hills"
 county = "Jefferson"
-longitude = -105.248119
 latitude = 39.654637
+longitude = -105.248119
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80454"
+

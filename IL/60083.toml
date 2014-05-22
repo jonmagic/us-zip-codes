@@ -1,6 +1,8 @@
-zip_code = "60083"
-state = "IL"
 city = "Wadsworth"
 county = "Lake"
-longitude = -87.940027
 latitude = 42.440139
+longitude = -87.940027
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60083"
+

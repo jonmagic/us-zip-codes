@@ -1,6 +1,8 @@
-zip_code = "83337"
-state = "ID"
 city = "Hill City"
 county = "Camas"
-longitude = -114.801713
 latitude = 43.3277
+longitude = -114.801713
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83337"
+

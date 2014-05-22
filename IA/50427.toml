@@ -1,6 +1,8 @@
-zip_code = "50427"
-state = "IA"
 city = "Chapin"
 county = "Franklin"
-longitude = -93.222587
 latitude = 42.834852
+longitude = -93.222587
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50427"
+

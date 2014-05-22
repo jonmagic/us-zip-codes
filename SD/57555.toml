@@ -1,6 +1,8 @@
-zip_code = "57555"
-state = "SD"
 city = "Mission"
 county = "Todd"
-longitude = -100.662079
 latitude = 43.304572
+longitude = -100.662079
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57555"
+

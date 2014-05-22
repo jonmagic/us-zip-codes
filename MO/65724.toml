@@ -1,6 +1,8 @@
-zip_code = "65724"
-state = "MO"
 city = "Pittsburg"
 county = "Hickory"
-longitude = -93.305582
 latitude = 37.845874
+longitude = -93.305582
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65724"
+

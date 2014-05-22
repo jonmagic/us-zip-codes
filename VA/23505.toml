@@ -1,6 +1,8 @@
-zip_code = "23505"
-state = "VA"
 city = "Norfolk"
 county = "Norfolk City"
-longitude = -76.278813
 latitude = 36.902947
+longitude = -76.278813
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23505"
+

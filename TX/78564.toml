@@ -1,6 +1,8 @@
-zip_code = "78564"
-state = "TX"
 city = "Lopeno"
 county = "Zapata"
-longitude = -99.203985
 latitude = 26.945418
+longitude = -99.203985
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78564"
+

@@ -1,6 +1,8 @@
-zip_code = "21904"
-state = "MD"
 city = "Port Deposit"
 county = "Cecil"
-longitude = -76.063342
 latitude = 39.615086
+longitude = -76.063342
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21904"
+

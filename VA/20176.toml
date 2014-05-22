@@ -1,6 +1,8 @@
-zip_code = "20176"
-state = "VA"
 city = "Leesburg"
 county = "Loudoun"
-longitude = -77.603458
 latitude = 39.119727
+longitude = -77.603458
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "20176"
+

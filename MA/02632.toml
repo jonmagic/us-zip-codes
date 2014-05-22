@@ -1,6 +1,8 @@
-zip_code = "02632"
-state = "MA"
 city = "Centerville"
 county = "Barnstable"
-longitude = -70.175129
 latitude = 41.796311
+longitude = -70.175129
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02632"
+

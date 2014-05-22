@@ -1,6 +1,8 @@
-zip_code = "78935"
-state = "TX"
 city = "Alleyton"
 county = "Colorado"
-longitude = -96.486458
 latitude = 29.709171
+longitude = -96.486458
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78935"
+

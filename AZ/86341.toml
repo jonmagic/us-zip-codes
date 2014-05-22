@@ -1,6 +1,8 @@
-zip_code = "86341"
-state = "AZ"
 city = "Sedona"
 county = "Yavapai"
-longitude = -111.76788
 latitude = 34.776648
+longitude = -111.76788
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86341"
+

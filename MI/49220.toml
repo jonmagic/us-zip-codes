@@ -1,6 +1,8 @@
-zip_code = "49220"
-state = "MI"
 city = "Addison"
 county = "Lenawee"
-longitude = -84.314543
 latitude = 41.985346
+longitude = -84.314543
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49220"
+

@@ -1,6 +1,8 @@
-zip_code = "99141"
-state = "WA"
 city = "Kettle Falls"
 county = "Stevens"
-longitude = -117.966943
 latitude = 48.695338
+longitude = -117.966943
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99141"
+

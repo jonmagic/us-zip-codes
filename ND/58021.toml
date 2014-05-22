@@ -1,6 +1,8 @@
-zip_code = "58021"
-state = "ND"
 city = "Davenport"
 county = "Cass"
-longitude = -97.063137
 latitude = 46.731743
+longitude = -97.063137
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58021"
+

@@ -1,6 +1,8 @@
-zip_code = "08823"
-state = "NJ"
 city = "Franklin Park"
 county = "Somerset"
-longitude = -74.560249
 latitude = 40.440604
+longitude = -74.560249
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08823"
+

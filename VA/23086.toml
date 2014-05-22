@@ -1,6 +1,8 @@
-zip_code = "23086"
-state = "VA"
 city = "King William"
 county = "King William"
-longitude = -77.028495
 latitude = 37.677991
+longitude = -77.028495
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23086"
+

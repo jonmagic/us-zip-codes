@@ -1,6 +1,8 @@
-zip_code = "61032"
-state = "IL"
 city = "Freeport"
 county = "Stephenson"
-longitude = -89.591606
 latitude = 42.323529
+longitude = -89.591606
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61032"
+

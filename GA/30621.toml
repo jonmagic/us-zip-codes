@@ -1,6 +1,8 @@
-zip_code = "30621"
-state = "GA"
 city = "Bishop"
 county = "Oconee"
-longitude = -83.48171
 latitude = 33.805718
+longitude = -83.48171
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30621"
+

@@ -1,6 +1,8 @@
-zip_code = "86444"
-state = "AZ"
 city = "Meadview"
 county = "Mohave"
-longitude = -114.077519
 latitude = 35.982167
+longitude = -114.077519
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86444"
+

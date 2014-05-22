@@ -1,6 +1,8 @@
-zip_code = "58384"
-state = "ND"
 city = "Willow City"
 county = "Bottineau"
-longitude = -100.352409
 latitude = 48.660609
+longitude = -100.352409
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58384"
+

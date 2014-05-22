@@ -1,6 +1,8 @@
-zip_code = "92225"
-state = "CA"
 city = "Blythe"
 county = "Riverside"
-longitude = -115.723001
 latitude = 33.756749
+longitude = -115.723001
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "92225"
+

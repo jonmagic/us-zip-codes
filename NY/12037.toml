@@ -1,6 +1,8 @@
-zip_code = "12037"
-state = "NY"
 city = "Chatham"
 county = "Columbia"
-longitude = -73.528651
 latitude = 42.335777
+longitude = -73.528651
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12037"
+

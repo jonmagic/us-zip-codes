@@ -1,6 +1,8 @@
-zip_code = "55706"
-state = "MN"
 city = "Babbitt"
 county = "Saint Louis"
-longitude = -91.953532
 latitude = 47.742305
+longitude = -91.953532
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55706"
+

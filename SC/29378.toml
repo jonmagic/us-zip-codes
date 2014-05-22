@@ -1,6 +1,8 @@
-zip_code = "29378"
-state = "SC"
 city = "Una"
 county = "Spartanburg"
-longitude = -81.772738
 latitude = 34.853013
+longitude = -81.772738
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29378"
+

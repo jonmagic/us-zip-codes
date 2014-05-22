@@ -1,6 +1,8 @@
-zip_code = "83421"
-state = "ID"
 city = "Chester"
 county = "Fremont"
-longitude = -111.535095
 latitude = 44.001141
+longitude = -111.535095
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83421"
+

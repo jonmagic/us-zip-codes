@@ -1,6 +1,8 @@
-zip_code = "12943"
-state = "NY"
 city = "Keene Valley"
 county = "Essex"
-longitude = -73.773111
 latitude = 44.202397
+longitude = -73.773111
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12943"
+

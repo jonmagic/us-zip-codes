@@ -1,6 +1,8 @@
-zip_code = "64726"
-state = "MO"
 city = "Blairstown"
 county = "Henry"
-longitude = -93.924453
 latitude = 38.388723
+longitude = -93.924453
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "64726"
+

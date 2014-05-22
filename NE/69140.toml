@@ -1,6 +1,8 @@
-zip_code = "69140"
-state = "NE"
 city = "Grant"
 county = "Perkins"
-longitude = -101.7258
 latitude = 40.846046
+longitude = -101.7258
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "69140"
+

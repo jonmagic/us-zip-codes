@@ -1,6 +1,8 @@
-zip_code = "72333"
-state = "AR"
 city = "Elaine"
 county = "Phillips"
-longitude = -90.893927
 latitude = 34.311793
+longitude = -90.893927
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72333"
+

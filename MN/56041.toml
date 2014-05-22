@@ -1,6 +1,8 @@
-zip_code = "56041"
-state = "MN"
 city = "Hanska"
 county = "Brown"
-longitude = -94.499485
 latitude = 44.133457
+longitude = -94.499485
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56041"
+

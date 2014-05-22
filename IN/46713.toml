@@ -1,6 +1,8 @@
-zip_code = "46713"
-state = "IN"
 city = "Bippus"
 county = "Huntington"
-longitude = -85.489198
 latitude = 40.829196
+longitude = -85.489198
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46713"
+

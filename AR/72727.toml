@@ -1,6 +1,8 @@
-zip_code = "72727"
-state = "AR"
 city = "Elkins"
 county = "Washington"
-longitude = -93.997572
 latitude = 35.972331
+longitude = -93.997572
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72727"
+

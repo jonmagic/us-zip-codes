@@ -1,6 +1,8 @@
-zip_code = "41844"
-state = "KY"
 city = "Pippa Passes"
 county = "Knott"
-longitude = -82.874239
 latitude = 37.349054
+longitude = -82.874239
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41844"
+

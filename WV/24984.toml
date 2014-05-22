@@ -1,6 +1,8 @@
-zip_code = "24984"
-state = "WV"
 city = "Waiteville"
 county = "Monroe"
-longitude = -80.420487
 latitude = 37.489872
+longitude = -80.420487
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24984"
+

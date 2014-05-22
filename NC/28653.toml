@@ -1,6 +1,8 @@
-zip_code = "28653"
-state = "NC"
 city = "Montezuma"
 county = "Avery"
-longitude = -81.901715
 latitude = 36.065053
+longitude = -81.901715
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28653"
+

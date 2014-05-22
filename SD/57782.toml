@@ -1,6 +1,8 @@
-zip_code = "57782"
-state = "SD"
 city = "Smithwick"
 county = "Fall River"
-longitude = -103.527757
 latitude = 43.239655
+longitude = -103.527757
+state = "South Dakota"
+state_code_alpha2 = "SD"
+zip_code = "57782"
+

@@ -1,6 +1,8 @@
-zip_code = "38366"
-state = "TN"
 city = "Pinson"
 county = "Madison"
-longitude = -88.747695
 latitude = 35.485
+longitude = -88.747695
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38366"
+

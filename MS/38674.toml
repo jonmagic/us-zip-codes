@@ -1,6 +1,8 @@
-zip_code = "38674"
-state = "MS"
 city = "Tiplersville"
 county = "Tippah"
-longitude = -88.900175
 latitude = 34.877104
+longitude = -88.900175
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38674"
+

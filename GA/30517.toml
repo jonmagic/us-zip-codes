@@ -1,6 +1,8 @@
-zip_code = "30517"
-state = "GA"
 city = "Braselton"
 county = "Jackson"
-longitude = -83.685149
 latitude = 34.109873
+longitude = -83.685149
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30517"
+

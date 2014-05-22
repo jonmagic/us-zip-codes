@@ -1,6 +1,8 @@
-zip_code = "50675"
-state = "IA"
 city = "Traer"
 county = "Tama"
-longitude = -92.527236
 latitude = 42.173618
+longitude = -92.527236
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50675"
+

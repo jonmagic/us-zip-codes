@@ -1,6 +1,8 @@
-zip_code = "86343"
-state = "AZ"
 city = "Crown King"
 county = "Yavapai"
-longitude = -112.39773
 latitude = 34.706724
+longitude = -112.39773
+state = "Arizona"
+state_code_alpha2 = "AZ"
+zip_code = "86343"
+

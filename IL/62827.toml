@@ -1,6 +1,8 @@
-zip_code = "62827"
-state = "IL"
 city = "Crossville"
 county = "White"
-longitude = -88.03546
 latitude = 38.163144
+longitude = -88.03546
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62827"
+

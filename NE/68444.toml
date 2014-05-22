@@ -1,6 +1,8 @@
-zip_code = "68444"
-state = "NE"
 city = "Strang"
 county = "Fillmore"
-longitude = -97.578418
 latitude = 40.418921
+longitude = -97.578418
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68444"
+

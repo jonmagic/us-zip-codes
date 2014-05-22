@@ -1,6 +1,8 @@
-zip_code = "52073"
-state = "IA"
 city = "Sherrill"
 county = "Dubuque"
-longitude = -90.811885
 latitude = 42.5854
+longitude = -90.811885
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52073"
+

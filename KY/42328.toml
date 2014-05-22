@@ -1,6 +1,8 @@
-zip_code = "42328"
-state = "KY"
 city = "Centertown"
 county = "Ohio"
-longitude = -87.026469
 latitude = 37.394873
+longitude = -87.026469
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42328"
+

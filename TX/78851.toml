@@ -1,6 +1,8 @@
-zip_code = "78851"
-state = "TX"
 city = "Dryden"
 county = "Terrell"
-longitude = -102.106642
 latitude = 30.218602
+longitude = -102.106642
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78851"
+

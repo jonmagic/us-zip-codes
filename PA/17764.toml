@@ -1,6 +1,8 @@
-zip_code = "17764"
-state = "PA"
 city = "Renovo"
 county = "Clinton"
-longitude = -77.571221
 latitude = 41.306045
+longitude = -77.571221
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17764"
+

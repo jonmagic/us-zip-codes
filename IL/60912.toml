@@ -1,6 +1,8 @@
-zip_code = "60912"
-state = "IL"
 city = "Beaverville"
 county = "Iroquois"
-longitude = -87.625942
 latitude = 40.963099
+longitude = -87.625942
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60912"
+

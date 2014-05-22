@@ -1,6 +1,8 @@
-zip_code = "27974"
-state = "NC"
 city = "Shiloh"
 county = "Camden"
-longitude = -76.022486
 latitude = 36.239776
+longitude = -76.022486
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27974"
+

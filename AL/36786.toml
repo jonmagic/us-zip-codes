@@ -1,6 +1,8 @@
-zip_code = "36786"
-state = "AL"
 city = "Uniontown"
 county = "Perry"
-longitude = -87.503256
 latitude = 32.446243
+longitude = -87.503256
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36786"
+

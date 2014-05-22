@@ -1,6 +1,8 @@
-zip_code = "71253"
-state = "LA"
 city = "Kilbourne"
 county = "West Carroll"
-longitude = -91.450183
 latitude = 32.794027
+longitude = -91.450183
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71253"
+

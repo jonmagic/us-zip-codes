@@ -1,6 +1,8 @@
-zip_code = "06278"
-state = "CT"
 city = "Ashford"
 county = "Windham"
-longitude = -72.147561
 latitude = 41.889043
+longitude = -72.147561
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06278"
+

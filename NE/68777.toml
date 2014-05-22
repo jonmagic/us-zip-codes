@@ -1,6 +1,8 @@
-zip_code = "68777"
-state = "NE"
 city = "Spencer"
 county = "Boyd"
-longitude = -98.701552
 latitude = 42.872702
+longitude = -98.701552
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68777"
+

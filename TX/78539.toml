@@ -1,6 +1,8 @@
-zip_code = "78539"
-state = "TX"
 city = "Edinburg"
 county = "Hidalgo"
-longitude = -98.139672
 latitude = 26.328674
+longitude = -98.139672
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78539"
+

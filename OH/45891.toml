@@ -1,6 +1,8 @@
-zip_code = "45891"
-state = "OH"
 city = "Van Wert"
 county = "Van Wert"
-longitude = -84.594525
 latitude = 40.873247
+longitude = -84.594525
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45891"
+

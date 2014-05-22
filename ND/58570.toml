@@ -1,6 +1,8 @@
-zip_code = "58570"
-state = "ND"
 city = "Solen"
 county = "Sioux"
-longitude = -100.783143
 latitude = 46.365588
+longitude = -100.783143
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58570"
+

@@ -1,6 +1,8 @@
-zip_code = "16123"
-state = "PA"
 city = "Fombell"
 county = "Beaver"
-longitude = -80.199126
 latitude = 40.813208
+longitude = -80.199126
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16123"
+

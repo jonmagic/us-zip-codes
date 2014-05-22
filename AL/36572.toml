@@ -1,6 +1,8 @@
-zip_code = "36572"
-state = "AL"
 city = "Satsuma"
 county = "Mobile"
-longitude = -88.087879
 latitude = 30.585158
+longitude = -88.087879
+state = ""
+state_code_alpha2 = "Alabama"
+zip_code = "36572"
+

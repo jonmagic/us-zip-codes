@@ -1,6 +1,8 @@
-zip_code = "81055"
-state = "CO"
 city = "La Veta"
 county = "Huerfano"
-longitude = -105.057545
 latitude = 37.511672
+longitude = -105.057545
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81055"
+

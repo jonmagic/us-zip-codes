@@ -1,6 +1,8 @@
-zip_code = "56482"
-state = "MN"
 city = "Wadena"
 county = "Wadena"
-longitude = -95.082796
 latitude = 46.564002
+longitude = -95.082796
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56482"
+

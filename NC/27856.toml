@@ -1,6 +1,8 @@
-zip_code = "27856"
-state = "NC"
 city = "Nashville"
 county = "Nash"
-longitude = -77.982782
 latitude = 36.02049
+longitude = -77.982782
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27856"
+

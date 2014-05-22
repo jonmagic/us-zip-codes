@@ -1,6 +1,8 @@
-zip_code = "38370"
-state = "TN"
 city = "Saltillo"
 county = "Hardin"
-longitude = -88.24275
 latitude = 35.322354
+longitude = -88.24275
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38370"
+

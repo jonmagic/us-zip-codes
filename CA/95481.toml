@@ -1,6 +1,8 @@
-zip_code = "95481"
-state = "CA"
 city = "Talmage"
 county = "Mendocino"
-longitude = -123.164533
 latitude = 39.127247
+longitude = -123.164533
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95481"
+

@@ -1,6 +1,8 @@
-zip_code = "84308"
-state = "UT"
 city = "Cornish"
 county = "Cache"
-longitude = -111.973275
 latitude = 41.944253
+longitude = -111.973275
+state = "Utah"
+state_code_alpha2 = "UT"
+zip_code = "84308"
+

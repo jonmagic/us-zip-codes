@@ -1,6 +1,8 @@
-zip_code = "93064"
-state = "CA"
 city = "Brandeis"
 county = "Ventura"
-longitude = -118.710724
 latitude = 34.258203
+longitude = -118.710724
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93064"
+

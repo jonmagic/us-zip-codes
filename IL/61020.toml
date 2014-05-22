@@ -1,6 +1,8 @@
-zip_code = "61020"
-state = "IL"
 city = "Davis Junction"
 county = "Ogle"
-longitude = -89.099201
 latitude = 42.106337
+longitude = -89.099201
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61020"
+

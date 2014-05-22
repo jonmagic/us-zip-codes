@@ -1,6 +1,8 @@
-zip_code = "54875"
-state = "WI"
 city = "Springbrook"
 county = "Washburn"
-longitude = -91.675448
 latitude = 45.945201
+longitude = -91.675448
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54875"
+

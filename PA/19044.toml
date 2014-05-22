@@ -1,6 +1,8 @@
-zip_code = "19044"
-state = "PA"
 city = "Horsham"
 county = "Montgomery"
-longitude = -75.150577
 latitude = 40.191808
+longitude = -75.150577
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19044"
+

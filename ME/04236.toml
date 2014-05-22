@@ -1,6 +1,8 @@
-zip_code = "04236"
-state = "ME"
 city = "Greene"
 county = "Androscoggin"
-longitude = -70.136683
 latitude = 44.189655
+longitude = -70.136683
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04236"
+

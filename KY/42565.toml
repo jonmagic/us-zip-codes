@@ -1,6 +1,8 @@
-zip_code = "42565"
-state = "KY"
 city = "Windsor"
 county = "Casey"
-longitude = -84.879909
 latitude = 37.15679
+longitude = -84.879909
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42565"
+

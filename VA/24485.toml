@@ -1,6 +1,8 @@
-zip_code = "24485"
-state = "VA"
 city = "West Augusta"
 county = "Augusta"
-longitude = -79.209622
 latitude = 38.174227
+longitude = -79.209622
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "24485"
+

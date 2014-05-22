@@ -1,6 +1,8 @@
-zip_code = "98674"
-state = "WA"
 city = "Woodland"
 county = "Cowlitz"
-longitude = -122.686548
 latitude = 45.937521
+longitude = -122.686548
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98674"
+

@@ -1,6 +1,8 @@
-zip_code = "58776"
-state = "ND"
 city = "Ross"
 county = "Mountrail"
-longitude = -102.547886
 latitude = 48.272077
+longitude = -102.547886
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58776"
+

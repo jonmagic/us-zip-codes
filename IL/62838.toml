@@ -1,6 +1,8 @@
-zip_code = "62838"
-state = "IL"
 city = "Farina"
 county = "Fayette"
-longitude = -88.776244
 latitude = 38.832201
+longitude = -88.776244
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62838"
+

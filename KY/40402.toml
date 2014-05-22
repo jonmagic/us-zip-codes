@@ -1,6 +1,8 @@
-zip_code = "40402"
-state = "KY"
 city = "Annville"
 county = "Jackson"
-longitude = -83.971127
 latitude = 37.305202
+longitude = -83.971127
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40402"
+

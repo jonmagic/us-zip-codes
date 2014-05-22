@@ -1,6 +1,8 @@
-zip_code = "72108"
-state = "AR"
 city = "Monroe"
 county = "Monroe"
-longitude = -91.224126
 latitude = 34.670187
+longitude = -91.224126
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72108"
+

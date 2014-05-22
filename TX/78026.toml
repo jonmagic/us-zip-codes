@@ -1,6 +1,8 @@
-zip_code = "78026"
-state = "TX"
 city = "Jourdanton"
 county = "Atascosa"
-longitude = -98.612998
 latitude = 28.932742
+longitude = -98.612998
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78026"
+

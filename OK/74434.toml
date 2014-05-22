@@ -1,6 +1,8 @@
-zip_code = "74434"
-state = "OK"
 city = "Fort Gibson"
 county = "Muskogee"
-longitude = -95.40064
 latitude = 35.739927
+longitude = -95.40064
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74434"
+

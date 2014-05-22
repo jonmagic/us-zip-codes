@@ -1,6 +1,8 @@
-zip_code = "80535"
-state = "CO"
 city = "Laporte"
 county = "Larimer"
-longitude = -105.262822
 latitude = 40.589014
+longitude = -105.262822
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80535"
+

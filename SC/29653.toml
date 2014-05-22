@@ -1,6 +1,8 @@
-zip_code = "29653"
-state = "SC"
 city = "Hodges"
 county = "Greenwood"
-longitude = -82.21392
 latitude = 34.274203
+longitude = -82.21392
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29653"
+

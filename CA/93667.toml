@@ -1,6 +1,8 @@
-zip_code = "93667"
-state = "CA"
 city = "Tollhouse"
 county = "Fresno"
-longitude = -119.370436
 latitude = 36.964156
+longitude = -119.370436
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93667"
+

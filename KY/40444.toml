@@ -1,6 +1,8 @@
-zip_code = "40444"
-state = "KY"
 city = "Lancaster"
 county = "Garrard"
-longitude = -84.583605
 latitude = 37.683184
+longitude = -84.583605
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40444"
+

@@ -1,6 +1,8 @@
-zip_code = "43101"
-state = "OH"
 city = "Adelphi"
 county = "Ross"
-longitude = -82.754731
 latitude = 39.466524
+longitude = -82.754731
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43101"
+

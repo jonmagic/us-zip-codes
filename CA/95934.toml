@@ -1,6 +1,8 @@
-zip_code = "95934"
-state = "CA"
 city = "Crescent Mills"
 county = "Plumas"
-longitude = -120.924541
 latitude = 40.086309
+longitude = -120.924541
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95934"
+

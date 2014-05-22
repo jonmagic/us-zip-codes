@@ -1,6 +1,8 @@
-zip_code = "67146"
-state = "KS"
 city = "Udall"
 county = "Cowley"
-longitude = -97.117926
 latitude = 37.387823
+longitude = -97.117926
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "67146"
+

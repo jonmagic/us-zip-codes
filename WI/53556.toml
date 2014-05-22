@@ -1,6 +1,8 @@
-zip_code = "53556"
-state = "WI"
 city = "Lone Rock"
 county = "Richland"
-longitude = -90.265197
 latitude = 43.241475
+longitude = -90.265197
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53556"
+

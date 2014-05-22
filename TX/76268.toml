@@ -1,6 +1,8 @@
-zip_code = "76268"
-state = "TX"
 city = "Southmayd"
 county = "Grayson"
-longitude = -96.757322
 latitude = 33.602427
+longitude = -96.757322
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76268"
+

@@ -1,6 +1,8 @@
-zip_code = "13157"
-state = "NY"
 city = "Sylvan Beach"
 county = "Oneida"
-longitude = -75.72307
 latitude = 43.209147
+longitude = -75.72307
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13157"
+

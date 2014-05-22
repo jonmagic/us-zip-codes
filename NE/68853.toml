@@ -1,6 +1,8 @@
-zip_code = "68853"
-state = "NE"
 city = "Loup City"
 county = "Sherman"
-longitude = -98.966954
 latitude = 41.276435
+longitude = -98.966954
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68853"
+

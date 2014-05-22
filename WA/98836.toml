@@ -1,6 +1,8 @@
-zip_code = "98836"
-state = "WA"
 city = "Monitor"
 county = "Chelan"
-longitude = -120.415773
 latitude = 47.485197
+longitude = -120.415773
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98836"
+

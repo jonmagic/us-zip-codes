@@ -1,6 +1,8 @@
-zip_code = "16662"
-state = "PA"
 city = "Martinsburg"
 county = "Blair"
-longitude = -78.336709
 latitude = 40.33984
+longitude = -78.336709
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16662"
+

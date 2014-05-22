@@ -1,6 +1,8 @@
-zip_code = "63879"
-state = "MO"
 city = "Wardell"
 county = "Pemiscot"
-longitude = -89.818059
 latitude = 36.347807
+longitude = -89.818059
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63879"
+

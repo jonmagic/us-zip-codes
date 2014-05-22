@@ -1,6 +1,8 @@
-zip_code = "37756"
-state = "TN"
 city = "Huntsville"
 county = "Scott"
-longitude = -84.449208
 latitude = 36.354403
+longitude = -84.449208
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37756"
+

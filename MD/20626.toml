@@ -1,6 +1,8 @@
-zip_code = "20626"
-state = "MD"
 city = "Coltons Point"
 county = "Saint Marys"
-longitude = -76.762227
 latitude = 38.236645
+longitude = -76.762227
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "20626"
+

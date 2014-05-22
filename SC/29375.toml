@@ -1,6 +1,8 @@
-zip_code = "29375"
-state = "SC"
 city = "Reidville"
 county = "Spartanburg"
-longitude = -82.110149
 latitude = 34.863648
+longitude = -82.110149
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29375"
+

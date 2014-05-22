@@ -1,6 +1,8 @@
-zip_code = "53057"
-state = "WI"
 city = "Mount Calvary"
 county = "Fond Du Lac"
-longitude = -88.443585
 latitude = 43.711957
+longitude = -88.443585
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53057"
+

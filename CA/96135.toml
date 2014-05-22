@@ -1,6 +1,8 @@
-zip_code = "96135"
-state = "CA"
 city = "Vinton"
 county = "Plumas"
-longitude = -120.79861
 latitude = 40.02349
+longitude = -120.79861
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96135"
+

@@ -1,6 +1,8 @@
-zip_code = "22901"
-state = "VA"
 city = "Charlottesville"
 county = "Albemarle"
-longitude = -78.561139
 latitude = 38.093604
+longitude = -78.561139
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22901"
+

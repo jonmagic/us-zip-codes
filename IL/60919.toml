@@ -1,6 +1,8 @@
-zip_code = "60919"
-state = "IL"
 city = "Cabery"
 county = "Ford"
-longitude = -88.188841
 latitude = 40.967141
+longitude = -88.188841
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60919"
+

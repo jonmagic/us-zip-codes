@@ -1,6 +1,8 @@
-zip_code = "68865"
-state = "NE"
 city = "Phillips"
 county = "Hamilton"
-longitude = -98.102223
 latitude = 40.893539
+longitude = -98.102223
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68865"
+

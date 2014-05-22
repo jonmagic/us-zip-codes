@@ -1,6 +1,8 @@
-zip_code = "35083"
-state = "AL"
 city = "Holly Pond"
 county = "Cullman"
-longitude = -86.791286
 latitude = 34.152149
+longitude = -86.791286
+state = ""
+state_code_alpha2 = ""
+zip_code = "35083"
+

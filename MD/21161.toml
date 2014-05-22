@@ -1,6 +1,8 @@
-zip_code = "21161"
-state = "MD"
 city = "White Hall"
 county = "Harford"
-longitude = -76.527937
 latitude = 39.658104
+longitude = -76.527937
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21161"
+

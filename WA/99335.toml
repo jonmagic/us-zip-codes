@@ -1,6 +1,8 @@
-zip_code = "99335"
-state = "WA"
 city = "Kahlotus"
 county = "Franklin"
-longitude = -118.53374
 latitude = 46.677852
+longitude = -118.53374
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "99335"
+

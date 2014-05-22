@@ -1,6 +1,8 @@
-zip_code = "59631"
-state = "MT"
 city = "Basin"
 county = "Jefferson"
-longitude = -112.196662
 latitude = 46.329577
+longitude = -112.196662
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59631"
+

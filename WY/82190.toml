@@ -1,6 +1,8 @@
-zip_code = "82190"
-state = "WY"
 city = "Yellowstone National Park"
 county = "Park"
-longitude = -110.613731
 latitude = 44.795733
+longitude = -110.613731
+state = "Wyoming"
+state_code_alpha2 = "WY"
+zip_code = "82190"
+

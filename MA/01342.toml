@@ -1,6 +1,8 @@
-zip_code = "01342"
-state = "MA"
 city = "Deerfield"
 county = "Franklin"
-longitude = -72.607679
 latitude = 42.54723
+longitude = -72.607679
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "01342"
+

@@ -1,6 +1,8 @@
-zip_code = "77632"
-state = "TX"
 city = "Orange"
 county = "Orange"
-longitude = -93.840937
 latitude = 30.17752
+longitude = -93.840937
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77632"
+

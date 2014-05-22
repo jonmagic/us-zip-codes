@@ -1,6 +1,8 @@
-zip_code = "93962"
-state = "CA"
 city = "Spreckels"
 county = "Monterey"
-longitude = -121.655474
 latitude = 36.626059
+longitude = -121.655474
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93962"
+

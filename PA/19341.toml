@@ -1,6 +1,8 @@
-zip_code = "19341"
-state = "PA"
 city = "Exton"
 county = "Chester"
-longitude = -75.637035
 latitude = 40.049852
+longitude = -75.637035
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19341"
+

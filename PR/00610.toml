@@ -1,6 +1,8 @@
-zip_code = "00610"
-state = "PR"
 city = "Anasco"
 county = "Anasco"
-longitude = -67.139696
 latitude = 18.288685
+longitude = -67.139696
+state = "Puerto Rico"
+state_code_alpha2 = "PR"
+zip_code = "00610"
+

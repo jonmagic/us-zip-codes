@@ -1,6 +1,8 @@
-zip_code = "50648"
-state = "IA"
 city = "Jesup"
 county = "Buchanan"
-longitude = -91.90519
 latitude = 42.482524
+longitude = -91.90519
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50648"
+

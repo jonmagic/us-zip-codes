@@ -1,6 +1,8 @@
-zip_code = "29544"
-state = "SC"
 city = "Galivants Ferry"
 county = "Horry"
-longitude = -78.994502
 latitude = 33.953007
+longitude = -78.994502
+state = "South Carolina"
+state_code_alpha2 = "SC"
+zip_code = "29544"
+

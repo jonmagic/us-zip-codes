@@ -1,6 +1,8 @@
-zip_code = "48749"
-state = "MI"
 city = "Omer"
 county = "Arenac"
-longitude = -83.846526
 latitude = 44.065941
+longitude = -83.846526
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48749"
+

@@ -1,6 +1,8 @@
-zip_code = "65462"
-state = "MO"
 city = "Edgar Springs"
 county = "Phelps"
-longitude = -91.890325
 latitude = 37.694596
+longitude = -91.890325
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65462"
+

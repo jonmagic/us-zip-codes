@@ -1,6 +1,8 @@
-zip_code = "52329"
-state = "IA"
 city = "Rowley"
 county = "Buchanan"
-longitude = -91.773824
 latitude = 42.469721
+longitude = -91.773824
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52329"
+

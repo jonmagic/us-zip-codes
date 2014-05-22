@@ -1,6 +1,8 @@
-zip_code = "17533"
-state = "PA"
 city = "Hopeland"
 county = "Lancaster"
-longitude = -76.260725
 latitude = 40.233892
+longitude = -76.260725
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17533"
+

@@ -1,6 +1,8 @@
-zip_code = "61956"
-state = "IL"
 city = "Villa Grove"
 county = "Douglas"
-longitude = -88.091437
 latitude = 39.766275
+longitude = -88.091437
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61956"
+

@@ -1,6 +1,8 @@
-zip_code = "62876"
-state = "IL"
 city = "Radom"
 county = "Washington"
-longitude = -89.198858
 latitude = 38.260696
+longitude = -89.198858
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62876"
+

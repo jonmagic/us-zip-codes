@@ -1,6 +1,8 @@
-zip_code = "54720"
-state = "WI"
 city = "Altoona"
 county = "Eau Claire"
-longitude = -91.442253
 latitude = 44.803612
+longitude = -91.442253
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54720"
+

@@ -1,6 +1,8 @@
-zip_code = "04028"
-state = "ME"
 city = "East Parsonfield"
 county = "York"
-longitude = -70.845114
 latitude = 43.732391
+longitude = -70.845114
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04028"
+

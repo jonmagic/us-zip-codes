@@ -1,6 +1,8 @@
-zip_code = "70345"
-state = "LA"
 city = "Cut Off"
 county = "Lafourche"
-longitude = -90.335128
 latitude = 29.509589
+longitude = -90.335128
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70345"
+

@@ -1,6 +1,8 @@
-zip_code = "60070"
-state = "IL"
 city = "Prospect Heights"
 county = "Cook"
-longitude = -87.939519
 latitude = 42.105805
+longitude = -87.939519
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60070"
+

@@ -1,6 +1,8 @@
-zip_code = "16347"
-state = "PA"
 city = "Sheffield"
 county = "Warren"
-longitude = -79.032776
 latitude = 41.68338
+longitude = -79.032776
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "16347"
+

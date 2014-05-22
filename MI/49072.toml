@@ -1,6 +1,8 @@
-zip_code = "49072"
-state = "MI"
 city = "Mendon"
 county = "Saint Joseph"
-longitude = -85.449665
 latitude = 42.009094
+longitude = -85.449665
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49072"
+

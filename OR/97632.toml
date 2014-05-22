@@ -1,6 +1,8 @@
-zip_code = "97632"
-state = "OR"
 city = "Malin"
 county = "Klamath"
-longitude = -121.387408
 latitude = 42.095447
+longitude = -121.387408
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97632"
+

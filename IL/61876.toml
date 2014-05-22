@@ -1,6 +1,8 @@
-zip_code = "61876"
-state = "IL"
 city = "Sidell"
 county = "Vermilion"
-longitude = -87.83913
 latitude = 39.935302
+longitude = -87.83913
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "61876"
+

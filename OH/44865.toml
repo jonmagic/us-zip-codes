@@ -1,6 +1,8 @@
-zip_code = "44865"
-state = "OH"
 city = "Plymouth"
 county = "Richland"
-longitude = -82.57178
 latitude = 40.849371
+longitude = -82.57178
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44865"
+

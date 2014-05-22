@@ -1,6 +1,8 @@
-zip_code = "12084"
-state = "NY"
 city = "Guilderland"
 county = "Albany"
-longitude = -73.960324
 latitude = 42.703519
+longitude = -73.960324
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12084"
+

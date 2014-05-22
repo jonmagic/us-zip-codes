@@ -1,6 +1,8 @@
-zip_code = "73847"
-state = "OK"
 city = "Knowles"
 county = "Beaver"
-longitude = -100.478393
 latitude = 36.750783
+longitude = -100.478393
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73847"
+

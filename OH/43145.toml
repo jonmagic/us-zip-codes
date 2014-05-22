@@ -1,6 +1,8 @@
-zip_code = "43145"
-state = "OH"
 city = "New Holland"
 county = "Pickaway"
-longitude = -83.21419
 latitude = 39.56981
+longitude = -83.21419
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43145"
+

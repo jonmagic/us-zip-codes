@@ -1,6 +1,8 @@
-zip_code = "05839"
-state = "VT"
 city = "Glover"
 county = "Orleans"
-longitude = -72.221912
 latitude = 44.679528
+longitude = -72.221912
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05839"
+

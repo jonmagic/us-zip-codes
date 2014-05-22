@@ -1,6 +1,8 @@
-zip_code = "95689"
-state = "CA"
 city = "Volcano"
 county = "Amador"
-longitude = -120.706876
 latitude = 38.44727
+longitude = -120.706876
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95689"
+

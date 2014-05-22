@@ -1,6 +1,8 @@
-zip_code = "39047"
-state = "MS"
 city = "Brandon"
 county = "Rankin"
-longitude = -89.958406
 latitude = 32.388633
+longitude = -89.958406
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "39047"
+

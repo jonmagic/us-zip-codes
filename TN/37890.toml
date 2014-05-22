@@ -1,6 +1,8 @@
-zip_code = "37890"
-state = "TN"
 city = "White Pine"
 county = "Jefferson"
-longitude = -83.299826
 latitude = 36.077612
+longitude = -83.299826
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37890"
+

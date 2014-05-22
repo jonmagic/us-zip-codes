@@ -1,6 +1,8 @@
-zip_code = "56036"
-state = "MN"
 city = "Glenville"
 county = "Freeborn"
-longitude = -93.36173
 latitude = 43.664991
+longitude = -93.36173
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56036"
+

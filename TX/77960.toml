@@ -1,6 +1,8 @@
-zip_code = "77960"
-state = "TX"
 city = "Fannin"
 county = "Goliad"
-longitude = -97.260556
 latitude = 28.677805
+longitude = -97.260556
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "77960"
+

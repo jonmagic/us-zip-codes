@@ -1,6 +1,8 @@
-zip_code = "23419"
-state = "VA"
 city = "Oyster"
 county = "Northampton"
-longitude = -75.926877
 latitude = 37.307411
+longitude = -75.926877
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23419"
+

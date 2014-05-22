@@ -1,6 +1,8 @@
-zip_code = "81648"
-state = "CO"
 city = "Rangely"
 county = "Rio Blanco"
-longitude = -108.650793
 latitude = 39.936331
+longitude = -108.650793
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "81648"
+

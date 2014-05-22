@@ -1,6 +1,8 @@
-zip_code = "07065"
-state = "NJ"
 city = "Rahway"
 county = "Union"
-longitude = -74.280641
 latitude = 40.609553
+longitude = -74.280641
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07065"
+

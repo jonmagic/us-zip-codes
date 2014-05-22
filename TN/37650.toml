@@ -1,6 +1,8 @@
-zip_code = "37650"
-state = "TN"
 city = "Erwin"
 county = "Unicoi"
-longitude = -82.399677
 latitude = 36.06833
+longitude = -82.399677
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "37650"
+

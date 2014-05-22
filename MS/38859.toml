@@ -1,6 +1,8 @@
-zip_code = "38859"
-state = "MS"
 city = "New Site"
 county = "Prentiss"
-longitude = -88.387511
 latitude = 34.531462
+longitude = -88.387511
+state = "Mississippi"
+state_code_alpha2 = "MS"
+zip_code = "38859"
+

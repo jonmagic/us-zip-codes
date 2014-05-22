@@ -1,6 +1,8 @@
-zip_code = "12592"
-state = "NY"
 city = "Wassaic"
 county = "Dutchess"
-longitude = -73.560425
 latitude = 41.802285
+longitude = -73.560425
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12592"
+

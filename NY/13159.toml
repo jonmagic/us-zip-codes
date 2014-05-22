@@ -1,6 +1,8 @@
-zip_code = "13159"
-state = "NY"
 city = "Tully"
 county = "Onondaga"
-longitude = -76.124357
 latitude = 42.830037
+longitude = -76.124357
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13159"
+

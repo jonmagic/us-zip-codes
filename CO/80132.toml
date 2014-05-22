@@ -1,6 +1,8 @@
-zip_code = "80132"
-state = "CO"
 city = "Monument"
 county = "El Paso"
-longitude = -104.807666
 latitude = 39.086393
+longitude = -104.807666
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80132"
+

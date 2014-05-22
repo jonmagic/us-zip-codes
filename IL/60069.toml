@@ -1,6 +1,8 @@
-zip_code = "60069"
-state = "IL"
 city = "Lincolnshire"
 county = "Lake"
-longitude = -87.987213
 latitude = 42.309143
+longitude = -87.987213
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "60069"
+

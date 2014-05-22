@@ -1,6 +1,8 @@
-zip_code = "44443"
-state = "OH"
 city = "New Springfield"
 county = "Mahoning"
-longitude = -80.587833
 latitude = 40.928876
+longitude = -80.587833
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "44443"
+

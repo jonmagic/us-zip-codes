@@ -1,6 +1,8 @@
-zip_code = "17563"
-state = "PA"
 city = "Peach Bottom"
 county = "Lancaster"
-longitude = -76.155069
 latitude = 39.844788
+longitude = -76.155069
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "17563"
+

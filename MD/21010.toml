@@ -1,6 +1,8 @@
-zip_code = "21010"
-state = "MD"
 city = "Gunpowder"
 county = "Harford"
-longitude = -76.295468
 latitude = 39.380158
+longitude = -76.295468
+state = "Maryland"
+state_code_alpha2 = "MD"
+zip_code = "21010"
+

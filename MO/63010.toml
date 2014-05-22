@@ -1,6 +1,8 @@
-zip_code = "63010"
-state = "MO"
 city = "Arnold"
 county = "Jefferson"
-longitude = -90.410219
 latitude = 38.341665
+longitude = -90.410219
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63010"
+

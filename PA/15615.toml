@@ -1,6 +1,8 @@
-zip_code = "15615"
-state = "PA"
 city = "Ardara"
 county = "Westmoreland"
-longitude = -79.743317
 latitude = 40.360619
+longitude = -79.743317
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15615"
+

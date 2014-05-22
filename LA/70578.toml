@@ -1,6 +1,8 @@
-zip_code = "70578"
-state = "LA"
 city = "Rayne"
 county = "Acadia"
-longitude = -92.261328
 latitude = 30.256405
+longitude = -92.261328
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "70578"
+

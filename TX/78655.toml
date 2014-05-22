@@ -1,6 +1,8 @@
-zip_code = "78655"
-state = "TX"
 city = "Martindale"
 county = "Caldwell"
-longitude = -97.850842
 latitude = 29.839448
+longitude = -97.850842
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78655"
+

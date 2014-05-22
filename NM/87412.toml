@@ -1,6 +1,8 @@
-zip_code = "87412"
-state = "NM"
 city = "Blanco"
 county = "San Juan"
-longitude = -108.059771
 latitude = 36.742883
+longitude = -108.059771
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "87412"
+

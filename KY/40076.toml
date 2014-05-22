@@ -1,6 +1,8 @@
-zip_code = "40076"
-state = "KY"
 city = "Waddy"
 county = "Shelby"
-longitude = -85.103096
 latitude = 38.122662
+longitude = -85.103096
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40076"
+

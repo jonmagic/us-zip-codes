@@ -1,6 +1,8 @@
-zip_code = "68973"
-state = "NE"
 city = "Roseland"
 county = "Adams"
-longitude = -98.544036
 latitude = 40.466384
+longitude = -98.544036
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68973"
+

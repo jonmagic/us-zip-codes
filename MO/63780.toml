@@ -1,6 +1,8 @@
-zip_code = "63780"
-state = "MO"
 city = "Scott City"
 county = "Scott"
-longitude = -89.55001
 latitude = 37.060767
+longitude = -89.55001
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63780"
+

@@ -1,6 +1,8 @@
-zip_code = "73543"
-state = "OK"
 city = "Geronimo"
 county = "Comanche"
-longitude = -98.381879
 latitude = 34.482402
+longitude = -98.381879
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73543"
+

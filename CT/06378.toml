@@ -1,6 +1,8 @@
-zip_code = "06378"
-state = "CT"
 city = "Stonington"
 county = "New London"
-longitude = -71.917915
 latitude = 41.378598
+longitude = -71.917915
+state = "Connecticut"
+state_code_alpha2 = "CT"
+zip_code = "06378"
+

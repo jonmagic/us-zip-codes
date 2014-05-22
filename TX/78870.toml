@@ -1,6 +1,8 @@
-zip_code = "78870"
-state = "TX"
 city = "Knippa"
 county = "Uvalde"
-longitude = -99.636636
 latitude = 29.298401
+longitude = -99.636636
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78870"
+

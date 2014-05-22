@@ -1,6 +1,8 @@
-zip_code = "12489"
-state = "NY"
 city = "Wawarsing"
 county = "Ulster"
-longitude = -74.353531
 latitude = 41.760604
+longitude = -74.353531
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12489"
+

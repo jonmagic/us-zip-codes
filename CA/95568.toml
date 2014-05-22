@@ -1,6 +1,8 @@
-zip_code = "95568"
-state = "CA"
 city = "Somes Bar"
 county = "Siskiyou"
-longitude = -123.467024
 latitude = 41.451129
+longitude = -123.467024
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95568"
+

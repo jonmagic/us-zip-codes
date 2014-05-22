@@ -1,6 +1,8 @@
-zip_code = "23947"
-state = "VA"
 city = "Keysville"
 county = "Charlotte"
-longitude = -78.567247
 latitude = 37.013846
+longitude = -78.567247
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23947"
+

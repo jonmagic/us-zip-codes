@@ -1,6 +1,8 @@
-zip_code = "45805"
-state = "OH"
 city = "Lima"
 county = "Allen"
-longitude = -84.169749
 latitude = 40.733043
+longitude = -84.169749
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45805"
+

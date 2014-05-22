@@ -1,6 +1,8 @@
-zip_code = "30341"
-state = "GA"
 city = "Atlanta"
 county = "Dekalb"
-longitude = -84.278222
 latitude = 33.890102
+longitude = -84.278222
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30341"
+

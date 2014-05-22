@@ -1,6 +1,8 @@
-zip_code = "13368"
-state = "NY"
 city = "Lyons Falls"
 county = "Lewis"
-longitude = -75.365348
 latitude = 43.621838
+longitude = -75.365348
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13368"
+

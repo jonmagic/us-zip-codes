@@ -1,6 +1,8 @@
-zip_code = "38057"
-state = "TN"
 city = "Moscow"
 county = "Fayette"
-longitude = -89.33787
 latitude = 35.077518
+longitude = -89.33787
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38057"
+

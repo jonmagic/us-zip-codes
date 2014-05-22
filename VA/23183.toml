@@ -1,6 +1,8 @@
-zip_code = "23183"
-state = "VA"
 city = "White Marsh"
 county = "Gloucester"
-longitude = -76.532492
 latitude = 37.363201
+longitude = -76.532492
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23183"
+

@@ -1,6 +1,8 @@
-zip_code = "08036"
-state = "NJ"
 city = "Hainesport"
 county = "Burlington"
-longitude = -74.829308
 latitude = 39.987212
+longitude = -74.829308
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08036"
+

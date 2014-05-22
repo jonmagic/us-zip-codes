@@ -1,6 +1,8 @@
-zip_code = "45845"
-state = "OH"
 city = "Fort Loramie"
 county = "Shelby"
-longitude = -84.23261
 latitude = 40.364003
+longitude = -84.23261
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45845"
+

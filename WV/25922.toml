@@ -1,6 +1,8 @@
-zip_code = "25922"
-state = "WV"
 city = "Spanishburg"
 county = "Mercer"
-longitude = -81.112799
 latitude = 37.460452
+longitude = -81.112799
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25922"
+

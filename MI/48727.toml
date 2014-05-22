@@ -1,6 +1,8 @@
-zip_code = "48727"
-state = "MI"
 city = "Clifford"
 county = "Lapeer"
-longitude = -83.178182
 latitude = 43.28298
+longitude = -83.178182
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48727"
+

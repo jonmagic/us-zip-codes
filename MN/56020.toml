@@ -1,6 +1,8 @@
-zip_code = "56020"
-state = "MN"
 city = "Conger"
 county = "Freeborn"
-longitude = -93.548214
 latitude = 43.62105
+longitude = -93.548214
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56020"
+

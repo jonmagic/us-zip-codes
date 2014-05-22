@@ -1,6 +1,8 @@
-zip_code = "50626"
-state = "IA"
 city = "Dunkerton"
 county = "Black Hawk"
-longitude = -92.178342
 latitude = 42.562505
+longitude = -92.178342
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50626"
+

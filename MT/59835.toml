@@ -1,6 +1,8 @@
-zip_code = "59835"
-state = "MT"
 city = "Grantsdale"
 county = "Ravalli"
-longitude = -114.040777
 latitude = 46.060169
+longitude = -114.040777
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59835"
+

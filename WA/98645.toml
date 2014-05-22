@@ -1,6 +1,8 @@
-zip_code = "98645"
-state = "WA"
 city = "Silverlake"
 county = "Cowlitz"
-longitude = -122.728835
 latitude = 46.314662
+longitude = -122.728835
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98645"
+

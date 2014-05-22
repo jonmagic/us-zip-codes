@@ -1,6 +1,8 @@
-zip_code = "14541"
-state = "NY"
 city = "Romulus"
 county = "Seneca"
-longitude = -76.844921
 latitude = 42.749713
+longitude = -76.844921
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "14541"
+

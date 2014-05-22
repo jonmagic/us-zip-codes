@@ -1,6 +1,8 @@
-zip_code = "96024"
-state = "CA"
 city = "Douglas City"
 county = "Trinity"
-longitude = -122.942468
 latitude = 40.668853
+longitude = -122.942468
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96024"
+

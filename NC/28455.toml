@@ -1,6 +1,8 @@
-zip_code = "28455"
-state = "NC"
 city = "Nakina"
 county = "Columbus"
-longitude = -78.690122
 latitude = 34.117032
+longitude = -78.690122
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28455"
+

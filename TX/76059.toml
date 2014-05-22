@@ -1,6 +1,8 @@
-zip_code = "76059"
-state = "TX"
 city = "Keene"
 county = "Johnson"
-longitude = -97.30553
 latitude = 32.334964
+longitude = -97.30553
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76059"
+

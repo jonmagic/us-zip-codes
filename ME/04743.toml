@@ -1,6 +1,8 @@
-zip_code = "04743"
-state = "ME"
 city = "Fort Kent"
 county = "Aroostook"
-longitude = -68.255868
 latitude = 47.056484
+longitude = -68.255868
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04743"
+

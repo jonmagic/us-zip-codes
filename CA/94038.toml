@@ -1,6 +1,8 @@
-zip_code = "94038"
-state = "CA"
 city = "Moss Beach"
 county = "San Mateo"
-longitude = -122.499618
 latitude = 37.52019
+longitude = -122.499618
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94038"
+

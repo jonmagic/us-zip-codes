@@ -1,6 +1,8 @@
-zip_code = "65047"
-state = "MO"
 city = "Kaiser"
 county = "Miller"
-longitude = -92.557722
 latitude = 38.172743
+longitude = -92.557722
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "65047"
+

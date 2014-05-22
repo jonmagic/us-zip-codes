@@ -1,6 +1,8 @@
-zip_code = "27525"
-state = "NC"
 city = "Franklinton"
 county = "Franklin"
-longitude = -78.399881
 latitude = 36.068066
+longitude = -78.399881
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27525"
+

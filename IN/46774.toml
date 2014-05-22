@@ -1,6 +1,8 @@
-zip_code = "46774"
-state = "IN"
 city = "New Haven"
 county = "Allen"
-longitude = -84.962038
 latitude = 41.102098
+longitude = -84.962038
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "46774"
+

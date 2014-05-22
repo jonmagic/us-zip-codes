@@ -1,6 +1,8 @@
-zip_code = "95383"
-state = "CA"
 city = "Twain Harte"
 county = "Tuolumne"
-longitude = -120.176042
 latitude = 38.085837
+longitude = -120.176042
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "95383"
+

@@ -1,6 +1,8 @@
-zip_code = "47338"
-state = "IN"
 city = "Eaton"
 county = "Delaware"
-longitude = -85.338738
 latitude = 40.252982
+longitude = -85.338738
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47338"
+

@@ -1,6 +1,8 @@
-zip_code = "80440"
-state = "CO"
 city = "Fairplay"
 county = "Park"
-longitude = -105.885893
 latitude = 39.149
+longitude = -105.885893
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80440"
+

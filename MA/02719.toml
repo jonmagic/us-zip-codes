@@ -1,6 +1,8 @@
-zip_code = "02719"
-state = "MA"
 city = "Fairhaven"
 county = "Bristol"
-longitude = -70.870045
 latitude = 41.631672
+longitude = -70.870045
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02719"
+

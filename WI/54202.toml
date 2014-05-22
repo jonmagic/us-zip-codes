@@ -1,6 +1,8 @@
-zip_code = "54202"
-state = "WI"
 city = "Baileys Harbor"
 county = "Door"
-longitude = -87.14603
 latitude = 45.077002
+longitude = -87.14603
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54202"
+

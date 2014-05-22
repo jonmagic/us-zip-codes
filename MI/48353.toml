@@ -1,6 +1,8 @@
-zip_code = "48353"
-state = "MI"
 city = "Hartland"
 county = "Livingston"
-longitude = -83.717806
 latitude = 42.648484
+longitude = -83.717806
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48353"
+

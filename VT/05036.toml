@@ -1,6 +1,8 @@
-zip_code = "05036"
-state = "VT"
 city = "Brookfield"
 county = "Orange"
-longitude = -72.577365
 latitude = 44.017782
+longitude = -72.577365
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05036"
+

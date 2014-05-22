@@ -1,6 +1,8 @@
-zip_code = "66033"
-state = "KS"
 city = "Greeley"
 county = "Anderson"
-longitude = -95.139231
 latitude = 38.346417
+longitude = -95.139231
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66033"
+

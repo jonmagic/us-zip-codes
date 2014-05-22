@@ -1,6 +1,8 @@
-zip_code = "78606"
-state = "TX"
 city = "Blanco"
 county = "Blanco"
-longitude = -98.419985
 latitude = 30.137027
+longitude = -98.419985
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78606"
+

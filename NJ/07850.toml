@@ -1,6 +1,8 @@
-zip_code = "07850"
-state = "NJ"
 city = "Landing"
 county = "Morris"
-longitude = -74.664605
 latitude = 40.906298
+longitude = -74.664605
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "07850"
+

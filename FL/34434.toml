@@ -1,6 +1,8 @@
-zip_code = "34434"
-state = "FL"
 city = "Dunnellon"
 county = "Citrus"
-longitude = -82.424132
 latitude = 28.993778
+longitude = -82.424132
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "34434"
+

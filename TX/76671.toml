@@ -1,6 +1,8 @@
-zip_code = "76671"
-state = "TX"
 city = "Morgan"
 county = "Bosque"
-longitude = -97.634243
 latitude = 32.0068
+longitude = -97.634243
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "76671"
+

@@ -1,6 +1,8 @@
-zip_code = "83636"
-state = "ID"
 city = "Letha"
 county = "Gem"
-longitude = -116.646209
 latitude = 43.896275
+longitude = -116.646209
+state = "Idaho"
+state_code_alpha2 = "ID"
+zip_code = "83636"
+

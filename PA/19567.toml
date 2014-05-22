@@ -1,6 +1,8 @@
-zip_code = "19567"
-state = "PA"
 city = "Womelsdorf"
 county = "Berks"
-longitude = -75.925707
 latitude = 40.432759
+longitude = -75.925707
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "19567"
+

@@ -1,6 +1,8 @@
-zip_code = "98569"
-state = "WA"
 city = "Ocean Shores"
 county = "Grays Harbor"
-longitude = -124.152461
 latitude = 47.071971
+longitude = -124.152461
+state = "Washington"
+state_code_alpha2 = "WA"
+zip_code = "98569"
+

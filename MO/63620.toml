@@ -1,6 +1,8 @@
-zip_code = "63620"
-state = "MO"
 city = "Annapolis"
 county = "Iron"
-longitude = -90.6646
 latitude = 37.4913
+longitude = -90.6646
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63620"
+

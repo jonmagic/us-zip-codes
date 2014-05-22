@@ -1,6 +1,8 @@
-zip_code = "58012"
-state = "ND"
 city = "Casselton"
 county = "Cass"
-longitude = -97.062647
 latitude = 47.050272
+longitude = -97.062647
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58012"
+

@@ -1,6 +1,8 @@
-zip_code = "78616"
-state = "TX"
 city = "Dale"
 county = "Caldwell"
-longitude = -97.573078
 latitude = 29.889187
+longitude = -97.573078
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "78616"
+

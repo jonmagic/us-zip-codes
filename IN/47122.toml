@@ -1,6 +1,8 @@
-zip_code = "47122"
-state = "IN"
 city = "Georgetown"
 county = "Floyd"
-longitude = -85.960009
 latitude = 38.31098
+longitude = -85.960009
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47122"
+

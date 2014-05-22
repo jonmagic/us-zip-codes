@@ -1,6 +1,8 @@
-zip_code = "42220"
-state = "KY"
 city = "Elkton"
 county = "Todd"
-longitude = -87.177881
 latitude = 36.862405
+longitude = -87.177881
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "42220"
+

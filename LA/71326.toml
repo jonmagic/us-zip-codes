@@ -1,6 +1,8 @@
-zip_code = "71326"
-state = "LA"
 city = "Clayton"
 county = "Concordia"
-longitude = -91.516323
 latitude = 31.715764
+longitude = -91.516323
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71326"
+

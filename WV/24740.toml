@@ -1,6 +1,8 @@
-zip_code = "24740"
-state = "WV"
 city = "Princeton"
 county = "Mercer"
-longitude = -81.117475
 latitude = 37.379876
+longitude = -81.117475
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "24740"
+

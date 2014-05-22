@@ -1,6 +1,8 @@
-zip_code = "27012"
-state = "NC"
 city = "Clemmons"
 county = "Forsyth"
-longitude = -80.328298
 latitude = 36.081218
+longitude = -80.328298
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "27012"
+

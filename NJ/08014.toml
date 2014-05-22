@@ -1,6 +1,8 @@
-zip_code = "08014"
-state = "NJ"
 city = "Bridgeport"
 county = "Gloucester"
-longitude = -75.339215
 latitude = 39.802163
+longitude = -75.339215
+state = "New Jersey"
+state_code_alpha2 = "NJ"
+zip_code = "08014"
+

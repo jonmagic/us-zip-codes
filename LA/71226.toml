@@ -1,6 +1,8 @@
-zip_code = "71226"
-state = "LA"
 city = "Chatham"
 county = "Jackson"
-longitude = -92.44118
 latitude = 32.29969
+longitude = -92.44118
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71226"
+

@@ -1,6 +1,8 @@
-zip_code = "53944"
-state = "WI"
 city = "Lyndon Station"
 county = "Juneau"
-longitude = -89.949337
 latitude = 43.714061
+longitude = -89.949337
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53944"
+

@@ -1,6 +1,8 @@
-zip_code = "25430"
-state = "WV"
 city = "Kearneysville"
 county = "Jefferson"
-longitude = -77.941833
 latitude = 39.344424
+longitude = -77.941833
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25430"
+

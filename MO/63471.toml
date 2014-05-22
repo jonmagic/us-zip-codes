@@ -1,6 +1,8 @@
-zip_code = "63471"
-state = "MO"
 city = "Taylor"
 county = "Marion"
-longitude = -91.541024
 latitude = 39.913861
+longitude = -91.541024
+state = "Missouri"
+state_code_alpha2 = "MO"
+zip_code = "63471"
+

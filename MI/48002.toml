@@ -1,6 +1,8 @@
-zip_code = "48002"
-state = "MI"
 city = "Allenton"
 county = "Saint Clair"
-longitude = -82.919818
 latitude = 42.938828
+longitude = -82.919818
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48002"
+

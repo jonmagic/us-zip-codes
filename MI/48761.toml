@@ -1,6 +1,8 @@
-zip_code = "48761"
-state = "MI"
 city = "South Branch"
 county = "Ogemaw"
-longitude = -83.959844
 latitude = 44.472352
+longitude = -83.959844
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "48761"
+

@@ -1,6 +1,8 @@
-zip_code = "49967"
-state = "MI"
 city = "Trout Creek"
 county = "Ontonagon"
-longitude = -89.085164
 latitude = 46.4931
+longitude = -89.085164
+state = "Michigan"
+state_code_alpha2 = "MI"
+zip_code = "49967"
+

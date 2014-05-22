@@ -1,6 +1,8 @@
-zip_code = "45810"
-state = "OH"
 city = "Ada"
 county = "Hardin"
-longitude = -83.700633
 latitude = 40.676042
+longitude = -83.700633
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45810"
+

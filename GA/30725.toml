@@ -1,6 +1,8 @@
-zip_code = "30725"
-state = "GA"
 city = "Flintstone"
 county = "Walker"
-longitude = -85.238041
 latitude = 34.846843
+longitude = -85.238041
+state = "Georgia"
+state_code_alpha2 = "GA"
+zip_code = "30725"
+

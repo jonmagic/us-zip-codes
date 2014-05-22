@@ -1,6 +1,8 @@
-zip_code = "25205"
-state = "WV"
 city = "Uneeda"
 county = "Boone"
-longitude = -81.805265
 latitude = 38.042839
+longitude = -81.805265
+state = "West Virginia"
+state_code_alpha2 = "WV"
+zip_code = "25205"
+

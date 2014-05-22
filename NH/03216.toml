@@ -1,6 +1,8 @@
-zip_code = "03216"
-state = "NH"
 city = "Andover"
 county = "Merrimack"
-longitude = -71.684093
 latitude = 43.447006
+longitude = -71.684093
+state = "New Hampshire"
+state_code_alpha2 = "NH"
+zip_code = "03216"
+

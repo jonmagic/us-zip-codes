@@ -1,6 +1,8 @@
-zip_code = "68863"
-state = "NE"
 city = "Overton"
 county = "Dawson"
-longitude = -99.521933
 latitude = 40.801246
+longitude = -99.521933
+state = "Nebraska"
+state_code_alpha2 = "NE"
+zip_code = "68863"
+

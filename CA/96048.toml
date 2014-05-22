@@ -1,6 +1,8 @@
-zip_code = "96048"
-state = "CA"
 city = "Junction City"
 county = "Trinity"
-longitude = -123.071788
 latitude = 40.741117
+longitude = -123.071788
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "96048"
+

@@ -1,6 +1,8 @@
-zip_code = "71711"
-state = "AR"
 city = "Camden"
 county = "Ouachita"
-longitude = -92.842649
 latitude = 33.589009
+longitude = -92.842649
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "71711"
+

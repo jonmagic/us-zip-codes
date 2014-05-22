@@ -1,6 +1,8 @@
-zip_code = "58494"
-state = "ND"
 city = "Wing"
 county = "Burleigh"
-longitude = -100.294569
 latitude = 47.157924
+longitude = -100.294569
+state = "North Dakota"
+state_code_alpha2 = "ND"
+zip_code = "58494"
+

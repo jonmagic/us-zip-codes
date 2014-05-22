@@ -1,6 +1,8 @@
-zip_code = "10510"
-state = "NY"
 city = "Briarcliff Manor"
 county = "Westchester"
-longitude = -73.829802
 latitude = 41.05978
+longitude = -73.829802
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10510"
+

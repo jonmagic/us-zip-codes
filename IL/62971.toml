@@ -1,6 +1,8 @@
-zip_code = "62971"
-state = "IL"
 city = "Oraville"
 county = "Jackson"
-longitude = -89.415831
 latitude = 37.758646
+longitude = -89.415831
+state = "Illinois"
+state_code_alpha2 = "IL"
+zip_code = "62971"
+

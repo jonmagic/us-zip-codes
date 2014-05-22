@@ -1,6 +1,8 @@
-zip_code = "23168"
-state = "VA"
 city = "Toano"
 county = "James City"
-longitude = -76.835415
 latitude = 37.394138
+longitude = -76.835415
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23168"
+

@@ -1,6 +1,8 @@
-zip_code = "53803"
-state = "WI"
 city = "Benton"
 county = "Lafayette"
-longitude = -90.350817
 latitude = 42.554499
+longitude = -90.350817
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "53803"
+

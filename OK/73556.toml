@@ -1,6 +1,8 @@
-zip_code = "73556"
-state = "OK"
 city = "Martha"
 county = "Jackson"
-longitude = -99.4154
 latitude = 34.719237
+longitude = -99.4154
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73556"
+

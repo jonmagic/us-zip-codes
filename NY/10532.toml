@@ -1,6 +1,8 @@
-zip_code = "10532"
-state = "NY"
 city = "Hawthorne"
 county = "Westchester"
-longitude = -73.835421
 latitude = 41.013742
+longitude = -73.835421
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "10532"
+

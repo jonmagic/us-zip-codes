@@ -1,6 +1,8 @@
-zip_code = "56547"
-state = "MN"
 city = "Glyndon"
 county = "Clay"
-longitude = -96.576425
 latitude = 46.870695
+longitude = -96.576425
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56547"
+

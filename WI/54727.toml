@@ -1,6 +1,8 @@
-zip_code = "54727"
-state = "WI"
 city = "Cadott"
 county = "Chippewa"
-longitude = -91.353301
 latitude = 45.015803
+longitude = -91.353301
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54727"
+

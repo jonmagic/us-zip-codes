@@ -1,6 +1,8 @@
-zip_code = "72479"
-state = "AR"
 city = "Weiner"
 county = "Poinsett"
-longitude = -90.873808
 latitude = 35.611992
+longitude = -90.873808
+state = "Arkansas"
+state_code_alpha2 = "AR"
+zip_code = "72479"
+

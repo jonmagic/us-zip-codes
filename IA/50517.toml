@@ -1,6 +1,8 @@
-zip_code = "50517"
-state = "IA"
 city = "Bancroft"
 county = "Kossuth"
-longitude = -94.251434
 latitude = 43.306166
+longitude = -94.251434
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "50517"
+

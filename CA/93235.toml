@@ -1,6 +1,8 @@
-zip_code = "93235"
-state = "CA"
 city = "Ivanhoe"
 county = "Tulare"
-longitude = -119.134101
 latitude = 36.375844
+longitude = -119.134101
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "93235"
+

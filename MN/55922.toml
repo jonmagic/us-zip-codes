@@ -1,6 +1,8 @@
-zip_code = "55922"
-state = "MN"
 city = "Canton"
 county = "Fillmore"
-longitude = -91.85297
 latitude = 43.527479
+longitude = -91.85297
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "55922"
+

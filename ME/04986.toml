@@ -1,6 +1,8 @@
-zip_code = "04986"
-state = "ME"
 city = "Thorndike"
 county = "Waldo"
-longitude = -69.183929
 latitude = 44.513048
+longitude = -69.183929
+state = "Maine"
+state_code_alpha2 = "ME"
+zip_code = "04986"
+

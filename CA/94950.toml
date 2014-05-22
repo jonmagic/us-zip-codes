@@ -1,6 +1,8 @@
-zip_code = "94950"
-state = "CA"
 city = "Olema"
 county = "Marin"
-longitude = -122.769854
 latitude = 38.046703
+longitude = -122.769854
+state = "California"
+state_code_alpha2 = "CA"
+zip_code = "94950"
+

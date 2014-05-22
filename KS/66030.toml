@@ -1,6 +1,8 @@
-zip_code = "66030"
-state = "KS"
 city = "Gardner"
 county = "Johnson"
-longitude = -94.94139
 latitude = 38.814998
+longitude = -94.94139
+state = "Kansas"
+state_code_alpha2 = "KS"
+zip_code = "66030"
+

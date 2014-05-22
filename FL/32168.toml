@@ -1,6 +1,8 @@
-zip_code = "32168"
-state = "FL"
 city = "New Smyrna Beach"
 county = "Volusia"
-longitude = -81.033705
 latitude = 28.951931
+longitude = -81.033705
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32168"
+

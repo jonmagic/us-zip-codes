@@ -1,6 +1,8 @@
-zip_code = "23923"
-state = "VA"
 city = "Charlotte Court House"
 county = "Charlotte"
-longitude = -78.637846
 latitude = 37.087895
+longitude = -78.637846
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "23923"
+

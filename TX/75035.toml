@@ -1,6 +1,8 @@
-zip_code = "75035"
-state = "TX"
 city = "Frisco"
 county = "Collin"
-longitude = -96.772929
 latitude = 33.157083
+longitude = -96.772929
+state = "Texas"
+state_code_alpha2 = "TX"
+zip_code = "75035"
+

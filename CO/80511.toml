@@ -1,6 +1,8 @@
-zip_code = "80511"
-state = "CO"
 city = "Estes Park"
 county = "Larimer"
-longitude = -105.569245
 latitude = 40.628112
+longitude = -105.569245
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80511"
+

@@ -1,6 +1,8 @@
-zip_code = "12946"
-state = "NY"
 city = "Lake Placid"
 county = "Essex"
-longitude = -73.734652
 latitude = 44.130663
+longitude = -73.734652
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "12946"
+

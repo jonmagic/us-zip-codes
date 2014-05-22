@@ -1,6 +1,8 @@
-zip_code = "13362"
-state = "NY"
 city = "Knoxboro"
 county = "Oneida"
-longitude = -75.518569
 latitude = 42.980334
+longitude = -75.518569
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13362"
+

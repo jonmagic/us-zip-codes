@@ -1,6 +1,8 @@
-zip_code = "05342"
-state = "VT"
 city = "Jacksonville"
 county = "Windham"
-longitude = -72.817838
 latitude = 42.795363
+longitude = -72.817838
+state = "Vermont"
+state_code_alpha2 = "VT"
+zip_code = "05342"
+

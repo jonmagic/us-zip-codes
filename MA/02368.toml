@@ -1,6 +1,8 @@
-zip_code = "02368"
-state = "MA"
 city = "Randolph"
 county = "Norfolk"
-longitude = -71.055602
 latitude = 42.171467
+longitude = -71.055602
+state = "Massachusetts"
+state_code_alpha2 = "MA"
+zip_code = "02368"
+

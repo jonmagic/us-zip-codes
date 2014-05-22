@@ -1,6 +1,8 @@
-zip_code = "43084"
-state = "OH"
 city = "Woodstock"
 county = "Champaign"
-longitude = -83.545445
 latitude = 40.1511
+longitude = -83.545445
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43084"
+

@@ -1,6 +1,8 @@
-zip_code = "56358"
-state = "MN"
 city = "Ogilvie"
 county = "Kanabec"
-longitude = -93.402621
 latitude = 45.833199
+longitude = -93.402621
+state = "Minnesota"
+state_code_alpha2 = "MN"
+zip_code = "56358"
+

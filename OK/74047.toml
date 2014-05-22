@@ -1,6 +1,8 @@
-zip_code = "74047"
-state = "OK"
 city = "Mounds"
 county = "Creek"
-longitude = -96.088684
 latitude = 35.889588
+longitude = -96.088684
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "74047"
+

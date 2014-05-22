@@ -1,6 +1,8 @@
-zip_code = "13132"
-state = "NY"
 city = "Pennellville"
 county = "Oswego"
-longitude = -76.229091
 latitude = 43.296808
+longitude = -76.229091
+state = "New York"
+state_code_alpha2 = "NY"
+zip_code = "13132"
+

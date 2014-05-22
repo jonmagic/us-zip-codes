@@ -1,6 +1,8 @@
-zip_code = "47943"
-state = "IN"
 city = "Fair Oaks"
 county = "Jasper"
-longitude = -87.208786
 latitude = 41.076883
+longitude = -87.208786
+state = "Indiana"
+state_code_alpha2 = "IN"
+zip_code = "47943"
+

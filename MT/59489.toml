@@ -1,6 +1,8 @@
-zip_code = "59489"
-state = "MT"
 city = "Winifred"
 county = "Fergus"
-longitude = -109.430106
 latitude = 47.065531
+longitude = -109.430106
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59489"
+

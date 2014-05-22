@@ -1,6 +1,8 @@
-zip_code = "41311"
-state = "KY"
 city = "Beattyville"
 county = "Lee"
-longitude = -83.714013
 latitude = 37.599904
+longitude = -83.714013
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41311"
+

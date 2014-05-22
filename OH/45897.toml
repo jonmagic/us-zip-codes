@@ -1,6 +1,8 @@
-zip_code = "45897"
-state = "OH"
 city = "Williamstown"
 county = "Hancock"
-longitude = -83.651785
 latitude = 40.834004
+longitude = -83.651785
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "45897"
+

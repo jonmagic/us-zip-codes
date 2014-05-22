@@ -1,6 +1,8 @@
-zip_code = "52535"
-state = "IA"
 city = "Birmingham"
 county = "Van Buren"
-longitude = -91.951174
 latitude = 40.827181
+longitude = -91.951174
+state = "Iowa"
+state_code_alpha2 = "IA"
+zip_code = "52535"
+

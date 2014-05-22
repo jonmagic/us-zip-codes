@@ -1,6 +1,8 @@
-zip_code = "33786"
-state = "FL"
 city = "Belleair Beach"
 county = "Pinellas"
-longitude = -82.839325
 latitude = 27.922922
+longitude = -82.839325
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "33786"
+

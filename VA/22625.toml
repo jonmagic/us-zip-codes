@@ -1,6 +1,8 @@
-zip_code = "22625"
-state = "VA"
 city = "Cross Junction"
 county = "Frederick"
-longitude = -78.310539
 latitude = 39.296066
+longitude = -78.310539
+state = "Virginia"
+state_code_alpha2 = "VA"
+zip_code = "22625"
+

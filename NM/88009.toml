@@ -1,6 +1,8 @@
-zip_code = "88009"
-state = "NM"
 city = "Playas"
 county = "Hidalgo"
-longitude = -108.62913
 latitude = 32.055007
+longitude = -108.62913
+state = "New Mexico"
+state_code_alpha2 = "NM"
+zip_code = "88009"
+

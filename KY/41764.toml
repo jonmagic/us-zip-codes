@@ -1,6 +1,8 @@
-zip_code = "41764"
-state = "KY"
 city = "Smilax"
 county = "Leslie"
-longitude = -83.253867
 latitude = 37.121424
+longitude = -83.253867
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "41764"
+

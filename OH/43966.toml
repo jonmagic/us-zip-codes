@@ -1,6 +1,8 @@
-zip_code = "43966"
-state = "OH"
 city = "Unionport"
 county = "Jefferson"
-longitude = -80.839519
 latitude = 40.360979
+longitude = -80.839519
+state = "Ohio"
+state_code_alpha2 = "OH"
+zip_code = "43966"
+

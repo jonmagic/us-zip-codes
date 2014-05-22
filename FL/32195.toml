@@ -1,6 +1,8 @@
-zip_code = "32195"
-state = "FL"
 city = "Weirsdale"
 county = "Marion"
-longitude = -81.87785
 latitude = 29.006144
+longitude = -81.87785
+state = "Florida"
+state_code_alpha2 = "FL"
+zip_code = "32195"
+

@@ -1,6 +1,8 @@
-zip_code = "80721"
-state = "CO"
 city = "Amherst"
 county = "Phillips"
-longitude = -102.3582
 latitude = 40.608363
+longitude = -102.3582
+state = "Colorado"
+state_code_alpha2 = "CO"
+zip_code = "80721"
+

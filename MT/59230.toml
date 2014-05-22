@@ -1,6 +1,8 @@
-zip_code = "59230"
-state = "MT"
 city = "Glasgow"
 county = "Valley"
-longitude = -106.474987
 latitude = 48.43923
+longitude = -106.474987
+state = "Montana"
+state_code_alpha2 = "MT"
+zip_code = "59230"
+

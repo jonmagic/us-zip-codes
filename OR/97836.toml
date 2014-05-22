@@ -1,6 +1,8 @@
-zip_code = "97836"
-state = "OR"
 city = "Heppner"
 county = "Morrow"
-longitude = -119.577731
 latitude = 45.301332
+longitude = -119.577731
+state = "Oregon"
+state_code_alpha2 = "OR"
+zip_code = "97836"
+

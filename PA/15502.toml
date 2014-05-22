@@ -1,6 +1,8 @@
-zip_code = "15502"
-state = "PA"
 city = "Hidden Valley"
 county = "Somerset"
-longitude = -79.258458
 latitude = 40.046023
+longitude = -79.258458
+state = "Pennsylvania"
+state_code_alpha2 = "PA"
+zip_code = "15502"
+

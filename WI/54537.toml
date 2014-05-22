@@ -1,6 +1,8 @@
-zip_code = "54537"
-state = "WI"
 city = "Kennan"
 county = "Price"
-longitude = -90.606178
 latitude = 45.528816
+longitude = -90.606178
+state = "Wisconsin"
+state_code_alpha2 = "WI"
+zip_code = "54537"
+

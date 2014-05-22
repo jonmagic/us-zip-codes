@@ -1,6 +1,8 @@
-zip_code = "73666"
-state = "OK"
 city = "Sweetwater"
 county = "Roger Mills"
-longitude = -99.682177
 latitude = 35.717616
+longitude = -99.682177
+state = "Oklahoma"
+state_code_alpha2 = "OK"
+zip_code = "73666"
+

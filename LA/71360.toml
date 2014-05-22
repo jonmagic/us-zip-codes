@@ -1,6 +1,8 @@
-zip_code = "71360"
-state = "LA"
 city = "Pineville"
 county = "Rapides"
-longitude = -92.320275
 latitude = 31.223184
+longitude = -92.320275
+state = "Louisiana"
+state_code_alpha2 = "LA"
+zip_code = "71360"
+

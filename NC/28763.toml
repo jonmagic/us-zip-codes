@@ -1,6 +1,8 @@
-zip_code = "28763"
-state = "NC"
 city = "Otto"
 county = "Macon"
-longitude = -83.38539
 latitude = 35.051539
+longitude = -83.38539
+state = "North Carolina"
+state_code_alpha2 = "NC"
+zip_code = "28763"
+

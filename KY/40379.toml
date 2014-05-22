@@ -1,6 +1,8 @@
-zip_code = "40379"
-state = "KY"
 city = "Stamping Ground"
 county = "Scott"
-longitude = -84.676123
 latitude = 38.306329
+longitude = -84.676123
+state = "Kentucky"
+state_code_alpha2 = "KY"
+zip_code = "40379"
+

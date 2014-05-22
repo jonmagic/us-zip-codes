@@ -1,6 +1,8 @@
-zip_code = "38220"
-state = "TN"
 city = "Atwood"
 county = "Carroll"
-longitude = -88.635869
 latitude = 35.98991
+longitude = -88.635869
+state = "Tennessee"
+state_code_alpha2 = "TN"
+zip_code = "38220"
+
